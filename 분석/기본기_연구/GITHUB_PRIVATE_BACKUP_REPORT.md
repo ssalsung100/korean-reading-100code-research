@@ -1,7 +1,7 @@
 # GitHub Private 백업 검증 보고서
 
 작성일: 2026-10-08
-상태: **PRIVATE 확인 대기 — 로컬 보안·LFS·원장 검증 완료**
+상태: **PRIVATE 확인 대기 — 로컬 commit 완료, 원격 push 보류**
 
 ## A. GitHub 저장소
 
@@ -11,7 +11,8 @@
 - SSH 계정 인증: `ssalsung100` 확인
 - `git ls-remote`: 종료 코드 0, 원격 ref 조회 성공
 - Visibility: 사용자의 GitHub 웹 Private 확인 응답 대기. 익명 웹/API 응답만으로 Private 여부를 입증하지 않음.
-- commit / push: 로컬 커밋은 검증 후 준비 가능, push는 Private 확인 후 수행
+- 최초 로컬 commit: `cae0f30859b9b6d71b40c06186f499a41e822c26`
+- push: 미실행. 원격 `main`은 아직 ref가 없으며 LFS 객체도 업로드되지 않음.
 
 ## B. 백업 대상 및 LFS
 
@@ -61,9 +62,9 @@
 
 ## E. 백업 결과 및 후속 조치
 
-- 결과: **로컬 staged / Private 확인 전 push 보류**
-- 원격 HEAD 일치 및 LFS 업로드: 해당 없음 (push 미실행)
+- 결과: **로컬 commit 완료 / Private 확인 전 push 보류**
+- 원격 HEAD 일치 및 LFS 업로드: 해당 없음 (push 미실행). `git ls-remote --heads origin main`은 exit 0, ref 없음.
 - `git diff --cached --check`: exit 2, 107,239개 진단(939개 파일; trailing whitespace 107,128건, blank-at-EOF 111건). 기존 원본 형식으로 판단해 연구 자료를 수정하지 않음.
 - 핵심 연구 파일 제외: 없음. 전체 파일 staging 자체를 수행하지 않음.
-- 재개 조건: 사용자가 GitHub 웹에서 저장소 Private 설정을 확인했다고 응답하거나 인증된 GitHub 조회로 Private을 입증할 것.
+- 재개 조건: 사용자가 GitHub 웹에서 저장소 Private 설정을 확인했다고 응답하거나 인증된 GitHub 조회로 Private을 입증할 것. 현재 실행 환경에는 `ssalsung100`의 인증된 GitHub API 토큰이 없어 인증 조회는 불가.
 - Private 확인 전 원격 push 금지. 기존 연구 파일, provenance, G024/G370 hold는 변경하지 않음.
