@@ -1,0 +1,90 @@
+{
+  "records": [
+    {
+      "label": "2022",
+      "kind": "answer",
+      "source_file": "자료/LEET_언어이해/원본/2022/2022_answer_2022_LEET_언어이해_정답표_배포용.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2022/2022_answer.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2022/2022_answer_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 2,
+      "reused": true
+    },
+    {
+      "label": "2022",
+      "kind": "question_even",
+      "source_file": "자료/LEET_언어이해/원본/2022/2022_question_even_2022_LEET_언어이해(짝수형)_배포용.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2022/2022_question_even.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2022/2022_question_even_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 15,
+      "reused": true
+    },
+    {
+      "label": "2022",
+      "kind": "question_odd",
+      "source_file": "자료/LEET_언어이해/원본/2022/2022_question_odd_2022_LEET_언어이해(홀수형)_배포용.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2022/2022_question_odd.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2022/2022_question_odd_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 15,
+      "reused": true
+    },
+    {
+      "label": "2023",
+      "kind": "answer",
+      "source_file": "자료/LEET_언어이해/원본/2023/2023_answer_언어이해정답.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2023/2023_answer.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2023/2023_answer_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 2,
+      "reused": true
+    },
+    {
+      "label": "2023",
+      "kind": "question_even",
+      "source_file": "자료/LEET_언어이해/원본/2023/2023_question_even_언어이해짝수형.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2023/2023_question_even.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2023/2023_question_even_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 15,
+      "reused": true
+    },
+    {
+      "label": "2023",
+      "kind": "question_odd",
+      "source_file": "자료/LEET_언어이해/원본/2023/2023_question_odd_언어이해홀수형.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2023/2023_question_odd.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2023/2023_question_odd_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 15
+    },
+    {
+      "label": "2024",
+      "kind": "answer",
+      "source_file": "자료/LEET_언어이해/원본/2024/2024_answer_2024언어이해정답.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2024/2024_answer.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2024/2024_answer_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 2
+    },
+    {
+      "label": "2025",
+      "kind": "answer",
+      "source_file": "자료/LEET_언어이해/원본/2025/2025_answer_2025언어이해정답.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2025/2025_answer.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2025/2025_answer_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 2
+    },
+    {
+      "label": "2027",
+      "kind": "question",
+      "source_file": "자료/LEET_언어이해/원본/2027/2027_question_2027_언어이해.pdf",
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "diagnostics_file": "자료/LEET_언어이해/OCR_초안/2027/2027_question_diagnostics.json",
+      "status": "unverified_ocr",
+      "page_count": 15
+    }
+  ]
+}

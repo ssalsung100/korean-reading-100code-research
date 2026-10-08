@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
+ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+QUEUE="$ROOT/data/기본기_연구/astra_handoff_queue.jsonl"
+PROCESSED="$ROOT/data/기본기_연구/astra_handoff_processed.jsonl"
+
+pending_count() {
+  node - "$QUEUE" "$PROCESSED" <<'NODE'
+const fs=require('fs');
+const [queue,processed]=process.argv.slice(2);
+const done=new Set(fs.readFileSync(processed,'utf8').split(/\n/).filter(Boolean).map(x=>{try{return JSON.parse(x).source_record_id}catch{return null}}));
+let n=0;
+for(const line of fs.readFileSync(queue,'utf8').split(/\n/).filter(Boolean)){try{if(!done.has(JSON.parse(line).record_id))n++}catch{}}
+process.stdout.write(String(n));
+NODE
+}
+
+# Hard-limit recovery preflight: never start new Astra semantic work while raw
+# handoff records are pending. Luna receives only its handoff prompt and repo.
+if [ -f "$QUEUE" ] && [ -f "$PROCESSED" ]; then
+  pending="$(pending_count)"
+  if [ "${pending:-0}" -gt 0 ]; then
+    echo "cxresearch: 미처리 Astra raw $pending건이 있어 Luna recovery를 먼저 실행합니다."
+    LUNA_CMD=(codex -a never exec -C "$ROOT" -m gpt-5.6-luna -s workspace-write --skip-git-repo-check \
+      -c model_reasoning_effort=medium --json)
+    set +e
+    "${LUNA_CMD[@]}" < "$SCRIPT_DIR/cxcycle_luna_prompt.md"
+    luna_status=$?
+    set -e
+    if [ "$luna_status" -ne 0 ]; then
+      echo "cxresearch: Luna recovery 실패($luna_status); Astra를 시작하지 않습니다." >&2
+      exit "$luna_status"
+    fi
+    pending_after="$(pending_count)"
+    if [ "${pending_after:-0}" -gt 0 ]; then
+      echo "cxresearch: Luna recovery 후 미처리 Astra raw ${pending_after}건이 남아 Astra를 시작하지 않습니다." >&2
+      exit 12
+    fi
+  fi
+fi
+
+INITIAL_PROMPT="$(<"$SCRIPT_DIR/cxresearch_prompt.md")"
+
+exec "$SCRIPT_DIR/cx1m" "$INITIAL_PROMPT"

@@ -1,0 +1,32 @@
+{
+  "blind_only": true,
+  "passage_group": "G132",
+  "case_id": "UL",
+  "source_role": "mechanical_canonical_figure_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+    "source_sha256": "e0b143398556490c695aa75c7ad42b585bcbea98bb9a1487b928533de97145a2",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "figure_paragraph_index": 1256,
+    "figure_duplicate_render_paragraph_index": 1265,
+    "label_paragraph_index": 1266,
+    "canonical_binary_refs": ["image26", "image27"]
+  },
+  "figure_mapping": [
+    {
+      "label": "㉠ k 번째 프레임",
+      "canonical_binary_ref": "image26",
+      "extracted_file": "data/기본기_연구/prepared_backlog/blind_sources/UL_G132_frame_㉠_image26.png",
+      "sha256": "e32e373d37e8b06516e5fc0b5c8774a1b4836d0d52a4aede5e19cf223f7a950a"
+    },
+    {
+      "label": "㉡ k + 1 번째 프레임",
+      "canonical_binary_ref": "image27",
+      "extracted_file": "data/기본기_연구/prepared_backlog/blind_sources/UL_G132_frame_㉡_image27.png",
+      "sha256": "70c6c60c1332b57c5a9838d313d1b3baa7e33e3037dd499e441958082a429f7b"
+    }
+  ],
+  "label_text_verbatim": "㉠ k 번째 프레임     ㉡ k + 1 번째 프레임",
+  "scope_note": "두 프레임 이미지와 표시 대응만 canonical HWPX에서 추출했다. 이미지 내용의 의미 풀이, 답·SDSS·해설·기존 판단은 포함하지 않는다."
+}

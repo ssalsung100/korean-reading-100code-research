@@ -1,0 +1,1631 @@
+[
+  {
+    "year": "2010",
+    "range": [
+      19,
+      21
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2010/2010_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2010.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "19": 5,
+      "20": 5,
+      "21": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 0
+      }
+    ],
+    "marker_counts": {
+      "표": 1
+    },
+    "columnset_paragraph_count": 560,
+    "anchor": {
+      "passage_chars": 2496,
+      "unique_anchor_hits": 177,
+      "coverage": 0.9984,
+      "xml_para_start": 268,
+      "xml_para_end": 336,
+      "first_hits": [
+        [
+          0,
+          268
+        ],
+        [
+          14,
+          268
+        ],
+        [
+          28,
+          270
+        ],
+        [
+          42,
+          272
+        ],
+        [
+          56,
+          273
+        ],
+        [
+          70,
+          273
+        ]
+      ],
+      "last_hits": [
+        [
+          2394,
+          333
+        ],
+        [
+          2408,
+          333
+        ],
+        [
+          2422,
+          335
+        ],
+        [
+          2436,
+          335
+        ],
+        [
+          2450,
+          336
+        ],
+        [
+          2464,
+          336
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "",
+        "after": "   (조당전, 미닫이 앞에 와서 당나귀를 멈춘다.) 조당전：기와집 문 앞이야. 김시향：조용하군요, 여전히……. 조당전：음……. 김시향：우리가 왔다고 말해요. 조당전：(당나귀에서 내려와 목소리를 가다듬고 말한다.) 문안드리오! 지난 "
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "2010 p266의 HWP TableControl은 1x1 단일 셀이며 본문 138자 전부가 연속 산문이다. marker가 문항 범위 시작 직전에 놓이고 이후 지문이 p268부터 고정되어 해당 단일 셀을 시작 marker와 순서 대응한다.",
+    "proposed_action": "marker 1개를 HWP 셀의 산문으로 대체",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2011",
+    "range": [
+      6,
+      8
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2011.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "6": 5,
+      "7": 5,
+      "8": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 272
+      },
+      {
+        "location": "stem",
+        "question": 6,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 8
+      }
+    ],
+    "marker_counts": {
+      "그림": 2
+    },
+    "columnset_paragraph_count": 518,
+    "anchor": {
+      "passage_chars": 1556,
+      "unique_anchor_hits": 108,
+      "coverage": 0.9987,
+      "xml_para_start": 79,
+      "xml_para_end": 84,
+      "first_hits": [
+        [
+          0,
+          79
+        ],
+        [
+          14,
+          79
+        ],
+        [
+          28,
+          79
+        ],
+        [
+          42,
+          79
+        ],
+        [
+          56,
+          79
+        ],
+        [
+          70,
+          79
+        ]
+      ],
+      "last_hits": [
+        [
+          1456,
+          84
+        ],
+        [
+          1470,
+          84
+        ],
+        [
+          1484,
+          84
+        ],
+        [
+          1498,
+          84
+        ],
+        [
+          1512,
+          84
+        ],
+        [
+          1526,
+          84
+        ]
+      ]
+    },
+    "controls": [
+      {
+        "anchor_para": 79,
+        "control_order": 40,
+        "control_name": "사각형",
+        "page": 3,
+        "column": 1,
+        "line": 11,
+        "anchor_pos": 273
+      }
+    ],
+    "textboxes": [
+      {
+        "anchor_para": 79,
+        "box": 1,
+        "text": "철학적 근대",
+        "normalized_len": 5
+      }
+    ],
+    "exact_assets": [],
+    "preliminary_classification": "VERIFIED_TEXTBOX_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<그림>",
+        "before": "이다. 왜냐하면 근대 철학의 진행 과정에는 이성의 독주에 맞서 감성에 적극적인 의미와 가치를 부여하고자 한 다양한 사조들 역시 유의미한 반대 노선으로 등장했기 때문이다. 그렇다면 ",
+        "after": " 는 어떤 곡절을 거쳤기에 그러한 귀결에 이르렀을까? 이 물음에 대한 답을 얻는 데 하나의 중요한 단서를 제공하는 것이 바로 ‘새로운 신화학’이라는 사상 운동이다. 그중 1913년에 발견된 후, 후일 ｢독일 관념론의 가장 오래된 체계"
+      },
+      {
+        "location": "stem",
+        "question": 6,
+        "choice": null,
+        "token": "<그림>",
+        "before": "위 글에 따라 ",
+        "after": " 의 전개 과정을 가장 잘 요약한 것은?"
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "2011 p79 및 Q6 p86 ShapeComponent/TextboxParagraphList에 동일 문자열 “철학적 근대”가 있다. marker 위치·순서가 passage 1회, Q6 stem 1회와 일치한다.",
+    "proposed_action": "passage와 Q6 stem textbox text 복원",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2011",
+    "range": [
+      9,
+      11
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2011.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "9": 5,
+      "10": 5,
+      "11": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 1457
+      },
+      {
+        "location": "stem",
+        "question": 10,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 26
+      },
+      {
+        "location": "stem",
+        "question": 11,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 93
+      }
+    ],
+    "marker_counts": {
+      "그림": 2,
+      "표": 1
+    },
+    "columnset_paragraph_count": 518,
+    "anchor": {
+      "passage_chars": 1483,
+      "unique_anchor_hits": 102,
+      "coverage": 0.9912,
+      "xml_para_start": 119,
+      "xml_para_end": 123,
+      "first_hits": [
+        [
+          0,
+          119
+        ],
+        [
+          14,
+          119
+        ],
+        [
+          28,
+          119
+        ],
+        [
+          42,
+          119
+        ],
+        [
+          56,
+          119
+        ],
+        [
+          70,
+          119
+        ]
+      ],
+      "last_hits": [
+        [
+          1372,
+          123
+        ],
+        [
+          1386,
+          123
+        ],
+        [
+          1400,
+          123
+        ],
+        [
+          1414,
+          123
+        ],
+        [
+          1428,
+          123
+        ],
+        [
+          1442,
+          123
+        ]
+      ]
+    },
+    "controls": [
+      {
+        "anchor_para": 123,
+        "control_order": 42,
+        "control_name": "사각형",
+        "page": 4,
+        "column": 2,
+        "line": 15,
+        "anchor_pos": 9
+      }
+    ],
+    "textboxes": [
+      {
+        "anchor_para": 123,
+        "box": 1,
+        "text": "권리의 문법",
+        "normalized_len": 5
+      }
+    ],
+    "exact_assets": [],
+    "preliminary_classification": "VERIFIED_TEXTBOX_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<그림>",
+        "before": "그 상대방은 동시에 면제권을 가질 수 없다. 마찬가지로 자유권자의 상대방은 동시에 청구권을 가질 수 없고, 면제권자의 상대방 또한 동시에 형성권을 가질 수 없다. 호펠드는 이러한 ",
+        "after": " 에 근거하여 ‘퀸 대(對) 리덤’ 사건 판결문의 오류를 지적함으로써 법철학 이론도 법률 실무에 충분히 기여할 수 있음을 보여 주었다. 판결의 취지는 다음과 같았다. “육류 생산업자인 원고에게는 피고가 속해 있는 도축업자 노조의 조합"
+      },
+      {
+        "location": "stem",
+        "question": 10,
+        "choice": null,
+        "token": "<그림>",
+        "before": "두 사람 사이의 단일한 권리 관계에서 볼 때, ",
+        "after": " 에 대한 이해로 옳지 않은 것은?"
+      },
+      {
+        "location": "stem",
+        "question": 11,
+        "choice": null,
+        "token": "<표>",
+        "before": "호펠드의 근본 개념들이 <보기>의 상황에 적용된다고 가정했을 때, 이에 대한 설명으로 가장 적절한 것은? (단, <보기>에 제시되지 않은 상황은 고려하지 않는다.)  ",
+        "after": ""
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "p123 passage 및 Q10 stem p133의 textbox text가 동일 “권리의 문법”이다. Q11 stem marker는 p142 TableControl의 보기 본문이며 3x2/6셀 중 제목 셀과 연속 산문 셀만 채워져 데이터 관계는 없다.",
+    "proposed_action": "textbox 2곳과 prose-only 보기 본문 복원",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2011",
+    "range": [
+      27,
+      29
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2011.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "27": 5,
+      "28": 5,
+      "29": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 117
+      },
+      {
+        "location": "stem",
+        "question": 29,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 37
+      }
+    ],
+    "marker_counts": {
+      "표": 2
+    },
+    "columnset_paragraph_count": 518,
+    "anchor": {
+      "passage_chars": 1608,
+      "unique_anchor_hits": 111,
+      "coverage": 0.9925,
+      "xml_para_start": 389,
+      "xml_para_end": 405,
+      "first_hits": [
+        [
+          0,
+          389
+        ],
+        [
+          14,
+          389
+        ],
+        [
+          28,
+          390
+        ],
+        [
+          42,
+          390
+        ],
+        [
+          84,
+          391
+        ],
+        [
+          98,
+          391
+        ]
+      ],
+      "last_hits": [
+        [
+          1498,
+          404
+        ],
+        [
+          1512,
+          405
+        ],
+        [
+          1526,
+          405
+        ],
+        [
+          1540,
+          405
+        ],
+        [
+          1554,
+          405
+        ],
+        [
+          1568,
+          405
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "현이 글로 아뢰기를, “근일의 전지(傳旨)에, ‘관상감․사역원․전의감․혜민서는 본래 사족(士族)이 아니니 문반(文班)과 무반(武班)에 넣지 말고 내의원만 넣어라.’ 하셨습니다.  ",
+        "after": " 하오나 신은 천문, 지리, 복서(卜筮), 의약, 통역 등 일체의 잡학(雜學)은 나라를 다스리는 데 도움이 되지 아니하는 것이 없으므로 그중에서 하나도 빼놓을 수가 없는 것이라고 생각합니다. 조종조(祖宗朝)로부터 잡학을 문반의 직임으"
+      },
+      {
+        "location": "stem",
+        "question": 29,
+        "choice": null,
+        "token": "<표>",
+        "before": "위 글의 [A]와 <보기>를 비교한 것으로 적절하지 않은 것은?  ",
+        "after": ""
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "passage marker 위치의 p391 TableControl은 [A] 표지만 포함한다. Q29 stem p428은 3x2/6셀 TableControl이며 제목 셀과 연속 산문 셀만 비어 있지 않다.",
+    "proposed_action": "[A]와 Q29의 prose-only 보기 복원",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2012",
+    "range": [
+      27,
+      29
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2012/2012_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2012.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "27": 5,
+      "28": 5,
+      "29": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 603
+      }
+    ],
+    "marker_counts": {
+      "표": 1
+    },
+    "columnset_paragraph_count": 520,
+    "anchor": {
+      "passage_chars": 1945,
+      "unique_anchor_hits": 135,
+      "coverage": 0.9933,
+      "xml_para_start": 363,
+      "xml_para_end": 397,
+      "first_hits": [
+        [
+          0,
+          363
+        ],
+        [
+          14,
+          364
+        ],
+        [
+          28,
+          364
+        ],
+        [
+          42,
+          364
+        ],
+        [
+          56,
+          365
+        ],
+        [
+          70,
+          365
+        ]
+      ],
+      "last_hits": [
+        [
+          1834,
+          396
+        ],
+        [
+          1848,
+          396
+        ],
+        [
+          1862,
+          396
+        ],
+        [
+          1876,
+          396
+        ],
+        [
+          1890,
+          397
+        ],
+        [
+          1904,
+          397
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "것이다. “그래? 죽어도 이살 못 하겠단 말이지? 이 동네가 그렇게두 좋아?” “누가 좋다고 그랬나요?” “그럼 뭐야?” “이 동네에 들인 공이 아까워서예요. 생각해 보세요.”  ",
+        "after": " 우리네 장닭의 당당한 울음소리를 들을 수 없게 된 지도 오래였다. 게다 이제 갓 깡깡깡 우는 법을 배우기 시작한 장끼놈은 붙들네의 개가 쳐들어와 물어 죽여 버리고, 까투리는 목 너머 마을 양계장 집 누렁이가, 이제 남은 것은 이천의"
+      }
+    ],
+    "final_classification": "VERIFIED_ARTIFACT",
+    "classification_evidence": "coverage 0.9933, span p363–397. passage marker 전후 텍스트가 XML 본문에 연속 anchor되고 target span에 관련 control이 없다. 문맥상 marker 제거 후에도 문장 경계가 보존된다. restore helper also requires exact adjacent phrase signatures before deletion.",
+    "proposed_action": "passage marker 1개만 삭제",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2014",
+    "range": [
+      23,
+      25
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2014/2014_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2014.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "23": 5,
+      "24": 5,
+      "25": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 1112
+      },
+      {
+        "location": "stem",
+        "question": 25,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 0
+      }
+    ],
+    "marker_counts": {
+      "표": 2
+    },
+    "columnset_paragraph_count": 570,
+    "anchor": {
+      "passage_chars": 1486,
+      "unique_anchor_hits": 103,
+      "coverage": 0.9987,
+      "xml_para_start": 344,
+      "xml_para_end": 349,
+      "first_hits": [
+        [
+          0,
+          344
+        ],
+        [
+          14,
+          344
+        ],
+        [
+          28,
+          344
+        ],
+        [
+          42,
+          344
+        ],
+        [
+          56,
+          344
+        ],
+        [
+          70,
+          344
+        ]
+      ],
+      "last_hits": [
+        [
+          1386,
+          349
+        ],
+        [
+          1400,
+          349
+        ],
+        [
+          1414,
+          349
+        ],
+        [
+          1428,
+          349
+        ],
+        [
+          1442,
+          349
+        ],
+        [
+          1456,
+          349
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "다면 집합 행동 문제는 애초에 존재하지 않았던 것이 된다. 따라서 위임의 문제를 제대로 다루기 위해서는 기능주의 이론이 아니라 정치적 거래 비용 이론의 관점에서 접근해야 한다.  ",
+        "after": " 은 위임의 설계 과정에서 일어나는 경쟁과 갈등에 주목하면서 위임을 정치적 불확실성과 분배의 갈등에 기초한 정치적 경쟁의 산물로 이해한다. 민주주의의 특징은 어떤 정치 행위자도 공공 정책을 수립하고 집행하는 권한을 안정적으로 갖지 않"
+      },
+      {
+        "location": "stem",
+        "question": 25,
+        "choice": null,
+        "token": "<표>",
+        "before": "",
+        "after": " 을 적용한 설명으로 보기 어려운 것은?"
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "p348 passage 및 p378 Q25 stem 각각의 1x1 TableControl에 동일 단일 문자열 “정치적 거래 비용 이론”이 있다. 행·열 관계가 없다.",
+    "proposed_action": "passage와 Q25 stem text 복원",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2014",
+    "range": [
+      26,
+      29
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2014/2014_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2014.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 4,
+    "choice_counts": {
+      "26": 5,
+      "27": 5,
+      "28": 5,
+      "29": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 2525
+      },
+      {
+        "location": "stem",
+        "question": 29,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 13
+      }
+    ],
+    "marker_counts": {
+      "표": 2
+    },
+    "columnset_paragraph_count": 570,
+    "anchor": {
+      "passage_chars": 2135,
+      "unique_anchor_hits": 149,
+      "coverage": 0.9967,
+      "xml_para_start": 399,
+      "xml_para_end": 413,
+      "first_hits": [
+        [
+          0,
+          399
+        ],
+        [
+          14,
+          399
+        ],
+        [
+          28,
+          399
+        ],
+        [
+          42,
+          399
+        ],
+        [
+          56,
+          399
+        ],
+        [
+          70,
+          399
+        ]
+      ],
+      "last_hits": [
+        [
+          2030,
+          412
+        ],
+        [
+          2044,
+          413
+        ],
+        [
+          2058,
+          413
+        ],
+        [
+          2072,
+          413
+        ],
+        [
+          2086,
+          413
+        ],
+        [
+          2100,
+          413
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": " 목소리가 쉬지 않고 흘러나왔다. 나는 차라리 모든 것이 떠나가 주면 좋겠다고 생각했다. 말없는 아르판도, 나를 가난과 질병의 고통으로부터 구해 준 저 책도, 불멸을 향한 아찔한 ",
+        "after": " 도, 저주받을 욕망과 열정도, 죄의식에 억눌려 살아가야 할 앞으로의 나날도 모두, 모두. 조금 지나 아르판이 눈을 떴다. 맑고 굵은 눈에 형언할 수 없는 복잡한 빛이 어려 있었다. 잠시 나를 보더니, 천천히 일어났다. 일어나고 일어"
+      },
+      {
+        "location": "stem",
+        "question": 29,
+        "choice": null,
+        "token": "<표>",
+        "before": "‘나’가 자신의 행위를 ",
+        "after": " 으로 생각한 이유로 가장 적절한 것은?"
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "p410 passage 및 p450 Q29 stem 각각의 1x1 TableControl에 동일 단일 문자열 “기만”이 있다. 행·열 관계가 없다.",
+    "proposed_action": "passage와 Q29 stem text 복원",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2015",
+    "range": [
+      17,
+      20
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2015/2015_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2015.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 4,
+    "choice_counts": {
+      "17": 5,
+      "18": 5,
+      "19": 5,
+      "20": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 230
+      },
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 1627
+      },
+      {
+        "location": "stem",
+        "question": 19,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 0
+      }
+    ],
+    "marker_counts": {
+      "표": 3
+    },
+    "columnset_paragraph_count": 448,
+    "anchor": {
+      "passage_chars": 1773,
+      "unique_anchor_hits": 121,
+      "coverage": 0.9949,
+      "xml_para_start": 201,
+      "xml_para_end": 212,
+      "first_hits": [
+        [
+          0,
+          201
+        ],
+        [
+          14,
+          201
+        ],
+        [
+          28,
+          201
+        ],
+        [
+          42,
+          201
+        ],
+        [
+          56,
+          201
+        ],
+        [
+          70,
+          201
+        ]
+      ],
+      "last_hits": [
+        [
+          1666,
+          212
+        ],
+        [
+          1680,
+          212
+        ],
+        [
+          1694,
+          212
+        ],
+        [
+          1708,
+          212
+        ],
+        [
+          1722,
+          212
+        ],
+        [
+          1736,
+          212
+        ]
+      ]
+    },
+    "controls": [
+      {
+        "anchor_para": 203,
+        "control_order": 40,
+        "control_name": "표",
+        "page": 8,
+        "column": 2,
+        "line": 9,
+        "anchor_pos": 280
+      }
+    ],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "UNRESOLVED_CONTROL_PRESENT",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "현되었다가 곧 사라지고 만다. 이러한 주요한의 슬픔이 실현되지 아니한 가능성의 슬픔이라면, 소월의 슬픔은 차단되어 버린 가능성을 깨닫는 데서 오는 슬픔이다. 그는 쓰고 있다.   ",
+        "after": "   김소월에게서 우리는 생에 대한 깊은 허무주의를 발견한다. 이 허무주의는 소월이 보다 큰 시적 발전을 이루는 데 커다란 장애물이 된다. 허무주의는 그로 하여금 보다 넓은 데로 향하는 생의 에너지를 상실하게 하고, 그의 시로 하여금"
+      },
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "니라 감정과 직관이 진실을 아는 데 보다 적절한 수단으로 느껴졌던 것이다. 그러니까 ㉡서구 낭만주의의 가장 근원적인 충동의 하나는 영국의 영문학자 허버트 그리슨 경의 말을 빌면, ",
+        "after": " 이었다. 이 전율은 감정의 침례(浸禮)를, 보다 다양하고 새로운 가능성에 관한 직관으로 변용시킨다. 한국의 낭만주의가 결하고 있는 것은 이 전율, 곧 사물의 핵심에까지 꿰뚫어 보고야 말겠다는 형이상학적 충동이었다. 이 결여가 성급한"
+      },
+      {
+        "location": "stem",
+        "question": 19,
+        "choice": null,
+        "token": "<표>",
+        "before": "",
+        "after": " 에 대한 진술로 적절하지 않은 것은?"
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "p203의 1x1 TableControl에 시구 한 줄, p210 및 Q19 stem p236의 1x1 TableControl에 “형이상학적 전율”이 있다. 표의 행·열 관계는 없다.",
+    "proposed_action": "passage marker 2개와 Q19 stem marker 복원",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2016",
+    "range": [
+      33,
+      35
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2016/2016_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2016.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "33": 5,
+      "34": 5,
+      "35": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 515
+      },
+      {
+        "location": "choice",
+        "question": 35,
+        "choice": 5,
+        "token": "표",
+        "raw_offset": 95
+      }
+    ],
+    "marker_counts": {
+      "표": 2
+    },
+    "columnset_paragraph_count": 448,
+    "anchor": {
+      "passage_chars": 1508,
+      "unique_anchor_hits": 104,
+      "coverage": 0.9934,
+      "xml_para_start": 414,
+      "xml_para_end": 420,
+      "first_hits": [
+        [
+          0,
+          414
+        ],
+        [
+          14,
+          414
+        ],
+        [
+          28,
+          414
+        ],
+        [
+          42,
+          414
+        ],
+        [
+          56,
+          414
+        ],
+        [
+          70,
+          414
+        ]
+      ],
+      "last_hits": [
+        [
+          1400,
+          419
+        ],
+        [
+          1414,
+          420
+        ],
+        [
+          1428,
+          420
+        ],
+        [
+          1442,
+          420
+        ],
+        [
+          1456,
+          420
+        ],
+        [
+          1470,
+          420
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "낯설지 않게 되었다. 17세기의 학자인 라이프니츠도 로마법 자료에 대해 비판적으로 접근하여 새로운 논의를 이끌어 내려 하였다. 다음은 ｢학설휘찬｣에 나오는 파울루스의 글이다.   ",
+        "after": " 펠릭스가 자신의 농장에 대해 에우티치아나(A), 투르보(B), 티티우스(C)에게 순차적으로 저당권을 설정해 준 것이 실질적 법률관계이다. 그런데 A는 C와의 소송에서 자신의 순위를 입증하지 못하여 패소하였고, 판결이 확정되었다. 이"
+      },
+      {
+        "location": "choice",
+        "question": 35,
+        "choice": 5,
+        "token": "<표>",
+        "before": "권리를 입증하지 못하여 패소한 이가 이후에 자신이 당사자가 아닌 소송의 판결 때문에 거듭 불이익을 받을 수 있다는 결론이 도출되지만, 그것이 부당하지 않다고 보았다.   ",
+        "after": ""
+      }
+    ],
+    "final_classification": "UNRESOLVED",
+    "classification_evidence": "Q35 choice5 marker is a standalone EOF line after two blank lines. No next question appears, and HWP p445 is the choice, p446 blank, p447 footer; however this source-tail boundary cannot be proven to belong outside the target choice with certainty. Marker is retained.",
+    "proposed_action": "restore passage [가], retain choice5 marker, keep group NEEDS_RESTORE",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2019",
+    "range": [
+      28,
+      30
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2019/2019_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2019.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "28": 5,
+      "29": 5,
+      "30": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 70
+      },
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 1889
+      },
+      {
+        "location": "stem",
+        "question": 28,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 0
+      },
+      {
+        "location": "choice",
+        "question": 30,
+        "choice": 5,
+        "token": "표",
+        "raw_offset": 70
+      }
+    ],
+    "marker_counts": {
+      "그림": 2,
+      "표": 2
+    },
+    "columnset_paragraph_count": 367,
+    "anchor": {
+      "passage_chars": 1523,
+      "unique_anchor_hits": 103,
+      "coverage": 0.9928,
+      "xml_para_start": 336,
+      "xml_para_end": 340,
+      "first_hits": [
+        [
+          0,
+          336
+        ],
+        [
+          14,
+          336
+        ],
+        [
+          56,
+          336
+        ],
+        [
+          70,
+          336
+        ],
+        [
+          84,
+          336
+        ],
+        [
+          98,
+          336
+        ]
+      ],
+      "last_hits": [
+        [
+          1414,
+          340
+        ],
+        [
+          1428,
+          340
+        ],
+        [
+          1442,
+          340
+        ],
+        [
+          1456,
+          340
+        ],
+        [
+          1470,
+          340
+        ],
+        [
+          1484,
+          340
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<그림>",
+        "before": "프랑스 혁명 이후에는 법관의 자의적 해석의 여지를 없애기 위하여 법률을 명확히 기술하여야 한다는 생각이 자리 잡았다. 이러한 ",
+        "after": " 에서 법은 그 적용을 받는 국민 개개인이 이해할 수 있게끔 제정되어야 한다. 법이 정하고 있는 바가 무엇인지를 국민이 이해할 수 있어야 법을 통한 행위의 지도와 평가도 가능하기 때문이다. 이에 따라 형사법 분야에서는 형벌 법규의 내"
+      },
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "제정되어 평균적인 일반인이 직접 그 의미 내용을 정확히 파악할 수 없다 하더라도 법관의 보충적인 해석을 통해서 그 의미 내용을 확인할 수 있다면 크게 문제되지 않는다는 것이다.  ",
+        "after": " 다만 이와 같은 대답에 대하여는 여전히 의문이 생긴다. 국민 각자가 법이 요구하는 바를 이해할 수 있어야 된다는 이념은 사실 ‘일반인’이라는 추상화된 개념의 도입을 통해 한 차례 타협을 겪은 것이었다. 그런데 ‘전문가’라는 기준을 "
+      },
+      {
+        "location": "stem",
+        "question": 28,
+        "choice": null,
+        "token": "<그림>",
+        "before": "",
+        "after": " 에 관한 설명으로 가장 적절한 것은?"
+      },
+      {
+        "location": "choice",
+        "question": 30,
+        "choice": 5,
+        "token": "<표>",
+        "before": "행위가 법률로 금지되는 것인지 여부를 행위 당시에 알 수 있었는지에 대하여 법관은 입법자의 입장에서 판단해야 할 것이다.   ",
+        "after": ""
+      }
+    ],
+    "final_classification": "UNRESOLVED",
+    "classification_evidence": "Q30 choice5 marker is a standalone EOF line after two blank lines. No next question appears, and HWP p364 is the choice, p365 blank, p366 footer; however this source-tail boundary cannot be proven to belong outside the target choice with certainty. Marker is retained.",
+    "proposed_action": "restore verified passage/stem text, retain choice5 marker, keep group NEEDS_RESTORE",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2020",
+    "range": [
+      16,
+      18
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2020/2020_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2020.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "16": 5,
+      "17": 5,
+      "18": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 981
+      },
+      {
+        "location": "stem",
+        "question": 17,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 0
+      }
+    ],
+    "marker_counts": {
+      "그림": 2
+    },
+    "columnset_paragraph_count": 411,
+    "anchor": {
+      "passage_chars": 1744,
+      "unique_anchor_hits": 121,
+      "coverage": 0.9954,
+      "xml_para_start": 205,
+      "xml_para_end": 209,
+      "first_hits": [
+        [
+          0,
+          205
+        ],
+        [
+          14,
+          205
+        ],
+        [
+          28,
+          205
+        ],
+        [
+          42,
+          205
+        ],
+        [
+          56,
+          205
+        ],
+        [
+          70,
+          205
+        ]
+      ],
+      "last_hits": [
+        [
+          1638,
+          209
+        ],
+        [
+          1652,
+          209
+        ],
+        [
+          1666,
+          209
+        ],
+        [
+          1680,
+          209
+        ],
+        [
+          1694,
+          209
+        ],
+        [
+          1708,
+          209
+        ]
+      ]
+    },
+    "controls": [],
+    "textboxes": [],
+    "exact_assets": [],
+    "preliminary_classification": "ARTIFACT_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<그림>",
+        "before": " 없는 존재이다. 결국 소외 계급에서 출현한 전문가가 유기적 지식인이 되도록 계급의식을 일깨우는 계몽적 역할이 지식인에게 부여되는 것이다. 오늘날 인터넷의 발달로 가상공간이 열려 ",
+        "after": " 와 사회 공간이 창조되면서 지식의 개념도 변하고 있다. 또한 디지털화된 다양한 정보들이 연쇄적으로 재조합되면서 하이퍼텍스트 형태를 띠게 된다. 정해진 시작과 끝이 없고 미로나 뿌리줄기같이 얽혀 있어 독자의 입장에서 어떤 길을 선택하"
+      },
+      {
+        "location": "stem",
+        "question": 17,
+        "choice": null,
+        "token": "<그림>",
+        "before": "",
+        "after": " 에 관한 설명으로 가장 적절한 것은?"
+      }
+    ],
+    "final_classification": "VERIFIED_TEXTBOX",
+    "classification_evidence": "passage p207 및 Q17 stem p219의 textbox text가 동일 “탈근대적 지식 문화”이며 marker 순서와 일치한다.",
+    "proposed_action": "passage와 Q17 stem textbox text 복원",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  },
+  {
+    "year": "2021",
+    "range": [
+      28,
+      30
+    ],
+    "source_path": "자료/LEET_언어이해/텍스트/2021/2021_question_odd.md",
+    "xml_path": "자료/LEET_언어이해/검증/HWP_XML/2021.xml",
+    "parse_success": true,
+    "error": null,
+    "passage_nonempty": true,
+    "question_count": 3,
+    "choice_counts": {
+      "28": 5,
+      "29": 5,
+      "30": 5
+    },
+    "markers": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "표",
+        "raw_offset": 888
+      },
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 1381
+      },
+      {
+        "location": "stem",
+        "question": 29,
+        "choice": null,
+        "token": "그림",
+        "raw_offset": 0
+      },
+      {
+        "location": "choice",
+        "question": 29,
+        "choice": 5,
+        "token": "그림",
+        "raw_offset": 69
+      },
+      {
+        "location": "choice",
+        "question": 30,
+        "choice": 5,
+        "token": "표",
+        "raw_offset": 97
+      }
+    ],
+    "marker_counts": {
+      "표": 2,
+      "그림": 3
+    },
+    "columnset_paragraph_count": 332,
+    "anchor": {
+      "passage_chars": 1667,
+      "unique_anchor_hits": 114,
+      "coverage": 0.9994,
+      "xml_para_start": 303,
+      "xml_para_end": 308,
+      "first_hits": [
+        [
+          0,
+          303
+        ],
+        [
+          14,
+          303
+        ],
+        [
+          28,
+          303
+        ],
+        [
+          42,
+          303
+        ],
+        [
+          56,
+          303
+        ],
+        [
+          70,
+          303
+        ]
+      ],
+      "last_hits": [
+        [
+          1568,
+          308
+        ],
+        [
+          1582,
+          308
+        ],
+        [
+          1596,
+          308
+        ],
+        [
+          1610,
+          308
+        ],
+        [
+          1624,
+          308
+        ],
+        [
+          1638,
+          308
+        ]
+      ]
+    },
+    "controls": [
+      {
+        "anchor_para": 307,
+        "control_order": 71,
+        "control_name": "사각형",
+        "page": 15,
+        "column": 2,
+        "line": 12,
+        "anchor_pos": 0
+      }
+    ],
+    "textboxes": [
+      {
+        "anchor_para": 307,
+        "box": 1,
+        "text": "판단하기 어려운 사안",
+        "normalized_len": 9
+      }
+    ],
+    "exact_assets": [],
+    "preliminary_classification": "VERIFIED_TEXTBOX_CANDIDATE",
+    "marker_contexts": [
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<표>",
+        "before": "들개나 길고양이, 혹은 여러 종류의 야생동물의 유전자를 조합하여 실험실에서 창조한 동물이 그에 해당하는지는 판단하기 어렵기 때문에 결국 해석자가 재량껏 결정해야 한다는 것이다.  ",
+        "after": " 그러나 이러한 견해에 대해서는 주변부의 사안을 해석자의 재량에 맡기기보다는 규칙의 목적에 구속되게 해야 할 뿐 아니라, 심지어 중심부의 사안에서조차 규칙의 목적에 대한 조회 없이는 문언이 해석자를 온전히 구속할 수 없다는 반론이 제"
+      },
+      {
+        "location": "passage",
+        "question": null,
+        "choice": null,
+        "token": "<그림>",
+        "before": "공하지 않는 사안이나 부적절한 답을 제공하는 사안도 있을 수 있는데, 이들이 바로 각각 문언을 넘은 해석과 문언에 반하는 해석이 시도되는 경우라 할 수 있다. 양자는 모두 이른바 ",
+        "after": " 이라는 점에서는 공통적이지만, 전자를 판단하기 어려운 까닭은 문언의 언어적 불확정성에 기인하는 것인 반면, 후자는 문언이 언어적 확정성을 갖추었음에도 불구하고 그것이 제공하는 답을 올바른 것으로 받아들일 수 없어 보이는 탓에 판단하"
+      },
+      {
+        "location": "stem",
+        "question": 29,
+        "choice": null,
+        "token": "<그림>",
+        "before": "",
+        "after": " 에 대한 진술로 가장 적절한 것은?"
+      },
+      {
+        "location": "choice",
+        "question": 29,
+        "choice": 5,
+        "token": "<그림>",
+        "before": "형식상 드러나 있는 법률의 흠결을 보충하기 위해서도 해당 법률의 본래적 구상보다는 전체 법질서를 고려한 해석이 필요하다.  ",
+        "after": ""
+      },
+      {
+        "location": "choice",
+        "question": 30,
+        "choice": 5,
+        "token": "<표>",
+        "before": "여러 종류의 야생동물의 유전자를 조합하여 실험실에서 창조한 동물을 기르는 것이 금지되었다면, ‘야생동물’의 언어적 의미를 자연에서 태어나 살아가는 동물로 보았을 것이다.   ",
+        "after": ""
+      }
+    ],
+    "final_classification": "UNRESOLVED",
+    "classification_evidence": "passage p306에 [A] TableControl, p307에 textbox, 그리고 target 문항 끝부분 p323에 본문 없는 세로형 ShapeComponent(높이 19530)가 있다. choice marker와 이 빈 도형의 역할 및 그림/표 marker 전체의 대응을 확정하지 못했다. mapping은 exact asset을 찾지 못했으나 부재를 artifact 근거로 쓰지 않는다.",
+    "proposed_action": "변경하지 않고 NEEDS_RESTORE 유지",
+    "mapping_caution": "exact question_group assets: none; absence was not treated as evidence of artifact",
+    "source_precedence_check": "verified transcript not present for this year/group; canonical odd-form Markdown used"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "blind_only": true,
+  "passage_group": "G156",
+  "case_id": "YQ",
+  "source_role": "official_question_choice_table_provenance_supplement",
+  "provenance": {
+    "exam_identification": "2024학년도 9월 모의평가 국어 문제지",
+    "question_number": 7,
+    "canonical_source_path": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "canonical_source_sha256": "d5db41d1206c34c2176624c93481da71355e87a4545761009516015d2c4a3149",
+    "canonical_xml_part": "Contents/section0.xml",
+    "canonical_paragraph_indices": {"stem": 788, "header": 789, "rows": [790, 791, 792, 793, 794]},
+    "official_question_source_path": "/mnt/d/국어/평가원 선지 빼먹기/source_pdfs/daipzip/2024_9월모평_국어_문제.pdf",
+    "official_question_source_sha256": "6ea1ff7027fd69e758a4785a5d2ffa0332dc1566ca3e789554a56482ae181bf4",
+    "official_pdf_page_index": 2,
+    "official_pdf_page_label": 3,
+    "official_crop_path": "data/기본기_연구/prepared_backlog/blind_sources/YQ_G156_official_choice_table.png",
+    "official_crop_sha256": "56f2571bfab61a7593e87338ae4ebd33352a4da82c7106fa1f213b67e519a8a9"
+  },
+  "column_header_verbatim": ["ⓐ", "ⓑ"],
+  "rows_verbatim_and_cell_alignment": [
+    {"number": "①", "ⓐ": "용이(容易)해져", "ⓑ": "근거(根據)하여"},
+    {"number": "②", "ⓐ": "유력(有力)해져", "ⓑ": "근거(根據)하여"},
+    {"number": "③", "ⓐ": "용이(容易)해져", "ⓑ": "의탁(依託)하여"},
+    {"number": "④", "ⓐ": "원활(圓滑)해져", "ⓑ": "의탁(依託)하여"},
+    {"number": "⑤", "ⓐ": "유력(有力)해져", "ⓑ": "기초(基礎)하여"}
+  ],
+  "canonical_gap": "canonical XML paragraph 790~794에는 번호만 남고 ⓐ·ⓑ 셀 값이 누락되어 공식 문제지 crop으로 두 열을 기계 보강했다.",
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "ⓐ·ⓑ 열의 원 단어와 ①~⑤ 번호 대응만 복원했다."
+}

@@ -1,0 +1,53 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+ROOT="${1:-$PWD}"
+
+if [ ! -f "$ROOT/AGENTS.md" ] || \
+   [ ! -f "$ROOT/분석/기본기_연구/CURRENT.md" ] || \
+   [ ! -f "$ROOT/분석/기본기_연구/LUNA_HANDOFF_START.md" ] || \
+   [ ! -f "$ROOT/분석/기본기_연구/LUNA_PREPARE_FRONTIER.md" ]; then
+    echo "cxprepare: 프로젝트 루트에서 실행하거나 프로젝트 루트를 인자로 주세요." >&2
+    exit 2
+fi
+
+cd "$ROOT"
+
+# semantic raw가 밀린 상태에서는 preparation과 섞지 않는다.
+python3 - <<'PY'
+import json
+from pathlib import Path
+import sys
+
+q = Path("data/기본기_연구/astra_handoff_queue.jsonl")
+p = Path("data/기본기_연구/astra_handoff_processed.jsonl")
+
+queue = [json.loads(x) for x in q.read_text(encoding="utf-8").splitlines() if x.strip()]
+proc  = [json.loads(x) for x in p.read_text(encoding="utf-8").splitlines() if x.strip()]
+
+qids = {r["record_id"] for r in queue}
+pids = {
+    r.get("source_record_id", r.get("record_id"))
+    for r in proc
+    if r.get("source_record_id") or r.get("record_id")
+}
+
+pending = sorted(qids - pids)
+
+if pending:
+    print(f"cxprepare: 미처리 raw {len(pending)}건이 있습니다.")
+    print("먼저 Luna handoff/recovery로 pending=0을 만든 뒤 다시 실행하세요.")
+    for x in pending[:20]:
+        print(" ", x)
+    sys.exit(3)
+
+print(f"cxprepare: raw clean ({len(queue)} queue records, pending=0)")
+PY
+
+codex exec \
+  --skip-git-repo-check \
+  -C "$ROOT" \
+  -m gpt-5.6-luna \
+  -s workspace-write \
+  -c model_reasoning_effort=medium \
+  "분석/기본기_연구/LUNA_PREPARE_FRONTIER.md를 읽고 그 지시를 그대로 수행해."

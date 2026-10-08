@@ -1,0 +1,18 @@
+{
+  "blind_packet": true,
+  "passage_group": "G434",
+  "group_case_ids": [
+    "BHW",
+    "BHX",
+    "BHY"
+  ],
+  "group_release_rules": [
+    "all_group_blind_records_before_any_group_answer_check",
+    "all_group_independent_code_records_before_any_group_sdss_disclosure"
+  ],
+  "source_files": [
+    "data/기본기_연구/prepared_backlog/blind_sources/BHW.json",
+    "data/기본기_연구/prepared_backlog/blind_sources/BHX.json",
+    "data/기본기_연구/prepared_backlog/blind_sources/BHY.json"
+  ]
+}

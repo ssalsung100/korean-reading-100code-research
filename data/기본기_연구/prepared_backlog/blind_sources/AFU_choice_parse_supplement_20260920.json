@@ -1,0 +1,22 @@
+{
+  "blind_only": true,
+  "passage_group": "G196",
+  "case_id": "AFU",
+  "question_id": "KICE-2019-6월_모평-Q16-21-S159~164-Q19",
+  "source_role": "mechanical_canonical_choice_parse_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "anchor": "심장은 오장(五臟)의 하나이지만 한 몸의 군주가 되어 지각이 거기에서 나온다.",
+    "source_note": "canonical HWPX XML contains the complete five choice rows; normalized KICE question record had incomplete_visual_or_table parse"
+  },
+  "restored_choice_text": [
+    "① ㄱ, ㄴ",
+    "② ㄱ, ㄷ",
+    "③ ㄴ, ㄷ",
+    "④ ㄴ, ㄹ",
+    "⑤ ㄷ, ㄹ"
+  ],
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "choice_parse_restored_mechanically"
+}

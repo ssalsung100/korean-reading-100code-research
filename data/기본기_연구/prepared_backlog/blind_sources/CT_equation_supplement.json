@@ -1,0 +1,46 @@
+{
+  "blind_only": true,
+  "passage_group": "G018",
+  "case_id": "CT",
+  "supplement_role": "original_hwpx_equation_recovery",
+  "source_role": "anonymous_blind_source_supplement",
+  "source_container": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+  "source_xml": "Contents/section0.xml",
+  "equations": [
+    {
+      "context": "공통 지문 2문단",
+      "preceding_text": "만약 상속인이 피상속인의 자녀 한 명뿐이면, 상속받을 수 있었을 이익의 ",
+      "script": "{ 1} over {2 }",
+      "following_text": "만 보장된다.",
+      "rendered_fraction_text": "1/2",
+      "current_blind_text_fragment": "상속받을 수 있었을 이익의 만 보장된다.",
+      "difference": "blind source omits the equation and the following copular subject marker is retained as '만'"
+    },
+    {
+      "context": "문항 094 선택지 ②",
+      "preceding_text": "② A물건의 시가 상승이 을의 노력과 무관한 경우 유류분 반환의 대상은 A 물건의 ",
+      "script": "{3} over {7 }",
+      "following_text": " 지분이다.",
+      "rendered_fraction_text": "3/7",
+      "current_blind_text_fragment": "② A물건의 시가 상승이 을의 노력과 무관한 경우 유류분 반환의 대상은 A 물건의 지분이다.",
+      "difference": "blind source omits the equation"
+    },
+    {
+      "context": "문항 094 선택지 ④",
+      "preceding_text": "④ A 물건의 시가가 을의 노력으로 상승한 경우 유류분 반환의 대상은 A 물건의 ",
+      "script": "{1} over {3 }",
+      "following_text": " 지분이다.",
+      "rendered_fraction_text": "1/3",
+      "current_blind_text_fragment": "④ A 물건의 시가가 을의 노력으로 상승한 경우 유류분 반환의 대상은 A 물건의 지분이다.",
+      "difference": "blind source omits the equation"
+    }
+  ],
+  "choice_fidelity_note": "기존 CT_source_supplement의 선택지 complete 표시는 파생 텍스트의 문자열 일치만 확인한 것이며, 원본 HWPX 수식까지 포함한 완전성 확정이 아니었음. 본 supplement가 XML equation script를 보완함.",
+  "quality": {
+    "original_xml_equations_verified": true,
+    "equation_count": 3,
+    "answer_or_sdss_included": false,
+    "reasoning_or_code_judgment_included": false,
+    "original_blind_source_modified": false
+  }
+}

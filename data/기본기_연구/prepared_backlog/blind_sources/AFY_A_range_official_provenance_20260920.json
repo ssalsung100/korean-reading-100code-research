@@ -1,0 +1,30 @@
+{
+  "blind_only": true,
+  "passage_group": "G197",
+  "case_id": "AFY",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "url": "https://suneung-files.hdh061224.workers.dev/kice-v3/2019_mock09_korean_q.pdf?name=2019%ED%95%99%EB%85%84%EB%8F%84+9%EB%AA%A8+%EA%B5%AD%EC%96%B4+%EB%AC%B8%EC%A0%9C%EC%A7%80.pdf",
+    "provider": "KICE-origin 2019학년도 9월 모의평가 국어 문제지 mirror",
+    "local_temp_path": "/tmp/2019_9월_모평_국어.pdf",
+    "sha256": "9d9daec4c9081c0aecfff7b0ca46ce044f8afbcf3ac28c22399118d378d24b80",
+    "page_number_one_based": 8,
+    "page_anchor": "21~25 passage; [A] bracket in left column"
+  },
+  "anchor_verification": {
+    "marker_visible": true,
+    "first_sentence": "가령 은행 ㉠갑은, 기업 ㉡을이 발행한 채권을 매입하면서 그것의 신용 위험을 피하기 위해 보험 회사 ㉢병과 CDS 계약을 체결할 수 있다.",
+    "last_sentence": "이때 기초 자산은 을이 발행한 채권이다.",
+    "required_markers_visible": ["㉠갑", "㉡을", "㉢병", "[A]"],
+    "scope_note": "공식 문제지 8쪽 좌측 단에서 [A] 대괄호의 시작·끝과 ㉠·㉡·㉢을 시각 확인했다."
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AFY_A_range_official_crop_20260920.png",
+    "source_raster": "official PDF page 8 rendered at 2.5x PyMuPDF",
+    "pixel_box_xyxy": [150, 1320, 1050, 2380],
+    "sha256": "b7ee6fc5fa1d0cefa1e52ef6f72bc1f834f32adcab6cb1e2eedcee6a3b1eb6d1",
+    "scope": "official [A] bracket and complete marked paragraph; no answer key or SDSS"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_visual_anchor_restored_mechanically"
+}

@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G152",
+  "case_id": "YC",
+  "source_role": "mechanical_canonical_source_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "source_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 3166,
+    "A_end_marker_paragraph_index": 3169,
+    "preceding_paragraph_index": 3165,
+    "following_paragraph_index": 3172
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_observation": "paragraph 3166 첫머리에 [A] 표지가 붙어 있다.",
+    "start_text_verbatim": "눈동자 움직임에 주목한 연구에 따르면, 글을 읽을 때 독자는 자신이 중요하다고 판단한 단어나 생소하다고 생각한 단어를 중심으로 읽는다.",
+    "end_text_verbatim": "중요한 단어나 생소한 단어가 연속될 때는 그 단어마다 눈동자가 멈추면서 도약의 길이가 짧았다.",
+    "end_marker_context": "paragraph 3166의 마지막 문장 뒤에 빈 paragraph 3167·3168이 있고, paragraph 3169에 단독 [A] 표지가 있다. 이후 paragraph 3172에서 다음 내용이 시작된다.",
+    "range_statement": "[A] 표지는 paragraph 3166 첫머리부터 해당 단락 마지막 문장까지의 범위를 가리키며, paragraph 3169의 단독 [A]는 문제에서 다시 참조하는 표지이다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "원문 [A] 표지와 문단 anchor만 canonical XML에서 기계적으로 복원했다."
+}

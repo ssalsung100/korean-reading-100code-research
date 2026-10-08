@@ -1,0 +1,32 @@
+{
+  "package_count": 1,
+  "by_family": {
+    "KICE": 0,
+    "LEET": 1,
+    "MEET_DEET": 0,
+    "Other": 0
+  },
+  "url_policy": "no guessed URLs",
+  "kice_literature_reaudit": {
+    "audit_date": "2026-09-20",
+    "target_count": 45,
+    "local_complete": 45,
+    "local_restorable": 0,
+    "local_partial": 0,
+    "external_source_needed": 0,
+    "remaining_kice_packages": 0,
+    "new_central_md": 13,
+    "new_assets": 0,
+    "mapping": "data/corpus_ingest/kice_literature_local_audit_target_mapping.json",
+    "reason": "외부 마더텅 HWPX 7개와 추출 MD 8개에서 45개 문항 원문을 확인·중앙화함"
+  },
+  "packages": [
+    {
+      "family": "LEET",
+      "academic_year": 2008,
+      "exam": "예비시험",
+      "missing_question_count": 5,
+      "priority": "HIGH"
+    }
+  ]
+}

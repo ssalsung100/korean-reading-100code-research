@@ -1,0 +1,36 @@
+{
+  "blind_only": true,
+  "passage_group": "G054",
+  "case_id": "IK",
+  "asset_path": "data/기본기_연구/prepared_backlog/blind_sources/IK_graph.png",
+  "asset_role": "보기의 맥스웰 속력 분포 그래프",
+  "content_completeness": {
+    "graph_curves": 3,
+    "labels_present": ["A", "B", "C"],
+    "axes_present": true,
+    "axis_labels_present": true,
+    "curve_labels_and_axes_legible": true
+  },
+  "choice_table_anchor": {
+    "rows_in_source_order": ["아르곤(25℃)", "아르곤(727℃)", "크립톤(25℃)"],
+    "row_order_status": "confirmed_from_local_HWPX_section_XML; previous_packet_text_anchor_retained_in_history",
+    "xml_supplement": "data/기본기_연구/prepared_backlog/blind_sources/IK_choice_table_supplement.md",
+    "answer_mapping_included": false
+  },
+  "source": {
+    "source_kind": "local_KICE_compilation_HWPX_extracted_visual_asset",
+    "source_asset_path": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._과학/image9.png",
+    "source_asset_sha256": "b653bd8b0ffb416052c9764e1cd94da4b756d5f61778689f174a66b959a97f12",
+    "copied_asset_sha256": "a2fd24bf9174c032236f12e835f44ea049d555692db83ca76cfa828a1ccf97ec",
+    "dimensions_px": [656, 686],
+    "canonical_release_pdf_verified": false,
+    "limitation": "원배포 PDF의 직접 대조는 수행하지 못했으며, 로컬 HWPX 편집본에서 추출된 PNG 자산을 복원에 사용했다."
+  },
+  "exclusions": [
+    "공식 정답",
+    "SDSS 태그",
+    "기존 해설",
+    "코드명 및 의미 판정",
+    "정답 도출을 위한 곡선-기체 대응"
+  ]
+}

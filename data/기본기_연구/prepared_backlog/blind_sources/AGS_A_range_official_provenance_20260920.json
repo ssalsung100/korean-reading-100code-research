@@ -1,0 +1,27 @@
+{
+  "blind_only": true,
+  "passage_group": "G201",
+  "case_id": "AGS",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G201_official_source/2022학년도_9월_모평_국어_문제_원PDF.pdf",
+    "sha256": "410f541a7da9269b9944b0bf3b0cfb9ae2ca8f1f813b8045d74a8a751f86ddb3",
+    "page_number_one_based": 5,
+    "page_anchor": "2022학년도 9월 모의평가 국어 14~17번, 모션 트래킹 시스템 문단"
+  },
+  "anchor_verification": {
+    "marker_visible": true,
+    "first_sentence": "가상 현실 트레드밀과 함께 사용되는 모션 트래킹 시스템은 사용자의 동작에 따라 아바타가 동일하게 움직일 수 있도록 동기화하는 시스템으로, 동작 추적 센서, 관성 측정 센서, 압력 센서 등으로 구성된다.",
+    "last_sentence": "또한 사용자의 움직임이나 트레드밀의 작동 변화에 따라 HMD에 표시되는 가상 공간의 장면이 변경되어 사용자는 더욱 현실감 높은 체험을 할 수 있다.",
+    "scope_note": "공식 PDF 5쪽 우측 단의 [A] 괄호 전체를 시각적으로 확인했다. crop에는 [A] marker와 범위 첫·끝 문장이 함께 보인다."
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AGS_A_range_official_crop_20260920.png",
+    "source_raster": "official PDF page 5 rendered at 2.5x PyMuPDF",
+    "pixel_box_xyxy": [1050, 980, 1990, 1980],
+    "sha256": "977fbbd75176090bf1fde7ab76ff0cec7891bbd23b503d43656ab2602074a44c",
+    "scope": "official [A] bracketed paragraph only with minimal adjacent line context; no other question content, answer key, or SDSS"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_visual_anchor_restored_mechanically"
+}

@@ -1,0 +1,26 @@
+{
+  "blind_only": true,
+  "passage_group": "G214",
+  "case_id": "AIN",
+  "source_role": "official_pdf_scope_supplement",
+  "canonical_source": {
+    "path": "/mnt/d/국어/평가원 선지 빼먹기/source_pdfs/daipzip/2023_수능_국어_문제.pdf",
+    "page": 12,
+    "clip_points": [65, 125, 410, 525],
+    "render_scale": 4,
+    "crop_path": "data/기본기_연구/prepared_backlog/blind_sources/AIN_poem_ABF_scope_official_pdf.png",
+    "crop_sha256": "3f41050ba0f5e58ae8eddfbc792159763618c313d1bbd4525a8eb7d8c2eca9ba"
+  },
+  "scope": {
+    "passage_part": "(나)",
+    "markers": ["[A]", "[B]", "[C]", "[D]", "[E]", "[F]"],
+    "passage_and_marker_start_end_visible": true,
+    "question_visual_or_scope_only": true
+  },
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_scope_restored"
+}

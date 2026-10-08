@@ -1,0 +1,29 @@
+{
+  "blind_only": true,
+  "passage_group": "G202",
+  "case_id": "AGY",
+  "question_id": "KICE-2022-예시문항-Q30-34-S066~070-Q33",
+  "source_role": "official_pdf_visual_supplement",
+  "canonical_source": {
+    "source_url": "https://orbi.kr/download/united/40109864/1",
+    "source_page": 35,
+    "crop_bbox_points": [
+      55,
+      500,
+      290,
+      700
+    ]
+  },
+  "visual_assets": [
+    {
+      "asset_path": "data/기본기_연구/prepared_backlog/blind_sources/AGY_Q33_graph_supplement_20260920.png",
+      "scope": "question_33_voltage_current_graph"
+    }
+  ],
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_visual_restored"
+}

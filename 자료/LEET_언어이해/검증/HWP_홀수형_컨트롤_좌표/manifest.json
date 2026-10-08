@@ -1,0 +1,137 @@
+{
+  "status": "complete",
+  "expected_records": 14,
+  "record_count": 14,
+  "method": "Hancom control GetAnchorPos(0), SetPosBySet, and KeyIndicator",
+  "records": [
+    {
+      "label": "2009",
+      "year": 2009,
+      "source_file": "자료/LEET_언어이해/원본/2009/2009_question_odd_2009_법학적성시험_언어이해(홀).hwp",
+      "source_sha256": "2273611de6d10ab1748c23c64d5552617424f9f219688035bc47d7fd5c209a8c",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2009.json",
+      "page_count": 16,
+      "record_count": 50
+    },
+    {
+      "label": "2009예비",
+      "year": 2009,
+      "source_file": "자료/LEET_언어이해/원본/2009예비/2009예비_question_odd_2009법학적성시험_예비_언어이해(홀).hwp",
+      "source_sha256": "f872ee7acd4604e615529003dd9de3dbb33aed29d3d133cd1a55cda485a9c1d0",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2009예비.json",
+      "page_count": 16,
+      "record_count": 40
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "source_file": "자료/LEET_언어이해/원본/2010/2010_question_odd_2010_법학적성시험_언어이해(홀).hwp",
+      "source_sha256": "3d0d953da1b93b4baa24fa4429174516df9dbde7f1def8d9d78d5f044511f19b",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2010.json",
+      "page_count": 15,
+      "record_count": 45
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "source_file": "자료/LEET_언어이해/원본/2011/2011_question_odd_2011_법학적성시험_언어이해(홀수형).hwp",
+      "source_sha256": "10c9527d98d7105e6458d5f5d5cf86ae527547ec132a9985b7aff4d707bc2522",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2011.json",
+      "page_count": 15,
+      "record_count": 54
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "source_file": "자료/LEET_언어이해/원본/2012/2012_question_odd_2012_법학적성시험_언어이해(홀수형).hwp",
+      "source_sha256": "ae9d7aba764650e2c758fdb343f9b48a85cf8f6742bbd3b4d4eccc100b978de1",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2012.json",
+      "page_count": 15,
+      "record_count": 35
+    },
+    {
+      "label": "2013",
+      "year": 2013,
+      "source_file": "자료/LEET_언어이해/원본/2013/2013_question_odd_2013_법학적성시험_언어이해(홀수형).hwp",
+      "source_sha256": "b31c28d97a4ca00c9be748228cfc24d524b5693848b46f6c92b058e73a2775e9",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2013.json",
+      "page_count": 15,
+      "record_count": 43
+    },
+    {
+      "label": "2014",
+      "year": 2014,
+      "source_file": "자료/LEET_언어이해/원본/2014/2014_question_odd_2014학년도_법학적성시험_언어이해(홀수형).hwp",
+      "source_sha256": "4475f25a26225621cdc32810812975aa13b6badf224d0814dfcc5eaea7110243",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2014.json",
+      "page_count": 15,
+      "record_count": 39
+    },
+    {
+      "label": "2015",
+      "year": 2015,
+      "source_file": "자료/LEET_언어이해/원본/2015/2015_question_odd_2015학년도_법학적성시험_언어이해(홀수형).hwp",
+      "source_sha256": "e32655d0b983a3120e171e65e7c949c24c254f6e94e8808ab93a6267ceddc857",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2015.json",
+      "page_count": 16,
+      "record_count": 35
+    },
+    {
+      "label": "2016",
+      "year": 2016,
+      "source_file": "자료/LEET_언어이해/원본/2016/2016_question_odd_2016학년도_법학적성시험_언어이해(홀수형).hwp",
+      "source_sha256": "777ce5f1c531ac40b6068c781f3821d3795e16c5eba632b787591e1dbd28e14e",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2016.json",
+      "page_count": 16,
+      "record_count": 36
+    },
+    {
+      "label": "2017",
+      "year": 2017,
+      "source_file": "자료/LEET_언어이해/원본/2017/2017_question_odd_2017학년도_법학적성시험_언어이해(홀수형)_수정.hwp",
+      "source_sha256": "8ade0dda8cfbb684c54bba9fa1a47a10730e87576593b99acd89d672acd152b8",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2017.json",
+      "page_count": 16,
+      "record_count": 38
+    },
+    {
+      "label": "2018",
+      "year": 2018,
+      "source_file": "자료/LEET_언어이해/원본/2018/2018_question_odd_2018학년도_법학적성시험_언어이해(홀수형).hwp",
+      "source_sha256": "2f7ae2fd78d1ea4dc3abd005eb87999005c77f98645327b2aeec57afa45a1d17",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2018.json",
+      "page_count": 16,
+      "record_count": 46
+    },
+    {
+      "label": "2019",
+      "year": 2019,
+      "source_file": "자료/LEET_언어이해/원본/2019/2019_question_odd_2019_LEET_언어이해(홀수형).hwp",
+      "source_sha256": "48651bf01efc1d959fc783a1edb9e86d7473146baa7004d02acc321b589ab997",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2019.json",
+      "page_count": 15,
+      "record_count": 47
+    },
+    {
+      "label": "2020",
+      "year": 2020,
+      "source_file": "자료/LEET_언어이해/원본/2020/2020_question_odd_2020_LEET_언어이해(홀수형).hwp",
+      "source_sha256": "8720115d3fc2918a52de82501fbb2d8d67f00bba9426305c26e4f19a4064e76a",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2020.json",
+      "page_count": 15,
+      "control_count": 31,
+      "status": "hwp_anchor_exported"
+    },
+    {
+      "label": "2021",
+      "year": 2021,
+      "source_file": "자료/LEET_언어이해/원본/2021/2021_question_odd_2021_LEET_언어이해(홀수형)_배포용.hwp",
+      "source_sha256": "85f8af6d9e29c95d9eec9778f7d201d312a3c8332dc7ec7ca853217b6288ee8f",
+      "control_file": "자료/LEET_언어이해/검증/HWP_홀수형_컨트롤_좌표/2021.json",
+      "page_count": 15,
+      "control_count": 54,
+      "status": "hwp_anchor_exported"
+    }
+  ],
+  "errors": []
+}

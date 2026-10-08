@@ -1,0 +1,103 @@
+﻿{
+    "status":  "complete",
+    "expected_records":  1,
+    "record_count":  1,
+    "file_path_check_module_registered":  false,
+    "renderer":  "Hancom HWPFrame.HwpObject.CreatePageImage",
+    "note":  "Page-faithful bitmap images rendered from official odd-form HWP files. Page numbering is one-based in this manifest.",
+    "records":  [
+                    {
+                        "label":  "2009",
+                        "year":  2009,
+                        "source_file":  "자료/LEET_언어이해/원본/2009/2009_question_odd_2009_법학적성시험_언어이해(홀).hwp",
+                        "source_sha256":  "2273611de6d10ab1748c23c64d5552617424f9f219688035bc47d7fd5c209a8c",
+                        "page_count":  16,
+                        "resolution_dpi":  144,
+                        "color_depth":  24,
+                        "format":  "bmp",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "file":  "9/page_001.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  2,
+                                          "file":  "9/page_002.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  3,
+                                          "file":  "9/page_003.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  4,
+                                          "file":  "9/page_004.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  5,
+                                          "file":  "9/page_005.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  6,
+                                          "file":  "9/page_006.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  7,
+                                          "file":  "9/page_007.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  8,
+                                          "file":  "9/page_008.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  9,
+                                          "file":  "9/page_009.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  10,
+                                          "file":  "9/page_010.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  11,
+                                          "file":  "9/page_011.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  12,
+                                          "file":  "9/page_012.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  13,
+                                          "file":  "9/page_013.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  14,
+                                          "file":  "9/page_014.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  15,
+                                          "file":  "9/page_015.bmp",
+                                          "bytes":  12028866
+                                      },
+                                      {
+                                          "page":  16,
+                                          "file":  "9/page_016.bmp",
+                                          "bytes":  12028866
+                                      }
+                                  ],
+                        "status":  "rendered_from_official_hwp_by_hancom_create_page_image"
+                    }
+                ]
+}

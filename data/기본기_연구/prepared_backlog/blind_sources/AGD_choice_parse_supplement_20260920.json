@@ -1,0 +1,16 @@
+{
+  "blind_only": true,
+  "passage_group": "G198",
+  "case_id": "AGD",
+  "question_id": "KICE-2019-6월_모평-Q22-26-S053~057-Q23",
+  "source_role": "mechanical_canonical_choice_parse_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "anchor": "계약서에 방충망 수선에 관한 내용이 없으면 건물주가 수선 의무를 지고...",
+    "source_note": "canonical HWPX XML contains the complete four statements and five choice rows; normalized KICE question record had incomplete_visual_or_table parse"
+  },
+  "restored_choice_labels": ["① ㄱ, ㄴ", "② ㄱ, ㄷ", "③ ㄱ, ㄹ", "④ ㄴ, ㄷ", "⑤ ㄴ, ㄹ"],
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "choice_parse_restored_mechanically"
+}

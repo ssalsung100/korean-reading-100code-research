@@ -1,0 +1,23 @@
+{
+  "blind_only": true,
+  "passage_group": "G194",
+  "case_id": "AFI",
+  "source_role": "official_question_pdf_location_metadata",
+  "official_source": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G194_official_source/2017_6월_모평_국어_문제_원PDF.pdf",
+    "sha256": "010700a8c34a28d93be54b02983711308f47855c17fc074bb9faaf931368251f",
+    "page_number_one_based": 10,
+    "page_anchor": "question 31 refers to the <그림> embedded in the music passage"
+  },
+  "location": {
+    "question_id": "G194_Q31",
+    "actual_case_id": "AFI",
+    "figure_page_number_one_based": 10,
+    "raster_render_scale": 2.5,
+    "figure_region_pixel_box_xyxy_approx": [570, 1480, 1010, 2000],
+    "figure_description": "sound spectrum diagram with vertical bars and frequency labels 110, 220, 330, 440, 550 Hz"
+  },
+  "note": "위치 metadata만 별도 제공하며 AFI.json 원문은 수정하지 않았다.",
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_location_metadata_restored_mechanically"
+}

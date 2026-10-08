@@ -1,0 +1,20 @@
+{
+  "answer_only": true,
+  "passage_group": "G508",
+  "case_ids": ["BQJ", "BQK", "BQL", "BQM"],
+  "provenance": {
+    "exam_family": "KICE",
+    "academic_year": 2016,
+    "exam_label": "수능국어B형",
+    "variant": "홀수형",
+    "question_numbers": {"BQJ": 21, "BQK": 22, "BQL": 23, "BQM": 24},
+    "canonical_question_source": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/2016_KICE_Korean_B_problem_and_answer_archive.pdf",
+    "official_answer_source": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/2016_KICE_Korean_B_odd_answer_table.pdf",
+    "official_answer_source_sha256": "ab3a2b98ea3ed057fec83337d12c0ab4c6c82f7a55a45f4f9383d190f2786572",
+    "official_answer_table_page": 1,
+    "provenance_mapping": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl"
+  },
+  "official_answers": {"BQJ": "③", "BQK": "③", "BQL": "③", "BQM": "②"},
+  "answer_table_transcription": "2016학년도 대학수학능력시험 국어 영역 정답표 (B형) 과목 (홀수)형: 21=③, 22=③, 23=③, 24=②.",
+  "disclosure_boundary": {"sdss_read": false, "existing_judgment_read": false, "explanation_read": false}
+}

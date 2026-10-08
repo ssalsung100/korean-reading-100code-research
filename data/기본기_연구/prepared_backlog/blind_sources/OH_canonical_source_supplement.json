@@ -1,0 +1,161 @@
+{
+  "blind_only": true,
+  "passage_group": "G099",
+  "case_id": "OH",
+  "purpose": "OH [가] 식 누락의 canonical source recovery; 답·SDSS·해설·코드 판정 없음",
+  "source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "member": "Contents/section0.xml",
+    "sha256": "2c340d48be17034a8acc26a9786cd98bebe40c48118699d24a5fabcb0eb41c66"
+  },
+  "anchors": {
+    "passage_paragraph_index": 989,
+    "question_paragraph_index": 1015,
+    "question_number_text": "057",
+    "question_stem": "< 보 기 > 줄의 실험과 달리, 열기관이 흡수한 열의 양(A)과 열기관으로부터 얻어진 일의 양(B)을 측정하여 로 열의 일당량을 구하면, 그 값은 ( [가] )는 결과가 나올 것이다.",
+    "equation_id": "1714273486",
+    "equation_script": "{B} over {A}",
+    "equation_context_before": "열기관이 흡수한 열의 양(A)과 열기관으로부터 얻어진 일의 양(B)을 측정하여",
+    "equation_context_after": "로 열의 일당량을 구하면"
+  },
+  "view_table": {
+    "table_id": "1714273485",
+    "rowCnt": "4",
+    "colCnt": "5",
+    "target_cell": {
+      "cellAddr": {
+        "colAddr": "1",
+        "rowAddr": "2"
+      },
+      "cellSpan": {
+        "colSpan": "3",
+        "rowSpan": "1"
+      },
+      "text": "줄의 실험과 달리, 열기관이 흡수한 열의 양(A)과 열기관으로부터 얻어진 일의 양(B)을 측정하여 로 열의 일당량을 구하면, 그 값은 ( [가] )는 결과가 나올 것이다.",
+      "equation_scripts": [
+        "{B} over {A}"
+      ]
+    },
+    "cell_inventory": [
+      {
+        "cellAddr": {
+          "colAddr": "0",
+          "rowAddr": "0"
+        },
+        "cellSpan": {
+          "colSpan": "2",
+          "rowSpan": "1"
+        },
+        "text": "",
+        "equation_scripts": []
+      },
+      {
+        "cellAddr": {
+          "colAddr": "2",
+          "rowAddr": "0"
+        },
+        "cellSpan": {
+          "colSpan": "1",
+          "rowSpan": "2"
+        },
+        "text": "< 보 기 >",
+        "equation_scripts": []
+      },
+      {
+        "cellAddr": {
+          "colAddr": "3",
+          "rowAddr": "0"
+        },
+        "cellSpan": {
+          "colSpan": "2",
+          "rowSpan": "1"
+        },
+        "text": "",
+        "equation_scripts": []
+      },
+      {
+        "cellAddr": {
+          "colAddr": "0",
+          "rowAddr": "1"
+        },
+        "cellSpan": {
+          "colSpan": "2",
+          "rowSpan": "1"
+        },
+        "text": "",
+        "equation_scripts": []
+      },
+      {
+        "cellAddr": {
+          "colAddr": "3",
+          "rowAddr": "1"
+        },
+        "cellSpan": {
+          "colSpan": "2",
+          "rowSpan": "1"
+        },
+        "text": "",
+        "equation_scripts": []
+      },
+      {
+        "cellAddr": {
+          "colAddr": "0",
+          "rowAddr": "2"
+        },
+        "cellSpan": {
+          "colSpan": "1",
+          "rowSpan": "1"
+        },
+        "text": "",
+        "equation_scripts": []
+      },
+      {
+        "cellAddr": {
+          "colAddr": "1",
+          "rowAddr": "2"
+        },
+        "cellSpan": {
+          "colSpan": "3",
+          "rowSpan": "1"
+        },
+        "text": "줄의 실험과 달리, 열기관이 흡수한 열의 양(A)과 열기관으로부터 얻어진 일의 양(B)을 측정하여 로 열의 일당량을 구하면, 그 값은 ( [가] )는 결과가 나올 것이다.",
+        "equation_scripts": [
+          "{B} over {A}"
+        ]
+      },
+      {
+        "cellAddr": {
+          "colAddr": "4",
+          "rowAddr": "2"
+        },
+        "cellSpan": {
+          "colSpan": "1",
+          "rowSpan": "1"
+        },
+        "text": "",
+        "equation_scripts": []
+      },
+      {
+        "cellAddr": {
+          "colAddr": "0",
+          "rowAddr": "3"
+        },
+        "cellSpan": {
+          "colSpan": "5",
+          "rowSpan": "1"
+        },
+        "text": "",
+        "equation_scripts": []
+      }
+    ]
+  },
+  "source_quality": {
+    "equation_script_present": true,
+    "equation_context_anchors_present": true,
+    "target_cell_addr_verified": true,
+    "target_cell_span_verified": true,
+    "missing_content": "only blind source omitted equation; canonical equation present",
+    "answer_or_sdss_read": false
+  },
+  "status": "blind_source_recovered_mechanically"
+}

@@ -1,0 +1,15 @@
+{
+  "blind_only": true,
+  "case_id": "KB",
+  "supplement_type": "local_hwpx_choice_graph_assets",
+  "source_role": "anonymous_blind_source_supplement",
+  "choice_assets": {
+    "①": {"asset": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_1.png", "parallel_original": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_1.bmp", "xml_anchor": {"paragraph_order": "1", "binaryItemIDRef": "image16", "original_name": "CLP0000e8980030.bmp", "cell_relation": "첫 그래프 선택지"}},
+    "②": {"asset": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_2.png", "parallel_original": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_2.bmp", "xml_anchor": {"paragraph_order": "2", "binaryItemIDRef": "image17", "original_name": "CLP0000e8980031.bmp", "cell_relation": "둘째 그래프 선택지"}},
+    "③": {"asset": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_3.png", "parallel_original": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_3.bmp", "xml_anchor": {"paragraph_order": "3", "binaryItemIDRef": "image18", "original_name": "CLP0000e8980032.bmp", "cell_relation": "셋째 그래프 선택지"}},
+    "④": {"asset": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_4.png", "parallel_original": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_4.bmp", "xml_anchor": {"paragraph_order": "4", "binaryItemIDRef": "image19", "original_name": "CLP0000e8980033.bmp", "cell_relation": "넷째 그래프 선택지"}},
+    "⑤": {"asset": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_5.png", "parallel_original": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_5.bmp", "xml_anchor": {"paragraph_order": "5", "binaryItemIDRef": "image20", "original_name": "CLP0000e8980034.bmp", "cell_relation": "다섯째 그래프 선택지"}}
+  },
+  "provenance": {"artifact_scope": "로컬 정본 HWPX에서 각 ①~⑤ 그래프 문단의 순번·embedded image 참조", "original_distribution_pdf_verified": false},
+  "quality_limit": "단순 등장 순서 추정이 아니라 XML 내 ①~⑤ 문단 직후 image16~20 참조를 확인해 연결했으며 원배포 PDF 시각 대조는 하지 않음"
+}

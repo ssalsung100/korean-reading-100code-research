@@ -1,0 +1,20 @@
+{
+  "blind_only": true,
+  "passage_group": "G121",
+  "case_id": "SD",
+  "source_role": "mechanical_canonical_source_supplement",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx",
+  "source_sha256": "80775db9b9ee656762d0b496d41e5657fc51a727b197d7dc2bc299c78e206cff",
+  "xml_part": "Contents/section0.xml",
+  "xml_anchor": {"table_index": 9, "table_rows": 6, "question_paragraph_index": 244},
+  "question_number_text": "013",
+  "stem": "다음은 윗글을 읽은 학생의 독서 기록 중 일부이다. 윗글을 참고할 때, ‘점검 결과’로 적절하지 않은 것은?",
+  "choice_table_rows": [
+    {"choice": "①", "prompt": "◦서양의 우주론에 태양 중심설과 지구 중심설의 개념이 소개되어 있을 것이다.", "result": "예측과 같음 ………… ①"},
+    {"choice": "②", "prompt": "◦서양의 우주론의 영향으로 변화된 중국의 우주론이 소개되어 있을 것이다.", "result": "예측과 다름 ………… ②"},
+    {"choice": "③", "prompt": "◦서양에서 태양 중심설을 제기한 사람은 누구일까?", "result": "질문의 답이 제시됨 … ③"},
+    {"choice": "④", "prompt": "◦중국에서 서양의 우주론을 접하고 회통을 시도한 사람은 누구일까?", "result": "질문의 답이 제시됨 … ④"},
+    {"choice": "⑤", "prompt": "◦중국에 서양의 우주론을 전파한 서양의 인물은 누구일까?", "result": "질문의 답이 언급되지 않음 ……… ⑤"}
+  ],
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"}
+}

@@ -1,0 +1,3886 @@
+{
+  "status": "complete",
+  "method": "교과서 336쪽을 28개 접촉표로 전수 육안 판독하고 핵심 자료 쪽은 고해상도로 재추출",
+  "scope": {
+    "books": 2,
+    "pages": 336,
+    "contact_sheets": 28,
+    "selected_key_pages": 86
+  },
+  "pages": [
+    {
+      "book": "통합사회1",
+      "pdf_page": 1,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/001.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 2,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/002.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 3,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/003.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 4,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/004.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 5,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/005.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 6,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/006.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 7,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/007.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 8,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/008.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 9,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/009.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 10,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/010.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 11,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/011.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 12,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/012.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 13,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/013.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 14,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/014.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 15,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/015.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 16,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/016.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 17,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/017.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 18,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/018.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 19,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/019.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 20,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/020.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 21,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/021.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 22,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/022.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 23,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "통합적 관점·행복 지표",
+      "linked_concepts": [
+        "integrated_view",
+        "conditions_happiness"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/023.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/023.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 24,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "통합적 관점·행복 지표",
+      "linked_concepts": [
+        "integrated_view",
+        "conditions_happiness"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/024.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/024.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 25,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "통합적 관점·행복 지표",
+      "linked_concepts": [
+        "integrated_view",
+        "conditions_happiness"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/025.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/025.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 26,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/026.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 27,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/027.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 28,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/028.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 29,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/029.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 30,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/030.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 31,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/031.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 32,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/032.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 33,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/033.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 34,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/034.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 35,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/035.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 36,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/036.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 37,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/037.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 38,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/038.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 39,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/039.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 40,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/040.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 41,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "통합적 관점·행복 지표",
+      "linked_concepts": [
+        "integrated_view",
+        "conditions_happiness"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/041.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/041.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 42,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "통합적 관점·행복 지표",
+      "linked_concepts": [
+        "integrated_view",
+        "conditions_happiness"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/042.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/042.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 43,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "통합적 관점·행복 지표",
+      "linked_concepts": [
+        "integrated_view",
+        "conditions_happiness"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/043.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/043.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 44,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/044.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 45,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/045.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 46,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/046.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 47,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/047.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 48,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "통합적 관점·행복 지표",
+      "linked_concepts": [
+        "integrated_view",
+        "conditions_happiness"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/048.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/048.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 49,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/049.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 50,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/050.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 51,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/051.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 52,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/052.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 53,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/053.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 54,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/054.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 55,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/055.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 56,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/056.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 57,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "기후 지역·기후 그래프",
+      "linked_concepts": [
+        "climate_regions",
+        "climate_graph_reasoning"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/057.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/057.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 58,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "기후 지역·기후 그래프",
+      "linked_concepts": [
+        "climate_regions",
+        "climate_graph_reasoning"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/058.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/058.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 59,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/059.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 60,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/060.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 61,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "기후 지역·기후 그래프",
+      "linked_concepts": [
+        "climate_regions",
+        "climate_graph_reasoning"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/061.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/061.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 62,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/062.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 63,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "재해·환경 문제·생태 윤리",
+      "linked_concepts": [
+        "disaster_risk_management",
+        "environmental_problem",
+        "environmental_governance",
+        "ecocentrism"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/063.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/063.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 64,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/064.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 65,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/065.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 66,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/066.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 67,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/067.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 68,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/068.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 69,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/069.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 70,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/070.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 71,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/071.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 72,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/072.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 73,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/073.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 74,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/074.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 75,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/075.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 76,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/076.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 77,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/077.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 78,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "재해·환경 문제·생태 윤리",
+      "linked_concepts": [
+        "disaster_risk_management",
+        "environmental_problem",
+        "environmental_governance",
+        "ecocentrism"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/078.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/078.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 79,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/079.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 80,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/080.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 81,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "재해·환경 문제·생태 윤리",
+      "linked_concepts": [
+        "disaster_risk_management",
+        "environmental_problem",
+        "environmental_governance",
+        "ecocentrism"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/081.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/081.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 82,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/082.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 83,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/083.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 84,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/084.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 85,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/085.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 86,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/086.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 87,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "재해·환경 문제·생태 윤리",
+      "linked_concepts": [
+        "disaster_risk_management",
+        "environmental_problem",
+        "environmental_governance",
+        "ecocentrism"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/087.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/087.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 88,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/088.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 89,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/089.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 90,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/090.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 91,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/091.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/091.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 92,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/092.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/092.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 93,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/093.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 94,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/094.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 95,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/095.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/095.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 96,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/096.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/096.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 97,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/097.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 98,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/098.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 99,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/099.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 100,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/100.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 101,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/101.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 102,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/102.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 103,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/103.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 104,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/104.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 105,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/105.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/105.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 106,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/106.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 107,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/107.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 108,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/108.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 109,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/109.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 110,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/110.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 111,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/111.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 112,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/112.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 113,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/113.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/113.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 114,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/114.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 115,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/115.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/115.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 116,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/116.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/116.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 117,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "문화권·종교·문화 다양성",
+      "linked_concepts": [
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_change",
+        "cultural_identity"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/117.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/117.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 118,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/118.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 119,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/119.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 120,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/120.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 121,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/121.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 122,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/122.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 123,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/123.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 124,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/124.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 125,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/125.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 126,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/126.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 127,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/127.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 128,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/128.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 129,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/129.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 130,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/130.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/130.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 131,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/131.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/131.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 132,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/132.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 133,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/133.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/133.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 134,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/134.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 135,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/135.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/135.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 136,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/136.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 137,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/137.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/137.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 138,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/138.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 139,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정보화·스마트 도시·미래 사회",
+      "linked_concepts": [
+        "information_society",
+        "smart_sustainable_city",
+        "fourth_industrial_revolution"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/139.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/139.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 140,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/140.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/140.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 141,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/141.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 142,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정보화·스마트 도시·미래 사회",
+      "linked_concepts": [
+        "information_society",
+        "smart_sustainable_city",
+        "fourth_industrial_revolution"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/142.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/142.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 143,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정보화·스마트 도시·미래 사회",
+      "linked_concepts": [
+        "information_society",
+        "smart_sustainable_city",
+        "fourth_industrial_revolution"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/143.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/143.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 144,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/144.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 145,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/145.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/145.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 146,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/146.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 147,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/147.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 148,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/148.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/148.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 149,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/149.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/149.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 150,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "도시화·교통·지역 조사",
+      "linked_concepts": [
+        "urbanization",
+        "urban_structure",
+        "transport_development",
+        "regional_research"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/150.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회1/핵심페이지_고해상도/150.jpg"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 151,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/151.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 152,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/152.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 153,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/153.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 154,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/154.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 155,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/155.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 156,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/156.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 157,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/157.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 158,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/158.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 159,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/159.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 160,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/160.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 161,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/161.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 162,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/162.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 163,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/163.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 164,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/164.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 165,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/165.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 166,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/166.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 167,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/167.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회1",
+      "pdf_page": 168,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회1/페이지_저해상도/168.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회1_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 1,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/001.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 2,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/002.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 3,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/003.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 4,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/004.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 5,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/005.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 6,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/006.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 7,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/007.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 8,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/008.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 9,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/009.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 10,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/010.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 11,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/011.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 12,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/012.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 13,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인권 확장·헌법·인권 지표",
+      "linked_concepts": [
+        "rights_history",
+        "constitutional_rights",
+        "new_rights",
+        "rights_remedies"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/013.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/013.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 14,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/014.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 15,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/015.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 16,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/016.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 17,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인권 확장·헌법·인권 지표",
+      "linked_concepts": [
+        "rights_history",
+        "constitutional_rights",
+        "new_rights",
+        "rights_remedies"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/017.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/017.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 18,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/018.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 19,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인권 확장·헌법·인권 지표",
+      "linked_concepts": [
+        "rights_history",
+        "constitutional_rights",
+        "new_rights",
+        "rights_remedies"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/019.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/019.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 20,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/020.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 21,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/021.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 22,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/022.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 23,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/023.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 24,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/024.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 25,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/025.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 26,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/026.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 27,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/027.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 28,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인권 확장·헌법·인권 지표",
+      "linked_concepts": [
+        "rights_history",
+        "constitutional_rights",
+        "new_rights",
+        "rights_remedies"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/028.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/028.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 29,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/029.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 30,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/030.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 31,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인권 확장·헌법·인권 지표",
+      "linked_concepts": [
+        "rights_history",
+        "constitutional_rights",
+        "new_rights",
+        "rights_remedies"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/031.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/031.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 32,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/032.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 33,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/033.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 34,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/034.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 35,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/035.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 36,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인권 확장·헌법·인권 지표",
+      "linked_concepts": [
+        "rights_history",
+        "constitutional_rights",
+        "new_rights",
+        "rights_remedies"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/036.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/036.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 37,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인권 확장·헌법·인권 지표",
+      "linked_concepts": [
+        "rights_history",
+        "constitutional_rights",
+        "new_rights",
+        "rights_remedies"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/037.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/037.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 38,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/038.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 39,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/039.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 40,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/040.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 41,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/041.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 42,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정의·불평등·재분배",
+      "linked_concepts": [
+        "distributive_justice",
+        "equality_principles",
+        "social_inequality",
+        "inequality_indicators",
+        "welfare_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/042.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/042.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 43,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정의·불평등·재분배",
+      "linked_concepts": [
+        "distributive_justice",
+        "equality_principles",
+        "social_inequality",
+        "inequality_indicators",
+        "welfare_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/043.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/043.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 44,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/044.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 45,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/045.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 46,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/046.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 47,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/047.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 48,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/048.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 49,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/049.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 50,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/050.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 51,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/051.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 52,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/052.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 53,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정의·불평등·재분배",
+      "linked_concepts": [
+        "distributive_justice",
+        "equality_principles",
+        "social_inequality",
+        "inequality_indicators",
+        "welfare_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/053.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/053.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 54,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/054.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 55,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정의·불평등·재분배",
+      "linked_concepts": [
+        "distributive_justice",
+        "equality_principles",
+        "social_inequality",
+        "inequality_indicators",
+        "welfare_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/055.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/055.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 56,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/056.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 57,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/057.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 58,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정의·불평등·재분배",
+      "linked_concepts": [
+        "distributive_justice",
+        "equality_principles",
+        "social_inequality",
+        "inequality_indicators",
+        "welfare_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/058.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/058.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 59,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/059.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 60,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/060.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 61,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "정의·불평등·재분배",
+      "linked_concepts": [
+        "distributive_justice",
+        "equality_principles",
+        "social_inequality",
+        "inequality_indicators",
+        "welfare_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/061.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/061.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 62,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/062.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 63,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/063.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 64,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/064.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 65,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/065.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 66,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/066.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 67,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/067.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 68,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/068.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 69,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/069.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 70,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/070.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 71,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자본주의·합리적 선택·시장 참여",
+      "linked_concepts": [
+        "capitalism_history",
+        "rational_choice",
+        "opportunity_cost",
+        "external_effects",
+        "corporate_responsibility"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/071.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/071.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 72,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자본주의·합리적 선택·시장 참여",
+      "linked_concepts": [
+        "capitalism_history",
+        "rational_choice",
+        "opportunity_cost",
+        "external_effects",
+        "corporate_responsibility"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/072.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/072.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 73,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/073.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 74,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/074.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 75,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/075.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 76,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/076.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 77,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/077.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 78,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/078.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 79,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/079.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 80,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/080.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 81,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자본주의·합리적 선택·시장 참여",
+      "linked_concepts": [
+        "capitalism_history",
+        "rational_choice",
+        "opportunity_cost",
+        "external_effects",
+        "corporate_responsibility"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/081.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/081.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 82,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/082.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 83,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자본주의·합리적 선택·시장 참여",
+      "linked_concepts": [
+        "capitalism_history",
+        "rational_choice",
+        "opportunity_cost",
+        "external_effects",
+        "corporate_responsibility"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/083.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/083.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 84,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/084.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 85,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/085.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 86,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/086.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 87,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "금융·경제 지표·생애 설계",
+      "linked_concepts": [
+        "financial_properties",
+        "financial_return_risk",
+        "economic_indicators",
+        "financial_life"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/087.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/087.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 88,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/088.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 89,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/089.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 90,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "금융·경제 지표·생애 설계",
+      "linked_concepts": [
+        "financial_properties",
+        "financial_return_risk",
+        "economic_indicators",
+        "financial_life"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/090.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/090.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 91,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "금융·경제 지표·생애 설계",
+      "linked_concepts": [
+        "financial_properties",
+        "financial_return_risk",
+        "economic_indicators",
+        "financial_life"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/091.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/091.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 92,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/092.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 93,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "무역·세계화·공정 무역",
+      "linked_concepts": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "globalization",
+        "fair_trade"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/093.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/093.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 94,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "무역·세계화·공정 무역",
+      "linked_concepts": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "globalization",
+        "fair_trade"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/094.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/094.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 95,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/095.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 96,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/096.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 97,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/097.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 98,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "무역·세계화·공정 무역",
+      "linked_concepts": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "globalization",
+        "fair_trade"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/098.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/098.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 99,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "무역·세계화·공정 무역",
+      "linked_concepts": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "globalization",
+        "fair_trade"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/099.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/099.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 100,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "무역·세계화·공정 무역",
+      "linked_concepts": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "globalization",
+        "fair_trade"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/100.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/100.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 101,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/101.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 102,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/102.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 103,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/103.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 104,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "금융·경제 지표·생애 설계",
+      "linked_concepts": [
+        "financial_properties",
+        "financial_return_risk",
+        "economic_indicators",
+        "financial_life"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/104.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/104.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 105,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "금융·경제 지표·생애 설계",
+      "linked_concepts": [
+        "financial_properties",
+        "financial_return_risk",
+        "economic_indicators",
+        "financial_life"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/105.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/105.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 106,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/106.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 107,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/107.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 108,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/108.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 109,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "무역·세계화·공정 무역",
+      "linked_concepts": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "globalization",
+        "fair_trade"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/109.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/109.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 110,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/110.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 111,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/111.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 112,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "무역·세계화·공정 무역",
+      "linked_concepts": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "globalization",
+        "fair_trade"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/112.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/112.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 113,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/113.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 114,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/114.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 115,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/115.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 116,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/116.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/116.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 117,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/117.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 118,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/118.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 119,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/119.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 120,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/120.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/120.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 121,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/121.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/121.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 122,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/122.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/122.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 123,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/123.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/123.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 124,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/124.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 125,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/125.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 126,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/126.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/126.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 127,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/127.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 128,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/128.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 129,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/129.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 130,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/130.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/130.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 131,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "국제 평화·분단·동아시아",
+      "linked_concepts": [
+        "international_peace",
+        "division_unification",
+        "east_asia_conflict",
+        "world_citizenship"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/131.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/131.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 132,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/132.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 133,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/133.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 134,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인구 구조·인구 정책",
+      "linked_concepts": [
+        "population_structure",
+        "population_indicators",
+        "demographic_transition",
+        "population_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/134.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/134.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 135,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인구 구조·인구 정책",
+      "linked_concepts": [
+        "population_structure",
+        "population_indicators",
+        "demographic_transition",
+        "population_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/135.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/135.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 136,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인구 구조·인구 정책",
+      "linked_concepts": [
+        "population_structure",
+        "population_indicators",
+        "demographic_transition",
+        "population_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/136.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/136.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 137,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/137.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 138,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인구 구조·인구 정책",
+      "linked_concepts": [
+        "population_structure",
+        "population_indicators",
+        "demographic_transition",
+        "population_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/138.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/138.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 139,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "인구 구조·인구 정책",
+      "linked_concepts": [
+        "population_structure",
+        "population_indicators",
+        "demographic_transition",
+        "population_policy"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/139.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/139.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 140,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자원·에너지·지속가능발전",
+      "linked_concepts": [
+        "resource_distribution",
+        "resource_security",
+        "energy_mix_transition",
+        "renewable_energy",
+        "sustainable_development"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/140.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/140.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 141,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자원·에너지·지속가능발전",
+      "linked_concepts": [
+        "resource_distribution",
+        "resource_security",
+        "energy_mix_transition",
+        "renewable_energy",
+        "sustainable_development"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/141.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/141.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 142,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자원·에너지·지속가능발전",
+      "linked_concepts": [
+        "resource_distribution",
+        "resource_security",
+        "energy_mix_transition",
+        "renewable_energy",
+        "sustainable_development"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/142.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/142.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 143,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/143.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 144,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/144.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 145,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자원·에너지·지속가능발전",
+      "linked_concepts": [
+        "resource_distribution",
+        "resource_security",
+        "energy_mix_transition",
+        "renewable_energy",
+        "sustainable_development"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/145.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/145.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 146,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/146.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 147,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/147.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 148,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "미래 기술·기술 윤리",
+      "linked_concepts": [
+        "fourth_industrial_revolution",
+        "technology_ethics_regulation",
+        "future_society"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/148.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/148.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 149,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/149.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 150,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/150.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 151,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "미래 기술·기술 윤리",
+      "linked_concepts": [
+        "fourth_industrial_revolution",
+        "technology_ethics_regulation",
+        "future_society"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/151.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/151.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 152,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자원·에너지·지속가능발전",
+      "linked_concepts": [
+        "resource_distribution",
+        "resource_security",
+        "energy_mix_transition",
+        "renewable_energy",
+        "sustainable_development"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/152.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/152.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 153,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/153.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 154,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/154.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 155,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/155.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 156,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/156.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 157,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": true,
+      "classification": "자원·에너지·지속가능발전",
+      "linked_concepts": [
+        "resource_distribution",
+        "resource_security",
+        "energy_mix_transition",
+        "renewable_energy",
+        "sustainable_development"
+      ],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/157.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf",
+      "high_resolution_path": "자료/통합사회_교과서_시각자료/통합사회2/핵심페이지_고해상도/157.jpg"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 158,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/158.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 159,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/159.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 160,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/160.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 161,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/161.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 162,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/162.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 163,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/163.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 164,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/164.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 165,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/165.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 166,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/166.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 167,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/167.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    },
+    {
+      "book": "통합사회2",
+      "pdf_page": 168,
+      "inspection_status": "접촉표 육안 판독 완료",
+      "key_visual_selected": false,
+      "classification": "핵심 문항 자료 비선정(본문·사진·활동·정리·부록 포함)",
+      "linked_concepts": [],
+      "thumbnail_path": "자료/통합사회_교과서_시각자료/통합사회2/페이지_저해상도/168.jpg",
+      "source_pdf": "통합사회/JIHAKSA_통합사회2_고_교과서.pdf"
+    }
+  ]
+}

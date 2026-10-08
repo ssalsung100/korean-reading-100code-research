@@ -1,0 +1,36 @@
+{
+  "passage_group": "G048",
+  "source_status": "official_question_reproduction_visual_restoration",
+  "source_url": "https://www.seoul.co.kr/SAT/2012/1/Korean_even.pdf",
+  "local_source_pdf": "/tmp/2012_Korean_even.pdf",
+  "local_source_sha256": "95876ed54788669bdf354fd0c2e1823d17ff096f3ebb02c1c016cecd2ae8b848",
+  "exam_form": "2012학년도 수능 언어 영역 짝수형",
+  "source_page": {"pdf_page_index": 14, "printed_page": 14},
+  "visuals": [
+    {
+      "case_id": "HP",
+      "question_number": 45,
+      "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/HP_score.png",
+      "source_catalog_asset": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._예술/image7.png",
+      "crop_pixels_at_render_scale_2_5": [1090, 1120, 1940, 2070],
+      "sha256": "f1e68498d1d5666a890f3e5b946b6e97673ab6438145a8799f0fbdd1f3c298ad"
+    },
+    {
+      "case_id": "HQ",
+      "question_number": 46,
+      "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/HQ_table.png",
+      "source_catalog_asset": "2012학년도 수능 언어 영역 짝수형 문제지 인쇄 표",
+      "crop_pixels_at_render_scale_2_5": [1090, 2150, 1940, 2780],
+      "sha256": "8fce4fe0b35bdb7c16b73fb3f2ddb7e5fce5d8eb922b2a89e0fb76d1de658c04"
+    },
+    {
+      "case_id": "HU",
+      "question_number": 50,
+      "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/HU_measurement.png",
+      "source_catalog_asset": "2012학년도 수능 언어 영역 짝수형 문제지 인쇄 본문",
+      "crop_pixels_at_render_scale_2_5": [150, 820, 1080, 1550],
+      "sha256": "f5e3b705f84d245e93367984712d3c34555de25e7c288b5c248752fdbea071da"
+    }
+  ],
+  "qualification": "KICE 출처로 재배포된 공식 문제지 PDF의 해당 페이지를 crop하여 blind source용으로 보존했다. HP는 기존 HWPX 시각자료 image7과도 대조된다. 정답·해설·SDSS·코드 판정은 기록하지 않는다."
+}

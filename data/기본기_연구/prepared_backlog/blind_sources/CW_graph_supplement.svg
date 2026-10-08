@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22714" height="14500" viewBox="0 0 22714 14500">
+  <title>CW blind-only 보기 도식 복원</title>
+  <defs>
+    <marker id="arrow" markerWidth="180" markerHeight="180" refX="150" refY="90" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0,0 L180,90 L0,180 z" fill="#000"/>
+    </marker>
+  </defs>
+  <g fill="#fff" stroke="#000" stroke-width="33" font-family="sans-serif" font-size="1000" text-anchor="middle" dominant-baseline="middle">
+    <ellipse cx="6220" cy="2238" rx="2362" ry="2160"/><text x="6220" y="2238">a</text>
+    <ellipse cx="14499" cy="2160" rx="2362" ry="2160"/><text x="14499" y="2160">b</text>
+    <ellipse cx="22778" cy="2161" rx="2362" ry="2160"/><text x="22778" y="2161">c</text>
+    <ellipse cx="14499" cy="10474" rx="2362" ry="2160"/><text x="14499" y="10474">e</text>
+    <ellipse cx="6220" cy="10474" rx="2362" ry="2160"/><text x="6220" y="10474">d</text>
+  </g>
+  <!-- Raw HWPX line geometry, retained as vector segments; no graph interpretation added. -->
+  <g fill="none" stroke="#000" stroke-width="33" marker-end="url(#arrow)">
+    <line x1="0" y1="2267" x2="3744" y2="2267"/>
+    <line x1="8393" y1="2266" x2="12137" y2="2266"/>
+    <line x1="16672" y1="2267" x2="20416" y2="2267"/>
+    <line x1="24951" y1="2267" x2="28695" y2="2267"/>
+    <line x1="4253" y1="6442" x2="4253" y2="10186"/>
+    <line x1="12532" y1="6442" x2="12532" y2="10186"/>
+    <line x1="16672" y1="10580" x2="20416" y2="10580"/>
+    <line x1="56" y1="10579" x2="3800" y2="10579"/>
+  </g>
+</svg>

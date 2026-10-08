@@ -1,0 +1,602 @@
+{
+  "status": "PASS",
+  "pilot_sets": 7,
+  "passed_sets": 7,
+  "total_questions": 28,
+  "total_choices": 140,
+  "length_summary": {
+    "PILOT-ETH-01": 1066,
+    "PILOT-GEO-01": 1075,
+    "PILOT-SOC-01": 1062,
+    "PILOT-ECO-01": 1073,
+    "PILOT-LAW-01": 1096,
+    "PILOT-HIS-01": 1068,
+    "PILOT-INT-01": 1078
+  },
+  "failures": [],
+  "sets": [
+    {
+      "set_id": "PILOT-ETH-01",
+      "title": "PILOT-ETH-01｜분배 정의의 기준과 소유 권리",
+      "recipe": "R02",
+      "status": "PASS",
+      "nonspace_characters": 1066,
+      "paragraph_count": 5,
+      "question_count": 4,
+      "choices_per_question": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "answers": [
+        "④",
+        "③",
+        "⑤",
+        "②"
+      ],
+      "concept_evidence": {
+        "distributive_justice": {
+          "phrases": [
+            "분배적 정의"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "equality_principles": {
+          "phrases": [
+            "절대적 평등",
+            "상대적 평등"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "rawls": {
+          "phrases": [
+            "롤스",
+            "무지의 베일"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "nozick": {
+          "phrases": [
+            "노직",
+            "정당하게 취득"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "liberal_communitarian": {
+          "phrases": [
+            "공동체주의적 정의관",
+            "공동선"
+          ],
+          "passed": true,
+          "missing": []
+        }
+      },
+      "relation_evidence_missing": [],
+      "checks": {
+        "length_1050_to_1250": true,
+        "paragraphs_4_to_6": true,
+        "four_questions": true,
+        "five_choices_each": true,
+        "no_vocabulary_question": true,
+        "view_question_present": true,
+        "answers_four": true,
+        "answers_match_metadata": true,
+        "answers_match_blueprint": true,
+        "no_answer_number_three_times": true,
+        "concept_evidence_complete": true,
+        "relation_evidence_complete": true,
+        "manual_unique_answer_review": true,
+        "manual_fact_review": true,
+        "manual_style_review": true
+      },
+      "failures": [],
+      "manual_review_note": "본문 근거만으로 정답이 유일한지, 각 오답에 주체·방향·범위·조건 오류가 있는지 수동 대조 완료"
+    },
+    {
+      "set_id": "PILOT-GEO-01",
+      "title": "PILOT-GEO-01｜재해와 위험은 같은 말이 아니다",
+      "recipe": "R11",
+      "status": "PASS",
+      "nonspace_characters": 1075,
+      "paragraph_count": 5,
+      "question_count": 4,
+      "choices_per_question": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "answers": [
+        "②",
+        "⑤",
+        "③",
+        "④"
+      ],
+      "concept_evidence": {
+        "natural_disaster": {
+          "phrases": [
+            "자연현상",
+            "재해"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "disaster_risk_management": {
+          "phrases": [
+            "취약성",
+            "대응 역량",
+            "잔여 위험"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "spatial_view": {
+          "phrases": [
+            "공간적 관점"
+          ],
+          "passed": true,
+          "missing": []
+        }
+      },
+      "relation_evidence_missing": [],
+      "checks": {
+        "length_1050_to_1250": true,
+        "paragraphs_4_to_6": true,
+        "four_questions": true,
+        "five_choices_each": true,
+        "no_vocabulary_question": true,
+        "view_question_present": true,
+        "answers_four": true,
+        "answers_match_metadata": true,
+        "answers_match_blueprint": true,
+        "no_answer_number_three_times": true,
+        "concept_evidence_complete": true,
+        "relation_evidence_complete": true,
+        "manual_unique_answer_review": true,
+        "manual_fact_review": true,
+        "manual_style_review": true
+      },
+      "failures": [],
+      "manual_review_note": "본문 근거만으로 정답이 유일한지, 각 오답에 주체·방향·범위·조건 오류가 있는지 수동 대조 완료"
+    },
+    {
+      "set_id": "PILOT-SOC-01",
+      "title": "PILOT-SOC-01｜산업화에서 정보화까지의 사회 변화",
+      "recipe": "R04",
+      "status": "PASS",
+      "nonspace_characters": 1062,
+      "paragraph_count": 5,
+      "question_count": 4,
+      "choices_per_question": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "answers": [
+        "⑤",
+        "②",
+        "④",
+        "①"
+      ],
+      "concept_evidence": {
+        "industrial_social_change": {
+          "phrases": [
+            "산업화·도시화의 사회 변화"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "information_society": {
+          "phrases": [
+            "정보화",
+            "정보 사회"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "cultural_lag": {
+          "phrases": [
+            "문화 지체",
+            "시간 차"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "digital_divide": {
+          "phrases": [
+            "정보 격차",
+            "접근 격차",
+            "역량 격차",
+            "활용 격차"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "digital_citizenship": {
+          "phrases": [
+            "디지털 시민성"
+          ],
+          "passed": true,
+          "missing": []
+        }
+      },
+      "relation_evidence_missing": [],
+      "checks": {
+        "length_1050_to_1250": true,
+        "paragraphs_4_to_6": true,
+        "four_questions": true,
+        "five_choices_each": true,
+        "no_vocabulary_question": true,
+        "view_question_present": true,
+        "answers_four": true,
+        "answers_match_metadata": true,
+        "answers_match_blueprint": true,
+        "no_answer_number_three_times": true,
+        "concept_evidence_complete": true,
+        "relation_evidence_complete": true,
+        "manual_unique_answer_review": true,
+        "manual_fact_review": true,
+        "manual_style_review": true
+      },
+      "failures": [],
+      "manual_review_note": "본문 근거만으로 정답이 유일한지, 각 오답에 주체·방향·범위·조건 오류가 있는지 수동 대조 완료"
+    },
+    {
+      "set_id": "PILOT-ECO-01",
+      "title": "PILOT-ECO-01｜시장은 왜 실패하고 정부도 왜 실패하는가",
+      "recipe": "R04",
+      "status": "PASS",
+      "nonspace_characters": 1073,
+      "paragraph_count": 5,
+      "question_count": 4,
+      "choices_per_question": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "answers": [
+        "③",
+        "①",
+        "⑤",
+        "②"
+      ],
+      "concept_evidence": {
+        "market_failure": {
+          "phrases": [
+            "시장 실패"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "external_effects": {
+          "phrases": [
+            "외부 효과",
+            "사적 비용",
+            "사회적 비용"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "public_goods": {
+          "phrases": [
+            "공공재",
+            "배제하기 어렵고"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "information_asymmetry": {
+          "phrases": [
+            "정보 비대칭"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "externality_correction": {
+          "phrases": [
+            "세금이나 보조금",
+            "교정 수단"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "government_failure": {
+          "phrases": [
+            "정부 실패"
+          ],
+          "passed": true,
+          "missing": []
+        }
+      },
+      "relation_evidence_missing": [],
+      "checks": {
+        "length_1050_to_1250": true,
+        "paragraphs_4_to_6": true,
+        "four_questions": true,
+        "five_choices_each": true,
+        "no_vocabulary_question": true,
+        "view_question_present": true,
+        "answers_four": true,
+        "answers_match_metadata": true,
+        "answers_match_blueprint": true,
+        "no_answer_number_three_times": true,
+        "concept_evidence_complete": true,
+        "relation_evidence_complete": true,
+        "manual_unique_answer_review": true,
+        "manual_fact_review": true,
+        "manual_style_review": true
+      },
+      "failures": [],
+      "manual_review_note": "본문 근거만으로 정답이 유일한지, 각 오답에 주체·방향·범위·조건 오류가 있는지 수동 대조 완료"
+    },
+    {
+      "set_id": "PILOT-LAW-01",
+      "title": "PILOT-LAW-01｜헌법은 기본권을 어떻게 제한하는가",
+      "recipe": "R05",
+      "status": "PASS",
+      "nonspace_characters": 1096,
+      "paragraph_count": 5,
+      "question_count": 4,
+      "choices_per_question": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "answers": [
+        "②",
+        "④",
+        "①",
+        "⑤"
+      ],
+      "concept_evidence": {
+        "constitutional_rights": {
+          "phrases": [
+            "헌법",
+            "기본권"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "rights_categories": {
+          "phrases": [
+            "자유권",
+            "사회권",
+            "청구권",
+            "참정권"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "rule_of_law_separation": {
+          "phrases": [
+            "법치주의"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "rights_limits": {
+          "phrases": [
+            "제37조 제2항",
+            "과잉금지원칙",
+            "침해의 최소성",
+            "법익"
+          ],
+          "passed": true,
+          "missing": []
+        }
+      },
+      "relation_evidence_missing": [],
+      "checks": {
+        "length_1050_to_1250": true,
+        "paragraphs_4_to_6": true,
+        "four_questions": true,
+        "five_choices_each": true,
+        "no_vocabulary_question": true,
+        "view_question_present": true,
+        "answers_four": true,
+        "answers_match_metadata": true,
+        "answers_match_blueprint": true,
+        "no_answer_number_three_times": true,
+        "concept_evidence_complete": true,
+        "relation_evidence_complete": true,
+        "manual_unique_answer_review": true,
+        "manual_fact_review": true,
+        "manual_style_review": true
+      },
+      "failures": [],
+      "manual_review_note": "본문 근거만으로 정답이 유일한지, 각 오답에 주체·방향·범위·조건 오류가 있는지 수동 대조 완료"
+    },
+    {
+      "set_id": "PILOT-HIS-01",
+      "title": "PILOT-HIS-01｜산업화와 자본주의가 바꾼 공간과 사회",
+      "recipe": "R07",
+      "status": "PASS",
+      "nonspace_characters": 1068,
+      "paragraph_count": 5,
+      "question_count": 4,
+      "choices_per_question": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "answers": [
+        "④",
+        "①",
+        "②",
+        "③"
+      ],
+      "concept_evidence": {
+        "temporal_view": {
+          "phrases": [
+            "시간적 관점"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "capitalism_history": {
+          "phrases": [
+            "자본주의의 역사적 전개"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "industrialization": {
+          "phrases": [
+            "산업화",
+            "공장제 생산"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "urbanization": {
+          "phrases": [
+            "도시화"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "urban_structure": {
+          "phrases": [
+            "도시의 공간",
+            "외곽"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "industrial_social_change": {
+          "phrases": [
+            "산업 사회"
+          ],
+          "passed": true,
+          "missing": []
+        }
+      },
+      "relation_evidence_missing": [],
+      "checks": {
+        "length_1050_to_1250": true,
+        "paragraphs_4_to_6": true,
+        "four_questions": true,
+        "five_choices_each": true,
+        "no_vocabulary_question": true,
+        "view_question_present": true,
+        "answers_four": true,
+        "answers_match_metadata": true,
+        "answers_match_blueprint": true,
+        "no_answer_number_three_times": true,
+        "concept_evidence_complete": true,
+        "relation_evidence_complete": true,
+        "manual_unique_answer_review": true,
+        "manual_fact_review": true,
+        "manual_style_review": true
+      },
+      "failures": [],
+      "manual_review_note": "본문 근거만으로 정답이 유일한지, 각 오답에 주체·방향·범위·조건 오류가 있는지 수동 대조 완료"
+    },
+    {
+      "set_id": "PILOT-INT-01",
+      "title": "PILOT-INT-01｜기후 위기의 경제학과 정치",
+      "recipe": "R12",
+      "status": "PASS",
+      "nonspace_characters": 1078,
+      "paragraph_count": 5,
+      "question_count": 4,
+      "choices_per_question": [
+        5,
+        5,
+        5,
+        5
+      ],
+      "answers": [
+        "①",
+        "⑤",
+        "③",
+        "④"
+      ],
+      "concept_evidence": {
+        "environmental_problem": {
+          "phrases": [
+            "기후 변화",
+            "온실가스"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "external_effects": {
+          "phrases": [
+            "부정적 외부 효과",
+            "사적 비용",
+            "사회 전체"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "externality_correction": {
+          "phrases": [
+            "탄소 가격",
+            "교정 효과"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "carbon_neutrality": {
+          "phrases": [
+            "탄소중립"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "climate_governance": {
+          "phrases": [
+            "기후 거버넌스",
+            "국가 간"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "sustainable_development": {
+          "phrases": [
+            "지속 가능한 발전"
+          ],
+          "passed": true,
+          "missing": []
+        },
+        "sdgs": {
+          "phrases": [
+            "지속가능발전 목표"
+          ],
+          "passed": true,
+          "missing": []
+        }
+      },
+      "relation_evidence_missing": [],
+      "checks": {
+        "length_1050_to_1250": true,
+        "paragraphs_4_to_6": true,
+        "four_questions": true,
+        "five_choices_each": true,
+        "no_vocabulary_question": true,
+        "view_question_present": true,
+        "answers_four": true,
+        "answers_match_metadata": true,
+        "answers_match_blueprint": true,
+        "no_answer_number_three_times": true,
+        "concept_evidence_complete": true,
+        "relation_evidence_complete": true,
+        "manual_unique_answer_review": true,
+        "manual_fact_review": true,
+        "manual_style_review": true
+      },
+      "failures": [],
+      "manual_review_note": "본문 근거만으로 정답이 유일한지, 각 오답에 주체·방향·범위·조건 오류가 있는지 수동 대조 완료"
+    }
+  ]
+}

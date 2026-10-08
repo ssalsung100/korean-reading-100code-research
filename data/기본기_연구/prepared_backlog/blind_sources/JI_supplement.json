@@ -1,0 +1,27 @@
+{
+  "blind_only": true,
+  "case_id": "JI",
+  "supplement_type": "local_hwpx_table_cell_order",
+  "source_role": "anonymous_blind_source_supplement",
+  "table_structure": {
+    "header": {
+      "column_1": "㉠",
+      "column_2": "㉡",
+      "header_text_scope": "표 첫 행의 두 대응 열"
+    },
+    "choice_mapping": {
+      "①": {"㉠": "ⓐ", "㉡": "ⓑ"},
+      "②": {"㉠": "ⓐ", "㉡": "ⓒ"},
+      "③": {"㉠": "ⓑ", "㉡": "ⓐ"},
+      "④": {"㉠": "ⓒ", "㉡": "ⓐ"},
+      "⑤": {"㉠": "ⓒ", "㉡": "ⓑ"}
+    },
+    "cell_order_basis": "첫 열의 선지 번호를 기준으로 각 행의 두 셀을 좌→우로 읽음"
+  },
+  "provenance": {
+    "artifact_scope": "로컬 정본 HWPX의 Contents/section0.xml 내 해당 문항 표",
+    "table_role": "첫 행 헤더 ㉠·㉡, 다음 다섯 행 선지 ①~⑤",
+    "original_distribution_pdf_verified": false
+  },
+  "quality_limit": "로컬 HWPX 셀 순서·헤더만 확인했으며 원배포 PDF와의 시각 대조는 하지 않음"
+}

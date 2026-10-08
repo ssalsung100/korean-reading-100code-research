@@ -1,0 +1,1085 @@
+{
+  "status": "secondary_noncanonical_reference",
+  "records": [
+    {
+      "year": 2022,
+      "question": 1,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/1",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q01.md",
+      "html_sha256": "ec230811f720e4f075d79c2c9c903515b6f619fa0096e17fc6813cd0ff634c70",
+      "text_sha256": "aa25676d0f8ce5451751b17199187aa411a5a88eb38a920ff132d44f16b5453b",
+      "text_chars": 2630
+    },
+    {
+      "year": 2022,
+      "question": 2,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/2",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q02.md",
+      "html_sha256": "2226a1fd6bc960b0acb92c3736b70e44eab40622db56fefac86ca19f7de09900",
+      "text_sha256": "d6e3e2ca7cda33cb0a28c6f58bb9f3a79f7e8e49716afb3290d9d4a93bf0a675",
+      "text_chars": 2686
+    },
+    {
+      "year": 2022,
+      "question": 3,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/3",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q03.md",
+      "html_sha256": "9078d0a614681e2a3743580c24944a521b124c3c8a93b7dd2d53a420664a8b6a",
+      "text_sha256": "c7f4026aa0b632dddda1d462730b9f0e4b90b10f574eb1771f315e76b5043e65",
+      "text_chars": 3110
+    },
+    {
+      "year": 2022,
+      "question": 4,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/4",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q04.md",
+      "html_sha256": "28744bf1d56fd05ae7997bd5509d6e9b17e0204b2562c7e3c9d0c4ee02de29c5",
+      "text_sha256": "f077bf18b08ab4d50c9c81bf0986afe9a281ddbfcfc9d28ec6fd66a8cd26113f",
+      "text_chars": 2726
+    },
+    {
+      "year": 2022,
+      "question": 5,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/5",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q05.md",
+      "html_sha256": "377995ad49889be70a8e6648a950fdfb5e95c3891e91c0d70dc91721b371c765",
+      "text_sha256": "29b550d9b862b623e63da14f712004dba2738c08bd6cedb95668c3fe25e7fd38",
+      "text_chars": 2735
+    },
+    {
+      "year": 2022,
+      "question": 6,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/6",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q06.md",
+      "html_sha256": "f640ce1569569e4654694445f321923766437d1c2caf21f859a6a28897564e5b",
+      "text_sha256": "722ad1096fa7f7e686d79f400b081341e47282fcd8a6e332e7a0c433b069a41f",
+      "text_chars": 2881
+    },
+    {
+      "year": 2022,
+      "question": 7,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/7",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q07.md",
+      "html_sha256": "07ed48cfc06e48f8fc3e46ea8361afeba34dd90edcac2d15ebcd110fd78dd2ca",
+      "text_sha256": "1d48a7040e01a3c1333fb7fdefae78be0c5f412bd712f456d0d338f4efe16898",
+      "text_chars": 2594
+    },
+    {
+      "year": 2022,
+      "question": 8,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/8",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q08.md",
+      "html_sha256": "961aae0ce32b44426acbb7a3cad0929c8b57411bd2a9a42f15b7ce1fb6e1f23c",
+      "text_sha256": "25025fc74dd1efa87bbae8eab50089bd28272c8afe27030e62d2e10fa304b1b1",
+      "text_chars": 2730
+    },
+    {
+      "year": 2022,
+      "question": 9,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/9",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q09.md",
+      "html_sha256": "5d4407f7d36902f6efd47678e3428496f5f53406abbad5f4b14add1a87e444bc",
+      "text_sha256": "447299f50f39addac70f1a97e4430bb8fadeb9ab85810fa4043628d154c0721a",
+      "text_chars": 3316
+    },
+    {
+      "year": 2022,
+      "question": 10,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/10",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q10.md",
+      "html_sha256": "4c68c94c5e7dff0db2e453804c7075ba0ee85bc9690f93528dda14e253a178c9",
+      "text_sha256": "7220b13c8b31a112260f89180c2b52ecec0b7ce909411191ff27be30092468a7",
+      "text_chars": 2513
+    },
+    {
+      "year": 2022,
+      "question": 11,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/11",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q11.md",
+      "html_sha256": "748aa44795f36a0b8f2c403dd1d36a7199545db56167948d31a81dfc4d94131c",
+      "text_sha256": "2a35390a7e633d78d5284bbc9152310f434c8f4d27c1241f1676c4d41c982d1a",
+      "text_chars": 257
+    },
+    {
+      "year": 2022,
+      "question": 12,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/12",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q12.md",
+      "html_sha256": "b0e5e333916bef4861db3051b51ee2d501135921aa8eff11da524875b8dfbe81",
+      "text_sha256": "85828ae21ba6e2bd10a8ed61c56bf4d87eb4223e1fa7052c5480ba915bb4d2a7",
+      "text_chars": 2682
+    },
+    {
+      "year": 2022,
+      "question": 13,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/13",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q13.md",
+      "html_sha256": "837aa92c5a057171ce17f1ffc0b889a00c2f8e27b60da84f8efdc784045945d5",
+      "text_sha256": "e41677605532c0a5fb244f83e7447c62ce3e2ffab8b154d90fbcdea0371eabae",
+      "text_chars": 2819
+    },
+    {
+      "year": 2022,
+      "question": 14,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/14",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q14.md",
+      "html_sha256": "8cc51c23b2693f62e3e1793831ee45a1705e666525fdfbc0f7c389c075354c37",
+      "text_sha256": "d5876f3c6b211abe3c1343193ac8ba37864407a7e884004c20d7021541d4ee1c",
+      "text_chars": 2951
+    },
+    {
+      "year": 2022,
+      "question": 15,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/15",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q15.md",
+      "html_sha256": "a68db4f36ffd4dfad2ecec6dd09ec8f0343d2a96e9732de6667d966f55c657b9",
+      "text_sha256": "78143bc94a376a10e9cd10a326c0285c06ac7db479a3f2741b1c4ceb4e66819b",
+      "text_chars": 3392
+    },
+    {
+      "year": 2022,
+      "question": 16,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/16",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q16.md",
+      "html_sha256": "c54b7285e20ecfd8c8536bca2f7a0f38bafbd797782f1b2542a74a2c5ae85972",
+      "text_sha256": "a73b62a778ac746e2ada2012026cb738b6a14b7350f5d610aa2932ddcabddc32",
+      "text_chars": 124
+    },
+    {
+      "year": 2022,
+      "question": 17,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/17",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q17.md",
+      "html_sha256": "39d705879a0d72ba70f5f7ca2e459d7158bdc584b635a0d103d4baa1f8a3a993",
+      "text_sha256": "527b477a3a83681e7c33e13a28c3bef5190ad67c6132bb273773702d6723d04f",
+      "text_chars": 161
+    },
+    {
+      "year": 2022,
+      "question": 18,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/18",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q18.md",
+      "html_sha256": "e1dbff7b7e79c29076b74a99320a3aba5f213dd90d2da113c6681bf4b9e2fa27",
+      "text_sha256": "0142e1d461cd456cda8eff1cda217df50ec89b1a347e0d25cc1a529b56c14b0d",
+      "text_chars": 207
+    },
+    {
+      "year": 2022,
+      "question": 19,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/19",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q19.md",
+      "html_sha256": "8509e7f95916a51ed48bfc43b809203170bb5fdefb44cd64563db7a0e53374cf",
+      "text_sha256": "b36940a55cee7c1fda4f4f06b8527398fa4668650b8e43fb48704ddf92bbbc9a",
+      "text_chars": 3181
+    },
+    {
+      "year": 2022,
+      "question": 20,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/20",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q20.md",
+      "html_sha256": "34f9f82aef4aec8a91bcdb4817393d4caed4eb2493c33fbdab704e41835e0176",
+      "text_sha256": "65aea85bed6a7f689e1bd9f480e8ed61a5651160145745029527876aadc7114c",
+      "text_chars": 3040
+    },
+    {
+      "year": 2022,
+      "question": 21,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/21",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q21.md",
+      "html_sha256": "30a457539cd6376cded4709a5275600da047451bfbb29e0512ea990324f33d10",
+      "text_sha256": "c348a606807a2b43961b3a7dc3f7d1d99b2dec25bd21e45154e75f568bd17afc",
+      "text_chars": 3409
+    },
+    {
+      "year": 2022,
+      "question": 22,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/22",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q22.md",
+      "html_sha256": "aabd2dca8f3a4d89766286ff9f4f25130a070325095980e50af1354a24140a96",
+      "text_sha256": "51ba620f66e20a719ac39f832f81bb317c83bd29b57f04553405413666046648",
+      "text_chars": 2454
+    },
+    {
+      "year": 2022,
+      "question": 23,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/23",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q23.md",
+      "html_sha256": "e20f79f0d47f928182b2d6b777aabb68295a9b6072313279503d97b31a33418f",
+      "text_sha256": "06bf4c41187afb6949a8b191d76e473c2ed36039dced655e60ce329fbc720b40",
+      "text_chars": 2554
+    },
+    {
+      "year": 2022,
+      "question": 24,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/24",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q24.md",
+      "html_sha256": "f26b3b1392b58d9ad302aa407ec74c59b469f7f08f531cdf118c7d7e6f6f9de6",
+      "text_sha256": "99b2599e8f9fe0916226a01a683a2b4650668d5eac8f932dc12423bfebc9d77e",
+      "text_chars": 3067
+    },
+    {
+      "year": 2022,
+      "question": 25,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/25",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q25.md",
+      "html_sha256": "1f62770968226f04c2fddde61ff6ed794c2acf81ae67bdef9f3804eab0438191",
+      "text_sha256": "f13e7cb53a1466595d6892002109b56ae0e5cc1979131a258de2f239637b4168",
+      "text_chars": 2268
+    },
+    {
+      "year": 2022,
+      "question": 26,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/26",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q26.md",
+      "html_sha256": "b06d2d12c69c0bb4fa4b976e768a1204a91d19d6b7c432791e9f26efd0973879",
+      "text_sha256": "cb4e632a11aa512bd4fd896b24f7464f22d3075bdf72c4c8df794e94e4a8cb91",
+      "text_chars": 2367
+    },
+    {
+      "year": 2022,
+      "question": 27,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/27",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q27.md",
+      "html_sha256": "5e2559f82f7bce49cd3d7b9cabae97bbcca7da4c54dbbbffcafec3bd7f70f5be",
+      "text_sha256": "cc1ff311c444e0086f3f9709df25b27df6497b3134278fdc4fb8c93a916769ba",
+      "text_chars": 2316
+    },
+    {
+      "year": 2022,
+      "question": 28,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/28",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q28.md",
+      "html_sha256": "24a748aa6cc5468bdf8222903677beb55b2ce5d4ae77275e3e1fa5c538e7ae8e",
+      "text_sha256": "c28f872f45c1c64729306414a317af6cce7406b074ba2f3745434f9783b3d159",
+      "text_chars": 2601
+    },
+    {
+      "year": 2022,
+      "question": 29,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/29",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q29.md",
+      "html_sha256": "9988c96aed7f7fa8c1fbcefcf9b23def948842a86811f3af64be9398ab3b7acd",
+      "text_sha256": "6538421b0baeea0b3611ba405b931236219bcd7a6c7562fa02bd5192d17695b3",
+      "text_chars": 2528
+    },
+    {
+      "year": 2022,
+      "question": 30,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2022/30",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q30.md",
+      "html_sha256": "7304a53f2aa7e878d3c5686a1838bc1b787918670a4308228a091839035bd76a",
+      "text_sha256": "45c3c993debf5cf7694075fad32a80a7fff3288a08e27dbf2ee0fe0380b10b18",
+      "text_chars": 2988
+    },
+    {
+      "year": 2023,
+      "question": 1,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/1",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q01.md",
+      "html_sha256": "cd8e1c0d2f7d2cb85419af5896339f1d6b6465530cd566fd25dfcdec4a3ee730",
+      "text_sha256": "06447e39146b3e7f9cb0c78e8d7a6372576286c5b6c6f8d7e49d297bdfcb8e2b",
+      "text_chars": 2602
+    },
+    {
+      "year": 2023,
+      "question": 2,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/2",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q02.md",
+      "html_sha256": "11c4762c036ae7c8a39160e05ae700da49fe39750d405f7669326e8ef276c867",
+      "text_sha256": "63f78e4c296f5f028e60f5d3b0b223e61e3282b76815998b26136a20bfa18d4e",
+      "text_chars": 2489
+    },
+    {
+      "year": 2023,
+      "question": 3,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/3",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q03.md",
+      "html_sha256": "f2cc9a033b8708047d30f64b66ed902f0569af0bd74a8cbd39406059f7614ab3",
+      "text_sha256": "903ed68692a71f7daebd30909e38157e826ed24bc94e9536960a3c6a2759c79b",
+      "text_chars": 3126
+    },
+    {
+      "year": 2023,
+      "question": 4,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/4",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q04.md",
+      "html_sha256": "55a310be39e56dee44cb06ebd2b60440d7d9526610451a391b935748f448f53d",
+      "text_sha256": "8a158fce9e4dc6d294b0357e1f368761bdda0af83960b53854e7468485325c6b",
+      "text_chars": 2568
+    },
+    {
+      "year": 2023,
+      "question": 5,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/5",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q05.md",
+      "html_sha256": "40164aae24faabe03d1aa6a02682ca50ad76e94495ddbbcb9692a31e4b38643b",
+      "text_sha256": "ed1bb5b40b5ab27a0e47937fdaf6782cad82530dce103d714c38d0a5139795d6",
+      "text_chars": 2679
+    },
+    {
+      "year": 2023,
+      "question": 6,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/6",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q06.md",
+      "html_sha256": "257067c89eea454f51794ad8cc3354aa1e647ef3a9230215bd52ea71130bea1a",
+      "text_sha256": "87a8a44444f18cfcdf1303b0af9dcd46af4cda12c38d3f558c736b70b1d42eae",
+      "text_chars": 2734
+    },
+    {
+      "year": 2023,
+      "question": 7,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/7",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q07.md",
+      "html_sha256": "99779470a5dbaf32e359c6bf6fbf7501e689a6a9e01dafa7dbcd205475af8af9",
+      "text_sha256": "53b4f5e164d1422c31e3266270a95554e937cd689342d8c6e9c30ecdb6f24ba8",
+      "text_chars": 2665
+    },
+    {
+      "year": 2023,
+      "question": 8,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/8",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q08.md",
+      "html_sha256": "57eb0c51cd9f0988ccb830878d4037c9de4178570f9b65968a7caa5ea065b490",
+      "text_sha256": "d6bf441e339ac491cf8728d7a350b81e504dce614f747a25932ef4f41f955c8d",
+      "text_chars": 2806
+    },
+    {
+      "year": 2023,
+      "question": 9,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/9",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q09.md",
+      "html_sha256": "773a80d031985d1d2ef2021f2581d09bdb45e9fc23fe3d58f0a941f133f3727b",
+      "text_sha256": "8b9edc709a2d16e2905e3ef4cdf4159e309a5c8e35eafd88a4dd1de4d04bc6ef",
+      "text_chars": 2684
+    },
+    {
+      "year": 2023,
+      "question": 10,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/10",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q10.md",
+      "html_sha256": "1bf2a86c1112b5865b239d3f09a79de6388e3e394eda7424d62abd3eacaf6073",
+      "text_sha256": "e19a7e05853e37fbe57474b67cd795627d1c48ef780249fd24eaff5644b117e7",
+      "text_chars": 2446
+    },
+    {
+      "year": 2023,
+      "question": 11,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/11",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q11.md",
+      "html_sha256": "5b4210757c9f3572a084bf65edf0a746dfc36200b3104a2af71b17f2891fe2cd",
+      "text_sha256": "23d80e8d4a550edcc3e92c33cc6ea36db79cb9c0623c05eb8ec107d81a64f56c",
+      "text_chars": 2620
+    },
+    {
+      "year": 2023,
+      "question": 12,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/12",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q12.md",
+      "html_sha256": "e900e9dfff9a7474f9e3701d71ee8575e9c9c05ddb116501306904e682ad1c46",
+      "text_sha256": "d6fd3fd1dcc4220d795538ea824feb4b527c7584127ca4179128a6753975bbb0",
+      "text_chars": 3306
+    },
+    {
+      "year": 2023,
+      "question": 13,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/13",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q13.md",
+      "html_sha256": "6b798215517d7b448b3913701a63092f8b9068634fae9ee47bdfdcc5b6931609",
+      "text_sha256": "9e1ae34a652e3797ef65756f8257d287380434be1486e94c44496277b93a6d82",
+      "text_chars": 2859
+    },
+    {
+      "year": 2023,
+      "question": 14,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/14",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q14.md",
+      "html_sha256": "6ce6af35c17f3108898cbdf37f0c597cd8614d13e7b8e1f6be8741b55e00f465",
+      "text_sha256": "384cd6f29c3627540811e39b8df59c15c8fd44ac01f98b3a650e6d9789f28629",
+      "text_chars": 3142
+    },
+    {
+      "year": 2023,
+      "question": 15,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/15",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q15.md",
+      "html_sha256": "4dd8fc52d947422294c3210c5f0f1e5a8cfa28e1f905340af5ce9873063feba3",
+      "text_sha256": "4ceb6a6100327570d6cd63d87ccb64625b3dc6f492bef96eed03b487eadd5081",
+      "text_chars": 276
+    },
+    {
+      "year": 2023,
+      "question": 16,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/16",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q16.md",
+      "html_sha256": "7ef2031f1045ee4c2704797ac9f287a3fb6e7e9b7d2313da4414da3ead1796d5",
+      "text_sha256": "8c623d16357fb2a6ce713d315e00fee634e8c0e10e6859b497ae069b1cf7d15c",
+      "text_chars": 3209
+    },
+    {
+      "year": 2023,
+      "question": 17,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/17",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q17.md",
+      "html_sha256": "17f089ef9c17ee8fa798fc7faba49f8f623ff24275061b01065b8a8a9c814c77",
+      "text_sha256": "45ac37fa5c16aa6f23e37502428232d7dee79963de437b8f06730119e907dd39",
+      "text_chars": 3230
+    },
+    {
+      "year": 2023,
+      "question": 18,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/18",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q18.md",
+      "html_sha256": "ffd614c9ae7143fcb60fa8cf436fcb5a65c193fe4d5d24c1eda1a2ef816d5543",
+      "text_sha256": "cb682b5414b57aa7709083e8727f0b00916bc6cdfa2bafcc44399021ad064a76",
+      "text_chars": 3178
+    },
+    {
+      "year": 2023,
+      "question": 19,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/19",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q19.md",
+      "html_sha256": "585ea34fd4e8cb008d07a4599176338e3a7d8516856cae74f2793f1b508ce795",
+      "text_sha256": "4a876799498da25a3b7ad1b8a5282bf7a214b94c3790ad420fe83de97dea10a1",
+      "text_chars": 191
+    },
+    {
+      "year": 2023,
+      "question": 20,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/20",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q20.md",
+      "html_sha256": "4e7727b191e6c9ae412bf80e356c8c1fa754899543a998c5078241baa9def1d2",
+      "text_sha256": "a4fb82c71121c9f112b55997c1d6409aba163dee7626511ed36c9c2dec536879",
+      "text_chars": 231
+    },
+    {
+      "year": 2023,
+      "question": 21,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/21",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q21.md",
+      "html_sha256": "5c08008c56c9c900c8463751dbb7599560fe42a7d7e163db25ce459f1e94bee3",
+      "text_sha256": "41a5f62a111f51d4daa8ecd70934568e24be5fc4ea8dfa9d7b549c7bb71dbbd4",
+      "text_chars": 239
+    },
+    {
+      "year": 2023,
+      "question": 22,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/22",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q22.md",
+      "html_sha256": "faab1b9f407bde3ba75780bfa9956be47c18567f07801366390107affa7b0413",
+      "text_sha256": "c09ba9954c94a77d592812503ebc4fd59af1596545c1ac263a063638f7ef5fd3",
+      "text_chars": 2551
+    },
+    {
+      "year": 2023,
+      "question": 23,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/23",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q23.md",
+      "html_sha256": "d0ae2d55e61756dc3af902437d327d6700409b23bc7be02e82a4d5fbc9c6419b",
+      "text_sha256": "34d57d436d8a8b7bd178219f90a7e0f890197f8d1250234bbc5df7b30a83bc61",
+      "text_chars": 2550
+    },
+    {
+      "year": 2023,
+      "question": 24,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/24",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q24.md",
+      "html_sha256": "250f16bc1bb00c4797181c77dbfee6fa4fac909077fb264b0e39906f64673a05",
+      "text_sha256": "96f3f65c0c498a1d711ccde58167cc38e5f3b191e2c2cdf4d3ce66f9e7a58113",
+      "text_chars": 3151
+    },
+    {
+      "year": 2023,
+      "question": 25,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/25",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q25.md",
+      "html_sha256": "d14d7249bde3995b137bc8bd10203b8f700dc625ac9a2bf5128706b964c5862d",
+      "text_sha256": "504bdfc4ddb3659ecda673b9a2b820e18ee9873e57e984542aab3537a648944e",
+      "text_chars": 276
+    },
+    {
+      "year": 2023,
+      "question": 26,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/26",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q26.md",
+      "html_sha256": "4db7582b6b0fd22e8f0e4ce7d870f5821eb03e8eb0fc263622c58a66df86dece",
+      "text_sha256": "6e7ef5763e08f93673d8daa77ae00b83d1388d968da966609da6b9e9d226d32f",
+      "text_chars": 257
+    },
+    {
+      "year": 2023,
+      "question": 27,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/27",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q27.md",
+      "html_sha256": "104b374dab8870ba813db2d370ebc05cb49da3d2639c3e5e62bc68a7d2eb940f",
+      "text_sha256": "2cbcb30113a631f2c1ff21422cbcb5ed634033f40b6f5149be02bb15f240a55d",
+      "text_chars": 138
+    },
+    {
+      "year": 2023,
+      "question": 28,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/28",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q28.md",
+      "html_sha256": "683e4b51dd897a0c4ab12cc95dbea21f6c89c7743adad4490b6f84aa7bbb341f",
+      "text_sha256": "3c67b7db7b1be04851a1d04c0ff2ed0da8593e18d6b7c9a89b7ceb2ff80919f2",
+      "text_chars": 2667
+    },
+    {
+      "year": 2023,
+      "question": 29,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/29",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q29.md",
+      "html_sha256": "49704448e034d7704d4f72642bbb7e7d0be07cd520883427d8b4f091428e4122",
+      "text_sha256": "8fb0bd03ed5e5254edef6e2aef86261b3cd92687aa316850ca0c7699dbbb74f2",
+      "text_chars": 2574
+    },
+    {
+      "year": 2023,
+      "question": 30,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2023/30",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q30.md",
+      "html_sha256": "94e19d834e88d3df9f066d1abe4556c824031c903a6f2df2be15dd07fa396c09",
+      "text_sha256": "d2b515cd1b19cf601d68809f7ff37d796a0f28316faa0e27be4e5753a745c0a6",
+      "text_chars": 2994
+    },
+    {
+      "year": 2024,
+      "question": 1,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/1",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q01.md",
+      "html_sha256": "e6e618c2e1be4e9e82f7f379ea8ab01e263dcf56fe67c6f98266d1a48d9be47b",
+      "text_sha256": "c27fbe6193fa634e15f377643d95162afe5a77b1c42e01ff4c916787585f4476",
+      "text_chars": 2769
+    },
+    {
+      "year": 2024,
+      "question": 2,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/2",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q02.md",
+      "html_sha256": "2f10865912c3abbfad78dfa3b0cf366037e559dd5022a5d9d07d69940d91b822",
+      "text_sha256": "7fcc0ab667d588644cb7ce66ef913d962e4b136b1c97c1d62ea3f9b93bc93652",
+      "text_chars": 2952
+    },
+    {
+      "year": 2024,
+      "question": 3,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/3",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q03.md",
+      "html_sha256": "18276c58aa8dd9fd078537057524647ddc30bd108eb59b928a3224a319715637",
+      "text_sha256": "4d6047a279f6f9c5e057bcdaa3eeb31063b3a363253fb01ccd8964d54419cf3b",
+      "text_chars": 2776
+    },
+    {
+      "year": 2024,
+      "question": 4,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/4",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q04.md",
+      "html_sha256": "69ba280cdcbf1143ab3c34f0ab5b598b32eef156075b083a460857953959d26c",
+      "text_sha256": "6e444c73809a6da8fcb5cf87d34aa26654d87c4a2ce4b8b8c5a7810d9e7b0901",
+      "text_chars": 2480
+    },
+    {
+      "year": 2024,
+      "question": 5,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/5",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q05.md",
+      "html_sha256": "38b9a39ce3afbd98ca47676dcd7a564912ff6ef6c6b58268edf6a82e95c77c96",
+      "text_sha256": "140626d375692a9cc81a2452dc13820e40eb3d78bf6ef68f1a9a44001bb93d78",
+      "text_chars": 2713
+    },
+    {
+      "year": 2024,
+      "question": 6,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/6",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q06.md",
+      "html_sha256": "0eb87a54e3bb90813bd824e49e7316cac8fd2f2d8ccfdad42983d0c9d5ff670a",
+      "text_sha256": "667e9662947cdc66b4d972276b679fe8afe72f04394433b74e1e1e2c4b9b12dd",
+      "text_chars": 3400
+    },
+    {
+      "year": 2024,
+      "question": 7,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/7",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q07.md",
+      "html_sha256": "32d2ac3a25e2eae1bd7923dc2f4d65520a7bbe361f653944c7f01b6b6ea8686d",
+      "text_sha256": "2be4dab3aab22e2cd77bf3bbf70144a8090016ab77ba6a096a8a6914f69bec6a",
+      "text_chars": 2897
+    },
+    {
+      "year": 2024,
+      "question": 8,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/8",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q08.md",
+      "html_sha256": "d29026f14d04816595e5557af12aab4f2ed1021246833a7f042c2715b256ebbc",
+      "text_sha256": "b0ad423950ce4d985beca074fe3109a055216ce18e06850d8f4ca232a1ef3edd",
+      "text_chars": 2883
+    },
+    {
+      "year": 2024,
+      "question": 9,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/9",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q09.md",
+      "html_sha256": "af8cadfc7ed7b369080cd39ab6ec5fc21ce1f843d17c59cced7ceec2ed487654",
+      "text_sha256": "a2b89a4ca10d1fa41a6a76176f059f1282788446ef1e759e60a327c4b1d1159f",
+      "text_chars": 3223
+    },
+    {
+      "year": 2024,
+      "question": 10,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/10",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q10.md",
+      "html_sha256": "5156592f3227efb6f56b24387ce71dbda9824612445ce61ad77cee99de99fbc0",
+      "text_sha256": "6985b5f7dcc480ef79db5cae51387dca8427b19b22c381a1941b1886ee1a3956",
+      "text_chars": 2581
+    },
+    {
+      "year": 2024,
+      "question": 11,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/11",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q11.md",
+      "html_sha256": "6c1a38765c85fb60449581e11135ab5a92f584f4048ea0db9a79179d2e89b562",
+      "text_sha256": "532bc5410c5ce4cca32f59d67db77b5ab9d95abf296db01d85028eb57ca4dad6",
+      "text_chars": 2771
+    },
+    {
+      "year": 2024,
+      "question": 12,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/12",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q12.md",
+      "html_sha256": "94d06ac3e55170683fca22dd1ae6f2102ed0cccc7a8e54c1430ec6e809056565",
+      "text_sha256": "6aea23bb9e7b9a4db5cd5424fa6e4c3fe31babc60d9fd167066dfbd824dcca2d",
+      "text_chars": 2690
+    },
+    {
+      "year": 2024,
+      "question": 13,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/13",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q13.md",
+      "html_sha256": "a60788f3158e848cc5c74eaa3146efbfd48f99a9349cbf9efbdcbd4a80c8a09e",
+      "text_sha256": "639cef2cd7ca9e6fb63f8a953178f94448d3c3b85a5f4cad993e4ff1385b23a7",
+      "text_chars": 285
+    },
+    {
+      "year": 2024,
+      "question": 14,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/14",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q14.md",
+      "html_sha256": "65f58286001e86dfb7a0cdf4035449853555da0a312fb262dcd30046bd4fa0a2",
+      "text_sha256": "bd46b92cb8208e488acd614af5c902128dfef6a39d2d1d59efa3bc4691ad0950",
+      "text_chars": 323
+    },
+    {
+      "year": 2024,
+      "question": 15,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/15",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q15.md",
+      "html_sha256": "54b9e2416cbf6b0e314af2ef43796bea3745686add1cec68d3886916bf107281",
+      "text_sha256": "f4f6465f7da39a8b3c31e8264527b024989a396f29a13fbdc0f7636745ae721d",
+      "text_chars": 197
+    },
+    {
+      "year": 2024,
+      "question": 16,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/16",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q16.md",
+      "html_sha256": "1129e1e5c59b17212ea00163394afe023a801c73cde8ab96575b63b0a4d3f8e7",
+      "text_sha256": "949a26b7fbeaea5ef30ccb836403ee8d13965bf8378122f937cc75e1321dc203",
+      "text_chars": 2575
+    },
+    {
+      "year": 2024,
+      "question": 17,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/17",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q17.md",
+      "html_sha256": "76f181b03ff97fe29df4c1f9e956ad3ac521cb335ec8010f77705adaecb83cd1",
+      "text_sha256": "85051b50ea05fe35aa2f2725880f1610524c3a4203cd6b54bcb57a5b9b5588f2",
+      "text_chars": 2624
+    },
+    {
+      "year": 2024,
+      "question": 18,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/18",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q18.md",
+      "html_sha256": "8916c7a2cba130babeeb1f200cddbdafb49dd0025a1470fb8dfc78dc0cbbfa73",
+      "text_sha256": "edb9a994af88b8632ceba1b4dd2fa9ffcba02d7fb91a7adb7a0e264f06b16e4d",
+      "text_chars": 3257
+    },
+    {
+      "year": 2024,
+      "question": 19,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/19",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q19.md",
+      "html_sha256": "5637b641575e346fd991d00036d799fb7220d9d8a48622dd24acf940b562808d",
+      "text_sha256": "5894037270244524243c33b955f0ff6bdea69b2921a67720365663050ea4af91",
+      "text_chars": 2831
+    },
+    {
+      "year": 2024,
+      "question": 20,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/20",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q20.md",
+      "html_sha256": "d87d98be690ee16b57af81f46ce988fa63f4a7b62d33d0e68d4108ccef4ab660",
+      "text_sha256": "d3c1c33cdf44df941c41d46f07dce60d8fb93c2718a5e761279e7b52e45b76e4",
+      "text_chars": 2912
+    },
+    {
+      "year": 2024,
+      "question": 21,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/21",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q21.md",
+      "html_sha256": "e8ff909bc4451cb00fd0b78fbc5c94b857f38f8eccf6b2699e1189e48f28533e",
+      "text_sha256": "916347f0576985736b0202921d87ac7b60961ff55634516224a27fc35c2f8ae8",
+      "text_chars": 3297
+    },
+    {
+      "year": 2024,
+      "question": 22,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/22",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q22.md",
+      "html_sha256": "b947c178b3d9fd6c846c0494407126d525dc75e6e628737bf90f68796c2a1f74",
+      "text_sha256": "a87f5b91994748a70d959abc469ab7b44e047c0270666ce8a9504cd0232cc755",
+      "text_chars": 2449
+    },
+    {
+      "year": 2024,
+      "question": 23,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/23",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q23.md",
+      "html_sha256": "0d4ad26eeaf3c002d1f93b64b156a605fdc414b9cb5a487b951bc29014573625",
+      "text_sha256": "e768b60da48798ede8e8bbcc28ea351c0a3f5f538987f54f54153c61c773cae4",
+      "text_chars": 4345
+    },
+    {
+      "year": 2024,
+      "question": 24,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/24",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q24.md",
+      "html_sha256": "45422b7dd14eb66e9478f626bb7724dddab9e79242f072287af941dc2761371c",
+      "text_sha256": "81af4b3b2b3a0a8674ad2e897970865fc942c25676cb02559d11e4b2103ff10c",
+      "text_chars": 2988
+    },
+    {
+      "year": 2024,
+      "question": 25,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/25",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q25.md",
+      "html_sha256": "fb5125110b0116db1b02d98dcca9c17b682e95ebe03f5e9bf8307672fcef7207",
+      "text_sha256": "4b4ddf48755ba9b9d9cddf85ed803ca62c32d42390fab8634036210828775797",
+      "text_chars": 2420
+    },
+    {
+      "year": 2024,
+      "question": 26,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/26",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q26.md",
+      "html_sha256": "eafb143fdc4b02e9ac0c6b8456eeda2359357eec55cb5048c65fbad94564d19d",
+      "text_sha256": "6445d0225cc1e8ae943671909f09a82900adf06ab47fcd27c93585421423c414",
+      "text_chars": 2595
+    },
+    {
+      "year": 2024,
+      "question": 27,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/27",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q27.md",
+      "html_sha256": "0fed1461ba5b4eb7e6726ba42d6bc9b26e74277864b6a3ca10b2ddbf5d076d79",
+      "text_sha256": "7dc2d5c6183ba79c440b929bfc99edf2488069a45108c2cba501381e7b0fb16b",
+      "text_chars": 3059
+    },
+    {
+      "year": 2024,
+      "question": 28,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/28",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q28.md",
+      "html_sha256": "8844b36e2bcc2e7c6d64a7b04a6d54e32c48907b5e496e3491e6059a606a27c2",
+      "text_sha256": "c7117bd3ce6054ef275bdaebddadd3212a0d082b96ea8ffeeff85b716cf08257",
+      "text_chars": 2219
+    },
+    {
+      "year": 2024,
+      "question": 29,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/29",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q29.md",
+      "html_sha256": "c38001f6380fa345ff0d2c747be678e918b8b403b9eb9df1bce4056f6a30a379",
+      "text_sha256": "9cfc63a5e5cea0dde7a0b68f20deded5ee61a7b3e5934b06f5e29351b5189d87",
+      "text_chars": 2337
+    },
+    {
+      "year": 2024,
+      "question": 30,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2024/30",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2024/q30.md",
+      "html_sha256": "6066ee12e7fff7bf4847fa2205548c9f3cb4a73cad8db85a43c7461c372d4733",
+      "text_sha256": "72f15a292225a5a8529619089187bc99f961c35a36136160400f1eef54988377",
+      "text_chars": 3038
+    },
+    {
+      "year": 2027,
+      "question": 1,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/1",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q01.md",
+      "html_sha256": "f2b75d415f6eacced5b328cab4e7d3722974aacc7e07329af517aaeb04e0b4e0",
+      "text_sha256": "3de7a5a9a82232f1b426e7192b02752581443b9402a9fbfaeda0e8b71e6a7174",
+      "text_chars": 305
+    },
+    {
+      "year": 2027,
+      "question": 2,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/2",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q02.md",
+      "html_sha256": "e5e7f98638a9036e2c976cb80b4b52278b633e2a6d4123c2954ed47e855bef6c",
+      "text_sha256": "d8df6a96e2bcd3a7b835e08617623e4f038a5bba4efec1afbbfefcc79c314841",
+      "text_chars": 318
+    },
+    {
+      "year": 2027,
+      "question": 3,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/3",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q03.md",
+      "html_sha256": "0315101372d15595ba2a9f7777676f0943ef1c113f68bb9f658f892515ab5e63",
+      "text_sha256": "0fd113e4ce700108182fd172325c24813c919d75ac02ad4be22f6ebee84a9fff",
+      "text_chars": 406
+    },
+    {
+      "year": 2027,
+      "question": 4,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/4",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q04.md",
+      "html_sha256": "ae36250d2887b98eb2cfcc6df6073bd7e21b3ddd0a80c6f8b6035e82109a7f2f",
+      "text_sha256": "9552f713fff4933e0410ac1ea40746ccd2c62b74ca30404764b779e6191f82aa",
+      "text_chars": 226
+    },
+    {
+      "year": 2027,
+      "question": 5,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/5",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q05.md",
+      "html_sha256": "178b8ac3c39de71e4203283ffcb7cdb4a97da1e1c75170e082aeebd7ba6c0350",
+      "text_sha256": "b59f46e987817115000f8aecd58ca0bc190be8395c13810c2fe7cf0be60b48d9",
+      "text_chars": 345
+    },
+    {
+      "year": 2027,
+      "question": 6,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/6",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q06.md",
+      "html_sha256": "c87ca5dacb53c72cc09fc1cdbb1ae5d1107aa1da017abfabce88b84575ad41de",
+      "text_sha256": "76b196a2b3c8aeae504e1091f540310276e18965a4d6267477fa37ae8e029702",
+      "text_chars": 379
+    },
+    {
+      "year": 2027,
+      "question": 7,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/7",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q07.md",
+      "html_sha256": "d4cb4772d6918c7f84ac14dcef171af53e1c6b841156e837c5a5f6db821b312b",
+      "text_sha256": "a37d65157088705b3cd49518e384333a18eac2643142f3d0299f7df02074cbb9",
+      "text_chars": 214
+    },
+    {
+      "year": 2027,
+      "question": 8,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/8",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q08.md",
+      "html_sha256": "5de3f222bc40938104626815905160125ee6098edeb0d9cd1a103bb9a45b6e74",
+      "text_sha256": "12a210ea5fb366782cfd57a44dae3c0e304694549da3d997fa83b05b5658f012",
+      "text_chars": 379
+    },
+    {
+      "year": 2027,
+      "question": 9,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/9",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q09.md",
+      "html_sha256": "43f82c2f020e783558c105dbeb0695c0666498490ceea67dbf6fc73bf7fca24f",
+      "text_sha256": "af5897b9c3ad8cae74426b05b183575ffe461fe956c9a9be0cd5acafde42e617",
+      "text_chars": 319
+    },
+    {
+      "year": 2027,
+      "question": 10,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/10",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q10.md",
+      "html_sha256": "30153105a2839094bed54690baaa8b1cee871ae818c3da6f40d85c058aa746fe",
+      "text_sha256": "94a57a7b1a872f0ebd451bea1a8aa7e7c31221fcaa788f7c3f9231a980466d64",
+      "text_chars": 241
+    },
+    {
+      "year": 2027,
+      "question": 11,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/11",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q11.md",
+      "html_sha256": "5d0448c3e8df758e9a7615fa91c70c86f08dd004d8e7989ae7af255b99922c83",
+      "text_sha256": "caad158213cf80ff67167285f6e0a95b86455e914232f4974010496b281e1758",
+      "text_chars": 347
+    },
+    {
+      "year": 2027,
+      "question": 12,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/12",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q12.md",
+      "html_sha256": "6ef9d9cba69fe1dc8f018062bb0a1bdb4b28682d72da3eb6afdad7545ebe2e53",
+      "text_sha256": "ddb9ae55a9358b1e888fe92d8d54f48450ed44988475d5d64c3db6a7b35aeede",
+      "text_chars": 265
+    },
+    {
+      "year": 2027,
+      "question": 13,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/13",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q13.md",
+      "html_sha256": "c3ee996c870e877b9998f0bda4de6cb69e2617bcbf298f9970623eb35cd7084d",
+      "text_sha256": "5e7f6e193bd76cc913ce925e686fc15920506d8549cfc50e5652ebbcfb9386dd",
+      "text_chars": 310
+    },
+    {
+      "year": 2027,
+      "question": 14,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/14",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q14.md",
+      "html_sha256": "189206aebe5b74aaf9b0a7cc98e7b84ecd1be9209fd2815bc205bc96bee9a228",
+      "text_sha256": "3d9676fe43c82f3078df9f612ea9428d7225a53f6fe2d956a2f10694f2cc4fef",
+      "text_chars": 346
+    },
+    {
+      "year": 2027,
+      "question": 15,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/15",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q15.md",
+      "html_sha256": "a53ac1e6f7e2fce65205014e66e8b3eee772b50c6faac376b91fefac71c2ea1a",
+      "text_sha256": "3756661f346df969aec1cf6403ebd0d4da845b819933fd1ff6bab8e1462b477c",
+      "text_chars": 272
+    },
+    {
+      "year": 2027,
+      "question": 16,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/16",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q16.md",
+      "html_sha256": "eabea91557695f4740d551655b42ec2584787502a2273e3792354c1d90c2a98a",
+      "text_sha256": "816ee77b4ac296ca421c9134d6c60ae1492d1deb40f10a2432a5495264787ef6",
+      "text_chars": 388
+    },
+    {
+      "year": 2027,
+      "question": 18,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/18",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q18.md",
+      "html_sha256": "6db4947c27b5159594267ed0a6042c638dcedde74e8014ec638e796d8feec9e1",
+      "text_sha256": "c772337bba0c2ef2c0bf39c9c973f9da90175a5a182015d675bb0db62b60c7d8",
+      "text_chars": 236
+    },
+    {
+      "year": 2027,
+      "question": 19,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/19",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q19.md",
+      "html_sha256": "306e13abdc06e08f507a3b7c4940bdd3ea9ac31f1194f2fcfe7ab609fcd529c0",
+      "text_sha256": "a20327f693a3d4328f85d90ea49158438486e1953be59c16110b58b483c781b0",
+      "text_chars": 266
+    },
+    {
+      "year": 2027,
+      "question": 20,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/20",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q20.md",
+      "html_sha256": "a8fc1e1201b72a9deb0261464250afd94a073e61515f310e4b0670e4575e0581",
+      "text_sha256": "ec413639aec1a722d9b1735fe655cdcef445f5fd66fff75ef1b32d24c57157f6",
+      "text_chars": 252
+    },
+    {
+      "year": 2027,
+      "question": 21,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/21",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q21.md",
+      "html_sha256": "4aa28c3209e8a6966dce7c14190ca7b83d8271f939767641db8e74e80d5dce56",
+      "text_sha256": "0d833e404174e8d8a7285549360251442217549f8d3f556100b7f907f662b308",
+      "text_chars": 365
+    },
+    {
+      "year": 2027,
+      "question": 22,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/22",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q22.md",
+      "html_sha256": "5af984af26b00bd7ea1abb81741724651ebc33bd954007ba444c2d2b99ce0dbe",
+      "text_sha256": "205d9be6ddaf3e474ebca7e87b583dc7dcb7c4b32099af494ca19b984debe2af",
+      "text_chars": 263
+    },
+    {
+      "year": 2027,
+      "question": 23,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/23",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q23.md",
+      "html_sha256": "d01ad123f0e56a83c557eed02d3f004f80b1cd34c59d61266bf9c2d6388ba316",
+      "text_sha256": "eb7aa426b26d4d2b35ff0b34a53109fd0542476517d6ce9092186c60dda47342",
+      "text_chars": 195
+    },
+    {
+      "year": 2027,
+      "question": 24,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/24",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q24.md",
+      "html_sha256": "c1efaf786be5e8bc4a83188c73c9595719d1ccdb09f2fa0cecf8e1b7f60c19d9",
+      "text_sha256": "f86f7507ae315eeb71fdff367df380d841179d7f3dcd3ad96f35fa34988c6ecb",
+      "text_chars": 372
+    },
+    {
+      "year": 2027,
+      "question": 25,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/25",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q25.md",
+      "html_sha256": "77fa85b410e4e70847c62cebb854a97e6e041242e98cf32687eeb44855c71877",
+      "text_sha256": "f3f35b54042d4775fe26ce7584b117689be6d1551e512652c24167f40d3f45d4",
+      "text_chars": 373
+    },
+    {
+      "year": 2027,
+      "question": 26,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/26",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q26.md",
+      "html_sha256": "412347a4c471d281eb3b21f6a47f0f753d260e48693e86afb7e19c1305289591",
+      "text_sha256": "b5217b8190472759a0db7645dc6cf3e9b1535991269faf0c1733a3c0a7c731b3",
+      "text_chars": 386
+    },
+    {
+      "year": 2027,
+      "question": 27,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/27",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q27.md",
+      "html_sha256": "5b5c4e98f7933770db0f329540212a0ab5a19dee5c1b5ada1646b05afa3b11fd",
+      "text_sha256": "24f78ae09d53fe579a178e05e1fb2e76332b994be47ecd06781d6c97fb2f7373",
+      "text_chars": 283
+    },
+    {
+      "year": 2027,
+      "question": 28,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/28",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q28.md",
+      "html_sha256": "c5ff874de51dab5e7ab1874e4dc687ed0a2202a77e6bd8e4e5899b302099f060",
+      "text_sha256": "adb21898119b56e558b1dd33f7b01c0a7de7b4247a546607cfe2c1ef259771cf",
+      "text_chars": 251
+    },
+    {
+      "year": 2027,
+      "question": 29,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/29",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q29.md",
+      "html_sha256": "818543d3ec0dca7b7a5e7bb2ef647d7f498af8a1049843aec432c5ea3fed30c9",
+      "text_sha256": "3df10cf848e9d432726fe009803c26c032f520a66b2e6d68b87429e6d7823fd5",
+      "text_chars": 337
+    },
+    {
+      "year": 2027,
+      "question": 30,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/30",
+      "file": "자료/LEET_언어이해/검증/외부대조_QZip/2027/q30.md",
+      "html_sha256": "487cbd280b08b88c0f612ead2079d3d76cb06602e1741b41767b126425408f18",
+      "text_sha256": "61d3d72fb850cc05e845c2bda292e40d6a55a3e581e4e793369e68ef79d14e7f",
+      "text_chars": 367
+    }
+  ],
+  "failures": [
+    {
+      "year": 2027,
+      "question": 17,
+      "url": "https://www.qzip.io/solutions/leet/%EC%96%B8%EC%96%B4%EC%9D%B4%ED%95%B4/2027/17",
+      "reason": "QAPage JSON-LD not found",
+      "html_sha256": "93026571fda21dad7b8aab608bc9e33fe5784c12be85922ad6deb1310076a7d8"
+    }
+  ]
+}

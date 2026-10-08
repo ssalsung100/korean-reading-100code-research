@@ -1,0 +1,85 @@
+{
+  "record_id": "FH-FN-FT-GJ-ET-depth_backfill-20260915-semantic-audit-01",
+  "case": "FH-FN-FT-GJ-ET", "stage": "depth_backfill", "status": "done", "timestamp": "2026-09-15",
+  "payload": {
+    "case_ids": ["FH", "FN", "FT", "GJ", "ET"], "original_blind_preserved": true, "review_kind": "완료 어휘 사례의 사후 의미 감사",
+    "source_record_ids": ["FH-independent_code-20260914-01", "FN-independent_code-20260914-01", "FT-independent_code-20260914-01", "GJ-independent_code-20260914-02", "GJ-depth_backfill-20260914-02", "ET-independent_code-20260913-02", "G033-G034-boundary_revision-20260914-01"],
+    "evidence_additions": [
+      {
+        "case": "FH", "passage_group": "G033", "source": "data/기본기_연구/prepared_backlog/blind_sources/FH.json",
+        "task": "문맥상 바꿔 쓰기에 부적절한 것 선택", "target": "ⓐ '새로운 의미'→① '개선된 의미'",
+        "evidence_location": "(가)2문단 '현실을 변형하여 새로운 의미를 창조'; choices[0]",
+        "meaning_components": {"noun": "의미로 동일", "physicality": "둘 다 추상", "act_state": "기존과 다른 의미의 창조", "evaluation": "개선은 더 나아짐 추가", "result": "새로움과 가치 향상은 다름"},
+        "changed_part": "향상 평가 성분 추가", "decisive_operation": "기존과 다름을 이전보다 좋음으로 바꿀 근거가 있는지 대조",
+        "evidence_type": "지지 부족", "evidence_qualification": "새롭다는 서술은 향상을 보장하지 않는다. '새롭고 개선됨' 자체가 모순이거나 이 영화 의미가 실제로 나빠졌다는 뜻은 아님. 치환 불가와 사실 거짓을 구분",
+        "other_choices": "연속성 깨뜨림/파괴, 현실 마주함/대면, 일반인을 배우로 씀/기용, 간극 없앰/해소는 각 문맥 관계를 보존.⑤의 다음 연도 제목 잔재는 원 source에 보존하고 의미 대상으로 삼지 않음",
+        "existing_code_layers": "주#96 연구용 어휘 대표, 보조#83 평가 성분·#17 문맥 논항, 표면#5 변화",
+        "strongest_competitor": "#83으로 새로움과 긍정 평가를 분리하면① 결정 가능. #16의 의미 성분표도 같은 결과",
+        "competitor_relation": "#96 과제/분야와#83 국소 평가 성분은 상위/하위 층위; 완전 의미 성분표는 같은 국소 수행의 다른 표현",
+        "priority": "최초#96 유지; 국소 결정 성분의#83을 전체 어휘 과제와 경쟁시켜 배제하지 않음"
+      },
+      {
+        "case": "FN", "passage_group": "G034", "source": "data/기본기_연구/prepared_backlog/blind_sources/FN.json",
+        "task": "문맥상 가장 가까운 의미의 용례 선택", "target": "ⓓ 기억이 무엇인지 알아보기/④ 단어 뜻 알아보기",
+        "evidence_location": "(가)4문단 기억은 그 내용을 알아보기 위해 다른 것에 의존 불필요; choices[3] 단어 뜻 확인 위해 사전 열기",
+        "meaning_components": {"noun": "기억 내용/단어 뜻으로 다름", "physicality": "둘 다 내용 확인", "act_state": "무엇인지 확인", "evaluation": "향상 평가 없음", "result": "내용을 앎"},
+        "changed_part": "대상과 확인 수단은 다르지만 술어의 확인 의미는 보존",
+        "decisive_operation": "대상 동일성과 행위 의미 동일성을 분리", "evidence_type": "합성 함의", "evidence_qualification": "문맥 용례 비교에 의한 가장 가까움. 사전 동의어 번호나 두 인지 과정 전체 동치를 입증한 것은 아님",
+        "other_choices": "①견해 판단/사정 참작, ②사건 발생/살림 회복, ③견해 근거/개발 결과, ⑤손 접촉/프로그램 조작으로 갈림",
+        "existing_code_layers": "주#96, 보조#17 논항, 표면#46은③의 한쪽 사용",
+        "strongest_competitor": "대상과 역할을 포함한#17 표에서 '주체가 내용이 무엇인지 확인'이라는 술어까지 보존하면 같은 답. 대상 종류만 적은 표의 실패를#17 전체 실패로 일반화하지 않음",
+        "competitor_relation": "의미 역할을 포함한 표는 같은 국소 수행의 다른 표현; 명사 동일성만으로 결정하는 규칙은 배제",
+        "priority": "최초 유지, #96 저자 범위 미확정"
+      },
+      {
+        "case": "FT", "passage_group": "G035", "source": "data/기본기_연구/prepared_backlog/blind_sources/FT.json",
+        "task": "ⓐ와 문맥상 가장 가까운 의미 선택", "target": "직역 명칭으로 굳어짐/① 가훈으로 굳어짐 대③ 결심 굳어짐",
+        "evidence_location": "(가)3문단 '직역 명칭으로 굳어졌다'; choices[0], choices[2]",
+        "meaning_components": {"noun": "명칭/가훈/결심 모두 비물리", "act_state": "명칭·가훈은 특정 지위·용도로 정착", "evaluation": "정착은 더 좋은 상태라는 평가를 필수로 하지 않음", "result": "결심은 기존 의지 강화로 다름"},
+        "changed_part": "③은 결과 지위 정착 대신 의지 강화를 제시", "decisive_operation": "비물리 후보①③이 남은 뒤 '무엇으로 자리 잡음'과 '얼마나 확고해짐'을 비교", "evidence_type": "합성 함의",
+        "other_choices": "②땅의 단단함,④추위에 몸 경직,⑤표정 경직은 물리/감각 범위 안에서도 각각 다름",
+        "existing_code_layers": "주#96, 보조#17 결과 논항, 표면#5 변화; #100은 비유 여부만으로는 부족",
+        "strongest_competitor": "비물리/물리 분류는①③을 구별 못해 단독 배제. 반면#17을 '명칭으로/가훈으로' 결과 역할까지 담는 의미표로 쓰면 정착을 잡을 수 있음",
+        "competitor_relation": "조잡한 이분법은 실제 차이를 놓쳐 배제; 완전 결과 역할표와 의미 분석은 같은 국소 수행의 다른 표현",
+        "priority": "최초 유지;#17 전체의 충분성/불충분성은 정의 확인 전 유보"
+      },
+      {
+        "case": "GJ", "passage_group": "G038", "source": "data/기본기_연구/prepared_backlog/blind_sources/GJ.json",
+        "task": "ⓐ와 가장 가까운 뜻 선택", "target": "2문단 경향이 짙음과① 폭우 가능성이 짙음",
+        "evidence_location": "2문단 작용 면에서 천을 파악하려는 '경향이 짙었다'; choices[0:5]",
+        "meaning_components": {"noun": "경향/가능성은 다름", "act_state": "추상적 성향 강함/발생 개연성 높음", "evaluation": "좋고 나쁨 없음", "result": "②커피 농도,③안개 밀도,④향기 강도,⑤어둠 정도와 비교"},
+        "changed_part": "다른 용례들 중 의미 거리가 가장 가까운 것을 산출", "decisive_operation": "추상적 성향의 강함과 감각적 농도를 구분해① 선택", "evidence_type": "합성 함의",
+        "evidence_qualification": "현재 선택지 집합 안의 최근접 판단. 경향=가능성 완전 동치 또는 두 문장 전체 상호 치환 가능성을 뜻하지 않음",
+        "existing_code_layers": "주#96, 보조#17 논항 단서; 표면#1 정도·#2 가능성 어휘",
+        "strongest_competitor": "이 문항에서는 추상/감각 분류만으로①이 유일하게 남는 빠른 풀이도 실제 성공. FT 반례는 그 방법의 전역 보편성을 깨며 이 문항에서의 성공을 부정하지 않음",
+        "competitor_relation": "현재 선택지에서는 같은 결론을 내는 국소 대안; 다른 용례군에 대한 보편 관계는 미결",
+        "priority": "최초 및 기존 backfill 유지; 사전 세부 뜻 구획 미검증"
+      },
+      {
+        "case": "ET", "passage_group": "G030", "source": "data/기본기_연구/prepared_backlog/blind_sources/ET.json",
+        "task": "문맥상 바꿔 쓰기에 가장 적절한 것 선택", "target": "③ 정체성이 나타남/표출됨; ④ 감춤/기만함 비교",
+        "evidence_location": "1문단ⓐⓑ, 2문단ⓒ~ⓔ와 choices[0:5]",
+        "meaning_components": {"noun": "④ 자기 정체성은 그대로", "act_state": "③밖으로 드러남 보존;④드러내지 않음과 남을 속임의 역할 차이", "evaluation": "단순 좋고 나쁨이 결정 기준 아님", "result": "①구성/완성,②정서 환기/요청,⑤과잉 발생/확충의 차이"},
+        "changed_part": "③은 발현 의미를 보존;④는 술어가 요구하는 대상 역할을 변경",
+        "decisive_operation": "같은 목적어를 두 술어에 넣어 숨기는 내용인지 속임의 상대인지 비교", "evidence_type": "합성 함의",
+        "evidence_qualification": "은폐가 실제로 기만의 수단일 수 있어도 동일 의미라는 결론은 아님.③에 원문에 없는 의도적 표현을 필수조건으로 덧붙이지 않음",
+        "existing_code_layers": "주#96, 보조#17 논항 역할, 표면#40은① 구성",
+        "strongest_competitor": "#17의 논항 역할표는④의 실패를 충분히 설명하지만① 구성/완성과⑤과잉/확충까지 한 명사 분류로 해결하지 못함. 행위·결과 성분을 포함하면 O8 설명과 겹침",
+        "competitor_relation": "특정 선지의#17과 전체 문항#96은 상위/하위 층위; 같은 논항 분석을 추가 독립 행동으로 중복 계수하지 않음",
+        "priority": "최초 유지"
+      }
+    ],
+    "boundary_or_generation_impact": "O8은 대상·역할·행위·상태·평가·결과를 문맥에 필요한 만큼 비교하는 절차 후보로 유지. 명사 동일성이 필요조건도 충분조건도 아니라는 양방향 반례는 FH/FN 및 ET로 확인. 단, 최근접 용례 선택과 의미 보존 치환은 같은 판정 강도가 아니므로 분리한다.",
+    "candidate_rule": {"decision": "수정", "retained": "명사 종류만으로 의미 판정하지 않고 술어 성분을 확인", "counterexample": "FH·ET 동일 명사이나 오치환; FN 다른 대상이나 확인 의미 가까움; FT 동일 비물리 범주에도 정착/의지 강화 분리", "held": "O8이 기존#17/#16에 포함 불가능한 독립 능력이라는 주장;#96 원저자 정의와 사전 뜻 번호", "next_falsification_target": "향후 같은 역할·행위·결과라도 관용 결합/높임/문체 때문에 치환이 실패하는 용례, 최근접 후보가 둘로 늘어나는 용례. 이번 새 원문 열람 없음"},
+    "minimal_variants": [
+      {"case":"FH","one_change":"원문ⓐ '새로운'을 '이전보다 나아진'으로 교체","predicted_change":"개선된으로의 치환에서 향상 성분 추가 오류 해소","synthetic_not_corpus":true},
+      {"case":"ET","one_change":"④ '기만하고'를 '은폐하고'로 교체","predicted_change":"숨김 대상 역할이 보존되어④의 국소 치환이 적절해짐;③과 복수 적절 항목이 되어 완성 문항 아님","synthetic_not_corpus":true},
+      {"case":"GJ","one_change":"검토용 짧은 틀 '경향이 짙다'의 명사만 '향기'로 교체","predicted_change":"원 선택지 중④ 감각적 향기 용례가 최근접 후보로 바뀌어야 함. 원 지문 전체를 수정한 기출로 세지 않음","synthetic_not_corpus":true},
+      {"case":"FT","one_change":"①의 가훈을 좌우명으로 교체","predicted_change":"특정 지위로 정착하는 결과 구조가 유지되므로①의 근접 의미 유지 예상. 단순 명사 변화가 반드시 뜻 변화를 낳는다는 규칙에 대한 음성 대조","synthetic_not_corpus":true}
+    ],
+    "student_action": "먼저 발문이 가장 비슷한 용례인지 실제 바꿔 쓸 말인지 확인한다. 대상과 조사·보어를 붙여 읽고 '무엇을 하는가/어떤 상태인가/무엇으로 변하는가/좋아졌다는 뜻까지 있는가'를 비교한다. 빠른 분류로 둘이 남으면 필요한 성분을 더 비교한다.",
+    "generation_principle": "같은 명사를 둔 술어 치환, 다른 명사를 둔 같은 술어, 같은 비물리 범주 내 결과 구조 차이를 설계한다. 최근접을 완전 동의어 검증으로 보고하지 않는다.",
+    "sampling": {"cases":5,"distinct_passage_groups":5,"new_corpus_cases":0,"dependencies":"FH는 FD·FF와G033, FN은FL과G034 공유"},
+    "confidence": "선지 문맥 대조 높음; 사전/저자 범위 및 전역 충분조건 미확정"
+  }
+}

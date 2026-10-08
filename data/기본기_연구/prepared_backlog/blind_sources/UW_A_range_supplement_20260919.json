@@ -1,0 +1,31 @@
+{
+  "blind_only": true,
+  "passage_group": "G134",
+  "case_id": "UW",
+  "source_role": "mechanical_canonical_source_supplement",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "canonical_file_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+  "xml_anchor": {
+    "passage_header_paragraph_index": 1704,
+    "passage_start_paragraph_index": 1708,
+    "A_text_paragraph_index": 1710,
+    "A_marker_table_id": "1837619558",
+    "A_marker_cell": {"colAddr": "0", "rowAddr": "1"},
+    "A_layout_marker_paragraph_index": 1713,
+    "passage_end_paragraph_index": 1716,
+    "next_question_number_paragraph_index": 1720
+  },
+  "range_transcription": {
+    "start": "정본 표 1837619558 1행의 [A] 표지 직후 ‘대표적 이원론자인 데카르트는 그런 특성으로 언어와 수학적 추론을 제시한다.’",
+    "end": "같은 정본 paragraph 1710의 ‘…독립적인 정신을 가정할 필요가 없다.’ 직후"
+  },
+  "transcription_note": "정본 HWPX에서 [A]는 p1710의 표 표지와 뒤따르는 텍스트에 결합되어 있고, 별도 배치 표지가 p1713에 평탄화되어 있다. A 본문은 p1710 한 문단 전체이며 다음 본문 문단은 p1716이다.",
+  "quality_limit": "범위는 canonical XML 구조와 텍스트 anchor로 복원했으며 시각 crop/PDF 렌더링은 추가하지 않았다.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  }
+}

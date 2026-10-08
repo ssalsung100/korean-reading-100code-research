@@ -1,0 +1,16 @@
+{
+  "blind_only": true,
+  "passage_group": "G200",
+  "case_id": "AGO",
+  "question_id": "KICE-2020-6월_모평-Q37-42-S078~083-Q40",
+  "source_role": "mechanical_canonical_choice_parse_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "anchor": "세포 소기관이 자신의 DNA를 가지고 있다는 것과 이분 분열을 한다는 것을 확인하였다.",
+    "source_note": "canonical HWPX XML contains the complete four statements and five choice rows; normalized KICE question record had incomplete_visual_or_table parse"
+  },
+  "restored_choice_labels": ["① ㄱ, ㄷ", "② ㄱ, ㄹ", "③ ㄴ, ㄷ", "④ ㄴ, ㄹ", "⑤ ㄷ, ㄹ"],
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "choice_parse_restored_mechanically"
+}

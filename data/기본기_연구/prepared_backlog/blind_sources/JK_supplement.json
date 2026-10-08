@@ -1,0 +1,32 @@
+{
+  "blind_only": true,
+  "case_id": "JK",
+  "supplement_type": "local_hwpx_table_cell_order",
+  "source_role": "anonymous_blind_source_supplement",
+  "table_structure": {
+    "header": {
+      "column_1": "㉠",
+      "column_2": "㉡",
+      "header_text_scope": "선택표의 두 대응 열"
+    },
+    "choice_mapping": {
+      "①": {"cellAddr": {"rowAddr": "1", "㉠": "가위는 자를 수 있는 도구이다", "㉡": "칼"}},
+      "②": {"cellAddr": {"rowAddr": "2", "㉠": "노인은 65 세 이상인 사람이다", "㉡": "64 세인 사람"}},
+      "③": {"cellAddr": {"rowAddr": "3", "㉠": "이모는 어머니의 여자 형제이다", "㉡": "어머니의 동생"}},
+      "④": {"cellAddr": {"rowAddr": "4", "㉠": "고래는 헤엄칠 수 있는 포유동물이다", "㉡": "헤엄칠 수 없는 고래"}},
+      "⑤": {"cellAddr": {"rowAddr": "5", "㉠": "연필은 흑연을 나무로 둘러싼 필기도구이다", "㉡": "흑연 심"}}
+    },
+    "row_order_basis": "원문 표의 첫 열 선지 번호 순서 ①→⑤를 유지하고 각 행의 두 셀을 좌→우로 읽음",
+    "text_preservation": "plain text에서 두 줄로 전사된 선택지를 원문 셀 행·열 순서로 복원",
+    "xml_anchor": {
+      "table_role": "6행×3열 선택표",
+      "header_cells": [{"rowAddr": "0", "colAddr": "1", "text": "㉠"}, {"rowAddr": "0", "colAddr": "2", "text": "㉡"}],
+      "first_choice_cells": [{"rowAddr": "1", "colAddr": "0", "text": "①"}, {"rowAddr": "1", "colAddr": "1", "text": "가위는 자를 수 있는 도구이다"}, {"rowAddr": "1", "colAddr": "2", "text": "칼"}]
+    }
+  },
+  "provenance": {
+    "artifact_scope": "로컬 정본 HWPX의 Contents/section0.xml 내 해당 선택표",
+    "original_distribution_pdf_verified": false
+  },
+  "quality_limit": "로컬 HWPX 셀 순서·헤더 확인이며 원배포 PDF 시각 대조는 하지 않음"
+}

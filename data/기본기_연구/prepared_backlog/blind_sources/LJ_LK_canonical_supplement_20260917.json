@@ -1,0 +1,43 @@
+{
+  "blind_only": true,
+  "passage_group": "G079",
+  "source": {
+    "container": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "basis": "local canonical HWPX XML; no answer, SDSS, or semantic judgment"
+  },
+  "LJ": {
+    "choice_number": 1,
+    "anchor_text_before_equation": "별빛이 도달되는 거리가 3배가 되면 복사 플럭스 값은",
+    "equation": "{1} over {9}",
+    "equation_xml_id": "1947855565",
+    "text_after_equation": "배가 되겠군.",
+    "restoration_target": "data/기본기_연구/prepared_backlog/blind_sources/LJ.json"
+  },
+  "LK": {
+    "legacy_mapping_status": "superseded_by_exact_xml_supplement; prior table_shape/normalized mapping must not be used as XML topology",
+    "exact_xml_supplement": "data/기본기_연구/prepared_backlog/blind_sources/LK_table_xml_exact_20260917.json",
+    "table_xml_id": "1947855566",
+    "table_shape": {"rowCnt": 4, "colCnt": 5},
+    "cell_mapping": [
+      {"row": 0, "col": 1, "header": "겉보기 등급"},
+      {"row": 0, "col": 2, "header": "절대 등급"},
+      {"row": 0, "col": 3, "header": "거리 지수"},
+      {"row": 0, "col": 4, "header": "반지름"},
+      {"row": 0, "col": 5, "header": "표면 온도"},
+      {"row": 1, "col": 0, "row_label": "A"},
+      {"row": 1, "col": 1, "value": "2"},
+      {"row": 1, "col": 2, "value": "-1"},
+      {"row": 1, "col": 3, "value": "3"},
+      {"row": 1, "col": 4, "value": "1"},
+      {"row": 1, "col": 5, "value": "1"},
+      {"row": 2, "col": 0, "row_label": "B"},
+      {"row": 2, "col": 1, "value": "1"},
+      {"row": 2, "col": 2, "value": "-6"},
+      {"row": 2, "col": 3, "value": "7"},
+      {"row": 2, "col": 4, "value": "0.1"},
+      {"row": 2, "col": 5, "value": "10"}
+    ],
+    "restoration_target": "data/기본기_연구/prepared_backlog/blind_sources/LK.json"
+  }
+}

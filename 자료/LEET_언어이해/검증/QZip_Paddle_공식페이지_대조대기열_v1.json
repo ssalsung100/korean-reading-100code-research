@@ -1,0 +1,1144 @@
+{
+  "status": "review_queue_noncanonical",
+  "records": [
+    {
+      "year": 2022,
+      "range": "1-3",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 1,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q01.md",
+      "paddle_score": 99.03660886319847,
+      "candidate_chars": 1557,
+      "official_pages": [
+        1
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_001.png"
+      ],
+      "official_page_sha256": [
+        "ce5be7c04b5d6105d3109e4ae77cbb8a7521f998e7a8e667d21e372aa66389c0"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_001.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "516군사쿠데타이후집",
+          "b": "",
+          "a_context": "516군사쿠데타이후집권세력은부랑인을일소하여사회의명랑화",
+          "b_context": "권세력은부랑인을일소하여사회의명랑화"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "그",
+          "a_context": "각종하위법령에의거하여수행되었다특히내무부훈령제410호는여러법령에흩어",
+          "b_context": "각종하위법령에의거하여수행되었다특히그내무부훈령제410호는여러법령에흩어"
+        },
+        {
+          "tag": "replace",
+          "a": "충",
+          "b": "총",
+          "a_context": "랑인은과연개조되었는가개척의터전으로충진군했던부랑인가운데상당수는가혹한노",
+          "b_context": "랑인은과연개조되었는가개척의터전으로총진군했던부랑인가운데상당수는가혹한노"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "법학적성시험이해번호홀수형",
+          "a_context": "부랑인출신이라는딱지때문에헐값에땅을팔고해당지역을떠났다사회복지를위한제",
+          "b_context": "부랑인출신이라는딱지때문에헐값에땅을법학적성시험이해번호홀수형팔고해당지역을떠났다사회복지를위한제"
+        },
+        {
+          "tag": "delete",
+          "a": "공했다",
+          "b": "",
+          "a_context": "안관리의정당성을획득하기위한명분을제공했다",
+          "b_context": "안관리의정당성을획득하기위한명분을제"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "4-6",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 4,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q04.md",
+      "paddle_score": 99.43074003795066,
+      "candidate_chars": 1581,
+      "official_pages": [
+        2,
+        3
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_002.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_003.png"
+      ],
+      "official_page_sha256": [
+        "18d21b60e21ff8432840547a7740ce830ac512fa7dbd8a8650f7876b61edff8f",
+        "55d56133295d71670004ccebf4d50435b3f57e8dc02ce8adc46fcd0eef8a2453"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_002.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_003.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "현대의환경위기",
+          "b": "",
+          "a_context": "현대의환경위기는인류의생존문제일뿐아니라근대이후구",
+          "b_context": "는인류의생존문제일뿐아니라근대이후구"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "를통해정초되었기때문이다철학적근대는데카르트주의의발흥및완성의과정으로이",
+          "b_context": "를통해정초되었기때문이다철학적근대는0데카르트주의의발흥및완성의과정으로이"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "니라만들어지는것으로보는이러한노선은칸트주의에서특히전형적으로대두한다즉",
+          "b_context": "니라만들어지는것으로보는이러한노선은0칸트주의에서특히전형적으로대두한다즉"
+        },
+        {
+          "tag": "delete",
+          "a": "이",
+          "b": "",
+          "a_context": "은개념판단추론이다라는헤겔의말처럼이이성은세계의모든것에선행하면서동시에그",
+          "b_context": "은개념판단추론이다라는헤겔의말처럼이성은세계의모든것에선행하면서15홀수"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "15홀수형언어",
+          "a_context": "처럼이이성은세계의모든것에선행하면서동시에그모든것을가능케하는조건즉삼라",
+          "b_context": "말처럼이성은세계의모든것에선행하면서15홀수형언어동시에그모든것을가능케하는조건즉삼라"
+        },
+        {
+          "tag": "delete",
+          "a": "다",
+          "b": "",
+          "a_context": "반을둔자연철학의계발이주목을받는것이다",
+          "b_context": "반을둔자연철학의계발이주목을받는것이"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "7-9",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 7,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q07.md",
+      "paddle_score": 99.47643979057592,
+      "candidate_chars": 1528,
+      "official_pages": [
+        3,
+        4
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_003.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_004.png"
+      ],
+      "official_page_sha256": [
+        "55d56133295d71670004ccebf4d50435b3f57e8dc02ce8adc46fcd0eef8a2453",
+        "6f93d1efb3db5f27eb21686f86072e7193b83a0dcd7cce73dc12a5ee096012e2"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_003.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_004.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "소설을",
+          "b": "",
+          "a_context": "소설을읽는다는것은이야기를하는누군가의목소",
+          "b_context": "읽는다는것은이야기를하는누군가의목소"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "체로서의화자의역할에대한또다른접근은랜서에의해이루어졌다그는화자의역할을",
+          "b_context": "체로서의화자의역할에대한또다른접근은0랜서에의해이루어졌다그는화자의역할을"
+        },
+        {
+          "tag": "delete",
+          "a": "수",
+          "b": "",
+          "a_context": "고려할때독자가바라볼수있는시선과들을수있는목소리는항상화자에의존한다는것을",
+          "b_context": "고려할때독자가바라볼수있는시선과들을있는목소리는항상화자에의존한다는것을"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "과독자에게진실을전달하는방식을둘러싼플라톤의고전적인문제제기는흥미롭다그",
+          "b_context": "과독자에게진실을전달하는방식을둘러싼0플라톤의고전적인문제제기는흥미롭다그"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "4이해홀수형",
+          "a_context": "고민하는것이다소설을읽는것을등장인물화자독자가정보량을둘러싸고벌이는일종",
+          "b_context": "고민하는것이다소설을읽는것을등장인물4이해홀수형화자독자가정보량을둘러싸고벌이는일종"
+        },
+        {
+          "tag": "delete",
+          "a": "걸음이다",
+          "b": "",
+          "a_context": "조하는일은작품의성공과실패를가르는첫걸음이다",
+          "b_context": "조하는일은작품의성공과실패를가르는첫"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "10-12",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 10,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q10.md",
+      "paddle_score": 99.52021932830706,
+      "candidate_chars": 1459,
+      "official_pages": [
+        5,
+        6
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png"
+      ],
+      "official_page_sha256": [
+        "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b",
+        "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_005.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_006.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "이",
+          "b": "",
+          "a_context": "십분의1초가걸린다강하게친테니스공은이시간동안약2m를이동할수있어서라켓을",
+          "b_context": "십분의1초가걸린다강하게친테니스공은시간동안약2m를이동할수있어서라켓을"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "낼수있을까이를알아보기위해연구자들은마이크로칩위에올려진도롱뇽의망막에막",
+          "b_context": "낼수있을까이를알아보기위해연구자들은0마이크로칩위에올려진도롱농의망막에막"
+        },
+        {
+          "tag": "replace",
+          "a": "뇽",
+          "b": "농",
+          "a_context": "해연구자들은마이크로칩위에올려진도롱뇽의망막에막대모양의상을맺히게하고상의",
+          "b_context": "연구자들은0마이크로칩위에올려진도롱농의망막에막대모양의상을맺히게하고상의"
+        },
+        {
+          "tag": "delete",
+          "a": "약120초",
+          "b": "",
+          "a_context": "시간지연이일어나므로상이맺힌순간부터약120초후에신경절세포에서신호가발생하기시작",
+          "b_context": "시간지연이일어나므로상이맺힌순간부터후에신경절세포에서신호가발생하기시작"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "15O언어",
+          "a_context": "신호의세기를줄여버린다상의이동경로에위치한신경절세포들에서각각이러한기제",
+          "b_context": "신호의세기를줄여버린다상의이동경로에15O언어위치한신경절세포들에서각각이러한기제"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "13-15",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 14,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q14.md",
+      "paddle_score": 99.68905472636816,
+      "candidate_chars": 1608,
+      "official_pages": [
+        6,
+        7
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_007.png"
+      ],
+      "official_page_sha256": [
+        "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+        "bbd84242c90b6a27f3f1abb00b5fc200ed5560e42e42df1d504159ff6d370bfd"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_006.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_007.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "파",
+          "b": "",
+          "a_context": "파시즘을규정하기란쉽지않다본디파시즘은",
+          "b_context": "시즘을규정하기린쉽지않다본디파시즘은"
+        },
+        {
+          "tag": "replace",
+          "a": "란",
+          "b": "린",
+          "a_context": "파시즘을규정하기란쉽지않다본디파시즘은1919년에서1",
+          "b_context": "시즘을규정하기린쉽지않다본디파시즘은1919년에서1"
+        },
+        {
+          "tag": "replace",
+          "a": "펙",
+          "b": "텍",
+          "a_context": "해석및정의는용어의대상만큼이나넓은스펙트럼을가지게되었다비교적일찍나타난것",
+          "b_context": "해석및정의는용어의대상만큼이나넓은스텍트럼을가지게되었다비교적일찍나타난것"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "경향이나타났다그러다가1990년대말그리핀이새로운시각에서일반화된개념을",
+          "b_context": "경향이나타났다그러다가1990년대말0그리핀이새로운시각에서일반화된개념을"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "이해",
+          "a_context": "파시즘을일종의근대적혁명이라고보았다물론그리핀의주장에동의하지않는연구자",
+          "b_context": "파시즘을일종의근대적혁명이라고보았다이해물론그리핀의주장에동의하지않는연구자"
+        },
+        {
+          "tag": "delete",
+          "a": "렸다",
+          "b": "",
+          "a_context": "국가는지도자무솔리니를권좌에서끌어내렸다",
+          "b_context": "국가는지도자무솔리니를권좌에서끌어내"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "16-18",
+      "status": "no_qzip_text"
+    },
+    {
+      "year": 2022,
+      "range": "19-21",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 19,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q19.md",
+      "paddle_score": 99.51403887688986,
+      "candidate_chars": 1852,
+      "official_pages": [
+        9,
+        10
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_009.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_010.png"
+      ],
+      "official_page_sha256": [
+        "c43e172d8745321c65a56db795d4c1c97486a25b5f4eaf8797d7c1302955be74",
+        "f56498fdfbefe9fb8c4ee9c21bc9954a0b85556f8ed9a104725234ab1e82aeb9"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_009.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_010.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "오늘",
+          "b": "",
+          "a_context": "오늘날교과서적견해에서소유와지배의분리라",
+          "b_context": "날교과서적견해에서소유와지배의분리라"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "문제의심각성을강조하는개념이다그러나벌리가이개념을처음만들었을때그의미는",
+          "b_context": "문제의심각성을강조하는개념이다그러나0벌리가이개념을처음만들었을때그의미는"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0이해홀수형1",
+          "a_context": "학문의전통적인논리들이전제하고있는19세기의자유방임질서가회사체제에더이",
+          "b_context": "학문의전통적인논리들이전제하고있는10이해홀수형19세기의자유방임질서가회사체제에더이"
+        },
+        {
+          "tag": "replace",
+          "a": "나",
+          "b": "니",
+          "a_context": "한출발점이라고보았다그리고소득세법이나노동법소비자보호법환경법등과같은회사",
+          "b_context": "한출발점이라고보았다그리고소득세법이니노동법소비자보호법환경법등과같은회사"
+        },
+        {
+          "tag": "delete",
+          "a": "있다고보았다",
+          "b": "",
+          "a_context": "활동적재산권이자리를양보하도록만들수있다고보았다",
+          "b_context": "활동적재산권이자리를양보하도록만들수"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "22-24",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 22,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q22.md",
+      "paddle_score": 99.5777621393385,
+      "candidate_chars": 1421,
+      "official_pages": [
+        11,
+        12
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_011.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_012.png"
+      ],
+      "official_page_sha256": [
+        "3263fcf6ee88878564ca47b7c8722c4c0519bb57ae3770a9da06bee7ba3a42f4",
+        "16d9cbb5e41134eebee470217cf29d6f3f33e5c08f7a34061a65e785255dd37c"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_011.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_012.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "미국헌",
+          "b": "",
+          "a_context": "미국헌법은권력기관간견제와균형의원리에기초",
+          "b_context": "법은권력기관간견제와균형의원리에기초"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "1512언어",
+          "a_context": "60년대이후민주주의의확대와함께일어났다흑인의참정권이제도적으로보장되었",
+          "b_context": "60년대이후민주주의의확대와함께일어1512언어났다흑인의참정권이제도적으로보장되었"
+        },
+        {
+          "tag": "delete",
+          "a": "가있다",
+          "b": "",
+          "a_context": "해서는새로운민주주의규범을확립할필요가있다",
+          "b_context": "해서는새로운민주주의규범을확립할필요"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "25-27",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 25,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q25.md",
+      "paddle_score": 99.52978056426332,
+      "candidate_chars": 1276,
+      "official_pages": [
+        12,
+        13
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_012.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_013.png"
+      ],
+      "official_page_sha256": [
+        "16d9cbb5e41134eebee470217cf29d6f3f33e5c08f7a34061a65e785255dd37c",
+        "624d45bc9e9febfbde7f78dbe3e2f53a94faa71b814646c041b3c8ed55380da4"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_012.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_013.json"
+      ],
+      "differences": [
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "13이해13",
+          "a_context": "행위할수있는일반지능을가진인공지능에도달하는길은아직멀다현재인공지능이제",
+          "b_context": "행위할수있는일반지능을가진인공지능에13이해13도달하는길은아직멀다현재인공지능이제"
+        },
+        {
+          "tag": "delete",
+          "a": "일이유는없다",
+          "b": "",
+          "a_context": "한감정이없는로봇을도덕공동체에받아들일이유는없다",
+          "b_context": "한감정이없는로봇을도덕공동체에받아들"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "range": "28-30",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 28,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2022/q28.md",
+      "paddle_score": 99.32795698924731,
+      "candidate_chars": 1488,
+      "official_pages": [
+        14,
+        15
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_014.png",
+        "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_015.png"
+      ],
+      "official_page_sha256": [
+        "b22fe8c2bb22b7f300cbb13bc4ede310ddfb0be0f87c7d781c139f02508cbf3d",
+        "4e81629feff0a0f234ac06b9b74dc50601c80bff6d02cbad994b6b4fa6a4bfbe"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_014.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_015.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "윤리규범과",
+          "b": "",
+          "a_context": "윤리규범과법규범은인간에게요구되는행위가무엇인",
+          "b_context": "법규범은인간에게요구되는행위가무엇인"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "하기위한외적인형식에관심이있을뿐이다칸트의설명체계에의하면법규범에대하여",
+          "b_context": "하기위한외적인형식에관심이있을뿐이다0칸트의설명체계에의하면법규범에대하여"
+        },
+        {
+          "tag": "delete",
+          "a": "를",
+          "b": "",
+          "a_context": "을따르는것자체가행위의이유가될것까지를요구하지는않는다는외면성명제셋째법규",
+          "b_context": "을따르는것자체가행위의이유가될것까지요구하지는않는다는외면성명제셋째법규"
+        },
+        {
+          "tag": "replace",
+          "a": "협",
+          "b": "험",
+          "a_context": "가언명령이란만일당신이강제와형벌의위협을피하고자한다면법이지시하는바를행하",
+          "b_context": "가언명령이란만일당신이강제와형벌의위험을피하고자한다면법이지시하는바를행하"
+        },
+        {
+          "tag": "replace",
+          "a": "협",
+          "b": "험",
+          "a_context": "데이경우사실상법규범은강제와형벌의위협을피하고자하는사람들에대해서만그것이",
+          "b_context": "데이경우사실상법규범은강제와형벌의위험을피하고자하는사람들에대해서만그것이"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "15홀수형언어",
+          "a_context": "록지시명령요구할수는없게된다는것이다하지만윤리규범과법규범의차이를오로지",
+          "b_context": "록지시명령요구할수는없게된다는것이다15홀수형언어하지만윤리규범과법규범의차이를오로지"
+        },
+        {
+          "tag": "delete",
+          "a": "이다",
+          "b": "",
+          "a_context": "적명령의역설도쉽사리해소될수는없을것이다",
+          "b_context": "적명령의역설도쉽사리해소될수는없을것"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "1-3",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 1,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q01.md",
+      "paddle_score": 99.01754385964912,
+      "candidate_chars": 1425,
+      "official_pages": [
+        1
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_001.png"
+      ],
+      "official_page_sha256": [
+        "9950353df59af20351c4ace089942f9092e5f5abc97ff2abe9f5dd5630504dc4"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_001.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "판사에게",
+          "b": "",
+          "a_context": "판사에게진솔함이요구되는가하는문제가논의되고",
+          "b_context": "진솔함이요구되는가하는문제가논의되고"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "법학적성시험이해번호홀수형",
+          "a_context": "사법의정당성에지속적으로영향을미친다진솔함의중요성은최근에는다른차원에서",
+          "b_context": "사법의정당성에지속적으로영향을미친다법학적성시험이해번호홀수형진솔함의중요성은최근에는다른차원에서"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "그",
+          "a_context": "법의정당성을수호하는중요한방책이된다어떤판사는법이모호하고선례도없어판단",
+          "b_context": "법의정당성을수호하는중요한방책이된다그어떤판사는법이모호하고선례도없어판단"
+        },
+        {
+          "tag": "delete",
+          "a": "솔함으로도이룰수있다",
+          "b": "",
+          "a_context": "검토되고있다거짓으로이룰수있는것은진솔함으로도이룰수있다",
+          "b_context": "검토되고있다거짓으로이룰수있는것은진"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "4-6",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 5,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q05.md",
+      "paddle_score": 99.48320413436691,
+      "candidate_chars": 1548,
+      "official_pages": [
+        2,
+        3
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_002.png",
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_003.png"
+      ],
+      "official_page_sha256": [
+        "98a9a852d253ed1ebb4e17e4cc8c1218146e92ba1e6ff62a83ed045f75e04fa9",
+        "17dbeceda966c9e28383301063902d326a928e3aad1ba49dd089f3291e41d7b2"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_002.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_003.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "도덕공동체의",
+          "b": "",
+          "a_context": "도덕공동체의구성원은도덕적고려의대상이되는존재로",
+          "b_context": "구성원은도덕적고려의대상이되는존재로"
+        },
+        {
+          "tag": "delete",
+          "a": "더",
+          "b": "",
+          "a_context": "것이다그러나이런관계론적접근은우리와더밀접한관계를갖는인종이나성별을우선해",
+          "b_context": "것이다그러나이런관계론적접근은우리와밀접한관계를갖는인종이나성별을우선해"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "15홀수형언어",
+          "a_context": "자를상상해보자그는현상적의식을가지고있기는하지만못에발을찔렸을때괴로워하",
+          "b_context": "자를상상해보자그는현상적의식을가지고15홀수형언어있기는하지만못에발을찔렸을때괴로워하"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "그",
+          "a_context": "고려할수없다는주장은설득력이부족하다이와마찬가지로식물인간이고통은느끼지",
+          "b_context": "고려할수없다는주장은설득력이부족하다그이와마찬가지로식물인간이고통은느끼지"
+        },
+        {
+          "tag": "delete",
+          "a": "다",
+          "b": "",
+          "a_context": "받아들일수있는여지가있다는것을보여준다",
+          "b_context": "받아들일수있는여지가있다는것을보여준"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "7-9",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 7,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q07.md",
+      "paddle_score": 99.50769230769231,
+      "candidate_chars": 1625,
+      "official_pages": [
+        3,
+        4
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_003.png",
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_004.png"
+      ],
+      "official_page_sha256": [
+        "17dbeceda966c9e28383301063902d326a928e3aad1ba49dd089f3291e41d7b2",
+        "e1e67180ebaae264cabfb9f79a376891b4c68a3620bad1e47afce7232d0c0e2e"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_003.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_004.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "세포는현미경으",
+          "b": "",
+          "a_context": "세포는현미경으로관찰하면작은물방울처럼보이지만세포",
+          "b_context": "로관찰하면작은물방울처럼보이지만세포"
+        },
+        {
+          "tag": "delete",
+          "a": "외",
+          "b": "",
+          "a_context": "하고세포막에고정되어위치하는단백질은외부의신호를안테나처럼받아들이는수용체",
+          "b_context": "하고세포막에고정되어위치하는단백질은부의신호를안테나처럼받아들이는수용체"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "3",
+          "a_context": "백질이나세포질에존재하는단백질은각각세포내소기관또는세포질에서수행되는생",
+          "b_context": "백질이나세포질에존재하는단백질은각각3세포내소기관또는세포질에서수행되는생"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "이해홀수형",
+          "a_context": "반대로세포핵안에존재하다가세포질로나오는단백질이가지고있는신호서열이다그",
+          "b_context": "반대로세포핵안에존재하다가세포질로나이해홀수형오는단백질이가지고있는신호서열이다그"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "열이론을증명하는여러실험이수행되었다KDEL신호서열을인위적으로붙여준단",
+          "b_context": "열이론을증명하는여러실험이수행되었다0KDEL신호서열을인위적으로붙여준단"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "병",
+          "a_context": "결정하는신호서열이라는결론이내려졌다소포체에부착한리보솜에서만들어진어떤",
+          "b_context": "결정하는신호서열이라는결론이내려졌다병소포체에부착한리보솜에서만들어진어떤"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "10-12",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 12,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q12.md",
+      "paddle_score": 99.6790757381258,
+      "candidate_chars": 1558,
+      "official_pages": [
+        5,
+        6
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_005.png",
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_006.png"
+      ],
+      "official_page_sha256": [
+        "f840ec4bd6c5ed5ed1823f19347beaaae251af311b26b001ac4f8b189f113a12",
+        "b21679579b4430fd92ced23847a5d86a536952ef42cdd33e5aa3212c6fe6eaad"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_005.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_006.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "농업중심의",
+          "b": "",
+          "a_context": "농업중심의사회를벗어나면서급속한산업화와도시화",
+          "b_context": "사회를벗어나면서급속한산업화와도시화"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "156언어",
+          "a_context": "미국스페인전쟁을거대한일탈이라고규정했다윌리엄스는이런해석을비판하며정치",
+          "b_context": "미국스페인전쟁을거대한일탈이라고규정156언어했다윌리엄스는이런해석을비판하며정치"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "13-15",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 13,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q13.md",
+      "paddle_score": 99.64622641509435,
+      "candidate_chars": 1696,
+      "official_pages": [
+        6,
+        7
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_006.png",
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_007.png"
+      ],
+      "official_page_sha256": [
+        "b21679579b4430fd92ced23847a5d86a536952ef42cdd33e5aa3212c6fe6eaad",
+        "fb7811fe9c427c5b0a7e2a60c41095620e7f70f7a488f6ea73e9000c4faa343d"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_006.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_007.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "나이의정",
+          "b": "",
+          "a_context": "나이의정치적효과를분석하는데있어가장중요한쟁",
+          "b_context": "치적효과를분석하는데있어가장중요한쟁"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "2",
+          "a_context": "향이상대적으로완만한것으로나타났다이세효과는개념적으로는쉽게구분되지만경",
+          "b_context": "향이상대적으로완만한것으로나타났다이2세2효과는개념적으로는쉽게구분되지만"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "2",
+          "a_context": "이상대적으로완만한것으로나타났다이세효과는개념적으로는쉽게구분되지만경험",
+          "b_context": "상대적으로완만한것으로나타났다이2세2효과는개념적으로는쉽게구분되지만경험"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "이해",
+          "a_context": "일시점에서정치세대간의태도차이를측정하는횡단면디자인다른시점의동일연령대",
+          "b_context": "일시점에서정치세대간의태도차이를측정이해하는횡단면디자인다른시점의동일연령대"
+        },
+        {
+          "tag": "replace",
+          "a": "과",
+          "b": "홧",
+          "a_context": "항의값이자동도출되므로3개의미지수효과값와3개의정보변수가있는듯보이지만실",
+          "b_context": "항의값이자동도출되므로3개의미지수효홧값와3개의정보변수가있는듯보이지만실"
+        },
+        {
+          "tag": "replace",
+          "a": "과",
+          "b": "곽",
+          "a_context": "로나누어파악할수는있지만3개의개별효과값으로명확하게구분해내기어렵다이러한",
+          "b_context": "로나누어파악할수는있지만3개의개별효곽값으로명확하게구분해내기어렵다이러한"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "16-18",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 16,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q16.md",
+      "paddle_score": 99.05397885364496,
+      "candidate_chars": 1797,
+      "official_pages": [
+        8,
+        9
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_008.png",
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_009.png"
+      ],
+      "official_page_sha256": [
+        "06db819aa5b881e597b41088be6582ee0cbcee4b525e0ce5c996c3e975a61117",
+        "bfe2cbe13bceab767dc428619c54d5717c49973e4c7793058db611cde85db849"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_008.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_009.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "다음글을",
+          "b": "",
+          "a_context": "다음글을읽고물음에답하시오가1960년대근대",
+          "b_context": "읽고물음에답하시오가1960년대근대"
+        },
+        {
+          "tag": "replace",
+          "a": "좇",
+          "b": "좋",
+          "a_context": "의상과비난의대상이던성적만족과이익을좇다파멸하는나쁜여성의상사이의다양한빛",
+          "b_context": "의상과비난의대상이던성적만족과이익을좋다파멸하는나쁜여성의상사이의다양한빛"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "15홀수형언어",
+          "a_context": "여성극작가의모순된정체성을읽을수있다나부산에도착한첫날밤세가족은파티를연",
+          "b_context": "여성극작가의모순된정체성을읽을수있다15홀수형언어나부산에도착한첫날밤세가족은파티를연"
+        },
+        {
+          "tag": "replace",
+          "a": "빼앗",
+          "b": "뺏",
+          "a_context": "없이벗어버려야하는거야창수댁트렁크를빼앗으며안돼요하나두버릴수없어요이것들은",
+          "b_context": "없이벗어버려야하는거야창수댁트렁크를뺏으며안돼요하나두버릴수없어요이것들은"
+        },
+        {
+          "tag": "replace",
+          "a": "처",
+          "b": "쳐",
+          "a_context": "번쩍이는소망에행운이있으라모두술잔을처들고브라보창수댁만세야이노끈으로같이",
+          "b_context": "번쩍이는소망에행운이있으라모두술잔을쳐들고브라보창수댁만세야이노끈으로같이"
+        },
+        {
+          "tag": "replace",
+          "a": "려",
+          "b": "어",
+          "a_context": "만세야이노끈으로같이얽어매보자손을빌려라득찬자누구든지나와춤을춰요소리두하",
+          "b_context": "만세야이노끈으로같이얽어매보자손을빌어라득찬자누구든지나와춤을춰요소리두하"
+        },
+        {
+          "tag": "replace",
+          "a": "춘",
+          "b": "준",
+          "a_context": "친다영찬장타령을하며신나게엉덩이춤을춘다모두들손뼉으로박자를맞춘다창수여보",
+          "b_context": "친다영찬장타령을하며신나게엉덩이춤을준다모두들손벽으로박자를맞춘다창수여보"
+        },
+        {
+          "tag": "replace",
+          "a": "뼉",
+          "b": "벽",
+          "a_context": "령을하며신나게엉덩이춤을춘다모두들손뼉으로박자를맞춘다창수여보게들우리이다",
+          "b_context": "령을하며신나게엉덩이춤을준다모두들손벽으로박자를맞춘다창수여보게들우리이다"
+        },
+        {
+          "tag": "replace",
+          "a": "왁",
+          "b": "악",
+          "a_context": "의성공담을신나게지껄여보세나하하일동왁자지껄웃어댄다덕보불쑥튀어나오더니목",
+          "b_context": "의성공담을신나게지껄여보세나하하일동악자지껄웃어댄다덕보불쑥튀어나오더니목"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "무",
+          "a_context": "도우린거거지떼영찬천천히일어선다모두뭐덕보고개를처들며유쾌한거지떼지됩니",
+          "b_context": "도우린거거지떼영찬천천히일어선다모두무뭐덕보고개를쳐들며유쾌한거지떼지웹니"
+        },
+        {
+          "tag": "replace",
+          "a": "처",
+          "b": "쳐",
+          "a_context": "떼영찬천천히일어선다모두뭐덕보고개를처들며유쾌한거지떼지됩니까김자림이민선",
+          "b_context": "영찬천천히일어선다모두무뭐덕보고개를쳐들며유쾌한거지떼지웹니까김자림"
+        },
+        {
+          "tag": "replace",
+          "a": "됩",
+          "b": "웹",
+          "a_context": "모두뭐덕보고개를처들며유쾌한거지떼지됩니까김자림이민선",
+          "b_context": "두무뭐덕보고개를쳐들며유쾌한거지떼지웹니까김자림"
+        },
+        {
+          "tag": "delete",
+          "a": "이민선",
+          "b": "",
+          "a_context": "개를처들며유쾌한거지떼지됩니까김자림이민선",
+          "b_context": "개를쳐들며유쾌한거지떼지웹니까김자림"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "19-21",
+      "status": "no_qzip_text"
+    },
+    {
+      "year": 2023,
+      "range": "22-24",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 23,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q23.md",
+      "paddle_score": 99.43542695836274,
+      "candidate_chars": 1417,
+      "official_pages": [
+        11,
+        12
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_011.png",
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_012.png"
+      ],
+      "official_page_sha256": [
+        "909a0d2ae768f04effa2a2ba280fdcfbd548f8d682e593225c1a815fd1dd3283",
+        "4ee1833071a9a5850d2dc4aacc13aa2a782f8e98b8e2982282d1e412f0f11c4d"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_011.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_012.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "다",
+          "b": "",
+          "a_context": "다음글을읽고물음에답하시오헤겔에게서낭",
+          "b_context": "음글을읽고물음에답하시오헤겔에게서낭"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "락에서등장하지만그실질적내용면에서는그의정신철학전체의핵심을적확하게드러",
+          "b_context": "락에서등장하지만그실질적내용면에서는0그의정신철학전체의핵심을적확하게드러"
+        },
+        {
+          "tag": "delete",
+          "a": "보",
+          "b": "",
+          "a_context": "지만궁극적으로는낭만주의와대립관계를보이기까지한다는점이다이성주의의가장강",
+          "b_context": "지만궁극적으로는낭만주의와대립관계를이기까지한다는점이다이성주의의가장강"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "4",
+          "a_context": "섰다는점에서기독교적인것이기는하지만개념적반성을필요조건으로하는지성의완",
+          "b_context": "섰다는점에서기독교적인것이기는하지만4개념적반성을필요조건으로하는지성의완"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "1512언어",
+          "a_context": "감성과상상력의무제한적발산즉가슴속의모든것을표출할수있는자유를지향하는낭",
+          "b_context": "감성과상상력의무제한적발산즉가슴속의1512언어모든것을표출할수있는자유를지향하는낭"
+        },
+        {
+          "tag": "delete",
+          "a": "로소성취된다",
+          "b": "",
+          "a_context": "진정으로낭만적인것은철학적사유에서비로소성취된다",
+          "b_context": "진정으로낭만적인것은철학적사유에서비"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "range": "25-27",
+      "status": "no_qzip_text"
+    },
+    {
+      "year": 2023,
+      "range": "28-30",
+      "status": "pending_official_visual_review",
+      "best_secondary_question": 28,
+      "secondary_file": "자료/LEET_언어이해/검증/외부대조_QZip/2023/q28.md",
+      "paddle_score": 99.12985274431058,
+      "candidate_chars": 1494,
+      "official_pages": [
+        14,
+        15
+      ],
+      "official_page_images": [
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_014.png",
+        "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_015.png"
+      ],
+      "official_page_sha256": [
+        "51b957058298180361c0fd2e50cd9dddee1099f7c0243773c3e1a080ee2c0030",
+        "0a9fadaa73201e5d10ecc0e1ea618f3abdbd447503d5bdb8673da003c548b98f"
+      ],
+      "paddle_json": [
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_014.json",
+        "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_015.json"
+      ],
+      "differences": [
+        {
+          "tag": "delete",
+          "a": "벤야민은",
+          "b": "",
+          "a_context": "벤야민은폭력이모든합법적권력의탄생과구성과정",
+          "b_context": "폭력이모든합법적권력의탄생과구성과정"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "그",
+          "a_context": "는목적의정의로움과수단의정당성에대한자연법론과법실증주의의입장차이를논의",
+          "b_context": "는목적의정의로움과수단의정당성에대한그자연법론과0법실증주의의입장차이를논"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "0",
+          "a_context": "의로움과수단의정당성에대한자연법론과법실증주의의입장차이를논의의출발점으",
+          "b_context": "로움과수단의정당성에대한그자연법론과0법실증주의의입장차이를논의의출발점으"
+        },
+        {
+          "tag": "replace",
+          "a": "나",
+          "b": "니",
+          "a_context": "개념화했다전자의사례로무정부적위력이나전쟁등을후자의사례로행형제도와경찰제",
+          "b_context": "개념화했다전자의사례로무정부적위력이니전쟁등을후자의사례로행형제도와경찰제"
+        },
+        {
+          "tag": "replace",
+          "a": "인",
+          "b": "언",
+          "a_context": "도화된노력들이다법은구속적인것으로확인됨으로써보존되며그보존을통한재확인이",
+          "b_context": "도화된노력들이다법은구속적인것으로확언됨으로써보존되며그보존을통한재확언이"
+        },
+        {
+          "tag": "replace",
+          "a": "인",
+          "b": "언",
+          "a_context": "확인됨으로써보존되며그보존을통한재확인이다시금법을구속하는것이다더나아가그",
+          "b_context": "확언됨으로써보존되며그보존을통한재확언이다시금법을구속하는것이다더나아가그"
+        },
+        {
+          "tag": "insert",
+          "a": "",
+          "b": "15홀수형언어",
+          "a_context": "의관계를규명하려는연구자들의관심을끌게된데에는데리다의비판적독해가주요한",
+          "b_context": "의관계를규명하려는연구자들의관심을끌15홀수형언어게된데에는데리다의비판적독해가주요한"
+        },
+        {
+          "tag": "replace",
+          "a": "나",
+          "b": "니",
+          "a_context": "로이해할경우자칫메시아주의로귀결되거나전체주의에복무하는것으로해석될여지가",
+          "b_context": "로이해할경우자칫메시아주의로귀결되거니전체주의에복무하는것으로해석될여지가"
+        },
+        {
+          "tag": "delete",
+          "a": "을지적했다",
+          "b": "",
+          "a_context": "주의에복무하는것으로해석될여지가있음을지적했다",
+          "b_context": "주의에복무하는것으로해석될여지가있음"
+        }
+      ]
+    }
+  ],
+  "warning": "Every difference must be decided from the linked official page image; neither side is canonical."
+}

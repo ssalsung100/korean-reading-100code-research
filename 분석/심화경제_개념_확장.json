@@ -1,0 +1,1703 @@
+{
+  "source_files": 14,
+  "question_count": 363,
+  "image_dependent_questions": 146,
+  "advanced_concept_count": 38,
+  "covered_question_count": 305,
+  "concepts": [
+    {
+      "id": "economic_activity_flow",
+      "name": "경제 활동의 유형과 국민 경제 순환",
+      "domains": [
+        "경제"
+      ],
+      "stage": 1,
+      "prerequisites": [
+        "scarcity"
+      ],
+      "aliases": [
+        "생산 활동",
+        "분배 활동",
+        "소비 활동",
+        "생산물 시장",
+        "생산 요소 시장",
+        "실물의 흐름",
+        "화폐의 흐름",
+        "국민 경제 순환"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "economic_actor_roles"
+      ],
+      "question_count": 21,
+      "unit_counts": {
+        "1단원": 12,
+        "5단원": 1,
+        "9단원": 7,
+        "14단원": 1
+      },
+      "matched_aliases": {
+        "생산 요소 시장": 10,
+        "생산물 시장": 9,
+        "생산 활동": 6,
+        "소비 활동": 5,
+        "국민 경제 순환": 4,
+        "화폐의 흐름": 3,
+        "실물의 흐름": 1
+      },
+      "sample_question_ids": [
+        "경제-1단원-Q001",
+        "경제-1단원-Q003",
+        "경제-1단원-Q004",
+        "경제-1단원-Q005",
+        "경제-1단원-Q006",
+        "경제-1단원-Q007",
+        "경제-1단원-Q009",
+        "경제-1단원-Q010"
+      ]
+    },
+    {
+      "id": "economic_agent_objectives",
+      "name": "경제 주체의 역할과 목적 함수",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "economic_activity_flow"
+      ],
+      "aliases": [
+        "효용 극대화",
+        "이윤 극대화",
+        "사회적 후생의 극대화",
+        "요소 소득",
+        "임금, 지대, 이자"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "economic_actor_roles"
+      ],
+      "question_count": 18,
+      "unit_counts": {
+        "1단원": 10,
+        "2단원": 1,
+        "4단원": 2,
+        "9단원": 5
+      },
+      "matched_aliases": {
+        "이윤 극대화": 11,
+        "효용 극대화": 7,
+        "임금, 지대, 이자": 1,
+        "사회적 후생의 극대화": 1,
+        "요소 소득": 1
+      },
+      "sample_question_ids": [
+        "경제-1단원-Q003",
+        "경제-1단원-Q005",
+        "경제-1단원-Q006",
+        "경제-1단원-Q007",
+        "경제-1단원-Q008",
+        "경제-1단원-Q009",
+        "경제-1단원-Q011",
+        "경제-1단원-Q012"
+      ]
+    },
+    {
+      "id": "marginal_analysis",
+      "name": "한계 분석과 최적 선택",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "rational_choice",
+        "opportunity_cost"
+      ],
+      "aliases": [
+        "한계 편익",
+        "한계 비용",
+        "추가적으로 얻는 편익",
+        "추가적으로 발생하는 비용",
+        "총편익",
+        "총비용",
+        "최적 선택"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "rational_choice"
+      ],
+      "question_count": 14,
+      "unit_counts": {
+        "2단원": 2,
+        "4단원": 12
+      },
+      "matched_aliases": {
+        "총비용": 12,
+        "추가적으로 발생하는 비용": 7,
+        "추가적으로 얻는 편익": 1,
+        "총편익": 1
+      },
+      "sample_question_ids": [
+        "경제-2단원-Q010",
+        "경제-2단원-Q019",
+        "경제-4단원-Q001",
+        "경제-4단원-Q006",
+        "경제-4단원-Q007",
+        "경제-4단원-Q008",
+        "경제-4단원-Q009",
+        "경제-4단원-Q010"
+      ]
+    },
+    {
+      "id": "consumer_choice_budget",
+      "name": "예산 제약과 소비자의 효용 극대화",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "economic_agent_objectives",
+        "marginal_analysis"
+      ],
+      "aliases": [
+        "주어진 소득으로",
+        "소비 조합",
+        "재화별 만족도",
+        "전체 만족도",
+        "예산 제약",
+        "소비자 균형"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 1,
+      "unit_counts": {
+        "4단원": 1
+      },
+      "matched_aliases": {
+        "주어진 소득으로": 1,
+        "소비 조합": 1,
+        "재화별 만족도": 1,
+        "전체 만족도": 1
+      },
+      "sample_question_ids": [
+        "경제-4단원-Q002"
+      ]
+    },
+    {
+      "id": "firm_production_cost",
+      "name": "기업의 생산·비용·수입과 이윤 극대화",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "economic_agent_objectives",
+        "marginal_analysis"
+      ],
+      "aliases": [
+        "생산량에 따른 총비용",
+        "총수입",
+        "판매 수입",
+        "이윤은 생산량",
+        "이윤 극대화 생산량",
+        "생산 요소 투입량"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 53,
+      "unit_counts": {
+        "1단원": 4,
+        "2단원": 2,
+        "4단원": 14,
+        "5단원": 12,
+        "6단원": 1,
+        "7단원": 2,
+        "8단원": 7,
+        "9단원": 4,
+        "11단원": 1,
+        "12단원": 6
+      },
+      "matched_aliases": {
+        "판매 수입": 41,
+        "총수입": 10,
+        "생산량에 따른 총비용": 4,
+        "이윤은 생산량": 3,
+        "이윤 극대화 생산량": 2,
+        "생산 요소 투입량": 1
+      },
+      "sample_question_ids": [
+        "경제-1단원-Q006",
+        "경제-1단원-Q008",
+        "경제-1단원-Q010",
+        "경제-1단원-Q012",
+        "경제-2단원-Q010",
+        "경제-2단원-Q019",
+        "경제-4단원-Q005",
+        "경제-4단원-Q006"
+      ]
+    },
+    {
+      "id": "demand_supply",
+      "name": "수요·공급의 법칙과 시장 균형",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "market_principle"
+      ],
+      "aliases": [
+        "수요 법칙",
+        "공급 법칙",
+        "수요 곡선",
+        "공급 곡선",
+        "균형 가격",
+        "균형 거래량",
+        "초과 수요",
+        "초과 공급"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "market_principle"
+      ],
+      "question_count": 97,
+      "unit_counts": {
+        "4단원": 1,
+        "5단원": 29,
+        "6단원": 3,
+        "7단원": 12,
+        "8단원": 17,
+        "9단원": 2,
+        "10단원": 5,
+        "11단원": 15,
+        "12단원": 7,
+        "13단원": 6
+      },
+      "matched_aliases": {
+        "공급 곡선": 48,
+        "공급 법칙": 38,
+        "균형 가격": 31,
+        "수요 곡선": 30,
+        "균형 거래량": 27,
+        "초과 수요": 13,
+        "초과 공급": 9
+      },
+      "sample_question_ids": [
+        "경제-4단원-Q015",
+        "경제-5단원-Q002",
+        "경제-5단원-Q003",
+        "경제-5단원-Q004",
+        "경제-5단원-Q005",
+        "경제-5단원-Q006",
+        "경제-5단원-Q007",
+        "경제-5단원-Q008"
+      ]
+    },
+    {
+      "id": "demand_supply_shift",
+      "name": "수요·공급의 변동과 연관재",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "demand_supply"
+      ],
+      "aliases": [
+        "수요 증가",
+        "수요 감소",
+        "공급 증가",
+        "공급 감소",
+        "대체재",
+        "보완재",
+        "정상재",
+        "열등재",
+        "연관재"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 21,
+      "unit_counts": {
+        "5단원": 13,
+        "10단원": 2,
+        "11단원": 5,
+        "13단원": 1
+      },
+      "matched_aliases": {
+        "수요 증가": 7,
+        "공급 감소": 6,
+        "보완재": 6,
+        "공급 증가": 5,
+        "대체재": 4,
+        "연관재": 4,
+        "수요 감소": 3,
+        "정상재": 2
+      },
+      "sample_question_ids": [
+        "경제-5단원-Q002",
+        "경제-5단원-Q003",
+        "경제-5단원-Q004",
+        "경제-5단원-Q006",
+        "경제-5단원-Q016",
+        "경제-5단원-Q018",
+        "경제-5단원-Q022",
+        "경제-5단원-Q024"
+      ]
+    },
+    {
+      "id": "simultaneous_market_shift",
+      "name": "수요·공급의 동시 변동과 균형의 불확정성",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "demand_supply_shift"
+      ],
+      "aliases": [
+        "수요와 공급의 동시 변동",
+        "수요와 공급이 동시에",
+        "균형점 E가 이동할 영역",
+        "균형 가격은 알 수 없",
+        "균형 거래량은 알 수 없"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 1,
+      "unit_counts": {
+        "5단원": 1
+      },
+      "matched_aliases": {
+        "균형점 E가 이동할 영역": 1
+      },
+      "sample_question_ids": [
+        "경제-5단원-Q034"
+      ]
+    },
+    {
+      "id": "elasticity",
+      "name": "수요·공급의 가격 탄력성",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "demand_supply"
+      ],
+      "aliases": [
+        "가격 탄력성",
+        "수요의 가격 탄력성",
+        "공급의 가격 탄력성",
+        "탄력적",
+        "비탄력적"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 3,
+      "unit_counts": {
+        "5단원": 2,
+        "8단원": 1
+      },
+      "matched_aliases": {
+        "탄력적": 3,
+        "비탄력적": 3,
+        "가격 탄력성": 1,
+        "수요의 가격 탄력성": 1
+      },
+      "sample_question_ids": [
+        "경제-5단원-Q035",
+        "경제-5단원-Q036",
+        "경제-8단원-Q016"
+      ]
+    },
+    {
+      "id": "economic_surplus_efficiency",
+      "name": "소비자·생산자 잉여와 자원 배분 효율성",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "demand_supply",
+        "marginal_analysis"
+      ],
+      "aliases": [
+        "소비자 잉여",
+        "생산자 잉여",
+        "사회적 잉여",
+        "총잉여",
+        "최대 지불 용의",
+        "최소 판매 요구 금액",
+        "자원 배분의 효율성"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 44,
+      "unit_counts": {
+        "3단원": 2,
+        "4단원": 1,
+        "5단원": 13,
+        "6단원": 4,
+        "8단원": 14,
+        "12단원": 10
+      },
+      "matched_aliases": {
+        "생산자 잉여": 25,
+        "소비자 잉여": 24,
+        "총잉여": 10,
+        "최대 지불 용의": 9,
+        "자원 배분의 효율성": 2,
+        "최소 판매 요구 금액": 1,
+        "사회적 잉여": 1
+      },
+      "sample_question_ids": [
+        "경제-3단원-Q016",
+        "경제-3단원-Q018",
+        "경제-4단원-Q014",
+        "경제-5단원-Q001",
+        "경제-5단원-Q004",
+        "경제-5단원-Q007",
+        "경제-5단원-Q009",
+        "경제-5단원-Q010"
+      ]
+    },
+    {
+      "id": "price_regulation",
+      "name": "최고·최저 가격제와 거래량 규제",
+      "domains": [
+        "경제",
+        "법과 정치"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "demand_supply",
+        "economic_surplus_efficiency"
+      ],
+      "aliases": [
+        "최고 가격제",
+        "최저 가격제",
+        "가격 상한",
+        "가격 하한",
+        "가격 규제 정책",
+        "실효성 있는 가격 규제",
+        "암시장"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "government_failure"
+      ],
+      "question_count": 17,
+      "unit_counts": {
+        "4단원": 1,
+        "5단원": 2,
+        "6단원": 2,
+        "8단원": 12
+      },
+      "matched_aliases": {
+        "가격 규제 정책": 13,
+        "암시장": 8,
+        "가격 상한": 5,
+        "실효성 있는 가격 규제": 4,
+        "최고 가격제": 4,
+        "최저 가격제": 2,
+        "가격 하한": 1
+      },
+      "sample_question_ids": [
+        "경제-4단원-Q014",
+        "경제-5단원-Q009",
+        "경제-5단원-Q015",
+        "경제-6단원-Q001",
+        "경제-6단원-Q003",
+        "경제-8단원-Q002",
+        "경제-8단원-Q004",
+        "경제-8단원-Q005"
+      ]
+    },
+    {
+      "id": "tax_subsidy_incidence",
+      "name": "조세·보조금의 귀착과 후생 효과",
+      "domains": [
+        "경제",
+        "법과 정치"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "demand_supply",
+        "economic_surplus_efficiency"
+      ],
+      "aliases": [
+        "소비자에게 보조금",
+        "생산자에게 보조금",
+        "단위당 세금",
+        "조세 부과 이후",
+        "보조금 지급 이후",
+        "정부의 조세 수입",
+        "정부 지출액"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "government_failure"
+      ],
+      "question_count": 4,
+      "unit_counts": {
+        "5단원": 1,
+        "6단원": 2,
+        "8단원": 1
+      },
+      "matched_aliases": {
+        "정부의 조세 수입": 3,
+        "생산자에게 보조금": 1
+      },
+      "sample_question_ids": [
+        "경제-5단원-Q027",
+        "경제-6단원-Q001",
+        "경제-6단원-Q002",
+        "경제-8단원-Q018"
+      ]
+    },
+    {
+      "id": "tax_structure",
+      "name": "비례세·누진세·역진세와 조세 부담",
+      "domains": [
+        "경제",
+        "법과 정치"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "fiscal_balance",
+        "distributive_justice"
+      ],
+      "aliases": [
+        "비례세",
+        "누진세",
+        "역진세",
+        "과세 표준",
+        "평균 세율",
+        "한계 세율",
+        "소득세액",
+        "조세 부담률"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 3,
+      "unit_counts": {
+        "4단원": 3
+      },
+      "matched_aliases": {
+        "누진세": 2,
+        "소득세액": 1
+      },
+      "sample_question_ids": [
+        "경제-4단원-Q021",
+        "경제-4단원-Q023",
+        "경제-4단원-Q026"
+      ]
+    },
+    {
+      "id": "externality_correction",
+      "name": "외부 효과의 사회적 최적과 교정",
+      "domains": [
+        "경제",
+        "융합"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "external_effects",
+        "economic_surplus_efficiency"
+      ],
+      "aliases": [
+        "사적 비용",
+        "사회적 비용",
+        "사적 편익",
+        "사회적 편익",
+        "사회적 최적 수준",
+        "사회적 최적 균형",
+        "외부 효과를 개선"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "external_effects"
+      ],
+      "question_count": 16,
+      "unit_counts": {
+        "7단원": 14,
+        "8단원": 2
+      },
+      "matched_aliases": {
+        "사적 비용": 8,
+        "사회적 비용": 8,
+        "사적 편익": 8,
+        "사회적 최적 수준": 7,
+        "사회적 편익": 7,
+        "외부 효과를 개선": 5,
+        "사회적 최적 균형": 3
+      },
+      "sample_question_ids": [
+        "경제-7단원-Q002",
+        "경제-7단원-Q005",
+        "경제-7단원-Q006",
+        "경제-7단원-Q007",
+        "경제-7단원-Q008",
+        "경제-7단원-Q009",
+        "경제-7단원-Q010",
+        "경제-7단원-Q011"
+      ]
+    },
+    {
+      "id": "national_income_accounting",
+      "name": "국내 총생산과 국민소득의 측정",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "economic_activity_flow"
+      ],
+      "aliases": [
+        "국내 총생산",
+        "GDP",
+        "명목 GDP",
+        "실질 GDP",
+        "GDP 디플레이터",
+        "부가 가치",
+        "중간재",
+        "최종 생산물",
+        "생산 국민 소득",
+        "분배 국민 소득",
+        "지출 국민 소득"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "economic_indicators"
+      ],
+      "question_count": 48,
+      "unit_counts": {
+        "1단원": 2,
+        "4단원": 1,
+        "9단원": 32,
+        "10단원": 7,
+        "11단원": 6
+      },
+      "matched_aliases": {
+        "GDP": 37,
+        "실질 GDP": 31,
+        "명목 GDP": 20,
+        "GDP 디플레이터": 19,
+        "부가 가치": 11,
+        "중간재": 5,
+        "국내 총생산": 5,
+        "최종 생산물": 4,
+        "분배 국민 소득": 3,
+        "지출 국민 소득": 2,
+        "생산 국민 소득": 1
+      },
+      "sample_question_ids": [
+        "경제-1단원-Q002",
+        "경제-1단원-Q003",
+        "경제-4단원-Q021",
+        "경제-9단원-Q007",
+        "경제-9단원-Q008",
+        "경제-9단원-Q009",
+        "경제-9단원-Q010",
+        "경제-9단원-Q011"
+      ]
+    },
+    {
+      "id": "price_level_inflation",
+      "name": "물가 지수와 인플레이션",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "national_income_accounting"
+      ],
+      "aliases": [
+        "물가 지수",
+        "소비자 물가 지수",
+        "GDP 디플레이터",
+        "물가 상승률",
+        "인플레이션",
+        "화폐 구매력"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "economic_indicators"
+      ],
+      "question_count": 42,
+      "unit_counts": {
+        "9단원": 19,
+        "10단원": 10,
+        "11단원": 8,
+        "14단원": 5
+      },
+      "matched_aliases": {
+        "GDP 디플레이터": 19,
+        "물가 상승률": 18,
+        "인플레이션": 12,
+        "화폐 구매력": 6,
+        "물가 지수": 3,
+        "소비자 물가 지수": 1
+      },
+      "sample_question_ids": [
+        "경제-9단원-Q016",
+        "경제-9단원-Q017",
+        "경제-9단원-Q018",
+        "경제-9단원-Q019",
+        "경제-9단원-Q020",
+        "경제-9단원-Q021",
+        "경제-9단원-Q022",
+        "경제-9단원-Q023"
+      ]
+    },
+    {
+      "id": "employment_indicators",
+      "name": "고용·실업 지표와 인구 상태 이동",
+      "domains": [
+        "경제",
+        "사회문화"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "economic_activity_flow"
+      ],
+      "aliases": [
+        "경제 활동 인구",
+        "비경제 활동 인구",
+        "경제 활동 참가율",
+        "고용률",
+        "실업률",
+        "취업자 수",
+        "실업자 수"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "economic_indicators"
+      ],
+      "question_count": 23,
+      "unit_counts": {
+        "9단원": 1,
+        "10단원": 20,
+        "11단원": 2
+      },
+      "matched_aliases": {
+        "실업률": 18,
+        "경제 활동 인구": 18,
+        "경제 활동 참가율": 15,
+        "고용률": 15,
+        "비경제 활동 인구": 14,
+        "취업자 수": 14,
+        "실업자 수": 13
+      },
+      "sample_question_ids": [
+        "경제-9단원-Q032",
+        "경제-10단원-Q001",
+        "경제-10단원-Q002",
+        "경제-10단원-Q003",
+        "경제-10단원-Q004",
+        "경제-10단원-Q005",
+        "경제-10단원-Q006",
+        "경제-10단원-Q007"
+      ]
+    },
+    {
+      "id": "labor_market_wage",
+      "name": "노동 시장의 수요·공급과 임금 결정",
+      "domains": [
+        "경제",
+        "사회문화"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "demand_supply",
+        "economic_activity_flow"
+      ],
+      "aliases": [
+        "노동 수요",
+        "노동 공급",
+        "균형 임금",
+        "노동량",
+        "임금 상승",
+        "노동 수요 요인",
+        "노동 공급 요인"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 10,
+      "unit_counts": {
+        "5단원": 3,
+        "12단원": 7
+      },
+      "matched_aliases": {
+        "노동량": 7,
+        "노동 공급": 2,
+        "노동 수요": 2,
+        "균형 임금": 1,
+        "노동 수요 요인": 1,
+        "노동 공급 요인": 1
+      },
+      "sample_question_ids": [
+        "경제-5단원-Q005",
+        "경제-5단원-Q021",
+        "경제-5단원-Q025",
+        "경제-12단원-Q002",
+        "경제-12단원-Q004",
+        "경제-12단원-Q006",
+        "경제-12단원-Q008",
+        "경제-12단원-Q010"
+      ]
+    },
+    {
+      "id": "discouraged_worker_effect",
+      "name": "실망 실업자와 고용 지표의 역설",
+      "domains": [
+        "경제",
+        "사회문화"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "employment_indicators"
+      ],
+      "aliases": [
+        "실망 실업자",
+        "구직을 포기",
+        "구직 단념자",
+        "실업률이 하락해도",
+        "비경제 활동 인구로 이동"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 1,
+      "unit_counts": {
+        "10단원": 1
+      },
+      "matched_aliases": {
+        "구직을 포기": 1
+      },
+      "sample_question_ids": [
+        "경제-10단원-Q018"
+      ]
+    },
+    {
+      "id": "business_cycle",
+      "name": "경기 변동과 경제 성장",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "national_income_accounting",
+        "price_level_inflation",
+        "employment_indicators"
+      ],
+      "aliases": [
+        "경기 변동",
+        "경기 침체",
+        "경기 과열",
+        "경제 성장률",
+        "잠재 성장률",
+        "스태그플레이션"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 33,
+      "unit_counts": {
+        "3단원": 1,
+        "9단원": 17,
+        "10단원": 5,
+        "11단원": 10
+      },
+      "matched_aliases": {
+        "경제 성장률": 18,
+        "스태그플레이션": 9,
+        "경기 과열": 4,
+        "경기 침체": 2,
+        "경기 변동": 1
+      },
+      "sample_question_ids": [
+        "경제-3단원-Q009",
+        "경제-9단원-Q017",
+        "경제-9단원-Q018",
+        "경제-9단원-Q019",
+        "경제-9단원-Q021",
+        "경제-9단원-Q022",
+        "경제-9단원-Q023",
+        "경제-9단원-Q024"
+      ]
+    },
+    {
+      "id": "aggregate_demand_supply",
+      "name": "총수요·총공급과 국민 경제 균형",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "demand_supply",
+        "business_cycle"
+      ],
+      "aliases": [
+        "총수요 곡선",
+        "총공급 곡선",
+        "국민 경제 균형점",
+        "총수요 증가",
+        "총수요 감소",
+        "총공급 증가",
+        "총공급 감소",
+        "수요 견인 인플레이션",
+        "비용 인상 인플레이션"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 29,
+      "unit_counts": {
+        "9단원": 1,
+        "10단원": 8,
+        "11단원": 20
+      },
+      "matched_aliases": {
+        "총공급 곡선": 21,
+        "총수요 곡선": 20,
+        "수요 견인 인플레이션": 12,
+        "비용 인상 인플레이션": 8,
+        "국민 경제 균형점": 8,
+        "총수요 증가": 5,
+        "총공급 감소": 3,
+        "총공급 증가": 1
+      },
+      "sample_question_ids": [
+        "경제-9단원-Q018",
+        "경제-10단원-Q023",
+        "경제-10단원-Q024",
+        "경제-10단원-Q025",
+        "경제-10단원-Q026",
+        "경제-10단원-Q027",
+        "경제-10단원-Q028",
+        "경제-10단원-Q029"
+      ]
+    },
+    {
+      "id": "nominal_real_indicators",
+      "name": "명목·실질 지표와 물가 조정",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "national_income_accounting",
+        "price_level_inflation"
+      ],
+      "aliases": [
+        "명목 지표",
+        "실질 지표",
+        "명목 GDP와 실질 GDP",
+        "명목 GDP 증가율",
+        "실질 GDP 증가율",
+        "물가 조정",
+        "기준 연도"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 21,
+      "unit_counts": {
+        "9단원": 19,
+        "10단원": 2
+      },
+      "matched_aliases": {
+        "기준 연도": 19,
+        "명목 GDP 증가율": 8,
+        "실질 GDP 증가율": 5,
+        "명목 GDP와 실질 GDP": 4
+      },
+      "sample_question_ids": [
+        "경제-9단원-Q016",
+        "경제-9단원-Q017",
+        "경제-9단원-Q018",
+        "경제-9단원-Q019",
+        "경제-9단원-Q020",
+        "경제-9단원-Q021",
+        "경제-9단원-Q022",
+        "경제-9단원-Q023"
+      ]
+    },
+    {
+      "id": "inflation_types",
+      "name": "수요 견인·비용 인상 인플레이션",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "price_level_inflation",
+        "aggregate_demand_supply"
+      ],
+      "aliases": [
+        "수요 견인 인플레이션",
+        "비용 인상 인플레이션",
+        "원자재 가격 상승",
+        "총수요 증가로 인한 물가",
+        "총공급 감소로 인한 물가"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 15,
+      "unit_counts": {
+        "5단원": 2,
+        "10단원": 8,
+        "11단원": 5
+      },
+      "matched_aliases": {
+        "수요 견인 인플레이션": 12,
+        "비용 인상 인플레이션": 8,
+        "원자재 가격 상승": 5
+      },
+      "sample_question_ids": [
+        "경제-5단원-Q018",
+        "경제-5단원-Q030",
+        "경제-10단원-Q023",
+        "경제-10단원-Q024",
+        "경제-10단원-Q025",
+        "경제-10단원-Q026",
+        "경제-10단원-Q027",
+        "경제-10단원-Q028"
+      ]
+    },
+    {
+      "id": "fiscal_policy",
+      "name": "재정 정책과 경기 안정화",
+      "domains": [
+        "경제",
+        "법과 정치"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "aggregate_demand_supply"
+      ],
+      "aliases": [
+        "확대 재정 정책",
+        "긴축 재정 정책",
+        "정부 지출 확대",
+        "정부 지출 축소",
+        "조세 인하",
+        "조세 인상",
+        "재정 정책"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 10,
+      "unit_counts": {
+        "4단원": 1,
+        "7단원": 1,
+        "11단원": 8
+      },
+      "matched_aliases": {
+        "재정 정책": 9,
+        "확대 재정 정책": 3,
+        "정부 지출 확대": 3,
+        "긴축 재정 정책": 2,
+        "정부 지출 축소": 2
+      },
+      "sample_question_ids": [
+        "경제-4단원-Q021",
+        "경제-7단원-Q001",
+        "경제-11단원-Q001",
+        "경제-11단원-Q005",
+        "경제-11단원-Q015",
+        "경제-11단원-Q018",
+        "경제-11단원-Q019",
+        "경제-11단원-Q021"
+      ]
+    },
+    {
+      "id": "fiscal_balance",
+      "name": "재정 수입·지출과 재정 수지",
+      "domains": [
+        "경제",
+        "법과 정치"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "economic_agent_objectives"
+      ],
+      "aliases": [
+        "재정 수입",
+        "재정 지출",
+        "재정 수지",
+        "재정 흑자",
+        "재정 적자"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "fiscal_policy"
+      ],
+      "question_count": 1,
+      "unit_counts": {
+        "11단원": 1
+      },
+      "matched_aliases": {
+        "재정 수입": 1,
+        "재정 지출": 1,
+        "재정 수지": 1
+      },
+      "sample_question_ids": [
+        "경제-11단원-Q013"
+      ]
+    },
+    {
+      "id": "monetary_policy",
+      "name": "통화 정책과 통화량·금리 경로",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "aggregate_demand_supply",
+        "economic_indicators"
+      ],
+      "aliases": [
+        "확대 통화 정책",
+        "긴축 통화 정책",
+        "통화 정책",
+        "기준 금리 인하",
+        "기준 금리 인상",
+        "국공채 매입",
+        "국공채 매각",
+        "통화량"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 18,
+      "unit_counts": {
+        "11단원": 12,
+        "13단원": 6
+      },
+      "matched_aliases": {
+        "통화량": 9,
+        "통화 정책": 6,
+        "국공채 매입": 4,
+        "국공채 매각": 3,
+        "기준 금리 인상": 2,
+        "확대 통화 정책": 1
+      },
+      "sample_question_ids": [
+        "경제-11단원-Q011",
+        "경제-11단원-Q014",
+        "경제-11단원-Q015",
+        "경제-11단원-Q016",
+        "경제-11단원-Q017",
+        "경제-11단원-Q018",
+        "경제-11단원-Q019",
+        "경제-11단원-Q020"
+      ]
+    },
+    {
+      "id": "policy_mix",
+      "name": "재정·통화 정책 조합과 상쇄 효과",
+      "domains": [
+        "경제",
+        "법과 정치"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "fiscal_policy",
+        "monetary_policy"
+      ],
+      "aliases": [
+        "재정 정책과 통화 정책",
+        "정책 조합",
+        "정부 지출과 기준 금리",
+        "재정·통화 정책",
+        "상쇄 효과"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 1,
+      "unit_counts": {
+        "11단원": 1
+      },
+      "matched_aliases": {
+        "정책 조합": 1
+      },
+      "sample_question_ids": [
+        "경제-11단원-Q020"
+      ]
+    },
+    {
+      "id": "terms_of_trade",
+      "name": "교역 조건과 무역 이익",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "production_possibility",
+        "comparative_advantage"
+      ],
+      "aliases": [
+        "교환 비율",
+        "교역 조건",
+        "교역 후 소비점",
+        "소비 가능 곡선",
+        "양국 모두 이익",
+        "무역 이익"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "comparative_advantage",
+        "international_trade"
+      ],
+      "question_count": 14,
+      "unit_counts": {
+        "12단원": 14
+      },
+      "matched_aliases": {
+        "교환 비율": 10,
+        "양국 모두 이익": 5,
+        "교역 후 소비점": 2,
+        "소비 가능 곡선": 2
+      },
+      "sample_question_ids": [
+        "경제-12단원-Q001",
+        "경제-12단원-Q002",
+        "경제-12단원-Q003",
+        "경제-12단원-Q004",
+        "경제-12단원-Q005",
+        "경제-12단원-Q006",
+        "경제-12단원-Q007",
+        "경제-12단원-Q008"
+      ]
+    },
+    {
+      "id": "trade_policy_welfare",
+      "name": "관세·수입 규제와 무역 후생",
+      "domains": [
+        "경제",
+        "법과 정치"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "international_trade",
+        "economic_surplus_efficiency"
+      ],
+      "aliases": [
+        "관세 부과",
+        "수입 관세",
+        "수입량 제한",
+        "수입 할당제",
+        "국제 가격",
+        "국내 가격",
+        "무역 이후 소비자 잉여",
+        "무역 이후 생산자 잉여"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 13,
+      "unit_counts": {
+        "12단원": 13
+      },
+      "matched_aliases": {
+        "국제 가격": 13,
+        "국내 가격": 1,
+        "관세 부과": 1
+      },
+      "sample_question_ids": [
+        "경제-12단원-Q016",
+        "경제-12단원-Q017",
+        "경제-12단원-Q018",
+        "경제-12단원-Q019",
+        "경제-12단원-Q020",
+        "경제-12단원-Q021",
+        "경제-12단원-Q022",
+        "경제-12단원-Q023"
+      ]
+    },
+    {
+      "id": "foreign_exchange_market",
+      "name": "외환 시장과 환율 결정",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "demand_supply",
+        "international_trade"
+      ],
+      "aliases": [
+        "외환 시장",
+        "원/달러 환율",
+        "달러화 수요",
+        "달러화 공급",
+        "통화 가치",
+        "외화 수요",
+        "외화 공급"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "economic_indicators"
+      ],
+      "question_count": 18,
+      "unit_counts": {
+        "13단원": 14,
+        "14단원": 4
+      },
+      "matched_aliases": {
+        "외환 시장": 12,
+        "원/달러 환율": 11,
+        "달러화 수요": 3,
+        "통화 가치": 2,
+        "달러화 공급": 2
+      },
+      "sample_question_ids": [
+        "경제-13단원-Q001",
+        "경제-13단원-Q002",
+        "경제-13단원-Q003",
+        "경제-13단원-Q004",
+        "경제-13단원-Q005",
+        "경제-13단원-Q006",
+        "경제-13단원-Q007",
+        "경제-13단원-Q008"
+      ]
+    },
+    {
+      "id": "exchange_rate_effects",
+      "name": "환율 변동의 무역·자본 이동 효과",
+      "domains": [
+        "경제",
+        "지리"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "foreign_exchange_market"
+      ],
+      "aliases": [
+        "수출품의 가격 경쟁력",
+        "외채 상환 부담",
+        "해외여행 경비 부담",
+        "해외 자본 유입",
+        "수입 부담",
+        "환율 상승",
+        "환율 하락"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 9,
+      "unit_counts": {
+        "13단원": 9
+      },
+      "matched_aliases": {
+        "외채 상환 부담": 8,
+        "수출품의 가격 경쟁력": 3,
+        "수입 부담": 1,
+        "환율 상승": 1
+      },
+      "sample_question_ids": [
+        "경제-13단원-Q002",
+        "경제-13단원-Q004",
+        "경제-13단원-Q005",
+        "경제-13단원-Q006",
+        "경제-13단원-Q007",
+        "경제-13단원-Q008",
+        "경제-13단원-Q009",
+        "경제-13단원-Q011"
+      ]
+    },
+    {
+      "id": "cross_exchange_rate",
+      "name": "통화 가치와 교차 환율",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "foreign_exchange_market"
+      ],
+      "aliases": [
+        "교차 환율",
+        "통화 1단위와 교환",
+        "두 통화 간 환율",
+        "통화 대비 통화 가치",
+        "원/엔 환율",
+        "달러/엔 환율"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 1,
+      "unit_counts": {
+        "13단원": 1
+      },
+      "matched_aliases": {
+        "통화 1단위와 교환": 1
+      },
+      "sample_question_ids": [
+        "경제-13단원-Q003"
+      ]
+    },
+    {
+      "id": "balance_of_payments",
+      "name": "국제수지와 경상 수지",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "international_trade",
+        "foreign_exchange_market"
+      ],
+      "aliases": [
+        "국제 수지",
+        "경상 수지",
+        "상품 수지",
+        "서비스 수지",
+        "본원 소득 수지",
+        "이전 소득 수지",
+        "금융 계정",
+        "경상 수지 흑자",
+        "경상 수지 적자"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 18,
+      "unit_counts": {
+        "9단원": 1,
+        "13단원": 17
+      },
+      "matched_aliases": {
+        "상품 수지": 15,
+        "경상 수지": 15,
+        "서비스 수지": 12,
+        "본원 소득 수지": 11,
+        "이전 소득 수지": 11,
+        "금융 계정": 1,
+        "경상 수지 흑자": 1
+      },
+      "sample_question_ids": [
+        "경제-9단원-Q034",
+        "경제-13단원-Q009",
+        "경제-13단원-Q015",
+        "경제-13단원-Q016",
+        "경제-13단원-Q017",
+        "경제-13단원-Q018",
+        "경제-13단원-Q019",
+        "경제-13단원-Q020"
+      ]
+    },
+    {
+      "id": "household_income_expenditure",
+      "name": "가계의 소득·지출과 처분 가능 소득",
+      "domains": [
+        "경제"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "economic_activity_flow",
+        "financial_life"
+      ],
+      "aliases": [
+        "경상 소득",
+        "비경상 소득",
+        "근로 소득",
+        "사업 소득",
+        "재산 소득",
+        "이전 소득",
+        "소비 지출",
+        "비소비 지출",
+        "처분 가능 소득"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "financial_life"
+      ],
+      "question_count": 41,
+      "unit_counts": {
+        "1단원": 3,
+        "4단원": 2,
+        "5단원": 1,
+        "8단원": 3,
+        "9단원": 3,
+        "10단원": 2,
+        "11단원": 3,
+        "12단원": 1,
+        "13단원": 11,
+        "14단원": 12
+      },
+      "matched_aliases": {
+        "소비 지출": 28,
+        "이전 소득": 16,
+        "경상 소득": 12,
+        "비경상 소득": 11,
+        "근로 소득": 9,
+        "처분 가능 소득": 8,
+        "비소비 지출": 7,
+        "재산 소득": 6,
+        "사업 소득": 4
+      },
+      "sample_question_ids": [
+        "경제-1단원-Q009",
+        "경제-1단원-Q011",
+        "경제-1단원-Q014",
+        "경제-4단원-Q023",
+        "경제-4단원-Q026",
+        "경제-5단원-Q036",
+        "경제-8단원-Q004",
+        "경제-8단원-Q005"
+      ]
+    },
+    {
+      "id": "financial_return_risk",
+      "name": "금융 상품의 수익·위험 구조와 분산 투자",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "financial_properties"
+      ],
+      "aliases": [
+        "시세 차익",
+        "배당 수익",
+        "이자 수익",
+        "만기",
+        "예금자 보호",
+        "원금 손실",
+        "분산 투자",
+        "위험과 수익",
+        "수익률"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "financial_properties"
+      ],
+      "question_count": 26,
+      "unit_counts": {
+        "14단원": 26
+      },
+      "matched_aliases": {
+        "시세 차익": 16,
+        "예금자 보호": 15,
+        "만기": 14,
+        "배당 수익": 14,
+        "이자 수익": 14,
+        "수익률": 7,
+        "분산 투자": 3,
+        "원금 손실": 2
+      },
+      "sample_question_ids": [
+        "경제-14단원-Q013",
+        "경제-14단원-Q014",
+        "경제-14단원-Q015",
+        "경제-14단원-Q016",
+        "경제-14단원-Q017",
+        "경제-14단원-Q018",
+        "경제-14단원-Q020",
+        "경제-14단원-Q021"
+      ]
+    },
+    {
+      "id": "time_value_of_money",
+      "name": "화폐의 시간 가치와 복리",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "financial_properties",
+        "rational_choice"
+      ],
+      "aliases": [
+        "단리",
+        "복리",
+        "원리금",
+        "현재 가치",
+        "미래 가치",
+        "이자율",
+        "세후 이자"
+      ],
+      "source_level": "심화 경제",
+      "extends": [
+        "financial_properties"
+      ],
+      "question_count": 11,
+      "unit_counts": {
+        "4단원": 1,
+        "10단원": 1,
+        "11단원": 1,
+        "14단원": 8
+      },
+      "matched_aliases": {
+        "이자율": 10,
+        "원리금": 6,
+        "단리": 1,
+        "복리": 1
+      },
+      "sample_question_ids": [
+        "경제-4단원-Q003",
+        "경제-10단원-Q021",
+        "경제-11단원-Q015",
+        "경제-14단원-Q015",
+        "경제-14단원-Q019",
+        "경제-14단원-Q021",
+        "경제-14단원-Q025",
+        "경제-14단원-Q031"
+      ]
+    },
+    {
+      "id": "real_interest_return",
+      "name": "명목 이자율·물가와 실질 수익률",
+      "domains": [
+        "경제"
+      ],
+      "stage": 3,
+      "prerequisites": [
+        "time_value_of_money",
+        "price_level_inflation"
+      ],
+      "aliases": [
+        "실질 이자율",
+        "실질 수익률",
+        "명목 이자율과 물가 상승률",
+        "이자 소득의 구매력",
+        "피셔 방정식"
+      ],
+      "source_level": "심화 경제",
+      "evidence_level": "이미지 전수 판독",
+      "question_count": 5,
+      "unit_counts": {
+        "10단원": 1,
+        "14단원": 4
+      },
+      "matched_aliases": {
+        "실질 이자율": 3,
+        "실질 수익률": 2,
+        "명목 이자율과 물가 상승률": 1
+      },
+      "sample_question_ids": [
+        "경제-10단원-Q021",
+        "경제-14단원-Q028",
+        "경제-14단원-Q033",
+        "경제-14단원-Q034",
+        "경제-14단원-Q040"
+      ]
+    },
+    {
+      "id": "compound_rate_change",
+      "name": "증가율·증가액과 누적 변화",
+      "domains": [
+        "경제",
+        "융합"
+      ],
+      "stage": 2,
+      "prerequisites": [
+        "rational_choice"
+      ],
+      "aliases": [
+        "전년 대비 50%",
+        "매년 전년 대비",
+        "매년 일정 금액",
+        "증가액은 매년 일정",
+        "증가율은 매년 일정",
+        "연평균 증가율"
+      ],
+      "source_level": "심화 경제",
+      "question_count": 1,
+      "unit_counts": {
+        "4단원": 1
+      },
+      "matched_aliases": {
+        "전년 대비 50%": 1,
+        "매년 전년 대비": 1,
+        "증가액은 매년 일정": 1
+      },
+      "sample_question_ids": [
+        "경제-4단원-Q004"
+      ]
+    }
+  ]
+}

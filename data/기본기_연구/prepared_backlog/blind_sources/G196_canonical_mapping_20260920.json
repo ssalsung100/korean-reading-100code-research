@@ -1,0 +1,23 @@
+{
+  "blind_only": true,
+  "passage_group": "G196",
+  "case_ids": ["AFR", "AFS", "AFT", "AFU", "AFV", "AFW"],
+  "canonical_source": {
+    "passage_id": "KICE-2019-6월_모평-Q16-21-S159~164",
+    "source_hwpx": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "section_anchor": "17 세기 초부터 ⓐ 유입되기 시작한 서학(西學) 서적에 담긴 서양의 과학 지식은...",
+    "passage_sha256": "4ce797a794a17b942ef964bbda1f5f7e9af54722835a13ff4c7bf2de68ae5141",
+    "question_numbers": [16, 17, 18, 19, 20, 21],
+    "question_ids": [
+      "KICE-2019-6월_모평-Q16-21-S159~164-Q16",
+      "KICE-2019-6월_모평-Q16-21-S159~164-Q17",
+      "KICE-2019-6월_모평-Q16-21-S159~164-Q18",
+      "KICE-2019-6월_모평-Q16-21-S159~164-Q19",
+      "KICE-2019-6월_모평-Q16-21-S159~164-Q20",
+      "KICE-2019-6월_모평-Q16-21-S159~164-Q21"
+    ]
+  },
+  "mechanical_case_order_basis": "preflight frontier selected unused passages in data/kice_passages.jsonl order after G194; this passage is the second selected group, yielding AFR~AFW from the case allocator",
+  "status": "canonical_source_link_restored_mechanically"
+}

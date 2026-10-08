@@ -1,0 +1,492 @@
+{
+  "status": "official_page_visual_transcription_verified",
+  "scope_note": "문항군별 공식 홀수형 페이지 직접 대조 완료본. 전체 2022 문제지 완결을 뜻하지 않음.",
+  "record_count": 30,
+  "records": [
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [1, 2, 3],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "file_sha256": "54fa9ef8fbbb7b8ea2b1fc8101b2ce1532cd96df4582ca837e599382456bbd25",
+      "answers": {"1": "③", "2": "⑤", "3": "⑤"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_001.png",
+          "sha256": "ce5be7c04b5d6105d3109e4ae77cbb8a7521f998e7a8e667d21e372aa66389c0"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_002.png",
+          "sha256": "18d21b60e21ff8432840547a7740ce830ac512fa7dbd8a8650f7876b61edff8f"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [4, 5, 6],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q04-06.md",
+      "file_sha256": "9682d0bb6f1f297061183cb1d65b839dfd4f082dcb97ec0ec999220298628bba",
+      "answers": {"4": "④", "5": "①", "6": "②"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_002.png",
+          "sha256": "18d21b60e21ff8432840547a7740ce830ac512fa7dbd8a8650f7876b61edff8f"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_003.png",
+          "sha256": "55d56133295d71670004ccebf4d50435b3f57e8dc02ce8adc46fcd0eef8a2453"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [7, 8, 9],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q07-09.md",
+      "file_sha256": "fb9e628e4d63674f8a196267bac9152c9fba923df0d4b9c6c5d503ea9a1bd8a8",
+      "answers": {"7": "①", "8": "④", "9": "③"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_004.png",
+          "sha256": "6f93d1efb3db5f27eb21686f86072e7193b83a0dcd7cce73dc12a5ee096012e2"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+          "sha256": "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [10, 11, 12],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q10-12.md",
+      "file_sha256": "6af99d41141d5ad60a776b7b198a0f42e88502a8483454b0464d2319116e5195",
+      "answers": {"10": "③", "11": "④", "12": "⑤"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+          "sha256": "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+          "sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [13, 14, 15],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q13-15.md",
+      "file_sha256": "b6a06e9014822f7c515635c444134acababb27594df8044f7d306d9bfca17f15",
+      "answers": {"13": "①", "14": "①", "15": "②"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_007.png",
+          "sha256": "bbd84242c90b6a27f3f1abb00b5fc200ed5560e42e42df1d504159ff6d370bfd"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_008.png",
+          "sha256": "19c8e49c2f29e8997a7686f55684807dc2b15640fb9d62cdefcca665bb3de71e"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [16, 17, 18],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q16-18.md",
+      "file_sha256": "460bf1df4f338161808601876117ff43032d06c172518804bf3ebddf78997e2f",
+      "answers": {"16": "④", "17": "④", "18": "②"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_008.png",
+          "sha256": "19c8e49c2f29e8997a7686f55684807dc2b15640fb9d62cdefcca665bb3de71e"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_009.png",
+          "sha256": "c43e172d8745321c65a56db795d4c1c97486a25b5f4eaf8797d7c1302955be74"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [19, 20, 21],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q19-21.md",
+      "file_sha256": "fb2a0957e3c8893ecd8eacbe03e26f3621a89eb3f4c47d2ece618b016ff883c0",
+      "answers": {"19": "④", "20": "①", "21": "⑤"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_010.png",
+          "sha256": "f56498fdfbefe9fb8c4ee9c21bc9954a0b85556f8ed9a104725234ab1e82aeb9"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_011.png",
+          "sha256": "3263fcf6ee88878564ca47b7c8722c4c0519bb57ae3770a9da06bee7ba3a42f4"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [22, 23, 24],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q22-24.md",
+      "file_sha256": "445d617b9761c02b9ee50f1df39d29d773fdf5921e3141fc976171d108aa8a64",
+      "answers": {"22": "⑤", "23": "③", "24": "③"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_011.png",
+          "sha256": "3263fcf6ee88878564ca47b7c8722c4c0519bb57ae3770a9da06bee7ba3a42f4"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_012.png",
+          "sha256": "16d9cbb5e41134eebee470217cf29d6f3f33e5c08f7a34061a65e785255dd37c"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [25, 26, 27],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q25-27.md",
+      "file_sha256": "612d5d9c766715f642a4081ce4407f7838057f526119e069d5e92e8ab13bb607",
+      "answers": {"25": "②", "26": "②", "27": "⑤"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_013.png",
+          "sha256": "624d45bc9e9febfbde7f78dbe3e2f53a94faa71b814646c041b3c8ed55380da4"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_014.png",
+          "sha256": "b22fe8c2bb22b7f300cbb13bc4ede310ddfb0be0f87c7d781c139f02508cbf3d"
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "variant": "odd",
+      "questions": [28, 29, 30],
+      "file": "자료/LEET_언어이해/전사_검수완료/2022/q28-30.md",
+      "file_sha256": "3f839ac9d2c2aeb04c0c11e7ced428153c4d2c76cb621e0a3e8c87215276ad1e",
+      "answers": {"28": "⑤", "29": "③", "30": "②"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_014.png",
+          "sha256": "b22fe8c2bb22b7f300cbb13bc4ede310ddfb0be0f87c7d781c139f02508cbf3d"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_015.png",
+          "sha256": "4e81629feff0a0f234ac06b9b74dc50601c80bff6d02cbad994b6b4fa6a4bfbe"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [1, 2, 3],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q01-03.md",
+      "file_sha256": "6e8ef1ef392518b3bee53d51f9d03250534a1acfff90d4fa8c4b6fbec3c9acac",
+      "answers": {"1": "③", "2": "①", "3": "⑤"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_001.png",
+          "sha256": "9950353df59af20351c4ace089942f9092e5f5abc97ff2abe9f5dd5630504dc4"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_002.png",
+          "sha256": "98a9a852d253ed1ebb4e17e4cc8c1218146e92ba1e6ff62a83ed045f75e04fa9"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [4, 5, 6],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q04-06.md",
+      "file_sha256": "407a5c7d417a29e8a5b383a5da646b88950c71b3f75aacb18ce9001f488ca8aa",
+      "answers": {"4": "②", "5": "④", "6": "③"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_002.png",
+          "sha256": "98a9a852d253ed1ebb4e17e4cc8c1218146e92ba1e6ff62a83ed045f75e04fa9"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_003.png",
+          "sha256": "17dbeceda966c9e28383301063902d326a928e3aad1ba49dd089f3291e41d7b2"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [7, 8, 9],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q07-09.md",
+      "file_sha256": "8a700bc13bf18f77323306a7d188fe55e07a4addb5de6e776e9e2a158358c80f",
+      "answers": {"7": "⑤", "8": "⑤", "9": "③"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_004.png",
+          "sha256": "e1e67180ebaae264cabfb9f79a376891b4c68a3620bad1e47afce7232d0c0e2e"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_005.png",
+          "sha256": "f840ec4bd6c5ed5ed1823f19347beaaae251af311b26b001ac4f8b189f113a12"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [10, 11, 12],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q10-12.md",
+      "file_sha256": "fbfda3d2125af412ae36c764ce4b5ab7c40651d466d3d201dbdbe0d445ad0140",
+      "answers": {"10": "④", "11": "①", "12": "②"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_005.png",
+          "sha256": "f840ec4bd6c5ed5ed1823f19347beaaae251af311b26b001ac4f8b189f113a12"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_006.png",
+          "sha256": "b21679579b4430fd92ced23847a5d86a536952ef42cdd33e5aa3212c6fe6eaad"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [13, 14, 15],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q13-15.md",
+      "file_sha256": "0b4e29310676d7b0679030bfa496572e8ca79753e181e76b44954074b9d8c630",
+      "answers": {"13": "②", "14": "⑤", "15": "④"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_007.png",
+          "sha256": "fb7811fe9c427c5b0a7e2a60c41095620e7f70f7a488f6ea73e9000c4faa343d"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_008.png",
+          "sha256": "06db819aa5b881e597b41088be6582ee0cbcee4b525e0ce5c996c3e975a61117"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [16, 17, 18],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q16-18.md",
+      "file_sha256": "3134265f583da2fa3b9686626fb8087235e3b0e4cb83a3ce7de9e3f5d6b2005f",
+      "answers": {"16": "①", "17": "①", "18": "⑤"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_008.png",
+          "sha256": "06db819aa5b881e597b41088be6582ee0cbcee4b525e0ce5c996c3e975a61117"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_009.png",
+          "sha256": "bfe2cbe13bceab767dc428619c54d5717c49973e4c7793058db611cde85db849"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [19, 20, 21],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q19-21.md",
+      "file_sha256": "064b36dd0cd3257ec384b4bbd15c6623e255f98dc0d251dceb970ba444f17c33",
+      "answers": {"19": "①", "20": "③", "21": "①"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_010.png",
+          "sha256": "dc727d5a4d8da7d9dfbb572d4447ca50c658c2cdf828794379812b631296644c"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_011.png",
+          "sha256": "909a0d2ae768f04effa2a2ba280fdcfbd548f8d682e593225c1a815fd1dd3283"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [22, 23, 24],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q22-24.md",
+      "file_sha256": "5bfb2c9c840d7f6d8a3635572281722553f78d488ffc6e433cf01c6706b8b48f",
+      "answers": {"22": "②", "23": "②", "24": "④"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_011.png",
+          "sha256": "909a0d2ae768f04effa2a2ba280fdcfbd548f8d682e593225c1a815fd1dd3283"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_012.png",
+          "sha256": "4ee1833071a9a5850d2dc4aacc13aa2a782f8e98b8e2982282d1e412f0f11c4d"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [25, 26, 27],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q25-27.md",
+      "file_sha256": "0a5a65a5f8276e897996948e21ab77c90453306e1a87da66653aeaeadeec48d8",
+      "answers": {"25": "③", "26": "⑤", "27": "③"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_013.png",
+          "sha256": "78693ae3c47ab8b9c7e79a2126860fe9292f7933999d1e0ae78440b9e5cdc8d4"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_014.png",
+          "sha256": "51b957058298180361c0fd2e50cd9dddee1099f7c0243773c3e1a080ee2c0030"
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "variant": "odd",
+      "questions": [28, 29, 30],
+      "file": "자료/LEET_언어이해/전사_검수완료/2023/q28-30.md",
+      "file_sha256": "70f159230467ea421fdc34fa881f3db1d913651e5c1e8f787728b2ebc8e5ef31",
+      "answers": {"28": "⑤", "29": "⑤", "30": "③"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_014.png",
+          "sha256": "51b957058298180361c0fd2e50cd9dddee1099f7c0243773c3e1a080ee2c0030"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_015.png",
+          "sha256": "0a9fadaa73201e5d10ecc0e1ea618f3abdbd447503d5bdb8673da003c548b98f"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [1, 2, 3],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q01-03.md",
+      "file_sha256": "3f0dc478a7d456360f93abc75036d310507d9fa06ef7ce827eb75daf38d18a5f",
+      "answers": {"1": "⑤", "2": "④", "3": "④"},
+      "official_pages": [
+        {
+          "file": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+          "sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0"
+        },
+        {
+          "file": "자료/LEET_언어이해/페이지/2027/2027_question/page_002.png",
+          "sha256": "9b8b3e8b60bfc3d5bed62f85067a182350cff13a0f54758c58dfee643147fd48"
+        }
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [4, 5, 6],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q04-06.md",
+      "file_sha256": "eb8753a10a3ceaeebd4e4f7a76b839e501a417d70f26eaffd0a87836f1f66be4",
+      "answers": {"4": "③", "5": "③", "6": "④"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_002.png", "sha256": "9b8b3e8b60bfc3d5bed62f85067a182350cff13a0f54758c58dfee643147fd48"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_003.png", "sha256": "5789c45b152af4401cd8059cf0e21b8bcddcb39595e8393605cb965bfe9754bb"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [7, 8, 9],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q07-09.md",
+      "file_sha256": "4b9837da702e1661d0c5b516274521b2277720786cf6695693e40ee30d989761",
+      "answers": {"7": "②", "8": "①", "9": "①"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_004.png", "sha256": "4abc3009506987bd614b9adecf1283679596232b7590a0a2743456087bba1d68"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [10, 11, 12],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q10-12.md",
+      "file_sha256": "1bb88fc35654764e26458fdb0f366a4c9f9dc7776af932fd6ffbd9bd746de283",
+      "answers": {"10": "②", "11": "③", "12": "②"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png", "sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png", "sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [13, 14, 15],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q13-15.md",
+      "file_sha256": "a2fde27f179bae8b390c629ae0ba5b83f68df2d89c54e3e116675d1f03698366",
+      "answers": {"13": "③", "14": "③", "15": "⑤"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png", "sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_007.png", "sha256": "5f37627a64e4530d0cb62e4ad2db90f32e0fd0d44683dc7c829b80d92c98a270"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [16, 17, 18],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q16-18.md",
+      "file_sha256": "3bce25aec81077ba8e25d086a4062f5c702a6f4251fed487c86d3623bbd4d10e",
+      "answers": {"16": "②", "17": "⑤", "18": "③"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png", "sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png", "sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [19, 20, 21],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q19-21.md",
+      "file_sha256": "326aa13ef8563da21cc9fbba143c4c88877a32fc3808721f0263e8033d615478",
+      "answers": {"19": "④", "20": "②", "21": "②"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png", "sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_010.png", "sha256": "0920baa5c7248e8f1a9afeba772180c6cebd57e8d2b979843268b2710de8af3a"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [22, 23, 24],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q22-24.md",
+      "file_sha256": "9718b2f65019c2457206bdba6d3536085f0f177e9c48ffc3ce6a496e320a7a7c",
+      "answers": {"22": "①", "23": "⑤", "24": "④"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png", "sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png", "sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [25, 26, 27],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q25-27.md",
+      "file_sha256": "5efb111bdfc96ec643c13b5e3ac9c22bda4be455c7e772ff91324a0e8edf46d3",
+      "answers": {"25": "②", "26": "③", "27": "④"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png", "sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_013.png", "sha256": "c7913e82d109b24bdce46213427cd1a26ff70254b5758cbca01a7d271532f830"}
+      ]
+    },
+    {
+      "year": 2027,
+      "variant": null,
+      "questions": [28, 29, 30],
+      "file": "자료/LEET_언어이해/전사_검수완료/2027/q28-30.md",
+      "file_sha256": "c82b787e6d722b773183168ab47249f5e7943f0d9eca6ce72ac2977ae012701c",
+      "answers": {"28": "③", "29": "①", "30": "④"},
+      "official_pages": [
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_014.png", "sha256": "4ee1314237fc18a799c8bd8b4bad867a6e70fa189a47f65e4b49d264ebf6ccd2"},
+        {"file": "자료/LEET_언어이해/페이지/2027/2027_question/page_015.png", "sha256": "f3725af63848d362d9495dbff718499b7f6b1b6dcda3d6a0c380924bdb707c33"}
+      ]
+    }
+  ]
+}

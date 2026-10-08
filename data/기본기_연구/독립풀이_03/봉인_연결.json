@@ -1,0 +1,136 @@
+{
+  "A": {
+    "sourceID": "KICE-2024-수능-Q04-07-S122~125-Q06",
+    "sourcepaths": [
+      "data/kice_passages.jsonl",
+      "data/kice_questions.jsonl"
+    ],
+    "filehash": "f472bb002602a0a2ae874e4712b34f3bb30ba9eef56397244ab0cafd1bbbacef",
+    "officialanswer": "②",
+    "siteoriginaltags": [
+      "강화/약화"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94"
+    ]
+  },
+  "B": {
+    "sourceID": "KICE-2025-6월_모평-Q12-17-S059~064-Q15",
+    "sourcepaths": [
+      "data/kice_passages.jsonl",
+      "data/kice_questions.jsonl"
+    ],
+    "filehash": "469ec32d6e694dbe467ec942d0936d65fd5437b98dfa03ec544ceddedbfc9014",
+    "officialanswer": "①",
+    "siteoriginaltags": [
+      "강화/약화",
+      "경쟁입장"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94",
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EA%B0%80%EC%84%A4",
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EC%9E%85%EC%9E%A5"
+    ]
+  },
+  "C": {
+    "sourceID": "LEET-2025-odd-Q09",
+    "sourcepaths": [
+      "자료/LEET_언어이해/텍스트/2025/2025_question_odd.md"
+    ],
+    "filehash": "df42c8324b6b51a4f66aabd36dc85d7c2225611d121a66e7574828b461fb94e2",
+    "officialanswer": "②",
+    "siteoriginaltags": [
+      "강화/약화"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94"
+    ]
+  },
+  "D": {
+    "sourceID": "LEET-2026-odd-Q28",
+    "sourcepaths": [
+      "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md"
+    ],
+    "filehash": "e9850725352397a36d85c4a83639c18b39b362041c3dfdbaf0b5b216b6ed3fe4",
+    "officialanswer": "④",
+    "siteoriginaltags": [
+      "경쟁입장"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EA%B0%80%EC%84%A4",
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EC%9E%85%EC%9E%A5"
+    ]
+  },
+  "E": {
+    "sourceID": "MEET-2010-Q34",
+    "sourcepaths": [
+      "자료/MEET_언어추론/전사_검수완료/2010/q32-34.md"
+    ],
+    "filehash": "56aa8233667c9053b87166eb187b8b4f11d95d273311946b05e69663b1948357",
+    "officialanswer": "④",
+    "siteoriginaltags": [
+      "강화/약화"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94"
+    ]
+  },
+  "F": {
+    "sourceID": "MEET-2012-Q12",
+    "sourcepaths": [
+      "자료/MEET_언어추론/전사_검수완료/2012/q11-13.md"
+    ],
+    "filehash": "48ab955076f80e853961440f2174e214e9cdaa2fd7de30b9c6ffc7b60c7216cf",
+    "officialanswer": "②",
+    "siteoriginaltags": [
+      "경쟁입장"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EA%B0%80%EC%84%A4",
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EC%9E%85%EC%9E%A5"
+    ]
+  },
+  "G": {
+    "sourceID": "KICE-2020-6월_모평-Q27-31-S025~029-Q30",
+    "sourcepaths": [
+      "data/kice_passages.jsonl",
+      "data/kice_questions.jsonl"
+    ],
+    "filehash": "a6cd01891daf7e42f20287a0e1619f31d06cd661f2b495eb3a316f0c57efed92",
+    "officialanswer": "③",
+    "siteoriginaltags": [
+      "양상"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EC%83%81"
+    ]
+  },
+  "H": {
+    "sourceID": "LEET-2013-odd-Q20",
+    "sourcepaths": [
+      "자료/LEET_언어이해/텍스트/2013/2013_question_odd.md"
+    ],
+    "filehash": "3ed419f59a56e31f124ef1ef63a9006300531df09ad4b51f9785712c68cf8137",
+    "officialanswer": "④",
+    "siteoriginaltags": [
+      "강화/약화"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94"
+    ]
+  },
+  "I": {
+    "sourceID": "MEET-2006-Q40",
+    "sourcepaths": [
+      "자료/MEET_언어추론/전사_검수완료/2006/q38-40.md"
+    ],
+    "filehash": "a1519fbfe121a415496875288646c569b74a0cd2c604d6dd938de493f9bdf1cd",
+    "officialanswer": "⑤",
+    "siteoriginaltags": [
+      "보충도식"
+    ],
+    "allcodeURLs": [
+      "https://sdss.kr/code/search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D"
+    ]
+  }
+}

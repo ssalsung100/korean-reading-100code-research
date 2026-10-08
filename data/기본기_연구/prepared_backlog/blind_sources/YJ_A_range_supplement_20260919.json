@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G154",
+  "case_id": "YJ",
+  "source_role": "mechanical_canonical_source_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "source_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 3021,
+    "A_end_marker_paragraph_index": 3024,
+    "preceding_paragraph_index": 3020,
+    "following_question_number_paragraph_index": 3029
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_observation": "paragraph 3021 첫머리에 [A] 표지가 붙어 있다.",
+    "start_text_verbatim": "읽기 발달은 일정한 시기에 급격히 이루어지는 것이 아니라 글자를 깨치기 이전부터 점진적으로 진행된다.",
+    "end_text_verbatim": "읽기 준비 단계에서의 경험은 이후의 단계에 중요한 영향을 미친다.",
+    "end_marker_context": "paragraph 3021의 마지막 문장 뒤에 빈 paragraph 3022·3023이 있고, paragraph 3024에 단독 [A] 표지가 있다. 이후 paragraph 3029에서 다음 문항 번호가 시작된다.",
+    "range_statement": "[A]는 paragraph 3021 첫머리의 표지부터 해당 단락 마지막 문장까지이며, paragraph 3024의 단독 [A]는 문제에서 다시 참조하는 표지이다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "원문 [A] 표지와 시작·끝 문장 및 XML anchor만 기계적으로 복원했다."
+}

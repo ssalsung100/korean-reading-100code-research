@@ -1,0 +1,81 @@
+{
+  "record_id": "AB-BZ-CT-GC-depth_backfill-20260915-semantic-audit-01",
+  "case": "AB-BZ-CT-GC", "stage": "depth_backfill", "status": "done", "timestamp": "2026-09-15",
+  "payload": {
+    "case_ids": ["AB", "BZ", "CT", "GC"], "original_blind_preserved": true,
+    "review_kind": "완료 사례 사후 감사; 법률 지문의 내부 독해이며 현행법 일반에 대한 주장 아님",
+    "source_record_ids": ["AB-independent_code-20260909-01", "BZ-independent_code-20260910-01", "CT-hold-20260911-source-check-01", "CT-blind-20260911-01", "CT-independent_code-20260911-01", "GC-independent_code-20260914-02", "GC-depth_backfill-20260914-02"],
+    "evidence_additions": [
+      {
+        "case": "AB", "passage_group": "G001", "source": "data/기본기_연구/prepared_backlog/blind_sources/AB.json",
+        "task": "보기 대법원 입장 추론 중 부적절 선지 선택", "target": "④ 인과 관계 존재 입증 책임의 주체",
+        "evidence_location": "5문단 '입증 책임은 여전히 피해자인 원고', '원칙을 바꾸지는 않는다', '정도를 낮추어'; 보기 세 연결 중 폐수 도달만 증명하면 충분; choices[3:5]",
+        "changed_element": "인과 인정에 요구되는 증명 정도/항목", "retained_element": "인과 관계 존재의 입증 책임자는 원고",
+        "retention_warrant": "원문이 책임 주체 유지와 인정 후 피고의 방해 증거 제출을 각각 명시",
+        "wrong_extension": "피고의 사후 방해 증거 제출을 인과 존재 입증 책임 자체가 회사로 이전된 것으로 확대",
+        "decisive_operation": "증명 명제·주체·단계를 나누어④와⑤를 대조", "evidence_type": "직접 함의",
+        "existing_code_layers": "주#24=원칙/예외 범위, 보조#5=변경/유지·#3=⑤ 시점·#16=입증 책임 뜻, 표면#46=인과 소재",
+        "strongest_competitor": "#17식 (원고, 인과 존재, 완화된 인정 전), (피고, 성립 방해 증거, 인정 후) 귀속표도 같은 답을 낸다. #12로 공해 소송일 때도 원고 책임이라는 구체 조건 결과를 쓰면 가능",
+        "competitor_relation": "같은 국소 수행의 다른 표현; 수치 조건 적용과 책임 명제 구분을 지운 설명은 불충분",
+        "priority": "최초#24 유지, 유일한 인지 경로라고 주장하지 않음"
+      },
+      {
+        "case": "BZ", "passage_group": "G014", "source": "data/기본기_연구/prepared_backlog/blind_sources/BZ.json",
+        "task": "㉠~㉢ 이해 중 가장 적절한 선지 선택", "target": "정답② ㉠과㉡에 남은 원근 효과; 오답⑤ 원인 귀속",
+        "evidence_location": "2문단 렌즈/기울기 왜곡 보정; 3문단 '왜곡 보정이 끝나면 ... 원근 효과가 제거된 ... 시점 변환이 필요'; 4문단㉡→㉢; choices[1], choices[4]",
+        "changed_element": "㉠→㉡에서 렌즈/설치 왜곡, ㉡→㉢에서 원근 효과", "retained_element": "㉡까지 거리 증가에 따른 격자의 작아 보임",
+        "retention_warrant": "보정 뒤에도 별도로 원근 효과를 제거해야 한다는 단계 규정. 침묵을 근거로 임의 보존하지 않음",
+        "wrong_extension": "앞 보정의 제거 범위를 원근 효과까지 확장하거나, 뒤 시점 변환의 목적을 렌즈/기울기 보정으로 바꿈",
+        "decisive_operation": "단계별 제거 대상/잔존 효과 표에서② 확인", "evidence_type": "합성 함의",
+        "existing_code_layers": "실제 raw 주#45, 보조#5/#3/#46, 표면#86. 검토 보고서 O2 표의#24·#5·#22·#12만으로 이 사례 번호를 대체하면 안 됨",
+        "strongest_competitor": "#5로㉠㉡㉢의 원근 효과 유/유/무 상태표를 만들면 정답 결정. #45의 단계 입출력표와 동일 정보를 보존",
+        "competitor_relation": "같은 국소 수행의 다른 표현",
+        "priority": "최초#45 유지, #5 대비 유일 우선순위 유보",
+        "counterexample": "O2를 모두 법칙의 예외 적용이라고 부르면 BZ가 맞지 않는다. 정상적인 순차 공정의 처리 범위 구분이다. 또한① 시야각 감소는 직접 반대 진술보다 지지 부족으로 구별"
+      },
+      {
+        "case": "CT", "passage_group": "G018", "source": "data/기본기_연구/prepared_backlog/blind_sources/CT.json",
+        "supplements": ["data/기본기_연구/prepared_backlog/blind_sources/CT_source_supplement.json", "data/기본기_연구/prepared_backlog/blind_sources/CT_equation_supplement.json"],
+        "provenance": ["data/기본기_연구/prepared_backlog/sealed/CT_source_provenance.json", "data/기본기_연구/prepared_backlog/sealed/CT_equation_provenance.json"],
+        "task": "보기 계산 결과 중 부적절 선지 선택", "target": "④ 노력 상승인 경우 반환 지분 1/3",
+        "evidence_location": "2·3문단 유류분/부족액; 5문단 마지막 '시가 상승의 원인이 무엇이든 상속 개시 당시'; 보기 A300→700 B100; equation_supplement equations[0:3]",
+        "source_fidelity": "CT.json과 최초 source_supplement는 선지 분수 누락. 후속 equation_supplement의 XML script가 본문1/2, ②3/7, ④1/3을 보완한다. 이 세 값과 기존 연결 provenance를 읽었음. 공식 원 배포 PDF/원 페이지 그림을 이번에 직접 검증했다는 뜻은 아님",
+        "changed_element": "노력 상승이면 부족액 산정에 넣는 A 가치700→300", "retained_element": "지분 분모700; B에서 이미 받은100; 유류분 비율1/2",
+        "retention_warrant": "분모는 원인 무관 상속 개시 시가라는 명시 문장, B100은 보기의 두 경우 공통 조건",
+        "wrong_extension": "부족액 평가 기준의 취득 시가 예외를 지분 분모로 전이",
+        "decisive_operation": "노력 있음: (300+100)/2−100=100, 100/700=1/7≠1/3. 노력 없음: (700+100)/2−100=300, 300/700=3/7. ⑤는 실제 남긴 B에서100으로 동일",
+        "evidence_type": "합성 함의",
+        "existing_code_layers": "주#84=분모/지분 관계·#24=예외 범위, 보조#92=계산·#3=시점·#16=⑤ 개념 구별, 표면#85",
+        "strongest_competitor": "#45 조건부 함수 D(e)=((e?300:700)+100)/2−100, R(e)=D(e)/700도 정확히 같은 답을 낸다. #24 범위 표시만 하고 수량 관계를 생략하면 선지1/3을 판별할 수 없음",
+        "competitor_relation": "완전 함수식은 같은 수행의 다른 표현; 범위 선택에 더해 산술 합성은 별개의 추가 수행",
+        "priority": "원 두 주 코드 유지; O2만으로 풀이 완료한다고 축약하지 않음"
+      },
+      {
+        "case": "GC", "passage_group": "G037", "source": "data/기본기_연구/prepared_backlog/blind_sources/GC.json",
+        "task": "연대 보증인 이해 중 가장 적절한 선지 선택", "target": "⑤ 주채무 이행 후 보증 의무; ②는 별도 해석 주장",
+        "evidence_location": "(나)1문단 주채무 소멸→보증 채무 소멸; 3문단 '이러한 권리를 포기'하는 연대 특약; 4문단 해석 방법에 따른 결론 차이; choices[4], choices[1]",
+        "changed_element": "직접 청구에 대한 거절권 포기", "retained_element": "보증의 주채무 소멸 시 보증 채무 소멸 규칙",
+        "retention_warrant": "연대 특약은 보증 계약에 포함되는 특정 권리 포기로 규정; 보증 전체에 대한 소멸 규칙이 앞에 명시됨",
+        "wrong_extension": "거절권 소멸을 주채무 이행 이후까지 독립적인 지급 의무가 존속한다는 것으로 확대",
+        "decisive_operation": "주채무자 이행→채권 실현/주채무 소멸→보증 채무 소멸", "evidence_type": "합성 함의",
+        "existing_code_layers": "주#12 조건 적용, 보조#24 예외 범위·#17④ 당사자 귀속, 표면#3② 시점 접점",
+        "strongest_competitor": "#22로 연대 보증⊂보증과 모든 보증의 주채무 종속 규칙을 적용해도⑤가 나온다. #10로 보증 채무 존속의 필요조건을 주채무 존속으로 놓고 대우 적용도 가능",
+        "competitor_relation": "#12/#22/#10 완전 규칙을 포함하면 같은 국소 수행의 다른 표현; 법적 종속을 물리 인과로 치환하는 설명은 배제",
+        "priority": "최초#12와 과거#12/#22 유보 유지",
+        "unresolved": "②는 미해결. 직접 청구 가능과 '주채무자가 이행하지 않는 경우'가 논리적으로 양립 불가능하다고 입증되지 않음. 입법 취지를 문리 근거로 옮기면 안 된다는 지적만으로②의 반대까지 증명하지 않는다.⑤ 근거 확보와 모든 선지의 엄밀 배제 완료를 구분"
+      }
+    ],
+    "boundary_or_generation_impact": "O2를 '명시된 처리/특례의 범위를 한정하고 별도로 근거 있는 관계를 유지'로 수정. AB는 직접 유지 명시, BZ는 단계 구분, CT는 예외 비적용 명시+계산, GC는 보증 하위유형과 일반 규칙 적용으로 근거 종류가 다름.",
+    "candidate_rule": {"decision": "수정", "retained": "변경과 유지의 근거를 각각 찾음", "counterexample": "BZ는 예외가 아니며 CT는 보존만으로 수치 판단 불가", "held": "예외이면 언급 없는 모든 속성을 자동 보존한다는 규칙은 채택하지 않음; GC② 유보", "next_falsification_target": "후속 미열람 지문에서 예외가 두 속성을 함께 바꾸거나 앞 처리의 간접 효과로 뒤 상태도 변하는 명시 사례. 이번에는 열지 않음"},
+    "minimal_variants": [
+      {"case": "AB", "one_change": "④의 '회사 쪽'을 '어민들 쪽'으로 교체", "predicted_change": "책임 주체 오귀속 해소", "synthetic_not_corpus": true},
+      {"case": "BZ", "one_change": "② 첫 ㉡을㉢으로 교체", "predicted_change": "원근 효과 제거 후에도 멀수록 작다는 진술이 되어 부적절", "synthetic_not_corpus": true},
+      {"case": "CT", "one_change": "④ 분수1/3을1/7로 교체", "predicted_change": "④ 계산 오류 해소. 모든 선택지가 적절해질 수 있으므로 완성 문항으로 세지 않음", "synthetic_not_corpus": true},
+      {"case": "GC", "one_change": "⑤의 '더 이상 ... 의무가 없다'를 '여전히 ... 의무가 있다'로 교체", "predicted_change": "주채무 소멸 규칙과 충돌", "synthetic_not_corpus": true}
+    ],
+    "student_action": "무엇이 달라졌는지와 무엇이 남는지 각각 근거 문장을 붙인다. 계산식의 같은 숫자라도 어느 단계 값인지 표시하고, 명시된 일반 규칙·상위 유형·공정 순서가 없으면 침묵만으로 유지라고 단정하지 않는다.",
+    "generation_principle": "앞 단계/특례의 결과를 인접 단계에 옮기는 오답을 만들되, 보존 근거를 지문에 실제로 제공한다. CT형은 계산 단계를 생략하지 않는다.",
+    "sampling": {"cases":4,"distinct_passage_groups":4,"new_corpus_cases":0,"cross_record_dependency":"GC와 앞 DV/GA 검토의 GA는 같은G037"},
+    "confidence": "핵심 선지 높음; CT 원 배포본 직접 검증 및 GC② 상세 배제는 유보"
+  }
+}

@@ -1,0 +1,530 @@
+# 연구 자료 인덱스
+
+이 인덱스는 manifest와 queue/processed 레코드의 기존 필드만 연결한다. 의미 판정이나 상태 보정은 수행하지 않았다. 상세 case 매핑은 `data/기본기_연구/research_data_index.json`에 있다.
+
+- manifest cases: 1671
+- manifest status: consumed_sdss=1663, prepared=8
+
+## Passage group → case
+
+- `G001`: `AA`, `AB`
+- `G002`: `AC`, `AD`
+- `G003`: `AE`
+- `G004`: `AF`, `AG`, `AH`, `AI`, `AJ`
+- `G005`: `AK`, `AL`, `AM`
+- `G006`: `AN`, `AO`, `AP`, `AQ`, `AR`, `AS`
+- `G007`: `AT`, `AU`, `AV`, `AW`, `AX`, `AY`
+- `G008`: `AZ`, `BA`, `BB`, `BC`, `BD`
+- `G009`: `BE`, `BF`, `BG`, `BH`
+- `G010`: `BI`, `BJ`, `BK`, `BL`
+- `G011`: `BM`, `BN`, `BO`, `BP`
+- `G012`: `BQ`, `BR`, `BS`, `BT`, `BU`, `BV`
+- `G013`: `BW`, `BX`
+- `G014`: `BY`, `BZ`, `CA`, `CB`
+- `G015`: `CC`, `CD`, `CE`, `CF`
+- `G016`: `CG`, `CH`, `CI`, `CJ`
+- `G017`: `CK`, `CL`, `CM`, `CN`, `CO`, `CP`
+- `G018`: `CQ`, `CR`, `CS`, `CT`
+- `G019`: `CU`, `CV`, `CW`, `CX`
+- `G020`: `CY`, `CZ`, `DA`, `DB`, `DC`, `DD`
+- `G021`: `DE`, `DF`, `DG`, `DH`
+- `G022`: `DI`, `DJ`, `DK`, `DL`, `DM`, `DN`
+- `G023`: `DO`, `DP`, `DQ`
+- `G024`: `DR`, `DS`, `DT`, `DU`
+- `G025`: `DV`, `DW`, `DX`, `DY`
+- `G026`: `DZ`, `EA`, `EB`, `EC`
+- `G027`: `ED`, `EE`, `EF`
+- `G028`: `EG`, `EH`, `EI`, `EJ`, `EK`, `EL`
+- `G029`: `EM`, `EN`, `EO`, `EP`
+- `G030`: `EQ`, `ER`, `ES`, `ET`
+- `G031`: `EU`, `EV`, `EW`, `EX`, `EY`
+- `G032`: `EZ`, `FA`, `FB`, `FC`
+- `G033`: `FD`, `FE`, `FF`, `FG`, `FH`
+- `G034`: `FI`, `FJ`, `FK`, `FL`, `FM`, `FN`
+- `G035`: `FO`, `FP`, `FQ`, `FR`, `FS`, `FT`
+- `G036`: `FU`, `FV`, `FW`, `FX`, `FY`
+- `G037`: `FZ`, `GA`, `GB`, `GC`, `GD`, `GE`
+- `G038`: `GF`, `GG`, `GH`, `GI`, `GJ`
+- `G039`: `GK`, `GL`, `GM`
+- `G040`: `GN`, `GO`
+- `G041`: `GP`, `GQ`, `GR`, `GS`
+- `G042`: `GT`, `GU`, `GV`
+- `G043`: `GW`, `GX`, `GY`, `GZ`, `HA`
+- `G044`: `HB`, `HC`, `HD`
+- `G045`: `HE`, `HF`, `HG`
+- `G046`: `HH`, `HI`
+- `G047`: `HJ`, `HK`, `HL`, `HM`
+- `G048`: `HN`, `HO`, `HP`, `HQ`
+- `G049`: `HR`, `HS`, `HT`, `HU`
+- `G050`: `HV`, `HW`, `HX`
+- `G051`: `HY`, `HZ`, `IA`, `IB`
+- `G052`: `IC`, `ID`, `IE`
+- `G053`: `IF`, `IG`, `IH`, `II`
+- `G054`: `IJ`, `IK`, `IL`
+- `G055`: `IM`, `IN`, `IO`
+- `G056`: `IP`, `IQ`, `IR`
+- `G057`: `IS`, `IT`, `IU`
+- `G058`: `IV`, `IW`, `IX`, `IY`
+- `G059`: `IZ`, `JA`
+- `G060`: `JB`
+- `G061`: `JC`, `JD`, `JE`, `JF`
+- `G062`: `JG`, `JH`, `JI`
+- `G063`: `JJ`, `JK`, `JL`, `JM`
+- `G064`: `JN`, `JO`
+- `G065`: `JP`, `JQ`
+- `G066`: `JR`, `JS`
+- `G067`: `JT`, `JU`, `JV`
+- `G068`: `JW`, `JX`, `JY`
+- `G069`: `JZ`, `KA`, `KB`
+- `G070`: `KC`, `KD`, `KE`
+- `G071`: `KF`, `KG`, `KH`, `KI`
+- `G072`: `KJ`, `KK`, `KL`, `KM`
+- `G073`: `KN`, `KO`, `KP`
+- `G074`: `KQ`, `KR`, `KS`, `KT`
+- `G075`: `KU`, `KV`, `KW`
+- `G076`: `KX`, `KY`, `KZ`, `LA`
+- `G077`: `LB`, `LC`, `LD`, `LE`
+- `G078`: `LF`, `LG`, `LH`, `LI`
+- `G079`: `LJ`, `LK`
+- `G080`: `LL`, `LM`
+- `G081`: `LN`, `LO`, `LP`
+- `G082`: `LQ`, `LR`, `LS`, `LT`
+- `G083`: `LU`, `LV`, `LW`, `LX`, `LY`
+- `G084`: `LZ`, `MA`, `MB`, `MC`
+- `G085`: `MD`, `ME`, `MF`, `MG`
+- `G086`: `MH`, `MI`, `MJ`, `MK`
+- `G087`: `ML`, `MM`, `MN`, `MO`, `MP`
+- `G088`: `MQ`, `MR`, `MS`, `MT`
+- `G089`: `MU`, `MV`
+- `G090`: `MW`, `MX`
+- `G091`: `MY`, `MZ`, `NA`
+- `G092`: `NB`, `NC`
+- `G093`: `ND`, `NE`, `NF`
+- `G094`: `NG`, `NH`, `NI`, `NJ`
+- `G095`: `NK`, `NL`, `NM`, `NN`, `NO`
+- `G096`: `NP`, `NQ`, `NR`, `NS`, `NT`
+- `G097`: `NU`, `NV`, `NW`, `NX`, `NY`, `NZ`
+- `G098`: `OA`, `OB`, `OC`, `OD`, `OE`
+- `G099`: `OF`, `OG`, `OH`, `OI`
+- `G100`: `OJ`, `OK`, `OL`, `OM`
+- `G101`: `ON`, `OO`, `OP`, `OQ`
+- `G102`: `OR`, `OS`, `OT`, `OU`, `OV`, `OW`
+- `G103`: `OX`, `OY`, `OZ`, `PA`
+- `G104`: `PB`, `PC`, `PD`, `PE`, `PF`, `PG`
+- `G106`: `PH`, `PI`, `PJ`, `PK`
+- `G107`: `PL`, `PM`, `PN`, `PO`, `PP`
+- `G108`: `PQ`, `PR`, `PS`, `PT`, `PU`
+- `G111`: `QH`, `QI`, `QJ`, `QK`, `QL`
+- `G112`: `QM`, `QN`, `QO`, `QP`
+- `G113`: `QQ`, `QR`, `QS`, `QT`, `QU`, `QV`
+- `G114`: `QW`, `QX`, `QY`, `QZ`
+- `G118`: `RQ`, `RR`, `RS`, `RT`, `RU`
+- `G119`: `RV`, `RW`, `RX`, `RY`
+- `G120`: `RZ`, `SA`, `SB`, `SC`
+- `G121`: `SD`, `SE`, `SF`, `SG`, `SH`, `SI`
+- `G122`: `SJ`, `SK`, `SL`, `SM`, `SN`, `SO`
+- `G124`: `ST`, `SU`, `SV`, `SW`, `SX`
+- `G126`: `TE`, `TF`, `TG`, `TH`
+- `G127`: `TI`, `TJ`, `TK`, `TL`, `TM`, `TN`
+- `G128`: `TO`, `TP`, `TQ`, `TR`, `TS`, `TT`
+- `G129`: `TU`, `TV`, `TW`, `TX`, `TY`
+- `G130`: `TZ`, `UA`, `UB`, `UC`, `UD`
+- `G131`: `UE`, `UF`, `UG`, `UH`
+- `G132`: `UI`, `UJ`, `UK`, `UL`
+- `G133`: `UM`, `UN`, `UO`, `UP`, `UQ`, `UR`
+- `G134`: `US`, `UT`, `UU`, `UV`, `UW`, `UX`
+- `G135`: `UY`, `UZ`, `VA`, `VB`, `VC`, `VD`
+- `G136`: `VE`, `VF`, `VG`
+- `G137`: `VH`, `VI`, `VJ`
+- `G138`: `VK`, `VL`, `VM`
+- `G146`: `WZ`, `XA`, `XB`, `XC`, `XD`, `XE`
+- `G147`: `XF`, `XG`, `XH`, `XI`
+- `G150`: `XS`, `XT`, `XU`, `XV`, `XW`, `XX`
+- `G151`: `XY`, `XZ`, `YA`
+- `G152`: `YB`, `YC`, `YD`
+- `G153`: `YE`, `YF`, `YG`
+- `G154`: `YH`, `YI`, `YJ`
+- `G155`: `YK`, `YL`, `YM`
+- `G156`: `YN`, `YO`, `YP`, `YQ`
+- `G157`: `YR`, `YS`, `YT`, `YU`
+- `G158`: `YV`, `YW`, `YX`, `YY`
+- `G159`: `YZ`, `ZA`, `ZB`, `ZC`
+- `G160`: `ZD`, `ZE`, `ZF`
+- `G161`: `ZG`, `ZH`, `ZI`
+- `G162`: `ZJ`, `ZK`, `ZL`
+- `G163`: `ZM`, `ZN`, `ZO`, `ZP`
+- `G164`: `ZQ`, `ZR`, `ZS`, `ZT`
+- `G166`: `AAA`, `AAB`, `ZY`, `ZZ`
+- `G167`: `AAC`, `AAD`, `AAE`
+- `G168`: `AAF`, `AAG`, `AAH`, `AAI`, `AAJ`, `AAK`
+- `G179`: `ACK`, `ACL`, `ACM`, `ACN`
+- `G180`: `ACO`, `ACP`, `ACQ`, `ACR`
+- `G181`: `ACS`, `ACT`, `ACU`, `ACV`, `ACW`, `ACX`
+- `G192`: `AEX`, `AEY`, `AEZ`, `AFA`
+- `G193`: `AFB`, `AFC`, `AFD`, `AFE`
+- `G194`: `AFF`, `AFG`, `AFH`, `AFI`, `AFJ`, `AFK`
+- `G195`: `AFL`, `AFM`, `AFN`, `AFO`, `AFP`, `AFQ`
+- `G196`: `AFR`, `AFS`, `AFT`, `AFU`, `AFV`, `AFW`
+- `G197`: `AFX`, `AFY`, `AFZ`, `AGA`, `AGB`
+- `G198`: `AGC`, `AGD`, `AGE`, `AGF`, `AGG`
+- `G199`: `AGH`, `AGI`, `AGJ`, `AGK`
+- `G200`: `AGL`, `AGM`, `AGN`, `AGO`, `AGP`, `AGQ`
+- `G201`: `AGR`, `AGS`, `AGT`, `AGU`
+- `G202`: `AGV`, `AGW`, `AGX`, `AGY`, `AGZ`
+- `G203`: `AHA`, `AHB`, `AHC`
+- `G204`: `AHD`, `AHE`, `AHF`, `AHG`
+- `G205`: `AHH`, `AHI`, `AHJ`, `AHK`
+- `G206`: `AHL`, `AHM`, `AHN`
+- `G207`: `AHO`, `AHP`, `AHQ`, `AHR`
+- `G208`: `AHS`, `AHT`, `AHU`, `AHV`
+- `G209`: `AHW`, `AHX`, `AHY`
+- `G210`: `AHZ`
+- `G211`: `AIA`, `AIB`, `AIC`, `AID`
+- `G212`: `AIE`, `AIF`, `AIG`
+- `G213`: `AIH`, `AII`, `AIJ`, `AIK`
+- `G214`: `AIL`, `AIM`, `AIN`, `AIO`
+- `G215`: `AIP`, `AIQ`, `AIR`, `AIS`, `AIT`, `AIU`
+- `G216`: `AIV`, `AIW`
+- `G217`: `AIX`
+- `G218`: `AIY`, `AIZ`, `AJA`, `AJB`
+- `G219`: `AJC`, `AJD`, `AJE`, `AJF`, `AJG`
+- `G220`: `AJH`, `AJI`, `AJJ`, `AJK`
+- `G221`: `AJL`, `AJM`, `AJN`, `AJO`
+- `G222`: `AJP`, `AJQ`, `AJR`
+- `G223`: `AJS`, `AJT`, `AJU`
+- `G224`: `AJV`, `AJW`, `AJX`
+- `G225`: `AJY`, `AJZ`, `AKA`
+- `G226`: `AKB`, `AKC`, `AKD`
+- `G227`: `AKE`, `AKF`, `AKG`
+- `G228`: `AKH`, `AKI`, `AKJ`
+- `G229`: `AKK`, `AKL`, `AKM`
+- `G230`: `AKN`, `AKO`, `AKP`
+- `G231`: `AKQ`, `AKR`, `AKS`
+- `G232`: `AKT`, `AKU`, `AKV`
+- `G233`: `AKW`, `AKX`, `AKY`
+- `G234`: `AKZ`, `ALA`, `ALB`
+- `G235`: `ALC`, `ALD`
+- `G236`: `ALE`, `ALF`, `ALG`
+- `G237`: `ALH`, `ALI`, `ALJ`
+- `G238`: `ALK`, `ALL`, `ALM`
+- `G239`: `ALN`, `ALO`, `ALP`, `ALQ`
+- `G240`: `ALR`, `ALS`, `ALT`
+- `G241`: `ALU`, `ALV`, `ALW`
+- `G242`: `ALX`, `ALY`, `ALZ`
+- `G243`: `AMA`, `AMB`
+- `G244`: `AMC`, `AMD`, `AME`
+- `G245`: `AMF`, `AMG`, `AMH`
+- `G246`: `AMI`, `AMJ`, `AMK`, `AML`
+- `G247`: `AMM`, `AMN`
+- `G248`: `AMO`, `AMP`, `AMQ`
+- `G249`: `AMR`, `AMS`
+- `G250`: `AMT`, `AMU`
+- `G251`: `AMV`, `AMW`, `AMX`
+- `G252`: `AMY`, `AMZ`, `ANA`
+- `G253`: `ANB`, `ANC`, `AND`
+- `G254`: `ANE`, `ANF`
+- `G255`: `ANG`, `ANH`, `ANI`
+- `G256`: `ANJ`, `ANK`, `ANL`
+- `G257`: `ANM`, `ANN`, `ANO`
+- `G258`: `ANP`, `ANQ`, `ANR`
+- `G259`: `ANS`, `ANT`, `ANU`
+- `G260`: `ANV`, `ANW`, `ANX`
+- `G261`: `ANY`, `ANZ`, `AOA`
+- `G262`: `AOB`, `AOC`, `AOD`
+- `G263`: `AOE`, `AOF`, `AOG`
+- `G264`: `AOH`, `AOI`, `AOJ`
+- `G265`: `AOK`, `AOL`
+- `G266`: `AOM`, `AON`, `AOO`
+- `G267`: `AOP`, `AOQ`
+- `G268`: `AOR`, `AOS`, `AOT`
+- `G269`: `AOU`, `AOV`, `AOW`
+- `G270`: `AOX`, `AOY`, `AOZ`
+- `G271`: `APA`, `APB`
+- `G272`: `APC`, `APD`, `APE`
+- `G273`: `APF`, `APG`, `APH`
+- `G274`: `API`, `APJ`, `APK`, `APL`
+- `G275`: `APM`, `APN`, `APO`
+- `G276`: `APP`, `APQ`, `APR`
+- `G277`: `APS`, `APT`, `APU`
+- `G278`: `APV`, `APW`, `APX`
+- `G279`: `APY`, `APZ`, `AQA`
+- `G280`: `AQB`, `AQC`, `AQD`
+- `G281`: `AQE`, `AQF`
+- `G282`: `AQG`, `AQH`, `AQI`, `AQJ`
+- `G283`: `AQK`, `AQL`, `AQM`
+- `G284`: `AQN`, `AQO`, `AQP`
+- `G285`: `AQQ`, `AQR`, `AQS`
+- `G286`: `AQT`, `AQU`, `AQV`
+- `G287`: `AQW`, `AQX`, `AQY`
+- `G288`: `AQZ`, `ARA`, `ARB`
+- `G289`: `ARC`, `ARD`, `ARE`
+- `G290`: `ARF`, `ARG`, `ARH`
+- `G291`: `ARI`, `ARJ`, `ARK`
+- `G292`: `ARL`, `ARM`, `ARN`
+- `G293`: `ARO`, `ARP`, `ARQ`
+- `G294`: `ARR`, `ARS`, `ART`
+- `G295`: `ARU`, `ARV`, `ARW`
+- `G296`: `ARX`, `ARY`, `ARZ`
+- `G297`: `ASA`, `ASB`, `ASC`
+- `G298`: `ASD`, `ASE`, `ASF`
+- `G299`: `ASG`, `ASH`, `ASI`
+- `G300`: `ASJ`, `ASK`, `ASL`
+- `G301`: `ASM`, `ASN`, `ASO`
+- `G302`: `ASP`, `ASQ`, `ASR`
+- `G303`: `ASS`, `AST`, `ASU`
+- `G304`: `ASV`, `ASW`, `ASX`
+- `G305`: `ASY`, `ASZ`, `ATA`
+- `G306`: `ATB`, `ATC`, `ATD`
+- `G307`: `ATE`, `ATF`, `ATG`
+- `G308`: `ATH`, `ATI`, `ATJ`
+- `G309`: `ATK`, `ATL`, `ATM`
+- `G310`: `ATN`, `ATO`, `ATP`
+- `G311`: `ATQ`, `ATR`, `ATS`
+- `G312`: `ATT`, `ATU`, `ATV`
+- `G313`: `ATW`, `ATX`, `ATY`
+- `G314`: `ATZ`, `AUA`, `AUB`
+- `G315`: `AUC`, `AUD`, `AUE`
+- `G316`: `AUF`, `AUG`, `AUH`
+- `G317`: `AUI`, `AUJ`, `AUK`
+- `G318`: `AUL`, `AUM`, `AUN`
+- `G319`: `AUO`, `AUP`, `AUQ`
+- `G320`: `AUR`, `AUS`, `AUT`
+- `G321`: `AUU`, `AUV`, `AUW`
+- `G322`: `AUX`, `AUY`, `AUZ`
+- `G323`: `AVA`, `AVB`, `AVC`
+- `G324`: `AVD`, `AVE`, `AVF`
+- `G325`: `AVG`, `AVH`, `AVI`
+- `G326`: `AVJ`, `AVK`, `AVL`
+- `G327`: `AVM`, `AVN`, `AVO`
+- `G328`: `AVP`, `AVQ`, `AVR`
+- `G329`: `AVS`, `AVT`, `AVU`
+- `G330`: `AVV`, `AVW`, `AVX`
+- `G331`: `AVY`, `AVZ`, `AWA`
+- `G332`: `AWB`, `AWC`, `AWD`
+- `G333`: `AWE`, `AWF`, `AWG`
+- `G334`: `AWH`, `AWI`, `AWJ`
+- `G335`: `AWK`, `AWL`, `AWM`
+- `G336`: `AWN`, `AWO`, `AWP`
+- `G337`: `AWQ`, `AWR`, `AWS`
+- `G338`: `AWT`, `AWU`, `AWV`
+- `G339`: `AWW`, `AWX`, `AWY`
+- `G340`: `AWZ`, `AXA`, `AXB`
+- `G341`: `AXC`, `AXD`, `AXE`
+- `G342`: `AXF`, `AXG`, `AXH`, `AXI`
+- `G343`: `AXJ`, `AXK`, `AXL`
+- `G344`: `AXM`, `AXN`, `AXO`
+- `G345`: `AXP`, `AXQ`, `AXR`
+- `G346`: `AXS`, `AXT`, `AXU`
+- `G347`: `AXV`, `AXW`, `AXX`
+- `G348`: `AXY`, `AXZ`, `AYA`
+- `G349`: `AYB`, `AYC`, `AYD`
+- `G350`: `AYE`, `AYF`, `AYG`
+- `G351`: `AYH`, `AYI`, `AYJ`, `AYK`
+- `G352`: `AYL`, `AYM`, `AYN`
+- `G353`: `AYO`, `AYP`, `AYQ`
+- `G354`: `AYR`, `AYS`, `AYT`
+- `G355`: `AYU`, `AYV`, `AYW`
+- `G356`: `AYX`, `AYY`, `AYZ`
+- `G357`: `AZA`, `AZB`, `AZC`
+- `G358`: `AZD`, `AZE`, `AZF`
+- `G359`: `AZG`, `AZH`, `AZI`
+- `G360`: `AZJ`, `AZK`, `AZL`
+- `G361`: `AZM`, `AZN`, `AZO`, `AZP`
+- `G362`: `AZQ`, `AZR`, `AZS`
+- `G363`: `AZT`, `AZU`, `AZV`
+- `G364`: `AZW`, `AZX`, `AZY`
+- `G365`: `AZZ`, `BAA`, `BAB`
+- `G366`: `BAC`, `BAD`, `BAE`
+- `G367`: `BAF`, `BAG`, `BAH`
+- `G368`: `BAI`, `BAJ`, `BAK`, `BAL`
+- `G369`: `BAM`, `BAN`, `BAO`
+- `G370`: `BAP`, `BAQ`, `BAR`, `BAS`
+- `G371`: `BAT`, `BAU`, `BAV`
+- `G372`: `BAW`, `BAX`, `BAY`
+- `G373`: `BAZ`, `BBA`, `BBB`
+- `G374`: `BBC`, `BBD`, `BBE`
+- `G375`: `BBF`, `BBG`, `BBH`
+- `G376`: `BBI`, `BBJ`, `BBK`
+- `G377`: `BBL`, `BBM`, `BBN`
+- `G378`: `BBO`, `BBP`, `BBQ`
+- `G379`: `BBR`, `BBS`, `BBT`
+- `G380`: `BBU`, `BBV`, `BBW`
+- `G381`: `BBX`, `BBY`, `BBZ`
+- `G382`: `BCA`, `BCB`, `BCC`
+- `G383`: `BCD`, `BCE`, `BCF`
+- `G384`: `BCG`, `BCH`, `BCI`, `BCJ`
+- `G385`: `BCK`, `BCL`, `BCM`, `BCN`
+- `G386`: `BCO`, `BCP`, `BCQ`
+- `G387`: `BCR`, `BCS`, `BCT`
+- `G388`: `BCU`, `BCV`, `BCW`
+- `G389`: `BCX`, `BCY`, `BCZ`
+- `G390`: `BDA`, `BDB`, `BDC`
+- `G391`: `BDD`, `BDE`, `BDF`
+- `G392`: `BDG`, `BDH`
+- `G393`: `BDI`, `BDJ`, `BDK`
+- `G394`: `BDL`, `BDM`, `BDN`
+- `G395`: `BDO`, `BDP`, `BDQ`
+- `G396`: `BDR`, `BDS`, `BDT`
+- `G397`: `BDU`, `BDV`, `BDW`
+- `G398`: `BDX`, `BDY`, `BDZ`
+- `G399`: `BEA`, `BEB`, `BEC`
+- `G400`: `BED`, `BEE`, `BEF`
+- `G401`: `BEG`, `BEH`, `BEI`
+- `G402`: `BEJ`, `BEK`, `BEL`
+- `G403`: `BEM`, `BEN`, `BEO`
+- `G404`: `BEP`, `BEQ`, `BER`
+- `G405`: `BES`, `BET`, `BEU`
+- `G406`: `BEV`, `BEW`, `BEX`
+- `G407`: `BEY`, `BEZ`, `BFA`
+- `G408`: `BFB`, `BFC`, `BFD`
+- `G409`: `BFE`, `BFF`, `BFG`
+- `G410`: `BFH`, `BFI`, `BFJ`
+- `G411`: `BFK`, `BFL`, `BFM`
+- `G412`: `BFN`, `BFO`, `BFP`
+- `G413`: `BFQ`, `BFR`, `BFS`
+- `G414`: `BFT`, `BFU`
+- `G415`: `BFV`, `BFW`, `BFX`
+- `G416`: `BFY`, `BFZ`, `BGA`
+- `G417`: `BGB`, `BGC`
+- `G418`: `BGD`, `BGE`, `BGF`
+- `G419`: `BGG`, `BGH`, `BGI`
+- `G420`: `BGJ`, `BGK`, `BGL`
+- `G421`: `BGM`, `BGN`
+- `G422`: `BGO`, `BGP`, `BGQ`
+- `G423`: `BGR`, `BGS`, `BGT`
+- `G424`: `BGU`, `BGV`, `BGW`
+- `G425`: `BGX`, `BGY`, `BGZ`
+- `G426`: `BHA`, `BHB`, `BHC`
+- `G427`: `BHD`, `BHE`
+- `G428`: `BHF`, `BHG`
+- `G429`: `BHH`, `BHI`, `BHJ`
+- `G430`: `BHK`, `BHL`, `BHM`
+- `G431`: `BHN`, `BHO`, `BHP`
+- `G432`: `BHQ`, `BHR`, `BHS`
+- `G433`: `BHT`, `BHU`, `BHV`
+- `G434`: `BHW`, `BHX`, `BHY`
+- `G435`: `BHZ`, `BIA`, `BIB`
+- `G436`: `BIC`, `BID`, `BIE`
+- `G437`: `BIF`, `BIG`, `BIH`, `BII`
+- `G438`: `BIJ`, `BIK`
+- `G439`: `BIL`, `BIM`, `BIN`
+- `G440`: `BIO`, `BIP`, `BIQ`
+- `G441`: `BIR`, `BIS`, `BIT`
+- `G442`: `BIU`, `BIV`, `BIW`
+- `G443`: `BIX`, `BIY`, `BIZ`
+- `G444`: `BJA`, `BJB`
+- `G445`: `BJC`, `BJD`, `BJE`
+- `G446`: `BJF`, `BJG`, `BJH`
+- `G447`: `BJI`, `BJJ`, `BJK`
+- `G448`: `BJL`, `BJM`, `BJN`, `BJO`
+- `G449`: `BJP`, `BJQ`, `BJR`, `BJS`
+- `G450`: `BJT`, `BJU`, `BJV`
+- `G451`: `BJW`, `BJX`, `BJY`
+- `G452`: `BJZ`, `BKA`, `BKB`
+- `G453`: `BKC`, `BKD`, `BKE`
+- `G454`: `BKF`, `BKG`, `BKH`
+- `G455`: `BKI`, `BKJ`, `BKK`
+- `G456`: `BKL`, `BKM`
+- `G457`: `BKN`, `BKO`, `BKP`
+- `G458`: `BKQ`, `BKR`, `BKS`
+- `G459`: `BKT`, `BKU`, `BKV`
+- `G460`: `BKW`, `BKX`, `BKY`
+- `G461`: `BKZ`, `BLA`, `BLB`
+- `G462`: `BLC`, `BLD`, `BLE`
+- `G463`: `BLF`, `BLG`, `BLH`
+- `G464`: `BLI`, `BLJ`, `BLK`
+- `G465`: `BLL`, `BLM`, `BLN`
+- `G466`: `BLO`, `BLP`, `BLQ`
+- `G467`: `BLR`, `BLS`, `BLT`
+- `G468`: `BLU`, `BLV`, `BLW`
+- `G469`: `BLX`, `BLY`, `BLZ`
+- `G470`: `BMA`, `BMB`, `BMC`
+- `G471`: `BMD`, `BME`, `BMF`
+- `G472`: `BMG`, `BMH`, `BMI`
+- `G473`: `BMJ`, `BMK`, `BML`
+- `G474`: `BMM`, `BMN`, `BMO`
+- `G475`: `BMP`, `BMQ`, `BMR`
+- `G476`: `BMS`, `BMT`, `BMU`
+- `G477`: `BMV`, `BMW`, `BMX`
+- `G478`: `BMY`, `BMZ`, `BNA`
+- `G479`: `BNB`, `BNC`, `BND`
+- `G480`: `BNE`, `BNF`, `BNG`
+- `G481`: `BNH`, `BNI`, `BNJ`
+- `G482`: `BNK`, `BNL`, `BNM`
+- `G483`: `BNN`, `BNO`, `BNP`
+- `G484`: `BNQ`, `BNR`, `BNS`
+- `G485`: `BNT`, `BNU`, `BNV`
+- `G486`: `BNW`, `BNX`, `BNY`
+- `G487`: `BNZ`, `BOA`, `BOB`
+- `G488`: `BOC`, `BOD`, `BOE`
+- `G489`: `BOF`, `BOG`, `BOH`
+- `G490`: `BOI`, `BOJ`, `BOK`
+- `G491`: `BOL`, `BOM`, `BON`
+- `G492`: `BOO`, `BOP`, `BOQ`
+- `G493`: `BOR`, `BOS`, `BOT`
+- `G494`: `BOU`, `BOV`, `BOW`
+- `G495`: `BOX`, `BOY`, `BOZ`
+- `G496`: `BPA`, `BPB`
+- `G497`: `BPC`, `BPD`, `BPE`
+- `G498`: `BPF`, `BPG`, `BPH`
+- `G499`: `BPI`, `BPJ`, `BPK`
+- `G500`: `BPL`, `BPM`, `BPN`
+- `G501`: `BPO`, `BPP`, `BPQ`
+- `G502`: `BPR`, `BPS`, `BPT`
+- `G503`: `BPU`, `BPV`, `BPW`
+- `G504`: `BPX`, `BPY`, `BPZ`
+- `G505`: `BQA`, `BQB`, `BQC`
+- `G506`: `BQD`, `BQE`, `BQF`
+- `G507`: `BQG`, `BQH`, `BQI`
+- `G508`: `BQJ`, `BQK`, `BQL`, `BQM`
+- `G509`: `BQN`, `BQO`, `BQP`
+- `G510`: `BQQ`, `BQR`, `BQS`
+- `G511`: `BQT`, `BQU`, `BQV`
+- `G512`: `BQW`, `BQX`, `BQY`
+- `G513`: `BQZ`, `BRA`
+- `G514`: `BRB`, `BRC`, `BRD`
+- `G515`: `BRE`, `BRF`, `BRG`
+- `G516`: `BRH`
+- `G517`: `BRI`, `BRJ`
+- `G518`: `BRK`
+- `G519`: `BRL`, `BRM`
+- `G520`: `BRN`
+- `G521`: `BRO`, `BRP`, `BRQ`
+- `G522`: `BRR`, `BRS`, `BRT`
+- `G523`: `BRU`, `BRV`, `BRW`
+- `G524`: `BRX`, `BRY`, `BRZ`, `BSA`
+- `G525`: `BSB`, `BSC`, `BSD`
+- `G526`: `BSE`, `BSF`, `BSG`
+- `G527`: `BSH`, `BSI`, `BSJ`
+- `G528`: `BSK`, `BSL`, `BSM`
+- `G529`: `BSN`, `BSO`, `BSP`
+- `G530`: `BSQ`, `BSR`, `BSS`
+- `G531`: `BST`, `BSU`, `BSV`
+- `G532`: `BSW`, `BSX`, `BSY`, `BSZ`
+- `G533`: `BTA`, `BTB`, `BTC`, `BTD`
+- `G534`: `BTE`, `BTF`, `BTG`
+- `G535`: `BTH`, `BTI`, `BTJ`
+- `G536`: `BTK`, `BTL`, `BTM`
+- `G537`: `BTN`, `BTO`, `BTP`
+
+## Source ID → case
+
+- `KICE-2014-6월_모평B-Q17-20-S170~173-Q19`: `Y`
+- `KICE-2018-수능-Q16-19-S033~036-Q18`: `P`
+- `KICE-2025-9월_모평-Q12-17-S001~006-Q14`: `Z`
+- `KICE-2026-9월_모평-Q10-13-S110~113-Q12`: `Q`
+- `MEET-2005-Q34`: `V`
+- `MEET-2006-Q31`: `W`
+- `MEET-2007-Q31`: `X`
+
+## 현재 미완료 case → 원장 hold 사유·재개 조건
+
+- `G370` (BAP, BAQ, BAR, BAS): None 재개 조건: None (record `G370-hold-20261001-source-01`)
+- `G370` (BAP, BAQ, BAR, BAS): None 재개 조건: None (record `G370-hold-20261001-source-unavailable-02`)
+- `G024` (DR, DS, DT, DU): 최신원장의20260912preexposure-barrierhold를재확인. DR의공식답·사이트49가group원문이전에노출되었고원hold가다른case의최초독립판정생성을명시적으로금지한다.현재사용자도group전체independent이전SDSS공개금지장벽을유지한다.과거quota7%hold는현재quota로승계하지않지만노출장벽은해소되지않았다. 재개 조건: 독립최초연구로재개하지않는다.명시적으로정해진사전노출사례비독립검토절차가마련될때기존기록을보존한별도후속연구만가능. (record `G024-hold-20261005-01`)
+- `G370` (BAP, BAQ, BAR, BAS): 현재blind4파일과공식2017LEET홀수원렌더4쪽을주Astra가직접확인.두지문상자는본문없이온라인게시불가안내와이청준가면의꿈출처만존재한다.원문본문·[A][B]·기호문맥이없어독해와선지판정불가. 재개 조건: 실제시험에제시된본문과모든범위표시를검증할수있는question-only원문을확보하면그룹전체blind부터재개.현재안내문이나작품제목으로원문·답·코드를추정하지않는다. (record `G370-hold-20261005-01`)
+
+## 연결 범위
+
+- case별 blind source, semantic stage의 raw record_id와 처리 target, answer source 참조는 JSON index에 기록했다.
+- manifest에 없는 시험/연도/문항은 추정하지 않았다. visual supplement/provenance 연결도 명시 참조가 없는 경우 추가하지 않았다.

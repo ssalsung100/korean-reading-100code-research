@@ -1,0 +1,54 @@
+{
+  "gate": "PASS",
+  "errors": [],
+  "manual_verification_blockers": [],
+  "excluded_alternate_forms": [
+    "2009 짝수형",
+    "2009예비 짝수형",
+    "2010 짝수형",
+    "2011 짝수형",
+    "2012 짝수형",
+    "2013 짝수형",
+    "2014 짝수형",
+    "2015 짝수형",
+    "2016 짝수형",
+    "2017 짝수형",
+    "2018 짝수형",
+    "2019 짝수형",
+    "2020 짝수형",
+    "2021 짝수형",
+    "2022 짝수형",
+    "2023 짝수형",
+    "2024 짝수형",
+    "2025 짝수형",
+    "2026 짝수형"
+  ],
+  "residual_limitations": [
+    "2009예비~2021 HWP 홀수형의 재사용 시각 자료 65개는 쪽·단·줄·글자 및 HWP 앵커를 확정했으나 일반 <보기> 배치 상자 125개는 좌표 감사 대상에서 제외함",
+    "2024~2026 Markdown은 공식 PDF 텍스트층의 직접 추출문으로, 편집자가 띄어쓰기를 보정한 전사본은 아님"
+  ],
+  "counts": {
+    "official_source_files": 59,
+    "derived_records": 59,
+    "embedded_figures": 411,
+    "extracted_tables": 591,
+    "page_renders": 83,
+    "answer_forms": 39,
+    "audit_statuses": {
+      "answer_key_parsed": 20,
+      "pass_direct_hwp_text_layout_pending": 28,
+      "image_only_no_canonical_text": 5,
+      "pass_direct_pdf_text": 3,
+      "pass_direct_pdf_text_with_visual_links": 3
+    },
+    "automatic_errors": 0,
+    "manual_blockers": 0,
+    "excluded_even_forms": 19,
+    "verified_transcript_groups": 30,
+    "verified_transcript_questions": 90,
+    "cataloged_reusable_visuals": 85,
+    "hwp_coordinate_verified_visuals": 65,
+    "hwp_rendered_pages": 216
+  },
+  "scope_note": "PASS는 선택된 홀수형 분석 범위에서 원본 무결성, 직접 추출문, 공식 페이지 대조 전사, 정답 형식, 시각 자료 출처가 검증되었다는 뜻이다. 재사용 HWP 시각 자료 65개는 원래 쪽·단·줄·앵커까지 검증되었다."
+}

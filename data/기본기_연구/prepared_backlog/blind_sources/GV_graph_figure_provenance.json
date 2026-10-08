@@ -1,0 +1,13 @@
+{
+  "case_id": "GV",
+  "passage_group": "G042",
+  "artifact": "GV_graph_figure.png",
+  "source": "https://wdown.ebsi.co.kr/W61001/01exam/20101118/kor2_mun.pdf",
+  "source_identification": "봉인 provenance의 GV 식별(KICE 2011 수능 Q46)만 사용",
+  "source_location": {"pdf_page_index": 15, "printed_page": 14, "question": 46},
+  "crop_pixels_at_render_scale_2_5": [470, 1110, 1050, 1810],
+  "visible_elements": ["채권 가격 축", "금리 축", "곡선 A", "ⓐ", "ⓑ", "ⓒ", "㉠", "㉡"],
+  "restoration_role": "mechanical_blind_figure_restoration",
+  "limitations": ["짝수형 공식 질문 PDF의 픽셀 crop이며 벡터 원본은 확인하지 않음.", "답·SDSS·해설·코드 판단은 기록하지 않음."],
+  "sha256": "cdd045d821a793ddd4f617c30625962620cdb17197999ca57242f327d4a445f3"
+}

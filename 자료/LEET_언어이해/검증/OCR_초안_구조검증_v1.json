@@ -1,0 +1,116 @@
+{
+  "status": "STRUCTURE_PASS",
+  "error_count": 0,
+  "errors": [],
+  "records": [
+    {
+      "label": "2022",
+      "kind": "answer",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 2,
+      "region_count": 2,
+      "word_count": 133,
+      "low_confidence_words": 76,
+      "mean_region_confidence": 57.89206349206349,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2022/2022_answer.md"
+    },
+    {
+      "label": "2022",
+      "kind": "question_even",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 15,
+      "region_count": 45,
+      "word_count": 19085,
+      "low_confidence_words": 1746,
+      "mean_region_confidence": 86.75134276808117,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2022/2022_question_even.md"
+    },
+    {
+      "label": "2022",
+      "kind": "question_odd",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 15,
+      "region_count": 45,
+      "word_count": 19097,
+      "low_confidence_words": 1732,
+      "mean_region_confidence": 86.97229244153105,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2022/2022_question_odd.md"
+    },
+    {
+      "label": "2023",
+      "kind": "answer",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 2,
+      "region_count": 2,
+      "word_count": 111,
+      "low_confidence_words": 57,
+      "mean_region_confidence": 63.65909090909091,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2023/2023_answer.md"
+    },
+    {
+      "label": "2023",
+      "kind": "question_even",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 15,
+      "region_count": 45,
+      "word_count": 19609,
+      "low_confidence_words": 1919,
+      "mean_region_confidence": 85.84997053114346,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2023/2023_question_even.md"
+    },
+    {
+      "label": "2023",
+      "kind": "question_odd",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 15,
+      "region_count": 45,
+      "word_count": 19748,
+      "low_confidence_words": 1883,
+      "mean_region_confidence": 86.42106972471072,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2023/2023_question_odd.md"
+    },
+    {
+      "label": "2024",
+      "kind": "answer",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 2,
+      "region_count": 2,
+      "word_count": 127,
+      "low_confidence_words": 78,
+      "mean_region_confidence": 46.79851116625311,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2024/2024_answer.md"
+    },
+    {
+      "label": "2025",
+      "kind": "answer",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 2,
+      "region_count": 2,
+      "word_count": 82,
+      "low_confidence_words": 25,
+      "mean_region_confidence": 76.60975609756098,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2025/2025_answer.md"
+    },
+    {
+      "label": "2027",
+      "kind": "question",
+      "status": "STRUCTURE_PASS",
+      "errors": [],
+      "page_count": 15,
+      "region_count": 45,
+      "word_count": 17971,
+      "low_confidence_words": 1833,
+      "mean_region_confidence": 86.60370962125388,
+      "draft_file": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md"
+    }
+  ],
+  "warning": "STRUCTURE_PASS는 OCR 철자 정확성을 뜻하지 않으며 모든 OCR 문장은 원문 페이지 수동 대조 전까지 비정본이다."
+}

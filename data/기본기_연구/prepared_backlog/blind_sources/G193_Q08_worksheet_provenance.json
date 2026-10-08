@@ -1,0 +1,19 @@
+{
+  "blind_only": true,
+  "passage_group": "G193",
+  "case_id": "AFB",
+  "source_role": "mechanical_visual_asset_provenance",
+  "canonical_source": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+  "source_sha256": "e0b143398556490c695aa75c7ad42b585bcbea98bb9a1487b928533de97145a2",
+  "container_member": "BinData/image2.bmp",
+  "binary_ref": "image2",
+  "asset": "data/기본기_연구/prepared_backlog/blind_sources/G193_Q08_worksheet.bmp",
+  "asset_sha256": "40546d6dc712d09a294340564a62942564d6b2022e3d87611b966eaee7c2501d",
+  "dimensions_px": [
+    1258,
+    915
+  ],
+  "kind": "worksheet_table",
+  "interpretation_added": false,
+  "answer_or_sdss_included": false
+}

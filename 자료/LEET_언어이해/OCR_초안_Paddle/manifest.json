@@ -1,0 +1,294 @@
+{
+  "status": "unverified_secondary_ocr",
+  "records": [
+    {
+      "label": "2022",
+      "kind": "question_odd",
+      "pages": [
+        {
+          "page": 1,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_001.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_001.md",
+          "reused": true
+        },
+        {
+          "page": 2,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_002.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_002.md",
+          "reused": true
+        },
+        {
+          "page": 3,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_003.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_003.md",
+          "reused": true
+        },
+        {
+          "page": 4,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_004.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_004.md",
+          "reused": true
+        },
+        {
+          "page": 5,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_005.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_005.md",
+          "reused": true
+        },
+        {
+          "page": 6,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_006.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_006.md",
+          "reused": true
+        },
+        {
+          "page": 7,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_007.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_007.md",
+          "reused": true
+        },
+        {
+          "page": 8,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_008.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_008.md",
+          "reused": true
+        },
+        {
+          "page": 9,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_009.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_009.md",
+          "reused": true
+        },
+        {
+          "page": 10,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_010.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_010.md",
+          "reused": true
+        },
+        {
+          "page": 11,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_011.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_011.md",
+          "reused": true
+        },
+        {
+          "page": 12,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_012.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_012.md",
+          "reused": true
+        },
+        {
+          "page": 13,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_013.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_013.md",
+          "reused": true
+        },
+        {
+          "page": 14,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_014.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_014.md",
+          "reused": true
+        },
+        {
+          "page": 15,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_015.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2022/question_odd/page_015.md",
+          "reused": true
+        }
+      ]
+    },
+    {
+      "label": "2023",
+      "kind": "question_odd",
+      "pages": [
+        {
+          "page": 1,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_001.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_001.md",
+          "reused": true
+        },
+        {
+          "page": 2,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_002.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_002.md",
+          "reused": true
+        },
+        {
+          "page": 3,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_003.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_003.md",
+          "reused": true
+        },
+        {
+          "page": 4,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_004.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_004.md",
+          "reused": true
+        },
+        {
+          "page": 5,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_005.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_005.md",
+          "reused": true
+        },
+        {
+          "page": 6,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_006.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_006.md",
+          "reused": true
+        },
+        {
+          "page": 7,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_007.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_007.md",
+          "reused": true
+        },
+        {
+          "page": 8,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_008.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_008.md",
+          "reused": true
+        },
+        {
+          "page": 9,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_009.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_009.md",
+          "reused": true
+        },
+        {
+          "page": 10,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_010.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_010.md",
+          "reused": true
+        },
+        {
+          "page": 11,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_011.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_011.md",
+          "reused": true
+        },
+        {
+          "page": 12,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_012.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_012.md",
+          "reused": true
+        },
+        {
+          "page": 13,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_013.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_013.md",
+          "reused": true
+        },
+        {
+          "page": 14,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_014.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_014.md",
+          "reused": true
+        },
+        {
+          "page": 15,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_015.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2023/question_odd/page_015.md",
+          "reused": true
+        }
+      ]
+    },
+    {
+      "label": "2027",
+      "kind": "question",
+      "pages": [
+        {
+          "page": 1,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_001.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_001.md",
+          "reused": true
+        },
+        {
+          "page": 2,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_002.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_002.md",
+          "reused": true
+        },
+        {
+          "page": 3,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_003.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_003.md",
+          "reused": true
+        },
+        {
+          "page": 4,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_004.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_004.md",
+          "reused": true
+        },
+        {
+          "page": 5,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_005.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_005.md",
+          "reused": true
+        },
+        {
+          "page": 6,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_006.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_006.md",
+          "reused": true
+        },
+        {
+          "page": 7,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_007.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_007.md",
+          "reused": true
+        },
+        {
+          "page": 8,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_008.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_008.md",
+          "reused": true
+        },
+        {
+          "page": 9,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_009.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_009.md",
+          "reused": true
+        },
+        {
+          "page": 10,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_010.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_010.md",
+          "reused": true
+        },
+        {
+          "page": 11,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_011.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_011.md",
+          "reused": true
+        },
+        {
+          "page": 12,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_012.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_012.md",
+          "reused": true
+        },
+        {
+          "page": 13,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_013.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_013.md",
+          "reused": true
+        },
+        {
+          "page": 14,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_014.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_014.md",
+          "reused": true
+        },
+        {
+          "page": 15,
+          "json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_015.json",
+          "markdown": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_015.md",
+          "reused": true
+        }
+      ]
+    }
+  ],
+  "warning": "No OCR text is canonical before direct official-page comparison."
+}

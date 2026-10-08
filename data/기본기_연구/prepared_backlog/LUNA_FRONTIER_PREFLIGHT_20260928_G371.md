@@ -1,0 +1,233 @@
+# Luna frontier preflight — 20260928 G371
+
+기계적 source preparation만 수행했다. 문항 의미 풀이·정답 판단·코드 판정·SDSS 비교는 수행하지 않았다.
+
+- research_completed_total: 1156
+- target_completed: 619 / 1147
+- target not completed: 528
+- 새 READY groups / questions: 137 / 406
+- First READY group / case: G371 / BAT
+- Family counts: {"KICE":0,"LEET":106,"MEET/DEET":31,"Other":0}
+- Restored MEET visual groups: 없음
+- NEEDS_RESTORE: 30
+- SOURCE_MISSING: 5
+- HOLD: 4 (기존 HOLD 보존)
+- AMBIGUOUS_COMPLETION: 8
+- Existing prepared preserved: 24
+
+## READY groups
+
+- G371: MEET MEET-2006-Q08-10 — BAT, BAU, BAV (3문항)
+- G372: MEET MEET-2006-Q11-13 — BAW, BAX, BAY (3문항)
+- G373: MEET MEET-2006-Q17-19 — BAZ, BBA, BBB (3문항)
+- G374: MEET MEET-2006-Q20-22 — BBC, BBD, BBE (3문항)
+- G375: MEET MEET-2006-Q32-34 — BBF, BBG, BBH (3문항)
+- G376: MEET MEET-2006-Q38-40 — BBI, BBJ, BBK (3문항)
+- G377: MEET MEET-2007-Q04-06 — BBL, BBM, BBN (3문항)
+- G378: MEET MEET-2007-Q07-09 — BBO, BBP, BBQ (3문항)
+- G379: MEET MEET-2007-Q13-15 — BBR, BBS, BBT (3문항)
+- G380: MEET MEET-2007-Q16-18 — BBU, BBV, BBW (3문항)
+- G381: MEET MEET-2007-Q19-21 — BBX, BBY, BBZ (3문항)
+- G382: MEET MEET-2007-Q22-24 — BCA, BCB, BCC (3문항)
+- G383: MEET MEET-2007-Q32-34 — BCD, BCE, BCF (3문항)
+- G384: MEET MEET-2008-Q03-06 — BCG, BCH, BCI, BCJ (4문항)
+- G385: MEET MEET-2008-Q07-10 — BCK, BCL, BCM, BCN (4문항)
+- G386: MEET MEET-2008-Q14-16 — BCO, BCP, BCQ (3문항)
+- G387: MEET MEET-2008-Q17-19 — BCR, BCS, BCT (3문항)
+- G388: MEET MEET-2008-Q23-25 — BCU, BCV, BCW (3문항)
+- G389: MEET MEET-2008-Q29-31 — BCX, BCY, BCZ (3문항)
+- G390: MEET MEET-2008-Q35-37 — BDA, BDB, BDC (3문항)
+- G391: MEET MEET-2011-Q05-07 — BDD, BDE, BDF (3문항)
+- G392: MEET MEET-2011-Q08-10 — BDG, BDH (2문항)
+- G393: MEET MEET-2011-Q11-13 — BDI, BDJ, BDK (3문항)
+- G394: MEET MEET-2011-Q20-22 — BDL, BDM, BDN (3문항)
+- G395: MEET MEET-2011-Q32-34 — BDO, BDP, BDQ (3문항)
+- G396: MEET MEET-2012-Q08-10 — BDR, BDS, BDT (3문항)
+- G397: MEET MEET-2012-Q11-13 — BDU, BDV, BDW (3문항)
+- G398: MEET MEET-2012-Q14-16 — BDX, BDY, BDZ (3문항)
+- G399: MEET MEET-2012-Q17-19 — BEA, BEB, BEC (3문항)
+- G400: MEET MEET-2012-Q23-25 — BED, BEE, BEF (3문항)
+- G401: MEET MEET-2012-Q38-40 — BEG, BEH, BEI (3문항)
+- G402: LEET LEET-2009예비-odd-Q08-10 — BEJ, BEK, BEL (3문항)
+- G403: LEET LEET-2009-odd-Q11-13 — BEM, BEN, BEO (3문항)
+- G404: LEET LEET-2009-odd-Q14-16 — BEP, BEQ, BER (3문항)
+- G405: LEET LEET-2009-odd-Q20-22 — BES, BET, BEU (3문항)
+- G406: LEET LEET-2009-odd-Q23-25 — BEV, BEW, BEX (3문항)
+- G407: LEET LEET-2009-odd-Q26-28 — BEY, BEZ, BFA (3문항)
+- G408: LEET LEET-2009-odd-Q29-31 — BFB, BFC, BFD (3문항)
+- G409: LEET LEET-2009-odd-Q32-34 — BFE, BFF, BFG (3문항)
+- G410: LEET LEET-2009-odd-Q35-37 — BFH, BFI, BFJ (3문항)
+- G411: LEET LEET-2009예비-odd-Q35-37 — BFK, BFL, BFM (3문항)
+- G412: LEET LEET-2009-odd-Q38-40 — BFN, BFO, BFP (3문항)
+- G413: LEET LEET-2009예비-odd-Q38-40 — BFQ, BFR, BFS (3문항)
+- G414: LEET LEET-2010-odd-Q07-09 — BFT, BFU (2문항)
+- G415: LEET LEET-2010-odd-Q10-12 — BFV, BFW, BFX (3문항)
+- G416: LEET LEET-2010-odd-Q13-15 — BFY, BFZ, BGA (3문항)
+- G417: LEET LEET-2010-odd-Q25-26 — BGB, BGC (2문항)
+- G418: LEET LEET-2010-odd-Q27-29 — BGD, BGE, BGF (3문항)
+- G419: LEET LEET-2010-odd-Q30-32 — BGG, BGH, BGI (3문항)
+- G420: LEET LEET-2010-odd-Q33-35 — BGJ, BGK, BGL (3문항)
+- G421: LEET LEET-2011-odd-Q12-14 — BGM, BGN (2문항)
+- G422: LEET LEET-2011-odd-Q15-17 — BGO, BGP, BGQ (3문항)
+- G423: LEET LEET-2011-odd-Q18-20 — BGR, BGS, BGT (3문항)
+- G424: LEET LEET-2011-odd-Q21-23 — BGU, BGV, BGW (3문항)
+- G425: LEET LEET-2011-odd-Q30-32 — BGX, BGY, BGZ (3문항)
+- G426: LEET LEET-2011-odd-Q33-35 — BHA, BHB, BHC (3문항)
+- G427: LEET LEET-2012-odd-Q07-08 — BHD, BHE (2문항)
+- G428: LEET LEET-2012-odd-Q09-11 — BHF, BHG (2문항)
+- G429: LEET LEET-2012-odd-Q12-14 — BHH, BHI, BHJ (3문항)
+- G430: LEET LEET-2012-odd-Q15-17 — BHK, BHL, BHM (3문항)
+- G431: LEET LEET-2012-odd-Q18-20 — BHN, BHO, BHP (3문항)
+- G432: LEET LEET-2012-odd-Q21-23 — BHQ, BHR, BHS (3문항)
+- G433: LEET LEET-2012-odd-Q24-26 — BHT, BHU, BHV (3문항)
+- G434: LEET LEET-2012-odd-Q30-32 — BHW, BHX, BHY (3문항)
+- G435: LEET LEET-2013-odd-Q10-12 — BHZ, BIA, BIB (3문항)
+- G436: LEET LEET-2013-odd-Q25-27 — BIC, BID, BIE (3문항)
+- G437: LEET LEET-2017-odd-Q14-17 — BIF, BIG, BIH, BII (4문항)
+- G438: LEET LEET-2017-odd-Q18-20 — BIJ, BIK (2문항)
+- G439: LEET LEET-2017-odd-Q21-23 — BIL, BIM, BIN (3문항)
+- G440: LEET LEET-2017-odd-Q24-26 — BIO, BIP, BIQ (3문항)
+- G441: LEET LEET-2017-odd-Q27-29 — BIR, BIS, BIT (3문항)
+- G442: LEET LEET-2017-odd-Q30-32 — BIU, BIV, BIW (3문항)
+- G443: LEET LEET-2018-odd-Q01-03 — BIX, BIY, BIZ (3문항)
+- G444: LEET LEET-2018-odd-Q04-06 — BJA, BJB (2문항)
+- G445: LEET LEET-2018-odd-Q07-09 — BJC, BJD, BJE (3문항)
+- G446: LEET LEET-2018-odd-Q16-18 — BJF, BJG, BJH (3문항)
+- G447: LEET LEET-2018-odd-Q19-21 — BJI, BJJ, BJK (3문항)
+- G448: LEET LEET-2018-odd-Q22-25 — BJL, BJM, BJN, BJO (4문항)
+- G449: LEET LEET-2018-odd-Q26-29 — BJP, BJQ, BJR, BJS (4문항)
+- G450: LEET LEET-2018-odd-Q30-32 — BJT, BJU, BJV (3문항)
+- G451: LEET LEET-2018-odd-Q33-35 — BJW, BJX, BJY (3문항)
+- G452: LEET LEET-2019-odd-Q04-06 — BJZ, BKA, BKB (3문항)
+- G453: LEET LEET-2019-odd-Q07-09 — BKC, BKD, BKE (3문항)
+- G454: LEET LEET-2019-odd-Q10-12 — BKF, BKG, BKH (3문항)
+- G455: LEET LEET-2019-odd-Q13-15 — BKI, BKJ, BKK (3문항)
+- G456: LEET LEET-2019-odd-Q16-18 — BKL, BKM (2문항)
+- G457: LEET LEET-2019-odd-Q19-21 — BKN, BKO, BKP (3문항)
+- G458: LEET LEET-2019-odd-Q22-24 — BKQ, BKR, BKS (3문항)
+- G459: LEET LEET-2019-odd-Q25-27 — BKT, BKU, BKV (3문항)
+- G460: LEET LEET-2020-odd-Q01-03 — BKW, BKX, BKY (3문항)
+- G461: LEET LEET-2020-odd-Q04-06 — BKZ, BLA, BLB (3문항)
+- G462: LEET LEET-2020-odd-Q07-09 — BLC, BLD, BLE (3문항)
+- G463: LEET LEET-2020-odd-Q10-12 — BLF, BLG, BLH (3문항)
+- G464: LEET LEET-2020-odd-Q13-15 — BLI, BLJ, BLK (3문항)
+- G465: LEET LEET-2020-odd-Q19-21 — BLL, BLM, BLN (3문항)
+- G466: LEET LEET-2020-odd-Q22-24 — BLO, BLP, BLQ (3문항)
+- G467: LEET LEET-2020-odd-Q25-27 — BLR, BLS, BLT (3문항)
+- G468: LEET LEET-2020-odd-Q28-30 — BLU, BLV, BLW (3문항)
+- G469: LEET LEET-2021-odd-Q01-03 — BLX, BLY, BLZ (3문항)
+- G470: LEET LEET-2021-odd-Q04-06 — BMA, BMB, BMC (3문항)
+- G471: LEET LEET-2021-odd-Q07-09 — BMD, BME, BMF (3문항)
+- G472: LEET LEET-2021-odd-Q10-12 — BMG, BMH, BMI (3문항)
+- G473: LEET LEET-2021-odd-Q13-15 — BMJ, BMK, BML (3문항)
+- G474: LEET LEET-2021-odd-Q16-18 — BMM, BMN, BMO (3문항)
+- G475: LEET LEET-2021-odd-Q19-21 — BMP, BMQ, BMR (3문항)
+- G476: LEET LEET-2021-odd-Q22-24 — BMS, BMT, BMU (3문항)
+- G477: LEET LEET-2021-odd-Q25-27 — BMV, BMW, BMX (3문항)
+- G478: LEET LEET-2024-odd-Q01-03 — BMY, BMZ, BNA (3문항)
+- G479: LEET LEET-2024-odd-Q04-06 — BNB, BNC, BND (3문항)
+- G480: LEET LEET-2024-odd-Q07-09 — BNE, BNF, BNG (3문항)
+- G481: LEET LEET-2024-odd-Q10-12 — BNH, BNI, BNJ (3문항)
+- G482: LEET LEET-2024-odd-Q13-15 — BNK, BNL, BNM (3문항)
+- G483: LEET LEET-2024-odd-Q16-18 — BNN, BNO, BNP (3문항)
+- G484: LEET LEET-2024-odd-Q19-21 — BNQ, BNR, BNS (3문항)
+- G485: LEET LEET-2024-odd-Q22-24 — BNT, BNU, BNV (3문항)
+- G486: LEET LEET-2024-odd-Q25-27 — BNW, BNX, BNY (3문항)
+- G487: LEET LEET-2024-odd-Q28-30 — BNZ, BOA, BOB (3문항)
+- G488: LEET LEET-2025-odd-Q01-03 — BOC, BOD, BOE (3문항)
+- G489: LEET LEET-2025-odd-Q04-06 — BOF, BOG, BOH (3문항)
+- G490: LEET LEET-2025-odd-Q07-09 — BOI, BOJ, BOK (3문항)
+- G491: LEET LEET-2025-odd-Q10-12 — BOL, BOM, BON (3문항)
+- G492: LEET LEET-2025-odd-Q13-15 — BOO, BOP, BOQ (3문항)
+- G493: LEET LEET-2025-odd-Q16-18 — BOR, BOS, BOT (3문항)
+- G494: LEET LEET-2025-odd-Q19-21 — BOU, BOV, BOW (3문항)
+- G495: LEET LEET-2025-odd-Q22-24 — BOX, BOY, BOZ (3문항)
+- G496: LEET LEET-2025-odd-Q25-27 — BPA, BPB (2문항)
+- G497: LEET LEET-2025-odd-Q28-30 — BPC, BPD, BPE (3문항)
+- G498: LEET LEET-2026-odd-Q01-03 — BPF, BPG, BPH (3문항)
+- G499: LEET LEET-2026-odd-Q04-06 — BPI, BPJ, BPK (3문항)
+- G500: LEET LEET-2026-odd-Q07-09 — BPL, BPM, BPN (3문항)
+- G501: LEET LEET-2026-odd-Q10-12 — BPO, BPP, BPQ (3문항)
+- G502: LEET LEET-2026-odd-Q13-15 — BPR, BPS, BPT (3문항)
+- G503: LEET LEET-2026-odd-Q16-18 — BPU, BPV, BPW (3문항)
+- G504: LEET LEET-2026-odd-Q19-21 — BPX, BPY, BPZ (3문항)
+- G505: LEET LEET-2026-odd-Q22-24 — BQA, BQB, BQC (3문항)
+- G506: LEET LEET-2026-odd-Q25-27 — BQD, BQE, BQF (3문항)
+- G507: LEET LEET-2026-odd-Q28-30 — BQG, BQH, BQI (3문항)
+
+## NEEDS_RESTORE
+
+- KICE KICE-2025-6월_모평-Q12-17-S059~064 (1문항): KICE visual choice material requires source restoration
+- KICE KICE-2025-6월_모평-Q12-17-S059~064 (6문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- LEET LEET-2009-odd-Q08-10 (3문항): visual material has no exact linked local asset for LEET-2009-odd-Q08
+- LEET LEET-2009-odd-Q17-19 (3문항): visual material has no exact linked local asset for LEET-2009-odd-Q17
+- LEET LEET-2009예비-odd-Q11-13 (3문항): visual material has no exact linked local asset for LEET-2009예비-odd-Q11
+- LEET LEET-2009예비-odd-Q22-25 (4문항): visual material has no exact linked local asset for LEET-2009예비-odd-Q22
+- LEET LEET-2009예비-odd-Q32-34 (3문항): visual material has no exact linked local asset for LEET-2009예비-odd-Q32
+- LEET LEET-2010-odd-Q19-21 (3문항): visual material has no exact linked local asset for LEET-2010-odd-Q19
+- LEET LEET-2011-odd-Q06-08 (3문항): visual material has no exact linked local asset for LEET-2011-odd-Q06
+- LEET LEET-2011-odd-Q09-11 (3문항): legacy question 10 choice boundary missing
+- LEET LEET-2011-odd-Q27-29 (3문항): visual material has no exact linked local asset for LEET-2011-odd-Q27
+- LEET LEET-2012-odd-Q27-29 (3문항): visual material has no exact linked local asset for LEET-2012-odd-Q27
+- LEET LEET-2012-odd-Q33-35 (3문항): visual material has no exact linked local asset for LEET-2012-odd-Q35
+- LEET LEET-2014-odd-Q23-25 (3문항): visual material has no exact linked local asset for LEET-2014-odd-Q23
+- LEET LEET-2014-odd-Q26-29 (4문항): visual material has no exact linked local asset for LEET-2014-odd-Q26
+- LEET LEET-2015-odd-Q17-20 (4문항): visual material has no exact linked local asset for LEET-2015-odd-Q17
+- LEET LEET-2016-odd-Q33-35 (3문항): visual material has no exact linked local asset for LEET-2016-odd-Q33
+- LEET LEET-2017-odd-Q01-03 (3문항): visual material has no exact linked local asset for LEET-2017-odd-Q01
+- LEET LEET-2017-odd-Q11-13 (3문항): visual material has no exact linked local asset for LEET-2017-odd-Q11
+- LEET LEET-2017-odd-Q33-35 (2문항): visual material has no exact linked local asset for LEET-2017-odd-Q35
+- LEET LEET-2018-odd-Q10-12 (3문항): visual material has no exact linked local asset for LEET-2018-odd-Q10
+- LEET LEET-2018-odd-Q13-15 (3문항): visual material has no exact linked local asset for LEET-2018-odd-Q13
+- LEET LEET-2019-odd-Q01-03 (3문항): visual material has no exact linked local asset for LEET-2019-odd-Q01
+- LEET LEET-2019-odd-Q28-30 (3문항): visual material has no exact linked local asset for LEET-2019-odd-Q28
+- LEET LEET-2020-odd-Q16-18 (3문항): visual material has no exact linked local asset for LEET-2020-odd-Q16
+- LEET LEET-2021-odd-Q28-30 (3문항): visual material has no exact linked local asset for LEET-2021-odd-Q28
+- MEET MEET-2006-Q29-31 (3문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- MEET MEET-2007-Q28-31 (4문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- MEET MEET-2012-Q05-07 (3문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- MEET MEET-2012-Q26-28 (3문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+
+## SOURCE_MISSING
+
+- LEET LEET-2008예비-Q04-08 (5문항): 2008 예비 Q4~8 canonical source is not in the local repository
+- KICE KICE-2016-수능국어B형-Q21 (1문항): KICE question is outside the local canonical reading-source scope
+- KICE KICE-2016-수능국어B형-Q22 (1문항): KICE question is outside the local canonical reading-source scope
+- KICE KICE-2016-수능국어B형-Q23 (1문항): KICE question is outside the local canonical reading-source scope
+- KICE KICE-2016-수능국어B형-Q24 (1문항): KICE question is outside the local canonical reading-source scope
+
+## HOLD
+
+- HOLD CAND-fcd53e4731e71360: existing target hold
+- HOLD CAND-ad6d7de09a4daabf: existing target hold
+- HOLD CAND-9de55c876ded09ca: existing target hold
+- HOLD CAND-9777073c4d72e4f2: existing target hold
+- AMBIGUOUS CAND-54f7e8fcf062e8f3: existing completion ambiguity
+- AMBIGUOUS CAND-e4251a0cca3afb5a: existing completion ambiguity
+- AMBIGUOUS CAND-e12c7385bc1390e8: existing completion ambiguity
+- AMBIGUOUS CAND-e9ed090f2c9faa61: existing completion ambiguity
+- AMBIGUOUS CAND-3d9fe74abe9d6d96: existing completion ambiguity
+- AMBIGUOUS CAND-488a2d7f0b777475: existing completion ambiguity
+- AMBIGUOUS CAND-2bf583b187a8d7ee: existing completion ambiguity
+- AMBIGUOUS CAND-12c0625b56f1e8c9: existing completion ambiguity
+
+## Verification
+
+- duplicate_candidate: 0
+- duplicate_question: 0
+- completed_overlap: 0
+- hold_overlap: 0
+- blind_answer_leakage: 0
+- blind_SDSS_leakage: 0
+- source_provenance_error: 0
+- passage_question_linkage_error: 0
+- empty_stem: 0
+- invalid_choice_count: 0
+- missing_required_visual: 0
+- missing_required_view_or_assumption: 0
+- output_path_conflicts: 0
+- candidate_completed_crosswalk_gap: 0
+- ready_source_not_prepared: 0
+- manifest_case_id_duplicates: 0
+- new_case_id_duplicates: 0
+- blind visual supplements: 131

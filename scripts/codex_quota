@@ -1,0 +1,141 @@
+#!/usr/bin/env python3
+import os
+import sys
+
+if os.environ.get("CX_EXTERNAL_API") == "1":
+    print('{"quota_status":"unavailable","reason":"external_api_mode"}')
+    sys.exit(0)
+
+"""Read Codex app-server rate limits and emit one machine-readable JSON object."""
+
+import json
+import selectors
+import subprocess
+import sys
+import time
+
+
+TIMEOUT_SECONDS = 20
+DIAGNOSTICS = "--diagnostics" in sys.argv
+
+
+def unavailable():
+    print(json.dumps({"quota_status": "unavailable"}, ensure_ascii=False))
+
+
+def summarize_windows(rate_limits):
+    """Keep known windows even when the other window is absent; never guess its length."""
+    used = {"primary": None, "weekly": None}
+    names = {300: "primary", 10080: "weekly"}
+    for slot in ("primary", "secondary"):
+        window = rate_limits.get(slot)
+        if not isinstance(window, dict):
+            continue
+        name = names.get(window.get("windowDurationMins"))
+        value = window.get("usedPercent")
+        if name is None or isinstance(value, bool) or not isinstance(value, (int, float)):
+            continue
+        if not 0 <= value <= 100:
+            continue
+        used[name] = value if used[name] is None else max(used[name], value)
+    known = sum(value is not None for value in used.values())
+    if not known:
+        return {"quota_status": "unavailable"}
+    output = {"quota_status": "available" if known == 2 else "partial"}
+    for name, value in used.items():
+        output[name + "_used_percent"] = value
+        output[name + "_remaining_percent"] = None if value is None else 100 - value
+    return output
+
+
+def main():
+    try:
+        process = subprocess.Popen(
+            ["codex", "app-server", "--stdio"],
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.PIPE if DIAGNOSTICS else subprocess.DEVNULL,
+            text=True,
+            bufsize=1,
+        )
+        selector = selectors.DefaultSelector()
+        selector.register(process.stdout, selectors.EVENT_READ)
+
+        def send(message):
+            process.stdin.write(json.dumps(message) + "\n")
+            process.stdin.flush()
+
+        send(
+            {
+                "id": 1,
+                "method": "initialize",
+                "params": {
+                    "clientInfo": {"name": "codex_quota", "version": "1.0"}
+                },
+            }
+        )
+        deadline = time.monotonic() + TIMEOUT_SECONDS
+        rate_limits = None
+        while time.monotonic() < deadline:
+            events = selector.select(max(0.1, deadline - time.monotonic()))
+            for key, _ in events:
+                line = key.fileobj.readline()
+                if not line:
+                    raise RuntimeError("app-server exited before quota response")
+                try:
+                    message = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if message.get("id") == 1:
+                    if "error" in message:
+                        raise RuntimeError("initialize failed: " + str(message["error"]))
+                    send({"method": "initialized"})
+                    send({"id": 2, "method": "account/rateLimits/read"})
+                elif message.get("id") == 2:
+                    if "error" in message:
+                        raise RuntimeError("rate limit read failed: " + str(message["error"]))
+                    if DIAGNOSTICS:
+                        result = message.get("result", {})
+                        buckets = dict(result.get("rateLimitsByLimitId") or {})
+                        buckets["legacy"] = result.get("rateLimits")
+                        summary = {
+                            key: {field: value.get(field) for field in ("limitId", "primary", "secondary")}
+                            if isinstance(value, dict) else value
+                            for key, value in buckets.items()
+                        }
+                        print("quota windows: " + json.dumps(summary), file=sys.stderr)
+                    result = message.get("result", {})
+                    rate_limits = (result.get("rateLimitsByLimitId") or {}).get("codex")
+                    if rate_limits is None:
+                        rate_limits = result.get("rateLimits") or {}
+                    break
+            if rate_limits is not None:
+                break
+
+        print(json.dumps(summarize_windows(rate_limits or {}), ensure_ascii=False))
+        return 0
+    except (KeyError, OSError, RuntimeError, TypeError, ValueError, AttributeError) as error:
+        if DIAGNOSTICS:
+            print("quota diagnostic: " + str(error), file=sys.stderr)
+        unavailable()
+        return 0
+    finally:
+        try:
+            process.terminate()
+            process.wait(timeout=2)
+        except (NameError, AttributeError, OSError, subprocess.TimeoutExpired):
+            try:
+                process.kill()
+            except (NameError, AttributeError, OSError):
+                pass
+        if DIAGNOSTICS:
+            try:
+                _, diagnostic = process.communicate(timeout=2)
+                if diagnostic:
+                    print(diagnostic[:4000], file=sys.stderr)
+            except (NameError, AttributeError, OSError, subprocess.TimeoutExpired, ValueError):
+                pass
+
+
+if __name__ == "__main__":
+    sys.exit(main())

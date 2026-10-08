@@ -1,0 +1,60 @@
+{
+  "blind_only": true,
+  "passage_group": "G056",
+  "case_id": "IR",
+  "assets": {
+    "two_cell_figure": {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/IR_cells.png",
+      "role": "보기의 두 셀 도형과 ㉠~㉣ 위치",
+      "dimensions_px": [1061, 384],
+      "visible_structure": [
+        "좌우 두 개의 셀 도형",
+        "각 셀의 G 표기",
+        "각 셀의 플로팅 게이트 표기",
+        "각 셀의 S 및 D 표기",
+        "하부 p형 반도체 표기",
+        "왼쪽 셀 위쪽 G 위치 ㉢, 아래쪽 p형 반도체 위치 ㉠",
+        "오른쪽 셀 위쪽 G 위치 ㉣, 아래쪽 p형 반도체 위치 ㉡"
+      ],
+      "corrected_from": {
+        "field": "visible_structure",
+        "previous_text": [
+          "왼쪽 셀 위쪽 ㉠, 아래쪽 ㉢",
+          "오른쪽 셀 위쪽 ㉡, 아래쪽 ㉣"
+        ],
+        "correction_basis": "IR_cells.png의 실제 글리프 위치 재확인",
+        "corrected_at": "2026-09-15"
+      },
+      "source_asset_path": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._기술/image9.png",
+      "source_asset_sha256": "e7cb99221c1b2038e436eb54433479728102b01474dc77afea5aedbb0f79eeea",
+      "copied_asset_sha256": "e7cb99221c1b2038e436eb54433479728102b01474dc77afea5aedbb0f79eeea"
+    },
+    "single_cell_structure": {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/IR_cell_structure.png",
+      "role": "본문 셀 구조 그림",
+      "dimensions_px": [653, 341],
+      "source_asset_path": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._기술/image8.png",
+      "source_asset_sha256": "54ca841c5b2e08fe1a012f02c7d681d0d6a5dbc9256b7164f2d97434cb133390",
+      "copied_asset_sha256": "54ca841c5b2e08fe1a012f02c7d681d0d6a5dbc9256b7164f2d97434cb133390"
+    }
+  },
+  "choice_table_source_anchor": {
+    "status": "confirmed_from_local_HWPX_choice_matrix_text",
+    "columns": ["1단계", "2단계"],
+    "row_count": 5,
+    "choice_matrix_saved_in_blind_json": true,
+    "answer_mapping_included": false
+  },
+  "source": {
+    "source_kind": "local_KICE_compilation_HWPX_extracted_visual_asset",
+    "canonical_release_pdf_verified": false,
+    "limitation": "도형과 선택표는 로컬 HWPX 편집본에서 추출·확인했다. 원배포 PDF의 직접 대조는 수행하지 않았다."
+  },
+  "exclusions": [
+    "공식 정답",
+    "SDSS 태그",
+    "기존 해설",
+    "코드명 및 의미 판정",
+    "㉠~㉣의 전압 기능 해석"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "case_id": "CT",
+  "passage_group": "G018",
+  "provenance": {
+    "exam_family": "KICE",
+    "academic_year": 2023,
+    "exam_label": "9월 모평",
+    "question_number": 13,
+    "question_id": "KICE-2023-9월_모평-Q10-13-S091~094-Q13",
+    "passage_id": "KICE-2023-9월_모평-Q10-13-S091~094",
+    "local_text_source": "고3 기출/hwpx_텍스트_연도별.md",
+    "local_text_location": "공통 지문 lines 11749-11752; 문항 094 lines 11813-11821",
+    "source_role": "sealed_source_fidelity_supplement_provenance"
+  },
+  "answer_or_sdss_included": false
+}

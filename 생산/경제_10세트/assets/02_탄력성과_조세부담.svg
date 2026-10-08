@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="390" viewBox="0 0 900 390">
+  <rect width="900" height="390" fill="white"/>
+  <style>
+    text { font-family: sans-serif; fill: #111; font-size: 18px; }
+    .axis { stroke: #111; stroke-width: 2; }
+    .curve { fill: none; stroke-width: 4; }
+    .guide { stroke: #888; stroke-width: 1.5; stroke-dasharray: 6 5; }
+  </style>
+  <text x="210" y="28" text-anchor="middle" font-weight="700">A 시장</text>
+  <line class="axis" x1="65" y1="330" x2="365" y2="330"/>
+  <line class="axis" x1="65" y1="330" x2="65" y2="55"/>
+  <text x="350" y="362">수량</text><text x="30" y="70">가격</text>
+  <line class="curve" stroke="#276fbf" x1="115" y1="65" x2="245" y2="315"/>
+  <line class="curve" stroke="#d1495b" x1="85" y1="295" x2="340" y2="85"/>
+  <text x="120" y="88" fill="#276fbf">수요</text><text x="316" y="84" fill="#d1495b">공급</text>
+
+  <text x="665" y="28" text-anchor="middle" font-weight="700">B 시장</text>
+  <line class="axis" x1="520" y1="330" x2="820" y2="330"/>
+  <line class="axis" x1="520" y1="330" x2="520" y2="55"/>
+  <text x="805" y="362">수량</text><text x="485" y="70">가격</text>
+  <line class="curve" stroke="#276fbf" x1="540" y1="80" x2="795" y2="295"/>
+  <line class="curve" stroke="#d1495b" x1="650" y1="315" x2="780" y2="65"/>
+  <text x="548" y="80" fill="#276fbf">수요</text><text x="780" y="88" fill="#d1495b">공급</text>
+</svg>

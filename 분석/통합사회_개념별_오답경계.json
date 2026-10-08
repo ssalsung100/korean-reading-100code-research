@@ -1,0 +1,2515 @@
+{
+  "integrated_view": [
+    {
+      "id": "cultural_change",
+      "name": "문화 변동의 요인",
+      "boundary_count": 6
+    },
+    {
+      "id": "acculturation",
+      "name": "문화 접변의 양상",
+      "boundary_count": 4
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 3
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 2
+    },
+    {
+      "id": "pleasure_happiness",
+      "name": "쾌락과 욕구 충족의 행복론",
+      "boundary_count": 2
+    },
+    {
+      "id": "suburbanization_metro",
+      "name": "교외화와 대도시권 확대",
+      "boundary_count": 2
+    }
+  ],
+  "temporal_view": [
+    {
+      "id": "human_rights",
+      "name": "인권의 의미와 특성",
+      "boundary_count": 1
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    }
+  ],
+  "spatial_view": [
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    }
+  ],
+  "social_view": [
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "ecocentrism",
+      "name": "생태 중심주의",
+      "boundary_count": 1
+    },
+    {
+      "id": "liberal_communitarian",
+      "name": "자유주의와 공동체주의 정의관",
+      "boundary_count": 1
+    },
+    {
+      "id": "information_society",
+      "name": "정보화와 정보 사회",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_inequality",
+      "name": "사회 불평등의 양상",
+      "boundary_count": 1
+    }
+  ],
+  "ethical_view": [
+    {
+      "id": "natural_disaster",
+      "name": "자연재해의 발생과 대응",
+      "boundary_count": 1
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "ecocentrism",
+      "name": "생태 중심주의",
+      "boundary_count": 1
+    },
+    {
+      "id": "liberal_communitarian",
+      "name": "자유주의와 공동체주의 정의관",
+      "boundary_count": 1
+    }
+  ],
+  "meaning_of_happiness": [
+    {
+      "id": "pleasure_happiness",
+      "name": "쾌락과 욕구 충족의 행복론",
+      "boundary_count": 2
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 2
+    },
+    {
+      "id": "affirmative_action",
+      "name": "적극적 우대 조치",
+      "boundary_count": 1
+    },
+    {
+      "id": "distributive_justice",
+      "name": "분배적 정의와 분배 기준",
+      "boundary_count": 1
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    },
+    {
+      "id": "corrective_justice",
+      "name": "교정적 정의",
+      "boundary_count": 1
+    }
+  ],
+  "conditions_happiness": [
+    {
+      "id": "meaning_of_happiness",
+      "name": "행복의 의미와 기준",
+      "boundary_count": 6
+    },
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 2
+    },
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "pleasure_happiness",
+      "name": "쾌락과 욕구 충족의 행복론",
+      "boundary_count": 1
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    }
+  ],
+  "eudaimonia": [
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "urbanization",
+      "name": "도시화",
+      "boundary_count": 1
+    },
+    {
+      "id": "liberal_communitarian",
+      "name": "자유주의와 공동체주의 정의관",
+      "boundary_count": 1
+    },
+    {
+      "id": "urban_problem_regeneration",
+      "name": "도시 문제와 도시 재생",
+      "boundary_count": 1
+    },
+    {
+      "id": "climate_governance",
+      "name": "기후 변화와 국제 환경 협약",
+      "boundary_count": 1
+    }
+  ],
+  "pleasure_happiness": [
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 1
+    }
+  ],
+  "stoic_happiness": [],
+  "natural_environment": [
+    {
+      "id": "climate_regions",
+      "name": "기후 지역과 생활 양식",
+      "boundary_count": 5
+    },
+    {
+      "id": "rights_history",
+      "name": "인권 보장의 역사",
+      "boundary_count": 2
+    },
+    {
+      "id": "climate_graph_reasoning",
+      "name": "기후 그래프 판독과 기후 지역 추론",
+      "boundary_count": 2
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    },
+    {
+      "id": "financial_properties",
+      "name": "금융 자산의 유형과 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "time_value_of_money",
+      "name": "화폐의 시간 가치와 복리",
+      "boundary_count": 1
+    }
+  ],
+  "climate_regions": [],
+  "climate_graph_reasoning": [
+    {
+      "id": "climate_regions",
+      "name": "기후 지역과 생활 양식",
+      "boundary_count": 2
+    }
+  ],
+  "natural_disaster": [
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 2
+    },
+    {
+      "id": "meaning_of_happiness",
+      "name": "행복의 의미와 기준",
+      "boundary_count": 1
+    },
+    {
+      "id": "landforms_and_life",
+      "name": "지형 형성과 인간 생활",
+      "boundary_count": 1
+    }
+  ],
+  "disaster_risk_management": [
+    {
+      "id": "landforms_and_life",
+      "name": "지형 형성과 인간 생활",
+      "boundary_count": 1
+    }
+  ],
+  "environmental_problem": [
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 4
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 2
+    },
+    {
+      "id": "market_failure",
+      "name": "시장 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 2
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "economic_systems",
+      "name": "시장경제·계획경제·혼합경제",
+      "boundary_count": 2
+    }
+  ],
+  "anthropocentrism": [
+    {
+      "id": "financial_properties",
+      "name": "금융 자산의 유형과 속성",
+      "boundary_count": 2
+    },
+    {
+      "id": "time_value_of_money",
+      "name": "화폐의 시간 가치와 복리",
+      "boundary_count": 2
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    },
+    {
+      "id": "meaning_of_happiness",
+      "name": "행복의 의미와 기준",
+      "boundary_count": 1
+    },
+    {
+      "id": "sustainable_development",
+      "name": "지속 가능한 발전",
+      "boundary_count": 1
+    }
+  ],
+  "animal_liberation": [
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    },
+    {
+      "id": "meaning_of_happiness",
+      "name": "행복의 의미와 기준",
+      "boundary_count": 1
+    },
+    {
+      "id": "sustainable_development",
+      "name": "지속 가능한 발전",
+      "boundary_count": 1
+    }
+  ],
+  "life_centrism": [
+    {
+      "id": "financial_properties",
+      "name": "금융 자산의 유형과 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "time_value_of_money",
+      "name": "화폐의 시간 가치와 복리",
+      "boundary_count": 1
+    }
+  ],
+  "ecocentrism": [
+    {
+      "id": "financial_properties",
+      "name": "금융 자산의 유형과 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "time_value_of_money",
+      "name": "화폐의 시간 가치와 복리",
+      "boundary_count": 1
+    }
+  ],
+  "sustainable_development": [
+    {
+      "id": "biodiversity",
+      "name": "생물 다양성과 생태계 보전",
+      "boundary_count": 1
+    },
+    {
+      "id": "anthropocentrism",
+      "name": "인간 중심주의",
+      "boundary_count": 1
+    },
+    {
+      "id": "economic_indicators",
+      "name": "경제 지표와 금융 의사 결정",
+      "boundary_count": 1
+    },
+    {
+      "id": "business_cycle",
+      "name": "경기 변동과 경제 성장",
+      "boundary_count": 1
+    },
+    {
+      "id": "climate_governance",
+      "name": "기후 변화와 국제 환경 협약",
+      "boundary_count": 1
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    }
+  ],
+  "climate_governance": [
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 1
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    }
+  ],
+  "culture": [
+    {
+      "id": "cultural_universality",
+      "name": "문화의 보편성과 다양성",
+      "boundary_count": 7
+    },
+    {
+      "id": "cultural_change",
+      "name": "문화 변동의 요인",
+      "boundary_count": 3
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 3
+    },
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 3
+    },
+    {
+      "id": "acculturation",
+      "name": "문화 접변의 양상",
+      "boundary_count": 2
+    },
+    {
+      "id": "multicultural_policy",
+      "name": "다문화 정책과 사회 통합",
+      "boundary_count": 2
+    }
+  ],
+  "cultural_universality": [
+    {
+      "id": "cultural_identity",
+      "name": "문화적 정체성과 다문화 사회",
+      "boundary_count": 1
+    },
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 1
+    }
+  ],
+  "attitude_culture": [
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 2
+    },
+    {
+      "id": "ethical_view",
+      "name": "윤리적 관점",
+      "boundary_count": 1
+    },
+    {
+      "id": "new_rights",
+      "name": "현대 사회의 새로운 인권",
+      "boundary_count": 1
+    },
+    {
+      "id": "cultural_regions",
+      "name": "문화권의 형성과 세계 문화권",
+      "boundary_count": 1
+    },
+    {
+      "id": "globalization",
+      "name": "세계화의 양상과 영향",
+      "boundary_count": 1
+    },
+    {
+      "id": "cultural_universality",
+      "name": "문화의 보편성과 다양성",
+      "boundary_count": 1
+    }
+  ],
+  "extreme_relativism": [],
+  "cultural_change": [
+    {
+      "id": "cultural_universality",
+      "name": "문화의 보편성과 다양성",
+      "boundary_count": 3
+    },
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 1
+    },
+    {
+      "id": "population_migration",
+      "name": "인구 이동과 국제 이주",
+      "boundary_count": 1
+    },
+    {
+      "id": "information_society",
+      "name": "정보화와 정보 사회",
+      "boundary_count": 1
+    }
+  ],
+  "acculturation": [
+    {
+      "id": "cultural_universality",
+      "name": "문화의 보편성과 다양성",
+      "boundary_count": 3
+    }
+  ],
+  "cultural_lag": [],
+  "cultural_identity": [
+    {
+      "id": "cultural_universality",
+      "name": "문화의 보편성과 다양성",
+      "boundary_count": 4
+    },
+    {
+      "id": "multicultural_policy",
+      "name": "다문화 정책과 사회 통합",
+      "boundary_count": 2
+    },
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 2
+    },
+    {
+      "id": "globalization",
+      "name": "세계화의 양상과 영향",
+      "boundary_count": 1
+    },
+    {
+      "id": "industrial_social_change",
+      "name": "산업화·도시화의 사회 변화",
+      "boundary_count": 1
+    },
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 1
+    }
+  ],
+  "religious_landscape": [
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 1
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 1
+    }
+  ],
+  "industrialization": [
+    {
+      "id": "rights_history",
+      "name": "인권 보장의 역사",
+      "boundary_count": 2
+    },
+    {
+      "id": "conditions_happiness",
+      "name": "행복한 삶의 조건",
+      "boundary_count": 1
+    },
+    {
+      "id": "moral_practice_happiness",
+      "name": "도덕적 실천과 행복",
+      "boundary_count": 1
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "global_city",
+      "name": "세계 도시와 도시 체계",
+      "boundary_count": 1
+    },
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 1
+    }
+  ],
+  "urbanization": [
+    {
+      "id": "suburbanization_metro",
+      "name": "교외화와 대도시권 확대",
+      "boundary_count": 2
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 1
+    },
+    {
+      "id": "spatial_view",
+      "name": "공간적 관점",
+      "boundary_count": 1
+    }
+  ],
+  "urban_structure": [
+    {
+      "id": "global_city",
+      "name": "세계 도시와 도시 체계",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    },
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 1
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    },
+    {
+      "id": "cultural_universality",
+      "name": "문화의 보편성과 다양성",
+      "boundary_count": 1
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 1
+    }
+  ],
+  "industrial_social_change": [],
+  "transport_development": [
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 2
+    },
+    {
+      "id": "national_income_accounting",
+      "name": "국내 총생산과 국민소득의 측정",
+      "boundary_count": 1
+    },
+    {
+      "id": "low_birth_aging",
+      "name": "저출산·고령화",
+      "boundary_count": 1
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 1
+    },
+    {
+      "id": "regional_inequality",
+      "name": "지역 격차와 공간 불평등",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    }
+  ],
+  "information_society": [
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 2
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 2
+    },
+    {
+      "id": "national_income_accounting",
+      "name": "국내 총생산과 국민소득의 측정",
+      "boundary_count": 1
+    },
+    {
+      "id": "regional_inequality",
+      "name": "지역 격차와 공간 불평등",
+      "boundary_count": 1
+    },
+    {
+      "id": "cultural_change",
+      "name": "문화 변동의 요인",
+      "boundary_count": 1
+    },
+    {
+      "id": "punishment_theories",
+      "name": "응보주의와 공리주의 형벌론",
+      "boundary_count": 1
+    }
+  ],
+  "digital_divide": [
+    {
+      "id": "cultural_change",
+      "name": "문화 변동의 요인",
+      "boundary_count": 1
+    },
+    {
+      "id": "punishment_theories",
+      "name": "응보주의와 공리주의 형벌론",
+      "boundary_count": 1
+    }
+  ],
+  "digital_citizenship": [
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 1
+    }
+  ],
+  "regional_inequality": [
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    },
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 1
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    },
+    {
+      "id": "multicultural_policy",
+      "name": "다문화 정책과 사회 통합",
+      "boundary_count": 1
+    },
+    {
+      "id": "low_birth_aging",
+      "name": "저출산·고령화",
+      "boundary_count": 1
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    }
+  ],
+  "human_rights": [
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 5
+    },
+    {
+      "id": "cultural_change",
+      "name": "문화 변동의 요인",
+      "boundary_count": 3
+    },
+    {
+      "id": "capitalism_history",
+      "name": "자본주의의 역사적 전개",
+      "boundary_count": 2
+    },
+    {
+      "id": "environmental_rights",
+      "name": "환경권과 안전권",
+      "boundary_count": 2
+    },
+    {
+      "id": "cultural_identity",
+      "name": "문화적 정체성과 다문화 사회",
+      "boundary_count": 2
+    },
+    {
+      "id": "acculturation",
+      "name": "문화 접변의 양상",
+      "boundary_count": 2
+    }
+  ],
+  "rights_history": [
+    {
+      "id": "constitutional_rights",
+      "name": "헌법과 기본권 보장",
+      "boundary_count": 2
+    },
+    {
+      "id": "environmental_rights",
+      "name": "환경권과 안전권",
+      "boundary_count": 2
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 2
+    },
+    {
+      "id": "cultural_identity",
+      "name": "문화적 정체성과 다문화 사회",
+      "boundary_count": 2
+    },
+    {
+      "id": "rights_categories",
+      "name": "기본권의 유형",
+      "boundary_count": 1
+    },
+    {
+      "id": "information_society",
+      "name": "정보화와 정보 사회",
+      "boundary_count": 1
+    }
+  ],
+  "constitutional_rights": [
+    {
+      "id": "civil_disobedience",
+      "name": "시민 불복종",
+      "boundary_count": 5
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 3
+    },
+    {
+      "id": "rights_history",
+      "name": "인권 보장의 역사",
+      "boundary_count": 2
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 2
+    },
+    {
+      "id": "market_failure",
+      "name": "시장 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 2
+    }
+  ],
+  "rights_categories": [
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 3
+    },
+    {
+      "id": "civil_disobedience",
+      "name": "시민 불복종",
+      "boundary_count": 3
+    },
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 1
+    },
+    {
+      "id": "constitutional_rights",
+      "name": "헌법과 기본권 보장",
+      "boundary_count": 1
+    },
+    {
+      "id": "human_rights",
+      "name": "인권의 의미와 특성",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    }
+  ],
+  "rights_limits": [],
+  "new_rights": [],
+  "civil_disobedience": [
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 2
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 2
+    }
+  ],
+  "democratic_participation": [
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 2
+    }
+  ],
+  "labor_rights": [],
+  "justice": [
+    {
+      "id": "social_inequality",
+      "name": "사회 불평등의 양상",
+      "boundary_count": 6
+    },
+    {
+      "id": "civil_disobedience",
+      "name": "시민 불복종",
+      "boundary_count": 3
+    },
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 3
+    },
+    {
+      "id": "distributive_justice",
+      "name": "분배적 정의와 분배 기준",
+      "boundary_count": 3
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 3
+    },
+    {
+      "id": "equality_principles",
+      "name": "절대적 평등과 상대적 평등",
+      "boundary_count": 2
+    }
+  ],
+  "distributive_justice": [
+    {
+      "id": "social_inequality",
+      "name": "사회 불평등의 양상",
+      "boundary_count": 1
+    }
+  ],
+  "rawls": [
+    {
+      "id": "social_inequality",
+      "name": "사회 불평등의 양상",
+      "boundary_count": 3
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 2
+    },
+    {
+      "id": "liberal_communitarian",
+      "name": "자유주의와 공동체주의 정의관",
+      "boundary_count": 1
+    },
+    {
+      "id": "distributive_justice",
+      "name": "분배적 정의와 분배 기준",
+      "boundary_count": 1
+    }
+  ],
+  "nozick": [
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 2
+    },
+    {
+      "id": "rawls",
+      "name": "롤스의 정의론",
+      "boundary_count": 1
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "distributive_justice",
+      "name": "분배적 정의와 분배 기준",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_inequality",
+      "name": "사회 불평등의 양상",
+      "boundary_count": 1
+    }
+  ],
+  "social_inequality": [
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 2
+    },
+    {
+      "id": "multicultural_policy",
+      "name": "다문화 정책과 사회 통합",
+      "boundary_count": 1
+    }
+  ],
+  "welfare_policy": [
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 3
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    }
+  ],
+  "affirmative_action": [
+    {
+      "id": "equality_principles",
+      "name": "절대적 평등과 상대적 평등",
+      "boundary_count": 1
+    }
+  ],
+  "scarcity": [
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 3
+    },
+    {
+      "id": "economic_activity_flow",
+      "name": "경제 활동의 유형과 국민 경제 순환",
+      "boundary_count": 3
+    },
+    {
+      "id": "opportunity_cost",
+      "name": "기회비용",
+      "boundary_count": 3
+    },
+    {
+      "id": "economic_surplus_efficiency",
+      "name": "소비자·생산자 잉여와 자원 배분 효율성",
+      "boundary_count": 2
+    },
+    {
+      "id": "business_cycle",
+      "name": "경기 변동과 경제 성장",
+      "boundary_count": 1
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 1
+    }
+  ],
+  "rational_choice": [
+    {
+      "id": "opportunity_cost",
+      "name": "기회비용",
+      "boundary_count": 9
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 3
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "market_failure",
+      "name": "시장 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "low_birth_aging",
+      "name": "저출산·고령화",
+      "boundary_count": 1
+    }
+  ],
+  "opportunity_cost": [
+    {
+      "id": "capitalism_history",
+      "name": "자본주의의 역사적 전개",
+      "boundary_count": 1
+    },
+    {
+      "id": "welfare_policy",
+      "name": "사회 복지와 불평등 완화 정책",
+      "boundary_count": 1
+    },
+    {
+      "id": "market_principle",
+      "name": "시장 경제의 원리",
+      "boundary_count": 1
+    }
+  ],
+  "market_principle": [
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 2
+    },
+    {
+      "id": "welfare_policy",
+      "name": "사회 복지와 불평등 완화 정책",
+      "boundary_count": 1
+    },
+    {
+      "id": "economic_activity_flow",
+      "name": "경제 활동의 유형과 국민 경제 순환",
+      "boundary_count": 1
+    },
+    {
+      "id": "east_asia_conflict",
+      "name": "동아시아 역사 갈등과 평화",
+      "boundary_count": 1
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    },
+    {
+      "id": "economic_surplus_efficiency",
+      "name": "소비자·생산자 잉여와 자원 배분 효율성",
+      "boundary_count": 1
+    }
+  ],
+  "market_failure": [
+    {
+      "id": "information_asymmetry",
+      "name": "정보 비대칭성과 역선택",
+      "boundary_count": 3
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "market_principle",
+      "name": "시장 경제의 원리",
+      "boundary_count": 1
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    },
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 1
+    },
+    {
+      "id": "externality_correction",
+      "name": "외부 효과의 사회적 최적과 교정",
+      "boundary_count": 1
+    }
+  ],
+  "government_failure": [
+    {
+      "id": "market_principle",
+      "name": "시장 경제의 원리",
+      "boundary_count": 1
+    },
+    {
+      "id": "welfare_policy",
+      "name": "사회 복지와 불평등 완화 정책",
+      "boundary_count": 1
+    },
+    {
+      "id": "externality_correction",
+      "name": "외부 효과의 사회적 최적과 교정",
+      "boundary_count": 1
+    },
+    {
+      "id": "tax_subsidy_incidence",
+      "name": "조세·보조금의 귀착과 후생 효과",
+      "boundary_count": 1
+    }
+  ],
+  "corporate_responsibility": [
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 1
+    }
+  ],
+  "international_trade": [
+    {
+      "id": "opportunity_cost",
+      "name": "기회비용",
+      "boundary_count": 13
+    },
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 7
+    },
+    {
+      "id": "fossil_fuel",
+      "name": "화석 에너지 자원",
+      "boundary_count": 2
+    },
+    {
+      "id": "urban_structure",
+      "name": "도시 내부 구조와 공간 분화",
+      "boundary_count": 2
+    },
+    {
+      "id": "production_possibility",
+      "name": "생산 가능 곡선과 특화",
+      "boundary_count": 2
+    },
+    {
+      "id": "localization",
+      "name": "지역화와 장소 마케팅",
+      "boundary_count": 2
+    }
+  ],
+  "comparative_advantage": [
+    {
+      "id": "opportunity_cost",
+      "name": "기회비용",
+      "boundary_count": 12
+    },
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 6
+    },
+    {
+      "id": "production_possibility",
+      "name": "생산 가능 곡선과 특화",
+      "boundary_count": 2
+    }
+  ],
+  "financial_life": [
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 3
+    },
+    {
+      "id": "exchange_rate_effects",
+      "name": "환율 변동의 무역·자본 이동 효과",
+      "boundary_count": 1
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "multinational_corporation",
+      "name": "다국적 기업과 공간적 분업",
+      "boundary_count": 1
+    },
+    {
+      "id": "economic_indicators",
+      "name": "경제 지표와 금융 의사 결정",
+      "boundary_count": 1
+    }
+  ],
+  "globalization": [
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 11
+    },
+    {
+      "id": "multinational_corporation",
+      "name": "다국적 기업과 공간적 분업",
+      "boundary_count": 5
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 3
+    },
+    {
+      "id": "fair_trade",
+      "name": "공정 무역",
+      "boundary_count": 3
+    },
+    {
+      "id": "global_city",
+      "name": "세계 도시와 도시 체계",
+      "boundary_count": 1
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    }
+  ],
+  "multinational_corporation": [
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 12
+    },
+    {
+      "id": "fair_trade",
+      "name": "공정 무역",
+      "boundary_count": 5
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 2
+    },
+    {
+      "id": "globalization",
+      "name": "세계화의 양상과 영향",
+      "boundary_count": 2
+    },
+    {
+      "id": "localization",
+      "name": "지역화와 장소 마케팅",
+      "boundary_count": 2
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    }
+  ],
+  "global_city": [
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 4
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 2
+    },
+    {
+      "id": "globalization",
+      "name": "세계화의 양상과 영향",
+      "boundary_count": 2
+    },
+    {
+      "id": "localization",
+      "name": "지역화와 장소 마케팅",
+      "boundary_count": 1
+    },
+    {
+      "id": "geographical_indication",
+      "name": "지리적 표시제와 지역 상품의 가치",
+      "boundary_count": 1
+    },
+    {
+      "id": "fair_trade",
+      "name": "공정 무역",
+      "boundary_count": 1
+    }
+  ],
+  "fair_trade": [
+    {
+      "id": "localization",
+      "name": "지역화와 장소 마케팅",
+      "boundary_count": 1
+    },
+    {
+      "id": "geographical_indication",
+      "name": "지리적 표시제와 지역 상품의 가치",
+      "boundary_count": 1
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "globalization_problems",
+      "name": "세계화의 문제와 문화 획일화",
+      "boundary_count": 1
+    },
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 1
+    },
+    {
+      "id": "multinational_corporation",
+      "name": "다국적 기업과 공간적 분업",
+      "boundary_count": 1
+    }
+  ],
+  "international_peace": [
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 7
+    },
+    {
+      "id": "capitalism_history",
+      "name": "자본주의의 역사적 전개",
+      "boundary_count": 2
+    },
+    {
+      "id": "fossil_fuel",
+      "name": "화석 에너지 자원",
+      "boundary_count": 2
+    },
+    {
+      "id": "religious_landscape",
+      "name": "종교의 공간적 확산과 문화 경관",
+      "boundary_count": 2
+    },
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 2
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    }
+  ],
+  "peace_theory": [
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 5
+    },
+    {
+      "id": "fossil_fuel",
+      "name": "화석 에너지 자원",
+      "boundary_count": 1
+    }
+  ],
+  "division_unification": [
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 2
+    },
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 2
+    },
+    {
+      "id": "fair_trade",
+      "name": "공정 무역",
+      "boundary_count": 1
+    },
+    {
+      "id": "global_city",
+      "name": "세계 도시와 도시 체계",
+      "boundary_count": 1
+    },
+    {
+      "id": "multinational_corporation",
+      "name": "다국적 기업과 공간적 분업",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_inequality",
+      "name": "사회 불평등의 양상",
+      "boundary_count": 1
+    }
+  ],
+  "east_asia_conflict": [
+    {
+      "id": "religious_landscape",
+      "name": "종교의 공간적 확산과 문화 경관",
+      "boundary_count": 2
+    },
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 2
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    },
+    {
+      "id": "fair_trade",
+      "name": "공정 무역",
+      "boundary_count": 1
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    }
+  ],
+  "population_structure": [
+    {
+      "id": "multicultural_policy",
+      "name": "다문화 정책과 사회 통합",
+      "boundary_count": 2
+    },
+    {
+      "id": "information_society",
+      "name": "정보화와 정보 사회",
+      "boundary_count": 1
+    },
+    {
+      "id": "population_indicators",
+      "name": "인구 지표와 인구 구조 분석",
+      "boundary_count": 1
+    },
+    {
+      "id": "division_unification",
+      "name": "한반도 분단과 통일",
+      "boundary_count": 1
+    },
+    {
+      "id": "sustainable_development",
+      "name": "지속 가능한 발전",
+      "boundary_count": 1
+    },
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 1
+    }
+  ],
+  "low_birth_aging": [
+    {
+      "id": "landforms_and_life",
+      "name": "지형 형성과 인간 생활",
+      "boundary_count": 1
+    }
+  ],
+  "population_migration": [
+    {
+      "id": "landforms_and_life",
+      "name": "지형 형성과 인간 생활",
+      "boundary_count": 3
+    },
+    {
+      "id": "climate_regions",
+      "name": "기후 지역과 생활 양식",
+      "boundary_count": 1
+    },
+    {
+      "id": "religious_landscape",
+      "name": "종교의 공간적 확산과 문화 경관",
+      "boundary_count": 1
+    },
+    {
+      "id": "future_society",
+      "name": "미래 사회의 변화와 대응",
+      "boundary_count": 1
+    },
+    {
+      "id": "fourth_industrial_revolution",
+      "name": "제4차 산업 혁명과 인공지능 사회",
+      "boundary_count": 1
+    }
+  ],
+  "resource_distribution": [
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 11
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 8
+    },
+    {
+      "id": "energy_mix_transition",
+      "name": "에너지 믹스와 에너지 전환 경로",
+      "boundary_count": 4
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 3
+    },
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 3
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 3
+    }
+  ],
+  "fossil_fuel": [
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 13
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 9
+    },
+    {
+      "id": "energy_mix_transition",
+      "name": "에너지 믹스와 에너지 전환 경로",
+      "boundary_count": 3
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 2
+    },
+    {
+      "id": "east_asia_conflict",
+      "name": "동아시아 역사 갈등과 평화",
+      "boundary_count": 1
+    }
+  ],
+  "renewable_energy": [
+    {
+      "id": "digital_citizenship",
+      "name": "디지털 시민성과 사이버 공간의 권리·책임",
+      "boundary_count": 3
+    },
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 2
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 2
+    },
+    {
+      "id": "landforms_and_life",
+      "name": "지형 형성과 인간 생활",
+      "boundary_count": 2
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    },
+    {
+      "id": "world_citizenship",
+      "name": "세계시민 의식과 국제적 연대",
+      "boundary_count": 1
+    }
+  ],
+  "future_society": [
+    {
+      "id": "national_income_accounting",
+      "name": "국내 총생산과 국민소득의 측정",
+      "boundary_count": 1
+    },
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 1
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    },
+    {
+      "id": "eudaimonia",
+      "name": "덕과 자아실현의 행복론",
+      "boundary_count": 1
+    }
+  ],
+  "integrated_inquiry_attitudes": [],
+  "eastern_happiness": [],
+  "settlement_environment": [
+    {
+      "id": "meaning_of_happiness",
+      "name": "행복의 의미와 기준",
+      "boundary_count": 4
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    },
+    {
+      "id": "constitutional_rights",
+      "name": "헌법과 기본권 보장",
+      "boundary_count": 1
+    }
+  ],
+  "democracy_happiness": [
+    {
+      "id": "meaning_of_happiness",
+      "name": "행복의 의미와 기준",
+      "boundary_count": 2
+    },
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 2
+    },
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    }
+  ],
+  "moral_practice_happiness": [],
+  "environmental_rights": [],
+  "biodiversity": [],
+  "environmental_capacity": [],
+  "environmental_governance": [
+    {
+      "id": "low_birth_aging",
+      "name": "저출산·고령화",
+      "boundary_count": 1
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "cultural_identity",
+      "name": "문화적 정체성과 다문화 사회",
+      "boundary_count": 1
+    },
+    {
+      "id": "market_principle",
+      "name": "시장 경제의 원리",
+      "boundary_count": 1
+    }
+  ],
+  "ecological_citizen": [],
+  "environmental_assessment": [],
+  "cultural_regions": [
+    {
+      "id": "landforms_and_life",
+      "name": "지형 형성과 인간 생활",
+      "boundary_count": 1
+    }
+  ],
+  "traditional_culture": [],
+  "multicultural_policy": [
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 2
+    },
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 2
+    },
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 1
+    },
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    },
+    {
+      "id": "equality_principles",
+      "name": "절대적 평등과 상대적 평등",
+      "boundary_count": 1
+    }
+  ],
+  "regional_research": [
+    {
+      "id": "information_society",
+      "name": "정보화와 정보 사회",
+      "boundary_count": 4
+    },
+    {
+      "id": "population_indicators",
+      "name": "인구 지표와 인구 구조 분석",
+      "boundary_count": 2
+    },
+    {
+      "id": "settlement_environment",
+      "name": "질 높은 정주 환경",
+      "boundary_count": 1
+    },
+    {
+      "id": "urban_structure",
+      "name": "도시 내부 구조와 공간 분화",
+      "boundary_count": 1
+    },
+    {
+      "id": "natural_environment",
+      "name": "자연환경과 인간 생활",
+      "boundary_count": 1
+    },
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 1
+    }
+  ],
+  "urban_problem_regeneration": [
+    {
+      "id": "information_society",
+      "name": "정보화와 정보 사회",
+      "boundary_count": 2
+    },
+    {
+      "id": "settlement_environment",
+      "name": "질 높은 정주 환경",
+      "boundary_count": 1
+    },
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 1
+    }
+  ],
+  "suburbanization_metro": [
+    {
+      "id": "social_view",
+      "name": "사회적 관점",
+      "boundary_count": 1
+    },
+    {
+      "id": "digital_divide",
+      "name": "정보 격차와 정보 윤리",
+      "boundary_count": 1
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    }
+  ],
+  "smart_sustainable_city": [],
+  "rule_of_law_separation": [
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    }
+  ],
+  "rights_remedies": [
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 2
+    },
+    {
+      "id": "rule_of_law_separation",
+      "name": "법치주의와 권력 분립",
+      "boundary_count": 1
+    },
+    {
+      "id": "civil_disobedience",
+      "name": "시민 불복종",
+      "boundary_count": 1
+    },
+    {
+      "id": "affirmative_action",
+      "name": "적극적 우대 조치",
+      "boundary_count": 1
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    }
+  ],
+  "vulnerable_human_rights": [
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 3
+    },
+    {
+      "id": "distributive_justice",
+      "name": "분배적 정의와 분배 기준",
+      "boundary_count": 3
+    },
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 2
+    },
+    {
+      "id": "equality_principles",
+      "name": "절대적 평등과 상대적 평등",
+      "boundary_count": 2
+    },
+    {
+      "id": "affirmative_action",
+      "name": "적극적 우대 조치",
+      "boundary_count": 2
+    },
+    {
+      "id": "constitutional_rights",
+      "name": "헌법과 기본권 보장",
+      "boundary_count": 1
+    }
+  ],
+  "corrective_justice": [
+    {
+      "id": "social_inequality",
+      "name": "사회 불평등의 양상",
+      "boundary_count": 1
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 1
+    }
+  ],
+  "punishment_theories": [],
+  "liberal_communitarian": [],
+  "equality_principles": [],
+  "capitalism_history": [
+    {
+      "id": "fossil_fuel",
+      "name": "화석 에너지 자원",
+      "boundary_count": 2
+    },
+    {
+      "id": "urban_structure",
+      "name": "도시 내부 구조와 공간 분화",
+      "boundary_count": 2
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "welfare_policy",
+      "name": "사회 복지와 불평등 완화 정책",
+      "boundary_count": 1
+    },
+    {
+      "id": "business_cycle",
+      "name": "경기 변동과 경제 성장",
+      "boundary_count": 1
+    }
+  ],
+  "economic_systems": [
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 4
+    },
+    {
+      "id": "business_cycle",
+      "name": "경기 변동과 경제 성장",
+      "boundary_count": 2
+    },
+    {
+      "id": "economic_surplus_efficiency",
+      "name": "소비자·생산자 잉여와 자원 배분 효율성",
+      "boundary_count": 2
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 1
+    },
+    {
+      "id": "scarcity",
+      "name": "희소성과 경제 문제",
+      "boundary_count": 1
+    },
+    {
+      "id": "economic_actor_roles",
+      "name": "가계·기업·정부의 경제적 역할",
+      "boundary_count": 1
+    }
+  ],
+  "external_effects": [
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 4
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 2
+    },
+    {
+      "id": "market_failure",
+      "name": "시장 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 2
+    },
+    {
+      "id": "economic_systems",
+      "name": "시장경제·계획경제·혼합경제",
+      "boundary_count": 2
+    },
+    {
+      "id": "externality_correction",
+      "name": "외부 효과의 사회적 최적과 교정",
+      "boundary_count": 1
+    }
+  ],
+  "public_goods": [
+    {
+      "id": "information_asymmetry",
+      "name": "정보 비대칭성과 역선택",
+      "boundary_count": 2
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    },
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 1
+    }
+  ],
+  "information_asymmetry": [],
+  "monopoly_competition": [
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 1
+    },
+    {
+      "id": "price_level_inflation",
+      "name": "물가 지수와 인플레이션",
+      "boundary_count": 1
+    },
+    {
+      "id": "business_cycle",
+      "name": "경기 변동과 경제 성장",
+      "boundary_count": 1
+    },
+    {
+      "id": "capitalism_history",
+      "name": "자본주의의 역사적 전개",
+      "boundary_count": 1
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    }
+  ],
+  "economic_actor_roles": [
+    {
+      "id": "monopoly_competition",
+      "name": "독과점과 경쟁 정책",
+      "boundary_count": 1
+    }
+  ],
+  "ethical_consumption": [],
+  "financial_properties": [
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 3
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "multinational_corporation",
+      "name": "다국적 기업과 공간적 분업",
+      "boundary_count": 1
+    },
+    {
+      "id": "economic_indicators",
+      "name": "경제 지표와 금융 의사 결정",
+      "boundary_count": 1
+    }
+  ],
+  "economic_indicators": [
+    {
+      "id": "capitalism_history",
+      "name": "자본주의의 역사적 전개",
+      "boundary_count": 4
+    },
+    {
+      "id": "fossil_fuel",
+      "name": "화석 에너지 자원",
+      "boundary_count": 2
+    },
+    {
+      "id": "business_cycle",
+      "name": "경기 변동과 경제 성장",
+      "boundary_count": 2
+    },
+    {
+      "id": "exchange_rate_effects",
+      "name": "환율 변동의 무역·자본 이동 효과",
+      "boundary_count": 1
+    }
+  ],
+  "production_possibility": [
+    {
+      "id": "opportunity_cost",
+      "name": "기회비용",
+      "boundary_count": 9
+    },
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 5
+    },
+    {
+      "id": "comparative_advantage",
+      "name": "절대 우위와 비교 우위",
+      "boundary_count": 1
+    }
+  ],
+  "economic_activity_flow": [
+    {
+      "id": "externality_correction",
+      "name": "외부 효과의 사회적 최적과 교정",
+      "boundary_count": 2
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 1
+    },
+    {
+      "id": "tax_subsidy_incidence",
+      "name": "조세·보조금의 귀착과 후생 효과",
+      "boundary_count": 1
+    }
+  ],
+  "economic_agent_objectives": [
+    {
+      "id": "economic_activity_flow",
+      "name": "경제 활동의 유형과 국민 경제 순환",
+      "boundary_count": 2
+    }
+  ],
+  "marginal_analysis": [],
+  "consumer_choice_budget": [],
+  "firm_production_cost": [],
+  "demand_supply": [
+    {
+      "id": "externality_correction",
+      "name": "외부 효과의 사회적 최적과 교정",
+      "boundary_count": 1
+    },
+    {
+      "id": "tax_subsidy_incidence",
+      "name": "조세·보조금의 귀착과 후생 효과",
+      "boundary_count": 1
+    }
+  ],
+  "demand_supply_shift": [],
+  "simultaneous_market_shift": [],
+  "elasticity": [],
+  "economic_surplus_efficiency": [],
+  "price_regulation": [],
+  "tax_subsidy_incidence": [],
+  "tax_structure": [],
+  "externality_correction": [
+    {
+      "id": "market_failure",
+      "name": "시장 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 2
+    },
+    {
+      "id": "low_birth_aging",
+      "name": "저출산·고령화",
+      "boundary_count": 1
+    },
+    {
+      "id": "vulnerable_human_rights",
+      "name": "사회적 약자와 인권 문제",
+      "boundary_count": 1
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 1
+    }
+  ],
+  "national_income_accounting": [
+    {
+      "id": "cultural_identity",
+      "name": "문화적 정체성과 다문화 사회",
+      "boundary_count": 1
+    }
+  ],
+  "price_level_inflation": [],
+  "employment_indicators": [
+    {
+      "id": "information_society",
+      "name": "정보화와 정보 사회",
+      "boundary_count": 1
+    },
+    {
+      "id": "population_indicators",
+      "name": "인구 지표와 인구 구조 분석",
+      "boundary_count": 1
+    }
+  ],
+  "labor_market_wage": [
+    {
+      "id": "opportunity_cost",
+      "name": "기회비용",
+      "boundary_count": 3
+    }
+  ],
+  "discouraged_worker_effect": [],
+  "business_cycle": [],
+  "aggregate_demand_supply": [],
+  "nominal_real_indicators": [],
+  "inflation_types": [],
+  "fiscal_policy": [],
+  "fiscal_balance": [],
+  "monetary_policy": [],
+  "policy_mix": [],
+  "terms_of_trade": [
+    {
+      "id": "opportunity_cost",
+      "name": "기회비용",
+      "boundary_count": 3
+    },
+    {
+      "id": "rational_choice",
+      "name": "합리적 선택과 비용·편익",
+      "boundary_count": 2
+    }
+  ],
+  "trade_policy_welfare": [],
+  "foreign_exchange_market": [],
+  "exchange_rate_effects": [],
+  "cross_exchange_rate": [],
+  "balance_of_payments": [],
+  "household_income_expenditure": [],
+  "financial_return_risk": [
+    {
+      "id": "economic_indicators",
+      "name": "경제 지표와 금융 의사 결정",
+      "boundary_count": 1
+    }
+  ],
+  "time_value_of_money": [],
+  "real_interest_return": [],
+  "compound_rate_change": [],
+  "localization": [
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 11
+    },
+    {
+      "id": "multinational_corporation",
+      "name": "다국적 기업과 공간적 분업",
+      "boundary_count": 4
+    },
+    {
+      "id": "fair_trade",
+      "name": "공정 무역",
+      "boundary_count": 4
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 3
+    },
+    {
+      "id": "global_city",
+      "name": "세계 도시와 도시 체계",
+      "boundary_count": 1
+    },
+    {
+      "id": "justice",
+      "name": "정의의 의미",
+      "boundary_count": 1
+    }
+  ],
+  "geographical_indication": [
+    {
+      "id": "international_trade",
+      "name": "국제 분업과 무역",
+      "boundary_count": 8
+    },
+    {
+      "id": "multinational_corporation",
+      "name": "다국적 기업과 공간적 분업",
+      "boundary_count": 5
+    },
+    {
+      "id": "culture",
+      "name": "문화의 의미와 속성",
+      "boundary_count": 3
+    },
+    {
+      "id": "fair_trade",
+      "name": "공정 무역",
+      "boundary_count": 3
+    },
+    {
+      "id": "global_city",
+      "name": "세계 도시와 도시 체계",
+      "boundary_count": 1
+    },
+    {
+      "id": "globalization_problems",
+      "name": "세계화의 문제와 문화 획일화",
+      "boundary_count": 1
+    }
+  ],
+  "globalization_problems": [
+    {
+      "id": "extreme_relativism",
+      "name": "극단적 문화 상대주의의 한계",
+      "boundary_count": 1
+    }
+  ],
+  "international_relations": [],
+  "world_citizenship": [
+    {
+      "id": "urban_problem_regeneration",
+      "name": "도시 문제와 도시 재생",
+      "boundary_count": 1
+    },
+    {
+      "id": "climate_governance",
+      "name": "기후 변화와 국제 환경 협약",
+      "boundary_count": 1
+    }
+  ],
+  "population_indicators": [
+    {
+      "id": "national_income_accounting",
+      "name": "국내 총생산과 국민소득의 측정",
+      "boundary_count": 2
+    },
+    {
+      "id": "multicultural_policy",
+      "name": "다문화 정책과 사회 통합",
+      "boundary_count": 2
+    },
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 1
+    },
+    {
+      "id": "global_city",
+      "name": "세계 도시와 도시 체계",
+      "boundary_count": 1
+    }
+  ],
+  "demographic_transition": [
+    {
+      "id": "multicultural_policy",
+      "name": "다문화 정책과 사회 통합",
+      "boundary_count": 2
+    }
+  ],
+  "population_policy": [],
+  "resource_characteristics": [],
+  "resource_security": [
+    {
+      "id": "east_asia_conflict",
+      "name": "동아시아 역사 갈등과 평화",
+      "boundary_count": 1
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 1
+    }
+  ],
+  "energy_mix_transition": [
+    {
+      "id": "industrialization",
+      "name": "산업화",
+      "boundary_count": 4
+    },
+    {
+      "id": "environmental_problem",
+      "name": "환경 문제의 발생 구조",
+      "boundary_count": 3
+    },
+    {
+      "id": "digital_citizenship",
+      "name": "디지털 시민성과 사이버 공간의 권리·책임",
+      "boundary_count": 3
+    },
+    {
+      "id": "democratic_participation",
+      "name": "민주 정치와 시민 참여",
+      "boundary_count": 2
+    },
+    {
+      "id": "resource_distribution",
+      "name": "자원의 분포와 소비",
+      "boundary_count": 1
+    }
+  ],
+  "sdgs": [
+    {
+      "id": "national_income_accounting",
+      "name": "국내 총생산과 국민소득의 측정",
+      "boundary_count": 1
+    }
+  ],
+  "carbon_neutrality": [],
+  "fourth_industrial_revolution": [],
+  "technology_ethics_regulation": [
+    {
+      "id": "eudaimonia",
+      "name": "덕과 자아실현의 행복론",
+      "boundary_count": 1
+    }
+  ],
+  "landforms_and_life": [
+    {
+      "id": "market_failure",
+      "name": "시장 실패",
+      "boundary_count": 2
+    },
+    {
+      "id": "public_goods",
+      "name": "공공재의 비배제성과 비경합성",
+      "boundary_count": 2
+    },
+    {
+      "id": "urban_structure",
+      "name": "도시 내부 구조와 공간 분화",
+      "boundary_count": 1
+    },
+    {
+      "id": "financial_properties",
+      "name": "금융 자산의 유형과 속성",
+      "boundary_count": 1
+    },
+    {
+      "id": "time_value_of_money",
+      "name": "화폐의 시간 가치와 복리",
+      "boundary_count": 1
+    },
+    {
+      "id": "government_failure",
+      "name": "정부 개입과 정부 실패",
+      "boundary_count": 1
+    }
+  ],
+  "environmental_conflict": [],
+  "rights_conceptions": [],
+  "inequality_indicators": []
+}

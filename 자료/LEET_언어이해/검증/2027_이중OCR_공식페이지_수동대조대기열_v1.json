@@ -1,0 +1,3668 @@
+{
+  "status": "review_queue_noncanonical",
+  "error_count": 0,
+  "errors": [],
+  "records": [
+    {
+      "page": 1,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_001.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1860,
+      "tesseract_chars": 1919,
+      "lexical_similarity": 93.78142365705213,
+      "paddle_token_count": 612,
+      "paddle_mean_confidence": 0.9907200700706906,
+      "paddle_below_0_95": 22,
+      "paddle_below_0_98": 31,
+      "priority_score": 119.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "2은",
+          "confidence": 0.5324198603630066,
+          "left": 1381.0,
+          "top": 2843.0,
+          "right": 1447.0,
+          "bottom": 2886.0
+        },
+        {
+          "region": "right",
+          "text": "&은",
+          "confidence": 0.5703269243240356,
+          "left": 1383.0,
+          "top": 2783.0,
+          "right": 1447.0,
+          "bottom": 2820.0
+        },
+        {
+          "region": "left",
+          "text": "0",
+          "confidence": 0.5771129727363586,
+          "left": 271.0,
+          "top": 802.0,
+          "right": 286.0,
+          "bottom": 826.0
+        },
+        {
+          "region": "right",
+          "text": "O은",
+          "confidence": 0.6335707902908325,
+          "left": 1383.0,
+          "top": 2601.0,
+          "right": 1446.0,
+          "bottom": 2639.0
+        },
+        {
+          "region": "right",
+          "text": "O은",
+          "confidence": 0.6344313025474548,
+          "left": 1384.0,
+          "top": 2664.0,
+          "right": 1447.0,
+          "bottom": 2703.0
+        },
+        {
+          "region": "left",
+          "text": "수행",
+          "confidence": 0.6493510603904724,
+          "left": 1180.0,
+          "top": 610.0,
+          "right": 1254.0,
+          "bottom": 666.0
+        },
+        {
+          "region": "right",
+          "text": "&은",
+          "confidence": 0.6687341928482056,
+          "left": 1381.0,
+          "top": 2909.0,
+          "right": 1447.0,
+          "bottom": 2948.0
+        },
+        {
+          "region": "left",
+          "text": "\"후",
+          "confidence": 0.7139329314231873,
+          "left": 549.0,
+          "top": 2402.0,
+          "right": 599.0,
+          "bottom": 2436.0
+        },
+        {
+          "region": "left",
+          "text": "벤젤을",
+          "confidence": 0.744424045085907,
+          "left": 397.0,
+          "top": 1525.0,
+          "right": 484.0,
+          "bottom": 1556.0
+        },
+        {
+          "region": "left",
+          "text": "0무법",
+          "confidence": 0.7908115983009338,
+          "left": 286.0,
+          "top": 2615.0,
+          "right": 389.0,
+          "bottom": 2657.0
+        },
+        {
+          "region": "right",
+          "text": "1",
+          "confidence": 0.7980673313140869,
+          "left": 1336.0,
+          "top": 2602.0,
+          "right": 1367.0,
+          "bottom": 2637.0
+        },
+        {
+          "region": "left",
+          "text": "벤촬의",
+          "confidence": 0.8245463371276855,
+          "left": 972.0,
+          "top": 1573.0,
+          "right": 1064.0,
+          "bottom": 1615.0
+        },
+        {
+          "region": "right",
+          "text": "F미하엘",
+          "confidence": 0.8277332186698914,
+          "left": 1713.0,
+          "top": 1285.0,
+          "right": 1809.0,
+          "bottom": 1315.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.8300002813339233,
+          "left": 1332.0,
+          "top": 1121.0,
+          "right": 1363.0,
+          "bottom": 1154.0
+        },
+        {
+          "region": "left",
+          "text": "\"법의",
+          "confidence": 0.8367288708686829,
+          "left": 541.0,
+          "top": 2945.0,
+          "right": 618.0,
+          "bottom": 2983.0
+        },
+        {
+          "region": "right",
+          "text": "0~0에",
+          "confidence": 0.8520081043243408,
+          "left": 1348.0,
+          "top": 2527.0,
+          "right": 1476.0,
+          "bottom": 2566.0
+        },
+        {
+          "region": "left",
+          "text": "벤촬에게",
+          "confidence": 0.8662275075912476,
+          "left": 287.0,
+          "top": 1409.0,
+          "right": 407.0,
+          "bottom": 1451.0
+        },
+        {
+          "region": "right",
+          "text": "「미하엘",
+          "confidence": 0.8729727864265442,
+          "left": 1681.0,
+          "top": 1739.0,
+          "right": 1786.0,
+          "bottom": 1777.0
+        },
+        {
+          "region": "right",
+          "text": "D",
+          "confidence": 0.8738858103752136,
+          "left": 1337.0,
+          "top": 1742.0,
+          "right": 1369.0,
+          "bottom": 1776.0
+        },
+        {
+          "region": "right",
+          "text": "\"e",
+          "confidence": 0.9084790945053101,
+          "left": 1801.0,
+          "top": 848.0,
+          "right": 1849.0,
+          "bottom": 883.0
+        },
+        {
+          "region": "left",
+          "text": "0",
+          "confidence": 0.9110338091850281,
+          "left": 271.0,
+          "top": 745.0,
+          "right": 289.0,
+          "bottom": 770.0
+        },
+        {
+          "region": "left",
+          "text": "것\"이라",
+          "confidence": 0.913529634475708,
+          "left": 289.0,
+          "top": 3053.0,
+          "right": 396.0,
+          "bottom": 3092.0
+        },
+        {
+          "region": "left",
+          "text": "'미하엘",
+          "confidence": 0.9521619081497192,
+          "left": 591.0,
+          "top": 1189.0,
+          "right": 704.0,
+          "bottom": 1233.0
+        },
+        {
+          "region": "right",
+          "text": "뜻한다\"는",
+          "confidence": 0.9612960815429688,
+          "left": 1514.0,
+          "top": 900.0,
+          "right": 1644.0,
+          "bottom": 938.0
+        },
+        {
+          "region": "left",
+          "text": "'지독한",
+          "confidence": 0.9614287614822388,
+          "left": 286.0,
+          "top": 2227.0,
+          "right": 426.0,
+          "bottom": 2268.0
+        }
+      ],
+      "review_rank": 1
+    },
+    {
+      "page": 2,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_002.png",
+      "official_page_sha256": "9b8b3e8b60bfc3d5bed62f85067a182350cff13a0f54758c58dfee643147fd48",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_002.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1769,
+      "tesseract_chars": 1877,
+      "lexical_similarity": 90.23587493143171,
+      "paddle_token_count": 594,
+      "paddle_mean_confidence": 0.9977946033582141,
+      "paddle_below_0_95": 8,
+      "paddle_below_0_98": 12,
+      "priority_score": 44.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "left",
+          "text": "N",
+          "confidence": 0.7776549458503723,
+          "left": 260.0,
+          "top": 300.0,
+          "right": 335.0,
+          "bottom": 404.0
+        },
+        {
+          "region": "left",
+          "text": "N",
+          "confidence": 0.8373185992240906,
+          "left": 1200.0,
+          "top": 3279.0,
+          "right": 1221.0,
+          "bottom": 3311.0
+        },
+        {
+          "region": "left",
+          "text": "최선\"",
+          "confidence": 0.8399658203125,
+          "left": 1119.0,
+          "top": 822.0,
+          "right": 1192.0,
+          "bottom": 859.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.8638601303100586,
+          "left": 1781.0,
+          "top": 736.0,
+          "right": 1819.0,
+          "bottom": 775.0
+        },
+        {
+          "region": "right",
+          "text": "선거",
+          "confidence": 0.8984888195991516,
+          "left": 1433.0,
+          "top": 1280.0,
+          "right": 1496.0,
+          "bottom": 1318.0
+        },
+        {
+          "region": "right",
+          "text": "-",
+          "confidence": 0.9002633690834045,
+          "left": 1399.0,
+          "top": 1022.0,
+          "right": 1411.0,
+          "bottom": 1033.0
+        },
+        {
+          "region": "left",
+          "text": "바란다\"고",
+          "confidence": 0.920850396156311,
+          "left": 917.0,
+          "top": 767.0,
+          "right": 1056.0,
+          "bottom": 806.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.9312385320663452,
+          "left": 1789.0,
+          "top": 1717.0,
+          "right": 1827.0,
+          "bottom": 1755.0
+        },
+        {
+          "region": "left",
+          "text": "1",
+          "confidence": 0.9588907361030579,
+          "left": 296.0,
+          "top": 1199.0,
+          "right": 327.0,
+          "bottom": 1230.0
+        },
+        {
+          "region": "left",
+          "text": "\"관리들의",
+          "confidence": 0.967775821685791,
+          "left": 429.0,
+          "top": 824.0,
+          "right": 559.0,
+          "bottom": 858.0
+        },
+        {
+          "region": "right",
+          "text": "잦아",
+          "confidence": 0.9707688093185425,
+          "left": 1798.0,
+          "top": 1550.0,
+          "right": 1860.0,
+          "bottom": 1592.0
+        },
+        {
+          "region": "right",
+          "text": "입법부와",
+          "confidence": 0.9796349406242371,
+          "left": 1495.0,
+          "top": 1060.0,
+          "right": 1613.0,
+          "bottom": 1100.0
+        },
+        {
+          "region": "left",
+          "text": "콜하스가",
+          "confidence": 0.9847412705421448,
+          "left": 506.0,
+          "top": 472.0,
+          "right": 654.0,
+          "bottom": 511.0
+        },
+        {
+          "region": "right",
+          "text": "득표자가",
+          "confidence": 0.9853988885879517,
+          "left": 2013.0,
+          "top": 1880.0,
+          "right": 2133.0,
+          "bottom": 1915.0
+        },
+        {
+          "region": "right",
+          "text": "득표율과",
+          "confidence": 0.9892053008079529,
+          "left": 1332.0,
+          "top": 2317.0,
+          "right": 1453.0,
+          "bottom": 2350.0
+        },
+        {
+          "region": "right",
+          "text": "가치들을",
+          "confidence": 0.9910348653793335,
+          "left": 1831.0,
+          "top": 682.0,
+          "right": 1955.0,
+          "bottom": 717.0
+        },
+        {
+          "region": "right",
+          "text": "득표율에",
+          "confidence": 0.9937536120414734,
+          "left": 1698.0,
+          "top": 1934.0,
+          "right": 1827.0,
+          "bottom": 1973.0
+        },
+        {
+          "region": "right",
+          "text": "교착에",
+          "confidence": 0.9939384460449219,
+          "left": 1332.0,
+          "top": 1171.0,
+          "right": 1420.0,
+          "bottom": 1208.0
+        },
+        {
+          "region": "right",
+          "text": "간절충",
+          "confidence": 0.9957864880561829,
+          "left": 1606.0,
+          "top": 2423.0,
+          "right": 1716.0,
+          "bottom": 2464.0
+        },
+        {
+          "region": "right",
+          "text": "긍정적인",
+          "confidence": 0.996212363243103,
+          "left": 1985.0,
+          "top": 2371.0,
+          "right": 2103.0,
+          "bottom": 2406.0
+        },
+        {
+          "region": "right",
+          "text": "입법-",
+          "confidence": 0.9974145293235779,
+          "left": 2158.0,
+          "top": 3184.0,
+          "right": 2236.0,
+          "bottom": 3227.0
+        },
+        {
+          "region": "right",
+          "text": "가치들의",
+          "confidence": 0.9977954626083374,
+          "left": 1914.0,
+          "top": 1826.0,
+          "right": 2033.0,
+          "bottom": 1861.0
+        },
+        {
+          "region": "left",
+          "text": "좋아집니다\"라고",
+          "confidence": 0.9981902837753296,
+          "left": 727.0,
+          "top": 1097.0,
+          "right": 946.0,
+          "bottom": 1131.0
+        },
+        {
+          "region": "right",
+          "text": "'순수'",
+          "confidence": 0.9984472393989563,
+          "left": 1808.0,
+          "top": 3187.0,
+          "right": 1881.0,
+          "bottom": 3225.0
+        },
+        {
+          "region": "left",
+          "text": "결말이라고",
+          "confidence": 0.9985413551330566,
+          "left": 466.0,
+          "top": 1373.0,
+          "right": 611.0,
+          "bottom": 1402.0
+        }
+      ],
+      "review_rank": 12
+    },
+    {
+      "page": 3,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_003.png",
+      "official_page_sha256": "5789c45b152af4401cd8059cf0e21b8bcddcb39595e8393605cb965bfe9754bb",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_003.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1170,
+      "tesseract_chars": 1275,
+      "lexical_similarity": 81.47239263803681,
+      "paddle_token_count": 419,
+      "paddle_mean_confidence": 0.9910690053266102,
+      "paddle_below_0_95": 15,
+      "paddle_below_0_98": 18,
+      "priority_score": 78.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "left",
+          "text": "ㄷ은",
+          "confidence": 0.5355509519577026,
+          "left": 341.0,
+          "top": 2871.0,
+          "right": 405.0,
+          "bottom": 2910.0
+        },
+        {
+          "region": "left",
+          "text": "2은",
+          "confidence": 0.5564135313034058,
+          "left": 339.0,
+          "top": 2998.0,
+          "right": 405.0,
+          "bottom": 3037.0
+        },
+        {
+          "region": "left",
+          "text": "ㄷ은",
+          "confidence": 0.5675758123397827,
+          "left": 339.0,
+          "top": 2934.0,
+          "right": 405.0,
+          "bottom": 2973.0
+        },
+        {
+          "region": "left",
+          "text": "O은",
+          "confidence": 0.5692173838615417,
+          "left": 339.0,
+          "top": 2808.0,
+          "right": 405.0,
+          "bottom": 2847.0
+        },
+        {
+          "region": "left",
+          "text": "&은",
+          "confidence": 0.6006249189376831,
+          "left": 339.0,
+          "top": 3061.0,
+          "right": 407.0,
+          "bottom": 3099.0
+        },
+        {
+          "region": "left",
+          "text": "C로",
+          "confidence": 0.7585687637329102,
+          "left": 552.0,
+          "top": 2809.0,
+          "right": 619.0,
+          "bottom": 2847.0
+        },
+        {
+          "region": "right",
+          "text": "1",
+          "confidence": 0.7893954515457153,
+          "left": 1337.0,
+          "top": 1280.0,
+          "right": 1369.0,
+          "bottom": 1313.0
+        },
+        {
+          "region": "right",
+          "text": "절댓값은",
+          "confidence": 0.8381168246269226,
+          "left": 1363.0,
+          "top": 817.0,
+          "right": 1482.0,
+          "bottom": 855.0
+        },
+        {
+          "region": "left",
+          "text": "C1",
+          "confidence": 0.8424952030181885,
+          "left": 1079.0,
+          "top": 2065.0,
+          "right": 1123.0,
+          "bottom": 2101.0
+        },
+        {
+          "region": "right",
+          "text": "차이를",
+          "confidence": 0.8959770202636719,
+          "left": 1820.0,
+          "top": 1278.0,
+          "right": 1910.0,
+          "bottom": 1314.0
+        },
+        {
+          "region": "right",
+          "text": "'순수'",
+          "confidence": 0.8982142210006714,
+          "left": 1431.0,
+          "top": 959.0,
+          "right": 1513.0,
+          "bottom": 994.0
+        },
+        {
+          "region": "right",
+          "text": "'순수'",
+          "confidence": 0.9008057117462158,
+          "left": 1434.0,
+          "top": 1119.0,
+          "right": 1513.0,
+          "bottom": 1159.0
+        },
+        {
+          "region": "left",
+          "text": "C2로",
+          "confidence": 0.9120691418647766,
+          "left": 415.0,
+          "top": 2999.0,
+          "right": 482.0,
+          "bottom": 3036.0
+        },
+        {
+          "region": "left",
+          "text": "0",
+          "confidence": 0.9169871807098389,
+          "left": 385.0,
+          "top": 1069.0,
+          "right": 425.0,
+          "bottom": 1104.0
+        },
+        {
+          "region": "right",
+          "text": "'순수",
+          "confidence": 0.9375779032707214,
+          "left": 1425.0,
+          "top": 1013.0,
+          "right": 1512.0,
+          "bottom": 1048.0
+        },
+        {
+          "region": "right",
+          "text": "|",
+          "confidence": 0.966079592704773,
+          "left": 2183.0,
+          "top": 1525.0,
+          "right": 2201.0,
+          "bottom": 1538.0
+        },
+        {
+          "region": "left",
+          "text": "C2보다는",
+          "confidence": 0.9756771922111511,
+          "left": 416.0,
+          "top": 2811.0,
+          "right": 540.0,
+          "bottom": 2846.0
+        },
+        {
+          "region": "right",
+          "text": "X국은",
+          "confidence": 0.9758016467094421,
+          "left": 2148.0,
+          "top": 601.0,
+          "right": 2234.0,
+          "bottom": 636.0
+        },
+        {
+          "region": "left",
+          "text": "입법-행정",
+          "confidence": 0.9815762639045715,
+          "left": 794.0,
+          "top": 578.0,
+          "right": 931.0,
+          "bottom": 613.0
+        },
+        {
+          "region": "left",
+          "text": "가치&",
+          "confidence": 0.9826990962028503,
+          "left": 761.0,
+          "top": 2704.0,
+          "right": 845.0,
+          "bottom": 2735.0
+        },
+        {
+          "region": "right",
+          "text": "경우는I",
+          "confidence": 0.9829620122909546,
+          "left": 2014.0,
+          "top": 1276.0,
+          "right": 2120.0,
+          "bottom": 1315.0
+        },
+        {
+          "region": "left",
+          "text": "'순수",
+          "confidence": 0.9881341457366943,
+          "left": 397.0,
+          "top": 578.0,
+          "right": 467.0,
+          "bottom": 610.0
+        },
+        {
+          "region": "left",
+          "text": "X와",
+          "confidence": 0.9896062612533569,
+          "left": 931.0,
+          "top": 2009.0,
+          "right": 990.0,
+          "bottom": 2043.0
+        },
+        {
+          "region": "left",
+          "text": "1",
+          "confidence": 0.992007851600647,
+          "left": 294.0,
+          "top": 2811.0,
+          "right": 327.0,
+          "bottom": 2844.0
+        },
+        {
+          "region": "left",
+          "text": "증폭하는지를",
+          "confidence": 0.9934871196746826,
+          "left": 426.0,
+          "top": 1069.0,
+          "right": 600.0,
+          "bottom": 1103.0
+        }
+      ],
+      "review_rank": 8
+    },
+    {
+      "page": 4,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_004.png",
+      "official_page_sha256": "4abc3009506987bd614b9adecf1283679596232b7590a0a2743456087bba1d68",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_004.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1944,
+      "tesseract_chars": 2028,
+      "lexical_similarity": 89.72809667673715,
+      "paddle_token_count": 614,
+      "paddle_mean_confidence": 0.9970678199774279,
+      "paddle_below_0_95": 6,
+      "paddle_below_0_98": 6,
+      "priority_score": 30.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "1",
+          "confidence": 0.5566031336784363,
+          "left": 1336.0,
+          "top": 1769.0,
+          "right": 1367.0,
+          "bottom": 1805.0
+        },
+        {
+          "region": "left",
+          "text": "0",
+          "confidence": 0.6405193209648132,
+          "left": 624.0,
+          "top": 2152.0,
+          "right": 663.0,
+          "bottom": 2188.0
+        },
+        {
+          "region": "right",
+          "text": "그에",
+          "confidence": 0.6782610416412354,
+          "left": 1350.0,
+          "top": 2482.0,
+          "right": 1413.0,
+          "bottom": 2520.0
+        },
+        {
+          "region": "left",
+          "text": "<",
+          "confidence": 0.7669153809547424,
+          "left": 1204.0,
+          "top": 3285.0,
+          "right": 1219.0,
+          "bottom": 3309.0
+        },
+        {
+          "region": "left",
+          "text": "보됐다",
+          "confidence": 0.8536202311515808,
+          "left": 360.0,
+          "top": 2099.0,
+          "right": 451.0,
+          "bottom": 2134.0
+        },
+        {
+          "region": "left",
+          "text": "'식민",
+          "confidence": 0.9079660773277283,
+          "left": 1112.0,
+          "top": 1168.0,
+          "right": 1195.0,
+          "bottom": 1210.0
+        },
+        {
+          "region": "left",
+          "text": "'숲속의",
+          "confidence": 0.9850007891654968,
+          "left": 288.0,
+          "top": 2041.0,
+          "right": 385.0,
+          "bottom": 2081.0
+        },
+        {
+          "region": "right",
+          "text": "1",
+          "confidence": 0.9897555708885193,
+          "left": 1337.0,
+          "top": 2559.0,
+          "right": 1367.0,
+          "bottom": 2591.0
+        },
+        {
+          "region": "right",
+          "text": "2",
+          "confidence": 0.9901371002197266,
+          "left": 1335.0,
+          "top": 1830.0,
+          "right": 1370.0,
+          "bottom": 1869.0
+        },
+        {
+          "region": "right",
+          "text": "4",
+          "confidence": 0.9915396571159363,
+          "left": 1337.0,
+          "top": 1227.0,
+          "right": 1369.0,
+          "bottom": 1259.0
+        },
+        {
+          "region": "left",
+          "text": "궤를",
+          "confidence": 0.9917888641357422,
+          "left": 861.0,
+          "top": 1494.0,
+          "right": 926.0,
+          "bottom": 1538.0
+        },
+        {
+          "region": "left",
+          "text": "혐의가",
+          "confidence": 0.9926822781562805,
+          "left": 289.0,
+          "top": 2205.0,
+          "right": 382.0,
+          "bottom": 2246.0
+        },
+        {
+          "region": "right",
+          "text": "혐의자들을",
+          "confidence": 0.9932615160942078,
+          "left": 1879.0,
+          "top": 2911.0,
+          "right": 2024.0,
+          "bottom": 2946.0
+        },
+        {
+          "region": "left",
+          "text": "흔한",
+          "confidence": 0.9938069581985474,
+          "left": 470.0,
+          "top": 2532.0,
+          "right": 534.0,
+          "bottom": 2571.0
+        },
+        {
+          "region": "left",
+          "text": "4",
+          "confidence": 0.9950716495513916,
+          "left": 271.0,
+          "top": 315.0,
+          "right": 322.0,
+          "bottom": 389.0
+        },
+        {
+          "region": "left",
+          "text": "'수동적",
+          "confidence": 0.995813250541687,
+          "left": 957.0,
+          "top": 2044.0,
+          "right": 1052.0,
+          "bottom": 2079.0
+        },
+        {
+          "region": "right",
+          "text": "힘썼다",
+          "confidence": 0.9960772395133972,
+          "left": 1387.0,
+          "top": 925.0,
+          "right": 1479.0,
+          "bottom": 961.0
+        },
+        {
+          "region": "left",
+          "text": "예외를둘수",
+          "confidence": 0.9970293045043945,
+          "left": 547.0,
+          "top": 2479.0,
+          "right": 725.0,
+          "bottom": 2517.0
+        },
+        {
+          "region": "left",
+          "text": "취급",
+          "confidence": 0.9972715377807617,
+          "left": 1131.0,
+          "top": 2258.0,
+          "right": 1197.0,
+          "bottom": 2301.0
+        },
+        {
+          "region": "right",
+          "text": "섰던",
+          "confidence": 0.9974006414413452,
+          "left": 1755.0,
+          "top": 2127.0,
+          "right": 1818.0,
+          "bottom": 2171.0
+        },
+        {
+          "region": "right",
+          "text": "억압",
+          "confidence": 0.9977182149887085,
+          "left": 1771.0,
+          "top": 987.0,
+          "right": 1836.0,
+          "bottom": 1026.0
+        },
+        {
+          "region": "right",
+          "text": "응징",
+          "confidence": 0.9979918599128723,
+          "left": 2201.0,
+          "top": 2128.0,
+          "right": 2262.0,
+          "bottom": 2173.0
+        },
+        {
+          "region": "left",
+          "text": "끝나자",
+          "confidence": 0.9980387091636658,
+          "left": 1004.0,
+          "top": 1062.0,
+          "right": 1093.0,
+          "bottom": 1097.0
+        },
+        {
+          "region": "right",
+          "text": "8",
+          "confidence": 0.9982203841209412,
+          "left": 1300.0,
+          "top": 1692.0,
+          "right": 1336.0,
+          "bottom": 1732.0
+        },
+        {
+          "region": "left",
+          "text": "제네바조약상",
+          "confidence": 0.9983195662498474,
+          "left": 1019.0,
+          "top": 2587.0,
+          "right": 1195.0,
+          "bottom": 2625.0
+        }
+      ],
+      "review_rank": 13
+    },
+    {
+      "page": 5,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_005.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1768,
+      "tesseract_chars": 1891,
+      "lexical_similarity": 88.87674227931129,
+      "paddle_token_count": 594,
+      "paddle_mean_confidence": 0.9960171811107031,
+      "paddle_below_0_95": 11,
+      "paddle_below_0_98": 13,
+      "priority_score": 57.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "=",
+          "confidence": 0.5083989500999451,
+          "left": 1370.0,
+          "top": 2761.0,
+          "right": 1400.0,
+          "bottom": 2783.0
+        },
+        {
+          "region": "left",
+          "text": "M <u",
+          "confidence": 0.5315121412277222,
+          "left": 644.0,
+          "top": 2075.0,
+          "right": 668.0,
+          "bottom": 2287.0
+        },
+        {
+          "region": "left",
+          "text": "YO?",
+          "confidence": 0.7384180426597595,
+          "left": 1203.0,
+          "top": 3281.0,
+          "right": 1219.0,
+          "bottom": 3310.0
+        },
+        {
+          "region": "right",
+          "text": "D",
+          "confidence": 0.8080017566680908,
+          "left": 1333.0,
+          "top": 1689.0,
+          "right": 1370.0,
+          "bottom": 1729.0
+        },
+        {
+          "region": "right",
+          "text": "결과",
+          "confidence": 0.835675835609436,
+          "left": 1801.0,
+          "top": 1345.0,
+          "right": 1867.0,
+          "bottom": 1377.0
+        },
+        {
+          "region": "right",
+          "text": "인해",
+          "confidence": 0.8542075157165527,
+          "left": 1332.0,
+          "top": 1504.0,
+          "right": 1391.0,
+          "bottom": 1542.0
+        },
+        {
+          "region": "right",
+          "text": "중심이",
+          "confidence": 0.8681847453117371,
+          "left": 1573.0,
+          "top": 470.0,
+          "right": 1660.0,
+          "bottom": 507.0
+        },
+        {
+          "region": "right",
+          "text": "지표_대류권",
+          "confidence": 0.8869007229804993,
+          "left": 1903.0,
+          "top": 1395.0,
+          "right": 2076.0,
+          "bottom": 1433.0
+        },
+        {
+          "region": "left",
+          "text": "온도c",
+          "confidence": 0.926586925983429,
+          "left": 879.0,
+          "top": 2585.0,
+          "right": 974.0,
+          "bottom": 2622.0
+        },
+        {
+          "region": "right",
+          "text": "방출하는",
+          "confidence": 0.9426178932189941,
+          "left": 1612.0,
+          "top": 1180.0,
+          "right": 1731.0,
+          "bottom": 1213.0
+        },
+        {
+          "region": "left",
+          "text": "높이'",
+          "confidence": 0.9475541114807129,
+          "left": 417.0,
+          "top": 2073.0,
+          "right": 484.0,
+          "bottom": 2122.0
+        },
+        {
+          "region": "right",
+          "text": "기>-",
+          "confidence": 0.9676411747932434,
+          "left": 1811.0,
+          "top": 2539.0,
+          "right": 1881.0,
+          "bottom": 2576.0
+        },
+        {
+          "region": "left",
+          "text": "어려워진다",
+          "confidence": 0.9756930470466614,
+          "left": 677.0,
+          "top": 2888.0,
+          "right": 824.0,
+          "bottom": 2922.0
+        },
+        {
+          "region": "left",
+          "text": "덜",
+          "confidence": 0.9829367399215698,
+          "left": 458.0,
+          "top": 2942.0,
+          "right": 489.0,
+          "bottom": 2977.0
+        },
+        {
+          "region": "left",
+          "text": "언뜻",
+          "confidence": 0.9853909611701965,
+          "left": 287.0,
+          "top": 1004.0,
+          "right": 352.0,
+          "bottom": 1047.0
+        },
+        {
+          "region": "left",
+          "text": "대응",
+          "confidence": 0.9936100244522095,
+          "left": 1134.0,
+          "top": 789.0,
+          "right": 1196.0,
+          "bottom": 829.0
+        },
+        {
+          "region": "left",
+          "text": "따뜻해진",
+          "confidence": 0.9936702251434326,
+          "left": 563.0,
+          "top": 1445.0,
+          "right": 683.0,
+          "bottom": 1480.0
+        },
+        {
+          "region": "right",
+          "text": "2",
+          "confidence": 0.9953024387359619,
+          "left": 1333.0,
+          "top": 1753.0,
+          "right": 1369.0,
+          "bottom": 1792.0
+        },
+        {
+          "region": "left",
+          "text": "따뜻한",
+          "confidence": 0.9959726333618164,
+          "left": 795.0,
+          "top": 1771.0,
+          "right": 889.0,
+          "bottom": 1806.0
+        },
+        {
+          "region": "right",
+          "text": "높으므로",
+          "confidence": 0.996894896030426,
+          "left": 1433.0,
+          "top": 907.0,
+          "right": 1557.0,
+          "bottom": 942.0
+        },
+        {
+          "region": "left",
+          "text": "15C이므로",
+          "confidence": 0.9969635009765625,
+          "left": 788.0,
+          "top": 1392.0,
+          "right": 950.0,
+          "bottom": 1427.0
+        },
+        {
+          "region": "right",
+          "text": "아니라",
+          "confidence": 0.9972214698791504,
+          "left": 1332.0,
+          "top": 1122.0,
+          "right": 1421.0,
+          "bottom": 1159.0
+        },
+        {
+          "region": "left",
+          "text": "균일하다면",
+          "confidence": 0.9976428747177124,
+          "left": 517.0,
+          "top": 1664.0,
+          "right": 659.0,
+          "bottom": 1697.0
+        },
+        {
+          "region": "left",
+          "text": "방출",
+          "confidence": 0.9977794289588928,
+          "left": 1034.0,
+          "top": 3054.0,
+          "right": 1101.0,
+          "bottom": 3085.0
+        },
+        {
+          "region": "left",
+          "text": "따뜻하게",
+          "confidence": 0.9978417158126831,
+          "left": 394.0,
+          "top": 1990.0,
+          "right": 514.0,
+          "bottom": 2025.0
+        }
+      ],
+      "review_rank": 10
+    },
+    {
+      "page": 6,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "official_page_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_006.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1477,
+      "tesseract_chars": 1502,
+      "lexical_similarity": 88.1503860355824,
+      "paddle_token_count": 543,
+      "paddle_mean_confidence": 0.9970279260234938,
+      "paddle_below_0_95": 9,
+      "paddle_below_0_98": 15,
+      "priority_score": 51.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "-",
+          "confidence": 0.6887463331222534,
+          "left": 1461.0,
+          "top": 1403.0,
+          "right": 1468.0,
+          "bottom": 1413.0
+        },
+        {
+          "region": "right",
+          "text": "*",
+          "confidence": 0.7904961109161377,
+          "left": 1320.0,
+          "top": 2849.0,
+          "right": 1373.0,
+          "bottom": 2906.0
+        },
+        {
+          "region": "left",
+          "text": "N",
+          "confidence": 0.8218653798103333,
+          "left": 1089.0,
+          "top": 850.0,
+          "right": 1110.0,
+          "bottom": 885.0
+        },
+        {
+          "region": "right",
+          "text": "자는",
+          "confidence": 0.8237293362617493,
+          "left": 1498.0,
+          "top": 2100.0,
+          "right": 1557.0,
+          "bottom": 2134.0
+        },
+        {
+          "region": "right",
+          "text": "간국은",
+          "confidence": 0.8573322296142578,
+          "left": 2004.0,
+          "top": 3128.0,
+          "right": 2098.0,
+          "bottom": 3172.0
+        },
+        {
+          "region": "right",
+          "text": "가장",
+          "confidence": 0.8772079944610596,
+          "left": 1744.0,
+          "top": 3023.0,
+          "right": 1808.0,
+          "bottom": 3062.0
+        },
+        {
+          "region": "left",
+          "text": "O",
+          "confidence": 0.9222285151481628,
+          "left": 264.0,
+          "top": 301.0,
+          "right": 334.0,
+          "bottom": 399.0
+        },
+        {
+          "region": "left",
+          "text": "X",
+          "confidence": 0.9456387162208557,
+          "left": 880.0,
+          "top": 729.0,
+          "right": 908.0,
+          "bottom": 760.0
+        },
+        {
+          "region": "left",
+          "text": "에너지W/m?",
+          "confidence": 0.9495400786399841,
+          "left": 519.0,
+          "top": 789.0,
+          "right": 705.0,
+          "bottom": 823.0
+        },
+        {
+          "region": "left",
+          "text": "농도ppm",
+          "confidence": 0.9594211578369141,
+          "left": 533.0,
+          "top": 914.0,
+          "right": 672.0,
+          "bottom": 948.0
+        },
+        {
+          "region": "left",
+          "text": "X가",
+          "confidence": 0.9720601439476013,
+          "left": 968.0,
+          "top": 1276.0,
+          "right": 1029.0,
+          "bottom": 1314.0
+        },
+        {
+          "region": "left",
+          "text": "X가",
+          "confidence": 0.9771391153335571,
+          "left": 773.0,
+          "top": 1086.0,
+          "right": 835.0,
+          "bottom": 1124.0
+        },
+        {
+          "region": "left",
+          "text": "X가",
+          "confidence": 0.9784291982650757,
+          "left": 787.0,
+          "top": 1149.0,
+          "right": 847.0,
+          "bottom": 1187.0
+        },
+        {
+          "region": "left",
+          "text": "1",
+          "confidence": 0.9792240262031555,
+          "left": 296.0,
+          "top": 1024.0,
+          "right": 327.0,
+          "bottom": 1057.0
+        },
+        {
+          "region": "right",
+          "text": "'부끄럽다'고",
+          "confidence": 0.9797268509864807,
+          "left": 2067.0,
+          "top": 901.0,
+          "right": 2236.0,
+          "bottom": 935.0
+        },
+        {
+          "region": "right",
+          "text": "자'와",
+          "confidence": 0.9869419932365417,
+          "left": 2168.0,
+          "top": 1879.0,
+          "right": 2236.0,
+          "bottom": 1917.0
+        },
+        {
+          "region": "right",
+          "text": "나쁨을",
+          "confidence": 0.9870306849479675,
+          "left": 2139.0,
+          "top": 1171.0,
+          "right": 2235.0,
+          "bottom": 1206.0
+        },
+        {
+          "region": "left",
+          "text": "X가",
+          "confidence": 0.9909260272979736,
+          "left": 893.0,
+          "top": 1213.0,
+          "right": 953.0,
+          "bottom": 1251.0
+        },
+        {
+          "region": "right",
+          "text": "훌륭하다'거나",
+          "confidence": 0.9913304448127747,
+          "left": 1882.0,
+          "top": 901.0,
+          "right": 2073.0,
+          "bottom": 935.0
+        },
+        {
+          "region": "right",
+          "text": "훌륭함에는두가지",
+          "confidence": 0.9958599209785461,
+          "left": 1976.0,
+          "top": 953.0,
+          "right": 2234.0,
+          "bottom": 992.0
+        },
+        {
+          "region": "left",
+          "text": "X가",
+          "confidence": 0.9958938360214233,
+          "left": 625.0,
+          "top": 1024.0,
+          "right": 683.0,
+          "bottom": 1058.0
+        },
+        {
+          "region": "right",
+          "text": "B를",
+          "confidence": 0.9965274333953857,
+          "left": 1825.0,
+          "top": 1988.0,
+          "right": 1889.0,
+          "bottom": 2026.0
+        },
+        {
+          "region": "right",
+          "text": "나쁜지",
+          "confidence": 0.9965324401855469,
+          "left": 1329.0,
+          "top": 896.0,
+          "right": 1417.0,
+          "bottom": 936.0
+        },
+        {
+          "region": "right",
+          "text": "것즉좋은",
+          "confidence": 0.9968725442886353,
+          "left": 2074.0,
+          "top": 2585.0,
+          "right": 2235.0,
+          "bottom": 2628.0
+        },
+        {
+          "region": "left",
+          "text": "윗글을",
+          "confidence": 0.997081458568573,
+          "left": 330.0,
+          "top": 470.0,
+          "right": 419.0,
+          "bottom": 505.0
+        }
+      ],
+      "review_rank": 11
+    },
+    {
+      "page": 7,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_007.png",
+      "official_page_sha256": "5f37627a64e4530d0cb62e4ad2db90f32e0fd0d44683dc7c829b80d92c98a270",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_007.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 983,
+      "tesseract_chars": 1052,
+      "lexical_similarity": 79.9017199017199,
+      "paddle_token_count": 365,
+      "paddle_mean_confidence": 0.9964018032975392,
+      "paddle_below_0_95": 4,
+      "paddle_below_0_98": 10,
+      "priority_score": 26.0982800982801,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "~",
+          "confidence": 0.5193602442741394,
+          "left": 2205.0,
+          "top": 311.0,
+          "right": 2257.0,
+          "bottom": 391.0
+        },
+        {
+          "region": "right",
+          "text": "나쁨",
+          "confidence": 0.7744999527931213,
+          "left": 1779.0,
+          "top": 1025.0,
+          "right": 1847.0,
+          "bottom": 1068.0
+        },
+        {
+          "region": "left",
+          "text": "D",
+          "confidence": 0.7758588194847107,
+          "left": 294.0,
+          "top": 2162.0,
+          "right": 327.0,
+          "bottom": 2197.0
+        },
+        {
+          "region": "right",
+          "text": "저질렀으나",
+          "confidence": 0.9007638096809387,
+          "left": 1811.0,
+          "top": 712.0,
+          "right": 1959.0,
+          "bottom": 746.0
+        },
+        {
+          "region": "left",
+          "text": "나쁨인",
+          "confidence": 0.9533329606056213,
+          "left": 610.0,
+          "top": 466.0,
+          "right": 700.0,
+          "bottom": 503.0
+        },
+        {
+          "region": "right",
+          "text": "1",
+          "confidence": 0.9563976526260376,
+          "left": 1336.0,
+          "top": 978.0,
+          "right": 1369.0,
+          "bottom": 1010.0
+        },
+        {
+          "region": "left",
+          "text": "1",
+          "confidence": 0.977101743221283,
+          "left": 296.0,
+          "top": 1092.0,
+          "right": 327.0,
+          "bottom": 1122.0
+        },
+        {
+          "region": "left",
+          "text": "이로움을",
+          "confidence": 0.9775277972221375,
+          "left": 588.0,
+          "top": 1153.0,
+          "right": 706.0,
+          "bottom": 1188.0
+        },
+        {
+          "region": "right",
+          "text": "덜",
+          "confidence": 0.9786757826805115,
+          "left": 1385.0,
+          "top": 1501.0,
+          "right": 1415.0,
+          "bottom": 1539.0
+        },
+        {
+          "region": "right",
+          "text": "나쁨을",
+          "confidence": 0.9799668192863464,
+          "left": 2168.0,
+          "top": 1092.0,
+          "right": 2264.0,
+          "bottom": 1132.0
+        },
+        {
+          "region": "left",
+          "text": "불행한",
+          "confidence": 0.9852550625801086,
+          "left": 552.0,
+          "top": 2335.0,
+          "right": 644.0,
+          "bottom": 2370.0
+        },
+        {
+          "region": "left",
+          "text": "나쁨을",
+          "confidence": 0.9911492466926575,
+          "left": 342.0,
+          "top": 1388.0,
+          "right": 433.0,
+          "bottom": 1424.0
+        },
+        {
+          "region": "left",
+          "text": "권력을",
+          "confidence": 0.9917760491371155,
+          "left": 662.0,
+          "top": 2279.0,
+          "right": 753.0,
+          "bottom": 2314.0
+        },
+        {
+          "region": "left",
+          "text": "3",
+          "confidence": 0.9925909042358398,
+          "left": 296.0,
+          "top": 1217.0,
+          "right": 326.0,
+          "bottom": 1250.0
+        },
+        {
+          "region": "left",
+          "text": "'나'의",
+          "confidence": 0.9964072704315186,
+          "left": 971.0,
+          "top": 2159.0,
+          "right": 1050.0,
+          "bottom": 2201.0
+        },
+        {
+          "region": "right",
+          "text": "중병에",
+          "confidence": 0.9965878129005432,
+          "left": 1413.0,
+          "top": 602.0,
+          "right": 1499.0,
+          "bottom": 637.0
+        },
+        {
+          "region": "left",
+          "text": "저지른",
+          "confidence": 0.9969123005867004,
+          "left": 853.0,
+          "top": 1452.0,
+          "right": 943.0,
+          "bottom": 1487.0
+        },
+        {
+          "region": "right",
+          "text": "삶은",
+          "confidence": 0.9970933198928833,
+          "left": 1450.0,
+          "top": 1210.0,
+          "right": 1510.0,
+          "bottom": 1248.0
+        },
+        {
+          "region": "right",
+          "text": "중병에",
+          "confidence": 0.9971346855163574,
+          "left": 1454.0,
+          "top": 1331.0,
+          "right": 1542.0,
+          "bottom": 1367.0
+        },
+        {
+          "region": "right",
+          "text": "윗글을",
+          "confidence": 0.997150719165802,
+          "left": 1372.0,
+          "top": 470.0,
+          "right": 1462.0,
+          "bottom": 505.0
+        },
+        {
+          "region": "left",
+          "text": "걱정",
+          "confidence": 0.9973373413085938,
+          "left": 517.0,
+          "top": 2278.0,
+          "right": 576.0,
+          "bottom": 2317.0
+        },
+        {
+          "region": "right",
+          "text": "삶을",
+          "confidence": 0.9978266954421997,
+          "left": 1779.0,
+          "top": 819.0,
+          "right": 1842.0,
+          "bottom": 857.0
+        },
+        {
+          "region": "right",
+          "text": "징역형을",
+          "confidence": 0.9981761574745178,
+          "left": 2116.0,
+          "top": 711.0,
+          "right": 2234.0,
+          "bottom": 746.0
+        },
+        {
+          "region": "left",
+          "text": "같네",
+          "confidence": 0.9984517693519592,
+          "left": 788.0,
+          "top": 685.0,
+          "right": 858.0,
+          "bottom": 722.0
+        },
+        {
+          "region": "right",
+          "text": "B:",
+          "confidence": 0.9988491535186768,
+          "left": 1359.0,
+          "top": 711.0,
+          "right": 1398.0,
+          "bottom": 747.0
+        }
+      ],
+      "review_rank": 14
+    },
+    {
+      "page": 8,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "official_page_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_008.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1975,
+      "tesseract_chars": 2061,
+      "lexical_similarity": 88.40436075322101,
+      "paddle_token_count": 667,
+      "paddle_mean_confidence": 0.9946441124940383,
+      "paddle_below_0_95": 14,
+      "paddle_below_0_98": 27,
+      "priority_score": 83.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "B를",
+          "confidence": 0.5950205326080322,
+          "left": 1444.0,
+          "top": 1896.0,
+          "right": 1484.0,
+          "bottom": 1925.0
+        },
+        {
+          "region": "left",
+          "text": "0",
+          "confidence": 0.6222675442695618,
+          "left": 257.0,
+          "top": 295.0,
+          "right": 336.0,
+          "bottom": 404.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.6314660906791687,
+          "left": 2035.0,
+          "top": 1174.0,
+          "right": 2077.0,
+          "bottom": 1213.0
+        },
+        {
+          "region": "right",
+          "text": "B를",
+          "confidence": 0.7005830407142639,
+          "left": 1444.0,
+          "top": 1392.0,
+          "right": 1484.0,
+          "bottom": 1422.0
+        },
+        {
+          "region": "left",
+          "text": "00",
+          "confidence": 0.7457388639450073,
+          "left": 1203.0,
+          "top": 3281.0,
+          "right": 1219.0,
+          "bottom": 3310.0
+        },
+        {
+          "region": "right",
+          "text": "보수=",
+          "confidence": 0.7972623705863953,
+          "left": 1616.0,
+          "top": 2162.0,
+          "right": 1698.0,
+          "bottom": 2187.0
+        },
+        {
+          "region": "right",
+          "text": "I보수_0",
+          "confidence": 0.7992162108421326,
+          "left": 1606.0,
+          "top": 2125.0,
+          "right": 1714.0,
+          "bottom": 2158.0
+        },
+        {
+          "region": "right",
+          "text": "B를",
+          "confidence": 0.8212762475013733,
+          "left": 1841.0,
+          "top": 1392.0,
+          "right": 1879.0,
+          "bottom": 1422.0
+        },
+        {
+          "region": "right",
+          "text": "A는I",
+          "confidence": 0.8395615220069885,
+          "left": 1834.0,
+          "top": 907.0,
+          "right": 1903.0,
+          "bottom": 938.0
+        },
+        {
+          "region": "right",
+          "text": "비용은",
+          "confidence": 0.8457242846488953,
+          "left": 1381.0,
+          "top": 2940.0,
+          "right": 1476.0,
+          "bottom": 2984.0
+        },
+        {
+          "region": "right",
+          "text": "보수-0",
+          "confidence": 0.8651801347732544,
+          "left": 1719.0,
+          "top": 1623.0,
+          "right": 1814.0,
+          "bottom": 1652.0
+        },
+        {
+          "region": "left",
+          "text": "금액이",
+          "confidence": 0.9203395247459412,
+          "left": 901.0,
+          "top": 2701.0,
+          "right": 993.0,
+          "bottom": 2742.0
+        },
+        {
+          "region": "right",
+          "text": "보수-10",
+          "confidence": 0.9345176815986633,
+          "left": 1583.0,
+          "top": 2002.0,
+          "right": 1689.0,
+          "bottom": 2027.0
+        },
+        {
+          "region": "right",
+          "text": "보수-15",
+          "confidence": 0.9488645792007446,
+          "left": 2000.0,
+          "top": 2162.0,
+          "right": 2107.0,
+          "bottom": 2187.0
+        },
+        {
+          "region": "right",
+          "text": "B의",
+          "confidence": 0.9535026550292969,
+          "left": 1576.0,
+          "top": 2163.0,
+          "right": 1619.0,
+          "bottom": 2185.0
+        },
+        {
+          "region": "right",
+          "text": ":",
+          "confidence": 0.954206109046936,
+          "left": 1885.0,
+          "top": 1991.0,
+          "right": 1896.0,
+          "bottom": 2006.0
+        },
+        {
+          "region": "right",
+          "text": "B를",
+          "confidence": 0.9568307995796204,
+          "left": 1840.0,
+          "top": 1896.0,
+          "right": 1882.0,
+          "bottom": 1925.0
+        },
+        {
+          "region": "right",
+          "text": "-",
+          "confidence": 0.9637305736541748,
+          "left": 1615.0,
+          "top": 2170.0,
+          "right": 1621.0,
+          "bottom": 2180.0
+        },
+        {
+          "region": "right",
+          "text": "B의",
+          "confidence": 0.9656769037246704,
+          "left": 1539.0,
+          "top": 2004.0,
+          "right": 1582.0,
+          "bottom": 2030.0
+        },
+        {
+          "region": "left",
+          "text": "괘념치",
+          "confidence": 0.9657623171806335,
+          "left": 1037.0,
+          "top": 1389.0,
+          "right": 1122.0,
+          "bottom": 1426.0
+        },
+        {
+          "region": "left",
+          "text": "0보다",
+          "confidence": 0.9701434969902039,
+          "left": 695.0,
+          "top": 1444.0,
+          "right": 780.0,
+          "bottom": 1480.0
+        },
+        {
+          "region": "right",
+          "text": "보수-15",
+          "confidence": 0.9707325100898743,
+          "left": 1997.0,
+          "top": 1654.0,
+          "right": 2109.0,
+          "bottom": 1686.0
+        },
+        {
+          "region": "right",
+          "text": "보수=",
+          "confidence": 0.9714637398719788,
+          "left": 1583.0,
+          "top": 1501.0,
+          "right": 1657.0,
+          "bottom": 1527.0
+        },
+        {
+          "region": "right",
+          "text": "A의보수-10",
+          "confidence": 0.9738907217979431,
+          "left": 1539.0,
+          "top": 1970.0,
+          "right": 1689.0,
+          "bottom": 1999.0
+        },
+        {
+          "region": "right",
+          "text": "보수=",
+          "confidence": 0.9758853912353516,
+          "left": 1999.0,
+          "top": 1623.0,
+          "right": 2076.0,
+          "bottom": 1652.0
+        }
+      ],
+      "review_rank": 7
+    },
+    {
+      "page": 9,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png",
+      "official_page_sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_009.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1828,
+      "tesseract_chars": 1873,
+      "lexical_similarity": 87.54390705214807,
+      "paddle_token_count": 626,
+      "paddle_mean_confidence": 0.9944711420863581,
+      "paddle_below_0_95": 16,
+      "paddle_below_0_98": 24,
+      "priority_score": 88.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "left",
+          "text": "D",
+          "confidence": 0.5868525505065918,
+          "left": 294.0,
+          "top": 2548.0,
+          "right": 327.0,
+          "bottom": 2583.0
+        },
+        {
+          "region": "left",
+          "text": "이의",
+          "confidence": 0.5895378589630127,
+          "left": 558.0,
+          "top": 469.0,
+          "right": 624.0,
+          "bottom": 507.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.6056035161018372,
+          "left": 1745.0,
+          "top": 1389.0,
+          "right": 1786.0,
+          "bottom": 1426.0
+        },
+        {
+          "region": "left",
+          "text": "0의",
+          "confidence": 0.618823230266571,
+          "left": 474.0,
+          "top": 1679.0,
+          "right": 539.0,
+          "bottom": 1717.0
+        },
+        {
+          "region": "right",
+          "text": "-",
+          "confidence": 0.6887463331222534,
+          "left": 1400.0,
+          "top": 2388.0,
+          "right": 1407.0,
+          "bottom": 2398.0
+        },
+        {
+          "region": "right",
+          "text": "사고",
+          "confidence": 0.8146020174026489,
+          "left": 2177.0,
+          "top": 3022.0,
+          "right": 2239.0,
+          "bottom": 3064.0
+        },
+        {
+          "region": "right",
+          "text": "만찍하게",
+          "confidence": 0.8290343284606934,
+          "left": 1882.0,
+          "top": 1118.0,
+          "right": 1996.0,
+          "bottom": 1153.0
+        },
+        {
+          "region": "left",
+          "text": "'보",
+          "confidence": 0.8683559894561768,
+          "left": 700.0,
+          "top": 1819.0,
+          "right": 742.0,
+          "bottom": 1845.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.9052070379257202,
+          "left": 1516.0,
+          "top": 1447.0,
+          "right": 1549.0,
+          "bottom": 1480.0
+        },
+        {
+          "region": "left",
+          "text": "이",
+          "confidence": 0.9101036190986633,
+          "left": 1198.0,
+          "top": 3278.0,
+          "right": 1223.0,
+          "bottom": 3314.0
+        },
+        {
+          "region": "left",
+          "text": "B의",
+          "confidence": 0.9197002649307251,
+          "left": 403.0,
+          "top": 2343.0,
+          "right": 440.0,
+          "bottom": 2373.0
+        },
+        {
+          "region": "left",
+          "text": "않는다",
+          "confidence": 0.9256932139396667,
+          "left": 447.0,
+          "top": 2246.0,
+          "right": 517.0,
+          "bottom": 2278.0
+        },
+        {
+          "region": "left",
+          "text": "A의보수-10",
+          "confidence": 0.930209755897522,
+          "left": 413.0,
+          "top": 2017.0,
+          "right": 569.0,
+          "bottom": 2050.0
+        },
+        {
+          "region": "left",
+          "text": "보수-0",
+          "confidence": 0.940407395362854,
+          "left": 441.0,
+          "top": 2311.0,
+          "right": 540.0,
+          "bottom": 2341.0
+        },
+        {
+          "region": "left",
+          "text": "B를",
+          "confidence": 0.94685959815979,
+          "left": 696.0,
+          "top": 1953.0,
+          "right": 743.0,
+          "bottom": 1990.0
+        },
+        {
+          "region": "right",
+          "text": "연결된",
+          "confidence": 0.9478280544281006,
+          "left": 1432.0,
+          "top": 791.0,
+          "right": 1521.0,
+          "bottom": 826.0
+        },
+        {
+          "region": "right",
+          "text": "출수",
+          "confidence": 0.9571949243545532,
+          "left": 1811.0,
+          "top": 575.0,
+          "right": 1914.0,
+          "bottom": 606.0
+        },
+        {
+          "region": "left",
+          "text": "B의보수-10",
+          "confidence": 0.9586141705513,
+          "left": 636.0,
+          "top": 2439.0,
+          "right": 787.0,
+          "bottom": 2467.0
+        },
+        {
+          "region": "left",
+          "text": "않는다",
+          "confidence": 0.9604353904724121,
+          "left": 459.0,
+          "top": 1955.0,
+          "right": 522.0,
+          "bottom": 1991.0
+        },
+        {
+          "region": "left",
+          "text": "B의",
+          "confidence": 0.9626840353012085,
+          "left": 629.0,
+          "top": 2345.0,
+          "right": 670.0,
+          "bottom": 2373.0
+        },
+        {
+          "region": "left",
+          "text": "A의보수-15",
+          "confidence": 0.9627056121826172,
+          "left": 825.0,
+          "top": 2166.0,
+          "right": 978.0,
+          "bottom": 2195.0
+        },
+        {
+          "region": "left",
+          "text": "B를",
+          "confidence": 0.9718281030654907,
+          "left": 315.0,
+          "top": 1955.0,
+          "right": 356.0,
+          "bottom": 1984.0
+        },
+        {
+          "region": "left",
+          "text": "보수-15",
+          "confidence": 0.9792796969413757,
+          "left": 867.0,
+          "top": 2198.0,
+          "right": 978.0,
+          "bottom": 2227.0
+        },
+        {
+          "region": "right",
+          "text": "'현상",
+          "confidence": 0.9794580936431885,
+          "left": 1332.0,
+          "top": 2697.0,
+          "right": 1398.0,
+          "bottom": 2734.0
+        },
+        {
+          "region": "right",
+          "text": "'경험",
+          "confidence": 0.9814088940620422,
+          "left": 1362.0,
+          "top": 627.0,
+          "right": 1443.0,
+          "bottom": 664.0
+        }
+      ],
+      "review_rank": 4
+    },
+    {
+      "page": 10,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_010.png",
+      "official_page_sha256": "0920baa5c7248e8f1a9afeba772180c6cebd57e8d2b979843268b2710de8af3a",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_010.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 907,
+      "tesseract_chars": 956,
+      "lexical_similarity": 84.05797101449275,
+      "paddle_token_count": 317,
+      "paddle_mean_confidence": 0.9865423207779412,
+      "paddle_below_0_95": 13,
+      "paddle_below_0_98": 14,
+      "priority_score": 66.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "left",
+          "text": "D",
+          "confidence": 0.51160728931427,
+          "left": 296.0,
+          "top": 926.0,
+          "right": 327.0,
+          "bottom": 960.0
+        },
+        {
+          "region": "left",
+          "text": "ㄷ은",
+          "confidence": 0.5539203882217407,
+          "left": 923.0,
+          "top": 2190.0,
+          "right": 989.0,
+          "bottom": 2227.0
+        },
+        {
+          "region": "left",
+          "text": "O을",
+          "confidence": 0.5702898502349854,
+          "left": 775.0,
+          "top": 2371.0,
+          "right": 840.0,
+          "bottom": 2408.0
+        },
+        {
+          "region": "left",
+          "text": "0의",
+          "confidence": 0.6188323497772217,
+          "left": 628.0,
+          "top": 2371.0,
+          "right": 692.0,
+          "bottom": 2408.0
+        },
+        {
+          "region": "left",
+          "text": "O과",
+          "confidence": 0.6312058568000793,
+          "left": 663.0,
+          "top": 2072.0,
+          "right": 728.0,
+          "bottom": 2110.0
+        },
+        {
+          "region": "left",
+          "text": "0의",
+          "confidence": 0.647490918636322,
+          "left": 1041.0,
+          "top": 1953.0,
+          "right": 1107.0,
+          "bottom": 1991.0
+        },
+        {
+          "region": "left",
+          "text": "이이",
+          "confidence": 0.6612746119499207,
+          "left": 610.0,
+          "top": 2254.0,
+          "right": 679.0,
+          "bottom": 2290.0
+        },
+        {
+          "region": "right",
+          "text": "-",
+          "confidence": 0.6887463331222534,
+          "left": 1378.0,
+          "top": 901.0,
+          "right": 1387.0,
+          "bottom": 914.0
+        },
+        {
+          "region": "left",
+          "text": "O과",
+          "confidence": 0.7068109512329102,
+          "left": 326.0,
+          "top": 1879.0,
+          "right": 393.0,
+          "bottom": 1917.0
+        },
+        {
+          "region": "left",
+          "text": "O이",
+          "confidence": 0.7185320258140564,
+          "left": 953.0,
+          "top": 2254.0,
+          "right": 1015.0,
+          "bottom": 2292.0
+        },
+        {
+          "region": "left",
+          "text": "ㄷ에",
+          "confidence": 0.7784896492958069,
+          "left": 403.0,
+          "top": 1879.0,
+          "right": 467.0,
+          "bottom": 1917.0
+        },
+        {
+          "region": "right",
+          "text": "4",
+          "confidence": 0.8678876757621765,
+          "left": 1337.0,
+          "top": 1580.0,
+          "right": 1367.0,
+          "bottom": 1612.0
+        },
+        {
+          "region": "right",
+          "text": "궁정적",
+          "confidence": 0.8991439938545227,
+          "left": 1387.0,
+          "top": 1699.0,
+          "right": 1470.0,
+          "bottom": 1729.0
+        },
+        {
+          "region": "right",
+          "text": "'부정적",
+          "confidence": 0.9672104120254517,
+          "left": 1365.0,
+          "top": 836.0,
+          "right": 1476.0,
+          "bottom": 869.0
+        },
+        {
+          "region": "right",
+          "text": "긍정적",
+          "confidence": 0.9817900657653809,
+          "left": 1653.0,
+          "top": 1578.0,
+          "right": 1739.0,
+          "bottom": 1615.0
+        },
+        {
+          "region": "right",
+          "text": "긍정적",
+          "confidence": 0.9935590624809265,
+          "left": 1384.0,
+          "top": 1343.0,
+          "right": 1473.0,
+          "bottom": 1378.0
+        },
+        {
+          "region": "left",
+          "text": "삶은",
+          "confidence": 0.9970823526382446,
+          "left": 762.0,
+          "top": 987.0,
+          "right": 824.0,
+          "bottom": 1026.0
+        },
+        {
+          "region": "right",
+          "text": "윗글을",
+          "confidence": 0.997150719165802,
+          "left": 1372.0,
+          "top": 470.0,
+          "right": 1462.0,
+          "bottom": 505.0
+        },
+        {
+          "region": "right",
+          "text": "반응",
+          "confidence": 0.9974042177200317,
+          "left": 1918.0,
+          "top": 1577.0,
+          "right": 1981.0,
+          "bottom": 1615.0
+        },
+        {
+          "region": "left",
+          "text": "낸",
+          "confidence": 0.9979265928268433,
+          "left": 882.0,
+          "top": 578.0,
+          "right": 913.0,
+          "bottom": 612.0
+        },
+        {
+          "region": "left",
+          "text": "윗글의",
+          "confidence": 0.998073160648346,
+          "left": 328.0,
+          "top": 852.0,
+          "right": 418.0,
+          "bottom": 887.0
+        },
+        {
+          "region": "right",
+          "text": "반응은",
+          "confidence": 0.9981377720832825,
+          "left": 1697.0,
+          "top": 1459.0,
+          "right": 1786.0,
+          "bottom": 1496.0
+        },
+        {
+          "region": "right",
+          "text": "반응은",
+          "confidence": 0.998166561126709,
+          "left": 1715.0,
+          "top": 1224.0,
+          "right": 1804.0,
+          "bottom": 1261.0
+        },
+        {
+          "region": "right",
+          "text": "삶을",
+          "confidence": 0.9985675811767578,
+          "left": 2125.0,
+          "top": 1341.0,
+          "right": 2190.0,
+          "bottom": 1378.0
+        },
+        {
+          "region": "right",
+          "text": "긍정적",
+          "confidence": 0.9986612796783447,
+          "left": 1666.0,
+          "top": 957.0,
+          "right": 1759.0,
+          "bottom": 995.0
+        }
+      ],
+      "review_rank": 9
+    },
+    {
+      "page": 11,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_011.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 2183,
+      "tesseract_chars": 2305,
+      "lexical_similarity": 86.54188948306596,
+      "paddle_token_count": 764,
+      "paddle_mean_confidence": 0.9942608464762802,
+      "paddle_below_0_95": 18,
+      "paddle_below_0_98": 28,
+      "priority_score": 100.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "2은",
+          "confidence": 0.527619481086731,
+          "left": 1384.0,
+          "top": 2805.0,
+          "right": 1447.0,
+          "bottom": 2843.0
+        },
+        {
+          "region": "right",
+          "text": "&은",
+          "confidence": 0.5866496562957764,
+          "left": 1381.0,
+          "top": 2924.0,
+          "right": 1447.0,
+          "bottom": 2960.0
+        },
+        {
+          "region": "right",
+          "text": "&은",
+          "confidence": 0.5937780141830444,
+          "left": 1383.0,
+          "top": 2686.0,
+          "right": 1451.0,
+          "bottom": 2727.0
+        },
+        {
+          "region": "right",
+          "text": "O은",
+          "confidence": 0.6191185116767883,
+          "left": 1383.0,
+          "top": 2506.0,
+          "right": 1446.0,
+          "bottom": 2543.0
+        },
+        {
+          "region": "right",
+          "text": "훌욱",
+          "confidence": 0.6618138551712036,
+          "left": 1693.0,
+          "top": 1121.0,
+          "right": 1760.0,
+          "bottom": 1157.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.6642960906028748,
+          "left": 1335.0,
+          "top": 2504.0,
+          "right": 1369.0,
+          "bottom": 2545.0
+        },
+        {
+          "region": "right",
+          "text": "꽃과",
+          "confidence": 0.7601838111877441,
+          "left": 1650.0,
+          "top": 577.0,
+          "right": 1719.0,
+          "bottom": 613.0
+        },
+        {
+          "region": "right",
+          "text": "O은",
+          "confidence": 0.7730621099472046,
+          "left": 1379.0,
+          "top": 2565.0,
+          "right": 1448.0,
+          "bottom": 2608.0
+        },
+        {
+          "region": "right",
+          "text": "0~0에",
+          "confidence": 0.8302704691886902,
+          "left": 1367.0,
+          "top": 2432.0,
+          "right": 1495.0,
+          "bottom": 2471.0
+        },
+        {
+          "region": "right",
+          "text": "눈치했다",
+          "confidence": 0.8348768949508667,
+          "left": 1660.0,
+          "top": 1556.0,
+          "right": 1785.0,
+          "bottom": 1595.0
+        },
+        {
+          "region": "right",
+          "text": "짖는",
+          "confidence": 0.8905414342880249,
+          "left": 1827.0,
+          "top": 847.0,
+          "right": 1892.0,
+          "bottom": 886.0
+        },
+        {
+          "region": "left",
+          "text": "강",
+          "confidence": 0.9293004274368286,
+          "left": 992.0,
+          "top": 571.0,
+          "right": 1030.0,
+          "bottom": 611.0
+        },
+        {
+          "region": "right",
+          "text": "중폭하였다",
+          "confidence": 0.9318200945854187,
+          "left": 2059.0,
+          "top": 1967.0,
+          "right": 2212.0,
+          "bottom": 2001.0
+        },
+        {
+          "region": "left",
+          "text": "11",
+          "confidence": 0.9434914588928223,
+          "left": 1199.0,
+          "top": 3279.0,
+          "right": 1243.0,
+          "bottom": 3316.0
+        },
+        {
+          "region": "right",
+          "text": "'미개인]",
+          "confidence": 0.9450851678848267,
+          "left": 2093.0,
+          "top": 1718.0,
+          "right": 2212.0,
+          "bottom": 1755.0
+        },
+        {
+          "region": "left",
+          "text": "짖었다",
+          "confidence": 0.9454054832458496,
+          "left": 875.0,
+          "top": 1156.0,
+          "right": 967.0,
+          "bottom": 1192.0
+        },
+        {
+          "region": "right",
+          "text": "'문둥이",
+          "confidence": 0.9456135034561157,
+          "left": 1457.0,
+          "top": 2507.0,
+          "right": 1554.0,
+          "bottom": 2542.0
+        },
+        {
+          "region": "right",
+          "text": "햇살'의",
+          "confidence": 0.9464759826660156,
+          "left": 1633.0,
+          "top": 2683.0,
+          "right": 1733.0,
+          "bottom": 2727.0
+        },
+        {
+          "region": "right",
+          "text": "자기가",
+          "confidence": 0.9515101909637451,
+          "left": 1807.0,
+          "top": 521.0,
+          "right": 1903.0,
+          "bottom": 557.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.9595282077789307,
+          "left": 1335.0,
+          "top": 1900.0,
+          "right": 1369.0,
+          "bottom": 1942.0
+        },
+        {
+          "region": "right",
+          "text": "문득문득",
+          "confidence": 0.9601914286613464,
+          "left": 2014.0,
+          "top": 1285.0,
+          "right": 2132.0,
+          "bottom": 1320.0
+        },
+        {
+          "region": "right",
+          "text": "짓궂은",
+          "confidence": 0.9617259502410889,
+          "left": 1661.0,
+          "top": 2570.0,
+          "right": 1752.0,
+          "bottom": 2606.0
+        },
+        {
+          "region": "right",
+          "text": "0",
+          "confidence": 0.9640972018241882,
+          "left": 2076.0,
+          "top": 1557.0,
+          "right": 2113.0,
+          "bottom": 1595.0
+        },
+        {
+          "region": "left",
+          "text": "짜갠다는",
+          "confidence": 0.9671766757965088,
+          "left": 558.0,
+          "top": 1265.0,
+          "right": 679.0,
+          "bottom": 1300.0
+        },
+        {
+          "region": "left",
+          "text": "문둥이",
+          "confidence": 0.9687561988830566,
+          "left": 363.0,
+          "top": 2736.0,
+          "right": 449.0,
+          "bottom": 2771.0
+        }
+      ],
+      "review_rank": 2
+    },
+    {
+      "page": 12,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_012.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1800,
+      "tesseract_chars": 1936,
+      "lexical_similarity": 86.18843683083513,
+      "paddle_token_count": 585,
+      "paddle_mean_confidence": 0.9923935741440862,
+      "paddle_below_0_95": 17,
+      "paddle_below_0_98": 31,
+      "priority_score": 99.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "Q를",
+          "confidence": 0.5258058905601501,
+          "left": 1373.0,
+          "top": 1027.0,
+          "right": 1455.0,
+          "bottom": 1071.0
+        },
+        {
+          "region": "right",
+          "text": "Q와",
+          "confidence": 0.5565811991691589,
+          "left": 2156.0,
+          "top": 1744.0,
+          "right": 2240.0,
+          "bottom": 1797.0
+        },
+        {
+          "region": "right",
+          "text": "Q는",
+          "confidence": 0.6224411725997925,
+          "left": 1565.0,
+          "top": 1522.0,
+          "right": 1646.0,
+          "bottom": 1570.0
+        },
+        {
+          "region": "right",
+          "text": "&을",
+          "confidence": 0.6502944231033325,
+          "left": 1949.0,
+          "top": 2818.0,
+          "right": 2028.0,
+          "bottom": 2868.0
+        },
+        {
+          "region": "right",
+          "text": "Q로",
+          "confidence": 0.6778417825698853,
+          "left": 1959.0,
+          "top": 3046.0,
+          "right": 2041.0,
+          "bottom": 3093.0
+        },
+        {
+          "region": "right",
+          "text": "열",
+          "confidence": 0.7360748648643494,
+          "left": 1962.0,
+          "top": 1577.0,
+          "right": 2012.0,
+          "bottom": 1628.0
+        },
+        {
+          "region": "right",
+          "text": "Q과",
+          "confidence": 0.7432718276977539,
+          "left": 1916.0,
+          "top": 1521.0,
+          "right": 1996.0,
+          "bottom": 1570.0
+        },
+        {
+          "region": "right",
+          "text": "Q을",
+          "confidence": 0.7734181880950928,
+          "left": 1744.0,
+          "top": 848.0,
+          "right": 1822.0,
+          "bottom": 892.0
+        },
+        {
+          "region": "right",
+          "text": "&을",
+          "confidence": 0.8163594007492065,
+          "left": 1332.0,
+          "top": 1809.0,
+          "right": 1411.0,
+          "bottom": 1858.0
+        },
+        {
+          "region": "right",
+          "text": "응축기로",
+          "confidence": 0.8595632314682007,
+          "left": 1335.0,
+          "top": 2317.0,
+          "right": 1453.0,
+          "bottom": 2352.0
+        },
+        {
+          "region": "right",
+          "text": "Q로",
+          "confidence": 0.8711572885513306,
+          "left": 1866.0,
+          "top": 2543.0,
+          "right": 1945.0,
+          "bottom": 2585.0
+        },
+        {
+          "region": "right",
+          "text": "COPH와",
+          "confidence": 0.8822239637374878,
+          "left": 1841.0,
+          "top": 1748.0,
+          "right": 1956.0,
+          "bottom": 1787.0
+        },
+        {
+          "region": "right",
+          "text": "조작에",
+          "confidence": 0.9201778769493103,
+          "left": 1558.0,
+          "top": 2261.0,
+          "right": 1646.0,
+          "bottom": 2297.0
+        },
+        {
+          "region": "right",
+          "text": "응축기가",
+          "confidence": 0.9414998292922974,
+          "left": 1335.0,
+          "top": 1306.0,
+          "right": 1451.0,
+          "bottom": 1341.0
+        },
+        {
+          "region": "right",
+          "text": "성능계수COPO가",
+          "confidence": 0.9424951076507568,
+          "left": 1402.0,
+          "top": 1750.0,
+          "right": 1650.0,
+          "bottom": 1784.0
+        },
+        {
+          "region": "right",
+          "text": "성능계수COP]와",
+          "confidence": 0.9432368874549866,
+          "left": 1407.0,
+          "top": 1696.0,
+          "right": 1654.0,
+          "bottom": 1729.0
+        },
+        {
+          "region": "right",
+          "text": "팽창밸브를",
+          "confidence": 0.9439414143562317,
+          "left": 1752.0,
+          "top": 683.0,
+          "right": 1900.0,
+          "bottom": 721.0
+        },
+        {
+          "region": "right",
+          "text": "히트펌프",
+          "confidence": 0.9574497938156128,
+          "left": 1829.0,
+          "top": 629.0,
+          "right": 1952.0,
+          "bottom": 664.0
+        },
+        {
+          "region": "right",
+          "text": "팽창밸브를",
+          "confidence": 0.9607507586479187,
+          "left": 1793.0,
+          "top": 2317.0,
+          "right": 1941.0,
+          "bottom": 2350.0
+        },
+        {
+          "region": "right",
+          "text": "역전밸브가",
+          "confidence": 0.9623916745185852,
+          "left": 2014.0,
+          "top": 1198.0,
+          "right": 2165.0,
+          "bottom": 1231.0
+        },
+        {
+          "region": "right",
+          "text": "팽창밸브가",
+          "confidence": 0.9681601524353027,
+          "left": 1797.0,
+          "top": 2044.0,
+          "right": 1941.0,
+          "bottom": 2079.0
+        },
+        {
+          "region": "right",
+          "text": "용액펌프를",
+          "confidence": 0.9693799018859863,
+          "left": 2089.0,
+          "top": 2992.0,
+          "right": 2235.0,
+          "bottom": 3027.0
+        },
+        {
+          "region": "right",
+          "text": "팽창밸브는",
+          "confidence": 0.9696747660636902,
+          "left": 1912.0,
+          "top": 1024.0,
+          "right": 2062.0,
+          "bottom": 1064.0
+        },
+        {
+          "region": "right",
+          "text": "사이클을",
+          "confidence": 0.971366286277771,
+          "left": 1919.0,
+          "top": 1139.0,
+          "right": 2046.0,
+          "bottom": 1180.0
+        },
+        {
+          "region": "left",
+          "text": "'이물감'의",
+          "confidence": 0.9718355536460876,
+          "left": 540.0,
+          "top": 1713.0,
+          "right": 672.0,
+          "bottom": 1746.0
+        }
+      ],
+      "review_rank": 3
+    },
+    {
+      "page": 13,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_013.png",
+      "official_page_sha256": "c7913e82d109b24bdce46213427cd1a26ff70254b5758cbca01a7d271532f830",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_013.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 923,
+      "tesseract_chars": 991,
+      "lexical_similarity": 79.93730407523512,
+      "paddle_token_count": 295,
+      "paddle_mean_confidence": 0.9883835752131576,
+      "paddle_below_0_95": 14,
+      "paddle_below_0_98": 28,
+      "priority_score": 84.06269592476488,
+      "lowest_confidence_tokens": [
+        {
+          "region": "left",
+          "text": "드",
+          "confidence": 0.5580747723579407,
+          "left": 324.0,
+          "top": 2497.0,
+          "right": 357.0,
+          "bottom": 2524.0
+        },
+        {
+          "region": "left",
+          "text": "Q는",
+          "confidence": 0.6359516978263855,
+          "left": 293.0,
+          "top": 636.0,
+          "right": 377.0,
+          "bottom": 676.0
+        },
+        {
+          "region": "left",
+          "text": "Qg+",
+          "confidence": 0.6650699973106384,
+          "left": 750.0,
+          "top": 701.0,
+          "right": 834.0,
+          "bottom": 738.0
+        },
+        {
+          "region": "left",
+          "text": "Q= ",
+          "confidence": 0.6743430495262146,
+          "left": 591.0,
+          "top": 697.0,
+          "right": 694.0,
+          "bottom": 742.0
+        },
+        {
+          "region": "left",
+          "text": "Q와",
+          "confidence": 0.7299665808677673,
+          "left": 851.0,
+          "top": 810.0,
+          "right": 928.0,
+          "bottom": 854.0
+        },
+        {
+          "region": "left",
+          "text": "26",
+          "confidence": 0.7831340432167053,
+          "left": 264.0,
+          "top": 2141.0,
+          "right": 311.0,
+          "bottom": 2176.0
+        },
+        {
+          "region": "right",
+          "text": "70시J의",
+          "confidence": 0.8355308771133423,
+          "left": 2139.0,
+          "top": 820.0,
+          "right": 2232.0,
+          "bottom": 857.0
+        },
+        {
+          "region": "left",
+          "text": "QL",
+          "confidence": 0.8935858011245728,
+          "left": 761.0,
+          "top": 809.0,
+          "right": 812.0,
+          "bottom": 857.0
+        },
+        {
+          "region": "right",
+          "text": "18kJ의",
+          "confidence": 0.9082227945327759,
+          "left": 2132.0,
+          "top": 764.0,
+          "right": 2232.0,
+          "bottom": 805.0
+        },
+        {
+          "region": "right",
+          "text": "5kJ의",
+          "confidence": 0.9138925075531006,
+          "left": 1767.0,
+          "top": 873.0,
+          "right": 1853.0,
+          "bottom": 914.0
+        },
+        {
+          "region": "left",
+          "text": "Q+",
+          "confidence": 0.9232782125473022,
+          "left": 676.0,
+          "top": 703.0,
+          "right": 757.0,
+          "bottom": 738.0
+        },
+        {
+          "region": "left",
+          "text": "전기",
+          "confidence": 0.9326558113098145,
+          "left": 1040.0,
+          "top": 1174.0,
+          "right": 1100.0,
+          "bottom": 1212.0
+        },
+        {
+          "region": "left",
+          "text": "팽창밸브를",
+          "confidence": 0.9357760548591614,
+          "left": 687.0,
+          "top": 522.0,
+          "right": 834.0,
+          "bottom": 557.0
+        },
+        {
+          "region": "left",
+          "text": "웅축기에서",
+          "confidence": 0.9412213563919067,
+          "left": 923.0,
+          "top": 469.0,
+          "right": 1063.0,
+          "bottom": 503.0
+        },
+        {
+          "region": "right",
+          "text": "응축기에서",
+          "confidence": 0.9501938819885254,
+          "left": 1459.0,
+          "top": 1196.0,
+          "right": 1599.0,
+          "bottom": 1226.0
+        },
+        {
+          "region": "right",
+          "text": "히트펌프",
+          "confidence": 0.9516197443008423,
+          "left": 1630.0,
+          "top": 657.0,
+          "right": 1745.0,
+          "bottom": 691.0
+        },
+        {
+          "region": "left",
+          "text": "응축기",
+          "confidence": 0.9540128707885742,
+          "left": 621.0,
+          "top": 577.0,
+          "right": 707.0,
+          "bottom": 612.0
+        },
+        {
+          "region": "left",
+          "text": "발생기에서",
+          "confidence": 0.9548137784004211,
+          "left": 496.0,
+          "top": 469.0,
+          "right": 637.0,
+          "bottom": 503.0
+        },
+        {
+          "region": "left",
+          "text": "팽창밸브는",
+          "confidence": 0.9612326622009277,
+          "left": 341.0,
+          "top": 1409.0,
+          "right": 493.0,
+          "bottom": 1448.0
+        },
+        {
+          "region": "right",
+          "text": "팽창밸브를",
+          "confidence": 0.9668337106704712,
+          "left": 1857.0,
+          "top": 1499.0,
+          "right": 2011.0,
+          "bottom": 1542.0
+        },
+        {
+          "region": "left",
+          "text": "용액펌프가",
+          "confidence": 0.9705141186714172,
+          "left": 937.0,
+          "top": 757.0,
+          "right": 1081.0,
+          "bottom": 791.0
+        },
+        {
+          "region": "left",
+          "text": "사용이",
+          "confidence": 0.9715693593025208,
+          "left": 345.0,
+          "top": 1229.0,
+          "right": 429.0,
+          "bottom": 1265.0
+        },
+        {
+          "region": "left",
+          "text": "히트펌프의",
+          "confidence": 0.9749196767807007,
+          "left": 530.0,
+          "top": 2328.0,
+          "right": 670.0,
+          "bottom": 2362.0
+        },
+        {
+          "region": "right",
+          "text": "50kJ의",
+          "confidence": 0.9760074615478516,
+          "left": 1562.0,
+          "top": 984.0,
+          "right": 1661.0,
+          "bottom": 1020.0
+        },
+        {
+          "region": "left",
+          "text": "용액펌프의",
+          "confidence": 0.9762913584709167,
+          "left": 646.0,
+          "top": 2492.0,
+          "right": 781.0,
+          "bottom": 2527.0
+        }
+      ],
+      "review_rank": 5
+    },
+    {
+      "page": 14,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_014.png",
+      "official_page_sha256": "4ee1314237fc18a799c8bd8b4bad867a6e70fa189a47f65e4b49d264ebf6ccd2",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_014.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 1918,
+      "tesseract_chars": 2035,
+      "lexical_similarity": 88.13559322033898,
+      "paddle_token_count": 639,
+      "paddle_mean_confidence": 0.9927252340764506,
+      "paddle_below_0_95": 16,
+      "paddle_below_0_98": 20,
+      "priority_score": 84.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "right",
+          "text": "ㄷ을",
+          "confidence": 0.537322998046875,
+          "left": 1446.0,
+          "top": 2209.0,
+          "right": 1509.0,
+          "bottom": 2247.0
+        },
+        {
+          "region": "right",
+          "text": "O을",
+          "confidence": 0.5420308113098145,
+          "left": 1546.0,
+          "top": 2809.0,
+          "right": 1612.0,
+          "bottom": 2847.0
+        },
+        {
+          "region": "right",
+          "text": "ㄷ은",
+          "confidence": 0.5523110628128052,
+          "left": 1495.0,
+          "top": 2692.0,
+          "right": 1558.0,
+          "bottom": 2729.0
+        },
+        {
+          "region": "right",
+          "text": "O과",
+          "confidence": 0.5944989323616028,
+          "left": 1367.0,
+          "top": 2209.0,
+          "right": 1432.0,
+          "bottom": 2246.0
+        },
+        {
+          "region": "right",
+          "text": "O과",
+          "confidence": 0.5995150208473206,
+          "left": 1383.0,
+          "top": 2283.0,
+          "right": 1446.0,
+          "bottom": 2320.0
+        },
+        {
+          "region": "right",
+          "text": "O은",
+          "confidence": 0.603298544883728,
+          "left": 1454.0,
+          "top": 2401.0,
+          "right": 1520.0,
+          "bottom": 2439.0
+        },
+        {
+          "region": "right",
+          "text": "O과",
+          "confidence": 0.6679152250289917,
+          "left": 1383.0,
+          "top": 2401.0,
+          "right": 1447.0,
+          "bottom": 2439.0
+        },
+        {
+          "region": "right",
+          "text": "O은",
+          "confidence": 0.7061041593551636,
+          "left": 1383.0,
+          "top": 2637.0,
+          "right": 1446.0,
+          "bottom": 2675.0
+        },
+        {
+          "region": "right",
+          "text": "O은",
+          "confidence": 0.7179988622665405,
+          "left": 1383.0,
+          "top": 2755.0,
+          "right": 1447.0,
+          "bottom": 2792.0
+        },
+        {
+          "region": "right",
+          "text": "그에서",
+          "confidence": 0.7983479499816895,
+          "left": 1383.0,
+          "top": 2521.0,
+          "right": 1473.0,
+          "bottom": 2557.0
+        },
+        {
+          "region": "left",
+          "text": "0파생",
+          "confidence": 0.8193178772926331,
+          "left": 1086.0,
+          "top": 2204.0,
+          "right": 1196.0,
+          "bottom": 2248.0
+        },
+        {
+          "region": "right",
+          "text": "ㄷ에서는",
+          "confidence": 0.8772665858268738,
+          "left": 1455.0,
+          "top": 2285.0,
+          "right": 1575.0,
+          "bottom": 2320.0
+        },
+        {
+          "region": "right",
+          "text": "ㄷ에서는",
+          "confidence": 0.8858988881111145,
+          "left": 2139.0,
+          "top": 2521.0,
+          "right": 2261.0,
+          "bottom": 2556.0
+        },
+        {
+          "region": "right",
+          "text": "D",
+          "confidence": 0.888802707195282,
+          "left": 1336.0,
+          "top": 1089.0,
+          "right": 1369.0,
+          "bottom": 1124.0
+        },
+        {
+          "region": "left",
+          "text": "0",
+          "confidence": 0.9274355173110962,
+          "left": 607.0,
+          "top": 3132.0,
+          "right": 644.0,
+          "bottom": 3171.0
+        },
+        {
+          "region": "left",
+          "text": "자본주의를",
+          "confidence": 0.9386259913444519,
+          "left": 290.0,
+          "top": 2480.0,
+          "right": 438.0,
+          "bottom": 2515.0
+        },
+        {
+          "region": "right",
+          "text": "발생하기",
+          "confidence": 0.9556021094322205,
+          "left": 1433.0,
+          "top": 468.0,
+          "right": 1550.0,
+          "bottom": 503.0
+        },
+        {
+          "region": "left",
+          "text": "비상사태",
+          "confidence": 0.9643827676773071,
+          "left": 444.0,
+          "top": 1988.0,
+          "right": 565.0,
+          "bottom": 2027.0
+        },
+        {
+          "region": "right",
+          "text": "1",
+          "confidence": 0.9654257893562317,
+          "left": 1337.0,
+          "top": 2285.0,
+          "right": 1367.0,
+          "bottom": 2318.0
+        },
+        {
+          "region": "right",
+          "text": "것으로",
+          "confidence": 0.9663193225860596,
+          "left": 2140.0,
+          "top": 519.0,
+          "right": 2238.0,
+          "bottom": 561.0
+        },
+        {
+          "region": "left",
+          "text": "텔만은",
+          "confidence": 0.9804509282112122,
+          "left": 1105.0,
+          "top": 950.0,
+          "right": 1196.0,
+          "bottom": 991.0
+        },
+        {
+          "region": "left",
+          "text": "텔만은",
+          "confidence": 0.9839015603065491,
+          "left": 816.0,
+          "top": 627.0,
+          "right": 905.0,
+          "bottom": 664.0
+        },
+        {
+          "region": "left",
+          "text": "것인가에만",
+          "confidence": 0.9869644045829773,
+          "left": 290.0,
+          "top": 1065.0,
+          "right": 438.0,
+          "bottom": 1099.0
+        },
+        {
+          "region": "left",
+          "text": "않으며",
+          "confidence": 0.987771213054657,
+          "left": 360.0,
+          "top": 2153.0,
+          "right": 455.0,
+          "bottom": 2190.0
+        },
+        {
+          "region": "left",
+          "text": "다룸으로써",
+          "confidence": 0.9969466328620911,
+          "left": 946.0,
+          "top": 2153.0,
+          "right": 1090.0,
+          "bottom": 2188.0
+        }
+      ],
+      "review_rank": 6
+    },
+    {
+      "page": 15,
+      "status": "pending_official_visual_review",
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_015.png",
+      "official_page_sha256": "f3725af63848d362d9495dbff718499b7f6b1b6dcda3d6a0c380924bdb707c33",
+      "paddle_json": "자료/LEET_언어이해/OCR_초안_Paddle/2027/question/page_015.json",
+      "tesseract_draft": "자료/LEET_언어이해/OCR_초안/2027/2027_question.md",
+      "paddle_chars": 587,
+      "tesseract_chars": 646,
+      "lexical_similarity": 89.213300892133,
+      "paddle_token_count": 202,
+      "paddle_mean_confidence": 0.9987995453400187,
+      "paddle_below_0_95": 2,
+      "paddle_below_0_98": 2,
+      "priority_score": 10.0,
+      "lowest_confidence_tokens": [
+        {
+          "region": "left",
+          "text": "긴장이",
+          "confidence": 0.9033031463623047,
+          "left": 753.0,
+          "top": 984.0,
+          "right": 839.0,
+          "bottom": 1019.0
+        },
+        {
+          "region": "left",
+          "text": "-",
+          "confidence": 0.9253174662590027,
+          "left": 467.0,
+          "top": 996.0,
+          "right": 482.0,
+          "bottom": 1009.0
+        },
+        {
+          "region": "left",
+          "text": "A국",
+          "confidence": 0.991649329662323,
+          "left": 339.0,
+          "top": 1827.0,
+          "right": 398.0,
+          "bottom": 1866.0
+        },
+        {
+          "region": "left",
+          "text": "성격과",
+          "confidence": 0.9930544495582581,
+          "left": 890.0,
+          "top": 1473.0,
+          "right": 983.0,
+          "bottom": 1514.0
+        },
+        {
+          "region": "left",
+          "text": "1",
+          "confidence": 0.9948471784591675,
+          "left": 294.0,
+          "top": 1360.0,
+          "right": 327.0,
+          "bottom": 1391.0
+        },
+        {
+          "region": "left",
+          "text": "기존에",
+          "confidence": 0.9956257939338684,
+          "left": 646.0,
+          "top": 1201.0,
+          "right": 738.0,
+          "bottom": 1237.0
+        },
+        {
+          "region": "right",
+          "text": "이해",
+          "confidence": 0.9962278604507446,
+          "left": 1270.0,
+          "top": 312.0,
+          "right": 1411.0,
+          "bottom": 396.0
+        },
+        {
+          "region": "left",
+          "text": "무효화하는",
+          "confidence": 0.9966952204704285,
+          "left": 1046.0,
+          "top": 1205.0,
+          "right": 1190.0,
+          "bottom": 1234.0
+        },
+        {
+          "region": "left",
+          "text": "윗글을",
+          "confidence": 0.9970755577087402,
+          "left": 328.0,
+          "top": 470.0,
+          "right": 418.0,
+          "bottom": 505.0
+        },
+        {
+          "region": "left",
+          "text": "일괄",
+          "confidence": 0.9977257251739502,
+          "left": 967.0,
+          "top": 1199.0,
+          "right": 1030.0,
+          "bottom": 1238.0
+        },
+        {
+          "region": "left",
+          "text": "B국",
+          "confidence": 0.998214602470398,
+          "left": 486.0,
+          "top": 931.0,
+          "right": 543.0,
+          "bottom": 963.0
+        },
+        {
+          "region": "left",
+          "text": "B국의",
+          "confidence": 0.9982361793518066,
+          "left": 541.0,
+          "top": 1831.0,
+          "right": 619.0,
+          "bottom": 1862.0
+        },
+        {
+          "region": "left",
+          "text": "B국",
+          "confidence": 0.9985429048538208,
+          "left": 578.0,
+          "top": 982.0,
+          "right": 637.0,
+          "bottom": 1020.0
+        },
+        {
+          "region": "left",
+          "text": "A국",
+          "confidence": 0.9987481832504272,
+          "left": 341.0,
+          "top": 1713.0,
+          "right": 397.0,
+          "bottom": 1746.0
+        },
+        {
+          "region": "left",
+          "text": "첩보를",
+          "confidence": 0.9990492463111877,
+          "left": 651.0,
+          "top": 657.0,
+          "right": 738.0,
+          "bottom": 691.0
+        },
+        {
+          "region": "left",
+          "text": "특별법>을",
+          "confidence": 0.9991083145141602,
+          "left": 706.0,
+          "top": 1255.0,
+          "right": 846.0,
+          "bottom": 1290.0
+        },
+        {
+          "region": "left",
+          "text": "B국의",
+          "confidence": 0.9991444945335388,
+          "left": 912.0,
+          "top": 657.0,
+          "right": 993.0,
+          "bottom": 691.0
+        },
+        {
+          "region": "left",
+          "text": "B국이",
+          "confidence": 0.9991509318351746,
+          "left": 676.0,
+          "top": 602.0,
+          "right": 755.0,
+          "bottom": 637.0
+        },
+        {
+          "region": "left",
+          "text": "징후는",
+          "confidence": 0.9992305636405945,
+          "left": 323.0,
+          "top": 711.0,
+          "right": 411.0,
+          "bottom": 746.0
+        },
+        {
+          "region": "left",
+          "text": "A국",
+          "confidence": 0.9992586374282837,
+          "left": 589.0,
+          "top": 712.0,
+          "right": 650.0,
+          "bottom": 745.0
+        },
+        {
+          "region": "left",
+          "text": "고조되자",
+          "confidence": 0.9993002414703369,
+          "left": 857.0,
+          "top": 984.0,
+          "right": 976.0,
+          "bottom": 1019.0
+        },
+        {
+          "region": "left",
+          "text": "A국",
+          "confidence": 0.9993155598640442,
+          "left": 986.0,
+          "top": 982.0,
+          "right": 1048.0,
+          "bottom": 1020.0
+        },
+        {
+          "region": "left",
+          "text": "A국",
+          "confidence": 0.9993431568145752,
+          "left": 349.0,
+          "top": 603.0,
+          "right": 407.0,
+          "bottom": 637.0
+        },
+        {
+          "region": "left",
+          "text": "B국의",
+          "confidence": 0.9993610382080078,
+          "left": 942.0,
+          "top": 711.0,
+          "right": 1022.0,
+          "bottom": 746.0
+        },
+        {
+          "region": "left",
+          "text": "A국",
+          "confidence": 0.9994314908981323,
+          "left": 884.0,
+          "top": 1094.0,
+          "right": 943.0,
+          "bottom": 1127.0
+        }
+      ],
+      "review_rank": 15
+    }
+  ],
+  "warning": "두 OCR의 일치도는 원문 인증이 아니다. 모든 문자는 연결된 공식 페이지 이미지에서만 최종 판정한다."
+}

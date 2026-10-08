@@ -1,0 +1,342 @@
+[
+  {
+    "id": "integrated",
+    "name": "통합적 관점의 결합",
+    "parent_concepts": [
+      "integrated_view",
+      "temporal_view",
+      "spatial_view",
+      "social_view",
+      "ethical_view"
+    ],
+    "visual_basis": "관점의 집합·교차·분류",
+    "rule": "한 현상을 시간·공간·사회·윤리 차원에서 함께 보되 각 관점의 질문 기준을 구분한다."
+  },
+  {
+    "id": "happiness",
+    "name": "행복 조건과 삶의 질 지표",
+    "parent_concepts": [
+      "meaning_of_happiness",
+      "conditions_happiness",
+      "settlement_environment",
+      "democracy_happiness"
+    ],
+    "visual_basis": "소득·건강·교육·환경·민주주의 지표",
+    "rule": "행복은 단일 소득 지표가 아니라 정주 환경, 건강, 관계, 민주주의와 도덕적 실천의 복합 조건으로 판단한다."
+  },
+  {
+    "id": "climate",
+    "name": "기후 그래프와 기후 지역",
+    "parent_concepts": [
+      "climate_regions",
+      "climate_graph_reasoning"
+    ],
+    "visual_basis": "월별 기온선·강수 막대·분포 지도",
+    "rule": "최한월·최난월 기온, 연교차, 강수의 총량과 계절 집중을 결합해 기후와 생활 양식을 추론한다."
+  },
+  {
+    "id": "adaptation",
+    "name": "자연환경 적응과 생활 양식",
+    "parent_concepts": [
+      "natural_environment",
+      "climate_regions",
+      "landforms_and_life"
+    ],
+    "visual_basis": "가옥·농업·의식주 사진과 지역 지도",
+    "rule": "주민 생활은 기후·지형의 제약에 적응하지만 기술과 문화에 따라 같은 환경에서도 다른 양상이 나타난다."
+  },
+  {
+    "id": "landform",
+    "name": "지형의 형성과 인간 생활",
+    "parent_concepts": [
+      "landforms_and_life",
+      "natural_environment"
+    ],
+    "visual_basis": "침식·퇴적 지형 사진과 위치 지도",
+    "rule": "지형의 형성 작용을 경관 특징에서 판별하고 이용·재해·보전과 연결한다."
+  },
+  {
+    "id": "disaster",
+    "name": "자연재해의 공간 분포와 대응",
+    "parent_concepts": [
+      "natural_disaster",
+      "disaster_risk_management"
+    ],
+    "visual_basis": "발생 지도·재난 문자·행동 요령",
+    "rule": "재해 규모만이 아니라 노출·취약성·대응 역량이 피해를 결정하며 재해 유형에 맞는 행동이 필요하다."
+  },
+  {
+    "id": "environment",
+    "name": "환경 문제의 발생과 해결",
+    "parent_concepts": [
+      "environmental_problem",
+      "environmental_governance",
+      "environmental_assessment"
+    ],
+    "visual_basis": "오염 경로·협약·정책 도식",
+    "rule": "환경 문제는 월경성과 누적성을 가지므로 원인-이동-피해 경로와 정부·기업·시민·국제 협력을 함께 본다."
+  },
+  {
+    "id": "environment_ethics",
+    "name": "인간과 자연의 관계",
+    "parent_concepts": [
+      "anthropocentrism",
+      "animal_liberation",
+      "life_centrism",
+      "ecocentrism",
+      "biodiversity"
+    ],
+    "visual_basis": "입장 좌표·사례·생명 범위",
+    "rule": "도덕적 고려 대상과 자연의 도구적·내재적 가치 인정 범위로 환경 윤리 입장을 구분한다."
+  },
+  {
+    "id": "culture_region",
+    "name": "문화권과 문화 경관",
+    "parent_concepts": [
+      "cultural_regions",
+      "religious_landscape"
+    ],
+    "visual_basis": "종교·언어·건축·음식 분포 지도와 사진",
+    "rule": "종교·언어·역사·자연환경의 결합이 문화권과 문화 경관을 형성하며 경계는 고정된 선이 아니다."
+  },
+  {
+    "id": "culture_change",
+    "name": "문화 변동과 문화 접변",
+    "parent_concepts": [
+      "cultural_change",
+      "acculturation",
+      "traditional_culture"
+    ],
+    "visual_basis": "전파 방향·결과 분류·혼합 사례",
+    "rule": "발명·발견·전파가 변동을 일으키고 접촉 뒤 병존·동화·융합이 나타날 수 있다."
+  },
+  {
+    "id": "culture_attitude",
+    "name": "문화 이해 태도와 다문화 사회",
+    "parent_concepts": [
+      "attitude_culture",
+      "extreme_relativism",
+      "cultural_identity",
+      "multicultural_policy"
+    ],
+    "visual_basis": "입장 비교·판단 흐름도",
+    "rule": "문화 상대주의는 맥락 이해를 요구하지만 인권 같은 보편 윤리를 침해하는 관행까지 정당화하지는 않는다."
+  },
+  {
+    "id": "transport",
+    "name": "교통 발달과 시공간 변화",
+    "parent_concepts": [
+      "transport_development",
+      "suburbanization_metro"
+    ],
+    "visual_basis": "시간 거리·물류 흐름·노선 지도",
+    "rule": "교통 발달은 시간 거리와 수송비를 줄여 생활권·시장권을 확대하지만 생태 훼손과 지역 격차도 만들 수 있다."
+  },
+  {
+    "id": "information",
+    "name": "정보화와 사회 변화",
+    "parent_concepts": [
+      "information_society",
+      "digital_divide"
+    ],
+    "visual_basis": "정보 흐름·격차 지표·온라인 사례",
+    "rule": "정보화는 거래·소통·참여를 넓히는 동시에 접근 격차, 개인정보 침해, 플랫폼 의존 문제를 낳는다."
+  },
+  {
+    "id": "digital_citizenship",
+    "name": "디지털 시민성과 권리",
+    "parent_concepts": [
+      "digital_citizenship",
+      "new_rights"
+    ],
+    "visual_basis": "온라인 상호 작용·권리 충돌 사례",
+    "rule": "사이버 공간에서도 인권과 책임이 적용되며 표현·기억·삭제·참여 권리는 타인의 권리와 조정되어야 한다."
+  },
+  {
+    "id": "regional_urban",
+    "name": "지역 조사·도시화와 공간 구조",
+    "parent_concepts": [
+      "regional_research",
+      "urbanization",
+      "urban_structure",
+      "urban_problem_regeneration"
+    ],
+    "visual_basis": "조사 절차·분포도·도시화 그래프",
+    "rule": "지역 정보는 조사-정리-도표화로 해석하고 도시화는 인구 집중, 기능 분화, 문제와 재생을 동반한다."
+  },
+  {
+    "id": "rights",
+    "name": "인권의 역사·유형·보장",
+    "parent_concepts": [
+      "human_rights",
+      "rights_history",
+      "constitutional_rights",
+      "rights_categories",
+      "rights_conceptions"
+    ],
+    "visual_basis": "역사 순서·권리 분류·헌법 조항",
+    "rule": "인권은 자유권에서 사회권·연대권으로 확장되며 헌법과 제도로 구체화된다."
+  },
+  {
+    "id": "rights_remedy",
+    "name": "권리 침해와 구제·노동권",
+    "parent_concepts": [
+      "rights_limits",
+      "rights_remedies",
+      "vulnerable_human_rights",
+      "labor_rights",
+      "environmental_rights"
+    ],
+    "visual_basis": "침해 사례·계약·구제 절차",
+    "rule": "권리 제한은 법률·목적·비례성을 갖춰야 하고 침해 유형에 맞는 구제 기관과 절차를 선택해야 한다."
+  },
+  {
+    "id": "justice",
+    "name": "정의 원칙과 논증 구조",
+    "parent_concepts": [
+      "justice",
+      "distributive_justice",
+      "corrective_justice",
+      "rawls",
+      "nozick",
+      "affirmative_action",
+      "equality_principles"
+    ],
+    "visual_basis": "입장 집합·비판 방향·대전제/소전제",
+    "rule": "분배 기준과 자유·평등의 우선순위를 구분하고 원칙이 사례에 적용되는 논증의 타당성을 검토한다."
+  },
+  {
+    "id": "capitalism",
+    "name": "자본주의 변화와 경제 체제",
+    "parent_concepts": [
+      "capitalism_history",
+      "economic_systems",
+      "market_principle"
+    ],
+    "visual_basis": "역사 단계·체제 분류·주체 역할",
+    "rule": "시장과 정부의 역할은 역사적 위기에 따라 달라졌으며 혼합 경제는 두 조정 기제를 함께 사용한다."
+  },
+  {
+    "id": "market_choice",
+    "name": "경제 주체·합리적 선택·시장 실패",
+    "parent_concepts": [
+      "economic_actor_roles",
+      "rational_choice",
+      "opportunity_cost",
+      "market_failure",
+      "external_effects",
+      "government_failure"
+    ],
+    "visual_basis": "비용·편익 표와 원인-정책 흐름",
+    "rule": "순편익을 기준으로 선택하되 외부 효과·공공재·정보 비대칭이 있으면 사적 선택과 사회적 최적이 어긋난다."
+  },
+  {
+    "id": "finance",
+    "name": "금융 자산과 생애 재무 설계",
+    "parent_concepts": [
+      "financial_life",
+      "financial_properties",
+      "financial_return_risk",
+      "household_income_expenditure"
+    ],
+    "visual_basis": "수익성·안전성·유동성 좌표와 생애 곡선",
+    "rule": "금융 상품은 수익·위험·유동성의 상충 관계를 가지므로 생애 소득과 소비에 맞춘 분산이 필요하다."
+  },
+  {
+    "id": "globalization",
+    "name": "세계화·지역화와 장소 경쟁",
+    "parent_concepts": [
+      "globalization",
+      "localization",
+      "global_city",
+      "geographical_indication",
+      "globalization_problems"
+    ],
+    "visual_basis": "세계 도시·브랜드·상품 네트워크 지도",
+    "rule": "세계화는 연결을 확대하고 지역화는 고유 자원을 브랜드화하며 두 과정은 동시에 진행된다."
+  },
+  {
+    "id": "multinational",
+    "name": "다국적 기업과 공간적 분업",
+    "parent_concepts": [
+      "multinational_corporation",
+      "international_trade"
+    ],
+    "visual_basis": "본사·연구소·부품·조립·판매망",
+    "rule": "기업은 기능별 입지 조건을 따라 생산을 분절하고 세계 네트워크로 결합한다."
+  },
+  {
+    "id": "peace",
+    "name": "평화·분쟁·통일",
+    "parent_concepts": [
+      "international_peace",
+      "peace_theory",
+      "international_relations",
+      "east_asia_conflict",
+      "division_unification",
+      "world_citizenship"
+    ],
+    "visual_basis": "분쟁 지도·행위 주체·통일 비교축",
+    "rule": "소극적 평화는 직접 폭력의 부재, 적극적 평화는 구조·문화적 폭력 제거까지 요구하며 갈등 해결에는 다층 행위자가 참여한다."
+  },
+  {
+    "id": "population",
+    "name": "인구 구조·이동·변천",
+    "parent_concepts": [
+      "population_structure",
+      "population_indicators",
+      "demographic_transition",
+      "population_migration",
+      "low_birth_aging",
+      "population_policy"
+    ],
+    "visual_basis": "인구 피라미드·출생/사망 곡선·이동 지도",
+    "rule": "출생률·사망률 변화가 인구 성장 단계와 피라미드를 바꾸고 연령 구조는 부양·노동·복지 문제로 이어진다."
+  },
+  {
+    "id": "resource",
+    "name": "자원 분포·무역·안보",
+    "parent_concepts": [
+      "resource_distribution",
+      "resource_characteristics",
+      "resource_security"
+    ],
+    "visual_basis": "생산·소비·이동량 지도",
+    "rule": "자원의 편재성과 수요 불일치가 국제 이동과 의존을 만들며 가격·외교·안보 문제로 이어진다."
+  },
+  {
+    "id": "energy",
+    "name": "에너지 믹스와 전환",
+    "parent_concepts": [
+      "fossil_fuel",
+      "renewable_energy",
+      "energy_mix_transition",
+      "carbon_neutrality"
+    ],
+    "visual_basis": "에너지원별 비중·발전량·입지 지도",
+    "rule": "에너지 믹스는 부존 자원·기술·비용·환경 정책에 좌우되고 전환은 안정성·경제성·환경성의 균형을 요구한다."
+  },
+  {
+    "id": "sustainability",
+    "name": "지속 가능한 발전과 SDGs",
+    "parent_concepts": [
+      "sustainable_development",
+      "sdgs",
+      "ecological_citizen",
+      "environmental_capacity"
+    ],
+    "visual_basis": "목표 아이콘·환경/경제 비교표",
+    "rule": "현재 세대의 필요와 미래 세대의 가능성을 함께 보며 경제·사회·환경 목표를 통합한다."
+  },
+  {
+    "id": "technology_ethics",
+    "name": "미래 기술과 윤리·규제",
+    "parent_concepts": [
+      "future_society",
+      "fourth_industrial_revolution",
+      "technology_ethics_regulation"
+    ],
+    "visual_basis": "AI·IoT·자동화 사례와 논증",
+    "rule": "기술의 효율뿐 아니라 일자리·편향·프라이버시·책임을 검토하고 위험에 비례한 규제를 설계한다."
+  }
+]

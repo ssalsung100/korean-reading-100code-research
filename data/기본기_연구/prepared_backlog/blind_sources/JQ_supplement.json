@@ -1,0 +1,15 @@
+{
+  "blind_only": true,
+  "case_id": "JQ",
+  "supplement_type": "local_hwpx_embedded_diagram",
+  "source_role": "anonymous_blind_source_supplement",
+  "diagram_asset": "data/기본기_연구/prepared_backlog/blind_sources/JQ_diagram.bmp",
+  "labels_preserved": ["A", "B", "C", "D"],
+  "asset_metadata": {
+    "origin": "로컬 정본 HWPX BinData embedded bitmap",
+    "original_dimensions_px": [470, 606],
+    "embedded_asset_reference": "image4",
+    "original_distribution_pdf_verified": false
+  },
+  "quality_limit": "로컬 HWPX embedded bitmap을 추출했으며 원배포 PDF crop·해상도 대조는 하지 않음"
+}

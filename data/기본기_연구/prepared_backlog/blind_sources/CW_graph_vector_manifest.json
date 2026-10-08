@@ -1,0 +1,36 @@
+{
+  "blind_only": true,
+  "passage_group": "G019",
+  "case_id": "CW",
+  "supplement_role": "original_hwpx_vector_graph_recovery",
+  "source_role": "anonymous_blind_source_supplement",
+  "source_container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+  "source_xml": "Contents/section0.xml",
+  "source_container_index": 1,
+  "source_position": {"x": 13982, "y": 48336, "width": 22714, "height": 10057},
+  "nodes": [
+    {"label": "a", "offset": {"x": 3858, "y": 78}, "org_size": {"width": 4724, "height": 4320}},
+    {"label": "b", "offset": {"x": 12137, "y": 0}, "org_size": {"width": 4724, "height": 4320}},
+    {"label": "c", "offset": {"x": 20416, "y": 1}, "org_size": {"width": 4724, "height": 4320}},
+    {"label": "e", "offset": {"x": 12137, "y": 8314}, "org_size": {"width": 4724, "height": 4320}},
+    {"label": "d", "offset": {"x": 3858, "y": 8314}, "org_size": {"width": 4724, "height": 4320}}
+  ],
+  "line_offsets": [
+    {"x": 0, "y": 2267, "rotation": 0},
+    {"x": 8393, "y": 2266, "rotation": 0},
+    {"x": 16672, "y": 2267, "rotation": 0},
+    {"x": 24951, "y": 2267, "rotation": 0},
+    {"x": 4253, "y": 6442, "rotation": 90},
+    {"x": 12532, "y": 6442, "rotation": 90},
+    {"x": 16672, "y": 10580, "rotation": 0},
+    {"x": 56, "y": 10579, "rotation": 0}
+  ],
+  "quality": {
+    "source_vector_verified": true,
+    "embedded_raster_used": false,
+    "svg_render": "vector reconstruction retaining source offsets and node labels",
+    "graph_interpretation_added": false,
+    "answer_or_sdss_included": false,
+    "reasoning_included": false
+  }
+}

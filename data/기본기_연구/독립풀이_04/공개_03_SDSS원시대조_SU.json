@@ -1,0 +1,119 @@
+{
+  "release_condition": {
+    "required_files": {
+      "S": "S_02_정답대조와_독립코드.md",
+      "T": "T_02_정답대조와_독립코드.md",
+      "U": "U_02_정답대조와_독립코드.md"
+    },
+    "verified_sha256": {
+      "S": "f9d28d69650f070bf9b49ec0d0c8a454e650473222f1adaad5aaca1f4dc28f7a",
+      "T": "be1f694b0a6f1a448c3d487d84e17e4c7fa364573974b15de89b1ef83ae52cbc",
+      "U": "0988ca14ba5f720521faa6a8dd264264c596195ec1b27e43f466d271a96f4647"
+    }
+  },
+  "scope": "저장된 제3자 색인의 원시 행과 100코드 카탈로그 별칭을 공개한다. 태그는 독립 판정의 정답이나 의미 정의가 아니다.",
+  "catalog_source": {
+    "path": "data/sdss_100codes_catalog.json",
+    "status": "collected_unverified_third_party_index",
+    "catalog_sha256": "831ea122e7e7f4405a97b1e28319bcbc09ba67a599a36013e83cde519d017317"
+  },
+  "cases": {
+    "S": {
+      "source_id": "LEET-2010-odd-Q24",
+      "raw_index_source": "data/sdss_indexed_questions.jsonl",
+      "raw_html_sources": [{
+        "path": "data/sdss_code_search_raw/036_반증사례.html",
+        "sha256": "a6ca4f134e4ad200766501443f5c717e4476bf8280f3859bcb06055b7b49479f",
+        "row_lines": "482-493"
+      }],
+      "raw_index_row": {
+        "exam_family": "LEET",
+        "year": 2010,
+        "exam_type": "리트언어",
+        "question": 24,
+        "title": "권위의 역설",
+        "domain": "법철학",
+        "estimated_correct_rate_percent": 77,
+        "option_selection_rates_percent": [1, 4, 77, 1, 17],
+        "site_marked_answer": 3,
+        "site_codes": ["반증사례", "양상", "유추"],
+        "queried_codes_matched": ["반증사례", "양상", "유추"],
+        "title_search_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EA%B6%8C%EC%9C%84%EC%9D%98+%EC%97%AD%EC%84%A4",
+        "exam_search_url": "https://sdss.kr/code/search.asp?ExamSearch=2010+%EB%A6%AC%ED%8A%B8"
+      },
+      "original_sdss_tags": ["반증사례", "양상", "유추"],
+      "raw_html_tag_order": ["유추", "양상", "반증사례"],
+      "catalog_resolution": [
+        {"number": 36, "canonical_name": "반증사례", "aliases": ["반례", "조건문의부정"]},
+        {"number": 2, "canonical_name": "양상", "aliases": ["필연가능", "필연", "가능", "개연"]},
+        {"number": 69, "canonical_name": "유추", "aliases": ["유비추론", "유비논증"]}
+      ]
+    },
+    "T": {
+      "source_id": "LEET-2015-odd-Q10",
+      "raw_index_source": "data/sdss_indexed_questions.jsonl",
+      "raw_html_sources": [{
+        "path": "data/sdss_code_search_raw/063_강화_약화.html",
+        "sha256": "83818766257e4ed5707c95497590b79e621447812757e7c2657138b405dac3e5",
+        "row_lines": "647-658"
+      }, {
+        "path": "data/sdss_code_search_raw/065_허수아비.html",
+        "sha256": "f46809995b3c056c52268068d911d5165849de1d55a979d0a4886f1cd5f72f03",
+        "row_lines": "497-508"
+      }],
+      "raw_index_row": {
+        "exam_family": "LEET",
+        "year": 2015,
+        "exam_type": "리트언어",
+        "question": 10,
+        "title": "헤겔의 예술 이론",
+        "domain": "미학",
+        "estimated_correct_rate_percent": 48,
+        "option_selection_rates_percent": [26, 8, 7, 11, 48],
+        "site_marked_answer": 5,
+        "site_codes": ["강화/약화", "허수아비"],
+        "queried_codes_matched": ["강화/약화", "허수아비"],
+        "title_search_url": "https://sdss.kr/code/search.asp?KeywordSearch=%ED%97%A4%EA%B2%94%EC%9D%98+%EC%98%88%EC%88%A0+%EC%9D%B4%EB%A1%A0",
+        "exam_search_url": "https://sdss.kr/code/search.asp?ExamSearch=2015+%EB%A6%AC%ED%8A%B8"
+      },
+      "original_sdss_tags": ["강화/약화", "허수아비"],
+      "catalog_resolution": [
+        {"number": 63, "canonical_name": "강화/약화", "aliases": ["비판", "강중약", "강화약화", "강화약화중립"]},
+        {"number": 65, "canonical_name": "허수아비", "aliases": ["허수아비공격의오류", "논점일탈의오류"]}
+      ]
+    },
+    "U": {
+      "source_id": "LEET-2016-odd-Q03",
+      "raw_index_source": "data/sdss_indexed_questions.jsonl",
+      "raw_html_sources": [{
+        "path": "data/sdss_code_search_raw/063_강화_약화.html",
+        "sha256": "83818766257e4ed5707c95497590b79e621447812757e7c2657138b405dac3e5",
+        "row_lines": "617-628"
+      }, {
+        "path": "data/sdss_code_search_raw/065_허수아비.html",
+        "sha256": "f46809995b3c056c52268068d911d5165849de1d55a979d0a4886f1cd5f72f03",
+        "row_lines": "482-493"
+      }],
+      "raw_index_row": {
+        "exam_family": "LEET",
+        "year": 2016,
+        "exam_type": "리트언어",
+        "question": 3,
+        "title": "범죄 관련 언론 보도",
+        "domain": "법학",
+        "estimated_correct_rate_percent": 93,
+        "option_selection_rates_percent": [2, 0, 1, 93, 3],
+        "site_marked_answer": 4,
+        "site_codes": ["강화/약화", "허수아비"],
+        "queried_codes_matched": ["강화/약화", "허수아비"],
+        "title_search_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EB%B2%94%EC%A3%84+%EA%B4%80%EB%A0%A8+%EC%96%B8%EB%A1%A0+%EB%B3%B4%EB%8F%84",
+        "exam_search_url": "https://sdss.kr/code/search.asp?ExamSearch=2016+%EB%A6%AC%ED%8A%B8"
+      },
+      "original_sdss_tags": ["강화/약화", "허수아비"],
+      "catalog_resolution": [
+        {"number": 63, "canonical_name": "강화/약화", "aliases": ["비판", "강중약", "강화약화", "강화약화중립"]},
+        {"number": 65, "canonical_name": "허수아비", "aliases": ["허수아비공격의오류", "논점일탈의오류"]}
+      ]
+    }
+  }
+}

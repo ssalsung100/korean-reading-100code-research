@@ -1,0 +1,1653 @@
+{
+  "status": "PASS",
+  "scope": "2009예비~2027 LEET 언어이해 홀수형의 재사용 가능 시각 자료",
+  "record_count": 85,
+  "counts": {
+    "embedded_figure": 46,
+    "data_table": 14,
+    "choice_table": 5,
+    "page_crop": 20
+  },
+  "structured_view_box_count_not_listed": 125,
+  "notes": [
+    "HWP 원본의 페이지·단 위치는 스트림 순서만으로 단정하지 않는다.",
+    "HWP PNG는 원본 바이너리와 해독 픽셀이 같은 작업본이며 원본 바이너리가 정본이다.",
+    "PDF PNG는 공식 페이지 렌더에서 자른 픽셀 동일 사본이다.",
+    "구조화된 <보기> 125개는 HWP 문항 매핑 원장에 별도로 보존한다."
+  ],
+  "errors": [],
+  "records": [
+    {
+      "year": 2009,
+      "label": "2009",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "choice_table",
+      "asset_number": 10,
+      "question_group": [
+        4,
+        4
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2009/2009_question_odd/table_010.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2009,
+      "label": "2009",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 12,
+      "question_group": [
+        11,
+        13
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2009/2009_question_odd/table_012.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2009,
+      "label": "2009",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "choice_table",
+      "asset_number": 13,
+      "question_group": [
+        11,
+        13
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2009/2009_question_odd/table_013.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2009,
+      "label": "2009",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        20,
+        22
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009/2009_question_odd/image_001.jpg",
+      "authoritative_sha256": "8438c7e8fc0c63287f6f51f875100adf365eb1b92b818010777f61120170e88c",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "70366fd51edaacdddb7757cc954cd412d05005244caf129ce0bc02e661642d6f",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        35,
+        37
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009/2009_question_odd/image_002.jpg",
+      "authoritative_sha256": "01d14c3f445bf761bc18d10478a933f86f61ca657518133b83e916c5aa3b2428",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "4644d221d4f7b7baedf43164c5c97c21b6c4b30fd74c945e128ebb868a12b7b8",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 6,
+      "question_group": [
+        4,
+        4
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2009예비/2009예비_question_odd/table_006.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 11,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2009예비/2009예비_question_odd/table_011.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_001.tif",
+      "authoritative_sha256": "d34e088a85b04813a70473e5edd7715824df8c5642f04c7d27d8b2d06f61be53",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "0ff0349a08ef28540ab48a69d67af3a20ff8ecc2d5d4dba04ef70234bb4a4410",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_002.tif",
+      "authoritative_sha256": "66043dd4ced2997025baa75d2300f14f44b42d95aca67da0523967c28cb22805",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "1d5141b0b2137b17d8c3c157ff1436796a8c2e94a970cf2de360f2a6dfb27e32",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_003.tif",
+      "authoritative_sha256": "46973aa73755f205feedcdccb41e348f301ba3898446ab9ab068b3c604cfde8b",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_003.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "ffc97872a2330c412c2962674e3f01b511795dc9cd41bc99f18451290590bf93",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_004.tif",
+      "authoritative_sha256": "0e491e717e755753174fcf1bb21cb71053f92de2a966a4fec569ef23dcbb816b",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_004.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "96c9ab10b124d1899ff80266aecf9323aa9baaf2a34890ab2bce9796478cbd9c",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_005.tif",
+      "authoritative_sha256": "16dafb2125df3dbaaec866c6792a1deaadb11a3ab66269299db687bb38d2f312",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_005.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "b38f20817299ef07d5b686b57ec188f95bfbddadfb5b42d399ea575f8d69ff37",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 6,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_006.tif",
+      "authoritative_sha256": "40a404eec6a89fe570fcc02f504d16ed134c776eac740fe4e6bf56eb14e0c7eb",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_006.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "51f18e6299339a241a70f1dcb6d2ec55afd83ecb94c529e4016403f2833ca939",
+      "pixel_match": true
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 7,
+      "question_group": [
+        35,
+        37
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_007.tif",
+      "authoritative_sha256": "579cfea0eef2abbd1d743448c848e1036e0afdf6fc967a9593d498d8cc34a6a8",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_007.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "ab85ed936805b214c7c193bac9bbc2ea7ee2d0eb19a778d5f8f4e6fcddabce70",
+      "pixel_match": true
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 12,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2010/2010_question_odd/table_012.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_001.jpg",
+      "authoritative_sha256": "af993122deb6a8151da864d614166d4b553d15663fed8be9d9e9cf277fab9700",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "dcce5a295c007802ee5239d119757387589d2cbd41adb553cfefdc6c8a2cd28e",
+      "pixel_match": true
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_002.jpg",
+      "authoritative_sha256": "937c57d6133a4eb6fb88a32c4391850577879be5b338e986d9d529d72b9e2040",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "a7587713c9f47faf17c9a99f95fe81a3bbe5420e22e12d33f69c5cdf979cd4c9",
+      "pixel_match": true
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 15,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2010/2010_question_odd/table_015.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_003.jpg",
+      "authoritative_sha256": "f3828af1219a36e30d6c3f685a67f7d55942596255710dc5c06bf3e5012a1888",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_003.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "5932ded57649e20ff5f440bbda80a3c50716322f5b244aa6b19b630eafff4ad4",
+      "pixel_match": true
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_004.jpg",
+      "authoritative_sha256": "05d88a12c840b15980ce38e880949b041b01babe258eb740716b7608e4a24ba2",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_004.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "a93af9161adfb581f93b26df95ef2d7f389af3c0b902871baed72edf144e2a77",
+      "pixel_match": true
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_005.jpg",
+      "authoritative_sha256": "be817f65529ba639fbb1916281d9c1749a5e160ad465a4ec7bf82ceddeab4d68",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_005.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "88c2ae83a6ae534adf1c27fd1618df3864643a4639fcdcc59163ba7e8c9641b4",
+      "pixel_match": true
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 6,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_006.jpg",
+      "authoritative_sha256": "80f378f4d67ed4d822a847bc1d248de17d76fc9a03e73ed9a32e12831828e8b7",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_006.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "02b9456e62ef751351b4c92a0d8952d6e3a8920a6ba93051d887936bb262ca0b",
+      "pixel_match": true
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 7,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_007.jpg",
+      "authoritative_sha256": "0074305d922e1fa8decb6ebe5843cd7cb1736e0c6f8284a94a9102d39041535d",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_007.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "01a05da2aafd3881fd444929f9972c891a088d2017b2b4b7cba05628f5736880",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        4,
+        5
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_001.tif",
+      "authoritative_sha256": "3a21164d3caaf306545a27bebdd663f080feb0460dcb2a8365bfed968fc55e5d",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "751824f7530a592a7740297993dda4f17174e760efe1e50bce49de77c986d7f3",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        4,
+        5
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_002.tif",
+      "authoritative_sha256": "f06e81d4f2e4843eef4e6b5596346326c1016c1f259f280cc9d004f7911a9aaf",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "9dd44a3fa2bd8e7f54025a5d88bc4de9f8b0a3d13ae6adf934dc4435efa6dcee",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        4,
+        5
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_003.tif",
+      "authoritative_sha256": "c2d440e5900c77de141fe938bec4fce10e1d5db581502761e3b550e6f10c0beb",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_003.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "559d04d8f7c7f259117f8df306beb7c9442384ac06047c040740940c0bae2520",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        4,
+        5
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_004.tif",
+      "authoritative_sha256": "b69a6d3d767cf5db35f149c71b42dc9a2eddb1d2f316aae3eb64b05021603c4e",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_004.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "a84add8f3314d7976ff0675de80429d1f611bc52d9574a6dff3f840dc27793a7",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        21,
+        23
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_005.tif",
+      "authoritative_sha256": "2a94d4068e10a6e9460c9097796c0656bea6dafe10c110bc44ff0f8b8c46dd78",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_005.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "f7a7b773a7a39fc8f332e89eaad772584025c08ff0bacb523234ddca068f1f35",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 6,
+      "question_group": [
+        21,
+        23
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_006.tif",
+      "authoritative_sha256": "16abbfed8fc17be814f4eeb6a81cffd02f6e1102798b51a39bf11d31fe800e52",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_006.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "9df771f2292d25aaabd0323e55ca0a63656af36968a608f64bfad17a2dfc5327",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 7,
+      "question_group": [
+        21,
+        23
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_007.tif",
+      "authoritative_sha256": "3a61df623076b42874a2cb49eb1f34fd71975401b3c0309d250544268f0b3a52",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_007.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "bcb9dce19e33a3f2c54f0344bbad814198cfd3ea668516bcdbd452f164a847bb",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 8,
+      "question_group": [
+        33,
+        35
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_008.tif",
+      "authoritative_sha256": "3edc1f82219a573d2908c3e9c0d71d88602a7b0e5b7f7183dd042fef18bd8637",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_008.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "5dd15cf166b3ee160d0c1a3ff9d28aa9b883cb255e23b767953879c43a3dbb2b",
+      "pixel_match": true
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 23,
+      "question_group": [
+        33,
+        35
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2011/2011_question_odd/table_023.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2012,
+      "label": "2012",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        9,
+        11
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2012/2012_question_odd/image_001.tif",
+      "authoritative_sha256": "0182b853b2d666e249f4613f97dcf51e0c98dc40b8acb45812dee35a07781697",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2012/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "8ec1505c739943f90a29c131f86d8c4f2df0bd62535fc0b6af4eb922379762e6",
+      "pixel_match": true
+    },
+    {
+      "year": 2012,
+      "label": "2012",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 12,
+      "question_group": [
+        15,
+        17
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2012/2012_question_odd/table_012.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2012,
+      "label": "2012",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 19,
+      "question_group": [
+        30,
+        32
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2012/2012_question_odd/table_019.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "choice_table",
+      "asset_number": 8,
+      "question_group": [
+        1,
+        1
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_008.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 14,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_014.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_001.tif",
+      "authoritative_sha256": "ff510647a8457a2a775eced80c4a4f101f49845c3dcad303659d7d58b01ea8b8",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2013/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "6f20e0123af219a041fe6331ced7978253518079817152073d81777327d60acf",
+      "pixel_match": true
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "choice_table",
+      "asset_number": 16,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_016.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_002.tif",
+      "authoritative_sha256": "28f44ac4304438e86313001a6c05ab0218588d97be6aa5ba731ee64784345452",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2013/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "ff76df56d167688a0476d0238374d8a373cf296794c5504150c2b3910952bd42",
+      "pixel_match": true
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_003.tif",
+      "authoritative_sha256": "35da58d37ce146e02c9b0eb98d5909686feaeec110a8c57fad0eab5eb1d9c094",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2013/image_003.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "a3efddb7328599dd9fe7a3f4caba747a496e7943ae9899972582dcec9757cba9",
+      "pixel_match": true
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 21,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_021.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "choice_table",
+      "asset_number": 22,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_022.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2014,
+      "label": "2014",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        4,
+        7
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2014/2014_question_odd/image_001.tif",
+      "authoritative_sha256": "c91988f4f3e83cc5f8b66fc93a816c72a0bdd48dbc4d209378c8a4f2b6b9f05b",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2014/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "bf6a12701032d1dc6d0f6e91c1038f58df2b6af547d776cbf1194633e0c3dd7b",
+      "pixel_match": true
+    },
+    {
+      "year": 2015,
+      "label": "2015",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 8,
+      "question_group": [
+        4,
+        6
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2015/2015_question_odd/table_008.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2015,
+      "label": "2015",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 11,
+      "question_group": [
+        14,
+        16
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2015/2015_question_odd/table_011.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2015,
+      "label": "2015",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        27,
+        29
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2015/2015_question_odd/image_001.tif",
+      "authoritative_sha256": "77efb8ca3df3ae0fc7ce2202797755a9c78945f1ac080457ddb95f9917e226fb",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2015/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "e687281dcb9764b088fe627f015eef1bf8ffa055a749889f53a8e0a9d0ddcd6c",
+      "pixel_match": true
+    },
+    {
+      "year": 2016,
+      "label": "2016",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        14,
+        16
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_001.jpg",
+      "authoritative_sha256": "49262d67b59c008786e29411ad6337d5c44ecd0abf0d7279fe02ca0148df1d77",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "81d16750b79c2d725e2ef1c23a196568b1d2ae78e531813bee7a164bb8bd2b8d",
+      "pixel_match": true
+    },
+    {
+      "year": 2016,
+      "label": "2016",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        14,
+        16
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_002.jpg",
+      "authoritative_sha256": "f71f37f9c5173d94af3f74e12ad95bdcced4e13c2ecc43c5ede13d4741e1e912",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "1ab6211469edf01ea2eef1f9ea73f0a7c6e4953befb33fab22e20b097eb877c0",
+      "pixel_match": true
+    },
+    {
+      "year": 2016,
+      "label": "2016",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        14,
+        16
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_003.jpg",
+      "authoritative_sha256": "a9e3f59f10d8ba871e4e0668f904c7c2832c97e5c88ce0897b77e7f55ae7cdd0",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_003.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "2ba8775bf1ef32d948b939259875877fa44d5b8a24f9d1f5334994f2df8882d3",
+      "pixel_match": true
+    },
+    {
+      "year": 2016,
+      "label": "2016",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        29,
+        32
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_004.jpg",
+      "authoritative_sha256": "7c1bb5a88e1f24d748a3ad911683e417a371f86cb205a5be8eeb994ee6060add",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_004.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "c8ee2cdbbafd587b2d72ad3ea3d2abb0b12f387e613531f5ff210a5b392ce09f",
+      "pixel_match": true
+    },
+    {
+      "year": 2016,
+      "label": "2016",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        29,
+        32
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_005.jpg",
+      "authoritative_sha256": "e221e99308259ffb9def5e5b9da0fe51ff99a351d31facb6e23a8fbd0a87dc3a",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_005.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "d92840bb497f2a0b0bc68a983307c533574c408123bf22da24d893ba6f0dc8e5",
+      "pixel_match": true
+    },
+    {
+      "year": 2016,
+      "label": "2016",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 13,
+      "question_group": [
+        29,
+        32
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2016/2016_question_odd/table_013.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2017,
+      "label": "2017",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        18,
+        20
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_001.jpg",
+      "authoritative_sha256": "71c2b571d86ddf803ff972dd8aed518b286c1231fc9597c5d2b2eeb88d1e1918",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2017/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "6404008122dbe3b6d5aa1b409c85b65f04ad57242076f89ffca891d3b4ce3543",
+      "pixel_match": true
+    },
+    {
+      "year": 2017,
+      "label": "2017",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        18,
+        20
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_002.jpg",
+      "authoritative_sha256": "6c1eae710eaaebadfe06eddaea44209b84abb7bb5e0890dc162edd07886d6d7c",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2017/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "c91f2b065efed82e8de54514c160ca3e1a579bfdc33c05f6139c456d7518c045",
+      "pixel_match": true
+    },
+    {
+      "year": 2017,
+      "label": "2017",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        30,
+        32
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_003.jpg",
+      "authoritative_sha256": "e13b154dbb851722db874e27ac3838a7cc192179ca8d9425d4fa2e2222f1e813",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2017/image_003.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "595d7d3aa620a2a0ef8a07166ee5952ef45653b44ce33f523e4be642a2bb1886",
+      "pixel_match": true
+    },
+    {
+      "year": 2018,
+      "label": "2018",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        7,
+        9
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2018/2018_question_odd/image_001.jpg",
+      "authoritative_sha256": "b54eb26b604771053d3dadda650f473436f4cb7dec10218666680416eff9dc79",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2018/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "b28159748994d3e776f5ddacc638930077c6fda6832d6d698765d8ef6361a6ff",
+      "pixel_match": true
+    },
+    {
+      "year": 2018,
+      "label": "2018",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        7,
+        9
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2018/2018_question_odd/image_002.jpg",
+      "authoritative_sha256": "6a095328f54796c48f27087ae6bfebb1a5321bac450716bd663fcfd48602354b",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2018/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "b9f76e4cf7b81f5366898a9c7d37f1f3816b6ef948630cf6b2aa54a996bb1427",
+      "pixel_match": true
+    },
+    {
+      "year": 2018,
+      "label": "2018",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "data_table",
+      "asset_number": 13,
+      "question_group": [
+        22,
+        25
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/표/2018/2018_question_odd/table_013.md",
+      "authoritative_sha256": null,
+      "working_file": null,
+      "verification": "stream-order question-group mapping"
+    },
+    {
+      "year": 2019,
+      "label": "2019",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        7,
+        9
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_001.jpg",
+      "authoritative_sha256": "75f282fade50b7370a09552ebac9d0f67fdc47e28ff22c5736cbc1a9b943782a",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2019/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "39d60ad72cd371801995483c3e9d3155789be7419ce4f249665fcf35cc1d0c59",
+      "pixel_match": true
+    },
+    {
+      "year": 2019,
+      "label": "2019",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        7,
+        9
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_002.jpg",
+      "authoritative_sha256": "c9226989b592bb739cc15fe59e8dfafb1bada8623d0aa48eacc0410ec90f3f47",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2019/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "ed7c580eaa1ee9b4ac2d6814aebf76126a1f607b9b0bc53633907755147eb78a",
+      "pixel_match": true
+    },
+    {
+      "year": 2019,
+      "label": "2019",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        22,
+        24
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_003.jpg",
+      "authoritative_sha256": "0d397e3146ea013c066d518d8f16b83fea076fb2f5381a7b8e58084858e3d575",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2019/image_003.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "699c7904fac757e864fbf7a4991ec7bc0fef410a93eabc34e63967f4ea9bd694",
+      "pixel_match": true
+    },
+    {
+      "year": 2020,
+      "label": "2020",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2020/2020_question_odd/image_001.jpg",
+      "authoritative_sha256": "ec8c5fa1622bde50f060a97c32f61eac97c087936b5a069cc7d751f3916d7252",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2020/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "d98273de27da21b4114bdad934b155f412e4173ecbc2d8093e0b1ac2235c2e48",
+      "pixel_match": true
+    },
+    {
+      "year": 2020,
+      "label": "2020",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2020/2020_question_odd/image_002.jpg",
+      "authoritative_sha256": "d35e62293d7b869cd1ff7974a096cf033d9169df7af34701e8df7709bbd86775",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2020/image_002.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "80b96a994aa079f3d467e0c9d2fc846d5d8dcbdb730f16fa5ce92f2005a2e0bb",
+      "pixel_match": true
+    },
+    {
+      "year": 2021,
+      "label": "2021",
+      "source_type": "official_hwp_embedded",
+      "asset_kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        22,
+        24
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/이미지/2021/2021_question_odd/image_001.jpg",
+      "authoritative_sha256": "c12ee4abd837d090a0e9d17fe0b12fb7ff9f71f37a9c593b7f2ff24712a47a5a",
+      "working_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2021/image_001.png",
+      "verification": "embedded binary hash + decoded-pixel-identical PNG + stream-order question-group mapping",
+      "working_sha256": "855b91523b616cbacf597ee33b573062cc16a95810d3a89af69d68ffae898d31",
+      "pixel_match": true
+    },
+    {
+      "year": 2022,
+      "label": "2022",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q11_망막_밝기와_출력신호_보기",
+      "page": 6,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "authoritative_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2022/p06_q11_망막_밝기와_출력신호_보기.png",
+      "working_sha256": "8efc97b6bdcfdf60d95cdb6c6cb2bd31bb369fc5b52bc88d7ad5988b46bb7e5a",
+      "crop_box_pixels": [
+        666,
+        309,
+        1129,
+        894
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2022,
+      "label": "2022",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "그림1_분할법의_예",
+      "page": 8,
+      "question_group": [
+        16,
+        18
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_008.png",
+      "authoritative_sha256": "19c8e49c2f29e8997a7686f55684807dc2b15640fb9d62cdefcca665bb3de71e",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2022/p08_그림1_분할법의_예.png",
+      "working_sha256": "b79d340881eee0dca284fb6fdf00cfea0156bc0b0d2b3174210e12bbde52d916",
+      "crop_box_pixels": [
+        681,
+        1348,
+        1129,
+        1624
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2022,
+      "label": "2022",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "그림2_계층법의_예",
+      "page": 9,
+      "question_group": [
+        16,
+        18
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_009.png",
+      "authoritative_sha256": "c43e172d8745321c65a56db795d4c1c97486a25b5f4eaf8797d7c1302955be74",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2022/p09_그림2_계층법의_예.png",
+      "working_sha256": "7a5eba08773e19cc76c4cdc5d7fc70c85302c01516ce6ede11816ab8f9024ccb",
+      "crop_box_pixels": [
+        145,
+        973,
+        612,
+        1250
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2023,
+      "label": "2023",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q15_나이의_정치적효과_연구디자인",
+      "page": 8,
+      "question_group": [
+        13,
+        15
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_008.png",
+      "authoritative_sha256": "06db819aa5b881e597b41088be6582ee0cbcee4b525e0ce5c996c3e975a61117",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2023/p08_q15_나이의_정치적효과_연구디자인.png",
+      "working_sha256": "9f8f9d31ced2dc9a977643f0b19e0f98460886b5cadadbe92fd122b190b13185",
+      "crop_box_pixels": [
+        145,
+        911,
+        613,
+        1279
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2023,
+      "label": "2023",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "제도가능곡선_모델",
+      "page": 10,
+      "question_group": [
+        19,
+        21
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_010.png",
+      "authoritative_sha256": "dc727d5a4d8da7d9dfbb572d4447ca50c658c2cdf828794379812b631296644c",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2023/p10_제도가능곡선_모델.png",
+      "working_sha256": "ca2640679ea9601c958d056c4b09fd37628806759c341226a5f20ba86c940fd9",
+      "crop_box_pixels": [
+        657,
+        482,
+        1130,
+        875
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2023,
+      "label": "2023",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "그림1과2_라이고_간섭계",
+      "page": 13,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_013.png",
+      "authoritative_sha256": "78693ae3c47ab8b9c7e79a2126860fe9292f7933999d1e0ae78440b9e5cdc8d4",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2023/p13_그림1과2_라이고_간섭계.png",
+      "working_sha256": "5f8135d94356c210b2a73cd3620710ff825f24d60f81fe6a860fba33daefc286",
+      "crop_box_pixels": [
+        145,
+        375,
+        619,
+        902
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2023,
+      "label": "2023",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q27_중력파검출기_민감도_그래프",
+      "page": 14,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_014.png",
+      "authoritative_sha256": "51b957058298180361c0fd2e50cd9dddee1099f7c0243773c3e1a080ee2c0030",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2023/p14_q27_중력파검출기_민감도_그래프.png",
+      "working_sha256": "15ee9ecb7087b5e081a7e99c9485d3bddaef22e1881dc23fbc0b6b889a7e4743",
+      "crop_box_pixels": [
+        145,
+        1009,
+        613,
+        1550
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2024,
+      "label": "2024",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "사회적가치_이해관계자_성과와비용",
+      "page": 7,
+      "question_group": [
+        13,
+        15
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2024/2024_question_odd/page_007.png",
+      "authoritative_sha256": "2c031d97fb7ed5ec4637cc4fc4972085984a1587472fc4cae52358ee8ba34b0c",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2024/p07_사회적가치_이해관계자_성과와비용.png",
+      "working_sha256": "73165d1de9ec5b5bb87493cd4019f6bcb5c4aed871899f964b63cb283eff3196",
+      "crop_box_pixels": [
+        151,
+        437,
+        612,
+        696
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2025,
+      "label": "2025",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q12_사법심사_법개정_여론변화",
+      "page": 6,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2025/2025_question_odd/page_006.png",
+      "authoritative_sha256": "03c827d4ad35919348634549b8c9845a25abdc14037fc9ec145d4c3b7acfd743",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2025/p06_q12_사법심사_법개정_여론변화.png",
+      "working_sha256": "8b3f8aa98069dd726ba4eb3161b8ec90c3553393fa48d2022377b4d241c6d1dc",
+      "crop_box_pixels": [
+        688,
+        566,
+        1123,
+        768
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2025,
+      "label": "2025",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "솔로우성장모형_생산량저축량감가상각량",
+      "page": 8,
+      "question_group": [
+        16,
+        18
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2025/2025_question_odd/page_008.png",
+      "authoritative_sha256": "ecf262c13ab0729bc9644235d2d5e94d589b0d734e88366c7070ebd786856705",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2025/p08_솔로우성장모형_생산량저축량감가상각량.png",
+      "working_sha256": "0913ded27694b8091ea3a6411da5a9b66af36dbd1043e64a7960364634159cb6",
+      "crop_box_pixels": [
+        732,
+        1071,
+        1111,
+        1241
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2025,
+      "label": "2025",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q27_데이터베이스_트랜잭션_상황",
+      "page": 13,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2025/2025_question_odd/page_013.png",
+      "authoritative_sha256": "2b81793955a1679cb3f7ef42dea659ea71b982d693a70ee24006c35d05ff7de7",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2025/p13_q27_데이터베이스_트랜잭션_상황.png",
+      "working_sha256": "ac77ff4a9d5b80055f296decf014832b53fc9a15de8b6bd874cc32055f54e011",
+      "crop_box_pixels": [
+        669,
+        393,
+        1129,
+        1026
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2026,
+      "label": "2026",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "DRD와_의사결정테이블",
+      "page": 3,
+      "question_group": [
+        4,
+        6
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2026/2026_question_odd/page_003.png",
+      "authoritative_sha256": "7222ec90ccd7b9401cace02f99fc7588845bfdcae942b50f4ff8a073a5dc9c5b",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2026/p03_DRD와_의사결정테이블.png",
+      "working_sha256": "0c5c9bae26ffb520211d98280164c91d9adac46da0f1510ff886254eb45376fd",
+      "crop_box_pixels": [
+        158,
+        429,
+        613,
+        679
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2026,
+      "label": "2026",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q9_유권자_민주주의신념과이념성향",
+      "page": 5,
+      "question_group": [
+        7,
+        9
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2026/2026_question_odd/page_005.png",
+      "authoritative_sha256": "18b4d8f3c4bf06ccd86030e370fa0cbc804eee8739f1399bdf099a3c88db925a",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2026/p05_q9_유권자_민주주의신념과이념성향.png",
+      "working_sha256": "3ea6f18945a018bbe9dbe95141b87c6a0a4da8c6d033a939e39f0b84d3206ba6",
+      "crop_box_pixels": [
+        145,
+        277,
+        613,
+        768
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2026,
+      "label": "2026",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q27_혼합물_전체부피_그래프",
+      "page": 14,
+      "question_group": [
+        25,
+        27
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2026/2026_question_odd/page_014.png",
+      "authoritative_sha256": "91ecd364847bf94dd563983aca76c3283981fa605730b8dc42e982161f922175",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2026/p14_q27_혼합물_전체부피_그래프.png",
+      "working_sha256": "bf3cc8457be4f3d897dea0ce0d202750be43daaf9e8d3a738264ccd67e08cb59",
+      "crop_box_pixels": [
+        145,
+        277,
+        613,
+        723
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2027,
+      "label": "2027",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q5_제도결합_가치곡선",
+      "page": 3,
+      "question_group": [
+        4,
+        6
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2027/2027_question/page_003.png",
+      "authoritative_sha256": "5789c45b152af4401cd8059cf0e21b8bcddcb39595e8393605cb965bfe9754bb",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2027/p03_q5_제도결합_가치곡선.png",
+      "working_sha256": "367a811171d092e954c26f61aca19b199187a43829232d3949c26b4c2e5f7d53",
+      "crop_box_pixels": [
+        145,
+        964,
+        613,
+        1393
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2027,
+      "label": "2027",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "대류권_고도와_대기온도",
+      "page": 5,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "authoritative_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2027/p05_대류권_고도와_대기온도.png",
+      "working_sha256": "ee6710c0de59a1005fd9914314354aa755e3bb76b00a58fe4946f9a9b43492fe",
+      "crop_box_pixels": [
+        189,
+        1036,
+        606,
+        1363
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2027,
+      "label": "2027",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q12_시대X와Y_복사에너지_표",
+      "page": 6,
+      "question_group": [
+        10,
+        12
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "authoritative_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2027/p06_q12_시대X와Y_복사에너지_표.png",
+      "working_sha256": "ac3dabe6e5b0ee1e4046110620298e5eda5ca048293e51edf370fe50141d735c",
+      "crop_box_pixels": [
+        145,
+        280,
+        613,
+        493
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2027,
+      "label": "2027",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "그림1_신뢰게임",
+      "page": 8,
+      "question_group": [
+        16,
+        18
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "authoritative_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2027/p08_그림1_신뢰게임.png",
+      "working_sha256": "3653a8196db2e17590c90676f175f050a35ed97547fefde16341b0cbad2205c0",
+      "crop_box_pixels": [
+        682,
+        643,
+        1124,
+        902
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2027,
+      "label": "2027",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "그림2_보복가능_신뢰게임",
+      "page": 8,
+      "question_group": [
+        16,
+        18
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "authoritative_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2027/p08_그림2_보복가능_신뢰게임.png",
+      "working_sha256": "03ddc4929e0075851e05ad061d2fd58213e1213d898e681ef6f23a370fd1e326",
+      "crop_box_pixels": [
+        682,
+        906,
+        1124,
+        1152
+      ],
+      "verification": "pixel-identical crop from official page render"
+    },
+    {
+      "year": 2027,
+      "label": "2027",
+      "source_type": "official_pdf_page_crop",
+      "asset_kind": "page_crop",
+      "asset_number": null,
+      "name": "q18_보복선호_신뢰게임",
+      "page": 9,
+      "question_group": [
+        16,
+        18
+      ],
+      "mapping_confidence": "high",
+      "authoritative_file": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png",
+      "authoritative_sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7",
+      "working_file": "자료/LEET_언어이해/시각자료_원본/2027/p09_q18_보복선호_신뢰게임.png",
+      "working_sha256": "5df86b6441e7ebb08db3dd049e14a21bea03775f9b07be5102f9e6a71e27494d",
+      "crop_box_pixels": [
+        145,
+        907,
+        613,
+        1259
+      ],
+      "verification": "pixel-identical crop from official page render"
+    }
+  ]
+}

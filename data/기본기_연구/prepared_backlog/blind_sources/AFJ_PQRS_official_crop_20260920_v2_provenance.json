@@ -1,0 +1,21 @@
+{
+  "blind_only": true,
+  "passage_group": "G194",
+  "case_id": "AFJ",
+  "source_role": "official_question_pdf_visual_crop_v2",
+  "official_source": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G194_official_source/2017_6월_모평_국어_문제_원PDF.pdf",
+    "sha256": "010700a8c34a28d93be54b02983711308f47855c17fc074bb9faaf931368251f",
+    "page_number_one_based": 11,
+    "page_anchor": "question 32 <보기> table"
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AFJ_PQRS_official_crop_20260920_v2.png",
+    "source_raster": "official PDF page 11 rendered at 2.5x PyMuPDF",
+    "pixel_box_xyxy": [1140, 390, 1850, 800],
+    "sha256": "4477aa3c68d57b7019c5b6b3fbbd5dc68f8ffce8b79bb9e092f03d9bdde82162",
+    "scope": "P/Q/R/S table with complete 440, 550, 660, 880 Hz row and table bottom rule; original v1 crop preserved"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_visual_anchor_restored_mechanically_v2"
+}

@@ -1,0 +1,23 @@
+{
+  "blind_only": true,
+  "case_id": "TK",
+  "passage_group": "G127",
+  "source_role": "mechanical_canonical_source_provenance",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "canonical_file_sha256": "80775db9b9ee656762d0b496d41e5657fc51a727b197d7dc2bc299c78e206cff",
+  "anchor": {
+    "question_number_text": "009",
+    "question_paragraph_index": 163,
+    "choice_table_header_paragraph": 178,
+    "choice_rows": [179, 180, 181, 182, 183]
+  },
+  "extraction": "hp:t text and tab-separated visual columns transcribed mechanically; no answer, SDSS, explanation, or code judgment included.",
+  "quality_limit": "Canonical HWPX stores the five pairing rows as plain paragraphs with hp:tab spacing, so column boundaries are reconstructed from tabs; visual crop/PDF rendering was not added.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  }
+}

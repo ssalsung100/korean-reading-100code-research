@@ -1,0 +1,98 @@
+{
+  "blind_only": true,
+  "scope": "formula-bearing passage paragraphs only",
+  "superscript_style_verified": true,
+  "paragraphs": [
+    {
+      "paragraph_index": 780,
+      "runs": [
+        {
+          "run_index": 0,
+          "charPrIDRef": "0",
+          "text": "19 세기의 초기 연구는 체외로 발산되는 열량이 체표 면적에 비례한다고 보았다. 즉 그 둘이 항상 일정한 비(比)를 갖는다는 것이다. 체표 면적은 (체중)"
+        },
+        {
+          "run_index": 1,
+          "charPrIDRef": "41",
+          "text": "0.67"
+        },
+        {
+          "run_index": 2,
+          "charPrIDRef": "0",
+          "text": "에 비례하므로, 기초 대사량은 체중이 아닌 (체중)"
+        },
+        {
+          "run_index": 3,
+          "charPrIDRef": "41",
+          "text": "0.67"
+        },
+        {
+          "run_index": 4,
+          "charPrIDRef": "0",
+          "text": "에 비례한다고 하였다. 어떤 변수의 증가율은 증가 후 값을 증가 전 값으로 나눈 값이므로, 체중이 W에서 2W로 커지면 체중의 증가율은 (2W) / (W) ＝2이다. 이 경우에 기초대사량의 증가율은 (2W)"
+        },
+        {
+          "run_index": 5,
+          "charPrIDRef": "41",
+          "text": "0.67"
+        },
+        {
+          "run_index": 6,
+          "charPrIDRef": "0",
+          "text": " / (W)"
+        },
+        {
+          "run_index": 7,
+          "charPrIDRef": "41",
+          "text": "0.67"
+        },
+        {
+          "run_index": 8,
+          "charPrIDRef": "0",
+          "text": " ＝ 2"
+        },
+        {
+          "run_index": 9,
+          "charPrIDRef": "41",
+          "text": "0.67"
+        },
+        {
+          "run_index": 10,
+          "charPrIDRef": "0",
+          "text": ", 즉 약 1.6이 된다."
+        }
+      ]
+    },
+    {
+      "paragraph_index": 786,
+      "runs": [
+        {
+          "run_index": 0,
+          "charPrIDRef": "0",
+          "text": "클라이버는 이런 방법에 근거하여 L-그래프에 나타난 최적의 직선의 기울기로 0.75를 얻었고, 이에 따라 동물의 (체중)"
+        },
+        {
+          "run_index": 1,
+          "charPrIDRef": "41",
+          "text": "0.75"
+        },
+        {
+          "run_index": 2,
+          "charPrIDRef": "0",
+          "text": "에 기초 대사량이 비례한다고 결론지었다. 이것을 ‘클라이버의 법칙’이라 하며, (체중)"
+        },
+        {
+          "run_index": 3,
+          "charPrIDRef": "41",
+          "text": "0.75"
+        },
+        {
+          "run_index": 4,
+          "charPrIDRef": "0",
+          "text": "을 대사 체중이라 부른다. 대사 체중은 치료제 허용량의 결정에도 이용되는데, 이때 그 양은 대사 체중에 비례하여 정한다. 이는 치료제 허용량이 체내 대사와 밀접한 관련이 있기 때문이다."
+        }
+      ]
+    }
+  ],
+  "paragraph_index_basis": "text-bearing paragraphs in the extracted section; empty XML paragraphs skipped"
+}

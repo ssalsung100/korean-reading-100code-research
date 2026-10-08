@@ -1,0 +1,64 @@
+{
+  "scope": "G-I only; contains no official answers",
+  "records": {
+    "G": {
+      "canonical_identifier": "KICE-2020-6월_모평-Q27-31-S025~029-Q30",
+      "site_original_tags": ["양상"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EC%83%81"
+      ],
+      "source_paths": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      },
+      "sealed_source_sha256": "a6cd01891daf7e42f20287a0e1619f31d06cd661f2b495eb3a316f0c57efed92",
+      "sealed_hash_target": "matched canonical passage_sha256",
+      "comparison_file_sha256": "1e00cd21a7715065821baf9632087b9134b47539cbe1a992fce4b4d1ebc3ab10",
+      "sdss_row_verification": {
+        "raw_html": "data/sdss_code_search_raw/002_양상.html",
+        "raw_html_sha256": "c89e2e5961d7c0e523fe1513e3be747e2f2b0cb65c471e311160db0dc5d79974",
+        "actual_row_found": true,
+        "actual_row_displays_original_tag": true
+      },
+      "canonical_connection_confidence": "high: canonical question, choices, and passage all exactly match their structured source records"
+    },
+    "H": {
+      "canonical_identifier": "LEET-2013-odd-Q20",
+      "site_original_tags": ["강화/약화"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94"
+      ],
+      "source_paths": {
+        "자료/LEET_언어이해/텍스트/2013/2013_question_odd.md": "3ed419f59a56e31f124ef1ef63a9006300531df09ad4b51f9785712c68cf8137"
+      },
+      "sealed_source_sha256": "3ed419f59a56e31f124ef1ef63a9006300531df09ad4b51f9785712c68cf8137",
+      "comparison_file_sha256": "74013a11d295d7c4601938fb70e031ef644f09152056d597904d3b6ab3445006",
+      "sdss_row_verification": {
+        "raw_html": "data/sdss_code_search_raw/063_강화_약화.html",
+        "raw_html_sha256": "83818766257e4ed5707c95497590b79e621447812757e7c2657138b405dac3e5",
+        "actual_row_found": true,
+        "actual_row_displays_original_tag": true
+      },
+      "canonical_connection_confidence": "high: every packet section is contained in the sealed canonical source, whose current SHA-256 equals the sealed hash"
+    },
+    "I": {
+      "canonical_identifier": "MEET-2006-Q40",
+      "site_original_tags": ["보충도식"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D"
+      ],
+      "source_paths": {
+        "자료/MEET_언어추론/전사_검수완료/2006/q38-40.md": "a1519fbfe121a415496875288646c569b74a0cd2c604d6dd938de493f9bdf1cd"
+      },
+      "sealed_source_sha256": "a1519fbfe121a415496875288646c569b74a0cd2c604d6dd938de493f9bdf1cd",
+      "comparison_file_sha256": "0acfa538ff711d22b0bfbd81a73ebabf1016f76e3e2f19b4f5e3c7e36bfef14e",
+      "sdss_row_verification": {
+        "raw_html": "data/sdss_code_search_raw/019_보충도식.html",
+        "raw_html_sha256": "2dc0a5ec0b24c0a09c9f0b4fab5aba43d411bb3f1b5854d279a246eda8641927",
+        "actual_row_found": true,
+        "actual_row_displays_original_tag": true
+      },
+      "canonical_connection_confidence": "high: every packet section is contained in the sealed canonical source, whose current SHA-256 equals the sealed hash"
+    }
+  }
+}

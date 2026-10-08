@@ -1,0 +1,2430 @@
+{
+  "after": {
+    "data/기본기_연구/astra_handoff_processed.jsonl": [
+      "de629286408dec56139e671adb328594596bd7f5286c6b7f6d15a6eff59f3b18",
+      334364,
+      1789455499326470700
+    ],
+    "data/기본기_연구/astra_handoff_queue.jsonl": [
+      "f71bfc53f21f7ed9c5b70e4043c81b87993eb5e60bce5bd8763faca893df3032",
+      1337043,
+      1789454685051768600
+    ],
+    "data/기본기_연구/meta_state.json": [
+      "ef45922808315f0d08fed1559d5e02ef592b96728f5cac3ef96d8aab792075ca",
+      4215,
+      1789455499222662400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AA.json": [
+      "e498d1b8ef0be14c67d539c8eb660604a854b53e25e032b79faf8bfa5a7e9b27",
+      4122,
+      1788931591534882800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AB.json": [
+      "8075065feca87862c8ee243ab429f7e409d4a5e6a1b54225334e3373c30f6d6b",
+      4985,
+      1788931592135758300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AC.json": [
+      "d4f6cfb5f75ecf6cf750d16bea30157d28417c7b62b42a13e57f767d7473df25",
+      4389,
+      1788931592748726200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AD.json": [
+      "1aec99fc992b21b1aaa86ccf31877abdfa73e96cf24923929ee5c20d07da4169",
+      5642,
+      1788931593326649600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AE.json": [
+      "2dea26a9fed36eb503dacb4b4b1e64c1cfe405f2124bc217b09df3100969a4d4",
+      6592,
+      1788931593932290300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AF.json": [
+      "c224a87705436b01d0a90523f8dbfbce48e4ca989b0d1b38ac600143e4558c56",
+      4719,
+      1788931594539349400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AG.json": [
+      "60255a08e8ce3771e0f9bceaf17a949c880a50edafb754c55879b568c80fff6a",
+      5021,
+      1788931595134184700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AH.json": [
+      "d5c53693151c7f32de9dab513aa8391c8904122c780b5333de33a5482817a071",
+      5070,
+      1788931595746716500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AI.json": [
+      "ab49747832686893e670ff735fa86a36d852fc525401f772e33eeac06004a353",
+      6197,
+      1788931596352261900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AJ.json": [
+      "20be56eabb680343a423099e17dc468bd64efe6b50e8ef9bcd6445a8c5bce692",
+      4573,
+      1788931596959319000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AK.json": [
+      "37830d68c1b9cbed3211817e0738803179177971ab69d4ce2ad07bdf1f518ca7",
+      5145,
+      1788931597562067100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AL.json": [
+      "7962d55094fd40dfc8cd689ccfb6c7fadde916cd4713e04a79f9edc3091a3bfc",
+      5070,
+      1788931598164405300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AM.json": [
+      "35049855334f909c99a54bc235ef5e41f86e3e3d6ce1a2e27e19891d228c4ce4",
+      5686,
+      1788931598763836500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AN.json": [
+      "ae5c4dc17b055766c523b9139254dd0f190840668ee600182c563213a51458f0",
+      6463,
+      1788931599361225700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AO.json": [
+      "7f265a02e7b7d937bfa7cbc25b23af6d10812d2c898592a356a10c359ffec678",
+      6315,
+      1788931599972717200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AP.json": [
+      "d71202dfbf164e502529597014dc4bb0b96a83d64618e8c4687f8ed372a567a7",
+      6496,
+      1788931600573336900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AQ.json": [
+      "3d20722612480b41a282e66e5953391d93c6520e145b14bedf2f0bfa911acdd3",
+      7225,
+      1788931601191152200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AR.json": [
+      "62d23e0a08ed2a54e87647ee962ac51a5cb828fc35cdb1c6612d425ba4f59bc2",
+      6241,
+      1788931601787864300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AS.json": [
+      "e3762c137a2bfebe337d10b5b87a2c0bf58cb19fb2801eb139bcef94dac60d43",
+      5899,
+      1788931602391597400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AT.json": [
+      "ad2b7830b49c3f2c202be3d94163047bd55f8825a0c9f14f89517804b6bb3794",
+      6747,
+      1788931603000543300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AU.json": [
+      "8020a765ea325eea8d44226b800089669749dea6cfc7019080533740b1c60afa",
+      6541,
+      1788931603583892700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AV.json": [
+      "68266c1090b0b9893c481c9435ff210d68061e5e86a6fc512b203071ed0aa7be",
+      6535,
+      1788931604186713300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AW.json": [
+      "9e16ec585c7907d7985c1bb744cb0859898ec085ee96acd6aaa0800ff0f07ce3",
+      6566,
+      1788931604805594800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AX.json": [
+      "38bd0a77ec9850904d79f8f156e12be93f5020f2cdc067e0bb16760e067f3ae2",
+      7921,
+      1788931605434525000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AY.json": [
+      "5a77fb01004c56c66f1d4f691a578ea96281721f942df2d81bfaac378ead9c8d",
+      6067,
+      1788931606054142700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AZ.json": [
+      "904e38dcf84d0b3c5fec2fc4fee46255db887d2f825f88d286f3f13d21fff28e",
+      4626,
+      1788931606658723400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BA.json": [
+      "647d4fe55611fbf05bada9beda73954997a09833d247bf62f5c7400ae4184995",
+      4861,
+      1788931607253751800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BB.json": [
+      "abd27c537b87929e5251b335f570831c866e854ee72dd5652d61c420d849c704",
+      4829,
+      1788931607858733600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BC.json": [
+      "2371b1d4f92bfee803168d84c56a5ab0c8cef315847b72be5e0d304d093d53a0",
+      5713,
+      1788931608476367800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BD.json": [
+      "b684025c962e142f43b626f1faa62a7a3452bded634e8ce92c7b51e8c82b1539",
+      4545,
+      1788931609083651800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BE.json": [
+      "23b6deac901314c36b245a5ae60a5bc99328b794dc1ee9dbf527a446655625f8",
+      4784,
+      1788931609683282400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BF.json": [
+      "35c73dbbe75e120c86cc6cc1393e7e8144c38f494251e1aa83a6936bc915cb8a",
+      4821,
+      1788931610294710400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BG.json": [
+      "d84abb31bb72bf5cad63c8da147d3f0f6dbfb450767fb0902fc81b6602ab12f9",
+      5271,
+      1788931610867390000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BH.json": [
+      "5980cfca65414f3efe119d99f8a209a8ab67f6196562392fb95c06e297a9bdfd",
+      5007,
+      1788931611464021200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BH_supplement_20260910.json": [
+      "e2b23a2f3b92c5f31187a722ad5cf147452569b6c460e0aa61617ebb1048eac3",
+      680,
+      1789010434633228100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BH_supplement_20260910_scene_plan.bmp": [
+      "f82471ebc2681b232d93eda29be2203ce36152ece79ed962558c059d119a0794",
+      12931206,
+      1789010411353716500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BI.json": [
+      "a3aa7592d341b60e543d4ada65e1f47fd7d708b3e1fe533d74394d34c7e890f3",
+      4273,
+      1788931612063333300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BJ.json": [
+      "4e61e5d9c31cc9f104c2b7193d73fc2a23d6ec92acd47648c68fbaba9b66876b",
+      4220,
+      1788931612659792800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BK.json": [
+      "c63713a674835bd75e26117e6aa73249bdc94a9b7cffc3c57b30212239dcc1c8",
+      4581,
+      1788931613259087300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BL.json": [
+      "1d0e30fc01322ec6563497cc4a595d2a71908adc50cdf4a41ffb3be3b22386cd",
+      4033,
+      1788931613857452200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BM.json": [
+      "f4d77c5ed82eaa6d5570e064a84047bb10dd8dea4772461248a21fff8daaf11b",
+      5075,
+      1788931614479825200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BN.json": [
+      "9ff97d8943f3fda339c41622009b854c0a268adbe5dc3d01b5b0a46f231b509f",
+      5175,
+      1788931615101808300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BO.json": [
+      "d57c8a4d4e2ac3150060caff70a1c0ee0eb9ff3b77cf2da20d98f0ea8951e475",
+      5090,
+      1788931615716647200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BP.json": [
+      "3302598a5c7331a7eb59e9cb8e570ef23bb57dab40c49668f78c54a3dd86db04",
+      6035,
+      1788931616329610100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BQ.json": [
+      "ef2b7970b230553db59e7b6efef637df92465215007b6a549a471f07ef0bcb85",
+      6029,
+      1788931616937901200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BR.json": [
+      "ec993d5c11edb43bd9cbb6e70d66eee31fa7948034234d57bac434d41268e403",
+      5769,
+      1788931617543017900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BS.json": [
+      "d9cffa6187b2615c5fd836f69d299ad815a107a70e95aeef86adbaecb7eb2fdc",
+      6293,
+      1788931618147240800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BT.json": [
+      "e56e9f9652d9a28696421e23d2cc77e73df05e1f028f6aff08460df16281ce5b",
+      5854,
+      1788931618758833100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BU.json": [
+      "72937ed431eee088bb5cc07966f7b883aef950c1e07586c40a8de481a1f75e3c",
+      6573,
+      1788931619361799900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BV.json": [
+      "5acdc68a6130dfd911031bd48aaecab23e657b166aa0b43b2d0cc110b413f656",
+      5431,
+      1788931619953900200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BW.json": [
+      "c3eb999095751cb139cc13d8341d8cf14fe953b5b9d0458e279f11ddd5b49e16",
+      4367,
+      1788931620554168600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BX.json": [
+      "0b75ed067c8d148b15d86a4a7a438624081b184b491037defbb5b1632e3c28f2",
+      4653,
+      1788931621176289800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BY.json": [
+      "ac91979d2f927388bdc26b35f2778420f807240df1d661e518170263d6b63537",
+      3495,
+      1789024563647182200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BZ.json": [
+      "1ebc7d928e5467ce73d5d43b4a6155f2f2172a2e9081a22982c3f8f4955d6339",
+      3588,
+      1789024563660350100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CA.json": [
+      "b732693cc08a046cc6278dc6d9023f02327167a8cef526a4c19b3a5fd432dd43",
+      3926,
+      1789024563697868700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CA_assets/CA_question16_figure.bmp": [
+      "c87465a9776d78ae55efae72b25b003d3973bac4dadfb0e77b9276a5a1c1bbf7",
+      2197854,
+      315500400000000000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CA_supplement_20260910.json": [
+      "dd9cfcb99921f4c0b6824c2c7f4387d8ad0234b5864f52e790f228d24b65a450",
+      1351,
+      1789026192978461500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CB.json": [
+      "97ae886098de13d35532d9d847031c6b9566929db1f12c89bc679aaf788caef9",
+      3219,
+      1789024563712898700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CC.json": [
+      "5c85cad3f68719dc9c4c6e0807442115583c9e8a7c9aef9a0264578ea50070a1",
+      4384,
+      1789024563726906000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CD.json": [
+      "b63bcf20a64b0e9032cc43d2b58cad79775a83c7707a531a913ad08b3c973e27",
+      4580,
+      1789024563743902700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CE.json": [
+      "1f64d84f863ec1cbd2d20ddf35a284e6047065c22de442e0fcdcd596832dd5dd",
+      4346,
+      1789024563761467200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CF.json": [
+      "2fb023b91a269d978c7ff07695868096704b049f52420519e863082b95413aac",
+      4884,
+      1789024563776519500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CG.json": [
+      "e253c745bf06bf1c77bd5a57eae5ddaa1999973fe733fc024a00a54456f4eb9c",
+      4626,
+      1789024563792351900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CH.json": [
+      "f13b7af867200b923454591ee7d331b095834ea6bcfa5f91eb4574b865c81cd3",
+      4425,
+      1789024563808545100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CH_choices_supplement.json": [
+      "b49dcc96e4529a9cb035001d9f043c62833b5a189d7ef1a95362c75067745460",
+      1789,
+      1789104896196613500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CI.json": [
+      "21f0bd22114fe4ed032cd5902ea00c4108bae002a73683a799131b142b18f569",
+      5853,
+      1789024563821957100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CJ.json": [
+      "f6360b18bb03b6c12b6d78fdee51c224e1c73359c5866f6f00abd1c6a68f4a4e",
+      4288,
+      1789024563834445500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CK.json": [
+      "f8ac9a6673ce9bdbc959a34a0819fc66e06dfcc3ca77b27d372906b72bcec75a",
+      6035,
+      1789024563846892700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CK_choices_supplement.json": [
+      "e340fdf9f41e720108f54ada725dcf3017b46c84a3ee103bf1cc96d2d93467e3",
+      1176,
+      1789105207056588400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CL.json": [
+      "3d25fafd109ba5a0e3fdc125c5df992391562d2ddf18964d4fd5bea0220eeaf9",
+      5815,
+      1789024563860056800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CM.json": [
+      "9ffa7b158d8760cd2b4c38d1b456dac5d6225dfcbe0935c751d0f0fdc547434a",
+      5793,
+      1789024563873387500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CN.json": [
+      "6c02f3c0f39897cdf1e4231b7e411fe2fb02ee3c13aa1c7c4babd1e097c7cacc",
+      6041,
+      1789024563886251300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CO.json": [
+      "978659b86ff3d491e7a22f71f895b4cd1224580ffb20db1254eb472d20a24966",
+      7256,
+      1789024563901638400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CP.json": [
+      "d5328a86aaaa0e7880407ead544b2fa997116b9dfeddf352bf22bbfb159991d6",
+      5387,
+      1789024563915513400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CQ.json": [
+      "1268839d8ff571279dfc5103bb4fd9163005b1fb2069238767548cee3fd93f53",
+      3962,
+      1789024563930231600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CR.json": [
+      "c1993124b5149fc1f7b4f89d850c774b70313dedec2bb012933eea19c32d6fb8",
+      4203,
+      1789024563942761800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CS.json": [
+      "7294e0c19cc3be4da5cec7669d09ba639d9223a495a93a266e352291f5cc19ba",
+      4120,
+      1789024563955857400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CT.json": [
+      "416ebcdd29b178e617ddaf711553a086d3ac6e50c07bd7d806efd7139a03136d",
+      4883,
+      1789024563968225600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CT_equation_supplement.json": [
+      "5d8148974d78347e3e8852f14de148ba7b88fdff39624407ec1c18d27a54f6fc",
+      2366,
+      1789105674498350300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CT_source_supplement.json": [
+      "53028399d55ff9e1e8d8202e2f4cdcfc92726538c9aa24c9b0621a946775454d",
+      2868,
+      1789105601582386300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CU.json": [
+      "0801b4805d47d3fccd959a4b74779d414f6e27416e491e78631532543fd32331",
+      3551,
+      1789024563982863500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CV.json": [
+      "0fed4eb26779a55d1b96c18503aa1fa5284ba07d2eae324876170df45b3dde50",
+      3696,
+      1789024563996383500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW.json": [
+      "9b05537f343760803d06b42bcf077c16cc499b58d61804e257bc466cf19abb54",
+      3745,
+      1789024564010595000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_original_render.png": [
+      "dc347d04beeaea6c5385a3281f5cb54c5f61c0472abedfa81fc6d5a2196b5140",
+      28236,
+      1789181332182773700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_original_render_manifest.json": [
+      "57a5f11832b50a977ff37a2eccbfc2d3e4ad34be543060b4a867cd4e95008323",
+      782,
+      1789181332190082600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_supplement.svg": [
+      "9f0eeef6517220a526744c930c4bc96e6b103464f3049c5d759c66c69f438e9f",
+      1560,
+      1789106064768961300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_supplement_v2.svg": [
+      "ff397766a23787d51fefb73e4b887cece5d4bac63187421d1196a1b55e548c0e",
+      1523,
+      1789106316963903800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_vector_manifest.json": [
+      "d8d8bdf58cf968b2d9e8be1a8a98d40ee5cf0b0453c0fc3f9db6e23d93f535f5",
+      1579,
+      1789106065390959300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_vector_manifest_v2.json": [
+      "1625566c9c09a35fa2f580d81fbe1d2665f3c2e5e9c07c9336b005354ea9ec8a",
+      936,
+      1789106317569517100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CX.json": [
+      "93fb92ba21fba19ad6b467b7c234ddfc575484aca0ba68338eab9b74e213c986",
+      3256,
+      1789024564023497900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CY.json": [
+      "2027d101cfbb198bfcfea1c312598cf25aa727325fc87c2ca7a7ddd6b628d275",
+      6361,
+      1789024564036856400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CZ.json": [
+      "137a60fa4151b4386bfdaa46327a99ffffb895fa164c6473386387819e522e1e",
+      6297,
+      1789024564050520800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DA.json": [
+      "f8471ffc2d63c9a49b3975fdae307184e98e5293c5a5fe1c8b387098d2b9330f",
+      6476,
+      1789024564064025200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DB.json": [
+      "924ea448a4dc3f553ea44359dd220415d85d26e65ccb4c712f688765b94e7fbf",
+      6431,
+      1789024564076037300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DC.json": [
+      "a2cbf58dfc26445d3f5b92834f405d1d844a17d7e06fe4f40de00b9f121692ad",
+      7495,
+      1789024564091340500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DD.json": [
+      "821f9268d3a69f6e6f3fc03628587b04be39b2a7d5015c356bd1748efd06442a",
+      5808,
+      1789024564104443600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DE.json": [
+      "ba438f02079001c45c647872e83a20f83b5b235902ae513685575d39117fdaaf",
+      3803,
+      1789034845164126100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DF.json": [
+      "07487027201749b5b70347a6390a28d18b1dcd53bd224565e132a47f128a7e0e",
+      3881,
+      1789034845172702400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DG.json": [
+      "927018597f1a8bb053803cde180f4d4979ec503bbdc4c1534a940d73bf5fb0df",
+      4598,
+      1789034845207957200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DH.json": [
+      "319362809bcf586743dd31fd1b6bd692da85d29b4c84fb2695494fca322896f1",
+      3570,
+      1789034845217590100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DI.json": [
+      "0c16ddf5e875f9941b999b991796db54c2b558643e388a776363367fd55e6aaa",
+      6998,
+      1789104600610934000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DJ.json": [
+      "1320dbe8f0837cd13f9c9aa60437a809f8b3d926534c664c13b1633ab7fdcf2b",
+      6772,
+      1789104600622324400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DK.json": [
+      "49013ce0d315233e4ff630eda679d33a480d7e39ee003aff3743c4095756b77d",
+      7376,
+      1789104600630849100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DL.json": [
+      "b38c6e52ec860a06de1f8982e8d8829417a006b3d7d14a431137d43ab713fd70",
+      7055,
+      1789104600641739200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DM.json": [
+      "4c068b193c465512716048704e35c0639993af49f8bc8d4fba2ced2e93750ed1",
+      8300,
+      1789104600652216100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DN.json": [
+      "cd947955ef7c88a8c79a13807668f9fa82a94135fe266bab41168c1e467f975e",
+      6465,
+      1789104600659552300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DO.json": [
+      "c1ef09647a47adc21a270fb3d22e946ecbb70a1a56a67ab59130ebf1c78f0181",
+      2989,
+      1789207247469738200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DP.json": [
+      "b9cb191d8c251ba23e6390b388743fa1bb498bcefc935cd0987e6ea5767497d2",
+      3073,
+      1789207247473244100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DP_A_marker_source_audit.json": [
+      "16e799c80084c8cb4abce2f98ee34da446b191809609f2f5057fa69d74593606",
+      945,
+      1789207580714315300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DQ.json": [
+      "7a0c78e8c11501bc7523a7c13e01b70619f9b41dc2001514996747b8f4e12720",
+      4506,
+      1789207247478701700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DR.json": [
+      "59b4e0aa8a86a740e245b41dc8ba90f1a5f39962621d65e79e05f005df1c2707",
+      4440,
+      1789207375996984500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DS.json": [
+      "4a0a675ac241df8b281d4773308359ce19e6bbc824e7489cfe3717dc9c9bec55",
+      4716,
+      1789207376000439800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DT.json": [
+      "75d855677212e9acf07372cb934701de3e34c6b67a1992d14852a9f2905041a6",
+      5287,
+      1789207376010090100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DU.json": [
+      "5a1e3f6a43f8e45996fb3619faf53fbff9d0a3801c84ef00457d5778deb84e64",
+      5690,
+      1789207376013659600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DV.json": [
+      "32c1a43cc6f691326d190986e9e29f82d444fb116585cdfba7ff31c971256812",
+      3825,
+      1789207376019407700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DW.json": [
+      "8c256858af680139ee9a5b3b66e8a0cdc0a21161fcf9650270db961fb261bfcd",
+      3926,
+      1789207376024429700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DX.json": [
+      "a96ac958b676d395523d505bba68d5fa96d39112261313df791eed121c5e941c",
+      4617,
+      1789207376025693000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DY.json": [
+      "1f755b6804a28f3c1011f55512006ab4ce2840ad2d773c5465b6db8521792d2b",
+      3499,
+      1789207376033424600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DZ.json": [
+      "02ed28e0f80c80540cb5a3f410befb4f1c2b6939cf7b29984201fc9d3dfcea44",
+      4558,
+      1789207376037553800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EA.json": [
+      "d6de5629c3b077d05005405c42a7864cf870f78de6a34e233570612d7657a175",
+      4687,
+      1789207376037553800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EB.json": [
+      "f7aa68b098fd95c45d648a4bc9272f70b000ad93451b5340e41623a5d0631f82",
+      5145,
+      1789207376037553800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EC.json": [
+      "ecf815c9c10f36d1a3ef631b958500d969273e2ac910f185a60c40b1e7ad2cf7",
+      4339,
+      1789207376052514500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ED.json": [
+      "17507c841f9b4b01aac05f2681757a849c5c39f3c23dbe9d6feeebf74f51299f",
+      3310,
+      1789207376053626700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EE.json": [
+      "0976a2e2406853f6fff86e9b433bbec0fdfb49e16cb56d671da6071457fe0970",
+      3434,
+      1789207376062093900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EF.json": [
+      "87a0cbfc4327143c2d32908b08bf43379ce7ca2b4a1bf70aa75ef22bf02c74c9",
+      3659,
+      1789207376066773100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_crop.png": [
+      "988dde7181ef2d8ca7e6f43667c946ac37d9833d343bfd072aa62a87c91eca1d",
+      190003,
+      1789264153413236900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_supplement.json": [
+      "e40d1574522263dc7bb2187f5a79b308d7d43af0d65bff549f53a085b5ac649b",
+      1160,
+      1789264153425503700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EG.json": [
+      "d65214386424f329baf2dbcd19d14025b67a07e35776d9eb02ac1872b41f4813",
+      6911,
+      1789207376068779600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EH.json": [
+      "d733e7c54a2325c953b62e4c3bc474b05e2bf9801cd386d8d6eab76a53a0feb3",
+      6933,
+      1789207376068779600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EI.json": [
+      "20a4d2f2c1dd5953f80c06cc4a47128180b1538577f5c917f8ae3ce227763cd7",
+      6914,
+      1789207376080089800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EJ.json": [
+      "724b004a05baf98280b73699d395dddaf5bd9e9954a6043e69b55c6eee30160e",
+      7176,
+      1789207376080089800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EK.json": [
+      "84f59a052ed6831ec957107afbcf4f91f996f112da75db7e9f5415f2eb0348c7",
+      8541,
+      1789207376090397200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EL.json": [
+      "3a45b9fecad907796b84e1d1e2342c7f4ed91822a01433fb1531f02d995bc944",
+      6528,
+      1789207376094416400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EM.json": [
+      "434eadbb940c0e4104f708bacd84bcd1f5cbe7a076373b4eb6cd0014e805548c",
+      4813,
+      1789207376096171200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EN.json": [
+      "804ab23d0454286b5a668bcfb8ea0e76bd982f08b18f25c9e41213971af521b4",
+      4461,
+      1789207376104074900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EO.json": [
+      "ab723b7c88b0bf7af0850b4ea6c9f9d5b3e9acaea2a4278a5c28498663a72922",
+      4518,
+      1789207376104074900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EP.json": [
+      "7dbb5807f5ac46128b0aab26c2594169d7b74213aa62680a95c8aea835076add",
+      5113,
+      1789207376112096500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EQ.json": [
+      "52bc7dc962b531d84082bf736748343bc7ae6ed6e18ad65b3bca08db86615dae",
+      4287,
+      1789207376112096500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ER.json": [
+      "f09512ec3a5d35213b325fa8dd75a49bd3bc7ea1e91c0c806841bf9885380729",
+      4253,
+      1789207376112096500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES.json": [
+      "6e0ddd98d95dd761cf8ca813d7a14253a03ceeeeb58925f5637d03c6976e74e4",
+      5112,
+      1789207376127866800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES_comment_original.bmp": [
+      "198a80801918f15bcea27ea40aeefc16b35ee2c94f8a47b84162f38741eb4d2e",
+      5505494,
+      1789290762480788800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES_comment_original.png": [
+      "242c3c19134f1a38a95ba14d211c08b5f4429f73a84c481b4ad4f02221284ae7",
+      122236,
+      1789290770138487000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES_comment_provenance.json": [
+      "1e2cba41103a89a6c3b26705d3b197edffdf4b7598b92f2720cc6997a232cc7f",
+      1109,
+      1789290852777908200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ET.json": [
+      "cf84b61428145c8818756a957d821c25d99a022bf523971c1891d9dffd3a403b",
+      3831,
+      1789207376130125400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EU.json": [
+      "85d08238c507747cd799eabaff217311acdf31f4e456de3b42cfcef6c8244476",
+      7098,
+      1789309102157888700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EV.json": [
+      "216fc945ed4fa58a9c0677ee298a34bd9bd98331bc8126b968b58eabdca7a3f8",
+      7075,
+      1789309333457013000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EV_scope_supplement.md": [
+      "4e9be75f0c5d5e6f235aef1fdb68b8d7fe5448f145b4fd2e7bcdd9b09a4f0833",
+      444,
+      1789309333493533000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EW.json": [
+      "a4ee7287051143ddde6eb93b10e031cbeffe69a01dc86c8d3bba8fcafacb238f",
+      7132,
+      1789309102211510900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EX.json": [
+      "9a9dc8d7a3b5a939057c2fdc2761669903b3bde7932bf4eb260abfd94339a528",
+      8274,
+      1789309102225052900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EY.json": [
+      "79121321aeeefb062337cba5d3256b10460894e3db068b5763df2c50364edcb7",
+      6543,
+      1789309102238943800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EZ.json": [
+      "a53dc4409a6b06524b6757fd1015291e08a235a60edc8997ff939628f5ef844e",
+      5195,
+      1789309403112272700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FA.json": [
+      "1531dfc942b111f92ad2df77f7343be8b07db476ed0184fd88d620bdffbaee52",
+      5365,
+      1789309403124802200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FB.json": [
+      "bea78794b2509d46c6586bc56704daf0562bcc64ae2577e90f2aefbba905d030",
+      5162,
+      1789309403137827100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FC.json": [
+      "399b17c9dda990632fef3144befc5f7f2aa54cb0ba9a59244549243351b8d810",
+      6050,
+      1789309403149942200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FD.json": [
+      "225ae4af6e7a85ab7115d1808f15cddb73057e875250d3b434a2e691ae2f2e05",
+      6139,
+      1789309403187898000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FE.json": [
+      "8b49536dd4f7529eaf702a4da0fdfdee7f2e0bcec3f597965b4d9dd95c1f5c9b",
+      6899,
+      1789309403201885500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FF.json": [
+      "1563dec4c7e93dea4f918280809bc911dec2b2d50fa3f7d1d7ef0a0947d0f9e8",
+      6266,
+      1789309403240218600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FG.json": [
+      "ce0d72eb95576a56ee59d415fb74cf1233e233565d046f01fad81f45ba98d60b",
+      8272,
+      1789309403256219100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FH.json": [
+      "00cd946029cc59976538ec02e6fe474190e0588841a3157624d75ae847b87c1f",
+      5987,
+      1789309403271223700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FI.json": [
+      "68a40a3337721f7125a150232dec8cfc22475689b32ecb82a99c6c44a675c2e3",
+      6275,
+      1789309403320731700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FI_choices_supplement.json": [
+      "f0a9a0ee333cbc880b9b9802b83d625836c60a180ea02fc6400ab87b0d0c51fd",
+      959,
+      1789327966016487200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FI_choices_supplement.provenance.json": [
+      "9b177ed06a588557806d566d7f18bdbf2102210488ddbc78736189c45c485001",
+      1720,
+      1789327966059111500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FJ.json": [
+      "234ad2a270765d92b09acf5f90a885481ab604ece195ac58967780f89f6f4c31",
+      6155,
+      1789309403334731500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FK.json": [
+      "5d08f040e312767473e64765b28e48fb79c3499f659b56dc71e90ce6d5c10bfd",
+      6590,
+      1789309403349736100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FL.json": [
+      "f9a17878e7e20f12428b8f654e6da1a35e42895a62c5d9531975dc72a844f0bf",
+      6085,
+      1789309403364731700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FM.json": [
+      "e542f737b80f280a6f0b5d8154fd38a190b42ccd2ce14bd8392eebc09242b431",
+      7303,
+      1789309403378741500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FN.json": [
+      "31b2d84385186219b6d009141cd778ae50fe1c39b490edc2c0f327ddba6c8633",
+      5956,
+      1789309403392882600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FO.json": [
+      "91f07ba1cbb7640655be9a08efedcd7bc8c7bcfc49fe7c489c64a2048dbd57c8",
+      6755,
+      1789309403432927200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FP.json": [
+      "663fc60d69b587c940f19bb92841467500092d2c9c0ee4a266ebae291d937b3e",
+      6752,
+      1789309403446445300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FQ.json": [
+      "7c66d8471f41e73551a2cf06a705c44ea18403160267855cdae7e7b33c95aa24",
+      7236,
+      1789309403459447000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FR.json": [
+      "6d68be14949095ac96bb947c06f9293789db6c8bc6125e65a2fc8e3c96d8ac2d",
+      7036,
+      1789309403473098200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FS.json": [
+      "a43d5a882768b21916cf50cc8314849cfa396444ace2f94d23c6a4f2f326f0ae",
+      8153,
+      1789309403487712800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FT.json": [
+      "103eba625f5fdfb7e7d413e137a9abdbf251aeac1842cb5f79818bc7bef86710",
+      6443,
+      1789309403502818600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FU.json": [
+      "73c2cfa2c8ec37dabba364db5840e6cd29bc84121ca0ee94255ef480ffaea4f6",
+      6834,
+      1789309403544245000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FV.json": [
+      "7ed888d94736a0fd6c98b2aa5cc1526723ec3d2bd88fe03781ba06403ca3cf11",
+      6594,
+      1789309403557533500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FW.json": [
+      "931288e21b9b2c25cd2d7dea3f7b71862569ebe05dbeb2bcb573f559f276517a",
+      6555,
+      1789309403570009900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FX.json": [
+      "b9a46ad5ed726ba71f40a8bc9a54ff95e59bbeb550204735bbabe7a12292837c",
+      7845,
+      1789309403583523500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FY.json": [
+      "600da303341d086567aed09628d6c5613db0e6391222039646be77b2da653e8d",
+      6074,
+      1789309403597519800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FZ.json": [
+      "f7e1ccbe863d9f2259c4ae4b4f42d28b059d575b04f9bad2d6e736817e610a5c",
+      6561,
+      1789347510317470400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_body_figure.bmp": [
+      "a75b624887d537d14938fe84f1320053153a775f861979db0bc2debd9c389396",
+      2568834,
+      1789310316326110100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_body_figure.json": [
+      "c60e16b135d924acb55fd44d5768f67e322aead940dceb274b6b305994486e89",
+      318,
+      1789310316331562100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_math_runs.json": [
+      "da1a2c00b4509003b67fb68f19d0ebe5443edb897c7a9106503576776740d3a7",
+      3061,
+      1789310350712928900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_math_supplement.md": [
+      "600d43e755d9d17cc99275899aade64fa8bd5ea7c75d8ba04ba19d8c8211d846",
+      776,
+      1789310231889411600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GA.json": [
+      "b718b9b9498146b4e8ef92513252053e214f12ffe3866b67ddf6c13e055c5db9",
+      6571,
+      1789347510351737500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GB.json": [
+      "6621a42bfdb067ece67d9e990d7f88c34f0e4214558ba941e1fe1e89e4fd5f46",
+      6402,
+      1789347510359679300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GC.json": [
+      "79123a5641f07dee81ba5218e686d6827649eccc17264556b129093730e53c68",
+      6360,
+      1789347510369553000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GD.json": [
+      "17162cda1a589484b95588efcd0d32c876c0c8d219be5456a700a37d45931b60",
+      7734,
+      1789347510378296200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GE.json": [
+      "4e56c2326a97853ea095aa9c33ff14c2c0633ea422daaf1040fb20ab94036b7a",
+      5838,
+      1789347510389903400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GF.json": [
+      "d4a33d04e75e319cbb9ecb8361a6f5ddd074e7aab889b02085a2df6be5489833",
+      4604,
+      1789348173031585200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GG.json": [
+      "7c0e289a1e8ad2bfbeb4c345786e7930004b14307c8e90747e124204cf2a2357",
+      4794,
+      1789348173036242100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GH.json": [
+      "695a94c7c71b1e34155b4be7fa8f2d05e5c848ee1eaff8d7c28bc8e124e2e98e",
+      4720,
+      1789348173041609800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GI.json": [
+      "0669f28133ef3c305384c2de5a0701933b0ec7f1edc83d67f85731ca80ddc930",
+      5198,
+      1789348173046032400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GJ.json": [
+      "6cf8ff481eb6dd729f539472c3a071d05e246e49d0ce3f30fed9b970417acc61",
+      4517,
+      1789348173050538800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GK.json": [
+      "46f30c1452bd9dca37c88c33233d5ff7efc32515a2053d87e1675723dd4875e9",
+      3693,
+      1789348173055615800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GL.json": [
+      "9f1ae67d776fc9280b0647e0d5a45cb6e0188596f09df0a1ac2f1d9a76c63d4b",
+      3882,
+      1789348173060613700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GL_device_figure.png": [
+      "dbba166160dd09497a81fb2410caf60d08892eddde962be51323ddc55a1b9fe9",
+      394913,
+      1789349179762952300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GL_formula_supplement.md": [
+      "85daf55f5126867e4ed3a11084c78ba02e29cd16a56401e1157a4418432f010c",
+      450,
+      1789349227220962700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GM.json": [
+      "a7d7ed4ecf2353c31c70a390bf699ca276ea7f0b4e1598961f5839d2fcbe6684",
+      3564,
+      1789348173065669700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN.json": [
+      "0aa4a3399b6f31b84a7716b971878a8aafd80aeca03442959cf827a1093e8f71",
+      3006,
+      1789348173070663900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN_A_range_supplement.md": [
+      "228bd7758a8752dfdd61101dde4545c1b411fc593022e47d593f829c3f91bd83",
+      858,
+      1789448147623630400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN_graph_figure.png": [
+      "555012592d53746b4dbe54fcbb78ae54c3bfccb20f1baafda10d5bd5b0ebe14c",
+      46586,
+      1789447979119208200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN_graph_figure_provenance.json": [
+      "2c532c929bfc484ce7a5e9c154cdd79193cc5d7234407d22f2c40915ec2cbc84",
+      1514,
+      1789448005499458300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GO.json": [
+      "83b009ccbc374d249baa3a378bd8f63bad4152ae713949802fd5b43db43b3a34",
+      3311,
+      1789348173074602600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GP.json": [
+      "5c169be64ddebb78f8f9d0e853acfc5e70f1da607b97b8b6afd5a1d05c7dcdef",
+      3538,
+      1789348173079603000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GQ.json": [
+      "2cf8f53306aac0a5f979501a8b1e585c849067ca6157a1bf9c4dbde0f3c958c8",
+      3947,
+      1789348173084681800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GQ_choices_supplement.md": [
+      "88b51ed0e8546f1b81627d71aade13466dd104be39fb7a59db0fc8eae9a7d305",
+      1067,
+      1789448091718279300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GR.json": [
+      "f4cca13e1eb245929f9b7ebe1e491bf81fd7f5daefad609f9cd81cb6865dafb0",
+      3418,
+      1789348173089715100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GS.json": [
+      "22de4fb3a22c3e1b645a1f8dae7ca2abf1fd00c0d63c7a879af5d263c1079615",
+      5239,
+      1789348173094584300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GS_scene_figure.png": [
+      "16a900adaa0fe5cf00c5d97b7c0243230b66d98ce99524914fc7214ef97ff78c",
+      307219,
+      1789448124524374200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GS_scene_figure_provenance.json": [
+      "1c0285674cad1bb433b06c7ac540b74c22243b3c3d87072bd13e0b6c072ea175",
+      779,
+      1789448147020090000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GT.json": [
+      "e13d88e6228ab4b99b52209adbc464f39c9969f845d8d7e3a456b8e7dc451c09",
+      3680,
+      1789348173098814700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GU.json": [
+      "3155e6c11054670d8354d150b5e69763e168c2c267d9a670dc8f608134ad5ac2",
+      3746,
+      1789348173104161300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GV.json": [
+      "efcde06e664df2790377ea5627a36bf7eb8a726c3390a07909df6b1d03597375",
+      3444,
+      1789348173109728100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GV_graph_figure.png": [
+      "cdd045d821a793ddd4f617c30625962620cdb17197999ca57242f327d4a445f3",
+      39782,
+      1789449102978904300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GV_graph_figure_provenance.json": [
+      "be3547e61f556a4efb27803d87f9ff2145ef4b99ed0a075a17d5530a0305dc4d",
+      814,
+      1789449130988036600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GW.json": [
+      "3f9a9bd25a4dfb8d447d69d79c8af39af8583a5fc617ad7edc49e9d39ea4aebf",
+      4097,
+      1789348173113771900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GX.json": [
+      "b90638ba6594e0e74128c001f5e440231c9d469bf79e87dbfa01c36d979cb8e6",
+      4778,
+      1789348173144685700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GY.json": [
+      "9c8a295214a64ba95177c6361dbcc83d553b9f14df6f349cdb69105a037921fd",
+      4009,
+      1789348173150359400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ.json": [
+      "6e17be20d1b6e5f6804c08734f10be57fdde200c871e065e3653c7a18022ff80",
+      4215,
+      1789348173153366200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_astronomy_figure.png": [
+      "facf5f9db0626b6c5248651cebeafd87d5df6e302394d87f5251f5403736050f",
+      154890,
+      1789449204116091200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_choices_figure.png": [
+      "53f9e3a1cea7666a890f8245d9431ad45c74c6fe623bb04d81dc4a91b9f462b1",
+      141256,
+      1789449221223491200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_choices_supplement.md": [
+      "1cb58728f411b94018c7e9a7a724cd479e30195b30d470c370f6e3f616d434e3",
+      658,
+      1789449244472493300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_figure_provenance.json": [
+      "bfffa837da9e6e9b776b5f3bf214a139cc609213c6d77ed5858355cab7664022",
+      971,
+      1789449245397024600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HA.json": [
+      "b718444ed6151b4dd07f4395a8f0dc3b7e08df0c3d7cee84bd03443ca5a5549c",
+      3944,
+      1789348173159046100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HB.json": [
+      "7200ef6dc2613f17a58629392d3a4e88fd08d89a5d6174dd0f56bd9b9c624cfd",
+      4073,
+      1789348173163552300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HC.json": [
+      "a668142eea21663245b308160bff5eca1c7657581096d41e2d9aec7eeec670ac",
+      4067,
+      1789348173166846700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HD.json": [
+      "4a3ff187488baa7579674ca5839fe3cc94c4e9bfd31bb31f352627cf4eb8d9c3",
+      4206,
+      1789348173171490800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HD_graph_figure.png": [
+      "9fb009825782314ffdb1f569d25333b391bb83919b7a9417c19ffcd6f998376d",
+      122600,
+      1789449530392155600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HD_graph_figure_provenance.json": [
+      "23f4929c56eadbf297799331889428a1b115220263777393c0f72630032114f6",
+      866,
+      1789449573189382100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HE.json": [
+      "27de537d409b4a252a01f80b7889275938dd4d6485be16040ba8fa4c2d65363f",
+      3677,
+      1789348173178053700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HF.json": [
+      "b1377f9ef15be0d1fc45a427fd2a59d1e738370d1ceedc1095d0f7e72e3ca828",
+      3583,
+      1789348173182404300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HG.json": [
+      "778e6c7f674574a2c5eb7dfc2ba994eee33f7fe6afcf44af5139b7f9d612055d",
+      4350,
+      1789348173187412300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HH.json": [
+      "c5d3b65088a8fabe07a3b95bbf5356d15d255b9e9b17f54abb89cc239cd31eaa",
+      2963,
+      1789348173191712400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HI.json": [
+      "c36b3c8cf7d59fd0414cd19f124e3c82392597586cdea4286bcec7415251d3de",
+      2906,
+      1789348173196713100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HJ.json": [
+      "7ad1f78cc738aa25e4c7a4da41304c9f1c3c738eaa5808ba62c95afe68248201",
+      4375,
+      1789365914313182800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HK.json": [
+      "6ace01352f7ce818099d06970a7952fe906c3e9e7ce0e74248944c19341a6fb2",
+      4451,
+      1789365914323971400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HL.json": [
+      "d9c2438d2f4326cfe10bc30b25e9770adb0d06eaee9f997cae772304d4eca2e5",
+      5289,
+      1789365914342020300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HM.json": [
+      "9b98ce241f37925b28ea02ae8e0ed977bfcfeae550aac1bf47000b7dc1a526cf",
+      4394,
+      1789365914353582300
+    ],
+    "data/기본기_연구/prepared_backlog/manifest.jsonl": [
+      "cd970730d688698ef7e64b563efe94a035b01e8c15f9fea70b52f29e6a30ff6d",
+      107551,
+      1789455499346940800
+    ]
+  },
+  "before": {
+    "data/기본기_연구/astra_handoff_processed.jsonl": [
+      "de629286408dec56139e671adb328594596bd7f5286c6b7f6d15a6eff59f3b18",
+      334364,
+      1789455499326470700
+    ],
+    "data/기본기_연구/astra_handoff_queue.jsonl": [
+      "f71bfc53f21f7ed9c5b70e4043c81b87993eb5e60bce5bd8763faca893df3032",
+      1337043,
+      1789454685051768600
+    ],
+    "data/기본기_연구/meta_state.json": [
+      "ef45922808315f0d08fed1559d5e02ef592b96728f5cac3ef96d8aab792075ca",
+      4215,
+      1789455499222662400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AA.json": [
+      "e498d1b8ef0be14c67d539c8eb660604a854b53e25e032b79faf8bfa5a7e9b27",
+      4122,
+      1788931591534882800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AB.json": [
+      "8075065feca87862c8ee243ab429f7e409d4a5e6a1b54225334e3373c30f6d6b",
+      4985,
+      1788931592135758300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AC.json": [
+      "d4f6cfb5f75ecf6cf750d16bea30157d28417c7b62b42a13e57f767d7473df25",
+      4389,
+      1788931592748726200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AD.json": [
+      "1aec99fc992b21b1aaa86ccf31877abdfa73e96cf24923929ee5c20d07da4169",
+      5642,
+      1788931593326649600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AE.json": [
+      "2dea26a9fed36eb503dacb4b4b1e64c1cfe405f2124bc217b09df3100969a4d4",
+      6592,
+      1788931593932290300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AF.json": [
+      "c224a87705436b01d0a90523f8dbfbce48e4ca989b0d1b38ac600143e4558c56",
+      4719,
+      1788931594539349400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AG.json": [
+      "60255a08e8ce3771e0f9bceaf17a949c880a50edafb754c55879b568c80fff6a",
+      5021,
+      1788931595134184700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AH.json": [
+      "d5c53693151c7f32de9dab513aa8391c8904122c780b5333de33a5482817a071",
+      5070,
+      1788931595746716500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AI.json": [
+      "ab49747832686893e670ff735fa86a36d852fc525401f772e33eeac06004a353",
+      6197,
+      1788931596352261900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AJ.json": [
+      "20be56eabb680343a423099e17dc468bd64efe6b50e8ef9bcd6445a8c5bce692",
+      4573,
+      1788931596959319000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AK.json": [
+      "37830d68c1b9cbed3211817e0738803179177971ab69d4ce2ad07bdf1f518ca7",
+      5145,
+      1788931597562067100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AL.json": [
+      "7962d55094fd40dfc8cd689ccfb6c7fadde916cd4713e04a79f9edc3091a3bfc",
+      5070,
+      1788931598164405300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AM.json": [
+      "35049855334f909c99a54bc235ef5e41f86e3e3d6ce1a2e27e19891d228c4ce4",
+      5686,
+      1788931598763836500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AN.json": [
+      "ae5c4dc17b055766c523b9139254dd0f190840668ee600182c563213a51458f0",
+      6463,
+      1788931599361225700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AO.json": [
+      "7f265a02e7b7d937bfa7cbc25b23af6d10812d2c898592a356a10c359ffec678",
+      6315,
+      1788931599972717200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AP.json": [
+      "d71202dfbf164e502529597014dc4bb0b96a83d64618e8c4687f8ed372a567a7",
+      6496,
+      1788931600573336900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AQ.json": [
+      "3d20722612480b41a282e66e5953391d93c6520e145b14bedf2f0bfa911acdd3",
+      7225,
+      1788931601191152200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AR.json": [
+      "62d23e0a08ed2a54e87647ee962ac51a5cb828fc35cdb1c6612d425ba4f59bc2",
+      6241,
+      1788931601787864300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AS.json": [
+      "e3762c137a2bfebe337d10b5b87a2c0bf58cb19fb2801eb139bcef94dac60d43",
+      5899,
+      1788931602391597400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AT.json": [
+      "ad2b7830b49c3f2c202be3d94163047bd55f8825a0c9f14f89517804b6bb3794",
+      6747,
+      1788931603000543300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AU.json": [
+      "8020a765ea325eea8d44226b800089669749dea6cfc7019080533740b1c60afa",
+      6541,
+      1788931603583892700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AV.json": [
+      "68266c1090b0b9893c481c9435ff210d68061e5e86a6fc512b203071ed0aa7be",
+      6535,
+      1788931604186713300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AW.json": [
+      "9e16ec585c7907d7985c1bb744cb0859898ec085ee96acd6aaa0800ff0f07ce3",
+      6566,
+      1788931604805594800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AX.json": [
+      "38bd0a77ec9850904d79f8f156e12be93f5020f2cdc067e0bb16760e067f3ae2",
+      7921,
+      1788931605434525000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AY.json": [
+      "5a77fb01004c56c66f1d4f691a578ea96281721f942df2d81bfaac378ead9c8d",
+      6067,
+      1788931606054142700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/AZ.json": [
+      "904e38dcf84d0b3c5fec2fc4fee46255db887d2f825f88d286f3f13d21fff28e",
+      4626,
+      1788931606658723400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BA.json": [
+      "647d4fe55611fbf05bada9beda73954997a09833d247bf62f5c7400ae4184995",
+      4861,
+      1788931607253751800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BB.json": [
+      "abd27c537b87929e5251b335f570831c866e854ee72dd5652d61c420d849c704",
+      4829,
+      1788931607858733600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BC.json": [
+      "2371b1d4f92bfee803168d84c56a5ab0c8cef315847b72be5e0d304d093d53a0",
+      5713,
+      1788931608476367800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BD.json": [
+      "b684025c962e142f43b626f1faa62a7a3452bded634e8ce92c7b51e8c82b1539",
+      4545,
+      1788931609083651800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BE.json": [
+      "23b6deac901314c36b245a5ae60a5bc99328b794dc1ee9dbf527a446655625f8",
+      4784,
+      1788931609683282400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BF.json": [
+      "35c73dbbe75e120c86cc6cc1393e7e8144c38f494251e1aa83a6936bc915cb8a",
+      4821,
+      1788931610294710400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BG.json": [
+      "d84abb31bb72bf5cad63c8da147d3f0f6dbfb450767fb0902fc81b6602ab12f9",
+      5271,
+      1788931610867390000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BH.json": [
+      "5980cfca65414f3efe119d99f8a209a8ab67f6196562392fb95c06e297a9bdfd",
+      5007,
+      1788931611464021200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BH_supplement_20260910.json": [
+      "e2b23a2f3b92c5f31187a722ad5cf147452569b6c460e0aa61617ebb1048eac3",
+      680,
+      1789010434633228100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BH_supplement_20260910_scene_plan.bmp": [
+      "f82471ebc2681b232d93eda29be2203ce36152ece79ed962558c059d119a0794",
+      12931206,
+      1789010411353716500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BI.json": [
+      "a3aa7592d341b60e543d4ada65e1f47fd7d708b3e1fe533d74394d34c7e890f3",
+      4273,
+      1788931612063333300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BJ.json": [
+      "4e61e5d9c31cc9f104c2b7193d73fc2a23d6ec92acd47648c68fbaba9b66876b",
+      4220,
+      1788931612659792800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BK.json": [
+      "c63713a674835bd75e26117e6aa73249bdc94a9b7cffc3c57b30212239dcc1c8",
+      4581,
+      1788931613259087300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BL.json": [
+      "1d0e30fc01322ec6563497cc4a595d2a71908adc50cdf4a41ffb3be3b22386cd",
+      4033,
+      1788931613857452200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BM.json": [
+      "f4d77c5ed82eaa6d5570e064a84047bb10dd8dea4772461248a21fff8daaf11b",
+      5075,
+      1788931614479825200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BN.json": [
+      "9ff97d8943f3fda339c41622009b854c0a268adbe5dc3d01b5b0a46f231b509f",
+      5175,
+      1788931615101808300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BO.json": [
+      "d57c8a4d4e2ac3150060caff70a1c0ee0eb9ff3b77cf2da20d98f0ea8951e475",
+      5090,
+      1788931615716647200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BP.json": [
+      "3302598a5c7331a7eb59e9cb8e570ef23bb57dab40c49668f78c54a3dd86db04",
+      6035,
+      1788931616329610100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BQ.json": [
+      "ef2b7970b230553db59e7b6efef637df92465215007b6a549a471f07ef0bcb85",
+      6029,
+      1788931616937901200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BR.json": [
+      "ec993d5c11edb43bd9cbb6e70d66eee31fa7948034234d57bac434d41268e403",
+      5769,
+      1788931617543017900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BS.json": [
+      "d9cffa6187b2615c5fd836f69d299ad815a107a70e95aeef86adbaecb7eb2fdc",
+      6293,
+      1788931618147240800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BT.json": [
+      "e56e9f9652d9a28696421e23d2cc77e73df05e1f028f6aff08460df16281ce5b",
+      5854,
+      1788931618758833100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BU.json": [
+      "72937ed431eee088bb5cc07966f7b883aef950c1e07586c40a8de481a1f75e3c",
+      6573,
+      1788931619361799900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BV.json": [
+      "5acdc68a6130dfd911031bd48aaecab23e657b166aa0b43b2d0cc110b413f656",
+      5431,
+      1788931619953900200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BW.json": [
+      "c3eb999095751cb139cc13d8341d8cf14fe953b5b9d0458e279f11ddd5b49e16",
+      4367,
+      1788931620554168600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BX.json": [
+      "0b75ed067c8d148b15d86a4a7a438624081b184b491037defbb5b1632e3c28f2",
+      4653,
+      1788931621176289800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BY.json": [
+      "ac91979d2f927388bdc26b35f2778420f807240df1d661e518170263d6b63537",
+      3495,
+      1789024563647182200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/BZ.json": [
+      "1ebc7d928e5467ce73d5d43b4a6155f2f2172a2e9081a22982c3f8f4955d6339",
+      3588,
+      1789024563660350100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CA.json": [
+      "b732693cc08a046cc6278dc6d9023f02327167a8cef526a4c19b3a5fd432dd43",
+      3926,
+      1789024563697868700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CA_assets/CA_question16_figure.bmp": [
+      "c87465a9776d78ae55efae72b25b003d3973bac4dadfb0e77b9276a5a1c1bbf7",
+      2197854,
+      315500400000000000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CA_supplement_20260910.json": [
+      "dd9cfcb99921f4c0b6824c2c7f4387d8ad0234b5864f52e790f228d24b65a450",
+      1351,
+      1789026192978461500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CB.json": [
+      "97ae886098de13d35532d9d847031c6b9566929db1f12c89bc679aaf788caef9",
+      3219,
+      1789024563712898700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CC.json": [
+      "5c85cad3f68719dc9c4c6e0807442115583c9e8a7c9aef9a0264578ea50070a1",
+      4384,
+      1789024563726906000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CD.json": [
+      "b63bcf20a64b0e9032cc43d2b58cad79775a83c7707a531a913ad08b3c973e27",
+      4580,
+      1789024563743902700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CE.json": [
+      "1f64d84f863ec1cbd2d20ddf35a284e6047065c22de442e0fcdcd596832dd5dd",
+      4346,
+      1789024563761467200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CF.json": [
+      "2fb023b91a269d978c7ff07695868096704b049f52420519e863082b95413aac",
+      4884,
+      1789024563776519500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CG.json": [
+      "e253c745bf06bf1c77bd5a57eae5ddaa1999973fe733fc024a00a54456f4eb9c",
+      4626,
+      1789024563792351900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CH.json": [
+      "f13b7af867200b923454591ee7d331b095834ea6bcfa5f91eb4574b865c81cd3",
+      4425,
+      1789024563808545100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CH_choices_supplement.json": [
+      "b49dcc96e4529a9cb035001d9f043c62833b5a189d7ef1a95362c75067745460",
+      1789,
+      1789104896196613500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CI.json": [
+      "21f0bd22114fe4ed032cd5902ea00c4108bae002a73683a799131b142b18f569",
+      5853,
+      1789024563821957100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CJ.json": [
+      "f6360b18bb03b6c12b6d78fdee51c224e1c73359c5866f6f00abd1c6a68f4a4e",
+      4288,
+      1789024563834445500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CK.json": [
+      "f8ac9a6673ce9bdbc959a34a0819fc66e06dfcc3ca77b27d372906b72bcec75a",
+      6035,
+      1789024563846892700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CK_choices_supplement.json": [
+      "e340fdf9f41e720108f54ada725dcf3017b46c84a3ee103bf1cc96d2d93467e3",
+      1176,
+      1789105207056588400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CL.json": [
+      "3d25fafd109ba5a0e3fdc125c5df992391562d2ddf18964d4fd5bea0220eeaf9",
+      5815,
+      1789024563860056800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CM.json": [
+      "9ffa7b158d8760cd2b4c38d1b456dac5d6225dfcbe0935c751d0f0fdc547434a",
+      5793,
+      1789024563873387500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CN.json": [
+      "6c02f3c0f39897cdf1e4231b7e411fe2fb02ee3c13aa1c7c4babd1e097c7cacc",
+      6041,
+      1789024563886251300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CO.json": [
+      "978659b86ff3d491e7a22f71f895b4cd1224580ffb20db1254eb472d20a24966",
+      7256,
+      1789024563901638400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CP.json": [
+      "d5328a86aaaa0e7880407ead544b2fa997116b9dfeddf352bf22bbfb159991d6",
+      5387,
+      1789024563915513400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CQ.json": [
+      "1268839d8ff571279dfc5103bb4fd9163005b1fb2069238767548cee3fd93f53",
+      3962,
+      1789024563930231600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CR.json": [
+      "c1993124b5149fc1f7b4f89d850c774b70313dedec2bb012933eea19c32d6fb8",
+      4203,
+      1789024563942761800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CS.json": [
+      "7294e0c19cc3be4da5cec7669d09ba639d9223a495a93a266e352291f5cc19ba",
+      4120,
+      1789024563955857400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CT.json": [
+      "416ebcdd29b178e617ddaf711553a086d3ac6e50c07bd7d806efd7139a03136d",
+      4883,
+      1789024563968225600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CT_equation_supplement.json": [
+      "5d8148974d78347e3e8852f14de148ba7b88fdff39624407ec1c18d27a54f6fc",
+      2366,
+      1789105674498350300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CT_source_supplement.json": [
+      "53028399d55ff9e1e8d8202e2f4cdcfc92726538c9aa24c9b0621a946775454d",
+      2868,
+      1789105601582386300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CU.json": [
+      "0801b4805d47d3fccd959a4b74779d414f6e27416e491e78631532543fd32331",
+      3551,
+      1789024563982863500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CV.json": [
+      "0fed4eb26779a55d1b96c18503aa1fa5284ba07d2eae324876170df45b3dde50",
+      3696,
+      1789024563996383500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW.json": [
+      "9b05537f343760803d06b42bcf077c16cc499b58d61804e257bc466cf19abb54",
+      3745,
+      1789024564010595000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_original_render.png": [
+      "dc347d04beeaea6c5385a3281f5cb54c5f61c0472abedfa81fc6d5a2196b5140",
+      28236,
+      1789181332182773700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_original_render_manifest.json": [
+      "57a5f11832b50a977ff37a2eccbfc2d3e4ad34be543060b4a867cd4e95008323",
+      782,
+      1789181332190082600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_supplement.svg": [
+      "9f0eeef6517220a526744c930c4bc96e6b103464f3049c5d759c66c69f438e9f",
+      1560,
+      1789106064768961300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_supplement_v2.svg": [
+      "ff397766a23787d51fefb73e4b887cece5d4bac63187421d1196a1b55e548c0e",
+      1523,
+      1789106316963903800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_vector_manifest.json": [
+      "d8d8bdf58cf968b2d9e8be1a8a98d40ee5cf0b0453c0fc3f9db6e23d93f535f5",
+      1579,
+      1789106065390959300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_vector_manifest_v2.json": [
+      "1625566c9c09a35fa2f580d81fbe1d2665f3c2e5e9c07c9336b005354ea9ec8a",
+      936,
+      1789106317569517100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CX.json": [
+      "93fb92ba21fba19ad6b467b7c234ddfc575484aca0ba68338eab9b74e213c986",
+      3256,
+      1789024564023497900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CY.json": [
+      "2027d101cfbb198bfcfea1c312598cf25aa727325fc87c2ca7a7ddd6b628d275",
+      6361,
+      1789024564036856400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/CZ.json": [
+      "137a60fa4151b4386bfdaa46327a99ffffb895fa164c6473386387819e522e1e",
+      6297,
+      1789024564050520800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DA.json": [
+      "f8471ffc2d63c9a49b3975fdae307184e98e5293c5a5fe1c8b387098d2b9330f",
+      6476,
+      1789024564064025200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DB.json": [
+      "924ea448a4dc3f553ea44359dd220415d85d26e65ccb4c712f688765b94e7fbf",
+      6431,
+      1789024564076037300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DC.json": [
+      "a2cbf58dfc26445d3f5b92834f405d1d844a17d7e06fe4f40de00b9f121692ad",
+      7495,
+      1789024564091340500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DD.json": [
+      "821f9268d3a69f6e6f3fc03628587b04be39b2a7d5015c356bd1748efd06442a",
+      5808,
+      1789024564104443600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DE.json": [
+      "ba438f02079001c45c647872e83a20f83b5b235902ae513685575d39117fdaaf",
+      3803,
+      1789034845164126100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DF.json": [
+      "07487027201749b5b70347a6390a28d18b1dcd53bd224565e132a47f128a7e0e",
+      3881,
+      1789034845172702400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DG.json": [
+      "927018597f1a8bb053803cde180f4d4979ec503bbdc4c1534a940d73bf5fb0df",
+      4598,
+      1789034845207957200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DH.json": [
+      "319362809bcf586743dd31fd1b6bd692da85d29b4c84fb2695494fca322896f1",
+      3570,
+      1789034845217590100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DI.json": [
+      "0c16ddf5e875f9941b999b991796db54c2b558643e388a776363367fd55e6aaa",
+      6998,
+      1789104600610934000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DJ.json": [
+      "1320dbe8f0837cd13f9c9aa60437a809f8b3d926534c664c13b1633ab7fdcf2b",
+      6772,
+      1789104600622324400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DK.json": [
+      "49013ce0d315233e4ff630eda679d33a480d7e39ee003aff3743c4095756b77d",
+      7376,
+      1789104600630849100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DL.json": [
+      "b38c6e52ec860a06de1f8982e8d8829417a006b3d7d14a431137d43ab713fd70",
+      7055,
+      1789104600641739200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DM.json": [
+      "4c068b193c465512716048704e35c0639993af49f8bc8d4fba2ced2e93750ed1",
+      8300,
+      1789104600652216100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DN.json": [
+      "cd947955ef7c88a8c79a13807668f9fa82a94135fe266bab41168c1e467f975e",
+      6465,
+      1789104600659552300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DO.json": [
+      "c1ef09647a47adc21a270fb3d22e946ecbb70a1a56a67ab59130ebf1c78f0181",
+      2989,
+      1789207247469738200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DP.json": [
+      "b9cb191d8c251ba23e6390b388743fa1bb498bcefc935cd0987e6ea5767497d2",
+      3073,
+      1789207247473244100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DP_A_marker_source_audit.json": [
+      "16e799c80084c8cb4abce2f98ee34da446b191809609f2f5057fa69d74593606",
+      945,
+      1789207580714315300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DQ.json": [
+      "7a0c78e8c11501bc7523a7c13e01b70619f9b41dc2001514996747b8f4e12720",
+      4506,
+      1789207247478701700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DR.json": [
+      "59b4e0aa8a86a740e245b41dc8ba90f1a5f39962621d65e79e05f005df1c2707",
+      4440,
+      1789207375996984500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DS.json": [
+      "4a0a675ac241df8b281d4773308359ce19e6bbc824e7489cfe3717dc9c9bec55",
+      4716,
+      1789207376000439800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DT.json": [
+      "75d855677212e9acf07372cb934701de3e34c6b67a1992d14852a9f2905041a6",
+      5287,
+      1789207376010090100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DU.json": [
+      "5a1e3f6a43f8e45996fb3619faf53fbff9d0a3801c84ef00457d5778deb84e64",
+      5690,
+      1789207376013659600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DV.json": [
+      "32c1a43cc6f691326d190986e9e29f82d444fb116585cdfba7ff31c971256812",
+      3825,
+      1789207376019407700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DW.json": [
+      "8c256858af680139ee9a5b3b66e8a0cdc0a21161fcf9650270db961fb261bfcd",
+      3926,
+      1789207376024429700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DX.json": [
+      "a96ac958b676d395523d505bba68d5fa96d39112261313df791eed121c5e941c",
+      4617,
+      1789207376025693000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DY.json": [
+      "1f755b6804a28f3c1011f55512006ab4ce2840ad2d773c5465b6db8521792d2b",
+      3499,
+      1789207376033424600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/DZ.json": [
+      "02ed28e0f80c80540cb5a3f410befb4f1c2b6939cf7b29984201fc9d3dfcea44",
+      4558,
+      1789207376037553800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EA.json": [
+      "d6de5629c3b077d05005405c42a7864cf870f78de6a34e233570612d7657a175",
+      4687,
+      1789207376037553800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EB.json": [
+      "f7aa68b098fd95c45d648a4bc9272f70b000ad93451b5340e41623a5d0631f82",
+      5145,
+      1789207376037553800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EC.json": [
+      "ecf815c9c10f36d1a3ef631b958500d969273e2ac910f185a60c40b1e7ad2cf7",
+      4339,
+      1789207376052514500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ED.json": [
+      "17507c841f9b4b01aac05f2681757a849c5c39f3c23dbe9d6feeebf74f51299f",
+      3310,
+      1789207376053626700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EE.json": [
+      "0976a2e2406853f6fff86e9b433bbec0fdfb49e16cb56d671da6071457fe0970",
+      3434,
+      1789207376062093900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EF.json": [
+      "87a0cbfc4327143c2d32908b08bf43379ce7ca2b4a1bf70aa75ef22bf02c74c9",
+      3659,
+      1789207376066773100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_crop.png": [
+      "988dde7181ef2d8ca7e6f43667c946ac37d9833d343bfd072aa62a87c91eca1d",
+      190003,
+      1789264153413236900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_supplement.json": [
+      "e40d1574522263dc7bb2187f5a79b308d7d43af0d65bff549f53a085b5ac649b",
+      1160,
+      1789264153425503700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EG.json": [
+      "d65214386424f329baf2dbcd19d14025b67a07e35776d9eb02ac1872b41f4813",
+      6911,
+      1789207376068779600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EH.json": [
+      "d733e7c54a2325c953b62e4c3bc474b05e2bf9801cd386d8d6eab76a53a0feb3",
+      6933,
+      1789207376068779600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EI.json": [
+      "20a4d2f2c1dd5953f80c06cc4a47128180b1538577f5c917f8ae3ce227763cd7",
+      6914,
+      1789207376080089800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EJ.json": [
+      "724b004a05baf98280b73699d395dddaf5bd9e9954a6043e69b55c6eee30160e",
+      7176,
+      1789207376080089800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EK.json": [
+      "84f59a052ed6831ec957107afbcf4f91f996f112da75db7e9f5415f2eb0348c7",
+      8541,
+      1789207376090397200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EL.json": [
+      "3a45b9fecad907796b84e1d1e2342c7f4ed91822a01433fb1531f02d995bc944",
+      6528,
+      1789207376094416400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EM.json": [
+      "434eadbb940c0e4104f708bacd84bcd1f5cbe7a076373b4eb6cd0014e805548c",
+      4813,
+      1789207376096171200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EN.json": [
+      "804ab23d0454286b5a668bcfb8ea0e76bd982f08b18f25c9e41213971af521b4",
+      4461,
+      1789207376104074900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EO.json": [
+      "ab723b7c88b0bf7af0850b4ea6c9f9d5b3e9acaea2a4278a5c28498663a72922",
+      4518,
+      1789207376104074900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EP.json": [
+      "7dbb5807f5ac46128b0aab26c2594169d7b74213aa62680a95c8aea835076add",
+      5113,
+      1789207376112096500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EQ.json": [
+      "52bc7dc962b531d84082bf736748343bc7ae6ed6e18ad65b3bca08db86615dae",
+      4287,
+      1789207376112096500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ER.json": [
+      "f09512ec3a5d35213b325fa8dd75a49bd3bc7ea1e91c0c806841bf9885380729",
+      4253,
+      1789207376112096500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES.json": [
+      "6e0ddd98d95dd761cf8ca813d7a14253a03ceeeeb58925f5637d03c6976e74e4",
+      5112,
+      1789207376127866800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES_comment_original.bmp": [
+      "198a80801918f15bcea27ea40aeefc16b35ee2c94f8a47b84162f38741eb4d2e",
+      5505494,
+      1789290762480788800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES_comment_original.png": [
+      "242c3c19134f1a38a95ba14d211c08b5f4429f73a84c481b4ad4f02221284ae7",
+      122236,
+      1789290770138487000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ES_comment_provenance.json": [
+      "1e2cba41103a89a6c3b26705d3b197edffdf4b7598b92f2720cc6997a232cc7f",
+      1109,
+      1789290852777908200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/ET.json": [
+      "cf84b61428145c8818756a957d821c25d99a022bf523971c1891d9dffd3a403b",
+      3831,
+      1789207376130125400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EU.json": [
+      "85d08238c507747cd799eabaff217311acdf31f4e456de3b42cfcef6c8244476",
+      7098,
+      1789309102157888700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EV.json": [
+      "216fc945ed4fa58a9c0677ee298a34bd9bd98331bc8126b968b58eabdca7a3f8",
+      7075,
+      1789309333457013000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EV_scope_supplement.md": [
+      "4e9be75f0c5d5e6f235aef1fdb68b8d7fe5448f145b4fd2e7bcdd9b09a4f0833",
+      444,
+      1789309333493533000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EW.json": [
+      "a4ee7287051143ddde6eb93b10e031cbeffe69a01dc86c8d3bba8fcafacb238f",
+      7132,
+      1789309102211510900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EX.json": [
+      "9a9dc8d7a3b5a939057c2fdc2761669903b3bde7932bf4eb260abfd94339a528",
+      8274,
+      1789309102225052900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EY.json": [
+      "79121321aeeefb062337cba5d3256b10460894e3db068b5763df2c50364edcb7",
+      6543,
+      1789309102238943800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/EZ.json": [
+      "a53dc4409a6b06524b6757fd1015291e08a235a60edc8997ff939628f5ef844e",
+      5195,
+      1789309403112272700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FA.json": [
+      "1531dfc942b111f92ad2df77f7343be8b07db476ed0184fd88d620bdffbaee52",
+      5365,
+      1789309403124802200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FB.json": [
+      "bea78794b2509d46c6586bc56704daf0562bcc64ae2577e90f2aefbba905d030",
+      5162,
+      1789309403137827100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FC.json": [
+      "399b17c9dda990632fef3144befc5f7f2aa54cb0ba9a59244549243351b8d810",
+      6050,
+      1789309403149942200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FD.json": [
+      "225ae4af6e7a85ab7115d1808f15cddb73057e875250d3b434a2e691ae2f2e05",
+      6139,
+      1789309403187898000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FE.json": [
+      "8b49536dd4f7529eaf702a4da0fdfdee7f2e0bcec3f597965b4d9dd95c1f5c9b",
+      6899,
+      1789309403201885500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FF.json": [
+      "1563dec4c7e93dea4f918280809bc911dec2b2d50fa3f7d1d7ef0a0947d0f9e8",
+      6266,
+      1789309403240218600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FG.json": [
+      "ce0d72eb95576a56ee59d415fb74cf1233e233565d046f01fad81f45ba98d60b",
+      8272,
+      1789309403256219100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FH.json": [
+      "00cd946029cc59976538ec02e6fe474190e0588841a3157624d75ae847b87c1f",
+      5987,
+      1789309403271223700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FI.json": [
+      "68a40a3337721f7125a150232dec8cfc22475689b32ecb82a99c6c44a675c2e3",
+      6275,
+      1789309403320731700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FI_choices_supplement.json": [
+      "f0a9a0ee333cbc880b9b9802b83d625836c60a180ea02fc6400ab87b0d0c51fd",
+      959,
+      1789327966016487200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FI_choices_supplement.provenance.json": [
+      "9b177ed06a588557806d566d7f18bdbf2102210488ddbc78736189c45c485001",
+      1720,
+      1789327966059111500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FJ.json": [
+      "234ad2a270765d92b09acf5f90a885481ab604ece195ac58967780f89f6f4c31",
+      6155,
+      1789309403334731500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FK.json": [
+      "5d08f040e312767473e64765b28e48fb79c3499f659b56dc71e90ce6d5c10bfd",
+      6590,
+      1789309403349736100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FL.json": [
+      "f9a17878e7e20f12428b8f654e6da1a35e42895a62c5d9531975dc72a844f0bf",
+      6085,
+      1789309403364731700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FM.json": [
+      "e542f737b80f280a6f0b5d8154fd38a190b42ccd2ce14bd8392eebc09242b431",
+      7303,
+      1789309403378741500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FN.json": [
+      "31b2d84385186219b6d009141cd778ae50fe1c39b490edc2c0f327ddba6c8633",
+      5956,
+      1789309403392882600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FO.json": [
+      "91f07ba1cbb7640655be9a08efedcd7bc8c7bcfc49fe7c489c64a2048dbd57c8",
+      6755,
+      1789309403432927200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FP.json": [
+      "663fc60d69b587c940f19bb92841467500092d2c9c0ee4a266ebae291d937b3e",
+      6752,
+      1789309403446445300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FQ.json": [
+      "7c66d8471f41e73551a2cf06a705c44ea18403160267855cdae7e7b33c95aa24",
+      7236,
+      1789309403459447000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FR.json": [
+      "6d68be14949095ac96bb947c06f9293789db6c8bc6125e65a2fc8e3c96d8ac2d",
+      7036,
+      1789309403473098200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FS.json": [
+      "a43d5a882768b21916cf50cc8314849cfa396444ace2f94d23c6a4f2f326f0ae",
+      8153,
+      1789309403487712800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FT.json": [
+      "103eba625f5fdfb7e7d413e137a9abdbf251aeac1842cb5f79818bc7bef86710",
+      6443,
+      1789309403502818600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FU.json": [
+      "73c2cfa2c8ec37dabba364db5840e6cd29bc84121ca0ee94255ef480ffaea4f6",
+      6834,
+      1789309403544245000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FV.json": [
+      "7ed888d94736a0fd6c98b2aa5cc1526723ec3d2bd88fe03781ba06403ca3cf11",
+      6594,
+      1789309403557533500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FW.json": [
+      "931288e21b9b2c25cd2d7dea3f7b71862569ebe05dbeb2bcb573f559f276517a",
+      6555,
+      1789309403570009900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FX.json": [
+      "b9a46ad5ed726ba71f40a8bc9a54ff95e59bbeb550204735bbabe7a12292837c",
+      7845,
+      1789309403583523500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FY.json": [
+      "600da303341d086567aed09628d6c5613db0e6391222039646be77b2da653e8d",
+      6074,
+      1789309403597519800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/FZ.json": [
+      "f7e1ccbe863d9f2259c4ae4b4f42d28b059d575b04f9bad2d6e736817e610a5c",
+      6561,
+      1789347510317470400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_body_figure.bmp": [
+      "a75b624887d537d14938fe84f1320053153a775f861979db0bc2debd9c389396",
+      2568834,
+      1789310316326110100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_body_figure.json": [
+      "c60e16b135d924acb55fd44d5768f67e322aead940dceb274b6b305994486e89",
+      318,
+      1789310316331562100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_math_runs.json": [
+      "da1a2c00b4509003b67fb68f19d0ebe5443edb897c7a9106503576776740d3a7",
+      3061,
+      1789310350712928900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_math_supplement.md": [
+      "600d43e755d9d17cc99275899aade64fa8bd5ea7c75d8ba04ba19d8c8211d846",
+      776,
+      1789310231889411600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GA.json": [
+      "b718b9b9498146b4e8ef92513252053e214f12ffe3866b67ddf6c13e055c5db9",
+      6571,
+      1789347510351737500
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GB.json": [
+      "6621a42bfdb067ece67d9e990d7f88c34f0e4214558ba941e1fe1e89e4fd5f46",
+      6402,
+      1789347510359679300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GC.json": [
+      "79123a5641f07dee81ba5218e686d6827649eccc17264556b129093730e53c68",
+      6360,
+      1789347510369553000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GD.json": [
+      "17162cda1a589484b95588efcd0d32c876c0c8d219be5456a700a37d45931b60",
+      7734,
+      1789347510378296200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GE.json": [
+      "4e56c2326a97853ea095aa9c33ff14c2c0633ea422daaf1040fb20ab94036b7a",
+      5838,
+      1789347510389903400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GF.json": [
+      "d4a33d04e75e319cbb9ecb8361a6f5ddd074e7aab889b02085a2df6be5489833",
+      4604,
+      1789348173031585200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GG.json": [
+      "7c0e289a1e8ad2bfbeb4c345786e7930004b14307c8e90747e124204cf2a2357",
+      4794,
+      1789348173036242100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GH.json": [
+      "695a94c7c71b1e34155b4be7fa8f2d05e5c848ee1eaff8d7c28bc8e124e2e98e",
+      4720,
+      1789348173041609800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GI.json": [
+      "0669f28133ef3c305384c2de5a0701933b0ec7f1edc83d67f85731ca80ddc930",
+      5198,
+      1789348173046032400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GJ.json": [
+      "6cf8ff481eb6dd729f539472c3a071d05e246e49d0ce3f30fed9b970417acc61",
+      4517,
+      1789348173050538800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GK.json": [
+      "46f30c1452bd9dca37c88c33233d5ff7efc32515a2053d87e1675723dd4875e9",
+      3693,
+      1789348173055615800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GL.json": [
+      "9f1ae67d776fc9280b0647e0d5a45cb6e0188596f09df0a1ac2f1d9a76c63d4b",
+      3882,
+      1789348173060613700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GL_device_figure.png": [
+      "dbba166160dd09497a81fb2410caf60d08892eddde962be51323ddc55a1b9fe9",
+      394913,
+      1789349179762952300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GL_formula_supplement.md": [
+      "85daf55f5126867e4ed3a11084c78ba02e29cd16a56401e1157a4418432f010c",
+      450,
+      1789349227220962700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GM.json": [
+      "a7d7ed4ecf2353c31c70a390bf699ca276ea7f0b4e1598961f5839d2fcbe6684",
+      3564,
+      1789348173065669700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN.json": [
+      "0aa4a3399b6f31b84a7716b971878a8aafd80aeca03442959cf827a1093e8f71",
+      3006,
+      1789348173070663900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN_A_range_supplement.md": [
+      "228bd7758a8752dfdd61101dde4545c1b411fc593022e47d593f829c3f91bd83",
+      858,
+      1789448147623630400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN_graph_figure.png": [
+      "555012592d53746b4dbe54fcbb78ae54c3bfccb20f1baafda10d5bd5b0ebe14c",
+      46586,
+      1789447979119208200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GN_graph_figure_provenance.json": [
+      "2c532c929bfc484ce7a5e9c154cdd79193cc5d7234407d22f2c40915ec2cbc84",
+      1514,
+      1789448005499458300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GO.json": [
+      "83b009ccbc374d249baa3a378bd8f63bad4152ae713949802fd5b43db43b3a34",
+      3311,
+      1789348173074602600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GP.json": [
+      "5c169be64ddebb78f8f9d0e853acfc5e70f1da607b97b8b6afd5a1d05c7dcdef",
+      3538,
+      1789348173079603000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GQ.json": [
+      "2cf8f53306aac0a5f979501a8b1e585c849067ca6157a1bf9c4dbde0f3c958c8",
+      3947,
+      1789348173084681800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GQ_choices_supplement.md": [
+      "88b51ed0e8546f1b81627d71aade13466dd104be39fb7a59db0fc8eae9a7d305",
+      1067,
+      1789448091718279300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GR.json": [
+      "f4cca13e1eb245929f9b7ebe1e491bf81fd7f5daefad609f9cd81cb6865dafb0",
+      3418,
+      1789348173089715100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GS.json": [
+      "22de4fb3a22c3e1b645a1f8dae7ca2abf1fd00c0d63c7a879af5d263c1079615",
+      5239,
+      1789348173094584300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GS_scene_figure.png": [
+      "16a900adaa0fe5cf00c5d97b7c0243230b66d98ce99524914fc7214ef97ff78c",
+      307219,
+      1789448124524374200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GS_scene_figure_provenance.json": [
+      "1c0285674cad1bb433b06c7ac540b74c22243b3c3d87072bd13e0b6c072ea175",
+      779,
+      1789448147020090000
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GT.json": [
+      "e13d88e6228ab4b99b52209adbc464f39c9969f845d8d7e3a456b8e7dc451c09",
+      3680,
+      1789348173098814700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GU.json": [
+      "3155e6c11054670d8354d150b5e69763e168c2c267d9a670dc8f608134ad5ac2",
+      3746,
+      1789348173104161300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GV.json": [
+      "efcde06e664df2790377ea5627a36bf7eb8a726c3390a07909df6b1d03597375",
+      3444,
+      1789348173109728100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GV_graph_figure.png": [
+      "cdd045d821a793ddd4f617c30625962620cdb17197999ca57242f327d4a445f3",
+      39782,
+      1789449102978904300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GV_graph_figure_provenance.json": [
+      "be3547e61f556a4efb27803d87f9ff2145ef4b99ed0a075a17d5530a0305dc4d",
+      814,
+      1789449130988036600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GW.json": [
+      "3f9a9bd25a4dfb8d447d69d79c8af39af8583a5fc617ad7edc49e9d39ea4aebf",
+      4097,
+      1789348173113771900
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GX.json": [
+      "b90638ba6594e0e74128c001f5e440231c9d469bf79e87dbfa01c36d979cb8e6",
+      4778,
+      1789348173144685700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GY.json": [
+      "9c8a295214a64ba95177c6361dbcc83d553b9f14df6f349cdb69105a037921fd",
+      4009,
+      1789348173150359400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ.json": [
+      "6e17be20d1b6e5f6804c08734f10be57fdde200c871e065e3653c7a18022ff80",
+      4215,
+      1789348173153366200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_astronomy_figure.png": [
+      "facf5f9db0626b6c5248651cebeafd87d5df6e302394d87f5251f5403736050f",
+      154890,
+      1789449204116091200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_choices_figure.png": [
+      "53f9e3a1cea7666a890f8245d9431ad45c74c6fe623bb04d81dc4a91b9f462b1",
+      141256,
+      1789449221223491200
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_choices_supplement.md": [
+      "1cb58728f411b94018c7e9a7a724cd479e30195b30d470c370f6e3f616d434e3",
+      658,
+      1789449244472493300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/GZ_figure_provenance.json": [
+      "bfffa837da9e6e9b776b5f3bf214a139cc609213c6d77ed5858355cab7664022",
+      971,
+      1789449245397024600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HA.json": [
+      "b718444ed6151b4dd07f4395a8f0dc3b7e08df0c3d7cee84bd03443ca5a5549c",
+      3944,
+      1789348173159046100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HB.json": [
+      "7200ef6dc2613f17a58629392d3a4e88fd08d89a5d6174dd0f56bd9b9c624cfd",
+      4073,
+      1789348173163552300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HC.json": [
+      "a668142eea21663245b308160bff5eca1c7657581096d41e2d9aec7eeec670ac",
+      4067,
+      1789348173166846700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HD.json": [
+      "4a3ff187488baa7579674ca5839fe3cc94c4e9bfd31bb31f352627cf4eb8d9c3",
+      4206,
+      1789348173171490800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HD_graph_figure.png": [
+      "9fb009825782314ffdb1f569d25333b391bb83919b7a9417c19ffcd6f998376d",
+      122600,
+      1789449530392155600
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HD_graph_figure_provenance.json": [
+      "23f4929c56eadbf297799331889428a1b115220263777393c0f72630032114f6",
+      866,
+      1789449573189382100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HE.json": [
+      "27de537d409b4a252a01f80b7889275938dd4d6485be16040ba8fa4c2d65363f",
+      3677,
+      1789348173178053700
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HF.json": [
+      "b1377f9ef15be0d1fc45a427fd2a59d1e738370d1ceedc1095d0f7e72e3ca828",
+      3583,
+      1789348173182404300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HG.json": [
+      "778e6c7f674574a2c5eb7dfc2ba994eee33f7fe6afcf44af5139b7f9d612055d",
+      4350,
+      1789348173187412300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HH.json": [
+      "c5d3b65088a8fabe07a3b95bbf5356d15d255b9e9b17f54abb89cc239cd31eaa",
+      2963,
+      1789348173191712400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HI.json": [
+      "c36b3c8cf7d59fd0414cd19f124e3c82392597586cdea4286bcec7415251d3de",
+      2906,
+      1789348173196713100
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HJ.json": [
+      "7ad1f78cc738aa25e4c7a4da41304c9f1c3c738eaa5808ba62c95afe68248201",
+      4375,
+      1789365914313182800
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HK.json": [
+      "6ace01352f7ce818099d06970a7952fe906c3e9e7ce0e74248944c19341a6fb2",
+      4451,
+      1789365914323971400
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HL.json": [
+      "d9c2438d2f4326cfe10bc30b25e9770adb0d06eaee9f997cae772304d4eca2e5",
+      5289,
+      1789365914342020300
+    ],
+    "data/기본기_연구/prepared_backlog/blind_sources/HM.json": [
+      "9b98ce241f37925b28ea02ae8e0ed977bfcfeae550aac1bf47000b7dc1a526cf",
+      4394,
+      1789365914353582300
+    ],
+    "data/기본기_연구/prepared_backlog/manifest.jsonl": [
+      "cd970730d688698ef7e64b563efe94a035b01e8c15f9fea70b52f29e6a30ff6d",
+      107551,
+      1789455499346940800
+    ]
+  },
+  "queue_last_record_id": "ANCHORS-O1-O8-boundary_revision-20260915-semantic-audit-01",
+  "schema_version": 1,
+  "tracked_input_count": 242,
+  "unchanged": true
+}

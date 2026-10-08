@@ -1,0 +1,450 @@
+#!/usr/bin/env bash
+set -uo pipefail
+
+SELF="$(readlink -f "${BASH_SOURCE[0]}")"
+SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$SELF")" && pwd)"
+ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+
+QUEUE="$ROOT/data/기본기_연구/astra_handoff_queue.jsonl"
+PROCESSED="$ROOT/data/기본기_연구/astra_handoff_processed.jsonl"
+CURRENT="$ROOT/분석/기본기_연구/CURRENT.md"
+META_STATE="$ROOT/data/기본기_연구/meta_state.json"
+MANIFEST="$ROOT/data/기본기_연구/prepared_backlog/manifest.jsonl"
+
+LOG_DIR="$ROOT/data/기본기_연구/cxresearch_loop_logs"
+
+ASTRA_MODEL="${CX_ASTRA_MODEL:-gpt-6-astra}"
+LUNA_MODEL="${CX_LUNA_MODEL:-gpt-6-luna}"
+
+MAX_TURNS="${CX_MAX_TURNS:-0}"
+SLEEP_SECONDS="${CX_LOOP_SLEEP:-2}"
+
+DRY_RUN=0
+ONCE=0
+
+usage() {
+  cat <<USAGE
+Usage:
+  scripts/cxresearch-loop
+  scripts/cxresearch-loop --dry-run
+  scripts/cxresearch-loop --once
+  scripts/cxresearch-loop --max-turns N
+
+Environment:
+  CX_ASTRA_MODEL   default: gpt-6-astra
+  CX_LUNA_MODEL    default: gpt-6-luna
+  CX_MAX_TURNS     0 = unlimited
+  CX_LOOP_SLEEP    seconds between turns, default 2
+USAGE
+}
+
+while [ "$#" -gt 0 ]; do
+  case "$1" in
+    --dry-run)
+      DRY_RUN=1
+      shift
+      ;;
+    --once)
+      ONCE=1
+      shift
+      ;;
+    --max-turns)
+      [ "$#" -ge 2 ] || {
+        echo "cxresearch-loop: --max-turns requires N" >&2
+        exit 2
+      }
+      MAX_TURNS="$2"
+      shift 2
+      ;;
+    -h|--help)
+      usage
+      exit 0
+      ;;
+    *)
+      echo "cxresearch-loop: unknown argument: $1" >&2
+      usage >&2
+      exit 2
+      ;;
+  esac
+done
+
+if [ "$ONCE" -eq 1 ]; then
+  MAX_TURNS=1
+fi
+
+command -v codex >/dev/null 2>&1 || {
+  echo "cxresearch-loop: codex CLI not found" >&2
+  exit 2
+}
+
+command -v python3 >/dev/null 2>&1 || {
+  echo "cxresearch-loop: python3 not found" >&2
+  exit 2
+}
+
+for f in \
+  "$QUEUE" \
+  "$PROCESSED" \
+  "$CURRENT" \
+  "$MANIFEST" \
+  "$SCRIPT_DIR/cxresearch_prompt.md" \
+  "$SCRIPT_DIR/cxresearch_loop_suffix.md" \
+  "$SCRIPT_DIR/cxcycle_luna_prompt.md"
+do
+  [ -f "$f" ] || {
+    echo "cxresearch-loop: required file missing: $f" >&2
+    exit 2
+  }
+done
+
+mkdir -p "$LOG_DIR"
+
+# Prevent two research loops from touching the same ledgers.
+if command -v flock >/dev/null 2>&1; then
+  exec 9>"$ROOT/data/기본기_연구/.cxresearch-loop.lock"
+  if ! flock -n 9; then
+    echo "cxresearch-loop: another loop already holds the repository lock." >&2
+    exit 20
+  fi
+else
+  echo "cxresearch-loop: WARNING: flock unavailable; parallel-run protection disabled." >&2
+fi
+
+pending_count() {
+  python3 - "$QUEUE" "$PROCESSED" <<'PY'
+import json
+import sys
+
+queue_path, processed_path = sys.argv[1:3]
+
+done = set()
+
+with open(processed_path, encoding="utf-8") as f:
+    for line in f:
+        if not line.strip():
+            continue
+        try:
+            row = json.loads(line)
+            rid = row.get("source_record_id")
+            if rid:
+                done.add(rid)
+        except Exception:
+            pass
+
+pending = 0
+
+with open(queue_path, encoding="utf-8") as f:
+    for line in f:
+        if not line.strip():
+            continue
+        try:
+            row = json.loads(line)
+            rid = row.get("record_id")
+            if rid and rid not in done:
+                pending += 1
+        except Exception:
+            pass
+
+print(pending)
+PY
+}
+
+queue_count() {
+  awk 'NF {n++} END {print n+0}' "$QUEUE"
+}
+
+processed_count() {
+  awk 'NF {n++} END {print n+0}' "$PROCESSED"
+}
+
+state_fingerprint() {
+  {
+    for f in \
+      "$QUEUE" \
+      "$PROCESSED" \
+      "$CURRENT" \
+      "$META_STATE" \
+      "$MANIFEST"
+    do
+      if [ -f "$f" ]; then
+        sha256sum "$f"
+      fi
+    done
+  } | sha256sum | awk '{print $1}'
+}
+
+recover_pending() {
+  local pending
+  pending="$(pending_count)"
+
+  if [ "${pending:-0}" -eq 0 ]; then
+    return 0
+  fi
+
+  echo
+  echo "cxresearch-loop: pending Astra raw=${pending}; Luna recovery first."
+
+  local stamp luna_log
+  stamp="$(date +%Y%m%d-%H%M%S)"
+  luna_log="$LOG_DIR/luna-recovery-$stamp.jsonl"
+
+  local -a LUNA_CMD
+  LUNA_CMD=(
+    codex
+    -a never
+    exec
+    -C "$ROOT"
+    -m "$LUNA_MODEL"
+    -s workspace-write
+    --skip-git-repo-check
+    -c model_reasoning_effort=medium
+    --json
+  )
+
+  set +e
+  "${LUNA_CMD[@]}" \
+    < "$SCRIPT_DIR/cxcycle_luna_prompt.md" \
+    2>&1 | tee "$luna_log"
+  local luna_status=${PIPESTATUS[0]}
+  set -e 2>/dev/null || true
+  set +e
+
+  if [ "$luna_status" -ne 0 ]; then
+    echo "cxresearch-loop: Luna recovery failed: exit=$luna_status" >&2
+    return "$luna_status"
+  fi
+
+  local pending_after
+  pending_after="$(pending_count)"
+
+  if [ "${pending_after:-0}" -ne 0 ]; then
+    echo "cxresearch-loop: pending raw remains after Luna: $pending_after" >&2
+    return 12
+  fi
+
+  echo "cxresearch-loop: Luna recovery complete; pending=0"
+  return 0
+}
+
+quota_gate() {
+  local out
+
+  out="$("$SCRIPT_DIR/codex_quota" 2>/dev/null || true)"
+  echo "cxresearch-loop: quota $out"
+
+  python3 - "$out" <<'PY'
+import json
+import sys
+
+raw = sys.argv[1].strip()
+
+try:
+    data = json.loads(raw)
+except Exception:
+    # Unknown quota state is not a stop condition.
+    sys.exit(0)
+
+if data.get("quota_status") == "unavailable":
+    sys.exit(0)
+
+vals = []
+
+for key in (
+    "primary_remaining_percent",
+    "weekly_remaining_percent",
+):
+    value = data.get(key)
+    if isinstance(value, (int, float)):
+        vals.append(float(value))
+
+if vals and min(vals) <= 7:
+    sys.exit(7)
+
+sys.exit(0)
+PY
+}
+
+runtime_limit_seen() {
+  local log="$1"
+
+  grep -Eqi \
+    'less than 5% of your 5h limit left|you.?ve hit your usage limit|usage limit reached|rate limit exceeded|insufficient_quota|HTTP[^0-9]*429|status[^0-9]*429' \
+    "$log"
+}
+
+if [ "$DRY_RUN" -eq 1 ]; then
+  echo "cxresearch-loop: DRY RUN"
+  echo "ROOT=$ROOT"
+  echo "ASTRA_MODEL=$ASTRA_MODEL"
+  echo "LUNA_MODEL=$LUNA_MODEL"
+  echo "MAX_TURNS=$MAX_TURNS"
+  echo "pending=$(pending_count)"
+  echo "queue=$(queue_count)"
+  echo "processed=$(processed_count)"
+  echo "fingerprint=$(state_fingerprint)"
+  echo
+  echo "Astra command:"
+  printf '%q ' \
+    codex -a never exec \
+    -C "$ROOT" \
+    -m "$ASTRA_MODEL" \
+    -s workspace-write \
+    --skip-git-repo-check \
+    -c model_reasoning_effort=high \
+    -c model_context_window=1000000 \
+    -c model_auto_compact_token_limit=900000 \
+    --json
+  echo
+  echo
+  echo "No model was started."
+  exit 0
+fi
+
+trap '
+  echo
+  echo "cxresearch-loop: interrupted by user."
+  exit 130
+' INT TERM
+
+turn=0
+no_progress_streak=0
+
+echo "============================================================"
+echo "cxresearch-loop started"
+echo "Astra=$ASTRA_MODEL"
+echo "Luna=$LUNA_MODEL"
+echo "MAX_TURNS=$MAX_TURNS (0 = unlimited)"
+echo "Ctrl-C to stop"
+echo "============================================================"
+
+while :; do
+  turn=$((turn + 1))
+
+  if [ "$MAX_TURNS" -gt 0 ] && [ "$turn" -gt "$MAX_TURNS" ]; then
+    echo "cxresearch-loop: max turns reached: $MAX_TURNS"
+    exit 0
+  fi
+
+  echo
+  echo "============================================================"
+  echo "CXRESEARCH TURN $turn"
+  echo "============================================================"
+
+  if ! recover_pending; then
+    echo "cxresearch-loop: stop because pending recovery failed." >&2
+    exit 30
+  fi
+
+  quota_gate
+  quota_status=$?
+
+  if [ "$quota_status" -eq 7 ]; then
+    echo "cxresearch-loop: quota <= 7%; no new Astra turn."
+    exit 0
+  fi
+
+  # Read-only state calculation before every fresh Astra turn.
+  python3 "$SCRIPT_DIR/meta_state.py" >/tmp/cxresearch-loop-meta.json 2>&1 || {
+    echo "cxresearch-loop: meta_state.py failed; refusing new Astra turn." >&2
+    cat /tmp/cxresearch-loop-meta.json >&2 || true
+    exit 31
+  }
+
+  before_fp="$(state_fingerprint)"
+  before_q="$(queue_count)"
+  before_p="$(processed_count)"
+
+  stamp="$(date +%Y%m%d-%H%M%S)"
+  astra_log="$LOG_DIR/astra-turn-${turn}-${stamp}.jsonl"
+
+  ASTRA_CMD=(
+    codex
+    -a never
+    exec
+    -C "$ROOT"
+    -m "$ASTRA_MODEL"
+    -s workspace-write
+    --skip-git-repo-check
+    -c model_reasoning_effort=high
+    -c model_context_window=1000000
+    -c model_auto_compact_token_limit=900000
+    --json
+  )
+
+  echo "cxresearch-loop: Astra turn $turn starting"
+  echo "cxresearch-loop: log=$astra_log"
+  echo "cxresearch-loop: queue=$before_q processed=$before_p"
+
+  set +e
+
+  {
+    cat "$SCRIPT_DIR/cxresearch_prompt.md"
+    printf '\n\n'
+    cat "$SCRIPT_DIR/cxresearch_loop_suffix.md"
+  } | "${ASTRA_CMD[@]}" 2>&1 | tee "$astra_log"
+
+  astra_status=${PIPESTATUS[1]}
+
+  set -e 2>/dev/null || true
+  set +e
+
+  echo
+  echo "cxresearch-loop: Astra exit=$astra_status"
+
+  # If Astra saved raw but finalled before Luna processing, recover it now.
+  if ! recover_pending; then
+    echo "cxresearch-loop: stop because post-turn Luna recovery failed." >&2
+    exit 32
+  fi
+
+  after_q="$(queue_count)"
+  after_p="$(processed_count)"
+  after_fp="$(state_fingerprint)"
+
+  echo "cxresearch-loop: queue $before_q -> $after_q"
+  echo "cxresearch-loop: processed $before_p -> $after_p"
+
+  if runtime_limit_seen "$astra_log"; then
+    echo "cxresearch-loop: runtime usage/rate-limit signal observed."
+    echo "cxresearch-loop: stopping instead of opening another Astra turn."
+    exit 0
+  fi
+
+  if [ "$astra_status" -ne 0 ]; then
+    echo "cxresearch-loop: Astra exited non-zero ($astra_status); stopping." >&2
+    exit "$astra_status"
+  fi
+
+  if grep -q 'CXLOOP_STOP:' "$astra_log"; then
+    reason="$(
+      grep -o 'CXLOOP_STOP:[A-Z_]*' "$astra_log" |
+      tail -1
+    )"
+    echo "cxresearch-loop: Astra requested stop: ${reason:-CXLOOP_STOP}"
+    exit 0
+  fi
+
+  if [ "$after_fp" = "$before_fp" ]; then
+    no_progress_streak=$((no_progress_streak + 1))
+    echo "cxresearch-loop: no repository progress this turn ($no_progress_streak/2)"
+  else
+    no_progress_streak=0
+  fi
+
+  if [ "$no_progress_streak" -ge 2 ]; then
+    echo "cxresearch-loop: two consecutive turns made no persistent progress."
+    echo "cxresearch-loop: stopping to avoid an empty token-burning loop."
+    exit 40
+  fi
+
+  # Marker is preferred, but progress itself is enough to restart if the
+  # model forgot the marker. This is intentional for unattended operation.
+  if grep -q 'CXLOOP_CONTINUE' "$astra_log"; then
+    echo "cxresearch-loop: actionable work remains; starting a fresh Astra turn."
+  else
+    echo "cxresearch-loop: no CONTINUE marker, but turn made progress."
+    echo "cxresearch-loop: one more fresh turn will verify the frontier."
+  fi
+
+  sleep "$SLEEP_SECONDS"
+done

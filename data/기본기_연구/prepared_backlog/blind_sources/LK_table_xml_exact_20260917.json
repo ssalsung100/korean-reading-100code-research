@@ -1,0 +1,32 @@
+{
+  "blind_only": true,
+  "case_id": "LK",
+  "source": {
+    "container": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "table_xml_id": "1947855567",
+    "rowCnt": 3,
+    "colCnt": 6,
+    "basis": "direct tc/cellAddr/cellSpan/text extraction; no inferred coordinates or reordering"
+  },
+  "cells": [
+    {"cellAddr": {"colAddr": "0", "rowAddr": "0"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": ""},
+    {"cellAddr": {"colAddr": "1", "rowAddr": "0"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "겉보기 등급"},
+    {"cellAddr": {"colAddr": "2", "rowAddr": "0"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "절대 등급"},
+    {"cellAddr": {"colAddr": "3", "rowAddr": "0"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "거리 지수"},
+    {"cellAddr": {"colAddr": "4", "rowAddr": "0"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "반지름"},
+    {"cellAddr": {"colAddr": "5", "rowAddr": "0"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "표면 온도"},
+    {"cellAddr": {"colAddr": "0", "rowAddr": "1"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "A"},
+    {"cellAddr": {"colAddr": "1", "rowAddr": "1"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "2"},
+    {"cellAddr": {"colAddr": "2", "rowAddr": "1"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "-1"},
+    {"cellAddr": {"colAddr": "3", "rowAddr": "1"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "3"},
+    {"cellAddr": {"colAddr": "4", "rowAddr": "1"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "1"},
+    {"cellAddr": {"colAddr": "5", "rowAddr": "1"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "1"},
+    {"cellAddr": {"colAddr": "0", "rowAddr": "2"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "B"},
+    {"cellAddr": {"colAddr": "1", "rowAddr": "2"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "1"},
+    {"cellAddr": {"colAddr": "2", "rowAddr": "2"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "-6"},
+    {"cellAddr": {"colAddr": "3", "rowAddr": "2"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "7"},
+    {"cellAddr": {"colAddr": "4", "rowAddr": "2"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "0.1"},
+    {"cellAddr": {"colAddr": "5", "rowAddr": "2"}, "cellSpan": {"colSpan": "1", "rowSpan": "1"}, "text": "10"}
+  ]
+}

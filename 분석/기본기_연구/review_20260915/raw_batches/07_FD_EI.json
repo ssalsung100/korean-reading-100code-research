@@ -1,0 +1,44 @@
+{
+  "record_id":"FD-EI-depth_backfill-20260915-semantic-audit-01", "case":"FD-EI", "stage":"depth_backfill", "status":"done", "timestamp":"2026-09-15",
+  "payload":{
+    "case_ids":["FD","EI"], "original_blind_preserved":true, "review_kind":"완료 사례 사후 감사",
+    "source_record_ids":["FD-independent_code-20260913-03","EI-independent_code-20260913-02"],
+    "evidence_additions":[
+      {
+        "case":"FD", "passage_group":"G033", "source":"data/기본기_연구/prepared_backlog/blind_sources/FD.json",
+        "task":"두 글 모두에서 답을 찾을 수 있는 질문 선택", "target":"① 영화의 비유 대상 질문에 대한 두 답의 존재",
+        "evidence_location":"(가)1문단 '세상을 향해 열린 창'; (나)1문단 '영화는 일종의 몽상',3문단 영화는 꿈에 빗댐; choices[0]",
+        "relation_without_codes":"질문q=영화는 무엇에 비유되나. 답가(q)=창, 답나(q)=몽상/꿈. 두 답이 존재하면 충족하며 값이 같을 필요 없음",
+        "changed_part":"정답은 답변 가능한 관계를 보존;⑤는(가)의 촬영 환경을 관람 장소인 영화관 환경으로 잘못 읽게 유도",
+        "decisive_operation":"선지 질문마다 각 글에 요구 정보가 있는지 확인", "evidence_type":"합성 함의", "evidence_qualification":"두 비유 대상은 각각 직접 명시. 공통 질문의 적합성은 양쪽 존재를 결합.⑤ (가)의 영화관 환경 영향은 지지 부족이며 영향 자체가 없다는 반대 명제 증명은 아님",
+        "existing_code_layers":"주#64=답변 가능한 정보 범위, 보조#23=질문 집합 공통 항목·#17=⑤ 촬영/관람 구분, 표면#80=심리 소재",
+        "strongest_competitor":"#39 표: 행=질문, 열=가/나, 셀=원문 답 또는 미제시. ① 행 양쪽 값이 있으므로 선택. #23에서 원소를 '답할 수 있는 질문'으로 잡으면 동일 결과. 원소를 답 내용으로 잘못 잡는 것은 강한 교집합 대안이 아님",
+        "competitor_relation":"#64/#39/#23 같은 국소 수행의 다른 표현. 견해의 옳고 그름을 경쟁시키는#75 풀이만으로는 요구 산출물이 다름",
+        "priority":"최초 및 기존 유일 우선순위 유보 유지"
+      },
+      {
+        "case":"EI", "passage_group":"G028", "source":"data/기본기_연구/prepared_backlog/blind_sources/EI.json",
+        "task":"천두슈와 장쥔마이가 모두 동의할 수 있는 진술 선택", "target":"③ 이용상의 문제와 방법 자체를 구별한 공통 명제",
+        "evidence_location":"(나)3문단 천두슈: 전쟁은 과학 이용의 죄악, 과학 자체의 죄악 아님;4문단 장쥔마이: 과학적 방법을 부정하지 않았지만 인생관 적용 제한; choices[2]",
+        "relation_without_codes":"동일 명제p=과학 이용상의 문제가 있어도 방법 자체를 그 이유로 부정하지 않음. 천두슈는 오용/과학 자체를 구분하고 장쥔마이는 역작용을 보았어도 방법 자체를 부정하지 않음. 양쪽p 동의",
+        "changed_part":"④는 방법 자체 수용을 전면 도입만으로 위기 극복이 충분하다는 주장으로 강화.①은 장쥔마이의 전통 가치/과학 방법 병행을 불가능한 것으로 바꿈",
+        "decisive_operation":"같은p에 대한 각 인물의 찬반을 따로 확인한 뒤 둘 다 동의인지 결합", "evidence_type":"합성 함의",
+        "evidence_qualification":"본문의 과학 오용/역작용 대비 범위. 과학적 방법에 어떤 반증이 있어도 언제나 옳다는 무제한 불가오류성 주장으로 확대하지 않음",
+        "existing_code_layers":"주#39=공통 동의 대조, 보조#17=이용/방법/인생관 적용 대상 구별, 표면#23=공통분·#75=배경 대립",
+        "strongest_competitor":"완전한#75 견해표에서 두 인물의 '과학 방법 자체 유지' 셀을 비교하거나#23의 동의 명제 집합 교집합을 구하면③ 선택. 단순 대립 사실만 적어#75를 기각하는 것은 충분한 반증이 아님",
+        "competitor_relation":"#39/#23 및 동의까지 포함하는 견해표는 같은 국소 수행의 다른 표현. 방법과 적용 범위의 구별은 같은 표를 채우는 내용 근거",
+        "priority":"최초 유지;#75 전체 설명 배제가 아니라 이 문항의 대표 산출물을 공통 동의로 명확히 함"
+      }
+    ],
+    "boundary_or_generation_impact":"O7은 공통이라는 낱말보다 교차시키는 원소를 먼저 정한다. FD는 답변 가능한 질문 집합의 공통분, EI는 동의 명제 집합의 공통분. 표/교집합 형식의 공통성과 출력 단위 차이를 함께 보존한다.",
+    "candidate_rule":{"decision":"유지","retained":"공통 질문과 공통 동의를 분리","counterexample":"FD는 창과 꿈으로 답이 달라도 성공하여 '공통 문항이면 같은 답' 가설을 기각; EI의 과학 방법 공동 수용은 인생관 적용에 대한 공동 동의를 보장하지 않음","held":"#39/#64/#23/#75의 배타적 코드 경계;양립 가능성과 공통 동의의 전역 관계","next_falsification_target":"향후 두 글이 같은 질문에 답하지만 정반대 견해인 사례, 양립하지만 둘 중 한 사람은 동의하지 않은 명제. 이번에는 새 지문을 열지 않음"},
+    "minimal_variants":[
+      {"case":"FD","one_change":"발문의 요구만 '두 글 모두 답을 찾을 수 있는 질문'에서 '두 글의 답 내용까지 같은 질문'으로 교체","predicted_change":"①은 창/꿈이 달라 새 조건을 만족하지 못함;남은 선택지 중 단일 정답이 생긴다고 주장하지 않음","synthetic_not_corpus":true},
+      {"case":"EI","one_change":"검토용③의 수용 대상을 '과학적 방법 자체'에서 '인생관 문제에 과학적 방법을 적용하는 것'으로 교체","predicted_change":"장쥔마이 동의가 사라져 공동 동의가 깨짐.천두슈의 사회/인간 연구 적용 지지는 유지","synthetic_not_corpus":true}
+    ],
+    "student_action":"'둘 다' 다음에 무엇을 요구하는지 적는다. 두 글에 답이 각각 있는지, 같은 명제에 둘 다 동의하는지에 맞춰 표의 셀을 채운다. 대답이 다르다는 이유만으로 공통 질문을 버리지 않는다.",
+    "generation_principle":"질문은 같되 답을 다르게 주는 FD형과, 견해는 대립하되 좁은 명제에는 동의하는 EI형을 구분한다. 동의 범위를 전면 수용으로 넓혀 오답을 만들 수 있다.",
+    "sampling":{"cases":2,"distinct_passage_groups":2,"new_corpus_cases":0,"dependencies":"FD는FF/FH와G033, EI는EJ와G028로 이미 감사한 지문"},
+    "confidence":"국소 출력 단위 높음;코드 전역 경계 유보"
+  }
+}

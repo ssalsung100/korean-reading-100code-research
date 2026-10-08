@@ -1,0 +1,446 @@
+{
+  "status": "lossless_crops_from_official_page_renders",
+  "record_count": 20,
+  "records": [
+    {
+      "year": 2022,
+      "kind": "2022_question_odd",
+      "page": 6,
+      "name": "q11_망막_밝기와_출력신호_보기",
+      "file": "자료/LEET_언어이해/시각자료_원본/2022/p06_q11_망막_밝기와_출력신호_보기.png",
+      "file_sha256": "8efc97b6bdcfdf60d95cdb6c6cb2bd31bb369fc5b52bc88d7ad5988b46bb7e5a",
+      "official_page": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "official_page_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "crop_box_pixels": [
+        666,
+        309,
+        1129,
+        894
+      ],
+      "crop_box_normalized": [
+        0.528,
+        0.173,
+        0.895,
+        0.501
+      ]
+    },
+    {
+      "year": 2022,
+      "kind": "2022_question_odd",
+      "page": 8,
+      "name": "그림1_분할법의_예",
+      "file": "자료/LEET_언어이해/시각자료_원본/2022/p08_그림1_분할법의_예.png",
+      "file_sha256": "b79d340881eee0dca284fb6fdf00cfea0156bc0b0d2b3174210e12bbde52d916",
+      "official_page": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_008.png",
+      "official_page_sha256": "19c8e49c2f29e8997a7686f55684807dc2b15640fb9d62cdefcca665bb3de71e",
+      "crop_box_pixels": [
+        681,
+        1348,
+        1129,
+        1624
+      ],
+      "crop_box_normalized": [
+        0.54,
+        0.755,
+        0.895,
+        0.91
+      ]
+    },
+    {
+      "year": 2022,
+      "kind": "2022_question_odd",
+      "page": 9,
+      "name": "그림2_계층법의_예",
+      "file": "자료/LEET_언어이해/시각자료_원본/2022/p09_그림2_계층법의_예.png",
+      "file_sha256": "7a5eba08773e19cc76c4cdc5d7fc70c85302c01516ce6ede11816ab8f9024ccb",
+      "official_page": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_009.png",
+      "official_page_sha256": "c43e172d8745321c65a56db795d4c1c97486a25b5f4eaf8797d7c1302955be74",
+      "crop_box_pixels": [
+        145,
+        973,
+        612,
+        1250
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.545,
+        0.485,
+        0.7
+      ]
+    },
+    {
+      "year": 2023,
+      "kind": "2023_question_odd",
+      "page": 8,
+      "name": "q15_나이의_정치적효과_연구디자인",
+      "file": "자료/LEET_언어이해/시각자료_원본/2023/p08_q15_나이의_정치적효과_연구디자인.png",
+      "file_sha256": "9f8f9d31ced2dc9a977643f0b19e0f98460886b5cadadbe92fd122b190b13185",
+      "official_page": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_008.png",
+      "official_page_sha256": "06db819aa5b881e597b41088be6582ee0cbcee4b525e0ce5c996c3e975a61117",
+      "crop_box_pixels": [
+        145,
+        911,
+        613,
+        1279
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.51,
+        0.485,
+        0.716
+      ]
+    },
+    {
+      "year": 2023,
+      "kind": "2023_question_odd",
+      "page": 10,
+      "name": "제도가능곡선_모델",
+      "file": "자료/LEET_언어이해/시각자료_원본/2023/p10_제도가능곡선_모델.png",
+      "file_sha256": "ca2640679ea9601c958d056c4b09fd37628806759c341226a5f20ba86c940fd9",
+      "official_page": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_010.png",
+      "official_page_sha256": "dc727d5a4d8da7d9dfbb572d4447ca50c658c2cdf828794379812b631296644c",
+      "crop_box_pixels": [
+        657,
+        482,
+        1130,
+        875
+      ],
+      "crop_box_normalized": [
+        0.52,
+        0.27,
+        0.895,
+        0.49
+      ]
+    },
+    {
+      "year": 2023,
+      "kind": "2023_question_odd",
+      "page": 13,
+      "name": "그림1과2_라이고_간섭계",
+      "file": "자료/LEET_언어이해/시각자료_원본/2023/p13_그림1과2_라이고_간섭계.png",
+      "file_sha256": "5f8135d94356c210b2a73cd3620710ff825f24d60f81fe6a860fba33daefc286",
+      "official_page": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_013.png",
+      "official_page_sha256": "78693ae3c47ab8b9c7e79a2126860fe9292f7933999d1e0ae78440b9e5cdc8d4",
+      "crop_box_pixels": [
+        145,
+        375,
+        619,
+        902
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.21,
+        0.49,
+        0.505
+      ]
+    },
+    {
+      "year": 2023,
+      "kind": "2023_question_odd",
+      "page": 14,
+      "name": "q27_중력파검출기_민감도_그래프",
+      "file": "자료/LEET_언어이해/시각자료_원본/2023/p14_q27_중력파검출기_민감도_그래프.png",
+      "file_sha256": "15ee9ecb7087b5e081a7e99c9485d3bddaef22e1881dc23fbc0b6b889a7e4743",
+      "official_page": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_014.png",
+      "official_page_sha256": "51b957058298180361c0fd2e50cd9dddee1099f7c0243773c3e1a080ee2c0030",
+      "crop_box_pixels": [
+        145,
+        1009,
+        613,
+        1550
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.565,
+        0.485,
+        0.868
+      ]
+    },
+    {
+      "year": 2024,
+      "kind": "2024_question_odd",
+      "page": 7,
+      "name": "사회적가치_이해관계자_성과와비용",
+      "file": "자료/LEET_언어이해/시각자료_원본/2024/p07_사회적가치_이해관계자_성과와비용.png",
+      "file_sha256": "73165d1de9ec5b5bb87493cd4019f6bcb5c4aed871899f964b63cb283eff3196",
+      "official_page": "자료/LEET_언어이해/페이지/2024/2024_question_odd/page_007.png",
+      "official_page_sha256": "2c031d97fb7ed5ec4637cc4fc4972085984a1587472fc4cae52358ee8ba34b0c",
+      "crop_box_pixels": [
+        151,
+        437,
+        612,
+        696
+      ],
+      "crop_box_normalized": [
+        0.12,
+        0.245,
+        0.485,
+        0.39
+      ]
+    },
+    {
+      "year": 2025,
+      "kind": "2025_question_odd",
+      "page": 6,
+      "name": "q12_사법심사_법개정_여론변화",
+      "file": "자료/LEET_언어이해/시각자료_원본/2025/p06_q12_사법심사_법개정_여론변화.png",
+      "file_sha256": "8b3f8aa98069dd726ba4eb3161b8ec90c3553393fa48d2022377b4d241c6d1dc",
+      "official_page": "자료/LEET_언어이해/페이지/2025/2025_question_odd/page_006.png",
+      "official_page_sha256": "03c827d4ad35919348634549b8c9845a25abdc14037fc9ec145d4c3b7acfd743",
+      "crop_box_pixels": [
+        688,
+        566,
+        1123,
+        768
+      ],
+      "crop_box_normalized": [
+        0.545,
+        0.317,
+        0.89,
+        0.43
+      ]
+    },
+    {
+      "year": 2025,
+      "kind": "2025_question_odd",
+      "page": 8,
+      "name": "솔로우성장모형_생산량저축량감가상각량",
+      "file": "자료/LEET_언어이해/시각자료_원본/2025/p08_솔로우성장모형_생산량저축량감가상각량.png",
+      "file_sha256": "0913ded27694b8091ea3a6411da5a9b66af36dbd1043e64a7960364634159cb6",
+      "official_page": "자료/LEET_언어이해/페이지/2025/2025_question_odd/page_008.png",
+      "official_page_sha256": "ecf262c13ab0729bc9644235d2d5e94d589b0d734e88366c7070ebd786856705",
+      "crop_box_pixels": [
+        732,
+        1071,
+        1111,
+        1241
+      ],
+      "crop_box_normalized": [
+        0.58,
+        0.6,
+        0.88,
+        0.695
+      ]
+    },
+    {
+      "year": 2025,
+      "kind": "2025_question_odd",
+      "page": 13,
+      "name": "q27_데이터베이스_트랜잭션_상황",
+      "file": "자료/LEET_언어이해/시각자료_원본/2025/p13_q27_데이터베이스_트랜잭션_상황.png",
+      "file_sha256": "ac77ff4a9d5b80055f296decf014832b53fc9a15de8b6bd874cc32055f54e011",
+      "official_page": "자료/LEET_언어이해/페이지/2025/2025_question_odd/page_013.png",
+      "official_page_sha256": "2b81793955a1679cb3f7ef42dea659ea71b982d693a70ee24006c35d05ff7de7",
+      "crop_box_pixels": [
+        669,
+        393,
+        1129,
+        1026
+      ],
+      "crop_box_normalized": [
+        0.53,
+        0.22,
+        0.895,
+        0.575
+      ]
+    },
+    {
+      "year": 2026,
+      "kind": "2026_question_odd",
+      "page": 3,
+      "name": "DRD와_의사결정테이블",
+      "file": "자료/LEET_언어이해/시각자료_원본/2026/p03_DRD와_의사결정테이블.png",
+      "file_sha256": "0c5c9bae26ffb520211d98280164c91d9adac46da0f1510ff886254eb45376fd",
+      "official_page": "자료/LEET_언어이해/페이지/2026/2026_question_odd/page_003.png",
+      "official_page_sha256": "7222ec90ccd7b9401cace02f99fc7588845bfdcae942b50f4ff8a073a5dc9c5b",
+      "crop_box_pixels": [
+        158,
+        429,
+        613,
+        679
+      ],
+      "crop_box_normalized": [
+        0.125,
+        0.24,
+        0.485,
+        0.38
+      ]
+    },
+    {
+      "year": 2026,
+      "kind": "2026_question_odd",
+      "page": 5,
+      "name": "q9_유권자_민주주의신념과이념성향",
+      "file": "자료/LEET_언어이해/시각자료_원본/2026/p05_q9_유권자_민주주의신념과이념성향.png",
+      "file_sha256": "3ea6f18945a018bbe9dbe95141b87c6a0a4da8c6d033a939e39f0b84d3206ba6",
+      "official_page": "자료/LEET_언어이해/페이지/2026/2026_question_odd/page_005.png",
+      "official_page_sha256": "18b4d8f3c4bf06ccd86030e370fa0cbc804eee8739f1399bdf099a3c88db925a",
+      "crop_box_pixels": [
+        145,
+        277,
+        613,
+        768
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.155,
+        0.485,
+        0.43
+      ]
+    },
+    {
+      "year": 2026,
+      "kind": "2026_question_odd",
+      "page": 14,
+      "name": "q27_혼합물_전체부피_그래프",
+      "file": "자료/LEET_언어이해/시각자료_원본/2026/p14_q27_혼합물_전체부피_그래프.png",
+      "file_sha256": "bf3cc8457be4f3d897dea0ce0d202750be43daaf9e8d3a738264ccd67e08cb59",
+      "official_page": "자료/LEET_언어이해/페이지/2026/2026_question_odd/page_014.png",
+      "official_page_sha256": "91ecd364847bf94dd563983aca76c3283981fa605730b8dc42e982161f922175",
+      "crop_box_pixels": [
+        145,
+        277,
+        613,
+        723
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.155,
+        0.485,
+        0.405
+      ]
+    },
+    {
+      "year": 2027,
+      "kind": "2027_question",
+      "page": 3,
+      "name": "q5_제도결합_가치곡선",
+      "file": "자료/LEET_언어이해/시각자료_원본/2027/p03_q5_제도결합_가치곡선.png",
+      "file_sha256": "367a811171d092e954c26f61aca19b199187a43829232d3949c26b4c2e5f7d53",
+      "official_page": "자료/LEET_언어이해/페이지/2027/2027_question/page_003.png",
+      "official_page_sha256": "5789c45b152af4401cd8059cf0e21b8bcddcb39595e8393605cb965bfe9754bb",
+      "crop_box_pixels": [
+        145,
+        964,
+        613,
+        1393
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.54,
+        0.485,
+        0.78
+      ]
+    },
+    {
+      "year": 2027,
+      "kind": "2027_question",
+      "page": 5,
+      "name": "대류권_고도와_대기온도",
+      "file": "자료/LEET_언어이해/시각자료_원본/2027/p05_대류권_고도와_대기온도.png",
+      "file_sha256": "ee6710c0de59a1005fd9914314354aa755e3bb76b00a58fe4946f9a9b43492fe",
+      "official_page": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "crop_box_pixels": [
+        189,
+        1036,
+        606,
+        1363
+      ],
+      "crop_box_normalized": [
+        0.15,
+        0.58,
+        0.48,
+        0.763
+      ]
+    },
+    {
+      "year": 2027,
+      "kind": "2027_question",
+      "page": 6,
+      "name": "q12_시대X와Y_복사에너지_표",
+      "file": "자료/LEET_언어이해/시각자료_원본/2027/p06_q12_시대X와Y_복사에너지_표.png",
+      "file_sha256": "ac3dabe6e5b0ee1e4046110620298e5eda5ca048293e51edf370fe50141d735c",
+      "official_page": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "official_page_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "crop_box_pixels": [
+        145,
+        280,
+        613,
+        493
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.157,
+        0.485,
+        0.276
+      ]
+    },
+    {
+      "year": 2027,
+      "kind": "2027_question",
+      "page": 8,
+      "name": "그림1_신뢰게임",
+      "file": "자료/LEET_언어이해/시각자료_원본/2027/p08_그림1_신뢰게임.png",
+      "file_sha256": "3653a8196db2e17590c90676f175f050a35ed97547fefde16341b0cbad2205c0",
+      "official_page": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "official_page_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "crop_box_pixels": [
+        682,
+        643,
+        1124,
+        902
+      ],
+      "crop_box_normalized": [
+        0.54,
+        0.36,
+        0.89,
+        0.505
+      ]
+    },
+    {
+      "year": 2027,
+      "kind": "2027_question",
+      "page": 8,
+      "name": "그림2_보복가능_신뢰게임",
+      "file": "자료/LEET_언어이해/시각자료_원본/2027/p08_그림2_보복가능_신뢰게임.png",
+      "file_sha256": "03ddc4929e0075851e05ad061d2fd58213e1213d898e681ef6f23a370fd1e326",
+      "official_page": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "official_page_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "crop_box_pixels": [
+        682,
+        906,
+        1124,
+        1152
+      ],
+      "crop_box_normalized": [
+        0.54,
+        0.507,
+        0.89,
+        0.645
+      ]
+    },
+    {
+      "year": 2027,
+      "kind": "2027_question",
+      "page": 9,
+      "name": "q18_보복선호_신뢰게임",
+      "file": "자료/LEET_언어이해/시각자료_원본/2027/p09_q18_보복선호_신뢰게임.png",
+      "file_sha256": "5df86b6441e7ebb08db3dd049e14a21bea03775f9b07be5102f9e6a71e27494d",
+      "official_page": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png",
+      "official_page_sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7",
+      "crop_box_pixels": [
+        145,
+        907,
+        613,
+        1259
+      ],
+      "crop_box_normalized": [
+        0.115,
+        0.508,
+        0.485,
+        0.705
+      ]
+    }
+  ]
+}

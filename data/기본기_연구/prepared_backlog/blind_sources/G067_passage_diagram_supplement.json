@@ -1,0 +1,17 @@
+{
+  "blind_only": true,
+  "passage_group": "G067",
+  "source_role": "anonymous_blind_source_supplement",
+  "supplement_type": "common_passage_embedded_diagram",
+  "diagram_asset": "data/기본기_연구/prepared_backlog/blind_sources/G067_passage_diagram.png",
+  "parallel_original_asset": "data/기본기_연구/prepared_backlog/blind_sources/G067_passage_diagram.bmp",
+  "labels_preserved": ["A", "B", "N(집)", "이동 방향", "A에서의 집 방향", "B에서의 집 방향", "이동 경로"],
+  "visual_elements_preserved": ["A·B에서 N(집)으로 향하는 실선 벡터", "이동 방향 화살표", "점선 이동 경로", "집 위치 표지"],
+  "provenance": {
+    "artifact_scope": "로컬 정본 HWPX Contents/section0.xml 주변 embedded bitmap",
+    "embedded_asset_reference": "image14",
+    "original_dimensions_px": [540, 530],
+    "original_distribution_pdf_verified": false
+  },
+  "quality_limit": "원 HWPX embedded bitmap을 추출·동일 크기 PNG로 변환했으며 원배포 PDF crop 대조는 하지 않음"
+}

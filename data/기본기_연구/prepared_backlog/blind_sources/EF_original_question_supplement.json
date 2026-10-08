@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G027",
+  "case_id": "EF",
+  "supplement_role": "original_hwpx_application_render_crop",
+  "source_role": "anonymous_blind_source_supplement",
+  "image_path": "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_crop.png",
+  "contents": [
+    "문항 발문",
+    "학생의 독서 목적",
+    "표시 기호 체계",
+    "독서 자료 3문단과 실제 표시",
+    "5개 선택지와 표시 기호"
+  ],
+  "fidelity": {
+    "method": "로컬 HWPX의 한컴 응용프로그램 PDF 출력에서 문항 영역을 직접 크롭",
+    "layout_reconstruction": false,
+    "symbol_redrawing": false,
+    "source_raster_retained": true,
+    "limitation": "원문 내 독서 자료와 기호 일부가 래스터 이미지여서 확대하여도 원본 해상도 한계가 남는다.",
+    "visual_check": "독서 목적·표시 기호·독서 자료 3문단·5개 선택지의 완전 포함 확인. 기호는 재배치나 추측 없이 원본 그대로 보존.",
+    "answer_or_tag_or_reasoning_added": false
+  },
+  "image_sha256": "988dde7181ef2d8ca7e6f43667c946ac37d9833d343bfd072aa62a87c91eca1d"
+}

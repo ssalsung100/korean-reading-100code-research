@@ -1,0 +1,30 @@
+{
+  "release_condition": "S~U 최초 풀이 파일의 저장 해시를 확인한 뒤 공개",
+  "excludes": ["SDSS 태그", "코드 후보", "선정 경계", "사이트 URL"],
+  "cases": {
+    "S": {
+      "source_id": "LEET-2010-odd-Q24",
+      "passage_id": "LEET-2010-odd-Q22-24",
+      "official_answer": "③",
+      "official_answer_source": "자료/LEET_언어이해/원본/2010/2010_answer_2010_법학적성시험_언어이해_정답표.hwp",
+      "official_text_path": "자료/LEET_언어이해/텍스트/2010/2010_question_odd.md",
+      "official_text_sha256": "5c8436881887d3b7f2256e6a56a70e0d275cef22c5ba1971fbb8b63bb884ea53"
+    },
+    "T": {
+      "source_id": "LEET-2015-odd-Q10",
+      "passage_id": "LEET-2015-odd-Q07-10",
+      "official_answer": "⑤",
+      "official_answer_source": "자료/LEET_언어이해/원본/2015/2015_answer_2015학년도_법학적성시험_언어이해_정답표.hwp",
+      "official_text_path": "자료/LEET_언어이해/텍스트/2015/2015_question_odd.md",
+      "official_text_sha256": "32c92d857a70430f11f04f1d1d42ac81496da935f7babff245428021d9fdeda5"
+    },
+    "U": {
+      "source_id": "LEET-2016-odd-Q03",
+      "passage_id": "LEET-2016-odd-Q01-03",
+      "official_answer": "④",
+      "official_answer_source": "자료/LEET_언어이해/원본/2016/2016_answer_2016학년도_법학적성시험_언어이해_정답표.hwp",
+      "official_text_path": "자료/LEET_언어이해/텍스트/2016/2016_question_odd.md",
+      "official_text_sha256": "c8d0f0e7c098cca6f5ecab92c8e793b94ca91853f8bc9174c8cd5d1bd3c3b31d"
+    }
+  }
+}

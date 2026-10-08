@@ -1,0 +1,137 @@
+{
+  "generated_at": "2026-10-06",
+  "policy": "candidate_list_only_no_archive_or_delete_performed",
+  "scan_basis": [
+    "*.bak* repository scan",
+    "diagnostics filename scan under 자료/LEET_언어이해",
+    "OCR 초안 manifest diagnostics_file links",
+    "repository inventory duplicate/reference fields"
+  ],
+  "summary": {
+    "candidate_count": 13,
+    "safe_to_archive_count": 3,
+    "safe_to_delete_count": 0,
+    "production_referenced_count": 10
+  },
+  "items": [
+    {
+      "path": "scripts/codex_quota.bak-before-factchat",
+      "reason": "명시적 .bak 백업 파일. 현재 production 소비자 참조는 검색/인벤토리에서 발견되지 않음. archive로 이동할 경우 원래 경로와 보존 provenance를 함께 기록할 것.",
+      "referenced_by_production": false,
+      "byte_identical_to": [],
+      "safe_to_archive": true,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "scripts/cxresearch.bak-20261002-230430",
+      "reason": "명시적 .bak 백업 파일. 현재 production 소비자 참조는 검색/인벤토리에서 발견되지 않음. archive로 이동할 경우 원래 경로와 보존 provenance를 함께 기록할 것.",
+      "referenced_by_production": false,
+      "byte_identical_to": [
+        "scripts/cxresearch"
+      ],
+      "safe_to_archive": true,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "scripts/cxresearch_prompt.md.bak-20261002-230430",
+      "reason": "명시적 .bak 백업 파일. 현재 production 소비자 참조는 검색/인벤토리에서 발견되지 않음. archive로 이동할 경우 원래 경로와 보존 provenance를 함께 기록할 것.",
+      "referenced_by_production": false,
+      "byte_identical_to": [],
+      "safe_to_archive": true,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2022/2022_answer_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2022/2022_question_even_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2022/2022_question_odd_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2023/2023_answer_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2023/2023_question_even_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2023/2023_question_odd_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2024/2024_answer_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2025/2025_answer_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/OCR_초안/2027/2027_question_diagnostics.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 활성 OCR manifest에 등록되어 있고 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    },
+    {
+      "path": "자료/LEET_언어이해/검증/remaining_visual_diagnostic.json",
+      "reason": "생성된 진단 결과이지만 OCR/source validation provenance로 쓰이며 생성 스크립트와 inventory 참조 연결이 있으며 현재 검수 맥락을 보존해야 함.",
+      "referenced_by_production": true,
+      "byte_identical_to": [],
+      "safe_to_archive": false,
+      "safe_to_delete": false,
+      "confidence": "high"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "blind_only": true,
+  "passage_group": "G199",
+  "case_id": "AGJ",
+  "question_id": "KICE-2020-6월_모평-Q19-22-S029~032-Q21",
+  "source_role": "mechanical_canonical_choice_parse_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "anchor": "신이 분노와 호의로부터 자유로운 상태라면 인간의 세계에 개입을 하지 않는다는 뜻일 텐데...",
+    "source_note": "canonical HWPX XML contains the complete four statements and five choice rows; normalized KICE question record had incomplete_visual_or_table parse"
+  },
+  "restored_choice_labels": ["① ㄱ, ㄴ", "② ㄱ, ㄹ", "③ ㄷ, ㄹ", "④ ㄱ, ㄴ, ㄷ", "⑤ ㄴ, ㄷ, ㄹ"],
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "choice_parse_restored_mechanically"
+}

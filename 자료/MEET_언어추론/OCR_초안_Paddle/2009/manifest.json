@@ -1,0 +1,135 @@
+{
+  "status": "unverified_secondary_ocr",
+  "engine": "korean_PP-OCRv4_meet_official_page_3x_v1",
+  "pages": [
+    {
+      "official_pdf_page": 86,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_086_3x.png",
+      "page_image_sha256": "897fa95c45db7273fcef745a86466b206e8086400d9410e2e864da9d1d4eea21",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_086.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_086.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 87,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_087_3x.png",
+      "page_image_sha256": "e5bdb670df25a8fd0c50aea70c8a94d93caa63335eb41eeb73fe6481912267b0",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_087.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_087.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 88,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_088_3x.png",
+      "page_image_sha256": "96fa6ef829b756e648df804cd4d40f7c30ab88f15e0c6bca6e28daec3fca0a7a",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_088.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_088.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 89,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_089_3x.png",
+      "page_image_sha256": "c565743a8df13516c8c654a0a69fbe2356a45cdb3d472be5bf12bbc09cf939f3",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_089.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_089.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 90,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_090_3x.png",
+      "page_image_sha256": "acde432a5a98bf71f384ae9d5f0be88927f97eade7e3aad8e92bd8d22afbdffd",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_090.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_090.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 91,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_091_3x.png",
+      "page_image_sha256": "26f688225315f4b7e92092326207f2fc802cb98f80eb4e00c22c76e095b50080",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_091.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_091.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 92,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_092_3x.png",
+      "page_image_sha256": "c590809de877af00bca9399b3170b387652fc6a7f48be7d5ca6cdc4d910958bf",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_092.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_092.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 93,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_093_3x.png",
+      "page_image_sha256": "ac7a44aaf17ae35edc5481058269e3314c01b4ed75c1429c4c8d91db750f9c17",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_093.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_093.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 94,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_094_3x.png",
+      "page_image_sha256": "79cc0c036c14d4f9cccf156802ab28317715ffb601db06137b893253da78ea06",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_094.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_094.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 95,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_095_3x.png",
+      "page_image_sha256": "c92159a10234a217d059b7e0442f851710fcab50c1e41c7324786f52ec7eccfb",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_095.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_095.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 96,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_096_3x.png",
+      "page_image_sha256": "675accb82e79d6c76befcb7303188db27ba23b38d1b2f17395d738aacaebb78b",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_096.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_096.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 97,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_097_3x.png",
+      "page_image_sha256": "16c9c75ce89fed781f74512596dcebe1e723edb1dfc92f15896b9527c26a9c1a",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_097.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_097.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 98,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_098_3x.png",
+      "page_image_sha256": "008f8f15f3eccc7f5de33ea6111fa37ce8e279e5e9d8fa4410338278e2d6e361",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_098.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_098.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 99,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_099_3x.png",
+      "page_image_sha256": "a6b0fc669a9f1fab23b4cb254e9a9482ff907b3fa53bc33204e2a17c2956a5b3",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_099.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_099.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 100,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_100_3x.png",
+      "page_image_sha256": "223b278506809970a451e196e138d8d10ba5eaba327083a2e8f1976571d043c1",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_100.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_100.md",
+      "status": "unverified_paddle_ocr"
+    },
+    {
+      "official_pdf_page": 101,
+      "page_image": "자료/MEET_언어추론/페이지/2009/official_page_101_3x.png",
+      "page_image_sha256": "5012faa2284a2864109f6aba9e616f01e13a9b05fd85c7fb10acf909c7b1dca6",
+      "json": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_101.json",
+      "markdown": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_101.md",
+      "status": "unverified_paddle_ocr"
+    }
+  ],
+  "warning": "PaddleOCR is an independent aid; the official page image remains authoritative."
+}

@@ -1,0 +1,31 @@
+{
+  "passage_group": "G047",
+  "source_status": "exact_canonical_kice_question_visual_catalog",
+  "source_hwpx": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+  "catalog": "자료/평가원_독서_시각자료_원본/평가원_시각자료_문항별_목록_v1.md",
+  "visuals": [
+    {
+      "case_id": "HJ",
+      "question_number": 10,
+      "question_id": "KICE-2026-수능-Q10-13-S021~024-Q10",
+      "catalog_id": "KICE-HWPX-2027_고3_국어_독서__._과학-image5",
+      "kind": "passage_figure",
+      "description": "서로 다른 선형 열팽창 계수 물질의 두 층 접합 띠 그림",
+      "source_asset": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._과학/image5.png",
+      "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/HJ_joint_strip.png",
+      "sha256": "97681525641baeb1b4eae25e172599e228b44b0f5b8bb17c0cc067b3d0b75e18"
+    },
+    {
+      "case_id": "HL",
+      "question_number": 12,
+      "question_id": "KICE-2026-수능-Q10-13-S021~024-Q12",
+      "catalog_id": "KICE-HWPX-2027_고3_국어_독서__._과학-image6",
+      "kind": "view_visual",
+      "description": "접합 띠를 활용한 안으로 휘는 집게 그림",
+      "source_asset": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._과학/image6.png",
+      "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/HL_gripper.png",
+      "sha256": "1fc564c5b4f302d2684f1dbe7221b07b91c805a492b1d4c7b0188d51b3544699"
+    }
+  ],
+  "qualification": "기존 로컬 KICE HWPX 시각자료 추출본을 blind source용 PNG로 복사한 기계 보존이다. 정답·해설·SDSS·코드 판정은 포함하지 않는다."
+}

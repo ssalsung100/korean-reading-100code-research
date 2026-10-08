@@ -1,0 +1,12 @@
+{
+  "case_id": "GS",
+  "passage_group": "G041",
+  "artifact": "GS_scene_figure.png",
+  "source": "자료/평가원_정답표/추출/모의평가/2010_6월_국어_20106언어/╛Ё╛ю┐╡┐к.pdf",
+  "source_location": {"pdf_page_index": 16, "printed_page": 16, "question": 50},
+  "crop_pixels_at_render_scale_2_5": [180, 2040, 1060, 2860],
+  "visible_elements": ["보기1", "1 원시인과 뼈", "2 뼈를 던지는 장면", "3 뼈가 공중에 있음", "4 우주선"],
+  "restoration_role": "mechanical_blind_figure_restoration",
+  "limitations": ["질문 PDF 페이지의 픽셀 crop이며 벡터 원본은 확인하지 않음.", "답·SDSS·해설·코드 판정은 기록하지 않음."],
+  "sha256": "16a900adaa0fe5cf00c5d97b7c0243230b66d98ce99524914fc7214ef97ff78c"
+}

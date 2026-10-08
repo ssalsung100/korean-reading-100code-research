@@ -1,0 +1,38 @@
+{
+  "blind_only": true,
+  "passage_group": "G016",
+  "case_id": "CH",
+  "supplement_role": "missing_choice_table_recovery",
+  "provenance": {
+    "exam_family": "KICE",
+    "academic_year": 2023,
+    "exam_label": "6월 모평",
+    "question_number": 15,
+    "question_id": "KICE-2023-6월_모평-Q14-17-S001~004-Q15",
+    "passage_id": "KICE-2023-6월_모평-Q14-17-S001~004",
+    "local_text_source": "고3 기출/hwpx_텍스트_연도별.md",
+    "local_text_location": "문항 002 블록, lines 11565-11580 (A B 표와 선택지 번호)",
+    "sealed_provenance_source": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+    "source_role": "anonymous_blind_source_supplement"
+  },
+  "stem_anchor": "프로그램이 없었다면 시행집단에서 일어났을 고용률 증가는, 비교집단에서 일어난 고용률 증가와/보다 ( A ) 것이다. 그러므로 ㉠에 이중차분법을 적용하여 평가한 프로그램의 고용 증가 효과는 평행추세 가정이 충족되는 비교집단을 이용하여 평가한 경우의 효과보다 ( B ) 것이다.",
+  "choice_table": [
+    {"number": 1, "A": "클", "B": "클"},
+    {"number": 2, "A": "클", "B": "작을"},
+    {"number": 3, "A": "같을", "B": "클"},
+    {"number": 4, "A": "작을", "B": "클"},
+    {"number": 5, "A": "작을", "B": "작을"}
+  ],
+  "source_image": {
+    "available_locally": false,
+    "path": null,
+    "location_note": "선택지 표는 원문 문항 15의 A B 표 영역이며, 현재 저장소에는 해당 원문 페이지 이미지가 없음"
+  },
+  "quality": {
+    "transcription": "complete",
+    "choice_count": 5,
+    "answer_or_sdss_included": false,
+    "reasoning_or_code_judgment_included": false,
+    "original_blind_source_modified": false
+  }
+}

@@ -1,0 +1,960 @@
+{
+  "status": "PASS",
+  "scope": "MEET 2005 preliminary, 2005, 2006-2012 canonical corpus",
+  "counts": {
+    "records": 47,
+    "embedded_images": 18,
+    "semantic_embedded_images": 17,
+    "layout_artifacts": 1,
+    "markdown_tables": 29,
+    "records_with_question_links": 46
+  },
+  "representation_counts": {
+    "annotated_photograph": 1,
+    "architectural_diagram": 1,
+    "architectural_photograph": 1,
+    "artwork": 2,
+    "artwork_photograph": 1,
+    "biological_illustration": 2,
+    "causal_flow_diagram_fragment": 4,
+    "choice_matrix": 17,
+    "data_table": 4,
+    "layout_rule": 1,
+    "map_projection_diagram": 2,
+    "photograph": 1,
+    "relation_table": 8,
+    "sculpture_photograph": 1,
+    "technical_diagram": 1
+  },
+  "role_counts": {
+    "answer_options_encoded_as_table": 17,
+    "classification_or_correspondence": 8,
+    "data_or_case_information": 4,
+    "layout_artifact": 1,
+    "passage_figure": 8,
+    "question_figure": 5,
+    "view_figure": 4
+  },
+  "errors": [],
+  "records": [
+    {
+      "visual_id": "MEET-2005-P026-X91",
+      "representation": "causal_flow_diagram_fragment",
+      "role": "question_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q19-20",
+      "linked_question_ids": [
+        "MEET-2005-Q20"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q19-20.md",
+      "source_pdf_page_index": 26,
+      "display_pages": [
+        7
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_01_xref_91.png",
+      "sha256": "67ff238caa340a1dd949c2ae82a77fd9ee0d0bc7cda383c7443c430f3a07ac8f",
+      "width": 2212,
+      "height": 454,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2005-P026-X92",
+      "representation": "causal_flow_diagram_fragment",
+      "role": "question_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q19-20",
+      "linked_question_ids": [
+        "MEET-2005-Q20"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q19-20.md",
+      "source_pdf_page_index": 26,
+      "display_pages": [
+        7
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_02_xref_92.png",
+      "sha256": "2d29eab6acc5ed2b1426370f61155f80da7380199fdb1c87bb883b851a3b777d",
+      "width": 2212,
+      "height": 454,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2005-P026-X93",
+      "representation": "causal_flow_diagram_fragment",
+      "role": "question_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q19-20",
+      "linked_question_ids": [
+        "MEET-2005-Q20"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q19-20.md",
+      "source_pdf_page_index": 26,
+      "display_pages": [
+        7
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_03_xref_93.png",
+      "sha256": "735a227f9b54182a066e47f6ec4a9f56704577b6cb75f0d0cc3d524cabfdc383",
+      "width": 2212,
+      "height": 454,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2005-P026-X94",
+      "representation": "causal_flow_diagram_fragment",
+      "role": "question_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q19-20",
+      "linked_question_ids": [
+        "MEET-2005-Q20"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q19-20.md",
+      "source_pdf_page_index": 26,
+      "display_pages": [
+        7
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_04_xref_94.png",
+      "sha256": "1f5f9ca57f963885277f225b3010a95a819ee1fe1af3b149d41f58a223b44331",
+      "width": 2212,
+      "height": 454,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2005-Q01-05-T01",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q01-05",
+      "linked_question_ids": [
+        "MEET-2005-Q02"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q01-05.md",
+      "markdown_line": 19,
+      "markdown_line_end": 22,
+      "markdown_sha256": "5e0c688c6b7ddbcc3932cef2f8de8729493d2bd0da1f0a3767a94795040d1f40",
+      "content_sha256": "a7a5751e924efce90fccf19dd02e73161aaecc761274bb6966853039006d466a",
+      "content_preview": "| 낱말 | 의미 특성 |\n|---|---|\n| 처녀 | [+여자], [+성년], [-결혼] |\n| 총각 | [-여자], [+성년], [-결혼] |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q01-05-T02",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q01-05",
+      "linked_question_ids": [
+        "MEET-2005-Q02"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q01-05.md",
+      "markdown_line": 26,
+      "markdown_line_end": 29,
+      "markdown_sha256": "5e0c688c6b7ddbcc3932cef2f8de8729493d2bd0da1f0a3767a94795040d1f40",
+      "content_sha256": "59ca2e085619c77d6c3b032cf08750fa36d5fe8f2f281e1a2ca06aced3ebbc68",
+      "content_preview": "| 낱말 | 의미 특성 |\n|---|---|\n| 선친(先親) | [-여자], [+부모], [-(㉠)] |\n| (㉡) | [-여자], [+부모], [+(㉠)] |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q01-05-T03",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2005-Q01-05",
+      "linked_question_ids": [
+        "MEET-2005-Q02"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q01-05.md",
+      "markdown_line": 31,
+      "markdown_line_end": 37,
+      "markdown_sha256": "5e0c688c6b7ddbcc3932cef2f8de8729493d2bd0da1f0a3767a94795040d1f40",
+      "content_sha256": "09187017119c76a782e12b0a493dcc15ea82a49c239c6eb354a5413c70f9e5be",
+      "content_preview": "|  | ㉠ | ㉡ |\n|---|---|---|\n| ① | 생존 | 자친(慈親) |\n| ② | 생존 | 엄친(嚴親) |\n| ③ | 사망 | 자당(慈堂) |\n| ④ | 사망 | 가친(家親) |\n| ⑤ | 사망 | 빙장(聘丈) |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q09-11-T01",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q09-11",
+      "linked_question_ids": [
+        "MEET-2005-Q09",
+        "MEET-2005-Q10",
+        "MEET-2005-Q11"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q09-11.md",
+      "markdown_line": 17,
+      "markdown_line_end": 20,
+      "markdown_sha256": "8cf95702de1725f5b7052d42aac6d7dd82b8164f09ed01ba7adfc1c5e1a9774e",
+      "content_sha256": "801a4030cb3f513217761a587b94ad503fecee2c81048339154462ad645336d8",
+      "content_preview": "|  | A 집단 | B 집단 | C 집단 |\n|---|---|---|---|\n| (가) 그룹 | ㉠<br>점차 행복해 함 | ㉢<br>정서 반응 없음 | ㉤<br>정서 반응 없음 |\n| (나) 그룹 | ㉡<br>점차 화를 냄 | ㉣<br>정서 반응 없음 | ㉥<br>정서 반응 없음 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q19-20-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2005-Q19-20",
+      "linked_question_ids": [
+        "MEET-2005-Q20"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q19-20.md",
+      "markdown_line": 43,
+      "markdown_line_end": 49,
+      "markdown_sha256": "aa17b57e01352101671381c24a2035e202fea8e4687a1fadf7cd3fd1e59bf965",
+      "content_sha256": "9bc9d01c52af5ac81f5f550e95babd7e88357fa29060f7ba9d1d0c450fa7ce64",
+      "content_preview": "|  | A | B | C | D |\n|---|---|---|---|---|\n| ① | 추간판 변성 | 추간판 탈출 | 추간공 협착 | 골극 성장 |\n| ② | 추간판 변성 | 추간판 탈출 | 골극 성장 | 추간공 협착 |\n| ③ | 추간판 탈출 | 골극 성장 | 추간판 변성 | 추간공 협착 |\n| ④ | 추간판 탈출 | 추간공 협착 | 골극 성장 | 추간판 변성 |\n| ⑤ | 추간판 탈출 | 추간공 협착 | 추간판 변성 | 골극 성장 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q21-23-T01",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q21-23",
+      "linked_question_ids": [
+        "MEET-2005-Q21"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q21-23.md",
+      "markdown_line": 19,
+      "markdown_line_end": 22,
+      "markdown_sha256": "14446548310938c1b5c8c4d1128c839d11c7c073f9a2d18af69f0819a07b0c98",
+      "content_sha256": "60dc03e94418e5ecc6cb72781f5ebda9b07fae822eaa98b91d492775f7770529",
+      "content_preview": "|  | 공통점 | 차이점 |\n|---|---|---|\n| 추상화 운동과 새로운 사실주의 | (가) | 그림 속에 재현적 형상이 등장하는지 여부 |\n| 사실주의와 새로운 사실주의 | 그림 속에 재현적 형상이 등장한다. | (나) |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q21-23-T02",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2005-Q21-23",
+      "linked_question_ids": [
+        "MEET-2005-Q21"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q21-23.md",
+      "markdown_line": 24,
+      "markdown_line_end": 30,
+      "markdown_sha256": "14446548310938c1b5c8c4d1128c839d11c7c073f9a2d18af69f0819a07b0c98",
+      "content_sha256": "42d169545233fb56122e4d1e2253da7fda0b2f31b5803a3a0800b510a36794e2",
+      "content_preview": "|  | (가) | (나) |\n|---|---|---|\n| ① | 그림의 목표가 형식을 드러내는 것이다. | 그림 속에서 친숙한 사물이 발견되는지 여부 |\n| ② | 그림의 목표가 실재를 드러내는 것이다. | 그림이 작가의 주관적 감정을 드러내기 위해 변형되는지 여부 |\n| ③ | 그림의 목표가 보잘것없는 사물에서 미를 발견하는 것이다. | 그림이 사회적 현실을 반영하는지 여부 |\n| ④ | 그림의 목표가 대상에 대한 경이로운 주목의 계기를 제공하는 것이다. | 그림 속에 등장한 재현적 형상이 변형되는지 여부 |\n| ⑤ | 그림의 목표가 세상과의 관련 속에서 드러나는 의미를 추구하는 것이다. | 그림이 세상과 관련 없이 그 자체로 의미를 갖는지 여부 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q30-32-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2005-Q30-32",
+      "linked_question_ids": [
+        "MEET-2005-Q32"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q30-32.md",
+      "markdown_line": 41,
+      "markdown_line_end": 45,
+      "markdown_sha256": "d419bf14e9ddcd09d2573baa32217caa3d49d3c388d98a54b037b31056124a79",
+      "content_sha256": "5b1cd521e4a5e1a2887eb4bf0d9908125534341ea767e735a7cec3261d5cd0aa",
+      "content_preview": "| 견해 | 논거 |\n|---|---|\n| 위헌이라는 견해 | · 다른 형태의 검열이기 때문에 위헌이며, 성인의 볼 권리를 제한한다.<br>① 영화적 표현물의 상영 장소를 제한하는 것은 언론의 자유의 본질적인 내용을 침해하는 것이다. |\n| 합헌이라는 견해 | ② 영화적 표현물에 의한 정신적 충격으로부터 성인을 보호해야 한다.<br>③ 언론의 자유는 절대적 자유이지만, 공익을 위해서는 장소적 제한이 가능하다.<br>④ 상업적 언론에 대해서는 폭넓은 규제가 인정될 수 있다. |\n| 합헌이지만 제한상영관 제도와 결합되면 위헌일 수 있다는 견해 | ⑤ 제한상영관 제도는 영화적 표현물의 광고를 억제함으로써 국민의 알 권리를 침해한다. |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q39-41-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2005-Q39-41",
+      "linked_question_ids": [
+        "MEET-2005-Q40"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q39-41.md",
+      "markdown_line": 35,
+      "markdown_line_end": 41,
+      "markdown_sha256": "487fb129c2d74e317c361ed7679b9a0527da0b8ad73222f44147d7c4076e2635",
+      "content_sha256": "86ada8056a7ad0ee1877a6eb32059d458340b524ab90344299204a5a51a51fbb",
+      "content_preview": "|  | (가) | (나) |\n|---|---|---|\n| ① | 결절점 | 직접 접촉 |\n| ② | 연결 고리 | 공식적 경로 |\n| ③ | 구조적 공백 | 약한 연결 |\n| ④ | 연결망 효과 | 사회적 보증서 |\n| ⑤ | 상호 인정 | 아는 사람 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005-Q42-43-T01",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005-Q42-43",
+      "linked_question_ids": [
+        "MEET-2005-Q42",
+        "MEET-2005-Q43"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005/q42-43.md",
+      "markdown_line": 13,
+      "markdown_line_end": 18,
+      "markdown_sha256": "8bf4032a6acc8bfa0b4e697529ab1c751de1c7686907786708d5b78a0b273899",
+      "content_sha256": "98f3b1ba59df252c5f3268bd1d9b55aabe42c88b76b2f6dccf6d32d6624ac2f3",
+      "content_preview": "| 구분 | 내용 | 역할 |\n|---|---|---|\n| 법칙들 | L₁, L₂, L₃, … | 설명항 |\n| 초기 조건들 | C₁, C₂, C₃, … | 설명항 |\n| 연역 ↓ |  |  |\n| 현상 | E | 피설명항 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005예비-P004-X14",
+      "representation": "biological_illustration",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005예비-Q12-14",
+      "linked_question_ids": [
+        "MEET-2005예비-Q12",
+        "MEET-2005예비-Q13",
+        "MEET-2005예비-Q14"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005예비/q12-14.md",
+      "source_pdf_page_index": 4,
+      "display_pages": [
+        4
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2005예비/page_004_image_01_xref_14.png",
+      "sha256": "34402b9de7148e86f9a8e7087a37153f329ede8552d73d60a1c05064618298e7",
+      "width": 1143,
+      "height": 681,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2005예비-P004-X15",
+      "representation": "biological_illustration",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2005예비-Q12-14",
+      "linked_question_ids": [
+        "MEET-2005예비-Q12",
+        "MEET-2005예비-Q13",
+        "MEET-2005예비-Q14"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005예비/q12-14.md",
+      "source_pdf_page_index": 4,
+      "display_pages": [
+        4
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2005예비/page_004_image_02_xref_15.png",
+      "sha256": "f1fff02a9a2bacda8f9d3e5d1bc0223540a5dbaedcdf38e027505b26455cf2ab",
+      "width": 1143,
+      "height": 680,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2005예비-Q01-04-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2005예비-Q01-04",
+      "linked_question_ids": [
+        "MEET-2005예비-Q04"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005예비/q01-04.md",
+      "markdown_line": 63,
+      "markdown_line_end": 69,
+      "markdown_sha256": "afdba93647d224acbad6e9a5dfcbd9d490195400aac5c848a3010c79a812520f",
+      "content_sha256": "c16474daa0a39532445e10116f601f5b8c56c6a59455a3f064a07862f41bee74",
+      "content_preview": "|  | ㉮ | ㉯ | ㉰ |\n|---|---|---|---|\n| ① | ㄱ | ㄴ, ㄷ | ㄹ, ㅁ |\n| ② | ㄱ, ㄹ | ㄴ, ㅁ | ㄷ |\n| ③ | ㄴ, ㄷ | ㄱ | ㄹ, ㅁ |\n| ④ | ㄷ | ㄱ, ㅁ | ㄴ, ㄹ |\n| ⑤ | ㄷ, ㅁ | ㄹ | ㄱ, ㄴ |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2005예비-Q35-37-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2005예비-Q35-37",
+      "linked_question_ids": [
+        "MEET-2005예비-Q36"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2005예비/q35-37.md",
+      "markdown_line": 41,
+      "markdown_line_end": 47,
+      "markdown_sha256": "df35cdab77fcd74dc2ac498ebe8def724bb4330099ac6ddbd018059c3ac393d7",
+      "content_sha256": "d959a324b58d67053356015517cc9953aa61498724a1e124908b84b1696c6242",
+      "content_preview": "| 표시 | 기자의 기록 |\n|---|---|\n| ① | 카렌의 부모: 회복 불능 - 호흡기 제거를 요청. 죽게 내버려 두는 것은 살인이 아니다. 신부의 유권 해석이 도덕적 부담감 덜어 준 듯. |\n| ② | 모스와 야베드: 카렌의 회복 가능성 없다고 판단. 카렌의 전원을 허락하지 않음. 의료 과오 소송에 대한 부담 때문. |\n| ③ | 암스트롱: 죽게 내버려 달라. 전원 요청보다 어려운 소송 선택. 카렌을 뇌사로 주장한 것은 전략적 실수. |\n| ④ | 포르지오: 호흡기 제거를 가스실에 비유. 선정적 변론. 카렌이 뇌사의 기준상 살아 있다는 점을 분명히 함. |\n| ⑤ | 최고 법원: 프라이버시권 적용 → 기존 판결 번복. 기존 헌법 조항의 확대 해석 → 뇌사의 새 기준 제시. |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2006-Q01-04-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2006-Q01-04",
+      "linked_question_ids": [
+        "MEET-2006-Q04"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2006/q01-04.md",
+      "markdown_line": 45,
+      "markdown_line_end": 51,
+      "markdown_sha256": "56a6b4cc313c0c2d57fad446901a4fcba30c04a17d49b74622d0e0d84fb9099f",
+      "content_sha256": "60dd9c24554ca95295be2ae9a5d9bef37fe3b4aa92d47661953b4a728febb50c",
+      "content_preview": "|  | ㄱ | ㄴ | ㄷ |\n|---|---|---|---|\n| ① | b | a | c |\n| ② | b | a, e | c |\n| ③ | d | a, e | b, c |\n| ④ | d, e | a, c | b |\n| ⑤ | d, e | c | b |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2006-Q23-25-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2006-Q23-25",
+      "linked_question_ids": [
+        "MEET-2006-Q24"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2006/q23-25.md",
+      "markdown_line": 35,
+      "markdown_line_end": 41,
+      "markdown_sha256": "110cb0722f23478062cda054db852e13f1c4033bd4bf174b5f6a2cb179a6beb5",
+      "content_sha256": "a6bcceffad3716a129f069dc29c7bc9cff21db45968bd66ad5b3ed57a27bc6a2",
+      "content_preview": "|  | ㉠에 대한 반론 | ㉡에 대한 반론 |\n|---|---|---|\n| ① | ⓑ | ⓐ |\n| ② | ⓑ | ⓐ, ⓒ |\n| ③ | ⓑ, ⓓ | ⓒ |\n| ④ | ⓓ | ⓐ |\n| ⑤ | ⓓ | ⓒ |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2006-Q35-37-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2006-Q35-37",
+      "linked_question_ids": [
+        "MEET-2006-Q37"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2006/q35-37.md",
+      "markdown_line": 39,
+      "markdown_line_end": 45,
+      "markdown_sha256": "f226b729d22b9115068f097bd5c6d405b10c499a8f661c1bfc73a917c2ea1147",
+      "content_sha256": "e1fc9c3b51144463773566630f5e295cbcaccef7c7e23fcf2123b6e580b1bc88",
+      "content_preview": "| 항목 | 관찰·해석 일지 |\n|---|---|\n| ① | **8월 1일:** 관찰 첫날, 배아의 일부 표면이 갈라짐. — 축소된 병아리가 자라면서 그것을 둘러싸고 있던 막이 갈라졌기 때문일 것임. |\n| ② | **8월 3일:** 길쭉한 모양의 배아가 있으며, 그 안에 심장처럼 박동하는 것이 보임. — 축소되어 있던 심장이 커져 작동하기 시작한 것임. |\n| ③ | **8월 7일:** 배아가 병아리와 유사한 모습을 하고 있음. 실제 해부 결과, 내장 기관의 원시 형태들이 보임. — 접혀 있던 내장 기관이 펴지면서 배아의 모습도 조금 바뀐 것으로 판단됨. |\n| ④ | **8월 14일:** 아주 작은 병아리가 보이고, 심장은 피부에 가려 보이지 않음. 실제 해부 결과, 작은 내장 기관들이 보임. — 배아를 둘러싼 막이 분화하여 피부가 된 것임. |\n| ⑤ | **8월 20일:** 완전한 모습의 병아리가 보임. 실제 해부 결과, 내장 기관들이 완전한 형태를 보이고 있음. — 내장 기관이 커져 병아리 모습이 제대로 드러난 것임. |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2008-P075-X252",
+      "representation": "technical_diagram",
+      "role": "view_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2008-Q11-13",
+      "linked_question_ids": [
+        "MEET-2008-Q13"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2008/q11-13.md",
+      "source_pdf_page_index": 75,
+      "display_pages": [
+        6
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2008/page_075_image_01_xref_252.png",
+      "sha256": "22beffca9131dd3a51852cf29c6d1974459add1b952aed29198fda97a21764de",
+      "width": 1034,
+      "height": 880,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2008-Q20-22-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2008-Q20-22",
+      "linked_question_ids": [
+        "MEET-2008-Q21"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2008/q20-22.md",
+      "markdown_line": 35,
+      "markdown_line_end": 41,
+      "markdown_sha256": "d25bf59cb6ed76aac8dfefcfa0e384f5e6f091b98bf6490bd98e32682163f9cb",
+      "content_sha256": "da3fcf7884e6878e086121e312dba3f52b977dd4e3fea40af3cb591f3528cc53",
+      "content_preview": "| 선택지 | ⓐ 인과적 상호 작용 | ⓑ 카오스적 성질 |\n|---|---|---|\n| ① | ㄱ, ㄴ, ㄹ | ㄷ |\n| ② | ㄱ, ㄷ | ㄴ, ㄹ |\n| ③ | ㄱ, ㄹ | ㄴ, ㄷ |\n| ④ | ㄴ | ㄱ, ㄷ, ㄹ |\n| ⑤ | ㄴ, ㄷ, ㄹ | ㄱ |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2008-Q20-22-T02",
+      "representation": "data_table",
+      "role": "data_or_case_information",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2008-Q20-22",
+      "linked_question_ids": [
+        "MEET-2008-Q22"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2008/q20-22.md",
+      "markdown_line": 45,
+      "markdown_line_end": 53,
+      "markdown_sha256": "d25bf59cb6ed76aac8dfefcfa0e384f5e6f091b98bf6490bd98e32682163f9cb",
+      "content_sha256": "e1462316b753ca6c2f79cdf4cf887a102ef9cd5261e766d3adf0b14cb4c4bc65",
+      "content_preview": "| 특성 | 지구 | 화성 |\n|---|---:|---:|\n| 지상 기압 | 1,013 hPa | 8 hPa |\n| 대기 구성 주성분 기체 | N₂ 78%<br>O₂ 21% | CO₂ 95%<br>N₂ 2% |\n| 표면 상태 | 토양 32%<br>해수면 68% | 토양 100%<br>해수면 0% |\n| 표면 온도 범위 | -60℃~30℃ | -140℃~20℃ |\n| 자전 주기 | 24.0시간 | 24.6시간 |\n| 공전 주기 | 1.0년 | 1.9년 |\n| 공전 궤도면에 대한 자전축의 기울기 | 66.5° | 64.8° |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2008-Q29-31-T01",
+      "representation": "data_table",
+      "role": "data_or_case_information",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2008-Q29-31",
+      "linked_question_ids": [
+        "MEET-2008-Q31"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2008/q29-31.md",
+      "markdown_line": 43,
+      "markdown_line_end": 46,
+      "markdown_sha256": "325cca19a86633eb759ecf29a8c185ab4c3c85ba80e748b935af0ada4d62914c",
+      "content_sha256": "4b5fcfe44f5c2647fbb61ae0d8bee0050a639e517970c56e6e4b7ff17caa5e7c",
+      "content_preview": "| 갑의 전략 \\ 을의 전략 | 신호 발송 | 신호 자제 |\n|---|---:|---:|\n| 신호 발송 | (5, 10) | (6, 8) |\n| 신호 자제 | (7, 8) | (7, 7) |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2009-P089-X295",
+      "representation": "artwork_photograph",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2009-Q08-10",
+      "linked_question_ids": [
+        "MEET-2009-Q08",
+        "MEET-2009-Q09",
+        "MEET-2009-Q10"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2009/q08-10.md",
+      "source_pdf_page_index": 89,
+      "display_pages": [
+        4
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2009/page_089_image_01_xref_295.jpeg",
+      "sha256": "86f3743dfd395e050beea34a9a448818aa8665f9cf11d06e32f8316a8384c4aa",
+      "width": 629,
+      "height": 818,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2009-Q01-04-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2009-Q01-04",
+      "linked_question_ids": [
+        "MEET-2009-Q01"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2009/q01-04.md",
+      "markdown_line": 12,
+      "markdown_line_end": 17,
+      "markdown_sha256": "0acf672b2e2abbd5cdc7c63e4d614c7b0241b45e2abd74c8ebcc1d71290d263f",
+      "content_sha256": "548b1b01f5a9a7ccb987cd3bbcf31d4c8b850654c3d6b37d63f2c71dc8ab27b9",
+      "content_preview": "| ① | ② | ③ | ④ | ⑤ |\n|---|---|---|---|---|\n| 끼다[동] | 결리다[동] | 따끔따끔[부] | 가라앉다[동] | 병간호[명] |\n| 따다[동] | 쑤시다[동] | 새큰새큰[부] | 내리다[동] | 병구완[명] |\n| 트다[동] | 아리다[형] | 옥신옥신[부] | 솔다[동] | 병구원[명] |\n| 헐다[동] | 자리다[형] | 저릿저릿[부] | 아물다[동] | 병시중[명] |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2009-Q11-13-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2009-Q11-13",
+      "linked_question_ids": [
+        "MEET-2009-Q11"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2009/q11-13.md",
+      "markdown_line": 21,
+      "markdown_line_end": 27,
+      "markdown_sha256": "92c42e9f5ab40ba178a97b7a73f4aba2f0fd3e993d9419f2929ae5e5c06abde3",
+      "content_sha256": "67fa7c621ac719c352c663686ed02dd426d290e7a40ce29738c28c503522237c",
+      "content_preview": "| | 연구 | 결과 해석 |\n|---|---|---|\n| ① | 달에 대한 지질학적 분석 | 스닉스가 달에서 오지 않았다. |\n| ② | 금성의 중력과 대기 밀도 측정 | 스닉스가 금성에서 오지 않았다. |\n| ③ | 스닉스의 암석 성분 분석 | 스닉스가 소행성에서 오지 않았다. |\n| ④ | 스닉스에 포함된 산소 동위 원소 구성비 분석 | 스닉스가 지구의 것이 아니다. |\n| ⑤ | 스닉스의 형성 연대 측정 | 스닉스가 우주에서 10억 년 동안 떠돌았다. |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2009-Q26-28-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2009-Q26-28",
+      "linked_question_ids": [
+        "MEET-2009-Q27"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2009/q26-28.md",
+      "markdown_line": 34,
+      "markdown_line_end": 40,
+      "markdown_sha256": "ca3595976d98619474352004c8054540843daa101733e26b4f9b056886868ea4",
+      "content_sha256": "64f5592a28f7b55f05d73f181fa16d2eb434e09d2d3c8e06a4436fd775eba94e",
+      "content_preview": "| | ㄱ | ㄴ | ㄷ | ㄹ |\n|---|---|---|---|---|\n| ① | 복합 투여군 | 높다 | 경구 투여군 | 낮다 |\n| ② | 복합 투여군 | 낮다 | 피부 패치 투여군 | 높다 |\n| ③ | 단독 투여군 | 높다 | 경구 투여군 | 높다 |\n| ④ | 단독 투여군 | 낮다 | 피부 패치 투여군 | 낮다 |\n| ⑤ | 단독 투여군 | 낮다 | 피부 패치 투여군 | 높다 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2009-Q29-31-T01",
+      "representation": "data_table",
+      "role": "data_or_case_information",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2009-Q29-31",
+      "linked_question_ids": [
+        "MEET-2009-Q29",
+        "MEET-2009-Q30",
+        "MEET-2009-Q31"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2009/q29-31.md",
+      "markdown_line": 15,
+      "markdown_line_end": 21,
+      "markdown_sha256": "1814cb40c6782a0b4ae0c5d5ab9e216c9a75cebcccb2491a833b9da5069d47a6",
+      "content_sha256": "cb2623174d671e3d8af395dd884443f31e55284e12b9c7e9cd0a659636bb9f71",
+      "content_preview": "| 측정 지표 | 판별 기준 | 점수 |\n|---|---|---:|\n| 직업·종사상의 지위 | 고용주 및 상층 화이트칼라 | 2 |\n| 〃 | 소규모 자영업자 및 하층 화이트칼라 | 1 |\n| 가구 소득 | 도시 근로자 월평균 가구 소득의 90% 이상 | 1 |\n| 자산 | 국민 주택 규모 소유 이상 | 1 |\n| 교육 연수 | 2년제 대학 졸업 이상 | 1 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2010-P107-X352",
+      "representation": "layout_rule",
+      "role": "layout_artifact",
+      "semantic_visual": false,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2010-Q14-16",
+      "linked_question_ids": [],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2010/q14-16.md",
+      "source_pdf_page_index": 107,
+      "display_pages": [
+        6
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2010/page_107_image_01_xref_352.png",
+      "sha256": "87b6dee5b0b05dce29f27024b84f1f2d1ba8c352bd066c8686367b34f34c8927",
+      "width": 2067,
+      "height": 87,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2010-Q01-04-T01",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2010-Q01-04",
+      "linked_question_ids": [
+        "MEET-2010-Q04"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2010/q01-04.md",
+      "markdown_line": 40,
+      "markdown_line_end": 46,
+      "markdown_sha256": "531f9e9eebf359d88ccbf4819252296b6df3277d6753ec30c782c1258470a4e2",
+      "content_sha256": "7f585c0446a8f53735d0a089cb246abb7a627c7d2a7b736386832fc896e08b64",
+      "content_preview": "| | 한글 | 로마자 | 한글 | 로마자 |\n|---|---|---|---|---|\n| ⓐ | 신라 | Silla | 종로 | Jongno |\n| ⓑ | 무리 | muri | 찰밥 | chalbap |\n| ⓒ | 찌개 | jjigae | 백제 | Baekje |\n| ⓓ | 집현전 | Jiphyeonjeon | 눕히다 | nupida |\n| ⓔ | 시국 | siguk | 속담 | sokdam |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2010-Q14-16-T01",
+      "representation": "data_table",
+      "role": "data_or_case_information",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2010-Q14-16",
+      "linked_question_ids": [
+        "MEET-2010-Q16"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2010/q14-16.md",
+      "markdown_line": 37,
+      "markdown_line_end": 43,
+      "markdown_sha256": "d2cf5c82b694a1f10d67138495248a859eb0ad08d38890e0bc36e56727a7d60d",
+      "content_sha256": "d9cf38d981439861d95518bacba2b1bce71564eda258c923babdac49ac9c3d9b",
+      "content_preview": "| 항목 | 내용 |\n|---|---|\n| 성명 | ○○○ (남/40세) |\n| 진단/의증 | 뇌하수체 종양(양성 선종) |\n| 과거 병력 | · 5년 전 동맥 경화와 고혈압 진단<br>· 2년 전 류머티즘성 관절염 진단<br>· 현재 5년째 아스피린, 아테노롤(고혈압 치료제), 2년째 셀레콕시브 복용 중 |\n| 주 증상 | 양안 외측 시야 결손 |\n| 치료 계획 | 수술에 의한 종양 적출 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2011-P130-X426",
+      "representation": "architectural_diagram",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q29-31",
+      "linked_question_ids": [
+        "MEET-2011-Q29",
+        "MEET-2011-Q30",
+        "MEET-2011-Q31"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q29-31.md",
+      "source_pdf_page_index": 130,
+      "display_pages": [
+        13
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2011/page_130_image_01_xref_426.jpeg",
+      "sha256": "4165a11d2eb7b08e82de333f2084a922b4ff7aceb8e208cfa8724adcd83bb0d5",
+      "width": 516,
+      "height": 473,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2011-P131-X430",
+      "representation": "architectural_photograph",
+      "role": "view_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q29-31",
+      "linked_question_ids": [
+        "MEET-2011-Q31"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q29-31.md",
+      "source_pdf_page_index": 131,
+      "display_pages": [
+        14
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2011/page_131_image_01_xref_430.jpeg",
+      "sha256": "05eda594861b50701947dea86f8d0d5b99b38b93b881be7ec26e1cc7ad3664e8",
+      "width": 542,
+      "height": 420,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2011-P133-X437",
+      "representation": "photograph",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q35-37",
+      "linked_question_ids": [
+        "MEET-2011-Q35",
+        "MEET-2011-Q36",
+        "MEET-2011-Q37"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q35-37.md",
+      "source_pdf_page_index": 133,
+      "display_pages": [
+        16
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2011/page_133_image_01_xref_437.jpeg",
+      "sha256": "976712bff9defb9adfda3856a5c57b0b85f6261163e0d867e03624f1af3dc968",
+      "width": 854,
+      "height": 1284,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2011-P133-X438",
+      "representation": "sculpture_photograph",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q35-37",
+      "linked_question_ids": [
+        "MEET-2011-Q35",
+        "MEET-2011-Q36",
+        "MEET-2011-Q37"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q35-37.md",
+      "source_pdf_page_index": 133,
+      "display_pages": [
+        16
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2011/page_133_image_02_xref_438.jpeg",
+      "sha256": "681fbe1b11c185df75cd5d7504008e89c500477a8b64fb4efca4b0eceb1f651f",
+      "width": 827,
+      "height": 489,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2011-P135-X445",
+      "representation": "map_projection_diagram",
+      "role": "view_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q38-40",
+      "linked_question_ids": [
+        "MEET-2011-Q40"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q38-40.md",
+      "source_pdf_page_index": 135,
+      "display_pages": [
+        18
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2011/page_135_image_01_xref_445.jpeg",
+      "sha256": "4f5439e98456915429cff6370a0b3abcb0d424b44d7c2cc768d8c53e7c1d90ad",
+      "width": 454,
+      "height": 276,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2011-P135-X446",
+      "representation": "map_projection_diagram",
+      "role": "view_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q38-40",
+      "linked_question_ids": [
+        "MEET-2011-Q40"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q38-40.md",
+      "source_pdf_page_index": 135,
+      "display_pages": [
+        18
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2011/page_135_image_02_xref_446.jpeg",
+      "sha256": "d238f98e990ec0ce866e8b0a230b619165d8c7c4232279cd93991a15f06e81d5",
+      "width": 566,
+      "height": 230,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2011-Q17-19-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2011-Q17-19",
+      "linked_question_ids": [
+        "MEET-2011-Q19"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q17-19.md",
+      "markdown_line": 40,
+      "markdown_line_end": 46,
+      "markdown_sha256": "bd26376ba9d54505d322cebae20eaccdaa4ae8f88d662870eb161121e5166df2",
+      "content_sha256": "8476ebb73251baaef4505fe179af4c1898897412355037776bfe3a928a29d7d2",
+      "content_preview": "|  | A | B |\n|---|---|---|\n| ① | 커진다 | 높인다 |\n| ② | 커진다 | 낮춘다 |\n| ③ | 작아진다 | 높인다 |\n| ④ | 작아진다 | 낮춘다 |\n| ⑤ | 변화가 없다 | 그대로 유지한다 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2011-Q26-28-T01",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2011-Q26-28",
+      "linked_question_ids": [
+        "MEET-2011-Q28"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q26-28.md",
+      "markdown_line": 41,
+      "markdown_line_end": 47,
+      "markdown_sha256": "e56dcdb0928319750de722becc60084df434f96c459b47a3d089694670198087",
+      "content_sha256": "a765eaa807b5c535533ecd85610f022f6d665a5380c1939381f7bf57a11b6a6c",
+      "content_preview": "|  | ㉠ | ㉡ |\n|---|---|---|\n| ① | 채취된 검체 | 빛에 노출된 분말 |\n| ② | 검체의 개수 | 색의 종류 |\n| ③ | 검체 하나당 질량 | 빛에 노출된 분말의 영역 크기 |\n| ④ | 분석에 사용한 시약 | 분광기가 보낸 빛 |\n| ⑤ | 시약의 반응량 측정 | 분말에 반사되어 돌아온 빛의 세기 측정 |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2011-Q38-40-T01",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q38-40",
+      "linked_question_ids": [
+        "MEET-2011-Q39"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q38-40.md",
+      "markdown_line": 34,
+      "markdown_line_end": 38,
+      "markdown_sha256": "4af7a5260e14252c16c716565521981a80ae8694a83c8cdd42a9dcbc4258f2c8",
+      "content_sha256": "96627e4a01f9bbc9c14f1bf9e8cb40de232a6ffa716e7cfcf1ecb6b895615f78",
+      "content_preview": "| 정보 | 도법 |\n|---|---|\n| 세계 국가별 인구 밀도 분포 | ⓐ |\n| 부산항을 중심으로 한 화물선의 항로 | ⓑ |\n| 인천 국제공항을 중심으로 한 여객기의 직선 항로 | ⓒ |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2011-Q38-40-T02",
+      "representation": "choice_matrix",
+      "role": "answer_options_encoded_as_table",
+      "semantic_visual": true,
+      "reusable_for_generation": false,
+      "group_id": "MEET-2011-Q38-40",
+      "linked_question_ids": [
+        "MEET-2011-Q39"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q38-40.md",
+      "markdown_line": 40,
+      "markdown_line_end": 46,
+      "markdown_sha256": "4af7a5260e14252c16c716565521981a80ae8694a83c8cdd42a9dcbc4258f2c8",
+      "content_sha256": "ecca4b5ad369116bd4947c7c83e62c9a13327fa8351623ee7a926f0dfeb76cc3",
+      "content_preview": "|  | ⓐ | ⓑ | ⓒ |\n|---|---|---|---|\n| ① | ㉠ | ㉡ | ㉢ |\n| ② | ㉠ | ㉢ | ㉡ |\n| ③ | ㉡ | ㉠ | ㉢ |\n| ④ | ㉡ | ㉢ | ㉠ |\n| ⑤ | ㉢ | ㉠ | ㉡ |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2011-Q38-40-T03",
+      "representation": "relation_table",
+      "role": "classification_or_correspondence",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2011-Q38-40",
+      "linked_question_ids": [
+        "MEET-2011-Q40"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2011/q38-40.md",
+      "markdown_line": 52,
+      "markdown_line_end": 54,
+      "markdown_sha256": "4af7a5260e14252c16c716565521981a80ae8694a83c8cdd42a9dcbc4258f2c8",
+      "content_sha256": "0c535e7391245becb8c6f7d955eafa333f839317ebe948da1f183304694f5ac8",
+      "content_preview": "| (가) | (나) |\n|---|---|\n| ![(가) 원통 투영면](../../시각자료_원본/2011/page_135_image_01_xref_445.jpeg) | ![(나) 평면 투영면](../../시각자료_원본/2011/page_135_image_02_xref_446.jpeg) |",
+      "verification_status": "canonical_markdown_structure_linked"
+    },
+    {
+      "visual_id": "MEET-2012-P150-X494",
+      "representation": "annotated_photograph",
+      "role": "question_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2012-Q29-31",
+      "linked_question_ids": [
+        "MEET-2012-Q31"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2012/q29-31.md",
+      "source_pdf_page_index": 150,
+      "display_pages": [
+        15
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2012/page_150_image_01_xref_494.jpeg",
+      "sha256": "3a9af46f4e45a8981f9a56a46944e8f1ac2c0b51d99f43a256b7d3749d2aa3bb",
+      "width": 692,
+      "height": 692,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2012-P152-X501",
+      "representation": "artwork",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2012-Q35-37",
+      "linked_question_ids": [
+        "MEET-2012-Q35",
+        "MEET-2012-Q36",
+        "MEET-2012-Q37"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2012/q35-37.md",
+      "source_pdf_page_index": 152,
+      "display_pages": [
+        17
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2012/page_152_image_01_xref_501.jpeg",
+      "sha256": "87e07eb36eac481d0b78e6fac7e0bfbd6824a9a884945550970668b70cf9f723",
+      "width": 621,
+      "height": 1014,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    },
+    {
+      "visual_id": "MEET-2012-P152-X502",
+      "representation": "artwork",
+      "role": "passage_figure",
+      "semantic_visual": true,
+      "reusable_for_generation": true,
+      "group_id": "MEET-2012-Q35-37",
+      "linked_question_ids": [
+        "MEET-2012-Q35",
+        "MEET-2012-Q36",
+        "MEET-2012-Q37"
+      ],
+      "canonical_markdown": "자료/MEET_언어추론/전사_검수완료/2012/q35-37.md",
+      "source_pdf_page_index": 152,
+      "display_pages": [
+        17
+      ],
+      "original_file": "자료/MEET_언어추론/시각자료_원본/2012/page_152_image_02_xref_502.jpeg",
+      "sha256": "c0e48cc520473919a0f7dea62dfbb9f0d01d0b5c3fdc04eadf09cbc729730b06",
+      "width": 560,
+      "height": 388,
+      "verification_status": "visually_classified_and_linked_to_canonical_group"
+    }
+  ]
+}

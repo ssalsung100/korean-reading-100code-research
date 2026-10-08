@@ -1,0 +1,650 @@
+
+<!DOCTYPE html>
+<html lang='ko'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='icon' type='image/x-icon' href='favicon.ico'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <title>검색 결과 - sdss.kr</title>
+    <style>
+        /* ===== CSS 변수 (라이트 모드 - 빔프로젝터 최적화) ===== */
+        :root {
+            --bg-primary: #ffffff;
+            --bg-card: #ffffff;
+            --text-primary: #000000;
+            --text-secondary: #333333;
+            --text-muted: #555555;
+            --border-color: #999999;
+            --border-light: #cccccc;
+            --accent: #0044cc;
+            --accent-hover: #002288;
+            --accent-light: #e8f0fe;
+            --accent-gradient: linear-gradient(135deg, #0044cc, #0033aa);
+            --table-header-bg: #1a1a1a;
+            --table-header-text: #ffffff;
+            --table-row-hover: #e8e8e8;
+            --table-row-alt: #f2f2f2;
+            --correct-bg: #b6f2b6;
+            --correct-text: #005500;
+            --correct-border: #00aa00;
+            --error-bg: #ffe0e0;
+            --error-text: #880000;
+            --error-border: #cc0000;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.12);
+            --shadow-md: 0 4px 8px rgba(0,0,0,0.15);
+            --shadow-lg: 0 8px 20px rgba(0,0,0,0.2);
+            --radius: 10px;
+            --radius-sm: 6px;
+            --tag-bg: #e0e0e0;
+            --tag-text: #222222;
+            --footer-bg: #f0f0f0;
+            --footer-text: #666666;
+            --badge-bg: #d0e4ff;
+            --badge-text: #003399;
+        }
+
+        /* ===== 다크 모드 (빔프로젝터 최적화) ===== */
+        [data-theme="dark"] {
+            --bg-primary: #0a0a0a;
+            --bg-card: #141414;
+            --text-primary: #ffffff;
+            --text-secondary: #cccccc;
+            --text-muted: #999999;
+            --border-color: #555555;
+            --border-light: #333333;
+            --accent: #66aaff;
+            --accent-hover: #99ccff;
+            --accent-light: #1a2d4a;
+            --accent-gradient: linear-gradient(135deg, #66aaff, #88bbff);
+            --table-header-bg: #222222;
+            --table-header-text: #ffffff;
+            --table-row-hover: #2a2a2a;
+            --table-row-alt: #1a1a1a;
+            --correct-bg: #0a3d0a;
+            --correct-text: #66ff66;
+            --correct-border: #33cc33;
+            --error-bg: #3d0a0a;
+            --error-text: #ff8888;
+            --error-border: #cc3333;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.5);
+            --shadow-md: 0 4px 8px rgba(0,0,0,0.6);
+            --shadow-lg: 0 8px 20px rgba(0,0,0,0.7);
+            --tag-bg: #333333;
+            --tag-text: #eeeeee;
+            --footer-bg: #141414;
+            --footer-text: #888888;
+            --badge-bg: #1a2d4a;
+            --badge-text: #88ccff;
+        }
+
+        /* ===== 글로벌 리셋 ===== */
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', 'Malgun Gothic', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* ===== 다크모드 토글 ===== */
+        .theme-toggle {
+            position: fixed;
+            top: 24px;
+            right: 24px;
+            z-index: 1000;
+            width: 48px;
+            height: 48px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            cursor: pointer;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            box-shadow: var(--shadow-md);
+        }
+        .theme-toggle:hover {
+            transform: scale(1.08);
+            box-shadow: var(--shadow-lg);
+        }
+        .theme-toggle svg {
+            width: 22px;
+            height: 22px;
+            fill: var(--text-primary);
+            display: block;
+        }
+
+        /* ===== 컨테이너 ===== */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 32px 24px 48px;
+        }
+
+        /* ===== 사이트 로고 ===== */
+        .site-logo {
+            text-align: center;
+            margin-bottom: 12px;
+        }
+        .site-logo a {
+            font-size: 3.2em;
+            font-weight: 900;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-decoration: none;
+            letter-spacing: -1px;
+            transition: opacity 0.2s ease;
+        }
+        .site-logo a:hover {
+            opacity: 0.8;
+        }
+
+        /* ===== 검색 헤더 ===== */
+        .search-header {
+            text-align: center;
+            margin-bottom: 28px;
+        }
+        .search-header h1 {
+            font-size: 1.8em;
+            font-weight: 900;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+        }
+        .search-meta {
+            display: inline-flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .meta-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: var(--badge-bg);
+            color: var(--badge-text);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 1em;
+            font-weight: 700;
+        }
+        .meta-badge svg {
+            width: 14px;
+            height: 14px;
+            fill: currentColor;
+        }
+        .meta-hint {
+            color: var(--text-muted);
+            font-size: 0.95em;
+            font-weight: 600;
+        }
+
+        /* ===== 테이블 카드 ===== */
+        .table-card {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-md);
+            overflow: hidden;
+            border: 2px solid var(--border-color);
+        }
+        .table-scroll {
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        /* ===== 테이블 ===== */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 1.05em;
+        }
+        thead th {
+            background-color: var(--table-header-bg);
+            color: var(--table-header-text);
+            padding: 16px 14px;
+            text-align: center;
+            font-weight: 800;
+            font-size: 1em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 3px solid var(--border-color);
+            border-right: 1px solid rgba(255,255,255,0.15);
+            white-space: nowrap;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        thead th:last-child {
+            border-right: none;
+        }
+        /* 정답률 헤더 강조 */
+        thead th.col-rate {
+            font-size: 1.25em;
+            letter-spacing: 0;
+            text-transform: none;
+        }
+        /* 선택지 헤더 강조 */
+        thead th.col-option {
+            font-size: 1.25em;
+            letter-spacing: 0;
+            text-transform: none;
+        }
+        tbody td {
+            padding: 14px 12px;
+            text-align: center;
+            border-bottom: 2px solid var(--border-light);
+            border-right: 1px solid var(--border-light);
+            font-weight: 600;
+            color: var(--text-primary);
+            white-space: nowrap;
+        }
+        tbody td:last-child {
+            border-right: none;
+        }
+        /* 지문 제목은 줄바꿈 허용 */
+        tbody td.col-title {
+            white-space: normal;
+            text-align: left;
+            max-width: 260px;
+            font-weight: 700;
+        }
+        /* 코드 칼럼 */
+        tbody td.col-code {
+            white-space: normal;
+            max-width: 220px;
+        }
+        tbody tr {
+            transition: background-color 0.15s ease;
+        }
+        tbody tr:nth-child(even) {
+            background-color: var(--table-row-alt);
+        }
+        tbody tr:hover {
+            background-color: var(--table-row-hover);
+        }
+
+        /* 정답 셀 */
+        .correct-answer-cell {
+            background-color: var(--correct-bg) !important;
+            color: var(--correct-text) !important;
+            font-weight: 900 !important;
+            border-left: 4px solid var(--correct-border);
+        }
+
+        /* 정답률 컬럼 */
+        td.col-rate {
+            font-weight: 900;
+            font-size: 1.5em;
+        }
+
+        /* 선택지 컬럼 */
+        td.col-option {
+            font-size: 1.3em;
+            font-weight: 800;
+        }
+
+        /* ===== 링크 스타일 ===== */
+        .clickable-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 700;
+            transition: color 0.15s ease;
+        }
+        .clickable-link:hover {
+            color: var(--accent-hover);
+            text-decoration: underline;
+        }
+
+        /* 코드 태그 스타일 */
+        .code-tag {
+            display: inline-block;
+            background: var(--tag-bg);
+            color: var(--tag-text);
+            padding: 5px 14px;
+            border-radius: 6px;
+            font-size: 1.05em;
+            font-weight: 800;
+            margin: 3px;
+            border: 1px solid var(--border-color);
+            transition: background 0.15s ease;
+            text-decoration: none;
+        }
+        .code-tag:hover {
+            background: var(--accent-light);
+            color: var(--accent);
+        }
+
+        /* ===== 에러 ===== */
+        .error-card {
+            background: var(--error-bg);
+            color: var(--error-text);
+            border: 1px solid var(--error-border);
+            padding: 40px 24px;
+            border-radius: var(--radius);
+            text-align: center;
+            font-weight: 600;
+            font-size: 1em;
+        }
+
+        /* ===== 하단 버튼 ===== */
+        .actions {
+            text-align: center;
+            margin-top: 32px;
+        }
+        .btn-back {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--accent-gradient);
+            color: #fff;
+            padding: 14px 32px;
+            border-radius: var(--radius-sm);
+            text-decoration: none;
+            font-weight: 800;
+            font-size: 1.1em;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            box-shadow: var(--shadow-sm);
+        }
+        .btn-back:hover {
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-md);
+        }
+        .btn-back svg {
+            width: 18px;
+            height: 18px;
+            fill: currentColor;
+        }
+
+        /* ===== 푸터 ===== */
+        .footer {
+            text-align: center;
+            padding: 24px;
+            margin-top: 48px;
+            color: var(--footer-text);
+            font-size: 0.82em;
+            border-top: 1px solid var(--border-color);
+        }
+
+        /* ===== 반응형 ===== */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 12px 36px;
+            }
+            .site-logo a {
+                font-size: 2em;
+            }
+            .search-header h1 {
+                font-size: 1.2em;
+            }
+            table {
+                font-size: 0.82em;
+            }
+            thead th {
+                padding: 10px 8px;
+            }
+            tbody td {
+                padding: 10px 8px;
+            }
+            .theme-toggle {
+                top: 16px;
+                right: 16px;
+                width: 42px;
+                height: 42px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 다크 모드 토글 -->
+    <button class="theme-toggle" id="themeToggle" aria-label="테마 전환">
+        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M12 18c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.7 6-6 6zm0-10c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zM13 2h-2v3h2V2zm0 17h-2v3h2v-3zM5 11H2v2h3v-2zm17 0h-3v2h3v-2zM6.3 4.9L4.9 6.3l2.1 2.1 1.4-1.4-2.1-2.1zm12.7 12.7l-1.4 1.4 2.1 2.1 1.4-1.4-2.1-2.1zM19.1 6.3l-2.1 2.1 1.4 1.4 2.1-2.1-1.4-1.4zM6.3 19.1l2.1-2.1-1.4-1.4-2.1 2.1 1.4 1.4z"/>
+        </svg>
+        <svg class="moon-icon" style="display: none;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z"/>
+        </svg>
+    </button>
+
+    <div class='container'>
+        <!-- 사이트 로고 -->
+        <div class="site-logo">
+            <a href="index.html">sdss.kr</a>
+        </div>
+
+        
+
+        <!-- 검색 헤더 -->
+        <div class="search-header">
+            <h1>코드 검색 결과: 양적비교</h1>
+            <div class="search-meta">
+                
+                <span class="meta-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+                    총 9건
+                </span>
+                
+                <span class="meta-hint">정답률은 추정치입니다 &middot; 모바일은 가로모드 추천</span>
+            </div>
+        </div>
+
+        
+        <!-- 테이블 -->
+        <div class="table-card">
+            <div class="table-scroll">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>학년도</th>
+                            <th>시험 종류</th>
+                            <th>문항</th>
+                            <th>지문 제목</th>
+                            <th>코드</th>
+                            <th>영역</th>
+                            <th class="col-rate">정답률</th>
+                            <th class="col-option">&#9312;</th>
+                            <th class="col-option">&#9313;</th>
+                            <th class="col-option">&#9314;</th>
+                            <th class="col-option">&#9315;</th>
+                            <th class="col-option">&#9316;</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+<tr>
+    <td><strong>2026</strong></td>
+    <td><a href="search.asp?ExamSearch=2026+%EC%88%98%EB%8A%A5" class="clickable-link">&#49688;&#45733;&#44397;&#50612;</a></td>
+    <td>11</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%97%B4%ED%8C%BD%EC%B0%BD%EA%B3%BC+%ED%9E%98" class="clickable-link">&#50676;&#54077;&#52285;&#44284; &#55192;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a><a href='search.asp?CodeName=%EB%B6%84%EC%88%98%EC%8B%9D' class='code-tag'>&#48516;&#49688;&#49885;</a></td>
+    <td>&#44592;&#49696;</td>
+    <td class="col-rate">46%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">12%</td>
+    <td class="col-option correct-answer-cell">46%</td>
+    <td class="col-option">22%</td>
+    <td class="col-option">11%</td>
+</tr>
+
+<tr>
+    <td><strong>2025</strong></td>
+    <td><a href="search.asp?ExamSearch=2025+6%ED%8F%89" class="clickable-link">6&#54217;&#44397;&#50612;</a></td>
+    <td>10</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%9D%98+%ED%98%95%EC%84%B1+%EC%9B%90%EB%A6%AC" class="clickable-link">&#54540;&#46972;&#49828;&#54001;&#51032; &#54805;&#49457; &#50896;&#47532;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a><a href='search.asp?CodeName=%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84' class='code-tag'>&#49345;&#44288;&#44288;&#44228;</a></td>
+    <td>&#54868;&#54617;&#44277;&#54617;</td>
+    <td class="col-rate">66%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option correct-answer-cell">66%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">7%</td>
+</tr>
+
+<tr>
+    <td><strong>2024</strong></td>
+    <td><a href="search.asp?ExamSearch=2024+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>16</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%97%AD%EC%84%A4%EA%B3%BC+%EC%8B%9C%EC%A0%81+%EC%A7%84%EC%8B%A4" class="clickable-link">&#50669;&#49444;&#44284; &#49884;&#51201; &#51652;&#49892;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a><a href='search.asp?CodeName=%EC%9D%B8%EC%8B%9D%EB%A1%A0%EC%A0%81%EB%8F%84%EC%8B%9D' class='code-tag'>&#51064;&#49885;&#47200;&#51201;&#46020;&#49885;</a></td>
+    <td>&#47928;&#54617;</td>
+    <td class="col-rate">41%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option correct-answer-cell">41%</td>
+    <td class="col-option">24%</td>
+    <td class="col-option">30%</td>
+</tr>
+
+<tr>
+    <td><strong>2017</strong></td>
+    <td><a href="search.asp?ExamSearch=2017+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>4</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B3%B5%EC%A7%80%EC%97%90+%EB%8C%80%ED%95%9C+%EC%9D%B4%EB%A1%A0%EB%93%A4" class="clickable-link">&#48373;&#51648;&#50640; &#45824;&#54620; &#51060;&#47200;&#46308;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a></td>
+    <td>&#50980;&#47532;&#54617;</td>
+    <td class="col-rate">85%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option correct-answer-cell">85%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">1%</td>
+</tr>
+
+<tr>
+    <td><strong>2017</strong></td>
+    <td><a href="search.asp?ExamSearch=2017+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>11</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B3%B5%ED%99%94%EC%A3%BC%EC%9D%98%EC%99%80+%ED%97%8C%EC%A0%95%EC%A3%BC%EC%9D%98%EC%A0%81+%EC%88%98%EB%8B%A8" class="clickable-link">&#44277;&#54868;&#51452;&#51032;&#50752; &#54732;&#51221;&#51452;&#51032;&#51201; &#49688;&#45800;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a><a href='search.asp?CodeName=%EC%88%98%EB%8B%A8%2F%EB%AA%A9%EC%A0%81' class='code-tag'>&#49688;&#45800;/&#47785;&#51201;</a></td>
+    <td>&#48277;&#52384;&#54617;</td>
+    <td class="col-rate">81%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option correct-answer-cell">81%</td>
+</tr>
+
+<tr>
+    <td><strong>2016</strong></td>
+    <td><a href="search.asp?ExamSearch=2016+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>1</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B2%94%EC%A3%84+%EA%B4%80%EB%A0%A8+%EC%96%B8%EB%A1%A0+%EB%B3%B4%EB%8F%84" class="clickable-link">&#48276;&#51396; &#44288;&#47144; &#50616;&#47200; &#48372;&#46020;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a></td>
+    <td>&#48277;&#54617;</td>
+    <td class="col-rate">90%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option correct-answer-cell">90%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">2%</td>
+</tr>
+
+<tr>
+    <td><strong>2016</strong></td>
+    <td><a href="search.asp?ExamSearch=2016+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>15</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%84%B8%ED%8F%AC+%EC%9A%B4%EB%AA%85+%EA%B2%B0%EC%A0%95+%EA%B3%BC%EC%A0%95" class="clickable-link">&#49464;&#54252; &#50868;&#47749; &#44208;&#51221; &#44284;&#51221;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a><a href='search.asp?CodeName=%EB%B6%84%EA%B8%B0%EC%A0%90' class='code-tag'>&#48516;&#44592;&#51216;</a></td>
+    <td>&#49373;&#47749;&#44284;&#54617;</td>
+    <td class="col-rate">64%</td>
+    <td class="col-option correct-answer-cell">64%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">6%</td>
+</tr>
+
+<tr>
+    <td><strong>2012</strong></td>
+    <td><a href="search.asp?ExamSearch=2012+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>20</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%9E%90%EB%B3%B8+%EA%B5%AC%EC%A1%B0%EC%99%80+%EA%B8%B0%EC%97%85+%EA%B0%80%EC%B9%98" class="clickable-link">&#51088;&#48376; &#44396;&#51312;&#50752; &#44592;&#50629; &#44032;&#52824;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a></td>
+    <td>&#44221;&#51228;&#54617;</td>
+    <td class="col-rate">30%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">52%</td>
+    <td class="col-option correct-answer-cell">30%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">9%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%A6%AC%ED%8A%B8+%EC%98%88%EB%B9%84" class="clickable-link">&#47532;&#53944;&#50696;&#48708;</a></td>
+    <td>21</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%98%A4%EC%A1%B4%EC%B8%B5%EC%9D%98+%ED%8C%8C%EA%B4%B4" class="clickable-link">&#50724;&#51316;&#52789;&#51032; &#54028;&#44340;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90' class='code-tag'>&#50577;&#51201;&#48708;&#44368;</a></td>
+    <td>&#51648;&#44396;&#44284;&#54617;</td>
+    <td class="col-rate">65%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option correct-answer-cell">65%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">20%</td>
+    <td class="col-option">2%</td>
+</tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+
+        <!-- 하단 버튼 -->
+        <div class="actions">
+            <a href="index.html" class="btn-back">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
+                검색 페이지로 돌아가기
+            </a>
+        </div>
+    </div>
+
+    <!-- 푸터 -->
+    <div class="footer">&copy; 2025 sdss.kr &middot; Designed by 216</div>
+
+    <script>
+        const themeToggle = document.getElementById('themeToggle');
+        const sunIcon = document.querySelector('.sun-icon');
+        const moonIcon = document.querySelector('.moon-icon');
+        const html = document.documentElement;
+
+        const savedTheme = localStorage.getItem('theme');
+        const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        if (savedTheme === 'dark' || (!savedTheme && systemPrefersDark)) {
+            html.setAttribute('data-theme', 'dark');
+            sunIcon.style.display = 'none';
+            moonIcon.style.display = 'block';
+        }
+
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = html.getAttribute('data-theme');
+            if (currentTheme === 'dark') {
+                html.removeAttribute('data-theme');
+                localStorage.setItem('theme', 'light');
+                sunIcon.style.display = 'block';
+                moonIcon.style.display = 'none';
+            } else {
+                html.setAttribute('data-theme', 'dark');
+                localStorage.setItem('theme', 'dark');
+                sunIcon.style.display = 'none';
+                moonIcon.style.display = 'block';
+            }
+        });
+    </script>
+</body>
+</html>

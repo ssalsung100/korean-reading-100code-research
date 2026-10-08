@@ -1,0 +1,1089 @@
+{
+  "status": "working_copies_complete_pixel_verified",
+  "scope": "2009예비~2021 LEET 언어이해 홀수형 HWP",
+  "figure_count": 46,
+  "paper_count": 14,
+  "note": "PNG files are inspection/Markdown working copies. Embedded HWP binaries and their hashes are authoritative.",
+  "pixel_mismatch_count": 0,
+  "papers": [
+    {
+      "year": 2009,
+      "label": "2009",
+      "figure_count": 2,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2009/2009_contact_sheet.png",
+      "items": [
+        {
+          "year": 2009,
+          "label": "2009",
+          "asset_number": 1,
+          "question_group": [
+            20,
+            22
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009/2009_question_odd/image_001.jpg",
+          "source_sha256": "8438c7e8fc0c63287f6f51f875100adf365eb1b92b818010777f61120170e88c",
+          "source_format": "JPEG",
+          "source_width": 1676,
+          "source_height": 1514,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009/image_001.png",
+          "preview_sha256": "70366fd51edaacdddb7757cc954cd412d05005244caf129ce0bc02e661642d6f",
+          "source_decoded_pixel_sha256": "0246dfa23820a842ed4fc67fcba3cdc2d99a87c48c22004c6cd264f25eeaf287",
+          "preview_decoded_pixel_sha256": "0246dfa23820a842ed4fc67fcba3cdc2d99a87c48c22004c6cd264f25eeaf287",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2009,
+          "label": "2009",
+          "asset_number": 2,
+          "question_group": [
+            35,
+            37
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009/2009_question_odd/image_002.jpg",
+          "source_sha256": "01d14c3f445bf761bc18d10478a933f86f61ca657518133b83e916c5aa3b2428",
+          "source_format": "JPEG",
+          "source_width": 1709,
+          "source_height": 2209,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009/image_002.png",
+          "preview_sha256": "4644d221d4f7b7baedf43164c5c97c21b6c4b30fd74c945e128ebb868a12b7b8",
+          "source_decoded_pixel_sha256": "2301c868f88f86e31e34b53b30e9770d242b86f32510481f17624acd50ca9460",
+          "preview_decoded_pixel_sha256": "2301c868f88f86e31e34b53b30e9770d242b86f32510481f17624acd50ca9460",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "label": "2009예비",
+      "figure_count": 7,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/2009예비_contact_sheet.png",
+      "items": [
+        {
+          "year": 2009,
+          "label": "2009예비",
+          "asset_number": 1,
+          "question_group": [
+            19,
+            21
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_001.tif",
+          "source_sha256": "d34e088a85b04813a70473e5edd7715824df8c5642f04c7d27d8b2d06f61be53",
+          "source_format": "TIFF",
+          "source_width": 544,
+          "source_height": 381,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_001.png",
+          "preview_sha256": "0ff0349a08ef28540ab48a69d67af3a20ff8ecc2d5d4dba04ef70234bb4a4410",
+          "source_decoded_pixel_sha256": "b120f9e6da8273b14a825070dde30c1ce80e777bc74291e2d702ea7e2c2e2917",
+          "preview_decoded_pixel_sha256": "b120f9e6da8273b14a825070dde30c1ce80e777bc74291e2d702ea7e2c2e2917",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2009,
+          "label": "2009예비",
+          "asset_number": 2,
+          "question_group": [
+            19,
+            21
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_002.tif",
+          "source_sha256": "66043dd4ced2997025baa75d2300f14f44b42d95aca67da0523967c28cb22805",
+          "source_format": "TIFF",
+          "source_width": 624,
+          "source_height": 386,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_002.png",
+          "preview_sha256": "1d5141b0b2137b17d8c3c157ff1436796a8c2e94a970cf2de360f2a6dfb27e32",
+          "source_decoded_pixel_sha256": "193333ef43210f7ac705327d2b2d1dfbcee371307e3f0b1b54641eec6f9a1054",
+          "preview_decoded_pixel_sha256": "193333ef43210f7ac705327d2b2d1dfbcee371307e3f0b1b54641eec6f9a1054",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2009,
+          "label": "2009예비",
+          "asset_number": 3,
+          "question_group": [
+            19,
+            21
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_003.tif",
+          "source_sha256": "46973aa73755f205feedcdccb41e348f301ba3898446ab9ab068b3c604cfde8b",
+          "source_format": "TIFF",
+          "source_width": 544,
+          "source_height": 381,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_003.png",
+          "preview_sha256": "ffc97872a2330c412c2962674e3f01b511795dc9cd41bc99f18451290590bf93",
+          "source_decoded_pixel_sha256": "c4984e47cc53438fae740870e823c237eff728b15bdd661b74ba23d230db7ee6",
+          "preview_decoded_pixel_sha256": "c4984e47cc53438fae740870e823c237eff728b15bdd661b74ba23d230db7ee6",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2009,
+          "label": "2009예비",
+          "asset_number": 4,
+          "question_group": [
+            19,
+            21
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_004.tif",
+          "source_sha256": "0e491e717e755753174fcf1bb21cb71053f92de2a966a4fec569ef23dcbb816b",
+          "source_format": "TIFF",
+          "source_width": 612,
+          "source_height": 386,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_004.png",
+          "preview_sha256": "96c9ab10b124d1899ff80266aecf9323aa9baaf2a34890ab2bce9796478cbd9c",
+          "source_decoded_pixel_sha256": "62f747c7f2848cc587ffe295efa8e810de6db511dd30f12bfa1262863acc0183",
+          "preview_decoded_pixel_sha256": "62f747c7f2848cc587ffe295efa8e810de6db511dd30f12bfa1262863acc0183",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2009,
+          "label": "2009예비",
+          "asset_number": 5,
+          "question_group": [
+            19,
+            21
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_005.tif",
+          "source_sha256": "16dafb2125df3dbaaec866c6792a1deaadb11a3ab66269299db687bb38d2f312",
+          "source_format": "TIFF",
+          "source_width": 544,
+          "source_height": 381,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_005.png",
+          "preview_sha256": "b38f20817299ef07d5b686b57ec188f95bfbddadfb5b42d399ea575f8d69ff37",
+          "source_decoded_pixel_sha256": "9a0920779ae409e0a523a35a43408765cee49ceb2f56e18d89989422b42aa2f2",
+          "preview_decoded_pixel_sha256": "9a0920779ae409e0a523a35a43408765cee49ceb2f56e18d89989422b42aa2f2",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2009,
+          "label": "2009예비",
+          "asset_number": 6,
+          "question_group": [
+            19,
+            21
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_006.tif",
+          "source_sha256": "40a404eec6a89fe570fcc02f504d16ed134c776eac740fe4e6bf56eb14e0c7eb",
+          "source_format": "TIFF",
+          "source_width": 612,
+          "source_height": 386,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_006.png",
+          "preview_sha256": "51f18e6299339a241a70f1dcb6d2ec55afd83ecb94c529e4016403f2833ca939",
+          "source_decoded_pixel_sha256": "587d7ca362f7954b762d462dfd3514c07c4dfd85a0d9cab63613b8fcffc97b7d",
+          "preview_decoded_pixel_sha256": "587d7ca362f7954b762d462dfd3514c07c4dfd85a0d9cab63613b8fcffc97b7d",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2009,
+          "label": "2009예비",
+          "asset_number": 7,
+          "question_group": [
+            35,
+            37
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_007.tif",
+          "source_sha256": "579cfea0eef2abbd1d743448c848e1036e0afdf6fc967a9593d498d8cc34a6a8",
+          "source_format": "TIFF",
+          "source_width": 417,
+          "source_height": 700,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2009예비/image_007.png",
+          "preview_sha256": "ab85ed936805b214c7c193bac9bbc2ea7ee2d0eb19a778d5f8f4e6fcddabce70",
+          "source_decoded_pixel_sha256": "28f7525c481a05184f385f3654fa0a24c4041760249c447b77a4cee0e8e57148",
+          "preview_decoded_pixel_sha256": "28f7525c481a05184f385f3654fa0a24c4041760249c447b77a4cee0e8e57148",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "label": "2010",
+      "figure_count": 7,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/2010_contact_sheet.png",
+      "items": [
+        {
+          "year": 2010,
+          "label": "2010",
+          "asset_number": 1,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_001.jpg",
+          "source_sha256": "af993122deb6a8151da864d614166d4b553d15663fed8be9d9e9cf277fab9700",
+          "source_format": "JPEG",
+          "source_width": 1034,
+          "source_height": 375,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_001.png",
+          "preview_sha256": "dcce5a295c007802ee5239d119757387589d2cbd41adb553cfefdc6c8a2cd28e",
+          "source_decoded_pixel_sha256": "a010c358146a524f8c234badc446f96c349526767fa383bea2e3e1e5c9e30fcb",
+          "preview_decoded_pixel_sha256": "a010c358146a524f8c234badc446f96c349526767fa383bea2e3e1e5c9e30fcb",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2010,
+          "label": "2010",
+          "asset_number": 2,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_002.jpg",
+          "source_sha256": "937c57d6133a4eb6fb88a32c4391850577879be5b338e986d9d529d72b9e2040",
+          "source_format": "JPEG",
+          "source_width": 2422,
+          "source_height": 688,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_002.png",
+          "preview_sha256": "a7587713c9f47faf17c9a99f95fe81a3bbe5420e22e12d33f69c5cdf979cd4c9",
+          "source_decoded_pixel_sha256": "bb6cf283914d03d266854b8c80141dd2939a0b683ce2f1b3ba3c5d6825b94f3a",
+          "preview_decoded_pixel_sha256": "bb6cf283914d03d266854b8c80141dd2939a0b683ce2f1b3ba3c5d6825b94f3a",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2010,
+          "label": "2010",
+          "asset_number": 3,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_003.jpg",
+          "source_sha256": "f3828af1219a36e30d6c3f685a67f7d55942596255710dc5c06bf3e5012a1888",
+          "source_format": "JPEG",
+          "source_width": 753,
+          "source_height": 480,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_003.png",
+          "preview_sha256": "5932ded57649e20ff5f440bbda80a3c50716322f5b244aa6b19b630eafff4ad4",
+          "source_decoded_pixel_sha256": "93314c7ebeb90d246caf2233af9e9e59afe03fa424433628bc59e895d9ee27a9",
+          "preview_decoded_pixel_sha256": "93314c7ebeb90d246caf2233af9e9e59afe03fa424433628bc59e895d9ee27a9",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2010,
+          "label": "2010",
+          "asset_number": 4,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_004.jpg",
+          "source_sha256": "05d88a12c840b15980ce38e880949b041b01babe258eb740716b7608e4a24ba2",
+          "source_format": "JPEG",
+          "source_width": 741,
+          "source_height": 453,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_004.png",
+          "preview_sha256": "a93af9161adfb581f93b26df95ef2d7f389af3c0b902871baed72edf144e2a77",
+          "source_decoded_pixel_sha256": "235702060c0d27d4decee78042b232b5ff8d5aecb18d17e4ff9713cf38def007",
+          "preview_decoded_pixel_sha256": "235702060c0d27d4decee78042b232b5ff8d5aecb18d17e4ff9713cf38def007",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2010,
+          "label": "2010",
+          "asset_number": 5,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_005.jpg",
+          "source_sha256": "be817f65529ba639fbb1916281d9c1749a5e160ad465a4ec7bf82ceddeab4d68",
+          "source_format": "JPEG",
+          "source_width": 753,
+          "source_height": 471,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_005.png",
+          "preview_sha256": "88c2ae83a6ae534adf1c27fd1618df3864643a4639fcdcc59163ba7e8c9641b4",
+          "source_decoded_pixel_sha256": "efc96c8e18e465f631290a4dddd43c9a658aead973a5bff308d585a213ea645b",
+          "preview_decoded_pixel_sha256": "efc96c8e18e465f631290a4dddd43c9a658aead973a5bff308d585a213ea645b",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2010,
+          "label": "2010",
+          "asset_number": 6,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_006.jpg",
+          "source_sha256": "80f378f4d67ed4d822a847bc1d248de17d76fc9a03e73ed9a32e12831828e8b7",
+          "source_format": "JPEG",
+          "source_width": 768,
+          "source_height": 477,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_006.png",
+          "preview_sha256": "02b9456e62ef751351b4c92a0d8952d6e3a8920a6ba93051d887936bb262ca0b",
+          "source_decoded_pixel_sha256": "3084feaafd2f46e80770c772c227c0109bee76258348e133a9fe882d8423620a",
+          "preview_decoded_pixel_sha256": "3084feaafd2f46e80770c772c227c0109bee76258348e133a9fe882d8423620a",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2010,
+          "label": "2010",
+          "asset_number": 7,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_007.jpg",
+          "source_sha256": "0074305d922e1fa8decb6ebe5843cd7cb1736e0c6f8284a94a9102d39041535d",
+          "source_format": "JPEG",
+          "source_width": 756,
+          "source_height": 465,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2010/image_007.png",
+          "preview_sha256": "01a05da2aafd3881fd444929f9972c891a088d2017b2b4b7cba05628f5736880",
+          "source_decoded_pixel_sha256": "672a9e96b85e70d7b6d42e54de4c8adde16c534ed371b3222530925c14d667cc",
+          "preview_decoded_pixel_sha256": "672a9e96b85e70d7b6d42e54de4c8adde16c534ed371b3222530925c14d667cc",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "label": "2011",
+      "figure_count": 8,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/2011_contact_sheet.png",
+      "items": [
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 1,
+          "question_group": [
+            4,
+            5
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_001.tif",
+          "source_sha256": "3a21164d3caaf306545a27bebdd663f080feb0460dcb2a8365bfed968fc55e5d",
+          "source_format": "TIFF",
+          "source_width": 618,
+          "source_height": 384,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_001.png",
+          "preview_sha256": "751824f7530a592a7740297993dda4f17174e760efe1e50bce49de77c986d7f3",
+          "source_decoded_pixel_sha256": "7c75f2e72fd7fcbd494cd6ac4a137247ea7c9503e50991bce2ceddd42a811eb1",
+          "preview_decoded_pixel_sha256": "7c75f2e72fd7fcbd494cd6ac4a137247ea7c9503e50991bce2ceddd42a811eb1",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 2,
+          "question_group": [
+            4,
+            5
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_002.tif",
+          "source_sha256": "f06e81d4f2e4843eef4e6b5596346326c1016c1f259f280cc9d004f7911a9aaf",
+          "source_format": "TIFF",
+          "source_width": 609,
+          "source_height": 384,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_002.png",
+          "preview_sha256": "9dd44a3fa2bd8e7f54025a5d88bc4de9f8b0a3d13ae6adf934dc4435efa6dcee",
+          "source_decoded_pixel_sha256": "8a63a2c3f6ae8ae510d30d54b46035bcdd445e36e260286c91980ad7b96463db",
+          "preview_decoded_pixel_sha256": "8a63a2c3f6ae8ae510d30d54b46035bcdd445e36e260286c91980ad7b96463db",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 3,
+          "question_group": [
+            4,
+            5
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_003.tif",
+          "source_sha256": "c2d440e5900c77de141fe938bec4fce10e1d5db581502761e3b550e6f10c0beb",
+          "source_format": "TIFF",
+          "source_width": 610,
+          "source_height": 379,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_003.png",
+          "preview_sha256": "559d04d8f7c7f259117f8df306beb7c9442384ac06047c040740940c0bae2520",
+          "source_decoded_pixel_sha256": "d8ae34f071af2f43bdc91245e41c3eba44c8ab8d7153b42886f3b235a392b4dc",
+          "preview_decoded_pixel_sha256": "d8ae34f071af2f43bdc91245e41c3eba44c8ab8d7153b42886f3b235a392b4dc",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 4,
+          "question_group": [
+            4,
+            5
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_004.tif",
+          "source_sha256": "b69a6d3d767cf5db35f149c71b42dc9a2eddb1d2f316aae3eb64b05021603c4e",
+          "source_format": "TIFF",
+          "source_width": 605,
+          "source_height": 379,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_004.png",
+          "preview_sha256": "a84add8f3314d7976ff0675de80429d1f611bc52d9574a6dff3f840dc27793a7",
+          "source_decoded_pixel_sha256": "63b0806b2c9b2f6dd7ca1dce652d69e133f1f61c697c4b254fb0594a330fb44a",
+          "preview_decoded_pixel_sha256": "63b0806b2c9b2f6dd7ca1dce652d69e133f1f61c697c4b254fb0594a330fb44a",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 5,
+          "question_group": [
+            21,
+            23
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_005.tif",
+          "source_sha256": "2a94d4068e10a6e9460c9097796c0656bea6dafe10c110bc44ff0f8b8c46dd78",
+          "source_format": "TIFF",
+          "source_width": 775,
+          "source_height": 271,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_005.png",
+          "preview_sha256": "f7a7b773a7a39fc8f332e89eaad772584025c08ff0bacb523234ddca068f1f35",
+          "source_decoded_pixel_sha256": "433d3b0660a8da187f87609c7d26cf548c1efc823648d3655116214e6c57d1aa",
+          "preview_decoded_pixel_sha256": "433d3b0660a8da187f87609c7d26cf548c1efc823648d3655116214e6c57d1aa",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 6,
+          "question_group": [
+            21,
+            23
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_006.tif",
+          "source_sha256": "16abbfed8fc17be814f4eeb6a81cffd02f6e1102798b51a39bf11d31fe800e52",
+          "source_format": "TIFF",
+          "source_width": 776,
+          "source_height": 393,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_006.png",
+          "preview_sha256": "9df771f2292d25aaabd0323e55ca0a63656af36968a608f64bfad17a2dfc5327",
+          "source_decoded_pixel_sha256": "c59316b14470dad38652222008a73dae7eae21f205798b6db2c805f2dc46f2d4",
+          "preview_decoded_pixel_sha256": "c59316b14470dad38652222008a73dae7eae21f205798b6db2c805f2dc46f2d4",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 7,
+          "question_group": [
+            21,
+            23
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_007.tif",
+          "source_sha256": "3a61df623076b42874a2cb49eb1f34fd71975401b3c0309d250544268f0b3a52",
+          "source_format": "TIFF",
+          "source_width": 1113,
+          "source_height": 309,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_007.png",
+          "preview_sha256": "bcb9dce19e33a3f2c54f0344bbad814198cfd3ea668516bcdbd452f164a847bb",
+          "source_decoded_pixel_sha256": "067690739b0e5b1fa18f73e34b51d1a6ca28323a897ebc13cebd3d15c21395f5",
+          "preview_decoded_pixel_sha256": "067690739b0e5b1fa18f73e34b51d1a6ca28323a897ebc13cebd3d15c21395f5",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2011,
+          "label": "2011",
+          "asset_number": 8,
+          "question_group": [
+            33,
+            35
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_008.tif",
+          "source_sha256": "3edc1f82219a573d2908c3e9c0d71d88602a7b0e5b7f7183dd042fef18bd8637",
+          "source_format": "TIFF",
+          "source_width": 1182,
+          "source_height": 964,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2011/image_008.png",
+          "preview_sha256": "5dd15cf166b3ee160d0c1a3ff9d28aa9b883cb255e23b767953879c43a3dbb2b",
+          "source_decoded_pixel_sha256": "0edd00aa7d06fbe4cee86a93233f28de2482edbc4becc1a03fc7bf0d1950ade7",
+          "preview_decoded_pixel_sha256": "0edd00aa7d06fbe4cee86a93233f28de2482edbc4becc1a03fc7bf0d1950ade7",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "label": "2012",
+      "figure_count": 1,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2012/2012_contact_sheet.png",
+      "items": [
+        {
+          "year": 2012,
+          "label": "2012",
+          "asset_number": 1,
+          "question_group": [
+            9,
+            11
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2012/2012_question_odd/image_001.tif",
+          "source_sha256": "0182b853b2d666e249f4613f97dcf51e0c98dc40b8acb45812dee35a07781697",
+          "source_format": "TIFF",
+          "source_width": 1187,
+          "source_height": 718,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2012/image_001.png",
+          "preview_sha256": "8ec1505c739943f90a29c131f86d8c4f2df0bd62535fc0b6af4eb922379762e6",
+          "source_decoded_pixel_sha256": "245cf1b910d3545610d38518de9f4dd8c58d4f05fd58ce22342b6ba577bef3b2",
+          "preview_decoded_pixel_sha256": "245cf1b910d3545610d38518de9f4dd8c58d4f05fd58ce22342b6ba577bef3b2",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "label": "2013",
+      "figure_count": 3,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2013/2013_contact_sheet.png",
+      "items": [
+        {
+          "year": 2013,
+          "label": "2013",
+          "asset_number": 1,
+          "question_group": [
+            10,
+            12
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_001.tif",
+          "source_sha256": "ff510647a8457a2a775eced80c4a4f101f49845c3dcad303659d7d58b01ea8b8",
+          "source_format": "TIFF",
+          "source_width": 1182,
+          "source_height": 432,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2013/image_001.png",
+          "preview_sha256": "6f20e0123af219a041fe6331ced7978253518079817152073d81777327d60acf",
+          "source_decoded_pixel_sha256": "57e4cc0d1c589814d112fdb80fe310837355251c82f441f8ed140d2754f9cfc7",
+          "preview_decoded_pixel_sha256": "57e4cc0d1c589814d112fdb80fe310837355251c82f441f8ed140d2754f9cfc7",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2013,
+          "label": "2013",
+          "asset_number": 2,
+          "question_group": [
+            19,
+            21
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_002.tif",
+          "source_sha256": "28f44ac4304438e86313001a6c05ab0218588d97be6aa5ba731ee64784345452",
+          "source_format": "TIFF",
+          "source_width": 689,
+          "source_height": 616,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2013/image_002.png",
+          "preview_sha256": "ff76df56d167688a0476d0238374d8a373cf296794c5504150c2b3910952bd42",
+          "source_decoded_pixel_sha256": "126a7be0ceaf8ae16a60f140cbfe31b641f1946434984c6a176b48fab936f81a",
+          "preview_decoded_pixel_sha256": "126a7be0ceaf8ae16a60f140cbfe31b641f1946434984c6a176b48fab936f81a",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2013,
+          "label": "2013",
+          "asset_number": 3,
+          "question_group": [
+            25,
+            27
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_003.tif",
+          "source_sha256": "35da58d37ce146e02c9b0eb98d5909686feaeec110a8c57fad0eab5eb1d9c094",
+          "source_format": "TIFF",
+          "source_width": 1241,
+          "source_height": 453,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2013/image_003.png",
+          "preview_sha256": "a3efddb7328599dd9fe7a3f4caba747a496e7943ae9899972582dcec9757cba9",
+          "source_decoded_pixel_sha256": "43514b62d7db59b298d762da1cbb6544ecaa90226f827427fa0bcd6be61d1b55",
+          "preview_decoded_pixel_sha256": "43514b62d7db59b298d762da1cbb6544ecaa90226f827427fa0bcd6be61d1b55",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "label": "2014",
+      "figure_count": 1,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2014/2014_contact_sheet.png",
+      "items": [
+        {
+          "year": 2014,
+          "label": "2014",
+          "asset_number": 1,
+          "question_group": [
+            4,
+            7
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2014/2014_question_odd/image_001.tif",
+          "source_sha256": "c91988f4f3e83cc5f8b66fc93a816c72a0bdd48dbc4d209378c8a4f2b6b9f05b",
+          "source_format": "TIFF",
+          "source_width": 1240,
+          "source_height": 611,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2014/image_001.png",
+          "preview_sha256": "bf6a12701032d1dc6d0f6e91c1038f58df2b6af547d776cbf1194633e0c3dd7b",
+          "source_decoded_pixel_sha256": "1b646406bee96824dd80c810e96abd9be5487e645d0acad4d2b30269f5b6e16c",
+          "preview_decoded_pixel_sha256": "1b646406bee96824dd80c810e96abd9be5487e645d0acad4d2b30269f5b6e16c",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "label": "2015",
+      "figure_count": 1,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2015/2015_contact_sheet.png",
+      "items": [
+        {
+          "year": 2015,
+          "label": "2015",
+          "asset_number": 1,
+          "question_group": [
+            27,
+            29
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2015/2015_question_odd/image_001.tif",
+          "source_sha256": "77efb8ca3df3ae0fc7ce2202797755a9c78945f1ac080457ddb95f9917e226fb",
+          "source_format": "TIFF",
+          "source_width": 1850,
+          "source_height": 1483,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2015/image_001.png",
+          "preview_sha256": "e687281dcb9764b088fe627f015eef1bf8ffa055a749889f53a8e0a9d0ddcd6c",
+          "source_decoded_pixel_sha256": "23b2a2367cebcdd4621473f8b6ae7ba2c662f640a50b241c0c9a2f275db0e24d",
+          "preview_decoded_pixel_sha256": "23b2a2367cebcdd4621473f8b6ae7ba2c662f640a50b241c0c9a2f275db0e24d",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "label": "2016",
+      "figure_count": 5,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/2016_contact_sheet.png",
+      "items": [
+        {
+          "year": 2016,
+          "label": "2016",
+          "asset_number": 1,
+          "question_group": [
+            14,
+            16
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_001.jpg",
+          "source_sha256": "49262d67b59c008786e29411ad6337d5c44ecd0abf0d7279fe02ca0148df1d77",
+          "source_format": "JPEG",
+          "source_width": 1465,
+          "source_height": 1323,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_001.png",
+          "preview_sha256": "81d16750b79c2d725e2ef1c23a196568b1d2ae78e531813bee7a164bb8bd2b8d",
+          "source_decoded_pixel_sha256": "072865ccc74ec7d617ff1cfc95b2764b6c26b1a6e00bb67986c7ba177b051023",
+          "preview_decoded_pixel_sha256": "072865ccc74ec7d617ff1cfc95b2764b6c26b1a6e00bb67986c7ba177b051023",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "asset_number": 2,
+          "question_group": [
+            14,
+            16
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_002.jpg",
+          "source_sha256": "f71f37f9c5173d94af3f74e12ad95bdcced4e13c2ecc43c5ede13d4741e1e912",
+          "source_format": "JPEG",
+          "source_width": 1984,
+          "source_height": 709,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_002.png",
+          "preview_sha256": "1ab6211469edf01ea2eef1f9ea73f0a7c6e4953befb33fab22e20b097eb877c0",
+          "source_decoded_pixel_sha256": "446c9aaf7e6c6de919479fa3cd6cb69b34eb8fd0669fc311988cfaca3379f26c",
+          "preview_decoded_pixel_sha256": "446c9aaf7e6c6de919479fa3cd6cb69b34eb8fd0669fc311988cfaca3379f26c",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "asset_number": 3,
+          "question_group": [
+            14,
+            16
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_003.jpg",
+          "source_sha256": "a9e3f59f10d8ba871e4e0668f904c7c2832c97e5c88ce0897b77e7f55ae7cdd0",
+          "source_format": "JPEG",
+          "source_width": 1984,
+          "source_height": 709,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_003.png",
+          "preview_sha256": "2ba8775bf1ef32d948b939259875877fa44d5b8a24f9d1f5334994f2df8882d3",
+          "source_decoded_pixel_sha256": "6d00071dda0375dc4a7d202e0c6d96108ea76fbd60928d36ca1b7215fc896d45",
+          "preview_decoded_pixel_sha256": "6d00071dda0375dc4a7d202e0c6d96108ea76fbd60928d36ca1b7215fc896d45",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "asset_number": 4,
+          "question_group": [
+            29,
+            32
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_004.jpg",
+          "source_sha256": "7c1bb5a88e1f24d748a3ad911683e417a371f86cb205a5be8eeb994ee6060add",
+          "source_format": "JPEG",
+          "source_width": 803,
+          "source_height": 945,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_004.png",
+          "preview_sha256": "c8ee2cdbbafd587b2d72ad3ea3d2abb0b12f387e613531f5ff210a5b392ce09f",
+          "source_decoded_pixel_sha256": "d5e95ed2cc6ebee51a833a897fac26cb6ff9972221f8c19575c73f27a57ab5ac",
+          "preview_decoded_pixel_sha256": "d5e95ed2cc6ebee51a833a897fac26cb6ff9972221f8c19575c73f27a57ab5ac",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2016,
+          "label": "2016",
+          "asset_number": 5,
+          "question_group": [
+            29,
+            32
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_005.jpg",
+          "source_sha256": "e221e99308259ffb9def5e5b9da0fe51ff99a351d31facb6e23a8fbd0a87dc3a",
+          "source_format": "JPEG",
+          "source_width": 2126,
+          "source_height": 425,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2016/image_005.png",
+          "preview_sha256": "d92840bb497f2a0b0bc68a983307c533574c408123bf22da24d893ba6f0dc8e5",
+          "source_decoded_pixel_sha256": "a85b0b14d2a316311411c45654e7163013cfaa18fec3af7848118514c4d2534a",
+          "preview_decoded_pixel_sha256": "a85b0b14d2a316311411c45654e7163013cfaa18fec3af7848118514c4d2534a",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "label": "2017",
+      "figure_count": 3,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2017/2017_contact_sheet.png",
+      "items": [
+        {
+          "year": 2017,
+          "label": "2017",
+          "asset_number": 1,
+          "question_group": [
+            18,
+            20
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_001.jpg",
+          "source_sha256": "71c2b571d86ddf803ff972dd8aed518b286c1231fc9597c5d2b2eeb88d1e1918",
+          "source_format": "JPEG",
+          "source_width": 1252,
+          "source_height": 874,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2017/image_001.png",
+          "preview_sha256": "6404008122dbe3b6d5aa1b409c85b65f04ad57242076f89ffca891d3b4ce3543",
+          "source_decoded_pixel_sha256": "7a53ee9be37a54e60b7aea61a106166544e31aea63554e6c0632378173b78212",
+          "preview_decoded_pixel_sha256": "7a53ee9be37a54e60b7aea61a106166544e31aea63554e6c0632378173b78212",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "asset_number": 2,
+          "question_group": [
+            18,
+            20
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_002.jpg",
+          "source_sha256": "6c1eae710eaaebadfe06eddaea44209b84abb7bb5e0890dc162edd07886d6d7c",
+          "source_format": "JPEG",
+          "source_width": 1252,
+          "source_height": 874,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2017/image_002.png",
+          "preview_sha256": "c91f2b065efed82e8de54514c160ca3e1a579bfdc33c05f6139c456d7518c045",
+          "source_decoded_pixel_sha256": "32778afe4f15c9510df593d66ee7f81ffcb92ec64cc3196b7d7f2086153bc0da",
+          "preview_decoded_pixel_sha256": "32778afe4f15c9510df593d66ee7f81ffcb92ec64cc3196b7d7f2086153bc0da",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2017,
+          "label": "2017",
+          "asset_number": 3,
+          "question_group": [
+            30,
+            32
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_003.jpg",
+          "source_sha256": "e13b154dbb851722db874e27ac3838a7cc192179ca8d9425d4fa2e2222f1e813",
+          "source_format": "JPEG",
+          "source_width": 1559,
+          "source_height": 1701,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2017/image_003.png",
+          "preview_sha256": "595d7d3aa620a2a0ef8a07166ee5952ef45653b44ce33f523e4be642a2bb1886",
+          "source_decoded_pixel_sha256": "cb548078f10df34e19c0127a5ed2b843171e42dbab586d39ddffedd68c349989",
+          "preview_decoded_pixel_sha256": "cb548078f10df34e19c0127a5ed2b843171e42dbab586d39ddffedd68c349989",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "label": "2018",
+      "figure_count": 2,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2018/2018_contact_sheet.png",
+      "items": [
+        {
+          "year": 2018,
+          "label": "2018",
+          "asset_number": 1,
+          "question_group": [
+            7,
+            9
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2018/2018_question_odd/image_001.jpg",
+          "source_sha256": "b54eb26b604771053d3dadda650f473436f4cb7dec10218666680416eff9dc79",
+          "source_format": "JPEG",
+          "source_width": 591,
+          "source_height": 235,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2018/image_001.png",
+          "preview_sha256": "b28159748994d3e776f5ddacc638930077c6fda6832d6d698765d8ef6361a6ff",
+          "source_decoded_pixel_sha256": "309e5dd914851e847181230bba611dcd11fb76377cb50496e3d9320533876be8",
+          "preview_decoded_pixel_sha256": "309e5dd914851e847181230bba611dcd11fb76377cb50496e3d9320533876be8",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2018,
+          "label": "2018",
+          "asset_number": 2,
+          "question_group": [
+            7,
+            9
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2018/2018_question_odd/image_002.jpg",
+          "source_sha256": "6a095328f54796c48f27087ae6bfebb1a5321bac450716bd663fcfd48602354b",
+          "source_format": "JPEG",
+          "source_width": 2480,
+          "source_height": 1110,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2018/image_002.png",
+          "preview_sha256": "b9f76e4cf7b81f5366898a9c7d37f1f3816b6ef948630cf6b2aa54a996bb1427",
+          "source_decoded_pixel_sha256": "8ddb5fe890495d7c604d61e1a6f9a6922ecca6a4cc955b3d99afbe487c694dec",
+          "preview_decoded_pixel_sha256": "8ddb5fe890495d7c604d61e1a6f9a6922ecca6a4cc955b3d99afbe487c694dec",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "label": "2019",
+      "figure_count": 3,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2019/2019_contact_sheet.png",
+      "items": [
+        {
+          "year": 2019,
+          "label": "2019",
+          "asset_number": 1,
+          "question_group": [
+            7,
+            9
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_001.jpg",
+          "source_sha256": "75f282fade50b7370a09552ebac9d0f67fdc47e28ff22c5736cbc1a9b943782a",
+          "source_format": "JPEG",
+          "source_width": 1181,
+          "source_height": 1181,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2019/image_001.png",
+          "preview_sha256": "39d60ad72cd371801995483c3e9d3155789be7419ce4f249665fcf35cc1d0c59",
+          "source_decoded_pixel_sha256": "18043974c23b3bf8cfa3d6a4416254837218681e25bc9b52ba2970a4ce629fbd",
+          "preview_decoded_pixel_sha256": "18043974c23b3bf8cfa3d6a4416254837218681e25bc9b52ba2970a4ce629fbd",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "asset_number": 2,
+          "question_group": [
+            7,
+            9
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_002.jpg",
+          "source_sha256": "c9226989b592bb739cc15fe59e8dfafb1bada8623d0aa48eacc0410ec90f3f47",
+          "source_format": "JPEG",
+          "source_width": 1181,
+          "source_height": 1181,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2019/image_002.png",
+          "preview_sha256": "ed7c580eaa1ee9b4ac2d6814aebf76126a1f607b9b0bc53633907755147eb78a",
+          "source_decoded_pixel_sha256": "85651523af9798f75f2a13d802b0f50059ca4e6092e3e1a4c452b0bcc02ca969",
+          "preview_decoded_pixel_sha256": "85651523af9798f75f2a13d802b0f50059ca4e6092e3e1a4c452b0bcc02ca969",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2019,
+          "label": "2019",
+          "asset_number": 3,
+          "question_group": [
+            22,
+            24
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_003.jpg",
+          "source_sha256": "0d397e3146ea013c066d518d8f16b83fea076fb2f5381a7b8e58084858e3d575",
+          "source_format": "JPEG",
+          "source_width": 2480,
+          "source_height": 1937,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2019/image_003.png",
+          "preview_sha256": "699c7904fac757e864fbf7a4991ec7bc0fef410a93eabc34e63967f4ea9bd694",
+          "source_decoded_pixel_sha256": "284c765971289cdf6e895322645ae557a741e268544656236ad4e000f555e6ff",
+          "preview_decoded_pixel_sha256": "284c765971289cdf6e895322645ae557a741e268544656236ad4e000f555e6ff",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "label": "2020",
+      "figure_count": 2,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2020/2020_contact_sheet.png",
+      "items": [
+        {
+          "year": 2020,
+          "label": "2020",
+          "asset_number": 1,
+          "question_group": [
+            25,
+            27
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2020/2020_question_odd/image_001.jpg",
+          "source_sha256": "ec8c5fa1622bde50f060a97c32f61eac97c087936b5a069cc7d751f3916d7252",
+          "source_format": "JPEG",
+          "source_width": 1984,
+          "source_height": 1157,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2020/image_001.png",
+          "preview_sha256": "d98273de27da21b4114bdad934b155f412e4173ecbc2d8093e0b1ac2235c2e48",
+          "source_decoded_pixel_sha256": "c3a77818dffc4611ecb20d083943eb954e65a95e26fca929be6c46f5f50ffe16",
+          "preview_decoded_pixel_sha256": "c3a77818dffc4611ecb20d083943eb954e65a95e26fca929be6c46f5f50ffe16",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        },
+        {
+          "year": 2020,
+          "label": "2020",
+          "asset_number": 2,
+          "question_group": [
+            25,
+            27
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2020/2020_question_odd/image_002.jpg",
+          "source_sha256": "d35e62293d7b869cd1ff7974a096cf033d9169df7af34701e8df7709bbd86775",
+          "source_format": "JPEG",
+          "source_width": 2480,
+          "source_height": 945,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2020/image_002.png",
+          "preview_sha256": "80b96a994aa079f3d467e0c9d2fc846d5d8dcbdb730f16fa5ce92f2005a2e0bb",
+          "source_decoded_pixel_sha256": "5105464b1ae924ad143bfdbe2a970b6680cdefd6fe9e243d39d671ce265427cc",
+          "preview_decoded_pixel_sha256": "5105464b1ae924ad143bfdbe2a970b6680cdefd6fe9e243d39d671ce265427cc",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "label": "2021",
+      "figure_count": 1,
+      "contact_sheet": "자료/LEET_언어이해/시각자료_작업본_HWP/2021/2021_contact_sheet.png",
+      "items": [
+        {
+          "year": 2021,
+          "label": "2021",
+          "asset_number": 1,
+          "question_group": [
+            22,
+            24
+          ],
+          "source_file": "자료/LEET_언어이해/이미지/2021/2021_question_odd/image_001.jpg",
+          "source_sha256": "c12ee4abd837d090a0e9d17fe0b12fb7ff9f71f37a9c593b7f2ff24712a47a5a",
+          "source_format": "JPEG",
+          "source_width": 2220,
+          "source_height": 1654,
+          "source_frame_count": 1,
+          "preview_file": "자료/LEET_언어이해/시각자료_작업본_HWP/2021/image_001.png",
+          "preview_sha256": "855b91523b616cbacf597ee33b573062cc16a95810d3a89af69d68ffae898d31",
+          "source_decoded_pixel_sha256": "529748fa1cd68e679f3ac8643c8d933e8a43d41f58c0d5f26da366b0e05db819",
+          "preview_decoded_pixel_sha256": "529748fa1cd68e679f3ac8643c8d933e8a43d41f58c0d5f26da366b0e05db819",
+          "pixel_match": true,
+          "conversion": "Pillow first-frame lossless PNG; source binary remains authoritative"
+        }
+      ]
+    }
+  ],
+  "errors": []
+}

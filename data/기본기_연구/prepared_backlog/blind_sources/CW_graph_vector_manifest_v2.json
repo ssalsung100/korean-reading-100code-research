@@ -1,0 +1,20 @@
+{
+  "blind_only": true,
+  "passage_group": "G019",
+  "case_id": "CW",
+  "supplement_role": "original_hwpx_vector_graph_recovery_v2",
+  "source_role": "anonymous_blind_source_supplement",
+  "source_container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+  "source_xml": "Contents/section0.xml",
+  "source_container_index": 1,
+  "transform_note": "HWPX renderingInfo의 transMatrix/scaMatrix/rotMatrix를 적용해 최종 도형 좌표를 재구성했다. ellipse는 scale 결과의 중심·반지름을 반영했고, line은 수평·수직 회전 및 방향 반전을 반영했다.",
+  "final_svg": "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_supplement_v2.svg",
+  "quality": {
+    "source_vector_verified": true,
+    "transform_matrices_applied": true,
+    "embedded_raster_used": false,
+    "graph_interpretation_added": false,
+    "answer_or_sdss_included": false,
+    "reasoning_included": false
+  }
+}

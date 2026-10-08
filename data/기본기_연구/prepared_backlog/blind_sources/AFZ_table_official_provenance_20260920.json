@@ -1,0 +1,22 @@
+{
+  "blind_only": true,
+  "passage_group": "G197",
+  "case_id": "AFZ",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "url": "https://suneung-files.hdh061224.workers.dev/kice-v3/2019_mock09_korean_q.pdf?name=2019%ED%95%99%EB%85%84%EB%8F%84+9%EB%AA%A8+%EA%B5%AD%EC%96%B4+%EB%AC%B8%EC%A0%9C%EC%A7%80.pdf",
+    "local_temp_path": "/tmp/2019_9월_모평_국어.pdf",
+    "sha256": "9d9daec4c9081c0aecfff7b0ca46ce044f8afbcf3ac28c22399118d378d24b80",
+    "page_number_one_based": 8,
+    "page_anchor": "question 23 <보기> CDS comparison table"
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AFZ_table_official_crop_20260920.png",
+    "source_raster": "official PDF page 8 rendered at 2.5x PyMuPDF",
+    "pixel_box_xyxy": [1060, 1870, 1990, 2700],
+    "sha256": "2d515c20db04a63adee68aad761a678bcfeb40b3795a214443397d2ff5bc1ef3",
+    "scope": "complete official table, all five rows, table bottom rule, and five choice labels; no answer disclosure"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_visual_table_restored_mechanically"
+}

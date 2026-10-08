@@ -1,0 +1,20 @@
+{
+  "blind_only": true,
+  "passage_group": "G127",
+  "case_id": "TK",
+  "source_role": "mechanical_canonical_source_supplement",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "xml_anchor": {"question_number_text": "009", "question_paragraph_index": 163, "choice_table_header_paragraph": 178, "choice_table_start_paragraph": 179, "choice_table_end_paragraph": 183, "canonical_note": "section0.xml paragraph indices counted over hp:p elements; rows are plain hp:p entries rather than a structural hp:tbl."},
+  "stem": "㉮, ㉯의 사례로 적절한 것만을 <보기>에서 있는 대로 찾아 바르게 짝지은 것은?",
+  "columns": ["㉮", "㉯"],
+  "choices": [
+    {"choice": "①", "a": "ㄱ, ㄷ", "b": "ㄹ"},
+    {"choice": "②", "a": "ㄱ, ㄹ", "b": "ㄴ"},
+    {"choice": "③", "a": "ㄴ, ㄷ", "b": "ㄱ"},
+    {"choice": "④", "a": "ㄷ", "b": "ㄴ, ㄹ"},
+    {"choice": "⑤", "a": "ㄹ", "b": "ㄱ, ㄴ"}
+  ],
+  "transcription_note": "문단 178의 ㉮·㉯ 헤더와 문단 179~183의 다섯 대응 행을 XML 순서대로 전사함.",
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"}
+}

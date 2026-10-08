@@ -1,0 +1,27 @@
+{
+  "blind_only": true,
+  "passage_group": "G129",
+  "case_id": "TX",
+  "source_role": "mechanical_canonical_source_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "source_sha256": "d5db41d1206c34c2176624c93481da71355e87a4545761009516015d2c4a3149",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 390,
+    "A_end_marker_paragraph_index": 393,
+    "question_paragraph_indices": [439, 440]
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_and_text": "[A]ICT 산업을 주도하는 국가에서 더 중요한 문제는 ICT 지식 재산 보호의 국제적 강화일 수 있다. 이론적으로 봤을 때 지식 재산의 보호가 약할수록 유용한 지식 창출의 유인이 저해되어 지식의 진보가 정체되고, 지식 재산의 보호가 강할수록 해당 지식에 대한 접근을 막아 소수의 사람만이 혜택을 보게 된다. 전자로 발생한 손해를 유인 비용, 후자로 발생한 손해를 접근 비용이라고 한다면, 지식 재산 보호의 최적 수준은 두 비용의 합이 최소가 될 때일 것이다. 각국은 그 수준에서 자국의 지식 재산 보호 수준을 설정한다. 특허 보호 정도와 국민 소득의 관계를 보여 주는 한 연구에서는 국민 소득이 일정 수준 이상인 상태에서는 국민 소득이 증가할수록 특허 보호 정도가 강해지는 경향이 있지만, 가장 낮은 소득 수준을 벗어난 국가들은 그들보다 소득 수준이 낮은 국가들보다 오히려 특허 보호가 약한 것으로 나타났다. 이는 지식 재산 보호의 최적 수준에 대해서도 국가별 입장이 다름을 시사한다.",
+    "end_marker_context": "paragraph 390의 마지막 문장 ‘이는 지식 재산 보호의 최적 수준에 대해서도 국가별 입장이 다름을 시사한다.’ 뒤에 빈 paragraph 391·392가 있고, paragraph 393에 단독 [A] 표지가 있다.",
+    "range_statement": "[A]는 paragraph 390 첫머리의 [A] 표지부터 paragraph 390 마지막 문장까지이며, paragraph 393의 단독 [A]는 문제에서 다시 참조하는 종료 표지이다."
+  },
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  },
+  "restoration_limit": "[A] 표지의 위치와 범위만 canonical XML에서 기계적으로 복원했다. 의미 해석·문항 풀이·정답 및 코드 판정은 수행하지 않는다."
+}

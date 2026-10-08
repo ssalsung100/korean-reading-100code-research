@@ -1,0 +1,23 @@
+{
+  "case_id": "HI",
+  "passage_group": "G046",
+  "provenance": {
+    "exam_family": "KICE",
+    "academic_year": 2012,
+    "exam_label": "수능",
+    "exam_type": "수능",
+    "question_number": 30,
+    "question_id": "KICE-2012-수능-Q29-30-S153~154-Q30",
+    "passage_id": "KICE-2012-수능-Q29-30-S153~154"
+  },
+  "source_hwpx": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+  "normalized_text_source": "고3 기출/hwpx_텍스트_연도별.md",
+  "normalized_text_lines": "778-786",
+  "supplement": "data/기본기_연구/prepared_backlog/blind_sources/HI_A_range_supplement.md",
+  "range_observation": {
+    "start": "과수원의 이윤을 극대화하는 생산량이 Qa라고 할 때, 생산량을 Qa보다 늘리면 과수원의 이윤은 줄어든다.",
+    "end": "하지만 과수원이 자발적으로 양봉업자의 이익까지 고려하여 생산량을 Qa보다 늘릴 이유는 없다."
+  },
+  "qualification": "로컬 교재 HWPX 및 정규화 MD에 근거한 범위 후보이며, 평가원 원배포 문제지의 세로 괄호 이미지는 직접 검증하지 않음.",
+  "scope": "[A] 괄호의 시작·끝 후보만 기계 기록. 원배포 괄호 직접 검증 전 완전 복원으로 확정하지 않음. 정답·해설·SDSS·코드 판정 없음."
+}

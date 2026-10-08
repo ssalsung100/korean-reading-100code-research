@@ -1,0 +1,41 @@
+{
+  "passage_group": "G032",
+  "source_role": "sealed_source_provenance",
+  "source_file": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+  "source_file_sha256": "1ec3cd474e996fdcea0e4497f6a2e8f45b7e62caee8a1bfc5588b8c9ae6ec42c",
+  "embedded_part": "Contents/section0.xml",
+  "embedded_part_sha256": "2c340d48be17034a8acc26a9786cd98bebe40c48118699d24a5fabcb0eb41c66",
+  "style_part": "Contents/header.xml",
+  "superscript_style_id": "41",
+  "style_confirmation": "Contents/header.xml charPr id=41 contains supscript element",
+  "extraction_method": "Python zipfile + ElementTree; exact HWPX bytes and embedded XML bytes hashed; direct hp:p/hp:run/hp:t order preserved; charPrIDRef=41 verified by Contents/header.xml charPr id=41 containing supscript; extracted only formula-bearing passage paragraphs and the adjacent inline figure; no answer, explanation, SDSS, or code judgment read.",
+  "source_paragraph_indexes": {
+    "0.67": 780,
+    "0.75": 786
+  },
+  "blind_files": [
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_math_supplement.md",
+    "data/기본기_연구/prepared_backlog/blind_sources/G032_math_runs.json"
+  ],
+  "embedded_figure": {
+    "binary_item_id": "image12",
+    "section_paragraph_index": 1178,
+    "embedded_path": "BinData/image12.bmp",
+    "sha256": "a75b624887d537d14938fe84f1320053153a775f861979db0bc2debd9c389396",
+    "dimensions_px": [
+      851,
+      1005
+    ],
+    "extraction": "verbatim zip member bytes; no resampling or annotation"
+  },
+  "source_paragraph_indexes_raw_xml": {
+    "0.67": 1176,
+    "0.75": 1182,
+    "figure": 1178
+  },
+  "text_bearing_paragraph_indexes": {
+    "0.67": 780,
+    "0.75": 786
+  },
+  "paragraph_index_note": "Raw XML indexes count every hp:p in section0.xml; text_bearing_paragraph_indexes count only paragraphs with at least one hp:t and were used when extracting blind run excerpts."
+}

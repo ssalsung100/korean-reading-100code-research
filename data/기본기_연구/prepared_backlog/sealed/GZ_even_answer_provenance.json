@@ -1,0 +1,21 @@
+{
+  "case_id": "GZ",
+  "passage_group": "G043",
+  "exam_family": "KICE",
+  "academic_year": 2011,
+  "exam_label": "수능",
+  "area": "언어영역",
+  "exam_form": "짝수형",
+  "question_number": 35,
+  "source_role": "official_answer_reproduction_via_third_party_attachment",
+  "source_url": "https://t1.daumcdn.net/cfile/tistory/1923D0344EF1D8F622",
+  "source_page": "https://blackedu.tistory.com/216",
+  "source_description": "블랙에듀 게시물의 ‘정답표_1교시_언어영역 - 짝수형.pdf’ 첨부. PDF 표제는 ‘2011학년도 대학수학능력시험 (최종 3차) - 언어 영역 정답표 (짝)수형’.",
+  "local_pdf": "data/기본기_연구/prepared_backlog/sealed/GZ_even_answer.pdf",
+  "local_render": "data/기본기_연구/prepared_backlog/sealed/GZ_even_answer_page_001.png",
+  "pdf_sha256": "9d7790e8234e9ef15f69d43c51e1a8ae0d56c3b22f3277d65d5f8fc83765d964",
+  "render_sha256": "dcff6279db579e52c15ce51db6fd6be4fd8af3f9f4751bb70601dfaa9e265d96",
+  "answer_table_observation": "짝수형 정답표의 문항 35 행은 정답 ①로 표시됨.",
+  "qualification": "한국교육과정평가원 출처로 게시된 제3자 첨부를 보존한 것. KICE 공식 원본 URL(webfs2.kice.re.kr)은 별도 provenance에 기록하며 본 파일은 제3자 경유본임.",
+  "scope": "정답표 형식·시험형·문항번호·35번 행의 기계 확인만 기록하며 해설·SDSS·코드 판정은 포함하지 않음."
+}

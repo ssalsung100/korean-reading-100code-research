@@ -1,0 +1,2312 @@
+{
+  "1": {
+    "case_count": 2,
+    "case_ids": [
+      "AG",
+      "AY"
+    ],
+    "code": 1,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G004",
+      "G007"
+    ],
+    "record_ids": [
+      "AG-independent_code-20260910-01",
+      "AY-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "10": {
+    "case_count": 22,
+    "case_ids": [
+      "AA",
+      "AP",
+      "AQ",
+      "AR",
+      "BG",
+      "BK",
+      "BN",
+      "BO",
+      "BS",
+      "CE",
+      "DF",
+      "DG",
+      "DQ",
+      "ED",
+      "EG",
+      "FK",
+      "FQ",
+      "GA",
+      "GD",
+      "GM",
+      "GP",
+      "Q"
+    ],
+    "code": 10,
+    "passage_group_count": 16,
+    "passage_groups": [
+      "G001",
+      "G006",
+      "G009",
+      "G010",
+      "G011",
+      "G012",
+      "G015",
+      "G021",
+      "G023",
+      "G027",
+      "G028",
+      "G034",
+      "G035",
+      "G037",
+      "G039",
+      "G041"
+    ],
+    "record_ids": [
+      "AA-independent_code-20260909-01",
+      "AP-independent_code-20260910-01",
+      "AQ-independent_code-20260910-01",
+      "AR-independent_code-20260910-01",
+      "BG-independent_code-20260910-01",
+      "BK-independent_code-20260910-01",
+      "BN-independent_code-20260910-01",
+      "BO-independent_code-20260910-01",
+      "BS-independent_code-20260910-01",
+      "CE-independent_code-20260910-01",
+      "DF-independent_code-20260912-01",
+      "DG-independent_code-20260912-01",
+      "DQ-independent_code-20260912-01",
+      "ED-independent_code-20260913-01",
+      "EG-independent_code-20260913-02",
+      "FK-independent_code-20260914-01",
+      "FQ-independent_code-20260914-01",
+      "GA-independent_code-20260914-02",
+      "GD-independent_code-20260914-02",
+      "GM-independent_code-20260915-01",
+      "GP-independent_code-20260915-01",
+      "Q-independent_code-20260908-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary",
+      "secondary"
+    ]
+  },
+  "100": {
+    "case_count": 3,
+    "case_ids": [
+      "AS",
+      "AW",
+      "BJ"
+    ],
+    "code": 100,
+    "passage_group_count": 3,
+    "passage_groups": [
+      "G006",
+      "G007",
+      "G010"
+    ],
+    "record_ids": [
+      "AS-independent_code-20260910-01",
+      "AW-independent_code-20260910-01",
+      "BJ-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "12": {
+    "case_count": 26,
+    "case_ids": [
+      "AH",
+      "AK",
+      "AM",
+      "AZ",
+      "BB",
+      "BC",
+      "BJ",
+      "BP",
+      "BW",
+      "CQ",
+      "CR",
+      "DF",
+      "DG",
+      "DP",
+      "EP",
+      "ES",
+      "EW",
+      "EZ",
+      "FB",
+      "FC",
+      "FE",
+      "FG",
+      "FM",
+      "GC",
+      "GD",
+      "GO"
+    ],
+    "code": 12,
+    "passage_group_count": 17,
+    "passage_groups": [
+      "G004",
+      "G005",
+      "G008",
+      "G010",
+      "G011",
+      "G013",
+      "G018",
+      "G021",
+      "G023",
+      "G029",
+      "G030",
+      "G031",
+      "G032",
+      "G033",
+      "G034",
+      "G037",
+      "G040"
+    ],
+    "record_ids": [
+      "AH-independent_code-20260910-01",
+      "AK-independent_code-20260910-01",
+      "AM-independent_code-20260910-01",
+      "AZ-independent_code-20260910-01",
+      "BB-independent_code-20260910-01",
+      "BC-independent_code-20260910-01",
+      "BJ-independent_code-20260910-01",
+      "BP-independent_code-20260910-01",
+      "BW-independent_code-20260910-01",
+      "CQ-independent_code-20260911-01",
+      "CR-independent_code-20260911-01",
+      "DF-independent_code-20260912-01",
+      "DG-independent_code-20260912-01",
+      "DP-independent_code-20260912-01",
+      "EP-independent_code-20260913-02",
+      "ES-independent_code-20260913-02",
+      "EW-independent_code-20260913-03",
+      "EZ-independent_code-20260913-03",
+      "FB-independent_code-20260913-03",
+      "FC-independent_code-20260913-03",
+      "FE-independent_code-20260913-03",
+      "FG-independent_code-20260914-01",
+      "FM-independent_code-20260914-01",
+      "GC-independent_code-20260914-02",
+      "GD-independent_code-20260914-02",
+      "GO-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "13": {
+    "case_count": 2,
+    "case_ids": [
+      "AG",
+      "BN"
+    ],
+    "code": 13,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G004",
+      "G011"
+    ],
+    "record_ids": [
+      "AG-independent_code-20260910-01",
+      "BN-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "14": {
+    "case_count": 5,
+    "case_ids": [
+      "AV",
+      "AX",
+      "BO",
+      "BU",
+      "DV"
+    ],
+    "code": 14,
+    "passage_group_count": 4,
+    "passage_groups": [
+      "G007",
+      "G011",
+      "G012",
+      "G025"
+    ],
+    "record_ids": [
+      "AV-independent_code-20260910-01",
+      "AX-independent_code-20260910-01",
+      "BO-independent_code-20260910-01",
+      "BU-independent_code-20260910-01",
+      "DV-independent_code-20260913-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "15": {
+    "case_count": 10,
+    "case_ids": [
+      "DJ",
+      "EF",
+      "ES",
+      "EU",
+      "FO",
+      "FX",
+      "GB",
+      "GI",
+      "Q",
+      "X"
+    ],
+    "code": 15,
+    "passage_group_count": 8,
+    "passage_groups": [
+      "G022",
+      "G027",
+      "G030",
+      "G031",
+      "G035",
+      "G036",
+      "G037",
+      "G038"
+    ],
+    "record_ids": [
+      "DJ-independent_code-20260912-01",
+      "EF-independent_code-20260913-01",
+      "ES-independent_code-20260913-02",
+      "EU-independent_code-20260913-03",
+      "FO-independent_code-20260914-01",
+      "FX-independent_code-20260914-02",
+      "GB-independent_code-20260914-02",
+      "GI-independent_code-20260914-02",
+      "Q-independent_code-20260908-01",
+      "X-independent_code-20260908-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary",
+      "secondary"
+    ]
+  },
+  "16": {
+    "case_count": 41,
+    "case_ids": [
+      "AA",
+      "AB",
+      "AC",
+      "AJ",
+      "AO",
+      "AR",
+      "AV",
+      "AY",
+      "AZ",
+      "BA",
+      "BB",
+      "BC",
+      "BD",
+      "BF",
+      "BI",
+      "BL",
+      "BN",
+      "BR",
+      "BS",
+      "BV",
+      "BY",
+      "CC",
+      "CK",
+      "CM",
+      "CN",
+      "CQ",
+      "CS",
+      "CT",
+      "DW",
+      "EQ",
+      "EU",
+      "EV",
+      "FB",
+      "FE",
+      "FG",
+      "FJ",
+      "FL",
+      "FM",
+      "GR",
+      "GS",
+      "GT"
+    ],
+    "code": 16,
+    "passage_group_count": 22,
+    "passage_groups": [
+      "G001",
+      "G002",
+      "G004",
+      "G006",
+      "G007",
+      "G008",
+      "G009",
+      "G010",
+      "G011",
+      "G012",
+      "G014",
+      "G015",
+      "G017",
+      "G018",
+      "G025",
+      "G030",
+      "G031",
+      "G032",
+      "G033",
+      "G034",
+      "G041",
+      "G042"
+    ],
+    "record_ids": [
+      "AA-independent_code-20260909-01",
+      "AB-independent_code-20260909-01",
+      "AC-independent_code-20260910-01",
+      "AJ-independent_code-20260910-01",
+      "AO-independent_code-20260910-01",
+      "AR-independent_code-20260910-01",
+      "AV-independent_code-20260910-01",
+      "AY-independent_code-20260910-01",
+      "AZ-independent_code-20260910-01",
+      "BA-independent_code-20260910-01",
+      "BB-independent_code-20260910-01",
+      "BC-independent_code-20260910-01",
+      "BD-independent_code-20260910-01",
+      "BF-independent_code-20260910-01",
+      "BI-independent_code-20260910-01",
+      "BL-independent_code-20260910-01",
+      "BN-independent_code-20260910-01",
+      "BR-independent_code-20260910-01",
+      "BS-independent_code-20260910-01",
+      "BV-independent_code-20260910-01",
+      "BY-independent_code-20260910-01",
+      "CC-independent_code-20260910-01",
+      "CK-independent_code-20260911-01",
+      "CM-independent_code-20260911-01",
+      "CN-independent_code-20260911-01",
+      "CQ-independent_code-20260911-01",
+      "CS-independent_code-20260911-01",
+      "CT-independent_code-20260911-01",
+      "DW-independent_code-20260913-01",
+      "EQ-independent_code-20260913-02",
+      "EU-independent_code-20260913-03",
+      "EV-independent_code-20260913-03",
+      "FB-independent_code-20260913-03",
+      "FE-independent_code-20260913-03",
+      "FG-independent_code-20260914-01",
+      "FJ-independent_code-20260914-01",
+      "FL-independent_code-20260914-01",
+      "FM-independent_code-20260914-01",
+      "GR-independent_code-20260915-01",
+      "GS-independent_code-20260915-01",
+      "GT-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "17": {
+    "case_count": 48,
+    "case_ids": [
+      "AM",
+      "AS",
+      "AZ",
+      "BF",
+      "CB",
+      "CC",
+      "CD",
+      "CM",
+      "CZ",
+      "DK",
+      "DN",
+      "DX",
+      "DZ",
+      "EA",
+      "EC",
+      "EI",
+      "EN",
+      "EO",
+      "EP",
+      "EQ",
+      "ES",
+      "ET",
+      "EV",
+      "EX",
+      "EY",
+      "FD",
+      "FG",
+      "FH",
+      "FI",
+      "FJ",
+      "FL",
+      "FN",
+      "FO",
+      "FP",
+      "FQ",
+      "FR",
+      "FT",
+      "FV",
+      "FW",
+      "GB",
+      "GC",
+      "GF",
+      "GH",
+      "GJ",
+      "GN",
+      "GP",
+      "GQ",
+      "GU"
+    ],
+    "code": 17,
+    "passage_group_count": 24,
+    "passage_groups": [
+      "G005",
+      "G006",
+      "G008",
+      "G009",
+      "G014",
+      "G015",
+      "G017",
+      "G020",
+      "G022",
+      "G025",
+      "G026",
+      "G028",
+      "G029",
+      "G030",
+      "G031",
+      "G033",
+      "G034",
+      "G035",
+      "G036",
+      "G037",
+      "G038",
+      "G040",
+      "G041",
+      "G042"
+    ],
+    "record_ids": [
+      "AM-independent_code-20260910-01",
+      "AS-independent_code-20260910-01",
+      "AZ-independent_code-20260910-01",
+      "BF-independent_code-20260910-01",
+      "CB-independent_code-20260910-01",
+      "CC-independent_code-20260910-01",
+      "CD-independent_code-20260910-01",
+      "CM-independent_code-20260911-01",
+      "CZ-independent_code-20260912-01",
+      "DK-independent_code-20260912-01",
+      "DN-independent_code-20260912-01",
+      "DX-independent_code-20260913-01",
+      "DZ-independent_code-20260913-01",
+      "EA-independent_code-20260913-01",
+      "EC-independent_code-20260913-01",
+      "EI-independent_code-20260913-02",
+      "EN-independent_code-20260913-02",
+      "EO-independent_code-20260913-02",
+      "EP-independent_code-20260913-02",
+      "EQ-independent_code-20260913-02",
+      "ES-independent_code-20260913-02",
+      "ET-independent_code-20260913-02",
+      "EV-independent_code-20260913-03",
+      "EX-independent_code-20260913-03",
+      "EY-independent_code-20260913-03",
+      "FD-independent_code-20260913-03",
+      "FG-independent_code-20260914-01",
+      "FH-independent_code-20260914-01",
+      "FI-independent_code-20260914-01",
+      "FJ-independent_code-20260914-01",
+      "FL-independent_code-20260914-01",
+      "FN-independent_code-20260914-01",
+      "FO-independent_code-20260914-01",
+      "FP-independent_code-20260914-01",
+      "FQ-independent_code-20260914-01",
+      "FR-independent_code-20260914-01",
+      "FT-independent_code-20260914-01",
+      "FV-independent_code-20260914-02",
+      "FW-independent_code-20260914-02",
+      "GB-independent_code-20260914-02",
+      "GC-independent_code-20260914-02",
+      "GF-independent_code-20260914-02",
+      "GH-independent_code-20260914-02",
+      "GJ-independent_code-20260914-02",
+      "GN-independent_code-20260915-01",
+      "GP-independent_code-20260915-01",
+      "GQ-independent_code-20260915-01",
+      "GU-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "19": {
+    "case_count": 2,
+    "case_ids": [
+      "AL",
+      "CD"
+    ],
+    "code": 19,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G005",
+      "G015"
+    ],
+    "record_ids": [
+      "AL-independent_code-20260910-01",
+      "CD-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "2": {
+    "case_count": 19,
+    "case_ids": [
+      "AI",
+      "AP",
+      "BK",
+      "BO",
+      "BP",
+      "BX",
+      "CG",
+      "CI",
+      "CO",
+      "DF",
+      "DG",
+      "DJ",
+      "DO",
+      "DP",
+      "DV",
+      "DX",
+      "ED",
+      "EE",
+      "GO"
+    ],
+    "code": 2,
+    "passage_group_count": 13,
+    "passage_groups": [
+      "G004",
+      "G006",
+      "G010",
+      "G011",
+      "G013",
+      "G016",
+      "G017",
+      "G021",
+      "G022",
+      "G023",
+      "G025",
+      "G027",
+      "G040"
+    ],
+    "record_ids": [
+      "AI-independent_code-20260910-01",
+      "AP-independent_code-20260910-01",
+      "BK-independent_code-20260910-01",
+      "BO-independent_code-20260910-01",
+      "BP-independent_code-20260910-01",
+      "BX-independent_code-20260910-01",
+      "CG-independent_code-20260911-01",
+      "CI-independent_code-20260911-01",
+      "CO-independent_code-20260911-01",
+      "DF-independent_code-20260912-01",
+      "DG-independent_code-20260912-01",
+      "DJ-independent_code-20260912-01",
+      "DO-independent_code-20260912-01",
+      "DP-independent_code-20260912-01",
+      "DV-independent_code-20260913-01",
+      "DX-independent_code-20260913-01",
+      "ED-independent_code-20260913-01",
+      "EE-independent_code-20260913-01",
+      "GO-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "22": {
+    "case_count": 2,
+    "case_ids": [
+      "GF",
+      "GM"
+    ],
+    "code": 22,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G038",
+      "G039"
+    ],
+    "record_ids": [
+      "GF-independent_code-20260914-02",
+      "GM-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "23": {
+    "case_count": 4,
+    "case_ids": [
+      "AU",
+      "BC",
+      "FD",
+      "GS"
+    ],
+    "code": 23,
+    "passage_group_count": 4,
+    "passage_groups": [
+      "G007",
+      "G008",
+      "G033",
+      "G041"
+    ],
+    "record_ids": [
+      "AU-independent_code-20260910-01",
+      "BC-independent_code-20260910-01",
+      "FD-independent_code-20260913-03",
+      "GS-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "24": {
+    "case_count": 6,
+    "case_ids": [
+      "AA",
+      "AB",
+      "CR",
+      "CT",
+      "GC",
+      "GD"
+    ],
+    "code": 24,
+    "passage_group_count": 3,
+    "passage_groups": [
+      "G001",
+      "G018",
+      "G037"
+    ],
+    "record_ids": [
+      "AA-independent_code-20260909-01",
+      "AB-independent_code-20260909-01",
+      "CR-independent_code-20260911-01",
+      "CT-independent_code-20260911-01",
+      "GC-independent_code-20260914-02",
+      "GD-independent_code-20260914-02"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "25": {
+    "case_count": 2,
+    "case_ids": [
+      "DG",
+      "GI"
+    ],
+    "code": 25,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G021",
+      "G038"
+    ],
+    "record_ids": [
+      "DG-independent_code-20260912-01",
+      "GI-independent_code-20260914-02"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "3": {
+    "case_count": 27,
+    "case_ids": [
+      "AB",
+      "AK",
+      "BA",
+      "BE",
+      "BG",
+      "BW",
+      "BY",
+      "BZ",
+      "CE",
+      "CI",
+      "CK",
+      "CQ",
+      "CS",
+      "CT",
+      "DF",
+      "DI",
+      "DL",
+      "DQ",
+      "DX",
+      "DZ",
+      "EE",
+      "EG",
+      "EH",
+      "FK",
+      "FP",
+      "GL",
+      "GO"
+    ],
+    "code": 3,
+    "passage_group_count": 21,
+    "passage_groups": [
+      "G001",
+      "G005",
+      "G008",
+      "G009",
+      "G013",
+      "G014",
+      "G015",
+      "G016",
+      "G017",
+      "G018",
+      "G021",
+      "G022",
+      "G023",
+      "G025",
+      "G026",
+      "G027",
+      "G028",
+      "G034",
+      "G035",
+      "G039",
+      "G040"
+    ],
+    "record_ids": [
+      "AB-independent_code-20260909-01",
+      "AK-independent_code-20260910-01",
+      "BA-independent_code-20260910-01",
+      "BE-independent_code-20260910-01",
+      "BG-independent_code-20260910-01",
+      "BW-independent_code-20260910-01",
+      "BY-independent_code-20260910-01",
+      "BZ-independent_code-20260910-01",
+      "CE-independent_code-20260910-01",
+      "CI-independent_code-20260911-01",
+      "CK-independent_code-20260911-01",
+      "CQ-independent_code-20260911-01",
+      "CS-independent_code-20260911-01",
+      "CT-independent_code-20260911-01",
+      "DF-independent_code-20260912-01",
+      "DI-independent_code-20260912-01",
+      "DL-independent_code-20260912-01",
+      "DQ-independent_code-20260912-01",
+      "DX-independent_code-20260913-01",
+      "DZ-independent_code-20260913-01",
+      "EE-independent_code-20260913-01",
+      "EG-independent_code-20260913-02",
+      "EH-independent_code-20260913-02",
+      "FK-independent_code-20260914-01",
+      "FP-independent_code-20260914-01",
+      "GL-independent_code-20260915-01",
+      "GO-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "36": {
+    "case_count": 5,
+    "case_ids": [
+      "DP",
+      "DV",
+      "FI",
+      "FS",
+      "GA"
+    ],
+    "code": 36,
+    "passage_group_count": 5,
+    "passage_groups": [
+      "G023",
+      "G025",
+      "G034",
+      "G035",
+      "G037"
+    ],
+    "record_ids": [
+      "DP-independent_code-20260912-01",
+      "DV-independent_code-20260913-01",
+      "FI-independent_code-20260914-01",
+      "FS-independent_code-20260914-01",
+      "GA-independent_code-20260914-02"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "37": {
+    "case_count": 5,
+    "case_ids": [
+      "AR",
+      "BS",
+      "CO",
+      "DA",
+      "DQ"
+    ],
+    "code": 37,
+    "passage_group_count": 5,
+    "passage_groups": [
+      "G006",
+      "G012",
+      "G017",
+      "G020",
+      "G023"
+    ],
+    "record_ids": [
+      "AR-independent_code-20260910-01",
+      "BS-independent_code-20260910-01",
+      "CO-independent_code-20260911-01",
+      "DA-independent_code-20260912-01",
+      "DQ-independent_code-20260912-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "39": {
+    "case_count": 21,
+    "case_ids": [
+      "AM",
+      "AO",
+      "AP",
+      "AT",
+      "BA",
+      "BB",
+      "BH",
+      "BQ",
+      "CE",
+      "CK",
+      "CY",
+      "DC",
+      "DW",
+      "EI",
+      "EK",
+      "EX",
+      "FB",
+      "FS",
+      "FU",
+      "GN",
+      "GO"
+    ],
+    "code": 39,
+    "passage_group_count": 16,
+    "passage_groups": [
+      "G005",
+      "G006",
+      "G007",
+      "G008",
+      "G009",
+      "G012",
+      "G015",
+      "G017",
+      "G020",
+      "G025",
+      "G028",
+      "G031",
+      "G032",
+      "G035",
+      "G036",
+      "G040"
+    ],
+    "record_ids": [
+      "AM-independent_code-20260910-01",
+      "AO-independent_code-20260910-01",
+      "AP-independent_code-20260910-01",
+      "AT-independent_code-20260910-01",
+      "BA-independent_code-20260910-01",
+      "BB-independent_code-20260910-01",
+      "BH-independent_code-20260910-01",
+      "BQ-independent_code-20260910-01",
+      "CE-independent_code-20260910-01",
+      "CK-independent_code-20260911-01",
+      "CY-independent_code-20260912-01",
+      "DC-independent_code-20260912-01",
+      "DW-independent_code-20260913-01",
+      "EI-independent_code-20260913-02",
+      "EK-independent_code-20260913-02",
+      "EX-independent_code-20260913-03",
+      "FB-independent_code-20260913-03",
+      "FS-independent_code-20260914-01",
+      "FU-independent_code-20260914-02",
+      "GN-independent_code-20260915-01",
+      "GO-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "4": {
+    "case_count": 8,
+    "case_ids": [
+      "AH",
+      "BF",
+      "BH",
+      "DE",
+      "DO",
+      "FE",
+      "FM",
+      "FR"
+    ],
+    "code": 4,
+    "passage_group_count": 7,
+    "passage_groups": [
+      "G004",
+      "G009",
+      "G021",
+      "G023",
+      "G033",
+      "G034",
+      "G035"
+    ],
+    "record_ids": [
+      "AH-independent_code-20260910-01",
+      "BF-independent_code-20260910-01",
+      "BH-independent_code-20260910-01",
+      "DE-independent_code-20260912-01",
+      "DO-independent_code-20260912-01",
+      "FE-independent_code-20260913-03",
+      "FM-independent_code-20260914-01",
+      "FR-independent_code-20260914-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "40": {
+    "case_count": 9,
+    "case_ids": [
+      "AX",
+      "BF",
+      "BI",
+      "CC",
+      "CQ",
+      "EA",
+      "ER",
+      "GP",
+      "GR"
+    ],
+    "code": 40,
+    "passage_group_count": 8,
+    "passage_groups": [
+      "G007",
+      "G009",
+      "G010",
+      "G015",
+      "G018",
+      "G026",
+      "G030",
+      "G041"
+    ],
+    "record_ids": [
+      "AX-independent_code-20260910-01",
+      "BF-independent_code-20260910-01",
+      "BI-independent_code-20260910-01",
+      "CC-independent_code-20260910-01",
+      "CQ-independent_code-20260911-01",
+      "EA-independent_code-20260913-01",
+      "ER-independent_code-20260913-02",
+      "GP-independent_code-20260915-01",
+      "GR-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "42": {
+    "case_count": 1,
+    "case_ids": [
+      "FJ"
+    ],
+    "code": 42,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G034"
+    ],
+    "record_ids": [
+      "FJ-independent_code-20260914-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "43": {
+    "case_count": 6,
+    "case_ids": [
+      "AD",
+      "AQ",
+      "BG",
+      "CG",
+      "CH",
+      "CI"
+    ],
+    "code": 43,
+    "passage_group_count": 4,
+    "passage_groups": [
+      "G002",
+      "G006",
+      "G009",
+      "G016"
+    ],
+    "record_ids": [
+      "AD-independent_code-20260910-01",
+      "AQ-independent_code-20260910-01",
+      "BG-independent_code-20260910-01",
+      "CG-independent_code-20260911-01",
+      "CH-independent_code-20260911-01",
+      "CI-independent_code-20260911-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "44": {
+    "case_count": 17,
+    "case_ids": [
+      "AE",
+      "AL",
+      "AO",
+      "BJ",
+      "CS",
+      "CV",
+      "DA",
+      "DK",
+      "DM",
+      "DW",
+      "EB",
+      "EE",
+      "EF",
+      "EK",
+      "FU",
+      "FW",
+      "GS"
+    ],
+    "code": 44,
+    "passage_group_count": 14,
+    "passage_groups": [
+      "G003",
+      "G005",
+      "G006",
+      "G010",
+      "G018",
+      "G019",
+      "G020",
+      "G022",
+      "G025",
+      "G026",
+      "G027",
+      "G028",
+      "G036",
+      "G041"
+    ],
+    "record_ids": [
+      "AE-independent_code-20260910-01",
+      "AL-independent_code-20260910-01",
+      "AO-independent_code-20260910-01",
+      "BJ-independent_code-20260910-01",
+      "CS-independent_code-20260911-01",
+      "CV-independent_code-20260912-01",
+      "DA-independent_code-20260912-01",
+      "DK-independent_code-20260912-01",
+      "DM-independent_code-20260912-01",
+      "DW-independent_code-20260913-01",
+      "EB-independent_code-20260913-01",
+      "EE-independent_code-20260913-01",
+      "EF-independent_code-20260913-01",
+      "EK-independent_code-20260913-02",
+      "FU-independent_code-20260914-02",
+      "FW-independent_code-20260914-02",
+      "GS-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "45": {
+    "case_count": 21,
+    "case_ids": [
+      "AC",
+      "AD",
+      "AE",
+      "AI",
+      "BE",
+      "BG",
+      "BH",
+      "BX",
+      "BZ",
+      "CA",
+      "CU",
+      "CV",
+      "CW",
+      "EA",
+      "EB",
+      "EN",
+      "EO",
+      "EP",
+      "FB",
+      "GU",
+      "GV"
+    ],
+    "code": 45,
+    "passage_group_count": 11,
+    "passage_groups": [
+      "G002",
+      "G003",
+      "G004",
+      "G009",
+      "G013",
+      "G014",
+      "G019",
+      "G026",
+      "G029",
+      "G032",
+      "G042"
+    ],
+    "record_ids": [
+      "AC-independent_code-20260910-01",
+      "AD-independent_code-20260910-01",
+      "AE-independent_code-20260910-01",
+      "AI-independent_code-20260910-01",
+      "BE-independent_code-20260910-01",
+      "BG-independent_code-20260910-01",
+      "BH-independent_code-20260910-01",
+      "BX-independent_code-20260910-01",
+      "BZ-independent_code-20260910-01",
+      "CA-independent_code-20260910-01",
+      "CU-independent_code-20260912-01",
+      "CV-independent_code-20260912-01",
+      "CW-independent_code-20260912-01",
+      "EA-independent_code-20260913-01",
+      "EB-independent_code-20260913-01",
+      "EN-independent_code-20260913-02",
+      "EO-independent_code-20260913-02",
+      "EP-independent_code-20260913-02",
+      "FB-independent_code-20260913-03",
+      "GU-independent_code-20260915-01",
+      "GV-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "46": {
+    "case_count": 14,
+    "case_ids": [
+      "AW",
+      "BE",
+      "BY",
+      "BZ",
+      "CF",
+      "CG",
+      "CH",
+      "CL",
+      "DP",
+      "FF",
+      "GL",
+      "GM",
+      "GN",
+      "GT"
+    ],
+    "code": 46,
+    "passage_group_count": 11,
+    "passage_groups": [
+      "G007",
+      "G009",
+      "G014",
+      "G015",
+      "G016",
+      "G017",
+      "G023",
+      "G033",
+      "G039",
+      "G040",
+      "G042"
+    ],
+    "record_ids": [
+      "AW-independent_code-20260910-01",
+      "BE-independent_code-20260910-01",
+      "BY-independent_code-20260910-01",
+      "BZ-independent_code-20260910-01",
+      "CF-independent_code-20260910-01",
+      "CG-independent_code-20260911-01",
+      "CH-independent_code-20260911-01",
+      "CL-independent_code-20260911-01",
+      "DP-independent_code-20260912-01",
+      "FF-independent_code-20260914-01",
+      "GL-independent_code-20260915-01",
+      "GM-independent_code-20260915-01",
+      "GN-independent_code-20260915-01",
+      "GT-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "49": {
+    "case_count": 7,
+    "case_ids": [
+      "CA",
+      "CL",
+      "CU",
+      "CV",
+      "EB",
+      "GU",
+      "GV"
+    ],
+    "code": 49,
+    "passage_group_count": 5,
+    "passage_groups": [
+      "G014",
+      "G017",
+      "G019",
+      "G026",
+      "G042"
+    ],
+    "record_ids": [
+      "CA-independent_code-20260910-01",
+      "CL-independent_code-20260911-01",
+      "CU-independent_code-20260912-01",
+      "CV-independent_code-20260912-01",
+      "EB-independent_code-20260913-01",
+      "GU-independent_code-20260915-01",
+      "GV-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "5": {
+    "case_count": 21,
+    "case_ids": [
+      "AB",
+      "AF",
+      "AH",
+      "AN",
+      "AP",
+      "BH",
+      "BT",
+      "BZ",
+      "CD",
+      "DC",
+      "DJ",
+      "DL",
+      "DO",
+      "DQ",
+      "DZ",
+      "EH",
+      "FO",
+      "GF",
+      "GG",
+      "GH",
+      "GM"
+    ],
+    "code": 5,
+    "passage_group_count": 15,
+    "passage_groups": [
+      "G001",
+      "G004",
+      "G006",
+      "G009",
+      "G012",
+      "G014",
+      "G015",
+      "G020",
+      "G022",
+      "G023",
+      "G026",
+      "G028",
+      "G035",
+      "G038",
+      "G039"
+    ],
+    "record_ids": [
+      "AB-independent_code-20260909-01",
+      "AF-independent_code-20260910-01",
+      "AH-independent_code-20260910-01",
+      "AN-independent_code-20260910-01",
+      "AP-independent_code-20260910-01",
+      "BH-independent_code-20260910-01",
+      "BT-independent_code-20260910-01",
+      "BZ-independent_code-20260910-01",
+      "CD-independent_code-20260910-01",
+      "DC-independent_code-20260912-01",
+      "DJ-independent_code-20260912-01",
+      "DL-independent_code-20260912-01",
+      "DO-independent_code-20260912-01",
+      "DQ-independent_code-20260912-01",
+      "DZ-independent_code-20260913-01",
+      "EH-independent_code-20260913-02",
+      "FO-independent_code-20260914-01",
+      "GF-independent_code-20260914-02",
+      "GG-independent_code-20260914-02",
+      "GH-independent_code-20260914-02",
+      "GM-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "50": {
+    "case_count": 2,
+    "case_ids": [
+      "CF",
+      "GL"
+    ],
+    "code": 50,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G015",
+      "G039"
+    ],
+    "record_ids": [
+      "CF-independent_code-20260910-01",
+      "GL-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "52": {
+    "case_count": 1,
+    "case_ids": [
+      "CF"
+    ],
+    "code": 52,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G015"
+    ],
+    "record_ids": [
+      "CF-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "56": {
+    "case_count": 5,
+    "case_ids": [
+      "AN",
+      "AT",
+      "FF",
+      "FG",
+      "FL"
+    ],
+    "code": 56,
+    "passage_group_count": 4,
+    "passage_groups": [
+      "G006",
+      "G007",
+      "G033",
+      "G034"
+    ],
+    "record_ids": [
+      "AN-independent_code-20260910-01",
+      "AT-independent_code-20260910-01",
+      "FF-independent_code-20260914-01",
+      "FG-independent_code-20260914-01",
+      "FL-independent_code-20260914-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "59": {
+    "case_count": 3,
+    "case_ids": [
+      "AE",
+      "AL",
+      "BY"
+    ],
+    "code": 59,
+    "passage_group_count": 3,
+    "passage_groups": [
+      "G003",
+      "G005",
+      "G014"
+    ],
+    "record_ids": [
+      "AE-independent_code-20260910-01",
+      "AL-independent_code-20260910-01",
+      "BY-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "60": {
+    "case_count": 10,
+    "case_ids": [
+      "AA",
+      "AF",
+      "BK",
+      "BM",
+      "BU",
+      "DB",
+      "EW",
+      "GK",
+      "GQ",
+      "W"
+    ],
+    "code": 60,
+    "passage_group_count": 9,
+    "passage_groups": [
+      "G001",
+      "G004",
+      "G010",
+      "G011",
+      "G012",
+      "G020",
+      "G031",
+      "G039",
+      "G041"
+    ],
+    "record_ids": [
+      "AA-independent_code-20260909-01",
+      "AF-independent_code-20260910-01",
+      "BK-independent_code-20260910-01",
+      "BM-independent_code-20260910-01",
+      "BU-independent_code-20260910-01",
+      "DB-independent_code-20260912-01",
+      "EW-independent_code-20260913-03",
+      "GK-independent_code-20260915-01",
+      "GQ-independent_code-20260915-01",
+      "W-independent_code-20260908-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary",
+      "secondary"
+    ]
+  },
+  "62": {
+    "case_count": 14,
+    "case_ids": [
+      "AE",
+      "AI",
+      "AX",
+      "BJ",
+      "BO",
+      "BP",
+      "CN",
+      "DB",
+      "DC",
+      "DM",
+      "FS",
+      "P",
+      "Q",
+      "W"
+    ],
+    "code": 62,
+    "passage_group_count": 9,
+    "passage_groups": [
+      "G003",
+      "G004",
+      "G007",
+      "G010",
+      "G011",
+      "G017",
+      "G020",
+      "G022",
+      "G035"
+    ],
+    "record_ids": [
+      "AE-independent_code-20260910-01",
+      "AI-independent_code-20260910-01",
+      "AX-independent_code-20260910-01",
+      "BJ-independent_code-20260910-01",
+      "BO-independent_code-20260910-01",
+      "BP-independent_code-20260910-01",
+      "CN-independent_code-20260911-01",
+      "DB-independent_code-20260912-01",
+      "DC-independent_code-20260912-01",
+      "DM-independent_code-20260912-01",
+      "FS-independent_code-20260914-01",
+      "P-independent_code-20260908-01",
+      "Q-independent_code-20260908-01",
+      "W-independent_code-20260908-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary",
+      "secondary"
+    ]
+  },
+  "63": {
+    "case_count": 12,
+    "case_ids": [
+      "AI",
+      "AX",
+      "CI",
+      "CK",
+      "CN",
+      "DB",
+      "DM",
+      "GK",
+      "V",
+      "W",
+      "Y",
+      "Z"
+    ],
+    "code": 63,
+    "passage_group_count": 7,
+    "passage_groups": [
+      "G004",
+      "G007",
+      "G016",
+      "G017",
+      "G020",
+      "G022",
+      "G039"
+    ],
+    "record_ids": [
+      "AI-independent_code-20260910-01",
+      "AX-independent_code-20260910-01",
+      "CI-independent_code-20260911-01",
+      "CK-independent_code-20260911-01",
+      "CN-independent_code-20260911-01",
+      "DB-independent_code-20260912-01",
+      "DM-independent_code-20260912-01",
+      "GK-independent_code-20260915-01",
+      "V-independent_code-20260908-01",
+      "W-independent_code-20260908-01",
+      "Y-independent_code-20260908-01",
+      "Z-independent_code-20260908-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary",
+      "secondary"
+    ]
+  },
+  "64": {
+    "case_count": 10,
+    "case_ids": [
+      "AF",
+      "AH",
+      "AN",
+      "BW",
+      "CY",
+      "EF",
+      "EM",
+      "FD",
+      "FZ",
+      "GG"
+    ],
+    "code": 64,
+    "passage_group_count": 9,
+    "passage_groups": [
+      "G004",
+      "G006",
+      "G013",
+      "G020",
+      "G027",
+      "G029",
+      "G033",
+      "G037",
+      "G038"
+    ],
+    "record_ids": [
+      "AF-independent_code-20260910-01",
+      "AH-independent_code-20260910-01",
+      "AN-independent_code-20260910-01",
+      "BW-independent_code-20260910-01",
+      "CY-independent_code-20260912-01",
+      "EF-independent_code-20260913-01",
+      "EM-independent_code-20260913-02",
+      "FD-independent_code-20260913-03",
+      "FZ-independent_code-20260914-02",
+      "GG-independent_code-20260914-02"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "65": {
+    "case_count": 1,
+    "case_ids": [
+      "V"
+    ],
+    "code": 65,
+    "passage_group_count": 0,
+    "passage_groups": [],
+    "record_ids": [
+      "V-independent_code-20260908-01"
+    ],
+    "roles": [
+      "primary"
+    ]
+  },
+  "69": {
+    "case_count": 1,
+    "case_ids": [
+      "GP"
+    ],
+    "code": 69,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G041"
+    ],
+    "record_ids": [
+      "GP-independent_code-20260915-01"
+    ],
+    "roles": [
+      "primary"
+    ]
+  },
+  "7": {
+    "case_count": 10,
+    "case_ids": [
+      "AV",
+      "BC",
+      "EU",
+      "FV",
+      "FW",
+      "FY",
+      "FZ",
+      "GE",
+      "GQ",
+      "GT"
+    ],
+    "code": 7,
+    "passage_group_count": 7,
+    "passage_groups": [
+      "G007",
+      "G008",
+      "G031",
+      "G036",
+      "G037",
+      "G041",
+      "G042"
+    ],
+    "record_ids": [
+      "AV-independent_code-20260910-01",
+      "BC-independent_code-20260910-01",
+      "EU-independent_code-20260913-03",
+      "FV-independent_code-20260914-02",
+      "FW-independent_code-20260914-02",
+      "FY-independent_code-20260914-02",
+      "FZ-independent_code-20260914-02",
+      "GE-independent_code-20260914-02",
+      "GQ-independent_code-20260915-01",
+      "GT-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "72": {
+    "case_count": 1,
+    "case_ids": [
+      "BM"
+    ],
+    "code": 72,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G011"
+    ],
+    "record_ids": [
+      "BM-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "73": {
+    "case_count": 4,
+    "case_ids": [
+      "DL",
+      "FK",
+      "Y",
+      "Z"
+    ],
+    "code": 73,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G022",
+      "G034"
+    ],
+    "record_ids": [
+      "DL-independent_code-20260912-01",
+      "FK-independent_code-20260914-01",
+      "Y-independent_code-20260908-01",
+      "Z-independent_code-20260908-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "secondary"
+    ]
+  },
+  "74": {
+    "case_count": 1,
+    "case_ids": [
+      "GK"
+    ],
+    "code": 74,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G039"
+    ],
+    "record_ids": [
+      "GK-independent_code-20260915-01"
+    ],
+    "roles": [
+      "primary"
+    ]
+  },
+  "75": {
+    "case_count": 32,
+    "case_ids": [
+      "AG",
+      "AT",
+      "AU",
+      "BK",
+      "BM",
+      "BP",
+      "BQ",
+      "BT",
+      "BU",
+      "CN",
+      "CO",
+      "DB",
+      "DK",
+      "DL",
+      "DM",
+      "EJ",
+      "EK",
+      "ER",
+      "EW",
+      "EX",
+      "FI",
+      "FK",
+      "FM",
+      "FP",
+      "FQ",
+      "FR",
+      "FX",
+      "P",
+      "Q",
+      "X",
+      "Y",
+      "Z"
+    ],
+    "code": 75,
+    "passage_group_count": 14,
+    "passage_groups": [
+      "G004",
+      "G007",
+      "G010",
+      "G011",
+      "G012",
+      "G017",
+      "G020",
+      "G022",
+      "G028",
+      "G030",
+      "G031",
+      "G034",
+      "G035",
+      "G036"
+    ],
+    "record_ids": [
+      "AG-independent_code-20260910-01",
+      "AT-independent_code-20260910-01",
+      "AU-independent_code-20260910-01",
+      "BK-independent_code-20260910-01",
+      "BM-independent_code-20260910-01",
+      "BP-independent_code-20260910-01",
+      "BQ-independent_code-20260910-01",
+      "BT-independent_code-20260910-01",
+      "BU-independent_code-20260910-01",
+      "CN-independent_code-20260911-01",
+      "CO-independent_code-20260911-01",
+      "DB-independent_code-20260912-01",
+      "DK-independent_code-20260912-01",
+      "DL-independent_code-20260912-01",
+      "DM-independent_code-20260912-01",
+      "EJ-independent_code-20260913-02",
+      "EK-independent_code-20260913-02",
+      "ER-independent_code-20260913-02",
+      "EW-independent_code-20260913-03",
+      "EX-independent_code-20260913-03",
+      "FI-independent_code-20260914-01",
+      "FK-independent_code-20260914-01",
+      "FM-independent_code-20260914-01",
+      "FP-independent_code-20260914-01",
+      "FQ-independent_code-20260914-01",
+      "FR-independent_code-20260914-01",
+      "FX-independent_code-20260914-02",
+      "P-independent_code-20260908-01",
+      "Q-independent_code-20260908-01",
+      "X-independent_code-20260908-01",
+      "Y-independent_code-20260908-01",
+      "Z-independent_code-20260908-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary",
+      "secondary"
+    ]
+  },
+  "78": {
+    "case_count": 1,
+    "case_ids": [
+      "GH"
+    ],
+    "code": 78,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G038"
+    ],
+    "record_ids": [
+      "GH-independent_code-20260914-02"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "80": {
+    "case_count": 8,
+    "case_ids": [
+      "AU",
+      "BR",
+      "BS",
+      "CM",
+      "ED",
+      "EJ",
+      "EV",
+      "FF"
+    ],
+    "code": 80,
+    "passage_group_count": 7,
+    "passage_groups": [
+      "G007",
+      "G012",
+      "G017",
+      "G027",
+      "G028",
+      "G031",
+      "G033"
+    ],
+    "record_ids": [
+      "AU-independent_code-20260910-01",
+      "BR-independent_code-20260910-01",
+      "BS-independent_code-20260910-01",
+      "CM-independent_code-20260911-01",
+      "ED-independent_code-20260913-01",
+      "EJ-independent_code-20260913-02",
+      "EV-independent_code-20260913-03",
+      "FF-independent_code-20260914-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "82": {
+    "case_count": 3,
+    "case_ids": [
+      "BQ",
+      "BT",
+      "BU"
+    ],
+    "code": 82,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G012"
+    ],
+    "record_ids": [
+      "BQ-independent_code-20260910-01",
+      "BT-independent_code-20260910-01",
+      "BU-independent_code-20260910-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "83": {
+    "case_count": 2,
+    "case_ids": [
+      "FH",
+      "FX"
+    ],
+    "code": 83,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G033",
+      "G036"
+    ],
+    "record_ids": [
+      "FH-independent_code-20260914-01",
+      "FX-independent_code-20260914-02"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "84": {
+    "case_count": 7,
+    "case_ids": [
+      "AQ",
+      "BX",
+      "CA",
+      "CR",
+      "CT",
+      "CW",
+      "FA"
+    ],
+    "code": 84,
+    "passage_group_count": 6,
+    "passage_groups": [
+      "G006",
+      "G013",
+      "G014",
+      "G018",
+      "G019",
+      "G032"
+    ],
+    "record_ids": [
+      "AQ-independent_code-20260910-01",
+      "BX-independent_code-20260910-01",
+      "CA-independent_code-20260910-01",
+      "CR-independent_code-20260911-01",
+      "CT-independent_code-20260911-01",
+      "CW-independent_code-20260912-01",
+      "FA-independent_code-20260913-03"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "85": {
+    "case_count": 3,
+    "case_ids": [
+      "CR",
+      "CU",
+      "CW"
+    ],
+    "code": 85,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G018",
+      "G019"
+    ],
+    "record_ids": [
+      "CR-independent_code-20260911-01",
+      "CU-independent_code-20260912-01",
+      "CW-independent_code-20260912-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "86": {
+    "case_count": 8,
+    "case_ids": [
+      "AC",
+      "AD",
+      "BX",
+      "CA",
+      "CH",
+      "DE",
+      "EZ",
+      "FA"
+    ],
+    "code": 86,
+    "passage_group_count": 6,
+    "passage_groups": [
+      "G002",
+      "G013",
+      "G014",
+      "G016",
+      "G021",
+      "G032"
+    ],
+    "record_ids": [
+      "AC-independent_code-20260910-01",
+      "AD-independent_code-20260910-01",
+      "BX-independent_code-20260910-01",
+      "CA-independent_code-20260910-01",
+      "CH-independent_code-20260911-01",
+      "DE-independent_code-20260912-01",
+      "EZ-independent_code-20260913-03",
+      "FA-independent_code-20260913-03"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "87": {
+    "case_count": 3,
+    "case_ids": [
+      "EZ",
+      "FC",
+      "GV"
+    ],
+    "code": 87,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G032",
+      "G042"
+    ],
+    "record_ids": [
+      "EZ-independent_code-20260913-03",
+      "FC-independent_code-20260913-03",
+      "GV-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "9": {
+    "case_count": 4,
+    "case_ids": [
+      "BT",
+      "FQ",
+      "FR",
+      "FS"
+    ],
+    "code": 9,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G012",
+      "G035"
+    ],
+    "record_ids": [
+      "BT-independent_code-20260910-01",
+      "FQ-independent_code-20260914-01",
+      "FR-independent_code-20260914-01",
+      "FS-independent_code-20260914-01"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "91": {
+    "case_count": 2,
+    "case_ids": [
+      "FA",
+      "FC"
+    ],
+    "code": 91,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G032"
+    ],
+    "record_ids": [
+      "FA-independent_code-20260913-03",
+      "FC-independent_code-20260913-03"
+    ],
+    "roles": [
+      "primary"
+    ]
+  },
+  "92": {
+    "case_count": 7,
+    "case_ids": [
+      "AQ",
+      "CH",
+      "CI",
+      "CT",
+      "CW",
+      "DG",
+      "GL"
+    ],
+    "code": 92,
+    "passage_group_count": 6,
+    "passage_groups": [
+      "G006",
+      "G016",
+      "G018",
+      "G019",
+      "G021",
+      "G039"
+    ],
+    "record_ids": [
+      "AQ-independent_code-20260910-01",
+      "CH-independent_code-20260911-01",
+      "CI-independent_code-20260911-01",
+      "CT-independent_code-20260911-01",
+      "CW-independent_code-20260912-01",
+      "DG-independent_code-20260912-01",
+      "GL-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "96": {
+    "case_count": 18,
+    "case_ids": [
+      "AJ",
+      "AY",
+      "BD",
+      "BL",
+      "BV",
+      "CB",
+      "DY",
+      "EC",
+      "EL",
+      "ET",
+      "EY",
+      "FH",
+      "FN",
+      "FT",
+      "FY",
+      "GE",
+      "GJ",
+      "GR"
+    ],
+    "code": 96,
+    "passage_group_count": 18,
+    "passage_groups": [
+      "G004",
+      "G007",
+      "G008",
+      "G010",
+      "G012",
+      "G014",
+      "G025",
+      "G026",
+      "G028",
+      "G030",
+      "G031",
+      "G033",
+      "G034",
+      "G035",
+      "G036",
+      "G037",
+      "G038",
+      "G041"
+    ],
+    "record_ids": [
+      "AJ-independent_code-20260910-01",
+      "AY-independent_code-20260910-01",
+      "BD-independent_code-20260910-01",
+      "BL-independent_code-20260910-01",
+      "BV-independent_code-20260910-01",
+      "CB-independent_code-20260910-01",
+      "DY-independent_code-20260913-01",
+      "EC-independent_code-20260913-01",
+      "EL-independent_code-20260913-02",
+      "ET-independent_code-20260913-02",
+      "EY-independent_code-20260913-03",
+      "FH-independent_code-20260914-01",
+      "FN-independent_code-20260914-01",
+      "FT-independent_code-20260914-01",
+      "FY-independent_code-20260914-02",
+      "GE-independent_code-20260914-02",
+      "GJ-independent_code-20260914-02",
+      "GR-independent_code-20260915-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "97": {
+    "case_count": 1,
+    "case_ids": [
+      "GI"
+    ],
+    "code": 97,
+    "passage_group_count": 1,
+    "passage_groups": [
+      "G038"
+    ],
+    "record_ids": [
+      "GI-independent_code-20260914-02"
+    ],
+    "roles": [
+      "auxiliary"
+    ]
+  },
+  "98": {
+    "case_count": 5,
+    "case_ids": [
+      "AK",
+      "BB",
+      "BI",
+      "BR",
+      "DA"
+    ],
+    "code": 98,
+    "passage_group_count": 5,
+    "passage_groups": [
+      "G005",
+      "G008",
+      "G010",
+      "G012",
+      "G020"
+    ],
+    "record_ids": [
+      "AK-independent_code-20260910-01",
+      "BB-independent_code-20260910-01",
+      "BI-independent_code-20260910-01",
+      "BR-independent_code-20260910-01",
+      "DA-independent_code-20260912-01"
+    ],
+    "roles": [
+      "auxiliary",
+      "primary"
+    ]
+  },
+  "99": {
+    "case_count": 2,
+    "case_ids": [
+      "AS",
+      "AW"
+    ],
+    "code": 99,
+    "passage_group_count": 2,
+    "passage_groups": [
+      "G006",
+      "G007"
+    ],
+    "record_ids": [
+      "AS-independent_code-20260910-01",
+      "AW-independent_code-20260910-01"
+    ],
+    "roles": [
+      "primary"
+    ]
+  }
+}

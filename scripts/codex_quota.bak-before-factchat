@@ -1,0 +1,105 @@
+#!/usr/bin/env python3
+"""Read Codex app-server rate limits and emit one machine-readable JSON object."""
+
+import json
+import selectors
+import subprocess
+import sys
+import time
+
+
+TIMEOUT_SECONDS = 20
+
+
+def unavailable():
+    print(json.dumps({"quota_status": "unavailable"}, ensure_ascii=False))
+
+
+def main():
+    try:
+        process = subprocess.Popen(
+            ["codex", "app-server", "--stdio"],
+            stdin=subprocess.PIPE,
+            stdout=subprocess.PIPE,
+            stderr=subprocess.DEVNULL,
+            text=True,
+            bufsize=1,
+        )
+        selector = selectors.DefaultSelector()
+        selector.register(process.stdout, selectors.EVENT_READ)
+
+        def send(message):
+            process.stdin.write(json.dumps(message) + "\n")
+            process.stdin.flush()
+
+        send(
+            {
+                "id": 1,
+                "method": "initialize",
+                "params": {
+                    "clientInfo": {"name": "codex_quota", "version": "1.0"}
+                },
+            }
+        )
+        deadline = time.monotonic() + TIMEOUT_SECONDS
+        rate_limits = None
+        while time.monotonic() < deadline:
+            events = selector.select(max(0.1, deadline - time.monotonic()))
+            for key, _ in events:
+                line = key.fileobj.readline()
+                if not line:
+                    continue
+                try:
+                    message = json.loads(line)
+                except json.JSONDecodeError:
+                    continue
+                if message.get("id") == 1:
+                    if "error" in message:
+                        raise RuntimeError("initialize failed")
+                    send({"method": "initialized"})
+                    send({"id": 2, "method": "account/rateLimits/read"})
+                elif message.get("id") == 2:
+                    if "error" in message:
+                        raise RuntimeError("rate limit read failed")
+                    rate_limits = message.get("result", {}).get("rateLimits", {})
+                    break
+            if rate_limits is not None:
+                break
+
+        primary = rate_limits["primary"]
+        weekly = rate_limits["secondary"]
+        primary_used = primary["usedPercent"]
+        weekly_used = weekly["usedPercent"]
+        if not all(
+            isinstance(value, (int, float)) and 0 <= value <= 100
+            for value in (primary_used, weekly_used)
+        ):
+            raise RuntimeError("invalid rate limit values")
+        print(
+            json.dumps(
+                {
+                    "primary_used_percent": primary_used,
+                    "primary_remaining_percent": 100 - primary_used,
+                    "weekly_used_percent": weekly_used,
+                    "weekly_remaining_percent": 100 - weekly_used,
+                },
+                ensure_ascii=False,
+            )
+        )
+        return 0
+    except (KeyError, OSError, RuntimeError, TypeError, ValueError, AttributeError):
+        unavailable()
+        return 0
+    finally:
+        try:
+            process.terminate()
+            process.wait(timeout=2)
+        except (NameError, AttributeError, OSError, subprocess.TimeoutExpired):
+            try:
+                process.kill()
+            except (NameError, AttributeError, OSError):
+                pass
+
+
+if __name__ == "__main__":
+    sys.exit(main())

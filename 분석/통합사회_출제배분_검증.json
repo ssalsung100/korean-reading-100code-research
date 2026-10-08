@@ -1,0 +1,55 @@
+{
+  "status": "PASS",
+  "concept_count": 174,
+  "covered_concept_count": 174,
+  "omitted_concepts": [],
+  "unknown_concepts": [],
+  "set_count": 50,
+  "sets_by_area": {
+    "윤리": 6,
+    "지리": 11,
+    "사회문화": 5,
+    "경제": 14,
+    "법과 정치": 5,
+    "역사": 3,
+    "융합": 6
+  },
+  "importance_distribution": {
+    "A": 46,
+    "B": 75,
+    "C": 53
+  },
+  "stage_distribution": {
+    "기초": 18,
+    "핵심": 76,
+    "심화": 80
+  },
+  "coverage_by_importance": {
+    "A": {
+      "concepts": 46,
+      "minimum_exposures": 2,
+      "all_satisfied": true,
+      "total_placements": 96
+    },
+    "B": {
+      "concepts": 75,
+      "minimum_exposures": 1,
+      "all_satisfied": true,
+      "total_placements": 107
+    },
+    "C": {
+      "concepts": 53,
+      "minimum_exposures": 1,
+      "all_satisfied": true,
+      "total_placements": 68
+    }
+  },
+  "role_distribution": {
+    "본문 중심": 100,
+    "문항·보기 재노출": 29,
+    "본문 연계": 142,
+    "해설 확장": 35
+  },
+  "bundles_with_external_prerequisites": 40,
+  "violations": []
+}

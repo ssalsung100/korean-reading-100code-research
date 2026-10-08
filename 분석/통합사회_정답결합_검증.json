@@ -1,0 +1,1875 @@
+{
+  "status": "PASS",
+  "normalized_questions": 1054,
+  "joined_questions": 1054,
+  "answer_key_counts": {
+    "통합사회1": 507,
+    "통합사회2": 569
+  },
+  "available_by_course": {
+    "통합사회1": 485,
+    "통합사회2": 569
+  },
+  "unavailable_source_questions": 22,
+  "unavailable_detail": [
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 1,
+      "answer_symbol": "③",
+      "answer_number": 3,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 2,
+      "answer_symbol": "④",
+      "answer_number": 4,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 3,
+      "answer_symbol": "④",
+      "answer_number": 4,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 4,
+      "answer_symbol": "④",
+      "answer_number": 4,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 5,
+      "answer_symbol": "③",
+      "answer_number": 3,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 6,
+      "answer_symbol": "③",
+      "answer_number": 3,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 7,
+      "answer_symbol": "⑤",
+      "answer_number": 5,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 8,
+      "answer_symbol": "①",
+      "answer_number": 1,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 9,
+      "answer_symbol": "⑤",
+      "answer_number": 5,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 10,
+      "answer_symbol": "②",
+      "answer_number": 2,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 11,
+      "answer_symbol": "⑤",
+      "answer_number": 5,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 12,
+      "answer_symbol": "⑤",
+      "answer_number": 5,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 13,
+      "answer_symbol": "③",
+      "answer_number": 3,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 14,
+      "answer_symbol": "③",
+      "answer_number": 3,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 15,
+      "answer_symbol": "②",
+      "answer_number": 2,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 16,
+      "answer_symbol": "②",
+      "answer_number": 2,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 17,
+      "answer_symbol": "⑤",
+      "answer_number": 5,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 18,
+      "answer_symbol": "⑤",
+      "answer_number": 5,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 19,
+      "answer_symbol": "③",
+      "answer_number": 3,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 20,
+      "answer_symbol": "④",
+      "answer_number": 4,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 21,
+      "answer_symbol": "②",
+      "answer_number": 2,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    },
+    {
+      "course": "통합사회1",
+      "source_group": "원문미제공",
+      "block": 0,
+      "number": 22,
+      "answer_symbol": "②",
+      "answer_number": 2,
+      "topic_concepts": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "topic_label": "산업화·도시화(정답표만 존재)"
+    }
+  ],
+  "join_missing": [],
+  "choice_extraction_status": {
+    "선지 5개 추출": 1049,
+    "원본 이미지 수동 판독 선지": 5
+  },
+  "manual_review_required": 439,
+  "image_questions": 517,
+  "images": 622,
+  "restored_images": 195,
+  "concepts": 174,
+  "unique_concept_ids": 174,
+  "unresolved_prerequisites": [],
+  "duplicate_candidates": [
+    {
+      "concept_ids": [
+        "conditions_happiness",
+        "settlement_environment"
+      ],
+      "concept_names": [
+        "행복한 삶의 조건",
+        "질 높은 정주 환경"
+      ],
+      "shared_aliases": [
+        "질 높은 정주 환경"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "conditions_happiness",
+        "democracy_happiness"
+      ],
+      "concept_names": [
+        "행복한 삶의 조건",
+        "민주주의와 행복"
+      ],
+      "shared_aliases": [
+        "민주주의의 발전"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "conditions_happiness",
+        "moral_practice_happiness"
+      ],
+      "concept_names": [
+        "행복한 삶의 조건",
+        "도덕적 실천과 행복"
+      ],
+      "shared_aliases": [
+        "도덕적 실천"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "environmental_conflict",
+        "environmental_problem"
+      ],
+      "concept_names": [
+        "환경 갈등과 이해관계 조정",
+        "환경 문제의 발생 구조"
+      ],
+      "shared_aliases": [
+        "환경 갈등",
+        "환경 분쟁"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "industrial_social_change",
+        "urban_problem_regeneration"
+      ],
+      "concept_names": [
+        "산업화·도시화의 사회 변화",
+        "도시 문제와 도시 재생"
+      ],
+      "shared_aliases": [
+        "도시 문제"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "democratic_participation",
+        "digital_citizenship"
+      ],
+      "concept_names": [
+        "민주 정치와 시민 참여",
+        "디지털 시민성과 사이버 공간의 권리·책임"
+      ],
+      "shared_aliases": [
+        "전자 민주주의"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "digital_citizenship",
+        "new_rights"
+      ],
+      "concept_names": [
+        "디지털 시민성과 사이버 공간의 권리·책임",
+        "현대 사회의 새로운 인권"
+      ],
+      "shared_aliases": [
+        "잊힐 권리"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "human_rights",
+        "rights_conceptions"
+      ],
+      "concept_names": [
+        "인권의 의미와 특성",
+        "인권의 성격과 권리 개념의 확장"
+      ],
+      "shared_aliases": [
+        "실정법적 권리",
+        "자연권 사상"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "rights_categories",
+        "rights_conceptions"
+      ],
+      "concept_names": [
+        "기본권의 유형",
+        "인권의 성격과 권리 개념의 확장"
+      ],
+      "shared_aliases": [
+        "소극적 권리",
+        "포괄적 권리"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "environmental_rights",
+        "new_rights"
+      ],
+      "concept_names": [
+        "환경권과 안전권",
+        "현대 사회의 새로운 인권"
+      ],
+      "shared_aliases": [
+        "안전권",
+        "환경권"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "cultural_regions",
+        "new_rights"
+      ],
+      "concept_names": [
+        "문화권의 형성과 세계 문화권",
+        "현대 사회의 새로운 인권"
+      ],
+      "shared_aliases": [
+        "문화권"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "corrective_justice",
+        "nozick"
+      ],
+      "concept_names": [
+        "교정적 정의",
+        "노직의 소유 권리론"
+      ],
+      "shared_aliases": [
+        "교정의 원칙"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "inequality_indicators",
+        "social_inequality"
+      ],
+      "concept_names": [
+        "불평등 지표의 해석",
+        "사회 불평등의 양상"
+      ],
+      "shared_aliases": [
+        "성 격차 지수",
+        "성 불평등 지수",
+        "지니 계수"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "external_effects",
+        "market_failure"
+      ],
+      "concept_names": [
+        "외부 효과",
+        "시장 실패"
+      ],
+      "shared_aliases": [
+        "외부 효과"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "market_failure",
+        "monopoly_competition"
+      ],
+      "concept_names": [
+        "시장 실패",
+        "독과점과 경쟁 정책"
+      ],
+      "shared_aliases": [
+        "독과점"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "market_failure",
+        "public_goods"
+      ],
+      "concept_names": [
+        "시장 실패",
+        "공공재의 비배제성과 비경합성"
+      ],
+      "shared_aliases": [
+        "공공재"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "corporate_responsibility",
+        "economic_actor_roles"
+      ],
+      "concept_names": [
+        "기업가 정신과 사회적 책임",
+        "가계·기업·정부의 경제적 역할"
+      ],
+      "shared_aliases": [
+        "기업가 정신",
+        "기업의 사회적 책임"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "financial_life",
+        "financial_properties"
+      ],
+      "concept_names": [
+        "금융 생활과 자산 관리",
+        "금융 자산의 유형과 속성"
+      ],
+      "shared_aliases": [
+        "보험",
+        "예금",
+        "주식",
+        "채권"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "population_indicators",
+        "population_structure"
+      ],
+      "concept_names": [
+        "인구 지표와 인구 구조 분석",
+        "인구 구조와 인구 문제"
+      ],
+      "shared_aliases": [
+        "인구 피라미드"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "low_birth_aging",
+        "population_indicators"
+      ],
+      "concept_names": [
+        "저출산·고령화",
+        "인구 지표와 인구 구조 분석"
+      ],
+      "shared_aliases": [
+        "합계 출산율"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "resource_characteristics",
+        "resource_distribution"
+      ],
+      "concept_names": [
+        "자원의 의미·유한성·편재성·가변성",
+        "자원의 분포와 소비"
+      ],
+      "shared_aliases": [
+        "편재성"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "fourth_industrial_revolution",
+        "future_society"
+      ],
+      "concept_names": [
+        "제4차 산업 혁명과 인공지능 사회",
+        "미래 사회의 변화와 대응"
+      ],
+      "shared_aliases": [
+        "인공지능"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "business_cycle",
+        "capitalism_history"
+      ],
+      "concept_names": [
+        "경기 변동과 경제 성장",
+        "자본주의의 역사적 전개"
+      ],
+      "shared_aliases": [
+        "스태그플레이션"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "financial_properties",
+        "time_value_of_money"
+      ],
+      "concept_names": [
+        "금융 자산의 유형과 속성",
+        "화폐의 시간 가치와 복리"
+      ],
+      "shared_aliases": [
+        "복리"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "national_income_accounting",
+        "price_level_inflation"
+      ],
+      "concept_names": [
+        "국내 총생산과 국민소득의 측정",
+        "물가 지수와 인플레이션"
+      ],
+      "shared_aliases": [
+        "GDP 디플레이터"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    },
+    {
+      "concept_ids": [
+        "aggregate_demand_supply",
+        "inflation_types"
+      ],
+      "concept_names": [
+        "총수요·총공급과 국민 경제 균형",
+        "수요 견인·비용 인상 인플레이션"
+      ],
+      "shared_aliases": [
+        "비용 인상 인플레이션",
+        "수요 견인 인플레이션"
+      ],
+      "decision": "분리 유지(상·하위 또는 인접 개념일 수 있으므로 자동 병합 금지)"
+    }
+  ],
+  "layout_groups": [
+    {
+      "course": "통합사회1",
+      "group": "1단원",
+      "block": 1,
+      "n": 24,
+      "topics": [
+        "integrated_view",
+        "temporal_view",
+        "spatial_view",
+        "social_view",
+        "ethical_view"
+      ],
+      "label": "통합적 관점",
+      "answer_count": 24,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "1단원",
+      "block": 2,
+      "n": 6,
+      "topics": [
+        "integrated_view",
+        "integrated_inquiry_attitudes"
+      ],
+      "label": "통합적 탐구",
+      "answer_count": 6,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "2단원",
+      "block": 1,
+      "n": 19,
+      "topics": [
+        "meaning_of_happiness",
+        "eudaimonia",
+        "pleasure_happiness",
+        "stoic_happiness",
+        "eastern_happiness"
+      ],
+      "label": "행복의 기준과 의미",
+      "answer_count": 19,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "2단원",
+      "block": 2,
+      "n": 20,
+      "topics": [
+        "conditions_happiness",
+        "settlement_environment",
+        "democracy_happiness",
+        "moral_practice_happiness"
+      ],
+      "label": "행복한 삶의 조건",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "2단원",
+      "block": 3,
+      "n": 11,
+      "topics": [
+        "meaning_of_happiness",
+        "conditions_happiness",
+        "eudaimonia",
+        "eastern_happiness"
+      ],
+      "label": "행복 단원 마무리",
+      "answer_count": 11,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "3단원",
+      "block": 1,
+      "n": 23,
+      "topics": [
+        "natural_environment",
+        "climate_regions",
+        "climate_graph_reasoning",
+        "natural_disaster"
+      ],
+      "label": "자연환경과 인간 생활 1",
+      "answer_count": 23,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "3단원",
+      "block": 2,
+      "n": 25,
+      "topics": [
+        "natural_environment",
+        "climate_regions",
+        "landforms_and_life",
+        "natural_disaster",
+        "disaster_risk_management"
+      ],
+      "label": "자연환경과 인간 생활 2",
+      "answer_count": 25,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "3단원",
+      "block": 3,
+      "n": 20,
+      "topics": [
+        "anthropocentrism",
+        "animal_liberation",
+        "life_centrism",
+        "ecocentrism",
+        "environmental_conflict"
+      ],
+      "label": "인간과 자연의 관계",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "3단원",
+      "block": 4,
+      "n": 20,
+      "topics": [
+        "environmental_problem",
+        "sustainable_development",
+        "climate_governance",
+        "environmental_governance",
+        "ecological_citizen"
+      ],
+      "label": "환경 문제 해결",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "3단원",
+      "block": 5,
+      "n": 23,
+      "topics": [
+        "natural_environment",
+        "environmental_problem",
+        "sustainable_development",
+        "anthropocentrism",
+        "ecocentrism"
+      ],
+      "label": "자연환경 단원 마무리",
+      "answer_count": 23,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "4단원",
+      "block": 1,
+      "n": 24,
+      "topics": [
+        "culture",
+        "cultural_regions",
+        "religious_landscape",
+        "cultural_universality"
+      ],
+      "label": "문화권",
+      "answer_count": 24,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "4단원",
+      "block": 2,
+      "n": 24,
+      "topics": [
+        "cultural_change",
+        "acculturation",
+        "traditional_culture",
+        "cultural_lag"
+      ],
+      "label": "문화 변동",
+      "answer_count": 24,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "4단원",
+      "block": 3,
+      "n": 12,
+      "topics": [
+        "attitude_culture",
+        "extreme_relativism",
+        "cultural_universality"
+      ],
+      "label": "문화 이해 태도",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "4단원",
+      "block": 4,
+      "n": 8,
+      "topics": [
+        "cultural_identity",
+        "multicultural_policy",
+        "attitude_culture"
+      ],
+      "label": "다문화 사회",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "4단원",
+      "block": 5,
+      "n": 20,
+      "topics": [
+        "cultural_regions",
+        "cultural_change",
+        "acculturation",
+        "attitude_culture",
+        "cultural_identity"
+      ],
+      "label": "문화 단원 마무리",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "원문미제공",
+      "block": 0,
+      "n": 22,
+      "topics": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "label": "산업화·도시화(정답표만 존재)",
+      "answer_count": 22,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "5단원",
+      "block": 1,
+      "n": 16,
+      "topics": [
+        "transport_development",
+        "information_society",
+        "industrial_social_change"
+      ],
+      "label": "교통·통신 발달",
+      "answer_count": 16,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "5단원",
+      "block": 2,
+      "n": 16,
+      "topics": [
+        "information_society",
+        "digital_divide",
+        "digital_citizenship"
+      ],
+      "label": "정보 사회",
+      "answer_count": 16,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "5단원",
+      "block": 3,
+      "n": 12,
+      "topics": [
+        "regional_research",
+        "urban_problem_regeneration",
+        "regional_inequality"
+      ],
+      "label": "지역 조사",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "5단원",
+      "block": 4,
+      "n": 20,
+      "topics": [
+        "industrialization",
+        "urbanization",
+        "transport_development",
+        "information_society",
+        "regional_research"
+      ],
+      "label": "생활 공간 단원 마무리",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 1,
+      "n": 8,
+      "topics": [
+        "integrated_view",
+        "temporal_view",
+        "spatial_view",
+        "social_view",
+        "ethical_view"
+      ],
+      "label": "통합적 관점",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 2,
+      "n": 8,
+      "topics": [
+        "meaning_of_happiness",
+        "eudaimonia",
+        "pleasure_happiness",
+        "eastern_happiness"
+      ],
+      "label": "행복의 의미",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 3,
+      "n": 8,
+      "topics": [
+        "conditions_happiness",
+        "settlement_environment",
+        "democracy_happiness"
+      ],
+      "label": "행복 조건",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 4,
+      "n": 8,
+      "topics": [
+        "natural_environment",
+        "climate_regions",
+        "landforms_and_life"
+      ],
+      "label": "자연환경",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 5,
+      "n": 8,
+      "topics": [
+        "anthropocentrism",
+        "life_centrism",
+        "ecocentrism"
+      ],
+      "label": "자연관",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 6,
+      "n": 7,
+      "topics": [
+        "environmental_problem",
+        "sustainable_development",
+        "environmental_governance"
+      ],
+      "label": "환경 문제",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 7,
+      "n": 8,
+      "topics": [
+        "culture",
+        "cultural_regions",
+        "religious_landscape"
+      ],
+      "label": "문화권",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 8,
+      "n": 8,
+      "topics": [
+        "cultural_change",
+        "acculturation",
+        "traditional_culture"
+      ],
+      "label": "문화 변동",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 9,
+      "n": 8,
+      "topics": [
+        "attitude_culture",
+        "extreme_relativism",
+        "cultural_universality"
+      ],
+      "label": "문화 태도",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 10,
+      "n": 8,
+      "topics": [
+        "cultural_identity",
+        "multicultural_policy"
+      ],
+      "label": "다문화",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 11,
+      "n": 8,
+      "topics": [
+        "industrialization",
+        "urbanization",
+        "industrial_social_change"
+      ],
+      "label": "산업화·도시화",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 12,
+      "n": 8,
+      "topics": [
+        "transport_development",
+        "information_society",
+        "digital_divide"
+      ],
+      "label": "교통·정보",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "단원평가",
+      "block": 13,
+      "n": 8,
+      "topics": [
+        "regional_research",
+        "urban_problem_regeneration",
+        "regional_inequality"
+      ],
+      "label": "지역 조사",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "2028_수능_예시문항",
+      "block": 1,
+      "n": 25,
+      "topics": [
+        "integrated_view",
+        "meaning_of_happiness",
+        "natural_environment",
+        "culture",
+        "industrialization"
+      ],
+      "label": "2028 예시 1",
+      "answer_count": 25,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회1",
+      "group": "2028_수능_예시문항",
+      "block": 2,
+      "n": 14,
+      "topics": [
+        "human_rights",
+        "justice",
+        "market_principle",
+        "globalization",
+        "population_structure"
+      ],
+      "label": "2028 예시 2",
+      "answer_count": 14,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "1단원",
+      "block": 1,
+      "n": 20,
+      "topics": [
+        "human_rights",
+        "rights_history",
+        "rights_conceptions",
+        "new_rights"
+      ],
+      "label": "인권의 의미와 역사",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "1단원",
+      "block": 2,
+      "n": 16,
+      "topics": [
+        "constitutional_rights",
+        "rights_categories",
+        "rights_limits",
+        "rule_of_law_separation"
+      ],
+      "label": "헌법과 기본권",
+      "answer_count": 16,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "1단원",
+      "block": 3,
+      "n": 16,
+      "topics": [
+        "rights_remedies",
+        "vulnerable_human_rights",
+        "labor_rights",
+        "environmental_rights"
+      ],
+      "label": "인권 보장과 구제",
+      "answer_count": 16,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "1단원",
+      "block": 4,
+      "n": 8,
+      "topics": [
+        "civil_disobedience",
+        "democratic_participation",
+        "human_rights"
+      ],
+      "label": "시민 참여",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "1단원",
+      "block": 5,
+      "n": 20,
+      "topics": [
+        "human_rights",
+        "constitutional_rights",
+        "rights_remedies",
+        "vulnerable_human_rights"
+      ],
+      "label": "인권 단원 마무리",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "2단원",
+      "block": 1,
+      "n": 14,
+      "topics": [
+        "justice",
+        "corrective_justice",
+        "punishment_theories"
+      ],
+      "label": "정의와 교정",
+      "answer_count": 14,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "2단원",
+      "block": 2,
+      "n": 12,
+      "topics": [
+        "distributive_justice",
+        "equality_principles"
+      ],
+      "label": "분배 기준",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "2단원",
+      "block": 3,
+      "n": 12,
+      "topics": [
+        "rawls",
+        "nozick",
+        "liberal_communitarian"
+      ],
+      "label": "정의관",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "2단원",
+      "block": 4,
+      "n": 20,
+      "topics": [
+        "social_inequality",
+        "inequality_indicators",
+        "welfare_policy",
+        "affirmative_action"
+      ],
+      "label": "불평등",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "2단원",
+      "block": 5,
+      "n": 15,
+      "topics": [
+        "justice",
+        "distributive_justice",
+        "rawls",
+        "social_inequality"
+      ],
+      "label": "정의 단원 마무리",
+      "answer_count": 15,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "2028_수능_예시문항",
+      "block": 1,
+      "n": 25,
+      "topics": [
+        "integrated_view",
+        "human_rights",
+        "justice",
+        "market_principle",
+        "globalization"
+      ],
+      "label": "2028 예시 1",
+      "answer_count": 25,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "2028_수능_예시문항",
+      "block": 2,
+      "n": 14,
+      "topics": [
+        "international_peace",
+        "population_structure",
+        "resource_distribution",
+        "future_society"
+      ],
+      "label": "2028 예시 2",
+      "answer_count": 14,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "3단원",
+      "block": 1,
+      "n": 12,
+      "topics": [
+        "scarcity",
+        "economic_activity_flow",
+        "economic_systems",
+        "capitalism_history"
+      ],
+      "label": "경제 체제",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "3단원",
+      "block": 2,
+      "n": 12,
+      "topics": [
+        "rational_choice",
+        "opportunity_cost",
+        "marginal_analysis"
+      ],
+      "label": "합리적 선택",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "3단원",
+      "block": 3,
+      "n": 12,
+      "topics": [
+        "market_principle",
+        "market_failure",
+        "external_effects",
+        "public_goods"
+      ],
+      "label": "시장과 시장 실패",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "3단원",
+      "block": 4,
+      "n": 12,
+      "topics": [
+        "economic_actor_roles",
+        "corporate_responsibility",
+        "ethical_consumption"
+      ],
+      "label": "경제 주체",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "3단원",
+      "block": 5,
+      "n": 20,
+      "topics": [
+        "financial_life",
+        "financial_properties",
+        "financial_return_risk",
+        "economic_indicators"
+      ],
+      "label": "금융 생활",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "3단원",
+      "block": 6,
+      "n": 20,
+      "topics": [
+        "international_trade",
+        "comparative_advantage",
+        "production_possibility",
+        "fair_trade"
+      ],
+      "label": "국제 무역",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "3단원",
+      "block": 7,
+      "n": 23,
+      "topics": [
+        "scarcity",
+        "market_principle",
+        "financial_life",
+        "international_trade"
+      ],
+      "label": "경제 단원 마무리",
+      "answer_count": 23,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "4단원",
+      "block": 1,
+      "n": 13,
+      "topics": [
+        "globalization",
+        "localization",
+        "geographical_indication"
+      ],
+      "label": "세계화와 지역화",
+      "answer_count": 13,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "4단원",
+      "block": 2,
+      "n": 12,
+      "topics": [
+        "multinational_corporation",
+        "global_city",
+        "globalization_problems"
+      ],
+      "label": "세계화의 공간",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "4단원",
+      "block": 3,
+      "n": 12,
+      "topics": [
+        "international_peace",
+        "peace_theory",
+        "international_relations"
+      ],
+      "label": "국제 평화",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "4단원",
+      "block": 4,
+      "n": 18,
+      "topics": [
+        "division_unification",
+        "east_asia_conflict",
+        "international_peace"
+      ],
+      "label": "분단과 동아시아",
+      "answer_count": 18,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "4단원",
+      "block": 5,
+      "n": 14,
+      "topics": [
+        "globalization",
+        "international_peace",
+        "world_citizenship"
+      ],
+      "label": "세계화·평화 마무리",
+      "answer_count": 14,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "5단원",
+      "block": 1,
+      "n": 12,
+      "topics": [
+        "population_structure",
+        "population_indicators",
+        "demographic_transition"
+      ],
+      "label": "인구 구조",
+      "answer_count": 12,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "5단원",
+      "block": 2,
+      "n": 20,
+      "topics": [
+        "low_birth_aging",
+        "population_migration",
+        "population_policy"
+      ],
+      "label": "인구 문제",
+      "answer_count": 20,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "5단원",
+      "block": 3,
+      "n": 19,
+      "topics": [
+        "resource_distribution",
+        "resource_characteristics",
+        "fossil_fuel",
+        "resource_security"
+      ],
+      "label": "자원",
+      "answer_count": 19,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "5단원",
+      "block": 4,
+      "n": 11,
+      "topics": [
+        "renewable_energy",
+        "energy_mix_transition",
+        "carbon_neutrality"
+      ],
+      "label": "에너지 전환",
+      "answer_count": 11,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "5단원",
+      "block": 5,
+      "n": 14,
+      "topics": [
+        "future_society",
+        "sdgs",
+        "fourth_industrial_revolution",
+        "technology_ethics_regulation"
+      ],
+      "label": "미래 사회",
+      "answer_count": 14,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 1,
+      "n": 7,
+      "topics": [
+        "human_rights",
+        "rights_history",
+        "rights_conceptions"
+      ],
+      "label": "인권 역사",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 2,
+      "n": 8,
+      "topics": [
+        "constitutional_rights",
+        "rights_categories",
+        "rights_limits"
+      ],
+      "label": "헌법과 기본권",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 3,
+      "n": 7,
+      "topics": [
+        "rights_remedies",
+        "vulnerable_human_rights",
+        "labor_rights"
+      ],
+      "label": "인권 구제",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 4,
+      "n": 7,
+      "topics": [
+        "justice",
+        "corrective_justice",
+        "punishment_theories"
+      ],
+      "label": "정의와 형벌",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 5,
+      "n": 7,
+      "topics": [
+        "distributive_justice",
+        "rawls",
+        "nozick"
+      ],
+      "label": "분배 정의",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 6,
+      "n": 7,
+      "topics": [
+        "social_inequality",
+        "welfare_policy",
+        "affirmative_action"
+      ],
+      "label": "불평등",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 7,
+      "n": 7,
+      "topics": [
+        "scarcity",
+        "economic_systems",
+        "capitalism_history"
+      ],
+      "label": "경제 체제",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 8,
+      "n": 8,
+      "topics": [
+        "rational_choice",
+        "market_principle",
+        "market_failure",
+        "economic_actor_roles"
+      ],
+      "label": "시장과 선택",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 9,
+      "n": 8,
+      "topics": [
+        "financial_life",
+        "financial_properties",
+        "financial_return_risk"
+      ],
+      "label": "금융",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 10,
+      "n": 8,
+      "topics": [
+        "international_trade",
+        "comparative_advantage",
+        "fair_trade"
+      ],
+      "label": "무역",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 11,
+      "n": 8,
+      "topics": [
+        "globalization",
+        "localization",
+        "multinational_corporation"
+      ],
+      "label": "세계화",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 12,
+      "n": 7,
+      "topics": [
+        "international_peace",
+        "peace_theory",
+        "international_relations"
+      ],
+      "label": "평화",
+      "answer_count": 7,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 13,
+      "n": 8,
+      "topics": [
+        "division_unification",
+        "east_asia_conflict"
+      ],
+      "label": "분단·동아시아",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 14,
+      "n": 8,
+      "topics": [
+        "population_structure",
+        "population_indicators",
+        "low_birth_aging"
+      ],
+      "label": "인구 구조",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 15,
+      "n": 8,
+      "topics": [
+        "population_migration",
+        "population_policy"
+      ],
+      "label": "인구 이동·정책",
+      "answer_count": 8,
+      "numbers_continuous": true
+    },
+    {
+      "course": "통합사회2",
+      "group": "단원평가",
+      "block": 16,
+      "n": 8,
+      "topics": [
+        "resource_distribution",
+        "renewable_energy",
+        "future_society"
+      ],
+      "label": "자원·미래",
+      "answer_count": 8,
+      "numbers_continuous": true
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "blind_only": true,
+  "passage_group": "G023",
+  "case_id": "DP",
+  "provenance": {
+    "source_role": "anonymous_blind_source"
+  },
+  "audit_kind": "literal_marker_boundary_check",
+  "marker": "[A]",
+  "literal_marker_count_in_canonical_passage": 1,
+  "marker_paragraph_ordinal": 5,
+  "marker_is_standalone_paragraph": true,
+  "explicit_closing_delimiter_present": false,
+  "canonical_text_encodes_exact_start_end_span": false,
+  "source_limit": "정본 Markdown 본문에는 단독 [A] 표지만 있고 짝을 이루는 종료 표지나 서식 범위가 없다. 로컬 원 HWPX/render가 없어 원본 서식상 시작·끝 위치를 확인할 수 없다.",
+  "next_source_action": "공식 원본 HWPX/PDF의 시각 서식이 확보되면 시작·끝만 기계적으로 확인한다. 그 전까지 범위 미확정으로 보존한다.",
+  "prohibited_inference": "선지 또는 본문 의미로 [A] 범위를 역추정하지 않는다."
+}

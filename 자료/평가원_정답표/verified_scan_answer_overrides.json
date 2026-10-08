@@ -1,0 +1,105 @@
+{
+  "status": "verified_visual_transcription",
+  "method": "평가원 공식 정답표 PDF를 3배율 PNG로 렌더링한 뒤 사람이 원문과 대조하여 전사",
+  "answer_symbol": "①~⑤",
+  "records": [
+    {
+      "exam_type": "수능",
+      "academic_year": 2010,
+      "month": null,
+      "variant": null,
+      "official_page": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500234&boardSeq=3000963&lev=0&m=0403&s=suneung",
+      "source_pdf": "자료/평가원_정답표/원본/수능/2010__국어_10언어정답표(홀수형).pdf",
+      "page_image": "자료/평가원_정답표/OCR대조_페이지/2010_수능/page_001.png",
+      "page_image_sha256": "ce53dc810725fae5a7726aa9747363713fa3cbf179afaad66cd0737bca9315d7",
+      "question_count": 50,
+      "answers_digits": "31324244533442134215321135355253252124312254535411",
+      "verification_status": "verified_visual"
+    },
+    {
+      "exam_type": "수능",
+      "academic_year": 2011,
+      "month": null,
+      "variant": null,
+      "official_page": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500234&boardSeq=3000997&lev=0&m=0403&s=suneung",
+      "source_pdf": "자료/평가원_정답표/원본/수능/2011__국어_언어영역-홀수형_정답표.pdf",
+      "page_image": "자료/평가원_정답표/OCR대조_페이지/2011_수능/page_001.png",
+      "page_image_sha256": "e496aa28d702df7a192596499a8e36819ad21de89efa1de5fe71196939ce79fe",
+      "question_count": 50,
+      "answers_digits": "51441144313544245512113331134123325354352543432422",
+      "verification_status": "verified_visual"
+    },
+    {
+      "exam_type": "수능 모의평가",
+      "academic_year": 2011,
+      "month": "6월",
+      "variant": null,
+      "official_page": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500236&boardSeq=3001249&lev=0&m=0403&s=suneung",
+      "source_pdf": "자료/평가원_정답표/추출/모의평가/2011_6월_국어_20116언어영역/╛Ё╛ю┐╡┐к┴д┤ф╟е.pdf",
+      "page_image": "자료/평가원_정답표/OCR대조_페이지/2011_6월/page_001.png",
+      "page_image_sha256": "aec6a4a101a910d50378956a775a744e886396850159f57655de54d674ce224d",
+      "question_count": 50,
+      "answers_digits": "33421435553211431444341335523425351221145251225124",
+      "verification_status": "verified_visual"
+    },
+    {
+      "exam_type": "수능 모의평가",
+      "academic_year": 2011,
+      "month": "9월",
+      "variant": null,
+      "official_page": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500236&boardSeq=3001231&lev=0&m=0403&s=suneung",
+      "source_pdf": "자료/평가원_정답표/추출/모의평가/2011_9월_국어_20119언어영역/╛Ё╛ю┐╡┐к┴д┤ф╟е.pdf",
+      "page_image": "자료/평가원_정답표/OCR대조_페이지/2011_9월/page_001.png",
+      "page_image_sha256": "76399064377c510a4d1401cd926d7f47bf2aaa364995932c5aae3a89cb56e90b",
+      "question_count": 50,
+      "answers_digits": "34415241533514452321444122122314125535333422355153",
+      "verification_status": "verified_visual"
+    },
+    {
+      "exam_type": "수능 모의평가",
+      "academic_year": 2012,
+      "month": "6월",
+      "variant": null,
+      "official_page": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500236&boardSeq=3001258&lev=0&m=0403&s=suneung",
+      "source_pdf": "자료/평가원_정답표/추출/모의평가/2012_6월_국어_언어/╛Ё╛ю┴д┤ф.pdf",
+      "page_image": "자료/평가원_정답표/OCR대조_페이지/2012_6월/page_001.png",
+      "page_image_sha256": "a1096a98b228fb7ef118ffa53074137594ac971feb6645bff70e8a0af2237ff0",
+      "question_count": 50,
+      "answers_digits": "23231524135341244335235245351441255443213513215324",
+      "verification_status": "verified_visual"
+    },
+    {
+      "exam_type": "수능 모의평가",
+      "academic_year": 2012,
+      "month": "9월",
+      "variant": null,
+      "official_page": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500236&boardSeq=3008946&lev=0&m=0403&s=suneung",
+      "source_pdf": "자료/평가원_정답표/추출/모의평가/2012_9월_국어_2012_9_언어/2012_9_╛Ё╛ю_┴д┤ф.pdf",
+      "page_image": "자료/평가원_정답표/OCR대조_페이지/2012_9월/page_001.png",
+      "page_image_sha256": "739535792dad0012dbe80e1c70e542e2ee5626dd3321940c6ca7c7de41f0e887",
+      "question_count": 50,
+      "answers_digits": "53124212531513451214343324114554545532433324313212",
+      "verification_status": "verified_visual"
+    },
+    {
+      "exam_type": "수능",
+      "academic_year": 2025,
+      "month": null,
+      "variant": null,
+      "elective_branch": "화법과 작문",
+      "common_question_range": "1~34",
+      "official_page": "https://www.suneung.re.kr/boardCnts/view.do?boardID=1500234&boardSeq=5089364&lev=0&m=0403&s=suneung",
+      "source_pdf": "자료/평가원_정답표/원본/수능/2025__국어_국어영역_정답표.pdf",
+      "page_image": "자료/평가원_정답표/OCR대조_페이지/2025_수능/page_001.png",
+      "page_image_sha256": "ea2baa1506ec1729bbf4f966695ff7167a0d43326e7f8d4222796deb2ed311d2",
+      "question_count": 45,
+      "answers_digits": "345453212315312232414452211435435224345431152",
+      "alternative_elective": {
+        "name": "언어와 매체",
+        "question_range": "35~45",
+        "answers_digits": "54312435213"
+      },
+      "verification_status": "verified_visual"
+    }
+  ]
+}

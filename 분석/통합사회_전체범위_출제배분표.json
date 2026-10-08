@@ -1,0 +1,7803 @@
+[
+  {
+    "concept_id": "integrated_view",
+    "name": "통합적 관점",
+    "primary_domain": "융합",
+    "domains": [
+      "융합"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "INT-01",
+        "area": "융합",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "cultural_change",
+        "name": "문화 변동의 요인",
+        "boundary_count": 6
+      },
+      {
+        "id": "acculturation",
+        "name": "문화 접변의 양상",
+        "boundary_count": 4
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 3
+      },
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "temporal_view",
+    "name": "시간적 관점",
+    "primary_domain": "역사",
+    "domains": [
+      "역사"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "HIS-01",
+        "area": "역사",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "HIS-02",
+        "area": "역사",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-01",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "human_rights",
+        "name": "인권의 의미와 특성",
+        "boundary_count": 1
+      },
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "spatial_view",
+    "name": "공간적 관점",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 4,
+    "placements": [
+      {
+        "set_id": "GEO-01",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "GEO-03",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-07",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-01",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 3
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "social_view",
+    "name": "사회적 관점",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "법과 정치"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-01",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-01",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 1
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 1
+      },
+      {
+        "id": "ecocentrism",
+        "name": "생태 중심주의",
+        "boundary_count": 1
+      },
+      {
+        "id": "liberal_communitarian",
+        "name": "자유주의와 공동체주의 정의관",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "ethical_view",
+    "name": "윤리적 관점",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-03",
+        "area": "윤리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-01",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "natural_disaster",
+        "name": "자연재해의 발생과 대응",
+        "boundary_count": 1
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 1
+      },
+      {
+        "id": "ecocentrism",
+        "name": "생태 중심주의",
+        "boundary_count": 1
+      },
+      {
+        "id": "liberal_communitarian",
+        "name": "자유주의와 공동체주의 정의관",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "meaning_of_happiness",
+    "name": "행복의 의미와 기준",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ETH-02",
+        "area": "윤리",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "pleasure_happiness",
+        "name": "쾌락과 욕구 충족의 행복론",
+        "boundary_count": 2
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 2
+      },
+      {
+        "id": "affirmative_action",
+        "name": "적극적 우대 조치",
+        "boundary_count": 1
+      },
+      {
+        "id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "conditions_happiness",
+    "name": "행복한 삶의 조건",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "사회문화",
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-02",
+        "area": "윤리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "meaning_of_happiness"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "boundary_count": 6
+      },
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 2
+      },
+      {
+        "id": "social_view",
+        "name": "사회적 관점",
+        "boundary_count": 1
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "eudaimonia",
+    "name": "덕과 자아실현의 행복론",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "meaning_of_happiness"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "urbanization",
+        "name": "도시화",
+        "boundary_count": 1
+      },
+      {
+        "id": "liberal_communitarian",
+        "name": "자유주의와 공동체주의 정의관",
+        "boundary_count": 1
+      },
+      {
+        "id": "urban_problem_regeneration",
+        "name": "도시 문제와 도시 재생",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "pleasure_happiness",
+    "name": "쾌락과 욕구 충족의 행복론",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "meaning_of_happiness"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "stoic_happiness",
+    "name": "금욕과 평정의 행복론",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "meaning_of_happiness"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "natural_environment",
+    "name": "자연환경과 인간 생활",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-01",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "GEO-02",
+        "area": "지리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "climate_regions",
+        "name": "기후 지역과 생활 양식",
+        "boundary_count": 5
+      },
+      {
+        "id": "rights_history",
+        "name": "인권 보장의 역사",
+        "boundary_count": 2
+      },
+      {
+        "id": "climate_graph_reasoning",
+        "name": "기후 그래프 판독과 기후 지역 추론",
+        "boundary_count": 2
+      },
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "climate_regions",
+    "name": "기후 지역과 생활 양식",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-01",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-02",
+        "area": "지리",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "natural_environment"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "climate_graph_reasoning",
+    "name": "기후 그래프 판독과 기후 지역 추론",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-01",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "climate_regions"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "climate_regions",
+        "name": "기후 지역과 생활 양식",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "natural_disaster",
+    "name": "자연재해의 발생과 대응",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-03",
+        "area": "지리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "natural_environment"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 2
+      },
+      {
+        "id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "boundary_count": 1
+      },
+      {
+        "id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "disaster_risk_management",
+    "name": "재해 위험·취약성·대응과 위험 관리",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-03",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "GEO-03",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "natural_disaster",
+      "settlement_environment"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "environmental_problem",
+    "name": "환경 문제의 발생 구조",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "natural_environment"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 4
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 2
+      },
+      {
+        "id": "market_failure",
+        "name": "시장 실패",
+        "boundary_count": 2
+      },
+      {
+        "id": "monopoly_competition",
+        "name": "독과점과 경쟁 정책",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "anthropocentrism",
+    "name": "인간 중심주의",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-03",
+        "area": "윤리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "natural_environment"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "financial_properties",
+        "name": "금융 자산의 유형과 속성",
+        "boundary_count": 2
+      },
+      {
+        "id": "time_value_of_money",
+        "name": "화폐의 시간 가치와 복리",
+        "boundary_count": 2
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 1
+      },
+      {
+        "id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "animal_liberation",
+    "name": "동물 중심주의",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-03",
+        "area": "윤리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "anthropocentrism"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 1
+      },
+      {
+        "id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "boundary_count": 1
+      },
+      {
+        "id": "sustainable_development",
+        "name": "지속 가능한 발전",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "life_centrism",
+    "name": "생명 중심주의",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-03",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ETH-03",
+        "area": "윤리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "anthropocentrism"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "financial_properties",
+        "name": "금융 자산의 유형과 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "time_value_of_money",
+        "name": "화폐의 시간 가치와 복리",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "ecocentrism",
+    "name": "생태 중심주의",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-03",
+        "area": "윤리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "life_centrism"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "financial_properties",
+        "name": "금융 자산의 유형과 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "time_value_of_money",
+        "name": "화폐의 시간 가치와 복리",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "sustainable_development",
+    "name": "지속 가능한 발전",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "융합"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-05",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "environmental_problem"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "biodiversity",
+        "name": "생물 다양성과 생태계 보전",
+        "boundary_count": 1
+      },
+      {
+        "id": "anthropocentrism",
+        "name": "인간 중심주의",
+        "boundary_count": 1
+      },
+      {
+        "id": "economic_indicators",
+        "name": "경제 지표와 금융 의사 결정",
+        "boundary_count": 1
+      },
+      {
+        "id": "business_cycle",
+        "name": "경기 변동과 경제 성장",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "climate_governance",
+    "name": "기후 변화와 국제 환경 협약",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-05",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "environmental_problem",
+      "sustainable_development"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 1
+      },
+      {
+        "id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "boundary_count": 1
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "culture",
+    "name": "문화의 의미와 속성",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-08",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "SOC-01",
+        "area": "사회문화",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "cultural_universality",
+        "name": "문화의 보편성과 다양성",
+        "boundary_count": 7
+      },
+      {
+        "id": "cultural_change",
+        "name": "문화 변동의 요인",
+        "boundary_count": 3
+      },
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 3
+      },
+      {
+        "id": "extreme_relativism",
+        "name": "극단적 문화 상대주의의 한계",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "cultural_universality",
+    "name": "문화의 보편성과 다양성",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "SOC-01",
+        "area": "사회문화",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "culture"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "cultural_identity",
+        "name": "문화적 정체성과 다문화 사회",
+        "boundary_count": 1
+      },
+      {
+        "id": "extreme_relativism",
+        "name": "극단적 문화 상대주의의 한계",
+        "boundary_count": 1
+      },
+      {
+        "id": "social_view",
+        "name": "사회적 관점",
+        "boundary_count": 1
+      },
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "attitude_culture",
+    "name": "문화를 이해하는 태도",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "SOC-01",
+        "area": "사회문화",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "culture"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 2
+      },
+      {
+        "id": "ethical_view",
+        "name": "윤리적 관점",
+        "boundary_count": 1
+      },
+      {
+        "id": "new_rights",
+        "name": "현대 사회의 새로운 인권",
+        "boundary_count": 1
+      },
+      {
+        "id": "cultural_regions",
+        "name": "문화권의 형성과 세계 문화권",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "extreme_relativism",
+    "name": "극단적 문화 상대주의의 한계",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "SOC-01",
+        "area": "사회문화",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "attitude_culture"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "cultural_change",
+    "name": "문화 변동의 요인",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-02",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "culture"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "cultural_universality",
+        "name": "문화의 보편성과 다양성",
+        "boundary_count": 3
+      },
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 1
+      },
+      {
+        "id": "population_migration",
+        "name": "인구 이동과 국제 이주",
+        "boundary_count": 1
+      },
+      {
+        "id": "information_society",
+        "name": "정보화와 정보 사회",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "acculturation",
+    "name": "문화 접변의 양상",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-02",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "GEO-08",
+        "area": "지리",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "cultural_change"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "cultural_universality",
+        "name": "문화의 보편성과 다양성",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "cultural_lag",
+    "name": "문화 지체와 기술 지체",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "cultural_change"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "cultural_identity",
+    "name": "문화적 정체성과 다문화 사회",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-02",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "SOC-01",
+        "area": "사회문화",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "cultural_universality"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "cultural_universality",
+        "name": "문화의 보편성과 다양성",
+        "boundary_count": 4
+      },
+      {
+        "id": "multicultural_policy",
+        "name": "다문화 정책과 사회 통합",
+        "boundary_count": 2
+      },
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 2
+      },
+      {
+        "id": "globalization",
+        "name": "세계화의 양상과 영향",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "religious_landscape",
+    "name": "종교의 공간적 확산과 문화 경관",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화",
+      "역사"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-08",
+        "area": "지리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "culture",
+      "spatial_view",
+      "temporal_view"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 1
+      },
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "industrialization",
+    "name": "산업화",
+    "primary_domain": "역사",
+    "domains": [
+      "역사",
+      "사회문화",
+      "경제"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "HIS-01",
+        "area": "역사",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "rights_history",
+        "name": "인권 보장의 역사",
+        "boundary_count": 2
+      },
+      {
+        "id": "conditions_happiness",
+        "name": "행복한 삶의 조건",
+        "boundary_count": 1
+      },
+      {
+        "id": "moral_practice_happiness",
+        "name": "도덕적 실천과 행복",
+        "boundary_count": 1
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "urbanization",
+    "name": "도시화",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-06",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "HIS-01",
+        "area": "역사",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "industrialization"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "suburbanization_metro",
+        "name": "교외화와 대도시권 확대",
+        "boundary_count": 2
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "boundary_count": 1
+      },
+      {
+        "id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "boundary_count": 1
+      },
+      {
+        "id": "spatial_view",
+        "name": "공간적 관점",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "urban_structure",
+    "name": "도시 내부 구조와 공간 분화",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-06",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "HIS-01",
+        "area": "역사",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "urbanization"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "global_city",
+        "name": "세계 도시와 도시 체계",
+        "boundary_count": 1
+      },
+      {
+        "id": "social_view",
+        "name": "사회적 관점",
+        "boundary_count": 1
+      },
+      {
+        "id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "boundary_count": 1
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "industrial_social_change",
+    "name": "산업화·도시화의 사회 변화",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "역사"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "HIS-01",
+        "area": "역사",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "industrialization",
+      "urbanization"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "transport_development",
+    "name": "교통 발달과 공간 변화",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-07",
+        "area": "지리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "spatial_view"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "boundary_count": 2
+      },
+      {
+        "id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정",
+        "boundary_count": 1
+      },
+      {
+        "id": "low_birth_aging",
+        "name": "저출산·고령화",
+        "boundary_count": 1
+      },
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "information_society",
+    "name": "정보화와 정보 사회",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "지리"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "SOC-05",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-05",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "boundary_count": 2
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 2
+      },
+      {
+        "id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정",
+        "boundary_count": 1
+      },
+      {
+        "id": "regional_inequality",
+        "name": "지역 격차와 공간 불평등",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "digital_divide",
+    "name": "정보 격차와 정보 윤리",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-05",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "information_society"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "cultural_change",
+        "name": "문화 변동의 요인",
+        "boundary_count": 1
+      },
+      {
+        "id": "punishment_theories",
+        "name": "응보주의와 공리주의 형벌론",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "digital_citizenship",
+    "name": "디지털 시민성과 사이버 공간의 권리·책임",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-05",
+        "area": "융합",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "SOC-03",
+        "area": "사회문화",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "information_society",
+      "digital_divide"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "regional_inequality",
+    "name": "지역 격차와 공간 불평등",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-07",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "spatial_view"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "social_view",
+        "name": "사회적 관점",
+        "boundary_count": 1
+      },
+      {
+        "id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "boundary_count": 1
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 1
+      },
+      {
+        "id": "multicultural_policy",
+        "name": "다문화 정책과 사회 통합",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "human_rights",
+    "name": "인권의 의미와 특성",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "윤리"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "LAW-01",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "HIS-02",
+        "area": "역사",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 5
+      },
+      {
+        "id": "cultural_change",
+        "name": "문화 변동의 요인",
+        "boundary_count": 3
+      },
+      {
+        "id": "capitalism_history",
+        "name": "자본주의의 역사적 전개",
+        "boundary_count": 2
+      },
+      {
+        "id": "environmental_rights",
+        "name": "환경권과 안전권",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "rights_history",
+    "name": "인권 보장의 역사",
+    "primary_domain": "역사",
+    "domains": [
+      "역사",
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "LAW-01",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "HIS-02",
+        "area": "역사",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "human_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "constitutional_rights",
+        "name": "헌법과 기본권 보장",
+        "boundary_count": 2
+      },
+      {
+        "id": "environmental_rights",
+        "name": "환경권과 안전권",
+        "boundary_count": 2
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 2
+      },
+      {
+        "id": "cultural_identity",
+        "name": "문화적 정체성과 다문화 사회",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "constitutional_rights",
+    "name": "헌법과 기본권 보장",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "LAW-02",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "LAW-04",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "HIS-02",
+        "area": "역사",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "human_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "civil_disobedience",
+        "name": "시민 불복종",
+        "boundary_count": 5
+      },
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 3
+      },
+      {
+        "id": "rights_history",
+        "name": "인권 보장의 역사",
+        "boundary_count": 2
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "rights_categories",
+    "name": "기본권의 유형",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "LAW-02",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "LAW-04",
+        "area": "법과 정치",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "constitutional_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 3
+      },
+      {
+        "id": "civil_disobedience",
+        "name": "시민 불복종",
+        "boundary_count": 3
+      },
+      {
+        "id": "extreme_relativism",
+        "name": "극단적 문화 상대주의의 한계",
+        "boundary_count": 1
+      },
+      {
+        "id": "constitutional_rights",
+        "name": "헌법과 기본권 보장",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "rights_limits",
+    "name": "기본권 제한과 한계",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-02",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "LAW-02",
+        "area": "법과 정치",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "constitutional_rights",
+      "rights_categories"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "new_rights",
+    "name": "현대 사회의 새로운 인권",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "LAW-01",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "LAW-03",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-05",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2,
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "human_rights"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "civil_disobedience",
+    "name": "시민 불복종",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-05",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "LAW-04",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "constitutional_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 2
+      },
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "democratic_participation",
+    "name": "민주 정치와 시민 참여",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-04",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "constitutional_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "labor_rights",
+    "name": "근로자의 권리",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-03",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "rights_categories"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "justice",
+    "name": "정의의 의미",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "ETH-04",
+        "area": "윤리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ETH-05",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "social_inequality",
+        "name": "사회 불평등의 양상",
+        "boundary_count": 6
+      },
+      {
+        "id": "civil_disobedience",
+        "name": "시민 불복종",
+        "boundary_count": 3
+      },
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 3
+      },
+      {
+        "id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "distributive_justice",
+    "name": "분배적 정의와 분배 기준",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-04",
+        "area": "윤리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-04",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "social_inequality",
+        "name": "사회 불평등의 양상",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "rawls",
+    "name": "롤스의 정의론",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-04",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice",
+      "distributive_justice"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "social_inequality",
+        "name": "사회 불평등의 양상",
+        "boundary_count": 3
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 2
+      },
+      {
+        "id": "liberal_communitarian",
+        "name": "자유주의와 공동체주의 정의관",
+        "boundary_count": 1
+      },
+      {
+        "id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "nozick",
+    "name": "노직의 소유 권리론",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-04",
+        "area": "윤리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice",
+      "distributive_justice"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 2
+      },
+      {
+        "id": "rawls",
+        "name": "롤스의 정의론",
+        "boundary_count": 1
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "social_inequality",
+    "name": "사회 불평등의 양상",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "SOC-04",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-14",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 2
+      },
+      {
+        "id": "multicultural_policy",
+        "name": "다문화 정책과 사회 통합",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "welfare_policy",
+    "name": "사회 복지와 불평등 완화 정책",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "법과 정치",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 4,
+    "placements": [
+      {
+        "set_id": "SOC-04",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-14",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-04",
+        "area": "융합",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 4
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "social_inequality"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 3
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "affirmative_action",
+    "name": "적극적 우대 조치",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-04",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice",
+      "social_inequality"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "equality_principles",
+        "name": "절대적 평등과 상대적 평등",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "scarcity",
+    "name": "희소성과 경제 문제",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-01",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 3
+      },
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환",
+        "boundary_count": 3
+      },
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용",
+        "boundary_count": 3
+      },
+      {
+        "id": "economic_surplus_efficiency",
+        "name": "소비자·생산자 잉여와 자원 배분 효율성",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "rational_choice",
+    "name": "합리적 선택과 비용·편익",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-01",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "scarcity"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용",
+        "boundary_count": 9
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 3
+      },
+      {
+        "id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "boundary_count": 2
+      },
+      {
+        "id": "market_failure",
+        "name": "시장 실패",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "opportunity_cost",
+    "name": "기회비용",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-01",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-11",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "scarcity"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "capitalism_history",
+        "name": "자본주의의 역사적 전개",
+        "boundary_count": 1
+      },
+      {
+        "id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "boundary_count": 1
+      },
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "market_principle",
+    "name": "시장 경제의 원리",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-05",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "scarcity"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 2
+      },
+      {
+        "id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "boundary_count": 1
+      },
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환",
+        "boundary_count": 1
+      },
+      {
+        "id": "east_asia_conflict",
+        "name": "동아시아 역사 갈등과 평화",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "market_failure",
+    "name": "시장 실패",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_principle"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "information_asymmetry",
+        "name": "정보 비대칭성과 역선택",
+        "boundary_count": 3
+      },
+      {
+        "id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "boundary_count": 2
+      },
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리",
+        "boundary_count": 1
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "government_failure",
+    "name": "정부 개입과 정부 실패",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_failure"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리",
+        "boundary_count": 1
+      },
+      {
+        "id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "boundary_count": 1
+      },
+      {
+        "id": "externality_correction",
+        "name": "외부 효과의 사회적 최적과 교정",
+        "boundary_count": 1
+      },
+      {
+        "id": "tax_subsidy_incidence",
+        "name": "조세·보조금의 귀착과 후생 효과",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "corporate_responsibility",
+    "name": "기업가 정신과 사회적 책임",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-04",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-03",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_principle"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "monopoly_competition",
+        "name": "독과점과 경쟁 정책",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "international_trade",
+    "name": "국제 분업과 무역",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-11",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-03",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "opportunity_cost"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용",
+        "boundary_count": 13
+      },
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 7
+      },
+      {
+        "id": "fossil_fuel",
+        "name": "화석 에너지 자원",
+        "boundary_count": 2
+      },
+      {
+        "id": "urban_structure",
+        "name": "도시 내부 구조와 공간 분화",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "comparative_advantage",
+    "name": "절대 우위와 비교 우위",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-11",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-03",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "opportunity_cost",
+      "international_trade"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용",
+        "boundary_count": 12
+      },
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 6
+      },
+      {
+        "id": "production_possibility",
+        "name": "생산 가능 곡선과 특화",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "financial_life",
+    "name": "금융 생활과 자산 관리",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "rational_choice"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 3
+      },
+      {
+        "id": "exchange_rate_effects",
+        "name": "환율 변동의 무역·자본 이동 효과",
+        "boundary_count": 1
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "multinational_corporation",
+        "name": "다국적 기업과 공간적 분업",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "globalization",
+    "name": "세계화의 양상과 영향",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "사회문화"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-09",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-03",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 11
+      },
+      {
+        "id": "multinational_corporation",
+        "name": "다국적 기업과 공간적 분업",
+        "boundary_count": 5
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 3
+      },
+      {
+        "id": "fair_trade",
+        "name": "공정 무역",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "multinational_corporation",
+    "name": "다국적 기업과 공간적 분업",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-09",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-03",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "globalization",
+      "international_trade"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 12
+      },
+      {
+        "id": "fair_trade",
+        "name": "공정 무역",
+        "boundary_count": 5
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 2
+      },
+      {
+        "id": "globalization",
+        "name": "세계화의 양상과 영향",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "global_city",
+    "name": "세계 도시와 도시 체계",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-09",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "globalization",
+      "urbanization"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 4
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 2
+      },
+      {
+        "id": "globalization",
+        "name": "세계화의 양상과 영향",
+        "boundary_count": 2
+      },
+      {
+        "id": "localization",
+        "name": "지역화와 장소 마케팅",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "fair_trade",
+    "name": "공정 무역",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-11",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-03",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_trade"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "localization",
+        "name": "지역화와 장소 마케팅",
+        "boundary_count": 1
+      },
+      {
+        "id": "geographical_indication",
+        "name": "지리적 표시제와 지역 상품의 가치",
+        "boundary_count": 1
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "globalization_problems",
+        "name": "세계화의 문제와 문화 획일화",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "international_peace",
+    "name": "국제 사회의 행위 주체와 평화",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "역사"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "LAW-05",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "HIS-03",
+        "area": "역사",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "globalization"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 7
+      },
+      {
+        "id": "capitalism_history",
+        "name": "자본주의의 역사적 전개",
+        "boundary_count": 2
+      },
+      {
+        "id": "fossil_fuel",
+        "name": "화석 에너지 자원",
+        "boundary_count": 2
+      },
+      {
+        "id": "religious_landscape",
+        "name": "종교의 공간적 확산과 문화 경관",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "peace_theory",
+    "name": "소극적 평화와 적극적 평화",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "LAW-05",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "HIS-03",
+        "area": "역사",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_peace"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 5
+      },
+      {
+        "id": "fossil_fuel",
+        "name": "화석 에너지 자원",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "division_unification",
+    "name": "한반도 분단과 통일",
+    "primary_domain": "역사",
+    "domains": [
+      "역사",
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "HIS-03",
+        "area": "역사",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "LAW-05",
+        "area": "법과 정치",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_peace"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 2
+      },
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 2
+      },
+      {
+        "id": "fair_trade",
+        "name": "공정 무역",
+        "boundary_count": 1
+      },
+      {
+        "id": "global_city",
+        "name": "세계 도시와 도시 체계",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "east_asia_conflict",
+    "name": "동아시아 역사 갈등과 평화",
+    "primary_domain": "역사",
+    "domains": [
+      "역사",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "HIS-03",
+        "area": "역사",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_peace",
+      "temporal_view"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "religious_landscape",
+        "name": "종교의 공간적 확산과 문화 경관",
+        "boundary_count": 2
+      },
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 2
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 1
+      },
+      {
+        "id": "fair_trade",
+        "name": "공정 무역",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "population_structure",
+    "name": "인구 구조와 인구 문제",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-04",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [],
+    "distractor_candidates": [
+      {
+        "id": "multicultural_policy",
+        "name": "다문화 정책과 사회 통합",
+        "boundary_count": 2
+      },
+      {
+        "id": "information_society",
+        "name": "정보화와 정보 사회",
+        "boundary_count": 1
+      },
+      {
+        "id": "population_indicators",
+        "name": "인구 지표와 인구 구조 분석",
+        "boundary_count": 1
+      },
+      {
+        "id": "division_unification",
+        "name": "한반도 분단과 통일",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "low_birth_aging",
+    "name": "저출산·고령화",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-04",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "population_structure"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "population_migration",
+    "name": "인구 이동과 국제 이주",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "population_structure"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "boundary_count": 3
+      },
+      {
+        "id": "climate_regions",
+        "name": "기후 지역과 생활 양식",
+        "boundary_count": 1
+      },
+      {
+        "id": "religious_landscape",
+        "name": "종교의 공간적 확산과 문화 경관",
+        "boundary_count": 1
+      },
+      {
+        "id": "future_society",
+        "name": "미래 사회의 변화와 대응",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "resource_distribution",
+    "name": "자원의 분포와 소비",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-11",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "natural_environment"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 11
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 8
+      },
+      {
+        "id": "energy_mix_transition",
+        "name": "에너지 믹스와 에너지 전환 경로",
+        "boundary_count": 4
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "fossil_fuel",
+    "name": "화석 에너지 자원",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-11",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "resource_distribution"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 13
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 9
+      },
+      {
+        "id": "energy_mix_transition",
+        "name": "에너지 믹스와 에너지 전환 경로",
+        "boundary_count": 3
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "renewable_energy",
+    "name": "신·재생 에너지와 에너지 전환",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "융합"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-11",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "fossil_fuel",
+      "sustainable_development"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "digital_citizenship",
+        "name": "디지털 시민성과 사이버 공간의 권리·책임",
+        "boundary_count": 3
+      },
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 2
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 2
+      },
+      {
+        "id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "future_society",
+    "name": "미래 사회의 변화와 대응",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "융합"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "SOC-05",
+        "area": "사회문화",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "information_society",
+      "sustainable_development"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정",
+        "boundary_count": 1
+      },
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 1
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 1
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "integrated_inquiry_attitudes",
+    "name": "통합적 탐구의 사고 태도",
+    "primary_domain": "융합",
+    "domains": [
+      "융합"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "INT-01",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "integrated_view"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "eastern_happiness",
+    "name": "동양의 행복론",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "역사"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ETH-01",
+        "area": "윤리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "meaning_of_happiness"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "settlement_environment",
+    "name": "질 높은 정주 환경",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-02",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-02",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "conditions_happiness"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "boundary_count": 4
+      },
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 1
+      },
+      {
+        "id": "constitutional_rights",
+        "name": "헌법과 기본권 보장",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "democracy_happiness",
+    "name": "민주주의와 행복",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-02",
+        "area": "윤리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "conditions_happiness"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "boundary_count": 2
+      },
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 2
+      },
+      {
+        "id": "social_view",
+        "name": "사회적 관점",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "moral_practice_happiness",
+    "name": "도덕적 실천과 행복",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-02",
+        "area": "윤리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "conditions_happiness"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "environmental_rights",
+    "name": "환경권과 안전권",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-03",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "new_rights",
+      "natural_disaster"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "biodiversity",
+    "name": "생물 다양성과 생태계 보전",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "environmental_problem"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "environmental_capacity",
+    "name": "환경 용량과 자정 능력",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "environmental_problem"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "environmental_governance",
+    "name": "환경 문제 해결의 주체와 거버넌스",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "법과 정치",
+      "융합"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-05",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "environmental_problem"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "low_birth_aging",
+        "name": "저출산·고령화",
+        "boundary_count": 1
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "cultural_identity",
+        "name": "문화적 정체성과 다문화 사회",
+        "boundary_count": 1
+      },
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "ecological_citizen",
+    "name": "생태시민과 녹색 소비",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "사회문화",
+      "융합"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-06",
+        "area": "윤리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "sustainable_development"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "environmental_assessment",
+    "name": "환경 영향 평가와 개발의 한계",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "sustainable_development"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "cultural_regions",
+    "name": "문화권의 형성과 세계 문화권",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화",
+      "역사"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-08",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "GEO-09",
+        "area": "지리",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "culture",
+      "natural_environment"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "traditional_culture",
+    "name": "전통문화의 의의와 창조적 계승",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "역사"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "SOC-02",
+        "area": "사회문화",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "cultural_identity"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "multicultural_policy",
+    "name": "다문화 정책과 사회 통합",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "SOC-02",
+        "area": "사회문화",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "cultural_identity"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 2
+      },
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 2
+      },
+      {
+        "id": "extreme_relativism",
+        "name": "극단적 문화 상대주의의 한계",
+        "boundary_count": 1
+      },
+      {
+        "id": "social_view",
+        "name": "사회적 관점",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "regional_research",
+    "name": "지역 조사와 지리 정보",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-07",
+        "area": "지리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "spatial_view"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "information_society",
+        "name": "정보화와 정보 사회",
+        "boundary_count": 4
+      },
+      {
+        "id": "population_indicators",
+        "name": "인구 지표와 인구 구조 분석",
+        "boundary_count": 2
+      },
+      {
+        "id": "settlement_environment",
+        "name": "질 높은 정주 환경",
+        "boundary_count": 1
+      },
+      {
+        "id": "urban_structure",
+        "name": "도시 내부 구조와 공간 분화",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "urban_problem_regeneration",
+    "name": "도시 문제와 도시 재생",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-06",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "urbanization"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "information_society",
+        "name": "정보화와 정보 사회",
+        "boundary_count": 2
+      },
+      {
+        "id": "settlement_environment",
+        "name": "질 높은 정주 환경",
+        "boundary_count": 1
+      },
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "suburbanization_metro",
+    "name": "교외화와 대도시권 확대",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-06",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-06",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "urban_structure",
+      "transport_development"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "social_view",
+        "name": "사회적 관점",
+        "boundary_count": 1
+      },
+      {
+        "id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "boundary_count": 1
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "smart_sustainable_city",
+    "name": "스마트 도시와 지속가능한 도시",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "융합"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-06",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-06",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "urban_problem_regeneration",
+      "information_society",
+      "sustainable_development"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "rule_of_law_separation",
+    "name": "법치주의와 권력 분립",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-02",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "constitutional_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "rights_remedies",
+    "name": "기본권 구제 제도",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-04",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "constitutional_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "justice",
+        "name": "정의의 의미",
+        "boundary_count": 2
+      },
+      {
+        "id": "rule_of_law_separation",
+        "name": "법치주의와 권력 분립",
+        "boundary_count": 1
+      },
+      {
+        "id": "civil_disobedience",
+        "name": "시민 불복종",
+        "boundary_count": 1
+      },
+      {
+        "id": "affirmative_action",
+        "name": "적극적 우대 조치",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "vulnerable_human_rights",
+    "name": "사회적 약자와 인권 문제",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "LAW-03",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "human_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 3
+      },
+      {
+        "id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준",
+        "boundary_count": 3
+      },
+      {
+        "id": "extreme_relativism",
+        "name": "극단적 문화 상대주의의 한계",
+        "boundary_count": 2
+      },
+      {
+        "id": "equality_principles",
+        "name": "절대적 평등과 상대적 평등",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "corrective_justice",
+    "name": "교정적 정의",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-05",
+        "area": "윤리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "social_inequality",
+        "name": "사회 불평등의 양상",
+        "boundary_count": 1
+      },
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "punishment_theories",
+    "name": "응보주의와 공리주의 형벌론",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-05",
+        "area": "윤리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ETH-05",
+        "area": "윤리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "corrective_justice"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "liberal_communitarian",
+    "name": "자유주의와 공동체주의 정의관",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ETH-04",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ETH-04",
+        "area": "윤리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "equality_principles",
+    "name": "절대적 평등과 상대적 평등",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-04",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "SOC-04",
+        "area": "사회문화",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "justice"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "capitalism_history",
+    "name": "자본주의의 역사적 전개",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "역사"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-02",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "HIS-01",
+        "area": "역사",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_principle"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "fossil_fuel",
+        "name": "화석 에너지 자원",
+        "boundary_count": 2
+      },
+      {
+        "id": "urban_structure",
+        "name": "도시 내부 구조와 공간 분화",
+        "boundary_count": 2
+      },
+      {
+        "id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "boundary_count": 2
+      },
+      {
+        "id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "economic_systems",
+    "name": "시장경제·계획경제·혼합경제",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-02",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_principle"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 4
+      },
+      {
+        "id": "business_cycle",
+        "name": "경기 변동과 경제 성장",
+        "boundary_count": 2
+      },
+      {
+        "id": "economic_surplus_efficiency",
+        "name": "소비자·생산자 잉여와 자원 배분 효율성",
+        "boundary_count": 2
+      },
+      {
+        "id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "external_effects",
+    "name": "외부 효과",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_failure"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "boundary_count": 4
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 2
+      },
+      {
+        "id": "market_failure",
+        "name": "시장 실패",
+        "boundary_count": 2
+      },
+      {
+        "id": "monopoly_competition",
+        "name": "독과점과 경쟁 정책",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "public_goods",
+    "name": "공공재의 비배제성과 비경합성",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_failure"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "information_asymmetry",
+        "name": "정보 비대칭성과 역선택",
+        "boundary_count": 2
+      },
+      {
+        "id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "boundary_count": 1
+      },
+      {
+        "id": "monopoly_competition",
+        "name": "독과점과 경쟁 정책",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "information_asymmetry",
+    "name": "정보 비대칭성과 역선택",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-05",
+        "area": "융합",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_failure"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "monopoly_competition",
+    "name": "독과점과 경쟁 정책",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_failure"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "boundary_count": 1
+      },
+      {
+        "id": "price_level_inflation",
+        "name": "물가 지수와 인플레이션",
+        "boundary_count": 1
+      },
+      {
+        "id": "business_cycle",
+        "name": "경기 변동과 경제 성장",
+        "boundary_count": 1
+      },
+      {
+        "id": "capitalism_history",
+        "name": "자본주의의 역사적 전개",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "economic_actor_roles",
+    "name": "가계·기업·정부의 경제적 역할",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-02",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_principle"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "monopoly_competition",
+        "name": "독과점과 경쟁 정책",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "ethical_consumption",
+    "name": "윤리적 소비와 지속가능한 시장 참여",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "윤리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-06",
+        "area": "윤리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_actor_roles",
+      "sustainable_development"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "financial_properties",
+    "name": "금융 자산의 유형과 속성",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "financial_life"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 3
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 1
+      },
+      {
+        "id": "multinational_corporation",
+        "name": "다국적 기업과 공간적 분업",
+        "boundary_count": 1
+      },
+      {
+        "id": "economic_indicators",
+        "name": "경제 지표와 금융 의사 결정",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "economic_indicators",
+    "name": "경제 지표와 금융 의사 결정",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-08",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "financial_life"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "capitalism_history",
+        "name": "자본주의의 역사적 전개",
+        "boundary_count": 4
+      },
+      {
+        "id": "fossil_fuel",
+        "name": "화석 에너지 자원",
+        "boundary_count": 2
+      },
+      {
+        "id": "business_cycle",
+        "name": "경기 변동과 경제 성장",
+        "boundary_count": 2
+      },
+      {
+        "id": "exchange_rate_effects",
+        "name": "환율 변동의 무역·자본 이동 효과",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "production_possibility",
+    "name": "생산 가능 곡선과 특화",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-11",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "opportunity_cost",
+      "comparative_advantage"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용",
+        "boundary_count": 9
+      },
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 5
+      },
+      {
+        "id": "comparative_advantage",
+        "name": "절대 우위와 비교 우위",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "economic_activity_flow",
+    "name": "경제 활동의 유형과 국민 경제 순환",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 1,
+    "stage_label": "기초",
+    "depth_band": "기초 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-02",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "scarcity"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "externality_correction",
+        "name": "외부 효과의 사회적 최적과 교정",
+        "boundary_count": 2
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 1
+      },
+      {
+        "id": "tax_subsidy_incidence",
+        "name": "조세·보조금의 귀착과 후생 효과",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "economic_agent_objectives",
+    "name": "경제 주체의 역할과 목적 함수",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-02",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-04",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_activity_flow"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "marginal_analysis",
+    "name": "한계 분석과 최적 선택",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-01",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "rational_choice",
+      "opportunity_cost"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "consumer_choice_budget",
+    "name": "예산 제약과 소비자의 효용 극대화",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_agent_objectives",
+      "marginal_analysis"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "firm_production_cost",
+    "name": "기업의 생산·비용·수입과 이윤 극대화",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-04",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_agent_objectives",
+      "marginal_analysis"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "demand_supply",
+    "name": "수요·공급의 법칙과 시장 균형",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-05",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "market_principle"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "externality_correction",
+        "name": "외부 효과의 사회적 최적과 교정",
+        "boundary_count": 1
+      },
+      {
+        "id": "tax_subsidy_incidence",
+        "name": "조세·보조금의 귀착과 후생 효과",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "demand_supply_shift",
+    "name": "수요·공급의 변동과 연관재",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-05",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "simultaneous_market_shift",
+    "name": "수요·공급의 동시 변동과 균형의 불확정성",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-05",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-05",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply_shift"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "elasticity",
+    "name": "수요·공급의 가격 탄력성",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-05",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-05",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "economic_surplus_efficiency",
+    "name": "소비자·생산자 잉여와 자원 배분 효율성",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply",
+      "marginal_analysis"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "price_regulation",
+    "name": "최고·최저 가격제와 거래량 규제",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply",
+      "economic_surplus_efficiency"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "tax_subsidy_incidence",
+    "name": "조세·보조금의 귀착과 후생 효과",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-06",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply",
+      "economic_surplus_efficiency"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "tax_structure",
+    "name": "비례세·누진세·역진세와 조세 부담",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-14",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-14",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "fiscal_balance",
+      "distributive_justice"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "externality_correction",
+    "name": "외부 효과의 사회적 최적과 교정",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "융합"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-07",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "external_effects",
+      "economic_surplus_efficiency"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "market_failure",
+        "name": "시장 실패",
+        "boundary_count": 2
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 2
+      },
+      {
+        "id": "low_birth_aging",
+        "name": "저출산·고령화",
+        "boundary_count": 1
+      },
+      {
+        "id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "national_income_accounting",
+    "name": "국내 총생산과 국민소득의 측정",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-08",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_activity_flow"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "cultural_identity",
+        "name": "문화적 정체성과 다문화 사회",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "price_level_inflation",
+    "name": "물가 지수와 인플레이션",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-09",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "national_income_accounting"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "employment_indicators",
+    "name": "고용·실업 지표와 인구 상태 이동",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-09",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-04",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_activity_flow"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "information_society",
+        "name": "정보화와 정보 사회",
+        "boundary_count": 1
+      },
+      {
+        "id": "population_indicators",
+        "name": "인구 지표와 인구 구조 분석",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "labor_market_wage",
+    "name": "노동 시장의 수요·공급과 임금 결정",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "사회문화"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-09",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-04",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply",
+      "economic_activity_flow"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "discouraged_worker_effect",
+    "name": "실망 실업자와 고용 지표의 역설",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "사회문화"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-09",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-09",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "employment_indicators"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "business_cycle",
+    "name": "경기 변동과 경제 성장",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-09",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "national_income_accounting",
+      "price_level_inflation",
+      "employment_indicators"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "aggregate_demand_supply",
+    "name": "총수요·총공급과 국민 경제 균형",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply",
+      "business_cycle"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "nominal_real_indicators",
+    "name": "명목·실질 지표와 물가 조정",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-08",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "national_income_accounting",
+      "price_level_inflation"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "inflation_types",
+    "name": "수요 견인·비용 인상 인플레이션",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-09",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "price_level_inflation",
+      "aggregate_demand_supply"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "fiscal_policy",
+    "name": "재정 정책과 경기 안정화",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "aggregate_demand_supply"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "fiscal_balance",
+    "name": "재정 수입·지출과 재정 수지",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-14",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-04",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2,
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_agent_objectives"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "monetary_policy",
+    "name": "통화 정책과 통화량·금리 경로",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "aggregate_demand_supply",
+      "economic_indicators"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "policy_mix",
+    "name": "재정·통화 정책 조합과 상쇄 효과",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-10",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "fiscal_policy",
+      "monetary_policy"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "terms_of_trade",
+    "name": "교역 조건과 무역 이익",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-11",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "production_possibility",
+      "comparative_advantage"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용",
+        "boundary_count": 3
+      },
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "trade_policy_welfare",
+    "name": "관세·수입 규제와 무역 후생",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-11",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_trade",
+      "economic_surplus_efficiency"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "foreign_exchange_market",
+    "name": "외환 시장과 환율 결정",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-12",
+        "area": "경제",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "demand_supply",
+      "international_trade"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "exchange_rate_effects",
+    "name": "환율 변동의 무역·자본 이동 효과",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "지리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-12",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-12",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "foreign_exchange_market"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "cross_exchange_rate",
+    "name": "통화 가치와 교차 환율",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-12",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-12",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "foreign_exchange_market"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "balance_of_payments",
+    "name": "국제수지와 경상 수지",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-12",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_trade",
+      "foreign_exchange_market"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "household_income_expenditure",
+    "name": "가계의 소득·지출과 처분 가능 소득",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "economic_activity_flow",
+      "financial_life"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "financial_return_risk",
+    "name": "금융 상품의 수익·위험 구조와 분산 투자",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-03",
+        "area": "경제",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "financial_properties"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "economic_indicators",
+        "name": "경제 지표와 금융 의사 결정",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "time_value_of_money",
+    "name": "화폐의 시간 가치와 복리",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "financial_properties",
+      "rational_choice"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "real_interest_return",
+    "name": "명목 이자율·물가와 실질 수익률",
+    "primary_domain": "경제",
+    "domains": [
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ECO-13",
+        "area": "경제",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "time_value_of_money",
+      "price_level_inflation"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "compound_rate_change",
+    "name": "증가율·증가액과 누적 변화",
+    "primary_domain": "경제",
+    "domains": [
+      "경제",
+      "융합"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "ECO-08",
+        "area": "경제",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "rational_choice"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "localization",
+    "name": "지역화와 장소 마케팅",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-09",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-03",
+        "area": "융합",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "globalization"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 11
+      },
+      {
+        "id": "multinational_corporation",
+        "name": "다국적 기업과 공간적 분업",
+        "boundary_count": 4
+      },
+      {
+        "id": "fair_trade",
+        "name": "공정 무역",
+        "boundary_count": 4
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "geographical_indication",
+    "name": "지리적 표시제와 지역 상품의 가치",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "사회문화"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-09",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "localization",
+      "cultural_regions"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역",
+        "boundary_count": 8
+      },
+      {
+        "id": "multinational_corporation",
+        "name": "다국적 기업과 공간적 분업",
+        "boundary_count": 5
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성",
+        "boundary_count": 3
+      },
+      {
+        "id": "fair_trade",
+        "name": "공정 무역",
+        "boundary_count": 3
+      }
+    ]
+  },
+  {
+    "concept_id": "globalization_problems",
+    "name": "세계화의 문제와 문화 획일화",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-09",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "globalization"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "extreme_relativism",
+        "name": "극단적 문화 상대주의의 한계",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "international_relations",
+    "name": "국제 관계의 현실주의와 이상주의",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-05",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "LAW-05",
+        "area": "법과 정치",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_peace"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "world_citizenship",
+    "name": "세계시민 의식과 국제적 연대",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치",
+      "융합"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "ETH-06",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "LAW-05",
+        "area": "법과 정치",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "international_peace"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "urban_problem_regeneration",
+        "name": "도시 문제와 도시 재생",
+        "boundary_count": 1
+      },
+      {
+        "id": "climate_governance",
+        "name": "기후 변화와 국제 환경 협약",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "population_indicators",
+    "name": "인구 지표와 인구 구조 분석",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "population_structure"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정",
+        "boundary_count": 2
+      },
+      {
+        "id": "multicultural_policy",
+        "name": "다문화 정책과 사회 통합",
+        "boundary_count": 2
+      },
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 1
+      },
+      {
+        "id": "global_city",
+        "name": "세계 도시와 도시 체계",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "demographic_transition",
+    "name": "인구 변천 모형과 인구 성장 단계",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "population_indicators"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "multicultural_policy",
+        "name": "다문화 정책과 사회 통합",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "population_policy",
+    "name": "인구 문제와 인구 정책",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "사회문화",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-10",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "population_indicators",
+      "low_birth_aging",
+      "population_migration"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "resource_characteristics",
+    "name": "자원의 의미·유한성·편재성·가변성",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-11",
+        "area": "지리",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "resource_distribution"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "resource_security",
+    "name": "자원 안보와 자원 민족주의",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-11",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-11",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "resource_characteristics",
+      "international_trade"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "east_asia_conflict",
+        "name": "동아시아 역사 갈등과 평화",
+        "boundary_count": 1
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "energy_mix_transition",
+    "name": "에너지 믹스와 에너지 전환 경로",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "융합"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-11",
+        "area": "지리",
+        "role": "본문 연계"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "fossil_fuel",
+      "renewable_energy",
+      "resource_security"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "industrialization",
+        "name": "산업화",
+        "boundary_count": 4
+      },
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "boundary_count": 3
+      },
+      {
+        "id": "digital_citizenship",
+        "name": "디지털 시민성과 사이버 공간의 권리·책임",
+        "boundary_count": 3
+      },
+      {
+        "id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "boundary_count": 2
+      }
+    ]
+  },
+  {
+    "concept_id": "sdgs",
+    "name": "지속가능발전 목표(SDGs)",
+    "primary_domain": "융합",
+    "domains": [
+      "융합",
+      "법과 정치",
+      "경제"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-05",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-05",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "sustainable_development"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "carbon_neutrality",
+    "name": "탄소중립과 탄소 가격 제도",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "경제",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-05",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-02",
+        "area": "융합",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-05",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 2,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "climate_governance",
+      "renewable_energy"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "fourth_industrial_revolution",
+    "name": "제4차 산업 혁명과 인공지능 사회",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "경제",
+      "융합"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "B",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-05",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-05",
+        "area": "융합",
+        "role": "본문 중심"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "future_society",
+      "information_society"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "technology_ethics_regulation",
+    "name": "인공지능·신기술의 윤리와 규제",
+    "primary_domain": "윤리",
+    "domains": [
+      "윤리",
+      "법과 정치",
+      "사회문화",
+      "융합"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 3,
+    "placements": [
+      {
+        "set_id": "ETH-06",
+        "area": "윤리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "SOC-05",
+        "area": "사회문화",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "INT-05",
+        "area": "융합",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "ETH-06",
+        "area": "윤리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 3,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "fourth_industrial_revolution",
+      "human_rights"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "eudaimonia",
+        "name": "덕과 자아실현의 행복론",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "landforms_and_life",
+    "name": "지형 형성과 인간 생활",
+    "primary_domain": "지리",
+    "domains": [
+      "지리"
+    ],
+    "stage": 2,
+    "stage_label": "핵심",
+    "depth_band": "심화 개념",
+    "importance": "A",
+    "minimum_set_exposure": 2,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "GEO-02",
+        "area": "지리",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "GEO-01",
+        "area": "지리",
+        "role": "문항·보기 재노출"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "문항·보기 재노출": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "natural_environment"
+    ],
+    "distractor_candidates": [
+      {
+        "id": "market_failure",
+        "name": "시장 실패",
+        "boundary_count": 2
+      },
+      {
+        "id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "boundary_count": 2
+      },
+      {
+        "id": "urban_structure",
+        "name": "도시 내부 구조와 공간 분화",
+        "boundary_count": 1
+      },
+      {
+        "id": "financial_properties",
+        "name": "금융 자산의 유형과 속성",
+        "boundary_count": 1
+      }
+    ]
+  },
+  {
+    "concept_id": "environmental_conflict",
+    "name": "환경 갈등과 이해관계 조정",
+    "primary_domain": "지리",
+    "domains": [
+      "지리",
+      "윤리",
+      "법과 정치"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "본문 연계"
+      },
+      {
+        "set_id": "GEO-04",
+        "area": "지리",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 연계": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "environmental_problem",
+      "environmental_governance"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "rights_conceptions",
+    "name": "인권의 성격과 권리 개념의 확장",
+    "primary_domain": "법과 정치",
+    "domains": [
+      "법과 정치",
+      "윤리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 1,
+    "placements": [
+      {
+        "set_id": "LAW-01",
+        "area": "법과 정치",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "LAW-01",
+        "area": "법과 정치",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 1,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "human_rights",
+      "rights_history"
+    ],
+    "distractor_candidates": []
+  },
+  {
+    "concept_id": "inequality_indicators",
+    "name": "불평등 지표의 해석",
+    "primary_domain": "사회문화",
+    "domains": [
+      "사회문화",
+      "지리"
+    ],
+    "stage": 3,
+    "stage_label": "심화",
+    "depth_band": "심화 개념",
+    "importance": "C",
+    "minimum_set_exposure": 1,
+    "actual_set_exposure": 2,
+    "placements": [
+      {
+        "set_id": "SOC-04",
+        "area": "사회문화",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "INT-06",
+        "area": "융합",
+        "role": "본문 중심"
+      },
+      {
+        "set_id": "SOC-04",
+        "area": "사회문화",
+        "role": "해설 확장"
+      }
+    ],
+    "role_counts": {
+      "본문 중심": 2,
+      "해설 확장": 1
+    },
+    "coverage_status": "충족",
+    "prerequisites": [
+      "social_inequality"
+    ],
+    "distractor_candidates": []
+  }
+]

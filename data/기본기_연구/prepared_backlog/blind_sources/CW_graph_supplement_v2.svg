@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="440" viewBox="0 0 23000 11000">
+  <title>CW blind-only 보기 도식 복원 v2</title>
+  <defs><marker id="arrow" markerWidth="180" markerHeight="180" refX="150" refY="90" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L180,90 L0,180 z" fill="#000"/></marker></defs>
+  <g fill="#fff" stroke="#000" stroke-width="33" font-family="sans-serif" font-size="1000" text-anchor="middle" dominant-baseline="middle">
+    <ellipse cx="4848.7" cy="1835.5" rx="1795" ry="1775"/><text x="4848.7" y="1835.5">a</text>
+    <ellipse cx="11402.1" cy="1774.4" rx="1795" ry="1775"/><text x="11402.1" y="1774.4">b</text>
+    <ellipse cx="17955.5" cy="1775.2" rx="1795" ry="1775"/><text x="17955.5" y="1775.2">c</text>
+    <ellipse cx="11402.1" cy="8282.4" rx="1795" ry="1775"/><text x="11402.1" y="8282.4">e</text>
+    <ellipse cx="4848.7" cy="8282.4" rx="1795" ry="1775"/><text x="4848.7" y="8282.4">d</text>
+  </g>
+  <g fill="none" stroke="#000" stroke-width="33" marker-end="url(#arrow)">
+    <line x1="0" y1="1774.4" x2="2963.6" y2="1774.4"/>
+    <line x1="6643.6" y1="1773.6" x2="9607.2" y2="1773.6"/>
+    <line x1="13197" y1="1774.4" x2="16160.6" y2="1774.4"/>
+    <line x1="19750.4" y1="1774.4" x2="22714" y2="1774.4"/>
+    <line x1="3366.5" y1="5042.2" x2="3366.5" y2="8005.8"/>
+    <line x1="9919.9" y1="5042.2" x2="9919.9" y2="8005.8"/>
+    <line x1="13197" y1="8281" x2="16160.6" y2="8281"/>
+    <line x1="44.3" y1="8280.3" x2="3007.9" y2="8280.3"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+{
+  "blind_only": true,
+  "passage_group": "G158",
+  "case_id": "YY",
+  "source_role": "mechanical_canonical_figure_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "source_sha256": "1ec3cd474e996fdcea0e4497f6a2e8f45b7e62caee8a1bfc5588b8c9ae6ec42c",
+    "xml_part": "Contents/section0.xml",
+    "question_number_paragraph_index": 901,
+    "view_paragraph_index": 902,
+    "view_duplicate_render_paragraph_index": 909,
+    "canonical_binary_ref": "image10",
+    "diagram_file": "data/기본기_연구/prepared_backlog/blind_sources/YY_G158_diagram_image10.png",
+    "diagram_sha256": "269d1bf80a07d7e6d35a7795aa680b1f7793a2cfc421408eaa93fbbc87139a59"
+  },
+  "diagram_mechanical_observation": {
+    "visible_labels": ["ⓐ", "ⓑ", "ⓒ", "ⓓ", "흡착 세기", "촉매 활성", "약함", "강함", "낮음", "높음"],
+    "figure_mapping": "정확한 YY 발문 paragraph 901 뒤의 <보기> paragraph 902에 배치된 canonical image10을 원본 PNG로 추출했다.",
+    "figure_note": "점·축·ⓐ~ⓓ 표시와 축 방향 표기를 원본 이미지로 보존했으며 의미 해석은 하지 않는다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "YY 발문 뒤 <보기>의 그래프 원본만 복원했다."
+}

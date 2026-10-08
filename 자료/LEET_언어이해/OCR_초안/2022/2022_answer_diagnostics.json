@@ -1,0 +1,628 @@
+[
+  {
+    "page": 1,
+    "region": "full",
+    "word_count": 63,
+    "mean_confidence": 52.41269841269841,
+    "low_confidence_count": 40,
+    "low_confidence_words": [
+      {
+        "text": "£48",
+        "confidence": 53.0,
+        "left": 695,
+        "top": 267,
+        "width": 62,
+        "height": 19
+      },
+      {
+        "text": "대",
+        "confidence": 46.0,
+        "left": 186,
+        "top": 301,
+        "width": 45,
+        "height": 87
+      },
+      {
+        "text": "ee",
+        "confidence": 45.0,
+        "left": 235,
+        "top": 301,
+        "width": 81,
+        "height": 87
+      },
+      {
+        "text": "[8",
+        "confidence": 25.0,
+        "left": 315,
+        "top": 301,
+        "width": 110,
+        "height": 87
+      },
+      {
+        "text": "ww",
+        "confidence": 51.0,
+        "left": 453,
+        "top": 301,
+        "width": 73,
+        "height": 87
+      },
+      {
+        "text": "[Ewe",
+        "confidence": 37.0,
+        "left": 525,
+        "top": 305,
+        "width": 236,
+        "height": 62
+      },
+      {
+        "text": "|",
+        "confidence": 65.0,
+        "left": 736,
+        "top": 301,
+        "width": 29,
+        "height": 87
+      },
+      {
+        "text": "|",
+        "confidence": 57.0,
+        "left": 61,
+        "top": 364,
+        "width": 160,
+        "height": 75
+      },
+      {
+        "text": "9",
+        "confidence": 54.0,
+        "left": 253,
+        "top": 368,
+        "width": 67,
+        "height": 51
+      },
+      {
+        "text": "|",
+        "confidence": 21.0,
+        "left": 319,
+        "top": 364,
+        "width": 38,
+        "height": 75
+      },
+      {
+        "text": "1",
+        "confidence": 21.0,
+        "left": 366,
+        "top": 368,
+        "width": 38,
+        "height": 51
+      },
+      {
+        "text": "9",
+        "confidence": 37.0,
+        "left": 455,
+        "top": 368,
+        "width": 76,
+        "height": 51
+      },
+      {
+        "text": "|",
+        "confidence": 50.0,
+        "left": 530,
+        "top": 364,
+        "width": 29,
+        "height": 75
+      },
+      {
+        "text": "ㅋ",
+        "confidence": 61.0,
+        "left": 553,
+        "top": 368,
+        "width": 85,
+        "height": 51
+      },
+      {
+        "text": "a",
+        "confidence": 18.0,
+        "left": 677,
+        "top": 368,
+        "width": 50,
+        "height": 51
+      },
+      {
+        "text": "|",
+        "confidence": 57.0,
+        "left": 727,
+        "top": 364,
+        "width": 25,
+        "height": 75
+      },
+      {
+        "text": "®",
+        "confidence": 76.0,
+        "left": 488,
+        "top": 436,
+        "width": 22,
+        "height": 20
+      },
+      {
+        "text": "clone",
+        "confidence": 7.0,
+        "left": 131,
+        "top": 420,
+        "width": 630,
+        "height": 106
+      },
+      {
+        "text": "+",
+        "confidence": 43.0,
+        "left": 146,
+        "top": 523,
+        "width": 65,
+        "height": 77
+      },
+      {
+        "text": "ow",
+        "confidence": 0.0,
+        "left": 210,
+        "top": 527,
+        "width": 225,
+        "height": 52
+      },
+      {
+        "text": "ou",
+        "confidence": 21.0,
+        "left": 447,
+        "top": 527,
+        "width": 200,
+        "height": 52
+      },
+      {
+        "text": "0",
+        "confidence": 2.0,
+        "left": 672,
+        "top": 527,
+        "width": 52,
+        "height": 52
+      },
+      {
+        "text": "|",
+        "confidence": 2.0,
+        "left": 723,
+        "top": 523,
+        "width": 27,
+        "height": 77
+      },
+      {
+        "text": "=",
+        "confidence": 20.0,
+        "left": 171,
+        "top": 576,
+        "width": 40,
+        "height": 77
+      },
+      {
+        "text": "of",
+        "confidence": 26.0,
+        "left": 229,
+        "top": 576,
+        "width": 155,
+        "height": 77
+      },
+      {
+        "text": "os",
+        "confidence": 20.0,
+        "left": 342,
+        "top": 580,
+        "width": 419,
+        "height": 52
+      },
+      {
+        "text": "oo]",
+        "confidence": 0.0,
+        "left": 666,
+        "top": 576,
+        "width": 97,
+        "height": 77
+      },
+      {
+        "text": "EEE",
+        "confidence": 0.0,
+        "left": 114,
+        "top": 629,
+        "width": 193,
+        "height": 77
+      },
+      {
+        "text": "ERENENEN",
+        "confidence": 0.0,
+        "left": 345,
+        "top": 629,
+        "width": 418,
+        "height": 77
+      },
+      {
+        "text": "©)",
+        "confidence": 76.0,
+        "left": 275,
+        "top": 695,
+        "width": 24,
+        "height": 32
+      },
+      {
+        "text": "+o",
+        "confidence": 0.0,
+        "left": 131,
+        "top": 793,
+        "width": 630,
+        "height": 52
+      },
+      {
+        "text": "|",
+        "confidence": 17.0,
+        "left": 313,
+        "top": 789,
+        "width": 39,
+        "height": 77
+      },
+      {
+        "text": "©",
+        "confidence": 11.0,
+        "left": 473,
+        "top": 789,
+        "width": 52,
+        "height": 77
+      },
+      {
+        "text": "|=",
+        "confidence": 11.0,
+        "left": 524,
+        "top": 789,
+        "width": 104,
+        "height": 77
+      },
+      {
+        "text": "|",
+        "confidence": 59.0,
+        "left": 627,
+        "top": 789,
+        "width": 52,
+        "height": 77
+      },
+      {
+        "text": "o0|",
+        "confidence": 45.0,
+        "left": 678,
+        "top": 789,
+        "width": 85,
+        "height": 77
+      },
+      {
+        "text": "|»",
+        "confidence": 45.0,
+        "left": 95,
+        "top": 842,
+        "width": 126,
+        "height": 75
+      },
+      {
+        "text": "os",
+        "confidence": 0.0,
+        "left": 220,
+        "top": 846,
+        "width": 214,
+        "height": 51
+      },
+      {
+        "text": "ow]",
+        "confidence": 0.0,
+        "left": 447,
+        "top": 842,
+        "width": 230,
+        "height": 75
+      },
+      {
+        "text": "o|",
+        "confidence": 0.0,
+        "left": 677,
+        "top": 842,
+        "width": 84,
+        "height": 75
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "region": "full",
+    "word_count": 70,
+    "mean_confidence": 63.371428571428574,
+    "low_confidence_count": 36,
+    "low_confidence_words": [
+      {
+        "text": "[82",
+        "confidence": 48.0,
+        "left": 98,
+        "top": 301,
+        "width": 101,
+        "height": 86
+      },
+      {
+        "text": "we",
+        "confidence": 44.0,
+        "left": 248,
+        "top": 301,
+        "width": 66,
+        "height": 86
+      },
+      {
+        "text": "[8",
+        "confidence": 30.0,
+        "left": 313,
+        "top": 301,
+        "width": 108,
+        "height": 86
+      },
+      {
+        "text": "su",
+        "confidence": 26.0,
+        "left": 449,
+        "top": 301,
+        "width": 80,
+        "height": 86
+      },
+      {
+        "text": "|",
+        "confidence": 26.0,
+        "left": 528,
+        "top": 301,
+        "width": 30,
+        "height": 86
+      },
+      {
+        "text": "들",
+        "confidence": 58.0,
+        "left": 594,
+        "top": 305,
+        "width": 55,
+        "height": 60
+      },
+      {
+        "text": "ws]",
+        "confidence": 57.0,
+        "left": 657,
+        "top": 301,
+        "width": 108,
+        "height": 86
+      },
+      {
+        "text": "|:",
+        "confidence": 53.0,
+        "left": 94,
+        "top": 364,
+        "width": 126,
+        "height": 74
+      },
+      {
+        "text": "|",
+        "confidence": 25.0,
+        "left": 302,
+        "top": 368,
+        "width": 38,
+        "height": 51
+      },
+      {
+        "text": "1",
+        "confidence": 1.0,
+        "left": 367,
+        "top": 364,
+        "width": 19,
+        "height": 74
+      },
+      {
+        "text": "9",
+        "confidence": 14.0,
+        "left": 469,
+        "top": 368,
+        "width": 65,
+        "height": 51
+      },
+      {
+        "text": "|",
+        "confidence": 14.0,
+        "left": 534,
+        "top": 364,
+        "width": 10,
+        "height": 74
+      },
+      {
+        "text": "ㅋ",
+        "confidence": 31.0,
+        "left": 580,
+        "top": 368,
+        "width": 28,
+        "height": 51
+      },
+      {
+        "text": "ㅁ",
+        "confidence": 20.0,
+        "left": 594,
+        "top": 364,
+        "width": 28,
+        "height": 74
+      },
+      {
+        "text": "ㅎㅇ",
+        "confidence": 24.0,
+        "left": 695,
+        "top": 364,
+        "width": 15,
+        "height": 74
+      },
+      {
+        "text": "|",
+        "confidence": 76.0,
+        "left": 728,
+        "top": 364,
+        "width": 38,
+        "height": 74
+      },
+      {
+        "text": "i:",
+        "confidence": 0.0,
+        "left": 277,
+        "top": 490,
+        "width": 22,
+        "height": 20
+      },
+      {
+        "text": "o",
+        "confidence": 68.0,
+        "left": 488,
+        "top": 490,
+        "width": 22,
+        "height": 20
+      },
+      {
+        "text": "|=",
+        "confidence": 59.0,
+        "left": 524,
+        "top": 448,
+        "width": 107,
+        "height": 98
+      },
+      {
+        "text": "ㅇ",
+        "confidence": 52.0,
+        "left": 658,
+        "top": 474,
+        "width": 103,
+        "height": 52
+      },
+      {
+        "text": "ee",
+        "confidence": 25.0,
+        "left": 131,
+        "top": 633,
+        "width": 630,
+        "height": 52
+      },
+      {
+        "text": "|v",
+        "confidence": 23.0,
+        "left": 314,
+        "top": 629,
+        "width": 120,
+        "height": 75
+      },
+      {
+        "text": "|",
+        "confidence": 40.0,
+        "left": 511,
+        "top": 629,
+        "width": 66,
+        "height": 75
+      },
+      {
+        "text": "ㅎㅇ",
+        "confidence": 6.0,
+        "left": 577,
+        "top": 629,
+        "width": 155,
+        "height": 75
+      },
+      {
+        "text": "|",
+        "confidence": 75.0,
+        "left": 731,
+        "top": 629,
+        "width": 29,
+        "height": 75
+      },
+      {
+        "text": "©)",
+        "confidence": 76.0,
+        "left": 275,
+        "top": 695,
+        "width": 24,
+        "height": 32
+      },
+      {
+        "text": "@)",
+        "confidence": 75.0,
+        "left": 699,
+        "top": 702,
+        "width": 22,
+        "height": 20
+      },
+      {
+        "text": "+",
+        "confidence": 23.0,
+        "left": 164,
+        "top": 789,
+        "width": 51,
+        "height": 75
+      },
+      {
+        "text": "ow",
+        "confidence": 0.0,
+        "left": 214,
+        "top": 793,
+        "width": 220,
+        "height": 52
+      },
+      {
+        "text": "os",
+        "confidence": 0.0,
+        "left": 447,
+        "top": 793,
+        "width": 187,
+        "height": 52
+      },
+      {
+        "text": "|",
+        "confidence": 63.0,
+        "left": 633,
+        "top": 789,
+        "width": 38,
+        "height": 75
+      },
+      {
+        "text": "o|",
+        "confidence": 60.0,
+        "left": 677,
+        "top": 789,
+        "width": 88,
+        "height": 75
+      },
+      {
+        "text": "|»",
+        "confidence": 50.0,
+        "left": 96,
+        "top": 842,
+        "width": 124,
+        "height": 74
+      },
+      {
+        "text": "o]|=»",
+        "confidence": 0.0,
+        "left": 231,
+        "top": 842,
+        "width": 174,
+        "height": 74
+      },
+      {
+        "text": "o]|w%",
+        "confidence": 0.0,
+        "left": 447,
+        "top": 842,
+        "width": 161,
+        "height": 74
+      },
+      {
+        "text": "o]",
+        "confidence": 61.0,
+        "left": 658,
+        "top": 842,
+        "width": 105,
+        "height": 74
+      }
+    ]
+  }
+]

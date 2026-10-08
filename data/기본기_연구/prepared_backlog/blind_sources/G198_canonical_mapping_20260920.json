@@ -1,0 +1,15 @@
+{
+  "blind_only": true,
+  "passage_group": "G198",
+  "case_ids": ["AGC", "AGD", "AGE", "AGF", "AGG"],
+  "canonical_source": {
+    "passage_id": "KICE-2019-6월_모평-Q22-26-S053~057",
+    "source_hwpx": "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "section_anchor": "사무실의 방충망이 낡아서 파손되었다면 세입자와 사무실을 빌려 준 건물주 중 누가 고쳐야 할까?",
+    "passage_sha256": "3a987e82244a19326a1d068b42f623d3463908d88b437b94932055a770e10152",
+    "question_numbers": [22, 23, 24, 25, 26]
+  },
+  "mechanical_case_order_basis": "preflight frontier selected unused passages in data/kice_passages.jsonl order after G197; this passage is the fourth selected group",
+  "status": "canonical_source_link_restored_mechanically"
+}

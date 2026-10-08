@@ -1,0 +1,33 @@
+{
+  "blind_only": true,
+  "passage_group": "G014",
+  "case_id": "CA",
+  "supplement_type": "canonical_visual_asset",
+  "provenance": {
+    "source_role": "anonymous_blind_source_visual_supplement",
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+    "source_format": "HWPX",
+    "canonical_mapping": {
+      "exam_family": "KICE",
+      "academic_year": 2022,
+      "exam_label": "수능",
+      "question_number": 16,
+      "question_page_marker": "060",
+      "section_xml": "Contents/section0.xml",
+      "anchor_text": "그림은 장치가 장착된 차량의 운전자에게 제공된 영상에서 전방 부분만 보여 준 것이다.",
+      "binary_item_id": "image21",
+      "original_figure_name": "CLP000138f82f26.bmp",
+      "original_figure_size_px": {"width": 887, "height": 825}
+    }
+  },
+  "visual_asset": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/CA_assets/CA_question16_figure.bmp",
+    "format": "BMP",
+    "width_px": 887,
+    "height_px": 825,
+    "extraction": "HWPX BinData/image21.bmp 원본 바이트 추출",
+    "visual_placeholder": false,
+    "completeness": "canonical_figure_present"
+  },
+  "note": "CA.json의 보기 본문에 누락된 그림 본체를 정본 HWPX에서 복원함. 답·SDSS 태그·기존 해설·기존 코드 판정은 포함하지 않음."
+}

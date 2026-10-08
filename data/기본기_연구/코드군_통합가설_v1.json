@@ -1,0 +1,68 @@
+{
+  "updated_at": "2026-09-08",
+  "purpose": "기출의 실제 풀이 구조를 위한 연구용 코드군. 원본 SDSS 번호·태그는 덮어쓰지 않는다.",
+  "user_direction": "실질적으로 같은 코드는 같다고 판단해도 된다. 서로 다른 번호라는 이유로 의미 차이를 강제하지 않는다.",
+  "decision_policy": {
+    "possible_relations": ["동일 또는 실질 동치", "상위·하위", "판단 층위가 다름", "복합 사용", "미확정"],
+    "do_not_infer_identity_from": ["같은 지문에 함께 등장", "한 문항의 주 코드와 보조 코드가 겹침", "검색 결과 동치만 존재"],
+    "research_merge_allowed_without_author_definition": true,
+    "historical_independent_judgments_immutable": true
+  },
+  "clusters": [
+    {
+      "cluster_id": "C074_075",
+      "working_name": "경쟁하는 설명·견해",
+      "member_code_numbers": [74, 75],
+      "decision": "provisional_working_merge",
+      "operational_treatment": "별도 코드의 본질적 차이를 강제하지 않고 하나의 연구군으로 사용한다.",
+      "full_semantic_identity": "가설. SDSS 저자의 정의 전체와 모든 기출 사용이 동일하다고 확정하지 않았다.",
+      "common_structure_hypothesis": "공통 논의 대상에 대한 복수 설명·견해의 내용을 주체별로 유지하고, 그 차이 또는 근거와의 관계를 추적한다.",
+      "substructures": [
+        {
+          "name": "설명과 관측의 대응",
+          "reading_action": "복수 설명이 예상하거나 설명하는 관측을 분리한다. 공통 증거와 판별 증거를 구별한다.",
+          "case_refs": ["E", "H"],
+          "note": "독립 풀이 구조의 사례다. E·H의 실제 SDSS 화면 태그는 강화/약화이며, 사이트가 이 군을 표지했다는 뜻은 아니다."
+        },
+        {
+          "name": "견해의 귀속·대조",
+          "reading_action": "같은 논의 대상에 대해 누가 어떤 견해를 갖는지 대응하고 비교 축을 유지한다.",
+          "case_refs": ["D", "F", "P", "X", "Z"],
+          "note": "두 사례의 화면 태그는 경쟁입장이다. 연구04 P·X·Z에서도 견해 귀속·대조가 주 연산으로 확인되었다. 사실/규범 구분만으로 이 하위 구조를 정의하지 않는다."
+        }
+      ],
+      "evidence": [
+        {
+          "type": "local_index_equivalence",
+          "paths": ["data/sdss_code_search_raw/074_경쟁가설.html", "data/sdss_code_search_raw/075_경쟁입장.html"],
+          "shared_sha256": "2b1780e4834f09419c77e4214e8d618dc242c38056125d2bf09a2eb6f80eb46b",
+          "qualification": "수집본에서 검증한 색인 동치이며, 이것만으로 의미 동치를 증명하지 않는다."
+        },
+        {
+          "type": "failed_initial_boundary",
+          "case_ref": "F",
+          "finding": "규범 입장으로만 #75를 한정하면 텍스트·의도 해석을 다루는 실제 경쟁입장 사례를 놓친다."
+        },
+        {
+          "type": "no_validated_exclusive_boundary",
+          "finding": "현재 독립 연구에서 #74와 #75를 반드시 별도 본질로 구별해야 할 기출 기반의 판독 기준은 확정되지 않았다."
+        }
+      ],
+      "confidence": {
+        "local_index_equivalence": "높음",
+        "working_merge_usefulness": "중간",
+        "full_semantic_equivalence": "미확정"
+      },
+      "revision_triggers": [
+        "기출에서 서로 다른 필수 풀이 행동과 사이트의 일관된 분리 사용이 확인됨",
+        "같은 구조로 합치면 정답 또는 매력적 오답의 결정적 차이를 보존하지 못함"
+      ],
+      "report": "분석/기본기_연구/코드심층_03_독립풀이_증거와경쟁.md"
+    }
+  ],
+  "non_merges": [
+    {"codes": [63, 65], "status": "미통합", "reason": "비판 평가라는 넓은 작업과 상대 주장의 왜곡이라는 특정 오류가 함께 나타난다고 실질 동치로 보지 않는다. L 참조."},
+    {"codes": [63, 19], "status": "미통합", "reason": "증거 역할 평가와 설명 공백 보완은 I에서 결합하지만 보존할 관계가 다르다."},
+    {"codes": [2, 50], "status": "미통합", "reason": "결론 강도와 인과 경로의 중단은 G에서 함께 쓰이나 J는 경로 중단 없이도 강도 판단을 요구한다."}
+  ]
+}

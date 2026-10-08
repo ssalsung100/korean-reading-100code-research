@@ -1,0 +1,30 @@
+{
+  "case_id": "GN",
+  "passage_group": "G040",
+  "artifact": "GN_graph_figure.png",
+  "source_role": "mechanical_blind_figure_restoration",
+  "source_identification": {
+    "provenance_metadata": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+    "projection_used": "KICE 2010 6월 모의평가, Q36",
+    "canonical_file": "자료/평가원_정답표/추출/모의평가/2010_6월_국어_20106언어/╛Ё╛ю┐╡┐к.pdf",
+    "canonical_file_note": "봉인 provenance의 GN 식별만 사용하여 원문 질문 PDF를 연결함"
+  },
+  "figure_location": {
+    "pdf_page_index": 12,
+    "printed_page": 12,
+    "page_count": 16,
+    "crop_pixels_at_render_scale_2_5": [180, 1900, 1060, 2340],
+    "visible_elements": ["<보기>", "집단 S", "ⓐ", "ⓑ", "㉠", "㉡", "㉢", "그리는 방법 설명"]
+  },
+  "scope_marker_location": {
+    "marker": "[A]",
+    "source_location": "printed page 12, left passage column",
+    "visual_boundary": "본문 둘째 단락 시작(‘한 연구팀은’)부터 ‘관찰된다.’로 끝나는 문장까지를 세로 괄호로 표시",
+    "status": "restored_from_original_page_position"
+  },
+  "limitations": [
+    "그림은 질문 PDF 페이지에서 픽셀 crop으로 보존했으며 벡터 원본은 확인하지 않음.",
+    "답·SDSS·해설·코드 판정 자료는 열지 않았고 이 파일에는 정답 판단을 기록하지 않음."
+  ],
+  "sha256": "555012592d53746b4dbe54fcbb78ae54c3bfccb20f1baafda10d5bd5b0ebe14c"
+}

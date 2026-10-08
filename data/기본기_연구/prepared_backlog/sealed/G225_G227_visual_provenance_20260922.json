@@ -1,0 +1,36 @@
+[
+  {
+    "case_ids": [
+      "AJZ"
+    ],
+    "source_path": "자료/LEET_언어이해/시각자료_원본/2022/p06_q11_망막_밝기와_출력신호_보기.png",
+    "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/AJZ_view.png",
+    "sha256": "8efc97b6bdcfdf60d95cdb6c6cb2bd31bb369fc5b52bc88d7ad5988b46bb7e5a",
+    "transformation": "byte-identical copy; anonymous filename and blind JSON link only",
+    "visual_check": "축·범례·기호·그림/선지 대응 직접 확인, 답·해설 없음"
+  },
+  {
+    "case_ids": [
+      "AKE",
+      "AKF",
+      "AKG"
+    ],
+    "source_path": "자료/LEET_언어이해/시각자료_원본/2022/p08_그림1_분할법의_예.png",
+    "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/G227_figure1.png",
+    "sha256": "b79d340881eee0dca284fb6fdf00cfea0156bc0b0d2b3174210e12bbde52d916",
+    "transformation": "byte-identical copy; anonymous filename and blind JSON link only",
+    "visual_check": "축·범례·기호·그림/선지 대응 직접 확인, 답·해설 없음"
+  },
+  {
+    "case_ids": [
+      "AKE",
+      "AKF",
+      "AKG"
+    ],
+    "source_path": "자료/LEET_언어이해/시각자료_원본/2022/p09_그림2_계층법의_예.png",
+    "blind_asset": "data/기본기_연구/prepared_backlog/blind_sources/G227_figure2.png",
+    "sha256": "7a5eba08773e19cc76c4cdc5d7fc70c85302c01516ce6ede11816ab8f9024ccb",
+    "transformation": "byte-identical copy; anonymous filename and blind JSON link only",
+    "visual_check": "축·범례·기호·그림/선지 대응 직접 확인, 답·해설 없음"
+  }
+]

@@ -1,0 +1,99 @@
+#!/usr/bin/env bash
+set -u
+
+SCRIPT_DIR="$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)"
+ROOT="$(cd "$SCRIPT_DIR/.." && pwd)"
+QUEUE="$ROOT/data/기본기_연구/astra_handoff_queue.jsonl"
+PROCESSED="$ROOT/data/기본기_연구/astra_handoff_processed.jsonl"
+MANIFEST="$ROOT/data/기본기_연구/prepared_backlog/manifest.jsonl"
+LOG_DIR="$ROOT/data/기본기_연구/cycle_logs"
+DATE_TAG="$(date +%Y%m%d-%H%M%S)"
+ASTRA_LOG="$LOG_DIR/astra-$DATE_TAG.jsonl"
+LUNA_LOG="$LOG_DIR/luna-$DATE_TAG.jsonl"
+ASTRA_MODEL="gpt-6-astra"
+LUNA_MODEL="gpt-5.6-luna"
+
+usage() { echo "Usage: cxcycle [--dry-run]"; }
+die() { echo "cxcycle: $*" >&2; exit 2; }
+
+DRY_RUN=0
+case "${1:-}" in
+  "") ;;
+  --dry-run) DRY_RUN=1 ;;
+  -h|--help) usage; exit 0 ;;
+  *) usage >&2; exit 2 ;;
+esac
+
+command -v codex >/dev/null 2>&1 || die "codex CLI를 찾지 못했습니다."
+test -f "$QUEUE" || die "queue가 없습니다: $QUEUE"
+test -f "$PROCESSED" || die "processed 원장이 없습니다: $PROCESSED"
+test -f "$MANIFEST" || die "prepared backlog manifest가 없습니다: $MANIFEST"
+mkdir -p "$LOG_DIR"
+
+queue_count() { awk 'NF {n++} END {print n+0}' "$QUEUE"; }
+manifest_count() { awk 'NF {n++} END {print n+0}' "$MANIFEST"; }
+pending_count() {
+  node - "$QUEUE" "$PROCESSED" <<'NODE'
+const fs=require('fs');
+const [queue,processed]=process.argv.slice(2);
+const ids=new Set(fs.readFileSync(processed,'utf8').split(/\n/).filter(Boolean).map(line=>{try{return JSON.parse(line).source_record_id}catch{return null}}));
+let n=0;
+for(const line of fs.readFileSync(queue,'utf8').split(/\n/).filter(Boolean)){try{if(!ids.has(JSON.parse(line).record_id))n++}catch{}}
+process.stdout.write(String(n));
+NODE
+}
+before_count="$(queue_count)"
+backlog_count="$(manifest_count)"
+
+ASTRA_CMD=(codex -a never exec -C "$ROOT" -m "$ASTRA_MODEL" -s workspace-write --skip-git-repo-check \
+  -c model_reasoning_effort=high \
+  -c model_context_window=1000000 \
+  -c model_auto_compact_token_limit=900000 \
+  --json)
+LUNA_CMD=(codex -a never exec -C "$ROOT" -m "$LUNA_MODEL" -s workspace-write --skip-git-repo-check \
+  -c model_reasoning_effort=medium --json)
+
+echo "cxcycle: Astra=$ASTRA_MODEL high, Luna=$LUNA_MODEL, prepared=$backlog_count, next=AA-or-CURRENT"
+if [ "$DRY_RUN" -eq 1 ]; then
+  printf 'ASTRA command:'; printf ' %q' "${ASTRA_CMD[@]}"; echo ' < scripts/cxcycle_astra_prompt.md'
+  printf 'LUNA command:'; printf ' %q' "${LUNA_CMD[@]}"; echo ' < scripts/cxcycle_luna_prompt.md'
+  echo "quota telemetry: post-run only; best-effort JSON event parsing; normal handoff threshold is remaining <= 7% (used_percent >= 93)"
+  echo "runtime warning emergency: 'less than 5% of your 5h limit left' -> safe raw/checkpoint -> Luna"
+  echo "live enforcement: unavailable in codex-cli 0.153.4; no signal/kill is used"
+  echo "handoff rule: Luna runs when Astra created new raw OR pending unprocessed raw exists (hard-limit recovery)"
+  echo "Luna reasoning effort: medium"
+  exit 0
+fi
+
+echo "cxcycle: Astra 실행을 시작합니다. remaining > 7%이고 runtime emergency warning이 없으면 prepared backlog를 계속 소비합니다."
+set +e
+"${ASTRA_CMD[@]}" < "$SCRIPT_DIR/cxcycle_astra_prompt.md" > "$ASTRA_LOG" 2>&1
+astra_status=$?
+set -e
+after_count="$(queue_count)"
+new_records=$((after_count - before_count))
+
+primary_limit="$(node -e '
+const fs=require("fs");let best="";for(const line of fs.readFileSync(process.argv[1],"utf8").split(/\n/)){try{const x=JSON.parse(line),r=x?.rate_limits?.primary;if(r&&typeof r.used_percent==="number"&&(!best||r.window_minutes===300))best=JSON.stringify(r)}catch{}}process.stdout.write(best)' "$ASTRA_LOG" 2>/dev/null || true)"
+weekly_limit="$(node -e '
+const fs=require("fs");let best="";for(const line of fs.readFileSync(process.argv[1],"utf8").split(/\n/)){try{const x=JSON.parse(line),r=x?.rate_limits?.secondary;if(r&&typeof r.used_percent==="number")best=JSON.stringify(r)}catch{}}process.stdout.write(best)' "$ASTRA_LOG" 2>/dev/null || true)"
+echo "cxcycle: Astra exit=$astra_status, new_raw=$new_records, primary_limit=${primary_limit:-unavailable}, weekly_limit=${weekly_limit:-unavailable}"
+echo "cxcycle: quota parser is post-run telemetry; Astra self-stop and Codex rate-limit errors are the live fail-safe"
+pending_records="$(pending_count)"
+if grep -Eqi 'less than 5% of your 5h limit left|usage limit|rate.?limit' "$ASTRA_LOG"; then
+  echo "cxcycle: runtime quota emergency or hard-limit signal detected; pending raw recovery takes priority"
+fi
+
+if [ "$new_records" -eq 0 ] && [ "$pending_records" -eq 0 ]; then
+  echo "cxcycle: 신규 또는 미처리 raw record가 없어 Luna를 생략합니다. Astra exit=$astra_status." >&2
+  exit "$astra_status"
+fi
+
+echo "cxcycle: new_raw=$new_records, pending_unprocessed=$pending_records; Luna handoff/recovery를 자동 실행합니다."
+set +e
+"${LUNA_CMD[@]}" < "$SCRIPT_DIR/cxcycle_luna_prompt.md" > "$LUNA_LOG" 2>&1
+luna_status=$?
+set -e
+echo "cxcycle: Luna exit=$luna_status, logs=$ASTRA_LOG,$LUNA_LOG"
+if [ "$luna_status" -ne 0 ]; then exit "$luna_status"; fi
+exit "$astra_status"

@@ -1,0 +1,26 @@
+{
+  "case_id": "RX",
+  "passage_group": "G119",
+  "source_role": "sealed_provenance_mapping",
+  "source_status": "exact_canonical_kice_question",
+  "provenance_mapping": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+  "question_id": "KICE-2019-6월_모평-Q35-38-S084~087-Q37",
+  "question_number": 37,
+  "canonical_source": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+  "canonical_xml": "Contents/section0.xml",
+  "source_scope": "Q086/RX 보기 선택지 표",
+  "xml_locator": {
+    "question_marker_text": "086",
+    "stem_text": "윗글을 참고할 때, <보기>의 A와 B에 들어갈 말을 올바르게 짝지은 것은?",
+    "choice_paragraphs": "section0.xml hp:p sequence immediately following the Q086 <보기> table; each row contains a tab-separated A/B pair",
+    "header": "A [tab] B",
+    "rows": [
+      {"label": "①", "A": "진양성", "B": "진음성"},
+      {"label": "②", "A": "진양성", "B": "위음성"},
+      {"label": "③", "A": "위양성", "B": "위음성"},
+      {"label": "④", "A": "위음성", "B": "진음성"},
+      {"label": "⑤", "A": "위음성", "B": "위양성"}
+    ]
+  },
+  "answer_exposure": "공식 답·정답지·SDSS·해설·코드 판정은 이 provenance record에 포함하지 않음"
+}

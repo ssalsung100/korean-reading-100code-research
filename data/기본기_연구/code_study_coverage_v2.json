@@ -1,0 +1,2762 @@
+{
+  "ambiguous_or_unresolved_site_labels": [],
+  "code_coverage": [
+    {
+      "aliases": [
+        "양과질",
+        "있음과없음",
+        "증감",
+        "유무"
+      ],
+      "candidate_count": 35,
+      "canonical_connection_count": 34,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 32,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 1,
+      "name": "양질",
+      "recommended_comparison_candidate_ids": [
+        "CAND-e907b1a4e01930d8",
+        "CAND-73d5d86e0032b1fc",
+        "CAND-588edfe1bee60bf9",
+        "CAND-298a2b332efad9d1",
+        "CAND-66aa4801823fdd60",
+        "CAND-039eda385d31b2d9",
+        "CAND-fb9c4b782ea22cf3",
+        "CAND-8767a9b81ac9d5ca",
+        "CAND-50648a350d6d83e8",
+        "CAND-da8845722656fcbc"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "필연가능",
+        "필연",
+        "가능",
+        "개연"
+      ],
+      "candidate_count": 46,
+      "canonical_connection_count": 46,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 43,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 2,
+      "name": "양상",
+      "recommended_comparison_candidate_ids": [
+        "CAND-2fc7cd1c6589e5c0",
+        "CAND-15f008d56d34913e",
+        "CAND-50befe35cf430de0",
+        "CAND-ab55031182455f26",
+        "CAND-5ecea7e5dd5cc9ca",
+        "CAND-70892f1f05e60e44",
+        "CAND-89a36172fa6d9437",
+        "CAND-9308eebd17e5ebe6",
+        "CAND-b4ba357a548decac",
+        "CAND-d59842406a4116da"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "시간",
+        "시제",
+        "동시"
+      ],
+      "candidate_count": 31,
+      "canonical_connection_count": 27,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 26,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 3,
+      "name": "선후",
+      "recommended_comparison_candidate_ids": [
+        "CAND-e6cb3380397d608b",
+        "CAND-9e1e93d81af5600a",
+        "CAND-4c825f8c730edd99",
+        "CAND-848499fc07223cc2",
+        "CAND-bff24184c2152448",
+        "CAND-2c52dffb69af1f2c",
+        "CAND-d68ae2b4eb785552",
+        "CAND-dcc57b4dded226b0",
+        "CAND-48b3f4b6f9cd9798",
+        "CAND-99da020f9c7c6196"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "양화사",
+        "모든",
+        "어떤"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 5,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 4,
+      "name": "양화",
+      "recommended_comparison_candidate_ids": [
+        "CAND-7c189ac935738a30",
+        "CAND-c783b84234753d72",
+        "CAND-d29a8896111f41d9",
+        "CAND-ed3ca6b474154db7",
+        "CAND-82fb582aed0a78e5"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "지속",
+        "유지",
+        "변화"
+      ],
+      "candidate_count": 11,
+      "canonical_connection_count": 11,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 11,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 5,
+      "name": "지속/변화",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d178a8f7e836e6dd",
+        "CAND-bfeb2f5bbb4a3509",
+        "CAND-590d18a1dadfed8d",
+        "CAND-5d6205b34c027dfe",
+        "CAND-b6b6f45263028917",
+        "CAND-fab1251de3bea8ec",
+        "CAND-cbb561e636fb7669",
+        "CAND-51805ce661f152ad",
+        "CAND-5706e3dc1751e1ef",
+        "CAND-4a3892b9742f5177"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "경험적",
+        "선험적"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 6,
+      "name": "선천/후천",
+      "recommended_comparison_candidate_ids": [
+        "CAND-aee4f8f31cd586a8"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "분류는OX"
+      ],
+      "candidate_count": 13,
+      "canonical_connection_count": 13,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 12,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 7,
+      "name": "질적차이",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d2b4ef6c431ed281",
+        "CAND-7320ea966bbee234",
+        "CAND-6e9811663a8151e4",
+        "CAND-ff8782bce4a4e6cf",
+        "CAND-59b2d512e4f26b05",
+        "CAND-142f063aafbe779c",
+        "CAND-7d6e6094a9663ec6",
+        "CAND-335e67a0db4e4518",
+        "CAND-23d046ea1a48d603",
+        "CAND-df839c9d5c10100e"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "조건부함수"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 5,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 8,
+      "name": "우선순위",
+      "recommended_comparison_candidate_ids": [
+        "CAND-8e14c4a14e1792e7",
+        "CAND-e72de534c1664960",
+        "CAND-abf0d9cc3e7c6f54",
+        "CAND-b0167d30665c8a3b",
+        "CAND-68eadf61b7b64831"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "서열"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 5,
+      "category": "4범주",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 9,
+      "name": "위계",
+      "recommended_comparison_candidate_ids": [
+        "CAND-8e14c4a14e1792e7",
+        "CAND-e72de534c1664960",
+        "CAND-abf0d9cc3e7c6f54",
+        "CAND-b0167d30665c8a3b",
+        "CAND-68eadf61b7b64831"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "요건",
+        "선행조건",
+        "필수조건",
+        "특수한것은필요조건이다"
+      ],
+      "candidate_count": 79,
+      "canonical_connection_count": 77,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 73,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 10,
+      "name": "필요조건",
+      "recommended_comparison_candidate_ids": [
+        "CAND-fd6487f60ee0e933",
+        "CAND-9e1e93d81af5600a",
+        "CAND-cf4e6738b45a54a8",
+        "CAND-479f21c653b54423",
+        "CAND-22a97f5fafdd9860",
+        "CAND-3a6a5e8b347fe7fd",
+        "CAND-24e8e68b931a31c8",
+        "CAND-848499fc07223cc2",
+        "CAND-a44604f0cf02b825",
+        "CAND-5b2e6bf467d35afb"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "필충",
+        "iff",
+        "비결정법은 필충"
+      ],
+      "candidate_count": 2,
+      "canonical_connection_count": 2,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 2,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 11,
+      "name": "필요충분조건",
+      "recommended_comparison_candidate_ids": [
+        "CAND-93fa3cfcfcff3526",
+        "CAND-dc6f14bf6f198fa2"
+      ],
+      "sample_shortage": 3
+    },
+    {
+      "aliases": [
+        "충분조건",
+        "조건",
+        "함축",
+        "포함관계",
+        "포함",
+        "법학은조건문",
+        "대우"
+      ],
+      "candidate_count": 51,
+      "canonical_connection_count": 51,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 45,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 12,
+      "name": "조건문",
+      "recommended_comparison_candidate_ids": [
+        "CAND-981c9e9634e9b3bf",
+        "CAND-fbe0bbe8a868b59a",
+        "CAND-d49b0ee586652d18",
+        "CAND-863aae267c164824",
+        "CAND-7ce61d0a8ba451b2",
+        "CAND-5f8f15e095ba8cf3",
+        "CAND-be307ed102f7bb19",
+        "CAND-4ab7658366b1ecd9",
+        "CAND-5546374f0b4525b9",
+        "CAND-48b3f4b6f9cd9798"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "배타관계",
+        "배타",
+        "배타적관계",
+        "반대",
+        "반대관계"
+      ],
+      "candidate_count": 7,
+      "canonical_connection_count": 7,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 7,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 13,
+      "name": "양립불가",
+      "recommended_comparison_candidate_ids": [
+        "CAND-93b9ad6d64477767",
+        "CAND-7660608c896b7a78",
+        "CAND-6ecadf8ce0ec20f8",
+        "CAND-dd72140ab19450ed",
+        "CAND-c08da748d6b11ae4",
+        "CAND-bdb78bd37226a2f3",
+        "CAND-829a8d7613db9eac"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "배타적이지 않음"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 14,
+      "name": "양립가능",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d5ab5c0ba7536075",
+        "CAND-b687326382b0f31a",
+        "CAND-25717485cbf0965c"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "기준은필요충분조건",
+        "기준은필충",
+        "판단기준"
+      ],
+      "candidate_count": 21,
+      "canonical_connection_count": 20,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 19,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 15,
+      "name": "기준",
+      "recommended_comparison_candidate_ids": [
+        "CAND-f7e917bdd7be5f15",
+        "CAND-81ce6d583ed4a969",
+        "CAND-171966e8393ad421",
+        "CAND-4b49cacc7d149835",
+        "CAND-96e0d40154b24bb8",
+        "CAND-8f9df9cb761bd65b",
+        "CAND-c559bbdb7202036d",
+        "CAND-251f27394a707d1a",
+        "CAND-19d880ba6d6c3182",
+        "CAND-0d1b2f438750555b"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "개념의정의",
+        "개념정의",
+        "개념의분석"
+      ],
+      "candidate_count": 9,
+      "canonical_connection_count": 8,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 8,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 16,
+      "name": "개념분석",
+      "recommended_comparison_candidate_ids": [
+        "CAND-2463698c3ff370e9",
+        "CAND-01635e2df5f5b85a",
+        "CAND-4e62bcd8de3a791a",
+        "CAND-a35e5de11428492d",
+        "CAND-565310b484c246d3",
+        "CAND-b47ef548b5850fc0",
+        "CAND-4a1b841b21984eb1",
+        "CAND-52f69458a549c682"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "대상의범주",
+        "범주"
+      ],
+      "candidate_count": 15,
+      "canonical_connection_count": 15,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 15,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 17,
+      "name": "대상범주",
+      "recommended_comparison_candidate_ids": [
+        "CAND-74aa7953e8b2caf8",
+        "CAND-26c8adce9a4ad422",
+        "CAND-22252f3e123e6699",
+        "CAND-3dbed69342f28c9d",
+        "CAND-5b2e6bf467d35afb",
+        "CAND-6709f1f70c73617c",
+        "CAND-449319c95648885d",
+        "CAND-52a9bb643144ab65",
+        "CAND-1839fc106f13276d",
+        "CAND-73860401c0705be8"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "무모순율",
+        "배중률",
+        "모순관계"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 8,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 7,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 18,
+      "name": "모순",
+      "recommended_comparison_candidate_ids": [
+        "CAND-ce59cb649c715172",
+        "CAND-431b0a3085bee7d0",
+        "CAND-415e88eef5d607bc",
+        "CAND-15a0077fa6427a8a",
+        "CAND-6a7fbfcc66fe502e",
+        "CAND-522c5afe3ba7bda5",
+        "CAND-628c3a3ddeb85f7a"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "부족하면보충",
+        "부족하면보완",
+        "보완",
+        "보완관계",
+        "상호보완",
+        "한계"
+      ],
+      "candidate_count": 69,
+      "canonical_connection_count": 68,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 66,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 19,
+      "name": "보충도식",
+      "recommended_comparison_candidate_ids": [
+        "CAND-5f4e00659d5b53b7",
+        "CAND-5450fbf905852307",
+        "CAND-6357603f27f6c8cd",
+        "CAND-4c12f62d2b902e39",
+        "CAND-1238987f62410893",
+        "CAND-4d24fa267afc5c7a",
+        "CAND-816ac0702252f23d",
+        "CAND-6d8f148232d824a0",
+        "CAND-7ce35dc39e37f919",
+        "CAND-3bb24b4863bbde5e"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "충분하면필요치않아",
+        "보충도식의부정"
+      ],
+      "candidate_count": 10,
+      "canonical_connection_count": 10,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 10,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 20,
+      "name": "복수실현",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d19d5c9bf92f1566",
+        "CAND-b772e0db611f9e39",
+        "CAND-fc76c235d06ffbd3",
+        "CAND-5fa5d58985686b42",
+        "CAND-2ade92376825e683",
+        "CAND-835735750c93e6b6",
+        "CAND-82054fc9f1db7c42",
+        "CAND-9382df22f0d4d861",
+        "CAND-3011b7850496891a",
+        "CAND-caf2ee190c03d890"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "정의는필요충분조건"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 21,
+      "name": "정의는필충",
+      "recommended_comparison_candidate_ids": [
+        "CAND-7b73e0470b2faf56"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "속성은상속된다",
+        "상속"
+      ],
+      "candidate_count": 7,
+      "canonical_connection_count": 6,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 6,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 22,
+      "name": "속성",
+      "recommended_comparison_candidate_ids": [
+        "CAND-5f8f15e095ba8cf3",
+        "CAND-4c47b4b46953bb91",
+        "CAND-e12684e442e516dc",
+        "CAND-f76abb92d880fc74",
+        "CAND-e6e314ab30764940",
+        "CAND-435381935ebe98b7"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "연언",
+        "AND",
+        "&",
+        "공통점"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 8,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 8,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 23,
+      "name": "교집합",
+      "recommended_comparison_candidate_ids": [
+        "CAND-1e309bc5004c078d",
+        "CAND-cf838891fc92341e",
+        "CAND-746de1480b238010",
+        "CAND-4255f01411e49c82",
+        "CAND-7631b5c763ccc7e9",
+        "CAND-ee67317e1470cf30",
+        "CAND-fb128916ac8bb87b",
+        "CAND-61b0b01316f78473"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "원칙",
+        "예외"
+      ],
+      "candidate_count": 6,
+      "canonical_connection_count": 6,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 24,
+      "name": "원칙/예외",
+      "recommended_comparison_candidate_ids": [
+        "CAND-b93f54e88d539a20",
+        "CAND-f2c588c6a83042a3",
+        "CAND-a6f55417195e0092",
+        "CAND-0d375fa6c39a3e87",
+        "CAND-e329c78accd470f4"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "트리구조"
+      ],
+      "candidate_count": 48,
+      "canonical_connection_count": 46,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 44,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 25,
+      "name": "분류",
+      "recommended_comparison_candidate_ids": [
+        "CAND-bca147d496b8214a",
+        "CAND-cd5bca615125190f",
+        "CAND-3856f1b4422422c6",
+        "CAND-fc50d11933110b28",
+        "CAND-c0ec5ab814a95bac",
+        "CAND-aa1571ee63da6155",
+        "CAND-7f54fde64f0304ff",
+        "CAND-02898efa5f1ca551",
+        "CAND-c7ba4abf1836b866",
+        "CAND-c353d458c594c98b"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "포스트모더니즘은이항대립의해체",
+        "MECE",
+        "겹치지않게빠짐없이"
+      ],
+      "candidate_count": 29,
+      "canonical_connection_count": 26,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 24,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 26,
+      "name": "이항대립",
+      "recommended_comparison_candidate_ids": [
+        "CAND-7b76baed87feb0a0",
+        "CAND-d20a83661a450b79",
+        "CAND-e4251a0cca3afb5a",
+        "CAND-762275849ad0fd01",
+        "CAND-d48a33a1a8dfe235",
+        "CAND-816ac0702252f23d",
+        "CAND-2f9aca9d8c15c453",
+        "CAND-6b4ea3654d1e81f3",
+        "CAND-841df2f998020911",
+        "CAND-4a3d3582f150aae0"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "외연과내포는경쟁적",
+        "외연",
+        "내포"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 27,
+      "name": "외연/내포",
+      "recommended_comparison_candidate_ids": [
+        "CAND-437443b2d0850003",
+        "CAND-deb0baa5555b0efb",
+        "CAND-ff2b848f98e4fa81"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "포함의도"
+      ],
+      "candidate_count": 4,
+      "canonical_connection_count": 4,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 4,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 28,
+      "name": "양보",
+      "recommended_comparison_candidate_ids": [
+        "CAND-1802c5b56f075e5b",
+        "CAND-d85ebf1e6030e9b5",
+        "CAND-d6fc08c5c6b53d1b",
+        "CAND-40c31af735baba48"
+      ],
+      "sample_shortage": 1
+    },
+    {
+      "aliases": [
+        "외연",
+        "내포"
+      ],
+      "candidate_count": 14,
+      "canonical_connection_count": 14,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 13,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 29,
+      "name": "집합",
+      "recommended_comparison_candidate_ids": [
+        "CAND-0829d7cf42f49dbc",
+        "CAND-1e309bc5004c078d",
+        "CAND-cf838891fc92341e",
+        "CAND-467a59d63451b5cf",
+        "CAND-a49b6cd09a4775fb",
+        "CAND-746de1480b238010",
+        "CAND-4255f01411e49c82",
+        "CAND-7631b5c763ccc7e9",
+        "CAND-590d16d98728d749",
+        "CAND-27c722ca335d9250"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "합쳐진집합"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 30,
+      "name": "합집합",
+      "recommended_comparison_candidate_ids": [
+        "CAND-a49b6cd09a4775fb"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "원소/집합"
+      ],
+      "candidate_count": 6,
+      "canonical_connection_count": 6,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 6,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 31,
+      "name": "원소의수/집합의수",
+      "recommended_comparison_candidate_ids": [
+        "CAND-2463698c3ff370e9",
+        "CAND-daf7019296e1b5de",
+        "CAND-4ae2113f081d22a0",
+        "CAND-6c96fab0012c2b77",
+        "CAND-61ad3e1561008de0",
+        "CAND-28c618a32601410c"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "겹쳐진집합"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 32,
+      "name": "교차관계",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d5ab5c0ba7536075",
+        "CAND-b687326382b0f31a",
+        "CAND-25717485cbf0965c"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "부정의부정은긍정"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 3,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 33,
+      "name": "이중부정",
+      "recommended_comparison_candidate_ids": [
+        "CAND-0e6c70942635ddb7",
+        "CAND-4c208704c2e98ac0",
+        "CAND-7450005968b05526"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "어떤것도아님"
+      ],
+      "candidate_count": 2,
+      "canonical_connection_count": 2,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 2,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 34,
+      "name": "전칭부정",
+      "recommended_comparison_candidate_ids": [
+        "CAND-800fcc09e70fce83",
+        "CAND-ab19d603b205a3dc"
+      ],
+      "sample_shortage": 3
+    },
+    {
+      "aliases": [
+        "코드조합",
+        "복합코드",
+        "다중코드"
+      ],
+      "candidate_count": 0,
+      "canonical_connection_count": 0,
+      "category": "포함관계(집합론)",
+      "distinct_canonical_passage_count": 0,
+      "exam_families_with_candidates": [],
+      "id": 35,
+      "name": "코드는 조합이 가능하다",
+      "recommended_comparison_candidate_ids": [],
+      "sample_shortage": 5
+    },
+    {
+      "aliases": [
+        "반례",
+        "조건문의부정"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "개체관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 36,
+      "name": "반증사례",
+      "recommended_comparison_candidate_ids": [
+        "CAND-009794edfd539508",
+        "CAND-f806e13edc9a0e5e",
+        "CAND-fe54f3e4b2dfbb56"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "사례찾기는필요조건",
+        "사례찾기는요건"
+      ],
+      "candidate_count": 9,
+      "canonical_connection_count": 9,
+      "category": "개체관계",
+      "distinct_canonical_passage_count": 9,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 37,
+      "name": "사례찾기",
+      "recommended_comparison_candidate_ids": [
+        "CAND-e8d872cd7b4cd030",
+        "CAND-b495e5f4fae0e5fe",
+        "CAND-f7b8acd065903f5f",
+        "CAND-ef21f5e051753453",
+        "CAND-e559bc57064d93a7",
+        "CAND-8fd6b48aef99bad3",
+        "CAND-78860acdc3b55004",
+        "CAND-d09f412efebdd3fa",
+        "CAND-11623616cbbd19a7"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "원소의수/집합의수",
+        "개체",
+        "원소"
+      ],
+      "candidate_count": 6,
+      "canonical_connection_count": 6,
+      "category": "개체관계",
+      "distinct_canonical_passage_count": 6,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 38,
+      "name": "개체관계",
+      "recommended_comparison_candidate_ids": [
+        "CAND-2463698c3ff370e9",
+        "CAND-daf7019296e1b5de",
+        "CAND-4ae2113f081d22a0",
+        "CAND-6c96fab0012c2b77",
+        "CAND-61ad3e1561008de0",
+        "CAND-28c618a32601410c"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "공통점",
+        "차이점",
+        "OX퀴즈"
+      ],
+      "candidate_count": 10,
+      "canonical_connection_count": 8,
+      "category": "개체관계",
+      "distinct_canonical_passage_count": 8,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 39,
+      "name": "비교대상",
+      "recommended_comparison_candidate_ids": [
+        "CAND-48dfeab5c739beea",
+        "CAND-0bef15f4baf06358",
+        "CAND-b7c8512adf37775c",
+        "CAND-5a3a0082430a3c17",
+        "CAND-f4c832cad730ec4d",
+        "CAND-bc82f7064009efaa",
+        "CAND-9ae6890149f0658d",
+        "CAND-ad7c830d28611a9b"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "부분전체",
+        "구성요소",
+        "요소"
+      ],
+      "candidate_count": 15,
+      "canonical_connection_count": 15,
+      "category": "부분관계",
+      "distinct_canonical_passage_count": 14,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 40,
+      "name": "부분관계",
+      "recommended_comparison_candidate_ids": [
+        "CAND-34647bd7cbc705c6",
+        "CAND-73d5d86e0032b1fc",
+        "CAND-31dfcf7a0385cc44",
+        "CAND-1238987f62410893",
+        "CAND-9e24f64a23a32354",
+        "CAND-3e8a0108b56cad52",
+        "CAND-590e635554c9aabc",
+        "CAND-7a4517c91e4267db",
+        "CAND-70fec2633a0ecac2",
+        "CAND-9e808f723f387c9c"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "구성의오류"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "부분관계",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 41,
+      "name": "결합의오류",
+      "recommended_comparison_candidate_ids": [
+        "CAND-b5bcc44e2270112f"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "내/외",
+        "내부",
+        "외부"
+      ],
+      "candidate_count": 26,
+      "canonical_connection_count": 24,
+      "category": "부분관계",
+      "distinct_canonical_passage_count": 24,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 42,
+      "name": "내부/외부",
+      "recommended_comparison_candidate_ids": [
+        "CAND-64f2c5c22c6ce77a",
+        "CAND-a017cd433755042d",
+        "CAND-9c5ef28983a23b94",
+        "CAND-41a87aff26b54561",
+        "CAND-2802d179441a64f1",
+        "CAND-ca5f043420a4975d",
+        "CAND-abf0d9cc3e7c6f54",
+        "CAND-a95117c6dea37d44",
+        "CAND-25b03e187ed9bff7",
+        "CAND-3f1f6a6ff6693215"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "세테리스파리부스"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 5,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 43,
+      "name": "타변수통제",
+      "recommended_comparison_candidate_ids": [
+        "CAND-f2816d370338607a",
+        "CAND-d6993784aae4a27c",
+        "CAND-6357603f27f6c8cd",
+        "CAND-5993e53ccd0c3c3d",
+        "CAND-08b73582e33ccf29"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "수단목적",
+        "수단과목적",
+        "수단",
+        "목적"
+      ],
+      "candidate_count": 24,
+      "canonical_connection_count": 23,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 23,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 44,
+      "name": "수단/목적",
+      "recommended_comparison_candidate_ids": [
+        "CAND-bca147d496b8214a",
+        "CAND-dbdd8e96bc46af36",
+        "CAND-669fb4ed575127ea",
+        "CAND-d01082727979e99b",
+        "CAND-c6e9131155257a55",
+        "CAND-84ea207660fe834d",
+        "CAND-561eb91de06f1d1f",
+        "CAND-bd23f67eb94dd818",
+        "CAND-f752b3c9f6e75f6f",
+        "CAND-9511c9d5cac9032b"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "ifo",
+        "입력",
+        "출력",
+        "다변수함수",
+        "조건부함수",
+        "합성함수",
+        "과정은함수적"
+      ],
+      "candidate_count": 35,
+      "canonical_connection_count": 35,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 27,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 45,
+      "name": "함수",
+      "recommended_comparison_candidate_ids": [
+        "CAND-eae8a3c3d4d679ec",
+        "CAND-5a1e204fa4a11caf",
+        "CAND-68abddf23b032139",
+        "CAND-298a2b332efad9d1",
+        "CAND-18609d450445e81e",
+        "CAND-6a0fd0ec49580576",
+        "CAND-cbf3cc291be8c94e",
+        "CAND-c136539e94dad5f1",
+        "CAND-bddc2209f3d5ac4c",
+        "CAND-821719319267722c"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "효과",
+        "인과",
+        "결과",
+        "원인"
+      ],
+      "candidate_count": 51,
+      "canonical_connection_count": 47,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 46,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 46,
+      "name": "인과관계",
+      "recommended_comparison_candidate_ids": [
+        "CAND-f2816d370338607a",
+        "CAND-e22b29abb69bfea1",
+        "CAND-bd005bf07535391c",
+        "CAND-3a21610d3a50fd53",
+        "CAND-e6cb3380397d608b",
+        "CAND-48dfeab5c739beea",
+        "CAND-7b76baed87feb0a0",
+        "CAND-9cfc4610aa2303eb",
+        "CAND-ded2e498ab881a63",
+        "CAND-d1b2aefcea5dce6c"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "공통원인오류",
+        "commoncause",
+        "공통원인의오류"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 47,
+      "name": "공통원인",
+      "recommended_comparison_candidate_ids": [
+        "CAND-1ce17b8dd4f80f9f",
+        "CAND-0fb5bd7e0b25911c",
+        "CAND-8503e460ce8a0815"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "공통결과",
+        "commoneffect",
+        "공통효과의오류",
+        "공통결과의오류"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 7,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 7,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 48,
+      "name": "공통효과",
+      "recommended_comparison_candidate_ids": [
+        "CAND-66aa4801823fdd60",
+        "CAND-8fd0607ad090258a",
+        "CAND-c24565ea6b422a8c",
+        "CAND-43433613f27d3fe2",
+        "CAND-faea8dc5cac46c89",
+        "CAND-20cf9e709c5b1b7d",
+        "CAND-c93026b4e7a8b0ff"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "촉진",
+        "억제",
+        "상관성"
+      ],
+      "candidate_count": 30,
+      "canonical_connection_count": 30,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 30,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 49,
+      "name": "상관관계",
+      "recommended_comparison_candidate_ids": [
+        "CAND-bb8833dbb82dd544",
+        "CAND-911a93093ed30be9",
+        "CAND-e9f2d0097a2020e8",
+        "CAND-5ecea7e5dd5cc9ca",
+        "CAND-981c9e9634e9b3bf",
+        "CAND-2b40e6af68c72f33",
+        "CAND-fcd53e4731e71360",
+        "CAND-d753685810a9b13f",
+        "CAND-84ea207660fe834d",
+        "CAND-b6d0344cd5b3f7b4"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "경로",
+        "개입",
+        "중단"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 50,
+      "name": "길이막히면뒤로못간다",
+      "recommended_comparison_candidate_ids": [
+        "CAND-26d86d8acb347844",
+        "CAND-41c37094958ab870",
+        "CAND-11a398302ae901a2"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "요인"
+      ],
+      "candidate_count": 51,
+      "canonical_connection_count": 47,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 46,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 51,
+      "name": "원인",
+      "recommended_comparison_candidate_ids": [
+        "CAND-f2816d370338607a",
+        "CAND-e22b29abb69bfea1",
+        "CAND-bd005bf07535391c",
+        "CAND-3a21610d3a50fd53",
+        "CAND-e6cb3380397d608b",
+        "CAND-48dfeab5c739beea",
+        "CAND-7b76baed87feb0a0",
+        "CAND-9cfc4610aa2303eb",
+        "CAND-ded2e498ab881a63",
+        "CAND-d1b2aefcea5dce6c"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "억제의억제"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 5,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 52,
+      "name": "억제의억제는촉진",
+      "recommended_comparison_candidate_ids": [
+        "CAND-3ce2f91f5f542f54",
+        "CAND-2388cddc4acc400d",
+        "CAND-c39405d99652abda",
+        "CAND-b6a74f3ce0a9b34a",
+        "CAND-4e8d71c024d4052b"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "차이만이차이를만든다"
+      ],
+      "candidate_count": 4,
+      "canonical_connection_count": 4,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 4,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 53,
+      "name": "차이만이차이를설명한다",
+      "recommended_comparison_candidate_ids": [
+        "CAND-874bcbaf4a8d1892",
+        "CAND-52bf6233f15535ce",
+        "CAND-a12278ff097d6ab0",
+        "CAND-4d97fd0015902ece"
+      ],
+      "sample_shortage": 1
+    },
+    {
+      "aliases": [
+        "충분조건으로서의 원인"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 5,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 54,
+      "name": "결정",
+      "recommended_comparison_candidate_ids": [
+        "CAND-5f0ff39b55de012a",
+        "CAND-096f951a7ae38b46",
+        "CAND-bc14d61c41504afe",
+        "CAND-5e57a72876ae3a82",
+        "CAND-7166b62e0ebe9c48"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "허위적상관",
+        "허위적인과관계",
+        "허위적상관관계"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 8,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 8,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 55,
+      "name": "허위적인과",
+      "recommended_comparison_candidate_ids": [
+        "CAND-24e8e68b931a31c8",
+        "CAND-f281a9a4c7625eaa",
+        "CAND-57d762484b0f40a5",
+        "CAND-915e82ad5ef92c16",
+        "CAND-18609d450445e81e",
+        "CAND-2b40e6af68c72f33",
+        "CAND-9c3f1e8ae2837fe2",
+        "CAND-8503e460ce8a0815"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "논증/설명",
+        "설명항",
+        "피설명항",
+        "인과적설명"
+      ],
+      "candidate_count": 44,
+      "canonical_connection_count": 38,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 33,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 56,
+      "name": "설명",
+      "recommended_comparison_candidate_ids": [
+        "CAND-753ac97f94e64368",
+        "CAND-2f844de11559135a",
+        "CAND-52bf6233f15535ce",
+        "CAND-6c982f14132b86c9",
+        "CAND-7ded868c69df64f5",
+        "CAND-ac4313189f94209f",
+        "CAND-874bcbaf4a8d1892",
+        "CAND-a94e8af7b03018c3",
+        "CAND-c03d5de5028c7d8b",
+        "CAND-04612581082f6cae"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "갈림길"
+      ],
+      "candidate_count": 7,
+      "canonical_connection_count": 7,
+      "category": "인과관계",
+      "distinct_canonical_passage_count": 6,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 57,
+      "name": "분기점",
+      "recommended_comparison_candidate_ids": [
+        "CAND-bc1db7828edbcee7",
+        "CAND-b756e8fb35beda49",
+        "CAND-735c5324cf5b1f90",
+        "CAND-8d710f6f0e868cb7",
+        "CAND-4486c183be9a4093",
+        "CAND-11a398302ae901a2"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "공통근거",
+        "공통된 근거",
+        "공통된 전제"
+      ],
+      "candidate_count": 15,
+      "canonical_connection_count": 14,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 14,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 58,
+      "name": "공통전제",
+      "recommended_comparison_candidate_ids": [
+        "CAND-af6d40f6ef6de895",
+        "CAND-01635e2df5f5b85a",
+        "CAND-64b49e955671c0fb",
+        "CAND-70876544a5043a30",
+        "CAND-86a86e23b1695327",
+        "CAND-2175db4f6c4d5634",
+        "CAND-cf8c91201f541d33",
+        "CAND-e5facfe6429657c3",
+        "CAND-650446c70384b83b",
+        "CAND-fa2f7d0174a261f1"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "pcs",
+        "문제해결",
+        "해결책"
+      ],
+      "candidate_count": 88,
+      "canonical_connection_count": 88,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 82,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 59,
+      "name": "문제해결도식",
+      "recommended_comparison_candidate_ids": [
+        "CAND-c012ae68333e8d00",
+        "CAND-2632e35db3a9200d",
+        "CAND-15fd3367147e2927",
+        "CAND-a5ba8083461efbc0",
+        "CAND-b5c4e7035269b55a",
+        "CAND-df5d9ba315e747cd",
+        "CAND-90e4cfc8a84c55b2",
+        "CAND-4e9447aebe40aa5c",
+        "CAND-d93063744a3865e6",
+        "CAND-6159039082f9df36"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "논거",
+        "주장",
+        "가정",
+        "근거",
+        "논증",
+        "논증구조"
+      ],
+      "candidate_count": 28,
+      "canonical_connection_count": 28,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 28,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 60,
+      "name": "논증형식",
+      "recommended_comparison_candidate_ids": [
+        "CAND-dfcae163535ca4b4",
+        "CAND-ac45ac9a823195c0",
+        "CAND-c92f0a4d103da746",
+        "CAND-a35e5de11428492d",
+        "CAND-c24d4be6418de2a5",
+        "CAND-70876544a5043a30",
+        "CAND-42a46dc80fb9fa48",
+        "CAND-9f1d0ee867844695",
+        "CAND-db69b8045f563522",
+        "CAND-cbc4a821f70cfdc8"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "훈제청어"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 8,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 7,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 61,
+      "name": "바람잡이",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d96b6038eccde5b8",
+        "CAND-33a4049094b0dbf1",
+        "CAND-2bf583b187a8d7ee",
+        "CAND-d5eb093f0f145e52",
+        "CAND-0187dd99004bb894",
+        "CAND-822c33ced33dd162",
+        "CAND-ea55e8a7f8ad4256"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "충분성부정",
+        "관련성부정"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 8,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 8,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 62,
+      "name": "관계부정",
+      "recommended_comparison_candidate_ids": [
+        "CAND-565310b484c246d3",
+        "CAND-814cbce119a42e09",
+        "CAND-e12c7385bc1390e8",
+        "CAND-5d76ff09cc8b5b2e",
+        "CAND-3f0b12d9bec9ec9e",
+        "CAND-dbb1ff0d5010fd1e",
+        "CAND-5d61592f1bd84c21",
+        "CAND-12c0625b56f1e8c9"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "비판",
+        "강중약",
+        "강화약화",
+        "강화약화중립"
+      ],
+      "candidate_count": 25,
+      "canonical_connection_count": 25,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 25,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 63,
+      "name": "강화/약화",
+      "recommended_comparison_candidate_ids": [
+        "CAND-7c189ac935738a30",
+        "CAND-40b01bab4c023a3d",
+        "CAND-6faadc5e0ee81716",
+        "CAND-7ce61d0a8ba451b2",
+        "CAND-9de55c876ded09ca",
+        "CAND-9dc8991a4ccc6679",
+        "CAND-be7fb6eef8c2119f",
+        "CAND-1c767ceb258e3d81",
+        "CAND-583123b3127597de",
+        "CAND-cda0cae07a9233a8"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "논의영역에서벗어나면중립",
+        "논의대상",
+        "주제"
+      ],
+      "candidate_count": 40,
+      "canonical_connection_count": 40,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 39,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 64,
+      "name": "논의영역",
+      "recommended_comparison_candidate_ids": [
+        "CAND-ab55031182455f26",
+        "CAND-12b2823c08ece291",
+        "CAND-f0c84f3f5c6ac5ae",
+        "CAND-e8d872cd7b4cd030",
+        "CAND-06ea87523c9213de",
+        "CAND-89fa6cc4fa74f00a",
+        "CAND-b526b0361394274e",
+        "CAND-565310b484c246d3",
+        "CAND-af1a4d38e910e9ab",
+        "CAND-21d4c4971c1b7405"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "허수아비공격의오류",
+        "논점일탈의오류"
+      ],
+      "candidate_count": 11,
+      "canonical_connection_count": 11,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 11,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 65,
+      "name": "허수아비",
+      "recommended_comparison_candidate_ids": [
+        "CAND-8f6b491d39a69996",
+        "CAND-54f7e8fcf062e8f3",
+        "CAND-dd6a603db5d47239",
+        "CAND-33388bd2dd58e83c",
+        "CAND-98325977bf85bb83",
+        "CAND-b2225527ad9172cf",
+        "CAND-7426bedc5158552e",
+        "CAND-161b76e9421d98df",
+        "CAND-0d2eef6c310be77b",
+        "CAND-4597b32dc0da9363"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "삼단논증",
+        "결합논증",
+        "전건긍정식",
+        "후건부정식"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 66,
+      "name": "삼단논법",
+      "recommended_comparison_candidate_ids": [
+        "CAND-0e77dfa4889569d5",
+        "CAND-df51e834a7df7354",
+        "CAND-4d24fa267afc5c7a"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "충분조건으로서의 근거"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 67,
+      "name": "합류논증",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d13306d7d403311f"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "재반론"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 68,
+      "name": "약화의약화는강화",
+      "recommended_comparison_candidate_ids": [
+        "CAND-765101e0cd47315d"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "유비추론",
+        "유비논증"
+      ],
+      "candidate_count": 17,
+      "canonical_connection_count": 16,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 16,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 69,
+      "name": "유추",
+      "recommended_comparison_candidate_ids": [
+        "CAND-fd6487f60ee0e933",
+        "CAND-e06d5c3ef82bc267",
+        "CAND-b243716ea1fd3975",
+        "CAND-85ceb72ef67c9855",
+        "CAND-009794edfd539508",
+        "CAND-5450f9c727a556f3",
+        "CAND-43433613f27d3fe2",
+        "CAND-a4b082d68312c20d",
+        "CAND-898ee6b9b21e4b58",
+        "CAND-486a70e735f4e0d7"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "다얻을수없다"
+      ],
+      "candidate_count": 4,
+      "canonical_connection_count": 4,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 4,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 70,
+      "name": "딜레마",
+      "recommended_comparison_candidate_ids": [
+        "CAND-b495e5f4fae0e5fe",
+        "CAND-c4c079363139b073",
+        "CAND-ef56ee6a7f197ccb",
+        "CAND-9c4addb3552d5387"
+      ],
+      "sample_shortage": 1
+    },
+    {
+      "aliases": [
+        "제거법",
+        "소거법"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 71,
+      "name": "선언지부정식",
+      "recommended_comparison_candidate_ids": [
+        "CAND-17948b7bc5402702"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "둘중하나"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 72,
+      "name": "양도추론",
+      "recommended_comparison_candidate_ids": [
+        "CAND-951eedca898607c9",
+        "CAND-f9ce3d8e853cae30",
+        "CAND-6a7fbfcc66fe502e"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "근거부정",
+        "수용성부정"
+      ],
+      "candidate_count": 7,
+      "canonical_connection_count": 7,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 7,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 73,
+      "name": "전제부정",
+      "recommended_comparison_candidate_ids": [
+        "CAND-ba11c8339e7504cc",
+        "CAND-ce59cb649c715172",
+        "CAND-acbafebea16cf272",
+        "CAND-ebdc9c8e9ca35676",
+        "CAND-74548a89e14f5c43",
+        "CAND-e7421d1c09a4644f",
+        "CAND-12c0625b56f1e8c9"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "상반된예측"
+      ],
+      "candidate_count": 14,
+      "canonical_connection_count": 13,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 11,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 74,
+      "name": "경쟁가설",
+      "recommended_comparison_candidate_ids": [
+        "CAND-9dc8991a4ccc6679",
+        "CAND-5eee38d2c57db01f",
+        "CAND-68eec5ef33612933",
+        "CAND-ee2d9cbcb72f1431",
+        "CAND-28b18fbbc6da8ba7",
+        "CAND-91138c48a5abd84d",
+        "CAND-2287a56008043ff6",
+        "CAND-858a1b552352726b",
+        "CAND-dc204f4bf6fa6a15",
+        "CAND-3d9fe74abe9d6d96"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "논쟁"
+      ],
+      "candidate_count": 14,
+      "canonical_connection_count": 13,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 11,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 75,
+      "name": "경쟁입장",
+      "recommended_comparison_candidate_ids": [
+        "CAND-9dc8991a4ccc6679",
+        "CAND-5eee38d2c57db01f",
+        "CAND-68eec5ef33612933",
+        "CAND-ee2d9cbcb72f1431",
+        "CAND-28b18fbbc6da8ba7",
+        "CAND-91138c48a5abd84d",
+        "CAND-2287a56008043ff6",
+        "CAND-858a1b552352726b",
+        "CAND-dc204f4bf6fa6a15",
+        "CAND-3d9fe74abe9d6d96"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "귀류법적증명"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 76,
+      "name": "귀류법",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d923cf3afe151c27",
+        "CAND-fb97f47038a0d312",
+        "CAND-1f9a65d82037d156"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "성급한 일반화"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "논증관계",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "MEET"
+      ],
+      "id": 77,
+      "name": "일반화",
+      "recommended_comparison_candidate_ids": [
+        "CAND-ce35e8648f9d13f4"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "동기",
+        "욕구",
+        "행위",
+        "욕망",
+        "의지",
+        "희망",
+        "능동/수동"
+      ],
+      "candidate_count": 34,
+      "canonical_connection_count": 28,
+      "category": "철학적 관계",
+      "distinct_canonical_passage_count": 23,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 78,
+      "name": "행위설명",
+      "recommended_comparison_candidate_ids": [
+        "CAND-7ded868c69df64f5",
+        "CAND-db378735d5bf2ef1",
+        "CAND-ac4313189f94209f",
+        "CAND-a94e8af7b03018c3",
+        "CAND-c03d5de5028c7d8b",
+        "CAND-04612581082f6cae",
+        "CAND-0ff4a5fb8a47ba0c",
+        "CAND-f71c1320a379e200",
+        "CAND-b408ac27a5044be2",
+        "CAND-c73a7580ecf193b8"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "허용/금지",
+        "당위는능력을함축",
+        "당위",
+        "당위는가치를함축"
+      ],
+      "candidate_count": 7,
+      "canonical_connection_count": 7,
+      "category": "철학적 관계",
+      "distinct_canonical_passage_count": 7,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 79,
+      "name": "규범",
+      "recommended_comparison_candidate_ids": [
+        "CAND-753ac97f94e64368",
+        "CAND-4150c3afa72f8ce7",
+        "CAND-593177d16a763d4e",
+        "CAND-9777073c4d72e4f2",
+        "CAND-0e6c70942635ddb7",
+        "CAND-c5569b43d57639f4",
+        "CAND-bdb78bd37226a2f3"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "인식",
+        "인식론",
+        "인식대상",
+        "인식주체",
+        "인식결과",
+        "인문은인식론적도식",
+        "표상",
+        "인식적태도"
+      ],
+      "candidate_count": 39,
+      "canonical_connection_count": 33,
+      "category": "철학적 관계",
+      "distinct_canonical_passage_count": 31,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 80,
+      "name": "인식론적도식",
+      "recommended_comparison_candidate_ids": [
+        "CAND-e907b1a4e01930d8",
+        "CAND-223be58c278474a4",
+        "CAND-f9bd8c173624d014",
+        "CAND-298a2b332efad9d1",
+        "CAND-d24e1b2c565d330b",
+        "CAND-73257759916f996f",
+        "CAND-85ceb72ef67c9855",
+        "CAND-0e446b144d4a3f57",
+        "CAND-94ec186e2ad1884f",
+        "CAND-071ba2b22ae2da8f"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "실재관념",
+        "현상",
+        "형이상학",
+        "정신세계",
+        "존재"
+      ],
+      "candidate_count": 11,
+      "canonical_connection_count": 11,
+      "category": "철학적 관계",
+      "distinct_canonical_passage_count": 11,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 81,
+      "name": "존재론",
+      "recommended_comparison_candidate_ids": [
+        "CAND-74aa7953e8b2caf8",
+        "CAND-bab449d16d19c869",
+        "CAND-4e62bcd8de3a791a",
+        "CAND-33566d7cfe038758",
+        "CAND-4b8333e6db1cffa1",
+        "CAND-c98a871537960684",
+        "CAND-70762075da240611",
+        "CAND-eb55932d13304dab",
+        "CAND-887eee07aa894b69",
+        "CAND-68e31d28acdd1258"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "변증법적구조",
+        "변증법",
+        "종합",
+        "정반합"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "철학적 관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 82,
+      "name": "변증법",
+      "recommended_comparison_candidate_ids": [
+        "CAND-e81fd4fe42216b96",
+        "CAND-5a71aac39dee31c5",
+        "CAND-8ad1bd3f3fd47df2"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "현상계",
+        "본체계",
+        "가치의세계"
+      ],
+      "candidate_count": 6,
+      "canonical_connection_count": 6,
+      "category": "철학적 관계",
+      "distinct_canonical_passage_count": 6,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 83,
+      "name": "사실/가치",
+      "recommended_comparison_candidate_ids": [
+        "CAND-054029411f7662b6",
+        "CAND-a5ad648566d6e21d",
+        "CAND-ac9a693ad802b8fc",
+        "CAND-3036e7b104ba21be",
+        "CAND-5b849036542558a8",
+        "CAND-8a5a273b1fab87a3"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "분수관계",
+        "분수",
+        "분모분자",
+        "분모",
+        "분자"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 8,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 6,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 84,
+      "name": "분수식",
+      "recommended_comparison_candidate_ids": [
+        "CAND-5ecea7e5dd5cc9ca",
+        "CAND-5cb98adde38673f6",
+        "CAND-3331c6845adc2e69",
+        "CAND-84ea207660fe834d",
+        "CAND-b1821576ae913768",
+        "CAND-735c5324cf5b1f90"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "비중은경쟁적",
+        "합이일정",
+        "곱이일정",
+        "두수의합",
+        "두수의곱",
+        "비율"
+      ],
+      "candidate_count": 7,
+      "canonical_connection_count": 7,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 7,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 85,
+      "name": "비율은경쟁적",
+      "recommended_comparison_candidate_ids": [
+        "CAND-95d201f211f7f7d6",
+        "CAND-0eb385dea1589a1c",
+        "CAND-1359b55835a95877",
+        "CAND-1e504ffbf3607797",
+        "CAND-46825c369190b3f2",
+        "CAND-461854c42c1652f9",
+        "CAND-824b8d7cbd03cb0d"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "상대량/절대량"
+      ],
+      "candidate_count": 9,
+      "canonical_connection_count": 9,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 9,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 86,
+      "name": "양적비교",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d753685810a9b13f",
+        "CAND-c16a2394695237b3",
+        "CAND-b62f370844139afb",
+        "CAND-d3ccf7a21ee92d58",
+        "CAND-50d4fa7724d510b3",
+        "CAND-9d5e0b7bd0d9d782",
+        "CAND-b1e3b1e785b20146",
+        "CAND-c1bc7081b44b5b50",
+        "CAND-57d334c096cf6578"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "변화량",
+        "미분"
+      ],
+      "candidate_count": 5,
+      "canonical_connection_count": 5,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 87,
+      "name": "기울기",
+      "recommended_comparison_candidate_ids": [
+        "CAND-cda0cae07a9233a8",
+        "CAND-41ae882b898edd1c",
+        "CAND-b76da2c1832f92df",
+        "CAND-e716bc3323e5f285",
+        "CAND-7166b62e0ebe9c48"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "편익",
+        "비용",
+        "효율성"
+      ],
+      "candidate_count": 9,
+      "canonical_connection_count": 9,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 8,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 88,
+      "name": "저울질",
+      "recommended_comparison_candidate_ids": [
+        "CAND-ad6d7de09a4daabf",
+        "CAND-124a946a8da79e19",
+        "CAND-b51bcdcb2025d98a",
+        "CAND-ebce8398a4d48a4e",
+        "CAND-4486c183be9a4093",
+        "CAND-393b314a591ddb6e",
+        "CAND-53876db45255dd5c",
+        "CAND-346058d4cf059c45"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "차이점"
+      ],
+      "candidate_count": 3,
+      "canonical_connection_count": 3,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 3,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 89,
+      "name": "차집합",
+      "recommended_comparison_candidate_ids": [
+        "CAND-0829d7cf42f49dbc",
+        "CAND-4255f01411e49c82",
+        "CAND-27c722ca335d9250"
+      ],
+      "sample_shortage": 2
+    },
+    {
+      "aliases": [
+        "확률",
+        "조합"
+      ],
+      "candidate_count": 11,
+      "canonical_connection_count": 11,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 9,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 90,
+      "name": "경우의수",
+      "recommended_comparison_candidate_ids": [
+        "CAND-8a8e26a8f3f0236b",
+        "CAND-2c54e2c8ae00e005",
+        "CAND-9f46ab5699880ab2",
+        "CAND-c539039f6b9e216d",
+        "CAND-4c2eb9221b547b0b",
+        "CAND-1e504ffbf3607797",
+        "CAND-439fff5db6e7ea36",
+        "CAND-16fdaa99a01b1fb0",
+        "CAND-68abddf23b032139"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "비례"
+      ],
+      "candidate_count": 2,
+      "canonical_connection_count": 2,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 2,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 91,
+      "name": "비례성",
+      "recommended_comparison_candidate_ids": [
+        "CAND-981c9e9634e9b3bf",
+        "CAND-81dab28a1837f976"
+      ],
+      "sample_shortage": 3
+    },
+    {
+      "aliases": [
+        "계산",
+        "수리적 사고력",
+        "분수식"
+      ],
+      "candidate_count": 8,
+      "canonical_connection_count": 8,
+      "category": "수학적 관계",
+      "distinct_canonical_passage_count": 6,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 92,
+      "name": "수식",
+      "recommended_comparison_candidate_ids": [
+        "CAND-5ecea7e5dd5cc9ca",
+        "CAND-5cb98adde38673f6",
+        "CAND-3331c6845adc2e69",
+        "CAND-84ea207660fe834d",
+        "CAND-b1821576ae913768",
+        "CAND-735c5324cf5b1f90"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "smcr",
+        "의사소통도식",
+        "발화자",
+        "수신자",
+        "메시지",
+        "채널",
+        "커뮤니케이션"
+      ],
+      "candidate_count": 38,
+      "canonical_connection_count": 27,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 24,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 93,
+      "name": "의사소통",
+      "recommended_comparison_candidate_ids": [
+        "CAND-f6db9bdca52fdf31",
+        "CAND-4381db9d0c71746f",
+        "CAND-347e06fd38015946",
+        "CAND-10a842863d2b5465",
+        "CAND-6209468711e09d1b",
+        "CAND-8b22aea03a652272",
+        "CAND-f57fd872bbfa37af",
+        "CAND-8543a7d9ba80a806",
+        "CAND-088546d982e406aa",
+        "CAND-2dd0a5585a064f1f"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "지향하는것은부재하는것이다",
+        "없어야",
+        "부재해야"
+      ],
+      "candidate_count": 2,
+      "canonical_connection_count": 2,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 2,
+      "exam_families_with_candidates": [
+        "LEET",
+        "MEET"
+      ],
+      "id": 94,
+      "name": "없어야OO하지",
+      "recommended_comparison_candidate_ids": [
+        "CAND-041e95628bac7f35",
+        "CAND-20d895cf9a17c89b"
+      ],
+      "sample_shortage": 3
+    },
+    {
+      "aliases": [
+        "있어야",
+        "존재해야"
+      ],
+      "candidate_count": 11,
+      "canonical_connection_count": 10,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 9,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 95,
+      "name": "있어야OO하지",
+      "recommended_comparison_candidate_ids": [
+        "CAND-d93063744a3865e6",
+        "CAND-bfeb2f5bbb4a3509",
+        "CAND-416623151eac7e66",
+        "CAND-b5a8f397f8fc0f1d",
+        "CAND-ab19d603b205a3dc",
+        "CAND-95e39dfe2b69fa21",
+        "CAND-aa745edb7e7ad85f",
+        "CAND-9c2a05e684ebee20",
+        "CAND-da6a467bc8c4468a"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "일상언어논증",
+        "일상언어논리"
+      ],
+      "candidate_count": 7,
+      "canonical_connection_count": 5,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 5,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET"
+      ],
+      "id": 96,
+      "name": "일상언어",
+      "recommended_comparison_candidate_ids": [
+        "CAND-f6db9bdca52fdf31",
+        "CAND-ee99d02c448b78a6",
+        "CAND-c48d86336e5dec13",
+        "CAND-624a70396ecd086f",
+        "CAND-fdd984ae5b08f4db"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "메시지"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "KICE"
+      ],
+      "id": 97,
+      "name": "발화의도",
+      "recommended_comparison_candidate_ids": [
+        "CAND-73257759916f996f"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "A의 B 함정"
+      ],
+      "candidate_count": 36,
+      "canonical_connection_count": 35,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 33,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 98,
+      "name": "A의B",
+      "recommended_comparison_candidate_ids": [
+        "CAND-a8af9ec78f22dd32",
+        "CAND-5f0ff39b55de012a",
+        "CAND-c5f5a210dcd62926",
+        "CAND-dfcae163535ca4b4",
+        "CAND-3492303bf49f2198",
+        "CAND-730b8daa44c480e8",
+        "CAND-7f54fde64f0304ff",
+        "CAND-96e0d40154b24bb8",
+        "CAND-5900bb4e7bdf997d",
+        "CAND-85ceb72ef67c9855"
+      ],
+      "sample_shortage": 0
+    },
+    {
+      "aliases": [
+        "기술구"
+      ],
+      "candidate_count": 1,
+      "canonical_connection_count": 1,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 1,
+      "exam_families_with_candidates": [
+        "LEET"
+      ],
+      "id": 99,
+      "name": "대용표현",
+      "recommended_comparison_candidate_ids": [
+        "CAND-7e757712bd98a3e8"
+      ],
+      "sample_shortage": 4
+    },
+    {
+      "aliases": [
+        "상징",
+        "은유",
+        "메타포"
+      ],
+      "candidate_count": 26,
+      "canonical_connection_count": 24,
+      "category": "일상언어",
+      "distinct_canonical_passage_count": 22,
+      "exam_families_with_candidates": [
+        "KICE",
+        "LEET",
+        "MEET"
+      ],
+      "id": 100,
+      "name": "비유",
+      "recommended_comparison_candidate_ids": [
+        "CAND-9cfc4610aa2303eb",
+        "CAND-8615460607680fbd",
+        "CAND-145f496eadfd93f4",
+        "CAND-4e069871d5803faf",
+        "CAND-af770b7ea86d2b08",
+        "CAND-8b0eae11bc2521c1",
+        "CAND-66b88f255b0a0f32",
+        "CAND-306acc7cd9cf4da5",
+        "CAND-038fdc79c37b30a2",
+        "CAND-554e59d5d1c52281"
+      ],
+      "sample_shortage": 0
+    }
+  ],
+  "input_files": {
+    "data/code_candidate_review_queue.jsonl": "8d8cae2a3a8ddafaa5f1204aa565e6dd6dd697347d4b1516beefb4e403117d49",
+    "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2",
+    "data/meet_questions.jsonl": "9638da1348fba623d72f7b5e68eb2cfffb2ef1bacdbc4386bce00da1533dc37e",
+    "data/meet_visuals.jsonl": "786fdbe9cfccdc133cdcd95922a9a2c628c5fc55bf6b803d7d104f98c6fd2088",
+    "data/sdss_100codes_catalog.json": "9c06ace329c7bebdcc972ff0e9250d8cce6431eeb80675610f311a8e7c1e0715",
+    "자료/LEET_언어이해/normalized_answers.json": "d59ca41d2b4bcfebeea66d91827ace1875c2220d756efc939474191ba8e730d8",
+    "자료/LEET_언어이해/검증/HWP_홀수형_시각자료_문항매핑_v1.json": "b1daab83234554b2b11b5c04bac2944d05b42e494006358bacc4f81607b1b776",
+    "자료/LEET_언어이해/검증/LEET_홀수형_시각자료_전체목록_v1.json": "14a55b2295cd74d6672d8056202195c55c7898958096349059414c9e2dc81cfb",
+    "자료/LEET_언어이해/전사_검수완료/manifest.json": "7ae9f5ee1dc43fdfa2d9db317718969a1d98e78b07f6ed23be5a80d0efcda31c"
+  },
+  "known_site_answer_mismatches": [
+    {
+      "candidate_id": "CAND-488a2d7f0b777475",
+      "official_answer": "②",
+      "site_answer": "①",
+      "source": {
+        "domain": "사회/법",
+        "exam_family": "MEET",
+        "exam_type": "미트언어",
+        "question_number": 5,
+        "site_title": "스팸 메일의 규제",
+        "year": 2012
+      }
+    },
+    {
+      "candidate_id": "CAND-2bf583b187a8d7ee",
+      "official_answer": "①",
+      "site_answer": "③",
+      "source": {
+        "domain": "사회/법",
+        "exam_family": "MEET",
+        "exam_type": "미트언어",
+        "question_number": 7,
+        "site_title": "스팸 메일 규제 논의",
+        "year": 2012
+      }
+    },
+    {
+      "candidate_id": "CAND-12c0625b56f1e8c9",
+      "official_answer": "①",
+      "site_answer": "②",
+      "source": {
+        "domain": "윤리학",
+        "exam_family": "MEET",
+        "exam_type": "미트언어",
+        "question_number": 28,
+        "site_title": "심리적 이기주의와 윤리적 이기주의",
+        "year": 2012
+      }
+    }
+  ],
+  "limitations": [
+    "A code-site tag is a third-party candidate, not a semantic finding.",
+    "Official-answer agreement is kept separate from code validation.",
+    "Passage diversity is based on canonical passage/group IDs or printed LEET question ranges, never on matching titles.",
+    "LEET reusable-visual catalog does not enumerate every structured <보기> box."
+  ],
+  "purpose": "Review queue coverage only; no code-semantic determination is made.",
+  "schema_version": "code_study_coverage_v2",
+  "summary": {
+    "candidate_count": 1147,
+    "candidate_exam_families": {
+      "KICE": 202,
+      "LEET": 608,
+      "MEET": 337
+    },
+    "canonical_connection_statuses": {
+      "exact_canonical_kice_question": 149,
+      "exact_canonical_kice_question_visual_choice_review_required": 4,
+      "exact_canonical_leet_odd": 544,
+      "exact_canonical_meet_jsonl": 337,
+      "exact_verified_leet_transcript": 59,
+      "kice_question_not_in_local_reading_scope": 49,
+      "leet_preliminary_year_not_in_canonical_scope": 5
+    },
+    "official_answer_comparisons": 1093,
+    "semantic_review_status": "not_reviewed_for_all_candidates",
+    "site_answer_mismatch_count": 3
+  },
+  "unresolved_catalog_query_names": [],
+  "validation": {
+    "meet_candidates_all_rejoined_to_current_canonical_jsonl": 337,
+    "official_answers_preserved_separately_from_site_answers": true,
+    "preserved_site_answer_mismatch_keys": [
+      [
+        "MEET",
+        2012,
+        "미트언어",
+        5
+      ],
+      [
+        "MEET",
+        2012,
+        "미트언어",
+        7
+      ],
+      [
+        "MEET",
+        2012,
+        "미트언어",
+        28
+      ]
+    ],
+    "unique_candidate_ids": 1147,
+    "unique_source_candidate_keys": 1147
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "answer_only": true,
+  "passage_group": "G509",
+  "case_ids": ["BQN", "BQO", "BQP"],
+  "provenance": {
+    "exam_family": "LEET",
+    "academic_year": 2017,
+    "exam_label": "리트언어",
+    "variant": "홀수형",
+    "question_numbers": {"BQN": 1, "BQO": 2, "BQP": 3},
+    "canonical_question_source": "자료/LEET_언어이해/텍스트/2017/2017_question_odd.md",
+    "official_answer_source": "자료/LEET_언어이해/원본/2017/2017_answer_2017학년도_법학적성시험_언어이해_정답표.hwp",
+    "official_answer_source_sha256": "6b8ef2c3be0643e964bb5f3f9beaf84dd770cb5065ba8e385c98e57117f93e0f",
+    "answer_transcription_source": "자료/LEET_언어이해/텍스트/2017/2017_answer.md",
+    "answer_transcription_source_sha256": "3a8597f000d0abfe6da7e1c4f4f3de8b0b72b5ce132e6ff34a885d5dad899598",
+    "provenance_mapping": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl"
+  },
+  "official_answers": {"BQN": "①", "BQO": "④", "BQP": "③"},
+  "answer_table_transcription": "2017 LEET 언어이해 정답표 홀수형: 1=①, 2=④, 3=③.",
+  "disclosure_boundary": {"sdss_read": false, "existing_judgment_read": false, "explanation_read": false, "independent_code_read": false}
+}

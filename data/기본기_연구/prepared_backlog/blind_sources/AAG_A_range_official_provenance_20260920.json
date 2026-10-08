@@ -1,0 +1,36 @@
+{
+  "blind_only": true,
+  "passage_group": "G168",
+  "case_id": "AAG",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "url": "https://wdown.ebsi.co.kr/W61001/01exam/20250604/go3/kor_main_mun_G745R5NZ_1.pdf",
+    "provider": "EBSi official question PDF; copyright KICE",
+    "local_temp_path": "/tmp/2026_6월_모평_국어.pdf",
+    "sha256": "004dfd2cd12ffe07e10410c7ae15406abf7cf9a7b5952d672fbf143b1e549b58",
+    "page_number_one_based": 2,
+    "page_anchor": "2026학년도 대학수학능력시험 6월 모의평가 국어 4~9번 passage; [A] bracket in left column"
+  },
+  "anchor_verification": {
+    "pdf_text_search": ["근대 국가는 시민의 생명과 재산을 보호하는 것을 일차적인", "절차주의적 법 모델"],
+    "marker_visible": true,
+    "first_sentence": "그런데 법적 규제가 과도할 경우 삶의 세계를 구성해 온 고유한 직업 윤리 등 문화적·도덕적 규범이 강행적 성격을 띤 법 규범에 의해 침범당하는 경우가 생긴다.",
+    "last_sentence": "그로 인해 법 규범이 삶의 세계에 점점 더 깊숙이 개입하게 되어 사회의 자율적 조절 기능은 더욱 망가지는 과정이 반복된다. 이러한 악순환을 방지하면서 사회복지 체계를 보완하고자 등장한 것이 절차주의적 법 모델이다.",
+    "following_text_outside_range": "절차주의적 법 모델에 따르면, 법은 분쟁에 직접 개입해 해결책을 내놓는 대신 분쟁 당사자들의 논의와 협상을 위한 절차나 권한 분배 등 분쟁 해결 방식에만 관여한다.",
+    "scope_note": "공식 PDF의 [A] 대괄호가 표시된 문단 전체를 시각적으로 확인했다. crop에는 [A] marker, 범위 첫 문장, 범위 끝 문장 및 범위 밖 다음 문단의 시작이 함께 보인다."
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AAG_A_range_official_crop_20260920.png",
+    "source_raster": "official PDF page 2 rendered at 2.5x with PyMuPDF",
+    "pixel_box_xyxy": [120, 1130, 1050, 1990],
+    "sha256": "ad9add83385609457510ad8379c208f6ceb16abb102853f1b5a448c827f4558d",
+    "scope": "official [A] bracket and complete marked paragraph; no answer key, SDSS tag, or explanation"
+  },
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  },
+  "status": "official_visual_anchor_restored_mechanically"
+}

@@ -1,0 +1,27 @@
+{
+  "blind_only": true,
+  "case_id": "JY",
+  "supplement_type": "local_hwpx_table_cells",
+  "source_role": "anonymous_blind_source_supplement",
+  "table": {
+    "header_cells": {
+      "영역": {"rowAddr": "0", "colAddr": "0", "text": "영역"},
+      "전": {"rowAddr": "0", "colAddr": "1", "text": "전"},
+      "후": {"rowAddr": "0", "colAddr": "2", "text": "후"},
+      "좌": {"rowAddr": "0", "colAddr": "3", "text": "좌"},
+      "우": {"rowAddr": "0", "colAddr": "4", "text": "우"}
+    },
+    "rows": {
+      "상태 1의 출력값": {
+        "label_cell": {"rowAddr": "1", "colAddr": "0", "text": "상태 1의 출력값"},
+        "values": {"전": {"rowAddr": "1", "colAddr": "1", "text": "2"}, "후": {"rowAddr": "1", "colAddr": "2", "text": "2"}, "좌": {"rowAddr": "1", "colAddr": "3", "text": "3"}, "우": {"rowAddr": "1", "colAddr": "4", "text": "1"}}
+      },
+      "상태 2의 출력값": {
+        "label_cell": {"rowAddr": "2", "colAddr": "0", "text": "상태 2의 출력값"},
+        "values": {"전": {"rowAddr": "2", "colAddr": "1", "text": "5"}, "후": {"rowAddr": "2", "colAddr": "2", "text": "5"}, "좌": {"rowAddr": "2", "colAddr": "3", "text": "3"}, "우": {"rowAddr": "2", "colAddr": "4", "text": "3"}}
+      }
+    }
+  },
+  "provenance": {"artifact_scope": "로컬 정본 HWPX section0.xml 내 3행×5열 출력값 표", "original_distribution_pdf_verified": false},
+  "quality_limit": "셀 문자열·cellAddr를 로컬 HWPX에서 추출했으며 원배포 PDF 표 시각 대조는 하지 않음"
+}

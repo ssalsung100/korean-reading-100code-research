@@ -1,0 +1,1880 @@
+{
+  "generated_by": "corpus_ingest_2027.py",
+  "canonical_after_merge": {
+    "passages": 169,
+    "questions": 700
+  },
+  "exams": [
+    {
+      "academic_year": 2010,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "20-22",
+        "36-37",
+        "47-50"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_미니모의고사.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2010/6월_모평/독서/Q20-22-S009-011.md",
+        "연도별/2010/6월_모평/독서/Q36-37-S012-013.md",
+        "연도별/2010/6월_모평/독서/Q47-50-S014-017.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2010,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "13-17"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_미니모의고사.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2010/9월_모평/독서/Q13-17-S001-005.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2011,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "48-50"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_미니모의고사.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2011/9월_모평/독서/Q48-50-S015-017.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2011,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "32-36",
+        "44-46"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_미니모의고사.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2011/수능/독서/Q32-36-S010-014.md",
+        "연도별/2011/수능/독서/Q44-46-S006-008.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2012,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "35-37"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2012/9월_모평/독서/Q35-37-S155-157.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2012,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-20",
+        "21-24",
+        "29-30",
+        "43-46",
+        "47-50"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2012/수능/독서/Q17-20-S055-058.md",
+        "연도별/2012/수능/독서/Q21-24-S009-012.md",
+        "연도별/2012/수능/독서/Q29-30-S153-154.md",
+        "연도별/2012/수능/독서/Q43-46-S041-044.md",
+        "연도별/2012/수능/독서/Q47-50-S035-038.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2013,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "23-25",
+        "44-46",
+        "47-50"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2013/6월_모평/독서/Q23-25-S097-099.md",
+        "연도별/2013/6월_모평/독서/Q44-46-S044-046.md",
+        "연도별/2013/6월_모평/독서/Q47-50-S149-152.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2013,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-19",
+        "40-43",
+        "44-46"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2013/9월_모평/독서/Q17-19-S088-090.md",
+        "연도별/2013/9월_모평/독서/Q40-43-S015-018.md",
+        "연도별/2013/9월_모평/독서/Q44-46-S032-034.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2013,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "21-24",
+        "25-28",
+        "29-31"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2013/수능/독서/Q21-24-S079-082.md",
+        "연도별/2013/수능/독서/Q25-28-S011-014.md",
+        "연도별/2013/수능/독서/Q29-31-S059-061.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2014,
+      "exam_label": "6월 모평A",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "19-21",
+        "28-29"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2014/6월_모평A/독서/Q19-21-S033-035.md",
+        "연도별/2014/6월_모평A/독서/Q28-29-S073-074.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2014,
+      "exam_label": "6월 모평B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-20",
+        "28-29"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2014/6월_모평B/독서/Q17-20-S170-173.md",
+        "연도별/2014/6월_모평B/독서/Q28-29-S007-008.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2014,
+      "exam_label": "9월 모평A",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-18",
+        "19-21"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2014/9월_모평A/독서/Q16-18-S094-096.md",
+        "연도별/2014/9월_모평A/독서/Q19-21-S055-057.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2014,
+      "exam_label": "9월 모평B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-20",
+        "28-29"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2014/9월_모평B/독서/Q17-20-S051-054.md",
+        "연도별/2014/9월_모평B/독서/Q28-29-S030-031.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2014,
+      "exam_label": "수능A",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "19-21",
+        "28-30"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2014/수능A/독서/Q19-21-S035-037.md",
+        "연도별/2014/수능A/독서/Q28-30-S030-032.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2014,
+      "exam_label": "수능B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "19-21",
+        "26-27",
+        "28-30"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2014/수능B/독서/Q19-21-S120-122.md",
+        "연도별/2014/수능B/독서/Q26-27-S019-020.md",
+        "연도별/2014/수능B/독서/Q28-30-S038-040.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2015,
+      "exam_label": "6월 모평A",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "26-27"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2015/6월_모평A/독서/Q26-27-S092-093.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2015,
+      "exam_label": "6월 모평B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "21-24",
+        "25-26"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2015/6월_모평B/독서/Q21-24-S092-095.md",
+        "연도별/2015/6월_모평B/독서/Q25-26-S017-018.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2015,
+      "exam_label": "9월 모평B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-21"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_미니모의고사.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2015/9월_모평B/독서/Q17-21-S001-005.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2015,
+      "exam_label": "수능A",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "20-22"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2015/수능A/독서/Q20-22-S027-029.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2015,
+      "exam_label": "수능AB",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "27-30"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2015/수능AB/독서/Q27-30-S031-034.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2015,
+      "exam_label": "수능B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-20",
+        "21-24",
+        "25-26"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2015/수능B/독서/Q17-20-S047-050.md",
+        "연도별/2015/수능B/독서/Q21-24-S145-148.md",
+        "연도별/2015/수능B/독서/Q25-26-S015-016.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2016,
+      "exam_label": "6월 모평A",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "22-26"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2016/6월_모평A/독서/Q22-26-S165-169.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2016,
+      "exam_label": "6월 모평AB",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "27-30"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_미니모의고사.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2016/6월_모평AB/독서/Q27-30-S006-009.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2016,
+      "exam_label": "6월 모평B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-20",
+        "25-26"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2016/6월_모평B/독서/Q17-20-S043-046.md",
+        "연도별/2016/6월_모평B/독서/Q25-26-S013-014.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2016,
+      "exam_label": "9월 모평B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-20",
+        "25-26"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2016/9월_모평B/독서/Q17-20-S075-078.md",
+        "연도별/2016/9월_모평B/독서/Q25-26-S005-006.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2016,
+      "exam_label": "수능A",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-18",
+        "19-21"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2016/수능A/독서/Q16-18-S025-027.md",
+        "연도별/2016/수능A/독서/Q19-21-S085-087.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2016,
+      "exam_label": "수능AB",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "27-30"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2016/수능AB/독서/Q27-30-S069-072.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2016,
+      "exam_label": "수능B",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "17-20",
+        "29-30"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2016/수능B/독서/Q17-20-S116-119.md",
+        "연도별/2016/수능B/독서/Q29-30-S028-029.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2017,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-19",
+        "20-24",
+        "28-33"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2017/6월_모평/독서/Q16-19-S040-043.md",
+        "연도별/2017/6월_모평/독서/Q20-24-S070-074.md",
+        "연도별/2017/6월_모평/독서/Q28-33-S031-036.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2017,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "25-30",
+        "31-34",
+        "35-39"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2017/9월_모평/독서/Q25-30-S079-084.md",
+        "연도별/2017/9월_모평/독서/Q31-34-S055-058.md",
+        "연도별/2017/9월_모평/독서/Q35-39-S064-068.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2017,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-20",
+        "33-36",
+        "37-42"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2017/수능/독서/Q16-20-S065-069.md",
+        "연도별/2017/수능/독서/Q33-36-S088-091.md",
+        "연도별/2017/수능/독서/Q37-42-S058-063.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2018,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-21",
+        "22-25",
+        "30-34"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2018/6월_모평/독서/Q16-21-S037-042.md",
+        "연도별/2018/6월_모평/독서/Q22-25-S036-039.md",
+        "연도별/2018/6월_모평/독서/Q30-34-S022-026.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2018,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-19",
+        "27-32",
+        "38-42"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx",
+        "2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2018/9월_모평/독서/Q16-19-S007-010.md",
+        "연도별/2018/9월_모평/독서/Q27-32-S025-030.md",
+        "연도별/2018/9월_모평/독서/Q38-42-S140-144.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2018,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-19",
+        "27-32",
+        "38-42"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2018/수능/독서/Q16-19-S033-036.md",
+        "연도별/2018/수능/독서/Q27-32-S030-035.md",
+        "연도별/2018/수능/독서/Q38-42-S017-021.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2019,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-21",
+        "22-26",
+        "35-38"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2019/6월_모평/독서/Q16-21-S159-164.md",
+        "연도별/2019/6월_모평/독서/Q22-26-S053-057.md",
+        "연도별/2019/6월_모평/독서/Q35-38-S084-087.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2019,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "21-25",
+        "29-32",
+        "33-38"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2019/9월_모평/독서/Q21-25-S015-019.md",
+        "연도별/2019/9월_모평/독서/Q29-32-S051-054.md",
+        "연도별/2019/9월_모평/독서/Q33-38-S019-024.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2019,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-20",
+        "27-32",
+        "39-42"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2019/수능/독서/Q16-20-S105-109.md",
+        "연도별/2019/수능/독서/Q27-32-S013-018.md",
+        "연도별/2019/수능/독서/Q39-42-S088-091.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2020,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "19-22",
+        "27-31",
+        "37-42"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2020/6월_모평/독서/Q19-22-S029-032.md",
+        "연도별/2020/6월_모평/독서/Q27-31-S025-029.md",
+        "연도별/2020/6월_모평/독서/Q37-42-S078-083.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2020,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "21-26",
+        "27-31",
+        "38-41"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2020/9월_모평/독서/Q21-26-S007-012.md",
+        "연도별/2020/9월_모평/독서/Q27-31-S100-104.md",
+        "연도별/2020/9월_모평/독서/Q38-41-S075-078.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2020,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-20",
+        "26-29",
+        "37-42"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2020/수능/독서/Q16-20-S083-087.md",
+        "연도별/2020/수능/독서/Q26-29-S001-004.md",
+        "연도별/2020/수능/독서/Q37-42-S009-014.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2021,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-21",
+        "25-28",
+        "29-33"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2021/6월_모평/독서/Q16-21-S153-158.md",
+        "연도별/2021/6월_모평/독서/Q25-28-S071-074.md",
+        "연도별/2021/6월_모평/독서/Q29-33-S020-024.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2021,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "20-25",
+        "26-30",
+        "34-37"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2021/9월_모평/독서/Q20-25-S025-030.md",
+        "연도별/2021/9월_모평/독서/Q26-30-S048-052.md",
+        "연도별/2021/9월_모평/독서/Q34-37-S074-077.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2021,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-21",
+        "26-30",
+        "34-37"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2021/수능/독서/Q16-21-S147-152.md",
+        "연도별/2021/수능/독서/Q26-30-S095-099.md",
+        "연도별/2021/수능/독서/Q34-37-S013-016.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2022,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2022/6월_모평/독서/Q01-03-S216-218.md",
+        "연도별/2022/6월_모평/독서/Q04-09-S141-146.md",
+        "연도별/2022/6월_모평/독서/Q10-13-S136-139.md",
+        "연도별/2022/6월_모평/독서/Q14-17-S070-073.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2022,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2022/9월_모평/독서/Q01-03-S213-215.md",
+        "연도별/2022/9월_모평/독서/Q04-09-S130-135.md",
+        "연도별/2022/9월_모평/독서/Q10-13-S106-109.md",
+        "연도별/2022/9월_모평/독서/Q14-17-S062-065.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2022,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2022/수능/독서/Q01-03-S210-212.md",
+        "연도별/2022/수능/독서/Q04-09-S023-028.md",
+        "연도별/2022/수능/독서/Q10-13-S005-008.md",
+        "연도별/2022/수능/독서/Q14-17-S058-061.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2022,
+      "exam_label": "예시문항",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "16-21",
+        "30-34",
+        "5-10"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2022/예시문항/독서/Q05-10-S110-115.md",
+        "연도별/2022/예시문항/독서/Q16-21-S001-006.md",
+        "연도별/2022/예시문항/독서/Q30-34-S066-070.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2023,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2023/6월_모평/독서/Q01-03-S207-209.md",
+        "연도별/2023/6월_모평/독서/Q04-09-S017-022.md",
+        "연도별/2023/6월_모평/독서/Q10-13-S051-054.md",
+        "연도별/2023/6월_모평/독서/Q14-17-S001-004.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2023,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2023/9월_모평/독서/Q01-03-S204-206.md",
+        "연도별/2023/9월_모평/독서/Q04-09-S011-016.md",
+        "연도별/2023/9월_모평/독서/Q10-13-S091-094.md",
+        "연도별/2023/9월_모평/독서/Q14-17-S036-039.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2023,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2023/수능/독서/Q01-03-S201-203.md",
+        "연도별/2023/수능/독서/Q04-09-S135-140.md",
+        "연도별/2023/수능/독서/Q10-13-S044-047.md",
+        "연도별/2023/수능/독서/Q14-17-S066-069.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2024,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "12-17",
+        "4-7",
+        "8-11"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2024/6월_모평/독서/Q01-03-S198-200.md",
+        "연도별/2024/6월_모평/독서/Q04-07-S126-129.md",
+        "연도별/2024/6월_모평/독서/Q08-11-S047-050.md",
+        "연도별/2024/6월_모평/독서/Q12-17-S100-105.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2024,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "12-17",
+        "4-7",
+        "8-11"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2024/9월_모평/독서/Q01-03-S195-197.md",
+        "연도별/2024/9월_모평/독서/Q04-07-S040-043.md",
+        "연도별/2024/9월_모평/독서/Q08-11-S047-050.md",
+        "연도별/2024/9월_모평/독서/Q12-17-S129-134.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2024,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "12-17",
+        "4-7",
+        "8-11"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2024/수능/독서/Q01-03-S192-194.md",
+        "연도별/2024/수능/독서/Q04-07-S122-125.md",
+        "연도별/2024/수능/독서/Q08-11-S062-065.md",
+        "연도별/2024/수능/독서/Q12-17-S005-010.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2025,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "12-17",
+        "4-7",
+        "8-11"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2025/6월_모평/독서/Q01-03-S180-182.md",
+        "연도별/2025/6월_모평/독서/Q01-03-S189-191.md",
+        "연도별/2025/6월_모평/독서/Q04-07-S118-121.md",
+        "연도별/2025/6월_모평/독서/Q08-11-S043-046.md",
+        "연도별/2025/6월_모평/독서/Q12-17-S059-064.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2025,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "12-17",
+        "4-7",
+        "8-11"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2025/9월_모평/독서/Q01-03-S186-188.md",
+        "연도별/2025/9월_모평/독서/Q04-07-S087-090.md",
+        "연도별/2025/9월_모평/독서/Q08-11-S009-012.md",
+        "연도별/2025/9월_모평/독서/Q12-17-S001-006.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2025,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2025/수능/독서/Q01-03-S183-185.md",
+        "연도별/2025/수능/독서/Q04-09-S123-128.md",
+        "연도별/2025/수능/독서/Q10-13-S005-008.md",
+        "연도별/2025/수능/독서/Q14-17-S114-117.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2026,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2026/6월_모평/독서/Q04-09-S081-086.md",
+        "연도별/2026/6월_모평/독서/Q10-13-S039-042.md",
+        "연도별/2026/6월_모평/독서/Q14-17-S001-004.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2026,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+        "2027 고3 국어 독서_Ⅴ. 예술.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2026/9월_모평/독서/Q01-03-S177-179.md",
+        "연도별/2026/9월_모평/독서/Q04-09-S019-024.md",
+        "연도별/2026/9월_모평/독서/Q10-13-S110-113.md",
+        "연도별/2026/9월_모평/독서/Q14-17-S001-004.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2026,
+      "exam_label": "수능",
+      "reading_source_present": true,
+      "literature_source_present": false,
+      "reading_md_present": true,
+      "literature_md_present": false,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17",
+        "4-9"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/고3 기출/hwpx_텍스트_연도별.md",
+        "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+        "2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+        "2027 고3 국어 독서_Ⅲ. 과학.hwpx"
+      ],
+      "md_paths": [
+        "고3 기출/hwpx_텍스트_연도별.md",
+        "연도별/2026/수능/독서/Q01-03-S174-176.md",
+        "연도별/2026/수능/독서/Q04-09-S075-080.md",
+        "연도별/2026/수능/독서/Q10-13-S021-024.md",
+        "연도별/2026/수능/독서/Q14-17-S096-099.md"
+      ],
+      "visual_assets": [],
+      "issues": [
+        "MISSING_SOURCE:문학"
+      ]
+    },
+    {
+      "academic_year": 2027,
+      "exam_label": "6월 모평",
+      "reading_source_present": true,
+      "literature_source_present": true,
+      "reading_md_present": true,
+      "literature_md_present": true,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/6월/q01-03.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/6월/q04-09.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/6월/q10-13.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/6월/q14-17.md"
+      ],
+      "md_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/6월/q01-03.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/6월/q10-13.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/6월/q14-17.md",
+        "연도별/2027/6월_모평/독서/q01-03.md",
+        "연도별/2027/6월_모평/독서/q10-13.md",
+        "연도별/2027/6월_모평/독서/q14-17.md",
+        "연도별/2027/6월_모평/문학/q04-09.md"
+      ],
+      "visual_assets": [
+        {
+          "source_path": "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/시각자료_원본/2027/q09_선지_대응표.png",
+          "central_path": "assets/2027/9월_모평/q09_선지_대응표.png",
+          "sha256": "7f5078d0c77ebc6d3c31407905b8aa0babeaea0de8df3b900cbb0bbf2afbf469"
+        },
+        {
+          "source_path": "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/시각자료_원본/2027/q13_어댑터_구조도.png",
+          "central_path": "assets/2027/9월_모평/q13_어댑터_구조도.png",
+          "sha256": "2dc123735ed039dd6e8c024aa84156963a7338561d15dae0bbb8a05d73680788"
+        }
+      ],
+      "issues": [
+        "canonical_ingest_status=unsupported_current_schema"
+      ]
+    },
+    {
+      "academic_year": 2027,
+      "exam_label": "9월 모평",
+      "reading_source_present": true,
+      "literature_source_present": true,
+      "reading_md_present": true,
+      "literature_md_present": true,
+      "canonical_reading_present": true,
+      "canonical_literature_present": false,
+      "question_range": [
+        "1-3",
+        "10-13",
+        "14-17"
+      ],
+      "source_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/9월/q01-03.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/9월/q04-09.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/9월/q10-13.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/9월/q14-17.md"
+      ],
+      "md_paths": [
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/9월/q01-03.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/9월/q10-13.md",
+        "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/전사_검수완료/2027/9월/q14-17.md",
+        "연도별/2027/9월_모평/독서/q01-03.md",
+        "연도별/2027/9월_모평/독서/q10-13.md",
+        "연도별/2027/9월_모평/독서/q14-17.md",
+        "연도별/2027/9월_모평/문학/q04-09.md"
+      ],
+      "visual_assets": [
+        {
+          "source_path": "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/시각자료_원본/2027/q09_선지_대응표.png",
+          "central_path": "assets/2027/9월_모평/q09_선지_대응표.png",
+          "sha256": "7f5078d0c77ebc6d3c31407905b8aa0babeaea0de8df3b900cbb0bbf2afbf469"
+        },
+        {
+          "source_path": "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/시각자료_원본/2027/q13_어댑터_구조도.png",
+          "central_path": "assets/2027/9월_모평/q13_어댑터_구조도.png",
+          "sha256": "2dc123735ed039dd6e8c024aa84156963a7338561d15dae0bbb8a05d73680788"
+        }
+      ],
+      "issues": [
+        "canonical_ingest_status=unsupported_current_schema"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "source_path": "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/시각자료_원본/2027/q09_선지_대응표.png",
+      "central_path": "assets/2027/9월_모평/q09_선지_대응표.png",
+      "sha256": "7f5078d0c77ebc6d3c31407905b8aa0babeaea0de8df3b900cbb0bbf2afbf469"
+    },
+    {
+      "source_path": "/mnt/d/국어/통합과학, 통합사회 배경지식 쌓기+평가원 스타일 연습/자료/평가원_국어/시각자료_원본/2027/q13_어댑터_구조도.png",
+      "central_path": "assets/2027/9월_모평/q13_어댑터_구조도.png",
+      "sha256": "2dc123735ed039dd6e8c024aa84156963a7338561d15dae0bbb8a05d73680788"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "blind_only": true,
+  "passage_group": "G198",
+  "case_id": "AGD",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "url": "https://suneung-files.hdh061224.workers.dev/kice-v3/2019_mock06_korean_q.pdf?name=2019%ED%95%99%EB%85%84%EB%8F%84+6%EB%AA%A8+%EA%B5%AD%EC%96%B4+%EB%AC%B8%EC%A0%9C%EC%A7%80.pdf",
+    "provider": "KICE-origin 2019학년도 6월 모의평가 국어 문제지 mirror",
+    "local_temp_path": "/tmp/2019_6월_모평_국어.pdf",
+    "sha256": "cb25d4185c1a562e0c4cb0e0c61117a715b1e589f1ef7ff465ce6f6f1cdc48b3",
+    "page_number_one_based": 8,
+    "page_anchor": "22~26 passage; [A] bracket in left column"
+  },
+  "anchor_verification": {
+    "marker_visible": true,
+    "first_sentence": "사무실의 방충망이 낡아서 파손되었다면 세입자와 사무실을 빌려 준 건물주 중 누가 고쳐야 할까?",
+    "last_sentence": "이처럼 법률의 규정과 계약의 내용이 어긋날 때 어떤 것이 우선 적용되어야 하는가, 법적 불이익은 없는가 등의 문제가 발생한다.",
+    "scope_note": "공식 문제지 8쪽 좌측 단에서 실제 [A] 괄호의 상단과 하단을 확인했다. [A]는 첫 문단 전체이며 crop에 첫 문장과 마지막 문장이 모두 보인다."
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AGD_A_range_official_crop_20260920.png",
+    "source_raster": "official PDF page 8 rendered at 2.5x PyMuPDF",
+    "pixel_box_xyxy": [150, 430, 1040, 1120],
+    "sha256": "d789d238b3483edf92ebe311f54b6636e71e9eee99e41601f0f00f1bc13e9a94",
+    "scope": "official [A] bracket and complete first paragraph; no answer key or SDSS"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_visual_anchor_restored_mechanically"
+}

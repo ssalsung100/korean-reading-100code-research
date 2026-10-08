@@ -1,0 +1,26 @@
+{
+  "blind_only": true,
+  "passage_group": "G207",
+  "case_id": "AHR",
+  "source_role": "official_pdf_visual_supplement",
+  "canonical_source": {
+    "path": "자료/평가원_국어/원본/2027/2027_9월_모의평가_국어_문제.pdf",
+    "source_page": 5,
+    "asset_path": "자료/평가원_국어/시각자료_원본/2027/q13_어댑터_구조도.png",
+    "asset_sha256": "2dc123735ed039dd6e8c024aa84156963a7338561d15dae0bbb8a05d73680788"
+  },
+  "visual_assets": [
+    {
+      "asset_path": "자료/평가원_국어/시각자료_원본/2027/q13_어댑터_구조도.png",
+      "scope": "question_visual_only",
+      "source_page": 5,
+      "asset_sha256": "2dc123735ed039dd6e8c024aa84156963a7338561d15dae0bbb8a05d73680788"
+    }
+  ],
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_visual_restored"
+}

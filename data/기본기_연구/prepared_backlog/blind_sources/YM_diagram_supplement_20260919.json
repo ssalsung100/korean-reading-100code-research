@@ -1,0 +1,30 @@
+{
+  "blind_only": true,
+  "passage_group": "G155",
+  "case_id": "YM",
+  "source_role": "mechanical_canonical_source_supplement",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "canonical_file_sha256": "42be085121b4e1584d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+  "question_anchor": {
+    "passage_start_paragraph_index": 3068,
+    "A_table_paragraph_index": 3069,
+    "A_table_id": "1714273441",
+    "A_marker_cell": {"colAddr": "0", "rowAddr": "1"},
+    "following_passage_paragraph_index": 3075,
+    "question_number_paragraph_index": 3077
+  },
+  "diagram_asset": {
+    "status": "canonical_asset_unavailable",
+    "extracted_path": null,
+    "reason": "Canonical table 1714273441 has blank cells around the [A] marker and no binaryItemIDRef/picture reference in section0.xml; the HWPX BinData assets are not linked to this table. No diagram image was inferred or substituted."
+  },
+  "transcription_note": "The [A] marker is mechanically anchored to table 1714273441 row 1; the requested ㉠·㉡·㉢ diagram itself is absent from the canonical table topology available locally.",
+  "quality_limit": "Only XML anchor and missing-asset evidence are recorded; no answer, SDSS, explanation, code judgment, or diagram meaning is included.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  }
+}

@@ -1,0 +1,200 @@
+# Luna frontier preflight — 20260928 G342
+
+기계적 source preparation만 수행했다. 문항 의미 풀이·정답 판단·코드 판정·SDSS 비교는 수행하지 않았다.
+
+- research_completed_total: 1084
+- target_completed: 547 / 1147
+- target not completed: 600
+- 새 READY groups / questions: 29 / 92
+- First READY group / case: G342 / AXF
+- Family counts: {"KICE":0,"LEET":29,"MEET/DEET":0,"Other":0}
+- Restored MEET visual groups: 없음
+- NEEDS_RESTORE: 116
+- SOURCE_MISSING: 5
+- HOLD: 4 (G024 유지)
+
+## READY groups
+
+- G342: LEET LEET-2014-odd-Q04-07 — AXF, AXG, AXH, AXI (4문항)
+- G343: LEET LEET-2014-odd-Q08-10 — AXJ, AXK, AXL (3문항)
+- G344: LEET LEET-2014-odd-Q11-13 — AXM, AXN, AXO (3문항)
+- G345: LEET LEET-2014-odd-Q14-16 — AXP, AXQ, AXR (3문항)
+- G346: LEET LEET-2014-odd-Q17-19 — AXS, AXT, AXU (3문항)
+- G347: LEET LEET-2014-odd-Q30-32 — AXV, AXW, AXX (3문항)
+- G348: LEET LEET-2014-odd-Q33-35 — AXY, AXZ, AYA (3문항)
+- G349: LEET LEET-2015-odd-Q01-03 — AYB, AYC, AYD (3문항)
+- G350: LEET LEET-2015-odd-Q04-06 — AYE, AYF, AYG (3문항)
+- G351: LEET LEET-2015-odd-Q07-10 — AYH, AYI, AYJ, AYK (4문항)
+- G352: LEET LEET-2015-odd-Q11-13 — AYL, AYM, AYN (3문항)
+- G353: LEET LEET-2015-odd-Q14-16 — AYO, AYP, AYQ (3문항)
+- G354: LEET LEET-2015-odd-Q21-23 — AYR, AYS, AYT (3문항)
+- G355: LEET LEET-2015-odd-Q24-26 — AYU, AYV, AYW (3문항)
+- G356: LEET LEET-2015-odd-Q27-29 — AYX, AYY, AYZ (3문항)
+- G357: LEET LEET-2015-odd-Q30-32 — AZA, AZB, AZC (3문항)
+- G358: LEET LEET-2015-odd-Q33-35 — AZD, AZE, AZF (3문항)
+- G359: LEET LEET-2016-odd-Q01-03 — AZG, AZH, AZI (3문항)
+- G360: LEET LEET-2016-odd-Q04-06 — AZJ, AZK, AZL (3문항)
+- G361: LEET LEET-2016-odd-Q07-10 — AZM, AZN, AZO, AZP (4문항)
+- G362: LEET LEET-2016-odd-Q11-13 — AZQ, AZR, AZS (3문항)
+- G363: LEET LEET-2016-odd-Q14-16 — AZT, AZU, AZV (3문항)
+- G364: LEET LEET-2016-odd-Q17-19 — AZW, AZX, AZY (3문항)
+- G365: LEET LEET-2016-odd-Q20-22 — AZZ, BAA, BAB (3문항)
+- G366: LEET LEET-2016-odd-Q23-25 — BAC, BAD, BAE (3문항)
+- G367: LEET LEET-2016-odd-Q26-28 — BAF, BAG, BAH (3문항)
+- G368: LEET LEET-2016-odd-Q29-32 — BAI, BAJ, BAK, BAL (4문항)
+- G369: LEET LEET-2017-odd-Q04-06 — BAM, BAN, BAO (3문항)
+- G370: LEET LEET-2017-odd-Q07-10 — BAP, BAQ, BAR, BAS (4문항)
+
+## NEEDS_RESTORE
+
+- KICE KICE-2025-6월_모평-Q12-17-S059~064 (1문항): KICE visual choice material requires source restoration
+- KICE KICE-2025-6월_모평-Q12-17-S059~064 (6문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- LEET LEET-2009-odd-Q08-10 (3문항): visual material has no exact linked local asset for LEET-2009-odd-Q08
+- LEET LEET-2009-odd-Q11-13 (3문항): legacy choice cycles 2; expected 3
+- LEET LEET-2009-odd-Q14-16 (3문항): legacy question 14 choice boundary missing
+- LEET LEET-2009-odd-Q17-19 (3문항): visual material has no exact linked local asset for LEET-2009-odd-Q17
+- LEET LEET-2009-odd-Q20-22 (3문항): legacy question 21 choice boundary missing
+- LEET LEET-2009-odd-Q23-25 (3문항): legacy question 23 choice boundary missing
+- LEET LEET-2009-odd-Q26-28 (3문항): legacy question 28 incomplete
+- LEET LEET-2009-odd-Q29-31 (3문항): legacy question 31 incomplete
+- LEET LEET-2009-odd-Q32-34 (3문항): legacy question 33 incomplete
+- LEET LEET-2009-odd-Q35-37 (3문항): legacy question 37 incomplete
+- LEET LEET-2009-odd-Q38-40 (3문항): legacy question 39 incomplete
+- LEET LEET-2009예비-odd-Q08-10 (3문항): legacy choice cycles 6; expected 3
+- LEET LEET-2009예비-odd-Q11-13 (3문항): legacy passage range heading missing
+- LEET LEET-2009예비-odd-Q22-25 (4문항): visual material has no exact linked local asset for LEET-2009예비-odd-Q22
+- LEET LEET-2009예비-odd-Q32-34 (3문항): visual material has no exact linked local asset for LEET-2009예비-odd-Q32
+- LEET LEET-2009예비-odd-Q35-37 (3문항): legacy choice cycles 6; expected 3
+- LEET LEET-2009예비-odd-Q38-40 (3문항): legacy passage range heading missing
+- LEET LEET-2010-odd-Q07-09 (2문항): legacy question 9 incomplete
+- LEET LEET-2010-odd-Q10-12 (3문항): legacy question 11 incomplete
+- LEET LEET-2010-odd-Q13-15 (3문항): legacy question 15 incomplete
+- LEET LEET-2010-odd-Q19-21 (3문항): visual material has no exact linked local asset for LEET-2010-odd-Q19
+- LEET LEET-2010-odd-Q25-26 (2문항): legacy question 26 incomplete
+- LEET LEET-2010-odd-Q27-29 (3문항): legacy question 28 incomplete
+- LEET LEET-2010-odd-Q30-32 (3문항): legacy question 31 incomplete
+- LEET LEET-2010-odd-Q33-35 (3문항): legacy question 34 incomplete
+- LEET LEET-2011-odd-Q06-08 (3문항): visual material has no exact linked local asset for LEET-2011-odd-Q06
+- LEET LEET-2011-odd-Q09-11 (3문항): legacy question 11 incomplete
+- LEET LEET-2011-odd-Q12-14 (2문항): legacy question 13 choice boundary missing
+- LEET LEET-2011-odd-Q15-17 (3문항): legacy question 17 incomplete
+- LEET LEET-2011-odd-Q18-20 (3문항): legacy question 20 incomplete
+- LEET LEET-2011-odd-Q21-23 (3문항): legacy question 23 incomplete
+- LEET LEET-2011-odd-Q27-29 (3문항): legacy question 29 incomplete
+- LEET LEET-2011-odd-Q30-32 (3문항): legacy question 32 incomplete
+- LEET LEET-2011-odd-Q33-35 (3문항): legacy question 34 incomplete
+- LEET LEET-2012-odd-Q07-08 (2문항): legacy question 8 incomplete
+- LEET LEET-2012-odd-Q09-11 (2문항): legacy question 11 incomplete
+- LEET LEET-2012-odd-Q12-14 (3문항): legacy question 13 incomplete
+- LEET LEET-2012-odd-Q15-17 (3문항): legacy question 17 incomplete
+- LEET LEET-2012-odd-Q18-20 (3문항): legacy question 20 incomplete
+- LEET LEET-2012-odd-Q21-23 (3문항): legacy question 22 incomplete
+- LEET LEET-2012-odd-Q24-26 (3문항): legacy question 26 incomplete
+- LEET LEET-2012-odd-Q27-29 (3문항): visual material has no exact linked local asset for LEET-2012-odd-Q27
+- LEET LEET-2012-odd-Q30-32 (3문항): legacy question 32 incomplete
+- LEET LEET-2012-odd-Q33-35 (3문항): visual material has no exact linked local asset for LEET-2012-odd-Q35
+- LEET LEET-2013-odd-Q10-12 (3문항): legacy choice cycles 2; expected 3
+- LEET LEET-2013-odd-Q25-27 (3문항): legacy choice cycles 2; expected 3
+- LEET LEET-2014-odd-Q23-25 (3문항): visual material has no exact linked local asset for LEET-2014-odd-Q23
+- LEET LEET-2014-odd-Q26-29 (4문항): visual material has no exact linked local asset for LEET-2014-odd-Q26
+- LEET LEET-2015-odd-Q17-20 (4문항): visual material has no exact linked local asset for LEET-2015-odd-Q17
+- LEET LEET-2016-odd-Q33-35 (3문항): visual material has no exact linked local asset for LEET-2016-odd-Q33
+- LEET LEET-2017-odd-Q01-03 (3문항): visual material has no exact linked local asset for LEET-2017-odd-Q01
+- LEET LEET-2017-odd-Q11-13 (3문항): visual material has no exact linked local asset for LEET-2017-odd-Q11
+- LEET LEET-2017-odd-Q33-35 (2문항): visual material has no exact linked local asset for LEET-2017-odd-Q35
+- LEET LEET-2018-odd-Q10-12 (3문항): visual material has no exact linked local asset for LEET-2018-odd-Q10
+- LEET LEET-2018-odd-Q13-15 (3문항): visual material has no exact linked local asset for LEET-2018-odd-Q13
+- LEET LEET-2019-odd-Q01-03 (3문항): visual material has no exact linked local asset for LEET-2019-odd-Q01
+- LEET LEET-2019-odd-Q28-30 (3문항): visual material has no exact linked local asset for LEET-2019-odd-Q28
+- LEET LEET-2020-odd-Q16-18 (3문항): visual material has no exact linked local asset for LEET-2020-odd-Q16
+- LEET LEET-2021-odd-Q28-30 (3문항): visual material has no exact linked local asset for LEET-2021-odd-Q28
+- LEET LEET-2024-odd-Q01-03 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q03
+- LEET LEET-2024-odd-Q04-06 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q06
+- LEET LEET-2024-odd-Q07-09 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q08
+- LEET LEET-2024-odd-Q16-18 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q18
+- LEET LEET-2024-odd-Q19-21 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q21
+- LEET LEET-2024-odd-Q22-24 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q23
+- LEET LEET-2024-odd-Q25-27 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q27
+- LEET LEET-2024-odd-Q28-30 (3문항): visual material has no exact linked local asset for LEET-2024-odd-Q30
+- LEET LEET-2025-odd-Q04-06 (3문항): visual material has no exact linked local asset for LEET-2025-odd-Q06
+- LEET LEET-2025-odd-Q07-09 (3문항): visual material has no exact linked local asset for LEET-2025-odd-Q09
+- LEET LEET-2025-odd-Q13-15 (3문항): visual material has no exact linked local asset for LEET-2025-odd-Q15
+- LEET LEET-2025-odd-Q19-21 (3문항): visual material has no exact linked local asset for LEET-2025-odd-Q21
+- LEET LEET-2025-odd-Q22-24 (3문항): visual material has no exact linked local asset for LEET-2025-odd-Q24
+- LEET LEET-2025-odd-Q28-30 (3문항): visual material has no exact linked local asset for LEET-2025-odd-Q30
+- LEET LEET-2026-odd-Q01-03 (3문항): visual material has no exact linked local asset for LEET-2026-odd-Q03
+- LEET LEET-2026-odd-Q10-12 (3문항): visual material has no exact linked local asset for LEET-2026-odd-Q12
+- LEET LEET-2026-odd-Q13-15 (3문항): visual material has no exact linked local asset for LEET-2026-odd-Q15
+- LEET LEET-2026-odd-Q16-18 (3문항): visual material has no exact linked local asset for LEET-2026-odd-Q18
+- LEET LEET-2026-odd-Q19-21 (3문항): visual material has no exact linked local asset for LEET-2026-odd-Q21
+- LEET LEET-2026-odd-Q22-24 (3문항): visual material has no exact linked local asset for LEET-2026-odd-Q24
+- MEET MEET-2006-Q08-10 (3문항): visual material has no exact linked local asset for MEET-2006-Q09
+- MEET MEET-2006-Q11-13 (3문항): visual material has no exact linked local asset for MEET-2006-Q11
+- MEET MEET-2006-Q17-19 (3문항): visual material has no exact linked local asset for MEET-2006-Q19
+- MEET MEET-2006-Q20-22 (3문항): visual material has no exact linked local asset for MEET-2006-Q21
+- MEET MEET-2006-Q29-31 (3문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- MEET MEET-2006-Q32-34 (3문항): visual material has no exact linked local asset for MEET-2006-Q32
+- MEET MEET-2006-Q38-40 (3문항): visual material has no exact linked local asset for MEET-2006-Q39
+- MEET MEET-2007-Q04-06 (3문항): visual material has no exact linked local asset for MEET-2007-Q05
+- MEET MEET-2007-Q07-09 (3문항): visual material has no exact linked local asset for MEET-2007-Q09
+- MEET MEET-2007-Q13-15 (3문항): visual material has no exact linked local asset for MEET-2007-Q14
+- MEET MEET-2007-Q16-18 (3문항): visual material has no exact linked local asset for MEET-2007-Q17
+- MEET MEET-2007-Q19-21 (3문항): visual material has no exact linked local asset for MEET-2007-Q20
+- MEET MEET-2007-Q22-24 (3문항): visual material has no exact linked local asset for MEET-2007-Q22
+- MEET MEET-2007-Q28-31 (4문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- MEET MEET-2007-Q32-34 (3문항): visual material has no exact linked local asset for MEET-2007-Q34
+- MEET MEET-2008-Q03-06 (4문항): visual material has no exact linked local asset for MEET-2008-Q04
+- MEET MEET-2008-Q07-10 (4문항): visual material has no exact linked local asset for MEET-2008-Q09
+- MEET MEET-2008-Q14-16 (3문항): visual material has no exact linked local asset for MEET-2008-Q16
+- MEET MEET-2008-Q17-19 (3문항): visual material has no exact linked local asset for MEET-2008-Q19
+- MEET MEET-2008-Q23-25 (3문항): visual material has no exact linked local asset for MEET-2008-Q24
+- MEET MEET-2008-Q29-31 (3문항): visual material has no exact linked local asset for MEET-2008-Q30
+- MEET MEET-2008-Q35-37 (3문항): visual material has no exact linked local asset for MEET-2008-Q35
+- MEET MEET-2011-Q05-07 (3문항): visual material has no exact linked local asset for MEET-2011-Q07
+- MEET MEET-2011-Q08-10 (2문항): visual material has no exact linked local asset for MEET-2011-Q10
+- MEET MEET-2011-Q11-13 (3문항): visual material has no exact linked local asset for MEET-2011-Q13
+- MEET MEET-2011-Q20-22 (3문항): visual material has no exact linked local asset for MEET-2011-Q22
+- MEET MEET-2011-Q32-34 (3문항): visual material has no exact linked local asset for MEET-2011-Q34
+- MEET MEET-2012-Q05-07 (3문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- MEET MEET-2012-Q08-10 (3문항): visual material has no exact linked local asset for MEET-2012-Q09
+- MEET MEET-2012-Q11-13 (3문항): visual material has no exact linked local asset for MEET-2012-Q12
+- MEET MEET-2012-Q14-16 (3문항): visual material has no exact linked local asset for MEET-2012-Q16
+- MEET MEET-2012-Q17-19 (3문항): visual material has no exact linked local asset for MEET-2012-Q19
+- MEET MEET-2012-Q23-25 (3문항): visual material has no exact linked local asset for MEET-2012-Q24
+- MEET MEET-2012-Q26-28 (3문항): passage source overlaps a completed/exposed source group; strict blind reuse is not established
+- MEET MEET-2012-Q38-40 (3문항): visual material has no exact linked local asset for MEET-2012-Q39
+
+## SOURCE_MISSING
+
+- LEET LEET-2008예비-Q04-08 (5문항): 2008 예비 Q4~8 canonical source is not in the local repository
+- KICE KICE-2016-수능국어B형-Q21 (1문항): KICE question is outside the local canonical reading-source scope
+- KICE KICE-2016-수능국어B형-Q22 (1문항): KICE question is outside the local canonical reading-source scope
+- KICE KICE-2016-수능국어B형-Q23 (1문항): KICE question is outside the local canonical reading-source scope
+- KICE KICE-2016-수능국어B형-Q24 (1문항): KICE question is outside the local canonical reading-source scope
+
+## HOLD
+
+- G024: DR, DS, DT, DU — 기존 상태 유지
+- G024: DR, DS, DT, DU — 기존 상태 유지
+- G024: DR, DS, DT, DU — 기존 상태 유지
+- G024: DR, DS, DT, DU — 기존 상태 유지
+
+## Verification
+
+- duplicate_candidate: 0
+- duplicate_question: 0
+- completed_overlap: 0
+- hold_overlap: 0
+- blind_answer_leakage: 0
+- blind_SDSS_leakage: 0
+- source_provenance_error: 0
+- passage_question_linkage_error: 0
+- empty_stem: 0
+- invalid_choice_count: 0
+- missing_required_visual: 0
+- missing_required_view_or_assumption: 0
+- output_path_conflicts: 0
+- candidate_completed_crosswalk_gap: 0
+- manifest_case_id_duplicates: 0
+- new_case_id_duplicates: 0
+- blind visual supplements: 36

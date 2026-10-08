@@ -1,0 +1,189 @@
+{
+  "scope": [
+    "G071",
+    "G072",
+    "G073",
+    "G074",
+    "G075",
+    "G081",
+    "G084",
+    "G086",
+    "G090",
+    "G095",
+    "G096",
+    "G098"
+  ],
+  "restored_cases": 46,
+  "ready_groups": 12,
+  "not_started": "G101 and later",
+  "semantic_work": false,
+  "answer_or_sdss_used_as_restoration_basis": false,
+  "groups": [
+    {
+      "passage_group": "G071",
+      "cases": [
+        "KF",
+        "KG",
+        "KH",
+        "KI"
+      ],
+      "restored_case": "KI",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G072",
+      "cases": [
+        "KJ",
+        "KK",
+        "KL",
+        "KM"
+      ],
+      "restored_case": "KM",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G073",
+      "cases": [
+        "KN",
+        "KO",
+        "KP"
+      ],
+      "restored_case": "KO",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": "choice_assets",
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G074",
+      "cases": [
+        "KQ",
+        "KR",
+        "KS",
+        "KT"
+      ],
+      "restored_case": "KT",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G075",
+      "cases": [
+        "KU",
+        "KV",
+        "KW"
+      ],
+      "restored_case": "KW",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G081",
+      "cases": [
+        "LN",
+        "LO",
+        "LP"
+      ],
+      "restored_case": "LO",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": "G081_LO_figure.png",
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G084",
+      "cases": [
+        "LZ",
+        "MA",
+        "MB",
+        "MC"
+      ],
+      "restored_case": "MC",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G086",
+      "cases": [
+        "MH",
+        "MI",
+        "MJ",
+        "MK"
+      ],
+      "restored_case": "MI",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G090",
+      "cases": [
+        "MW",
+        "MX"
+      ],
+      "restored_case": "MX",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": "G090_MX_curve.png",
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G095",
+      "cases": [
+        "NK",
+        "NL",
+        "NM",
+        "NN",
+        "NO"
+      ],
+      "restored_case": "NO",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G096",
+      "cases": [
+        "NP",
+        "NQ",
+        "NR",
+        "NS",
+        "NT"
+      ],
+      "restored_case": "NT",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    },
+    {
+      "passage_group": "G098",
+      "cases": [
+        "OA",
+        "OB",
+        "OC",
+        "OD",
+        "OE"
+      ],
+      "restored_case": "OE",
+      "status": "READY",
+      "choice_source": "local canonical HWPX XML hp:t + hp:tab tails",
+      "visual_asset": null,
+      "mechanical_check": "pass"
+    }
+  ]
+}

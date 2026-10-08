@@ -1,0 +1,35 @@
+{
+  "blind_only": true,
+  "passage_group": "G194",
+  "case_id": "AFJ",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G194_official_source/2017_6월_모평_국어_문제_원PDF.pdf",
+    "sha256": "010700a8c34a28d93be54b02983711308f47855c17fc074bb9faaf931368251f",
+    "page_number_one_based": 10,
+    "page_anchor": "2017학년도 6월 모의평가 국어, 음악·소리·협화도 지문, [A] bracket spans the two columns on page 10"
+  },
+  "anchor_verification": {
+    "marker_visible": true,
+    "first_sentence": "두 음이 동시에 울리거나 연이어 울릴 때, 음의 어울림, 즉 협화도는 음정에 따라 달라진다.",
+    "last_sentence": "16세기의 음악 이론가인 차를리노는 약분된 분수의 분자와 분모가 1, 2, 3, 4, 5, 6으로만 표현되는 음정은 협화 음정, 그 외의 음정은 불협화 음정으로 보았다.",
+    "following_text_outside_range": "아름다운 음악은 단순히 듣기 좋은 소리를 연이어 배열한다고 해서 만들어지지 않는다.",
+    "scope_note": "공식 PDF 10쪽의 왼쪽 하단 시작부와 오른쪽 상단 종결부를 읽기 순서로 결합했다. [A] marker와 범위 첫·끝 anchor가 함께 보이며 문항 선택지는 포함하지 않았다."
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AFJ_A_range_official_crop_20260920.png",
+    "source_raster": "official PDF page 10 rendered at 2.5x; left lower and right upper segments combined in reading order",
+    "segment_pixel_boxes_xyxy": [[170, 1980, 1040, 2700], [1060, 340, 1990, 570]],
+    "sha256": "39bd65c56dfaa4b82aa854c5211c113243bc220f8d243add5423e9358c4883f1",
+    "scope": "official [A] bracketed passage only, with minimal adjacent line context; no answer key or SDSS"
+  },
+  "pqrs_table_crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AFJ_PQRS_official_crop_20260920.png",
+    "page_number_one_based": 11,
+    "pixel_box_xyxy": [1140, 390, 1850, 740],
+    "sha256": "ac452207c9eb91a9fa1a8e1e6085fd76557511934646b0828a693a2b349a2c5a",
+    "scope": "official <보기> table showing P, Q, R, S and 440, 550, 660, 880 Hz; answer choices excluded"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_visual_anchor_restored_mechanically"
+}

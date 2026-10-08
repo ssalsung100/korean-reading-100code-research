@@ -1,0 +1,15 @@
+{
+  "blind_only": true,
+  "passage_group": "G200",
+  "case_ids": ["AGL", "AGM", "AGN", "AGO", "AGP", "AGQ"],
+  "canonical_source": {
+    "passage_id": "KICE-2020-6월_모평-Q37-42-S078~083",
+    "source_hwpx": "2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "section_anchor": "우리는 한 대의 자동차는 개체라고 하지만 바닷물을 개체라고 하지는 않는다.",
+    "passage_sha256": "db6419ac6367c98ac02f8a94f9662997f89e91352e3a5bf07525a4a82899a9f1",
+    "question_numbers": [37, 38, 39, 40, 41, 42]
+  },
+  "mechanical_case_order_basis": "preflight frontier selected unused passages in data/kice_passages.jsonl order after G199; this passage is the sixth selected group",
+  "status": "canonical_source_link_restored_mechanically"
+}

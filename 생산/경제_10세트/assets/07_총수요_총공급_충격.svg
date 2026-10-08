@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="420" viewBox="0 0 920 420">
+  <rect width="920" height="420" fill="white"/>
+  <style>
+    text { font-family: sans-serif; fill: #111; font-size: 17px; }
+    .axis { stroke: #111; stroke-width: 2; }
+    .curve { fill: none; stroke-width: 4; }
+    .old { stroke: #777; }
+    .new { stroke: #c0392b; }
+    .supply { stroke: #21618c; }
+  </style>
+  <text x="225" y="28" text-anchor="middle" font-weight="700">(가)</text>
+  <line class="axis" x1="65" y1="350" x2="395" y2="350"/>
+  <line class="axis" x1="65" y1="350" x2="65" y2="55"/>
+  <text x="350" y="382">실질 생산량</text><text x="16" y="72">물가 수준</text>
+  <path class="curve supply" d="M95 320 Q225 220 360 80"/>
+  <path class="curve old" d="M110 75 Q235 190 370 325"/>
+  <path class="curve new" d="M80 90 Q185 205 300 325"/>
+  <text x="340" y="82">단기 총공급</text><text x="335" y="310">총수요 0</text><text x="250" y="330" fill="#c0392b">총수요 1</text>
+
+  <text x="690" y="28" text-anchor="middle" font-weight="700">(나)</text>
+  <line class="axis" x1="530" y1="350" x2="860" y2="350"/>
+  <line class="axis" x1="530" y1="350" x2="530" y2="55"/>
+  <text x="815" y="382">실질 생산량</text><text x="480" y="72">물가 수준</text>
+  <path class="curve old" d="M560 320 Q690 220 825 80"/>
+  <path class="curve new" d="M555 260 Q675 155 785 60"/>
+  <path class="curve supply" d="M575 75 Q700 190 835 325"/>
+  <text x="794" y="83">총공급 0</text><text x="720" y="65" fill="#c0392b">총공급 1</text><text x="790" y="310">총수요</text>
+</svg>

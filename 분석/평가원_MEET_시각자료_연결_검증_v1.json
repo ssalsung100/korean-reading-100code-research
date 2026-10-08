@@ -1,0 +1,16 @@
+{
+  "status": "PASS",
+  "counts": {
+    "kice_records": 417,
+    "kice_images": 89,
+    "kice_hwpx_tables": 328,
+    "kice_semantic_objects": 140,
+    "kice_records_linked": 417,
+    "meet_records": 47,
+    "meet_embedded_images": 18,
+    "meet_markdown_tables": 29,
+    "meet_semantic_objects": 46,
+    "meet_records_linked": 46
+  },
+  "errors": []
+}

@@ -1,0 +1,32 @@
+{
+  "blind_only": true,
+  "passage_group": "G181",
+  "case_id": "ACU",
+  "purpose": "ACU [A] 범위의 원자료 대괄호 표지와 첫·끝 문장 기계 복원",
+  "source_role": "mechanical_canonical_source_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅴ. 예술.hwpx",
+    "sha256": "0ff1d76ce69849ddfd40ea46f1d3e750fde0396c5f8f83502d236cf42e3064bd",
+    "xml_part": "Contents/section0.xml",
+    "marker": "[A]",
+    "marker_position": "paragraph_start_inline",
+    "marker_xml_char_offset": 198037,
+    "marker_table_id": "2029780368",
+    "marker_cell": {"row": 1, "col": 0, "col_span": 2, "cell_text": "[A]"},
+    "scope_rule": "[A] 표지 직후 문단 시작부터 해당 문단의 마지막 문장까지",
+    "blind_source_crosscheck": {"path": "data/기본기_연구/prepared_backlog/blind_sources/ACU.json", "marker_present": true, "original_blind_source_modified": false}
+  },
+  "range_text": {
+    "first_sentence": "수빈은 SF가 등장하기 이전에도 인간은 허구적 이야기를 통해, 낯선 미지의 세계에 대한 동경심을 충족해 왔다고 말한다.",
+    "last_sentence": "오늘날 환경 오염, 전쟁 등으로 인해 인류가 심각한 위기에 처한 상황에서 현실 너머에 존재하는 이상적인 세계를 탐색하는 SF의 역할이 더욱 중요해졌다고 수빈은 주장한다.",
+    "canonical_paragraph_text_scope": "[A] marker 뒤부터 위 last_sentence까지의 동일 문단",
+    "following_text_outside_range": "다음 문항 stem은 [A] 범위 밖의 별도 질문 영역이다."
+  },
+  "visual_crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ACU_A_range_supplement_20260920.png",
+    "kind": "HWPX XML text-layout crop with original [A] marker and anchors",
+    "source_xml_anchor": "Contents/section0.xml#char-198037"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "status": "blind_range_anchor_restored_mechanically"
+}

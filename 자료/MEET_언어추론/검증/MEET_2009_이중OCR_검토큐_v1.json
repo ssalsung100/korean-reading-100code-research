@@ -1,0 +1,543 @@
+[
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 86,
+    "expected_question_numbers": [],
+    "tesseract_detected_question_numbers": [],
+    "paddle_detected_question_numbers": [],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.9535,
+    "tesseract_mean_region_confidence_percent": 90.37,
+    "paddle_mean_region_confidence_percent": 99.5,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_086_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_086.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_086.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 87,
+    "expected_question_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "tesseract_detected_question_numbers": [
+      1,
+      2,
+      4
+    ],
+    "paddle_detected_question_numbers": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [
+      3
+    ],
+    "directly_verified_stems": {
+      "3": "<보기> 안의 ‘예’로 추가하기에 가장 적절한 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.8869,
+    "tesseract_mean_region_confidence_percent": 86.07,
+    "paddle_mean_region_confidence_percent": 98.89,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_087_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_087.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_087.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 88,
+    "expected_question_numbers": [
+      5,
+      6,
+      7
+    ],
+    "tesseract_detected_question_numbers": [
+      5,
+      6,
+      7
+    ],
+    "paddle_detected_question_numbers": [
+      5,
+      6
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [
+      7
+    ],
+    "directly_verified_stems": {
+      "7": "위 글에 나타난 세 사람의 이론을 현대적 관점에서 평가했을 때 적절하지 않은 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.945,
+    "tesseract_mean_region_confidence_percent": 89.37,
+    "paddle_mean_region_confidence_percent": 99.04,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_088_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_088.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_088.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 89,
+    "expected_question_numbers": [
+      8,
+      9,
+      10
+    ],
+    "tesseract_detected_question_numbers": [
+      9,
+      10
+    ],
+    "paddle_detected_question_numbers": [
+      9,
+      10
+    ],
+    "question_numbers_missing_in_both": [
+      8
+    ],
+    "question_numbers_resolved_by_direct_page_review": [
+      8
+    ],
+    "directly_verified_stems": {
+      "8": "워홀의 <브릴로 상자>에 대한 단토의 생각과 거리가 먼 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.9222,
+    "tesseract_mean_region_confidence_percent": 90.89,
+    "paddle_mean_region_confidence_percent": 99.36,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_089_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_089.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_089.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 90,
+    "expected_question_numbers": [
+      11,
+      12,
+      13
+    ],
+    "tesseract_detected_question_numbers": [
+      11,
+      12,
+      13
+    ],
+    "paddle_detected_question_numbers": [
+      11,
+      12,
+      13
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.8518,
+    "tesseract_mean_region_confidence_percent": 84.92,
+    "paddle_mean_region_confidence_percent": 99.02,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_090_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_090.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_090.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 91,
+    "expected_question_numbers": [],
+    "tesseract_detected_question_numbers": [],
+    "paddle_detected_question_numbers": [],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.9363,
+    "tesseract_mean_region_confidence_percent": 89.83,
+    "paddle_mean_region_confidence_percent": 99.44,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_091_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_091.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_091.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 92,
+    "expected_question_numbers": [
+      14,
+      15,
+      16
+    ],
+    "tesseract_detected_question_numbers": [
+      14,
+      15,
+      16
+    ],
+    "paddle_detected_question_numbers": [
+      14,
+      16
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [
+      15
+    ],
+    "directly_verified_stems": {
+      "15": "위 글을 연극으로 상연할 때, ㉠～㉤에 대한 연출가의 지시로 적절하지 않은 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.8974,
+    "tesseract_mean_region_confidence_percent": 87.63,
+    "paddle_mean_region_confidence_percent": 98.87,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_092_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_092.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_092.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 93,
+    "expected_question_numbers": [
+      17,
+      18,
+      19
+    ],
+    "tesseract_detected_question_numbers": [
+      17,
+      19
+    ],
+    "paddle_detected_question_numbers": [
+      17,
+      18,
+      19
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [
+      18
+    ],
+    "directly_verified_stems": {
+      "18": "(가)～(마)의 말하기 방식에 대한 설명으로 옳지 않은 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.8865,
+    "tesseract_mean_region_confidence_percent": 88.73,
+    "paddle_mean_region_confidence_percent": 99.09,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_093_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_093.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_093.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 94,
+    "expected_question_numbers": [
+      20,
+      21,
+      22
+    ],
+    "tesseract_detected_question_numbers": [
+      21,
+      22
+    ],
+    "paddle_detected_question_numbers": [
+      21,
+      22
+    ],
+    "question_numbers_missing_in_both": [
+      20
+    ],
+    "question_numbers_resolved_by_direct_page_review": [
+      20
+    ],
+    "directly_verified_stems": {
+      "20": "위 글의 내용과 일치하는 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.953,
+    "tesseract_mean_region_confidence_percent": 91.9,
+    "paddle_mean_region_confidence_percent": 99.76,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_094_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_094.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_094.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 95,
+    "expected_question_numbers": [
+      23
+    ],
+    "tesseract_detected_question_numbers": [
+      23
+    ],
+    "paddle_detected_question_numbers": [
+      23
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.9477,
+    "tesseract_mean_region_confidence_percent": 90.85,
+    "paddle_mean_region_confidence_percent": 99.7,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_095_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_095.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_095.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 96,
+    "expected_question_numbers": [
+      24,
+      25
+    ],
+    "tesseract_detected_question_numbers": [
+      24
+    ],
+    "paddle_detected_question_numbers": [
+      24,
+      25
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [
+      25
+    ],
+    "directly_verified_stems": {
+      "25": "㉠에 근거하여 ‘과장’이 ‘젊은 축들’에게 할 수 있는 비판과 시적 의미가 가장 가까운 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.9239,
+    "tesseract_mean_region_confidence_percent": 90.95,
+    "paddle_mean_region_confidence_percent": 99.7,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_096_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_096.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_096.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 97,
+    "expected_question_numbers": [
+      26,
+      27,
+      28
+    ],
+    "tesseract_detected_question_numbers": [
+      26,
+      27
+    ],
+    "paddle_detected_question_numbers": [
+      26,
+      27
+    ],
+    "question_numbers_missing_in_both": [
+      28
+    ],
+    "question_numbers_resolved_by_direct_page_review": [
+      28
+    ],
+    "directly_verified_stems": {
+      "28": "의사인 김 박사에게 55세 여성 박 여사가 폐경 후 호르몬 대체 요법을 받기 위해 찾아왔다. ‘여성건강연구’의 결론으로 미루어 볼 때, 김 박사의 상담 내용 중 적절한 것만을 <보기>에서 고른 것은?"
+    },
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.7751,
+    "tesseract_mean_region_confidence_percent": 85.36,
+    "paddle_mean_region_confidence_percent": 98.98,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_097_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_097.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_097.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 98,
+    "expected_question_numbers": [
+      29,
+      30,
+      31
+    ],
+    "tesseract_detected_question_numbers": [
+      29,
+      30,
+      31
+    ],
+    "paddle_detected_question_numbers": [
+      29,
+      30,
+      31
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.8958,
+    "tesseract_mean_region_confidence_percent": 88.5,
+    "paddle_mean_region_confidence_percent": 99.05,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_098_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_098.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_098.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 99,
+    "expected_question_numbers": [
+      32,
+      33,
+      34
+    ],
+    "tesseract_detected_question_numbers": [
+      32,
+      33,
+      34
+    ],
+    "paddle_detected_question_numbers": [
+      32,
+      33,
+      34
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.8783,
+    "tesseract_mean_region_confidence_percent": 89.33,
+    "paddle_mean_region_confidence_percent": 99.08,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_099_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_099.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_099.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 100,
+    "expected_question_numbers": [
+      35,
+      36,
+      37
+    ],
+    "tesseract_detected_question_numbers": [
+      35,
+      36,
+      37
+    ],
+    "paddle_detected_question_numbers": [
+      35,
+      36,
+      37
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.9511,
+    "tesseract_mean_region_confidence_percent": 90.87,
+    "paddle_mean_region_confidence_percent": 99.49,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_100_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_100.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_100.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  },
+  {
+    "exam_family": "MEET",
+    "year": 2009,
+    "official_pdf_page": 101,
+    "expected_question_numbers": [
+      38,
+      39,
+      40
+    ],
+    "tesseract_detected_question_numbers": [
+      38,
+      39,
+      40
+    ],
+    "paddle_detected_question_numbers": [
+      38,
+      39,
+      40
+    ],
+    "question_numbers_missing_in_both": [],
+    "question_numbers_resolved_by_direct_page_review": [],
+    "directly_verified_stems": {},
+    "unresolved_question_numbers": [],
+    "unresolved_detection_disagreement": [],
+    "normalized_text_similarity": 0.9304,
+    "tesseract_mean_region_confidence_percent": 90.26,
+    "paddle_mean_region_confidence_percent": 99.71,
+    "review_priority": "normal",
+    "authority": "자료/MEET_언어추론/페이지/2009/official_page_101_3x.png",
+    "tesseract_draft": "자료/MEET_언어추론/OCR_초안/2009/official_page_101.md",
+    "paddle_draft": "자료/MEET_언어추론/OCR_초안_Paddle/2009/official_page_101.md",
+    "status": "direct_official_page_comparison_required",
+    "promotion_rule": "Neither OCR wording may be promoted without direct visual comparison."
+  }
+]

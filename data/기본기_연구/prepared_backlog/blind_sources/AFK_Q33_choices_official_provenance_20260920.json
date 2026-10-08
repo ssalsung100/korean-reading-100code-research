@@ -1,0 +1,21 @@
+{
+  "blind_only": true,
+  "passage_group": "G194",
+  "case_id": "AFK",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G194_official_source/2017_6월_모평_국어_문제_원PDF.pdf",
+    "sha256": "010700a8c34a28d93be54b02983711308f47855c17fc074bb9faaf931368251f",
+    "page_number_one_based": 11,
+    "page_anchor": "question 33, <보기> and five choices"
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AFK_Q33_choices_official_crop_20260920.png",
+    "source_raster": "official PDF page 11 rendered at 2.5x",
+    "pixel_box_xyxy": [1060, 1250, 1990, 2200],
+    "sha256": "286de7709a03e1bb6d89ba288d5bfef2a0687cf495627d9ba34ec68f16f56d18",
+    "scope": "question 33 stem, <보기>, and all five choices with underlined target verb markings; no later exam-title text"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "official_visual_anchor_restored_mechanically"
+}

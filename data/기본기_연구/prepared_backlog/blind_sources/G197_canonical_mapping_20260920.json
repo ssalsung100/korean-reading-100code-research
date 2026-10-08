@@ -1,0 +1,15 @@
+{
+  "blind_only": true,
+  "passage_group": "G197",
+  "case_ids": ["AFX", "AFY", "AFZ", "AGA", "AGB"],
+  "canonical_source": {
+    "passage_id": "KICE-2019-9월_모평-Q21-25-S015~019",
+    "source_hwpx": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "section_anchor": "대한민국 정부가 해외에서 발행한 채권의 CDS 프리미엄은...",
+    "passage_sha256": "e1617827c7af43b6473ef89d055e1765d72498e0a40b42b02979c036a1f12e3a",
+    "question_numbers": [21, 22, 23, 24, 25]
+  },
+  "mechanical_case_order_basis": "preflight frontier selected unused passages in data/kice_passages.jsonl order after G196; this passage is the third selected group",
+  "status": "canonical_source_link_restored_mechanically"
+}

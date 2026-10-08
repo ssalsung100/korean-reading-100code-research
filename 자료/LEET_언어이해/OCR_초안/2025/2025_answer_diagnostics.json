@@ -1,0 +1,220 @@
+[
+  {
+    "page": 1,
+    "region": "full",
+    "word_count": 41,
+    "mean_confidence": 75.0,
+    "low_confidence_count": 12,
+    "low_confidence_words": [
+      {
+        "text": "1,",
+        "confidence": 0.0,
+        "left": 93,
+        "top": 444,
+        "width": 154,
+        "height": 106
+      },
+      {
+        "text": "…|…‥……|",
+        "confidence": 11.0,
+        "left": 252,
+        "top": 474,
+        "width": 510,
+        "height": 52
+      },
+      {
+        "text": "|",
+        "confidence": 19.0,
+        "left": 710,
+        "top": 444,
+        "width": 53,
+        "height": 106
+      },
+      {
+        "text": "oe",
+        "confidence": 33.0,
+        "left": 188,
+        "top": 527,
+        "width": 249,
+        "height": 53
+      },
+      {
+        "text": "eee",
+        "confidence": 25.0,
+        "left": 447,
+        "top": 527,
+        "width": 315,
+        "height": 53
+      },
+      {
+        "text": "oe",
+        "confidence": 25.0,
+        "left": 188,
+        "top": 581,
+        "width": 249,
+        "height": 52
+      },
+      {
+        "text": "ae",
+        "confidence": 26.0,
+        "left": 447,
+        "top": 581,
+        "width": 210,
+        "height": 52
+      },
+      {
+        "text": "oe",
+        "confidence": 32.0,
+        "left": 188,
+        "top": 634,
+        "width": 249,
+        "height": 52
+      },
+      {
+        "text": "aes",
+        "confidence": 14.0,
+        "left": 447,
+        "top": 634,
+        "width": 315,
+        "height": 52
+      },
+      {
+        "text": "8)",
+        "confidence": 71.0,
+        "left": 277,
+        "top": 758,
+        "width": 22,
+        "height": 19
+      },
+      {
+        "text": "@",
+        "confidence": 72.0,
+        "left": 699,
+        "top": 758,
+        "width": 22,
+        "height": 19
+      },
+      {
+        "text": "|",
+        "confidence": 66.0,
+        "left": 234,
+        "top": 792,
+        "width": 2,
+        "height": 2
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "region": "full",
+    "word_count": 41,
+    "mean_confidence": 78.21951219512195,
+    "low_confidence_count": 13,
+    "low_confidence_words": [
+      {
+        "text": "sea",
+        "confidence": 16.0,
+        "left": 188,
+        "top": 474,
+        "width": 328,
+        "height": 52
+      },
+      {
+        "text": "fea",
+        "confidence": 22.0,
+        "left": 515,
+        "top": 444,
+        "width": 247,
+        "height": 106
+      },
+      {
+        "text": "oe",
+        "confidence": 31.0,
+        "left": 188,
+        "top": 527,
+        "width": 249,
+        "height": 53
+      },
+      {
+        "text": "eee]",
+        "confidence": 29.0,
+        "left": 447,
+        "top": 498,
+        "width": 315,
+        "height": 106
+      },
+      {
+        "text": "…|…",
+        "confidence": 31.0,
+        "left": 131,
+        "top": 581,
+        "width": 631,
+        "height": 52
+      },
+      {
+        "text": "…|",
+        "confidence": 69.0,
+        "left": 458,
+        "top": 551,
+        "width": 120,
+        "height": 106
+      },
+      {
+        "text": "|",
+        "confidence": 72.0,
+        "left": 696,
+        "top": 551,
+        "width": 67,
+        "height": 106
+      },
+      {
+        "text": "oe",
+        "confidence": 36.0,
+        "left": 171,
+        "top": 634,
+        "width": 266,
+        "height": 52
+      },
+      {
+        "text": "ae",
+        "confidence": 25.0,
+        "left": 447,
+        "top": 634,
+        "width": 210,
+        "height": 52
+      },
+      {
+        "text": "8)",
+        "confidence": 71.0,
+        "left": 277,
+        "top": 758,
+        "width": 22,
+        "height": 19
+      },
+      {
+        "text": "<]",
+        "confidence": 63.0,
+        "left": 488,
+        "top": 754,
+        "width": 26,
+        "height": 28
+      },
+      {
+        "text": "@",
+        "confidence": 72.0,
+        "left": 699,
+        "top": 758,
+        "width": 22,
+        "height": 19
+      },
+      {
+        "text": "|",
+        "confidence": 66.0,
+        "left": 234,
+        "top": 792,
+        "width": 2,
+        "height": 2
+      }
+    ]
+  }
+]

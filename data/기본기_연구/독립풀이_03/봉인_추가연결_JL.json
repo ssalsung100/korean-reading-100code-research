@@ -1,0 +1,81 @@
+{
+  "scope": "sealed: J-L only; not for learner disclosure",
+  "records": {
+    "J": {
+      "selection_reason": "condition_3_modal_strength_policy_or_science_inference",
+      "canonical_question_id": "KICE-2010-6월_모평-Q36-37-S012~013-Q37",
+      "canonical_passage_id": "KICE-2010-6월_모평-Q36-37-S012~013",
+      "source_paths": [
+        "data/kice_passages.jsonl",
+        "data/kice_questions.jsonl"
+      ],
+      "source_path_sha256": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      },
+      "question_raw_section_sha256": "b356a6c2e8027fc637f59ad1f79ec43ea429a6128fb1d83f40322c6adf8121f4",
+      "passage_sha256": "05699cd9cdcb7f011d6571308d2d341a00f8ab7598d5ffeb821ff30ecf1cf275",
+      "official_answer": "①",
+      "official_answer_verified": true,
+      "visual_check": {
+        "question_contains_visual_placeholder": false,
+        "passage_contains_visual_placeholder": false
+      },
+      "site_connection": {
+        "exact_candidate_label_matches": [],
+        "conclusion": "no exact matching candidate-label record in code_site_labels.jsonl; retained as an untagged supplementary case"
+      }
+    },
+    "K": {
+      "selection_reason": "condition_1_multiple_explanations_or_predictions_matched_to_evidence",
+      "canonical_question_id": "KICE-2017-수능-Q16-20-S065~069-Q18",
+      "canonical_passage_id": "KICE-2017-수능-Q16-20-S065~069",
+      "source_paths": [
+        "data/kice_passages.jsonl",
+        "data/kice_questions.jsonl"
+      ],
+      "source_path_sha256": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      },
+      "question_raw_section_sha256": "b20d532d0d8397db61ae75019ef6ed9d8e58efabbb11edb30a4b66d37a38d41e",
+      "passage_sha256": "570a45875ed65d6449a4c70c1f527a841d0cfb523bd6493c9630e09923a4f0cf",
+      "official_answer": "⑤",
+      "official_answer_verified": true,
+      "visual_check": {
+        "question_contains_visual_placeholder": false,
+        "passage_contains_visual_placeholder": false
+      },
+      "site_connection": {
+        "exact_candidate_label_matches": [],
+        "conclusion": "no exact matching candidate-label record in code_site_labels.jsonl; retained as an untagged supplementary case"
+      }
+    },
+    "L": {
+      "selection_reason": "condition_2_in_text_evidence_support_or_criticism_without_new_view",
+      "canonical_question_id": "KICE-2022-예시문항-Q05-10-S110~115-Q09",
+      "canonical_passage_id": "KICE-2022-예시문항-Q05-10-S110~115",
+      "source_paths": [
+        "data/kice_passages.jsonl",
+        "data/kice_questions.jsonl"
+      ],
+      "source_path_sha256": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      },
+      "question_raw_section_sha256": "89ab18f515cff5d0ffcd8e2b390aeaac69190d3e740952def77d519c76bd025d",
+      "passage_sha256": "cc9d30c384bfa98499d0ba4f8d0454fb5cf9fdf72fb6f316b701699274ab20b2",
+      "official_answer": "③",
+      "official_answer_verified": true,
+      "visual_check": {
+        "question_contains_visual_placeholder": false,
+        "passage_contains_visual_placeholder": false
+      },
+      "site_connection": {
+        "exact_candidate_label_matches": [],
+        "conclusion": "no exact matching candidate-label record in code_site_labels.jsonl; retained as an untagged supplementary case"
+      }
+    }
+  }
+}
+

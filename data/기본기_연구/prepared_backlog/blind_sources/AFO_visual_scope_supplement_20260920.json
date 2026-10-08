@@ -1,0 +1,38 @@
+{
+  "blind_only": true,
+  "passage_group": "G195",
+  "case_id": "AFO",
+  "question_id": "KICE-2018-수능-Q27-32-S030~035-Q30",
+  "source_role": "official_pdf_visual_scope_supplement",
+  "canonical_source": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G195_official_source/2018학년도_수능_국어_문제_원PDF.pdf",
+    "source_url": "https://img.khan.co.kr/spko/ipsi/2016/answer/ipsi2018003.pdf",
+    "graph_page": 11,
+    "graph_image_xref": 115,
+    "scope_page": 10,
+    "scope_bbox_points": [
+      430,
+      185,
+      760,
+      700
+    ]
+  },
+  "visual_assets": [
+    {
+      "asset_path": "data/기본기_연구/prepared_backlog/blind_sources/AFO_graph_abc_supplement_20260920.png",
+      "scope": "question_30_graphs_a_b_c",
+      "source_page": 11
+    },
+    {
+      "asset_path": "data/기본기_연구/prepared_backlog/blind_sources/AFO_scope_[가]_supplement_20260920.png",
+      "scope": "passage_[가]_start_to_end",
+      "source_page": 10
+    }
+  ],
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_visual_scope_restored"
+}

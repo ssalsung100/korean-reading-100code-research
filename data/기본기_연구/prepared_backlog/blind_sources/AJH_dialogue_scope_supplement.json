@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G220",
+  "case_id": "AJH",
+  "source_role": "official_pdf_scope_supplement",
+  "canonical_source": {
+    "path": "/mnt/d/국어/평가원 선지 빼먹기/source_pdfs/daipzip/2026_수능_국어_문제.pdf",
+    "page": 10,
+    "clip_points": [65, 100, 410, 800],
+    "render_scale": 4,
+    "crop_path": "data/기본기_연구/prepared_backlog/blind_sources/AJH_dialogue_A_scope_official_pdf.png",
+    "crop_sha256": "412ec5ab9aed5a85a47d9e205eaf9bc3ba25f60287fb5cda35f969de2bfa692f"
+  },
+  "scope": {
+    "markers": ["[A]"],
+    "dialogue_scope_start_and_end_visible": true,
+    "question_visual_or_scope_only": true
+  },
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_scope_restored"
+}

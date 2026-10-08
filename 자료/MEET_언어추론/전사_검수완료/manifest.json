@@ -1,0 +1,3528 @@
+{
+  "status": "complete",
+  "scope_note": "등록된 문항군만 공식 지면 직접 대조를 완료했다. 미등록 문항의 정본화를 뜻하지 않는다.",
+  "record_count": 125,
+  "verified_question_count": 380,
+  "expected_question_count": 380,
+  "records": [
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q01-05.md",
+      "file_sha256": "5e0c688c6b7ddbcc3932cef2f8de8729493d2bd0da1f0a3767a94795040d1f40",
+      "answers": {
+        "1": "②",
+        "2": "②",
+        "3": "④",
+        "4": "④",
+        "5": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 1,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_020_3x.png",
+          "sha256": "20396c12bf1e8c418d232489b440a639928ef5b50d962e991a6ebd5c0cd3d009"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        6,
+        7
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q06-07.md",
+      "file_sha256": "b5ad64740c6c9dd25773719f1ef5c57a20467793fe9e3a06cc35124a647fa964",
+      "answers": {
+        "6": "③",
+        "7": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_021_3x.png",
+          "sha256": "e82dfc0606dcd085cd331539cdaf965aa7d1199899dd8d710bfbdf7d24a39e61"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        8
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q08-08.md",
+      "file_sha256": "b496d0e12055df80622fab3ba3149c222df560ab7319303589237fb31812d42f",
+      "answers": {
+        "8": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_021_3x.png",
+          "sha256": "e82dfc0606dcd085cd331539cdaf965aa7d1199899dd8d710bfbdf7d24a39e61"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        9,
+        10,
+        11
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q09-11.md",
+      "file_sha256": "8cf95702de1725f5b7052d42aac6d7dd82b8164f09ed01ba7adfc1c5e1a9774e",
+      "answers": {
+        "9": "④",
+        "10": "⑤",
+        "11": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_022_3x.png",
+          "sha256": "c887fd7940514df6cbcdab09341240630b4b177bff4d85d5a5821708c126a0b1"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        12,
+        13,
+        14,
+        15
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q12-15.md",
+      "file_sha256": "90a344d69b0e19e0c547f070d2bf87de5fbcfd54c6d260f439d84e0eee8084e2",
+      "answers": {
+        "12": "②",
+        "13": "⑤",
+        "14": "①",
+        "15": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_023_3x.png",
+          "sha256": "3e02243529ed4a13a5cdf6f323f1df671a9df3f45d12c56d31fe3d1579a2ffb6"
+        },
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_024_3x.png",
+          "sha256": "a0f6f5775cc4be7fba9dcda66e2378d3fc9fb8a0facc8d47e1c9f5420a0cca61"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        16,
+        17,
+        18
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q16-18.md",
+      "file_sha256": "c2001d0766a7224cac6991bba0318c3a31661dc3cda939c0593be8a15b90938c",
+      "answers": {
+        "16": "④",
+        "17": "③",
+        "18": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_025_3x.png",
+          "sha256": "92e546028e77e493cbd359dda88be6746b4d758c9ae5742bfc65e56433c42b90"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        19,
+        20
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q19-20.md",
+      "file_sha256": "aa17b57e01352101671381c24a2035e202fea8e4687a1fadf7cd3fd1e59bf965",
+      "answers": {
+        "19": "①",
+        "20": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_026_3x.png",
+          "sha256": "1da61fc1b7eeaa976ac147c1471cc382b824715d0b8127c7ee20035d1605b38b"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        21,
+        22,
+        23
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q21-23.md",
+      "file_sha256": "14446548310938c1b5c8c4d1128c839d11c7c073f9a2d18af69f0819a07b0c98",
+      "answers": {
+        "21": "④",
+        "22": "③",
+        "23": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_027_3x.png",
+          "sha256": "c84da2609ededed9d8603477bc0a6cba08565adc777bfb73e7e1e84de0ea1bfe"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        24,
+        25,
+        26
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q24-26.md",
+      "file_sha256": "317604a18f8be6a5b0eacd0fb903101992f978224dfef6c99a87c4ff0d9f3808",
+      "answers": {
+        "24": "⑤",
+        "25": "①",
+        "26": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_028_3x.png",
+          "sha256": "bfbcf5ba22fefd2c4a1d2dcf8b941a4d4cf1677ebcdd422b239774ba930804df"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        27,
+        28,
+        29
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q27-29.md",
+      "file_sha256": "dc83802f983bb3e0390d1a19eacc1b63c6d6f10966be42cd3d7467a1a38c6dfb",
+      "answers": {
+        "27": "⑤",
+        "28": "②",
+        "29": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_029_3x.png",
+          "sha256": "c69200fa0fc2022acc10d64cba22514afe6a5a4cdf2773b55eb880e64f344d60"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        30,
+        31,
+        32
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q30-32.md",
+      "file_sha256": "d419bf14e9ddcd09d2573baa32217caa3d49d3c388d98a54b037b31056124a79",
+      "answers": {
+        "30": "④",
+        "31": "③",
+        "32": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_030_3x.png",
+          "sha256": "a892d1cffcae8565642bb42003a5bcc66f318aa341bcd797857d25b8708af1b1"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        33,
+        34,
+        35
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q33-35.md",
+      "file_sha256": "5d28c97666b42aa529f5e6e2876746607eb28283ff054cbef6bd21c7a74107d1",
+      "answers": {
+        "33": "①",
+        "34": "①",
+        "35": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_031_3x.png",
+          "sha256": "47db2db36b08c588d83191f1793dc849bc95236042b1f8d44eea60919cd351df"
+        },
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_032_3x.png",
+          "sha256": "2c5e1ac566eb0809ee57e879b5739787e39f3c4981b3cd4a5d45148c8fad0f72"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        36,
+        37,
+        38
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q36-38.md",
+      "file_sha256": "b2985a2a9184bfe677ca7f1940a512d9d8611935e67695d9479f061ef235cbf5",
+      "answers": {
+        "36": "⑤",
+        "37": "①",
+        "38": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_033_3x.png",
+          "sha256": "5b15a0987ee635da32fb9ab529f3e641de9b8163c9344f9c840ab8b122a3f4ac"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        39,
+        40,
+        41
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q39-41.md",
+      "file_sha256": "487fb129c2d74e317c361ed7679b9a0527da0b8ad73222f44147d7c4076e2635",
+      "answers": {
+        "39": "⑤",
+        "40": "④",
+        "41": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_034_3x.png",
+          "sha256": "4a9493d300c0c09ee2c77456813cf02c9a436ae59e9dc103e4af5a1526c54d98"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        42,
+        43
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q42-43.md",
+      "file_sha256": "8bf4032a6acc8bfa0b4e697529ab1c751de1c7686907786708d5b78a0b273899",
+      "answers": {
+        "42": "②",
+        "43": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_035_3x.png",
+          "sha256": "9acbfea867f86305153d0a41763df889802947a488faf6f3bd1f2a6a339b1df0"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        44,
+        45,
+        46
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q44-46.md",
+      "file_sha256": "937bb5725cf6a053066380f8fdee079349d6d3ee889af91f0230e19295b3c5f5",
+      "answers": {
+        "44": "③",
+        "45": "①",
+        "46": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 17,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_036_3x.png",
+          "sha256": "32898b97d9f62c3e0d5bdec222ba7ecfe221ff0b24c663b88c947e0221846f42"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        47,
+        48,
+        49,
+        50
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005/q47-50.md",
+      "file_sha256": "52bdbca34e024d522110b69c158514daaf2a7044251426e7fa2fa401490ac99b",
+      "answers": {
+        "47": "③",
+        "48": "③",
+        "49": "④",
+        "50": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 18,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_037_3x.png",
+          "sha256": "bf23160e013bd0e81fdf2c16b1bea775d7d6cc3e59814435b6fd7bc2c31602df"
+        },
+        {
+          "display_page": 19,
+          "file": "자료/MEET_언어추론/페이지/2005/official_page_038_3x.png",
+          "sha256": "253ff33106ee2d7a196b56877b6f6f0e3bb8aa7c6e9f5e57caaac90e34521705"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q01-04.md",
+      "file_sha256": "afdba93647d224acbad6e9a5dfcbd9d490195400aac5c848a3010c79a812520f",
+      "answers": {
+        "1": "③",
+        "2": "④",
+        "3": "③",
+        "4": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 1,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_001_3x.png",
+          "sha256": "6fa49b0652a33d05f653d842191fbe65cfd5e5a6f6dba625051c74cb222a3505"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        5,
+        6,
+        7
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q05-07.md",
+      "file_sha256": "8b79bd40c042abe7b990fd5e1082d1b3806d3bea47d876422b5bc128d1d88a63",
+      "answers": {
+        "5": "⑤",
+        "6": "②",
+        "7": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_002_3x.png",
+          "sha256": "6ef62f508b6cce328163b87e1bb88eafd9975b86d8eed0e6779ab5e5e7d4339e"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        8,
+        9
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q08-09.md",
+      "file_sha256": "d1b0c7fbe7f1fedfa22900da98cfd93b9fe3ac01ddb5e8258aaa58447786ed61",
+      "answers": {
+        "8": "①",
+        "9": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_002_3x.png",
+          "sha256": "6ef62f508b6cce328163b87e1bb88eafd9975b86d8eed0e6779ab5e5e7d4339e"
+        },
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_003_3x.png",
+          "sha256": "97f2fec36ea1447a1153ee80151c4b02c07c8804906ca99b0a11d6f769da83d5"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        10,
+        11
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q10-11.md",
+      "file_sha256": "1e0a19bbf84333355cc12e4d08f6003279bb2043bcfbbfd57132de867559bc16",
+      "answers": {
+        "10": "③",
+        "11": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_003_3x.png",
+          "sha256": "97f2fec36ea1447a1153ee80151c4b02c07c8804906ca99b0a11d6f769da83d5"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        12,
+        13,
+        14
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q12-14.md",
+      "file_sha256": "20d49718fef3332654fbc49823790971715dcf7ad342a8aed4d0cd82d235d118",
+      "answers": {
+        "12": "②",
+        "13": "③",
+        "14": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_004_3x.png",
+          "sha256": "c432f67f41b22138ad9bf3fec02c8f919eb03eda6c82c9f9b12dc7b857cf7089"
+        }
+      ],
+      "visual_assets": [
+        {
+          "file": "자료/MEET_언어추론/시각자료_원본/2005예비/page_004_image_01_xref_14.png",
+          "sha256": "34402b9de7148e86f9a8e7087a37153f329ede8552d73d60a1c05064618298e7"
+        },
+        {
+          "file": "자료/MEET_언어추론/시각자료_원본/2005예비/page_004_image_02_xref_15.png",
+          "sha256": "f1fff02a9a2bacda8f9d3e5d1bc0223540a5dbaedcdf38e027505b26455cf2ab"
+        }
+      ],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        15,
+        16,
+        17
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q15-17.md",
+      "file_sha256": "686986a996ba7c02f60ea3220e433a5ae58a1f3f7697bc69c3e69ae86a518f1d",
+      "answers": {
+        "15": "④",
+        "16": "⑤",
+        "17": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_005_3x.png",
+          "sha256": "a500ea204d59ed3abdfc6ebabd7bbd21e83865da2b6998544f9987f683e1e82f"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        18,
+        19
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q18-19.md",
+      "file_sha256": "cd786ddaed3292305b86c7a9c77dc9bc2aac215cfe6376f645ff562fbea4d4d1",
+      "answers": {
+        "18": "②",
+        "19": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_006_3x.png",
+          "sha256": "8bcbc942a41e8338c636403b6fe43ca7461c4547226a63cb6354fd94a60e1f79"
+        },
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_007_3x.png",
+          "sha256": "bc5574de170b3ed52905d65e165fd0987b491b32d659d01f0c7bf19183038b3e"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        20,
+        21
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q20-21.md",
+      "file_sha256": "436bc43f52c6bb21ff7010ce4085e76c7c31f377383ceff93cf47630724601fc",
+      "answers": {
+        "20": "②",
+        "21": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_007_3x.png",
+          "sha256": "bc5574de170b3ed52905d65e165fd0987b491b32d659d01f0c7bf19183038b3e"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        22,
+        23,
+        24
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q22-24.md",
+      "file_sha256": "e0c31d6329a7be90e360cfb4b0b7809f39bc58e32ab7d16766f2bd6f95c58ca3",
+      "answers": {
+        "22": "⑤",
+        "23": "③",
+        "24": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_008_3x.png",
+          "sha256": "9abd49c37ecf4d95b4c0718646682ef8c6a0e20d95151001589bb8d7443ed54b"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        25,
+        26,
+        27
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q25-27.md",
+      "file_sha256": "cbb48196892d33add50701c254bd3ca4a24cc4dcb4f9eb09fa27f67777813420",
+      "answers": {
+        "25": "①",
+        "26": "②",
+        "27": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_009_3x.png",
+          "sha256": "f40b6a417166bc68bbcedd40a39986ac88995d675a7d8326b3cdcb19621cffd6"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q28-31.md",
+      "file_sha256": "04378442d40e4fd086524beb4cc621bfafcae8dcc8ff7bbdf516b31e7d0d75f8",
+      "answers": {
+        "28": "④",
+        "29": "①",
+        "30": "④",
+        "31": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_010_3x.png",
+          "sha256": "8bb74035f400f188909f05e7ef9d61e74d0042d5b1f89e416ed660e6cb604469"
+        },
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_011_3x.png",
+          "sha256": "85f2c4ddbb97b4e8260a6f4525e866927aa04e8c876610a14d0d548d2115b178"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q32-34.md",
+      "file_sha256": "414f3e0c0c3473f957efa22e7523dcc636f8ea058e81ba96a6256d11def6a9fb",
+      "answers": {
+        "32": "④",
+        "33": "⑤",
+        "34": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_011_3x.png",
+          "sha256": "85f2c4ddbb97b4e8260a6f4525e866927aa04e8c876610a14d0d548d2115b178"
+        },
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_012_3x.png",
+          "sha256": "e9fea1a436fdf7e8d50930cb30c8ad93bcf17823abe57285c6312fccab40e8c7"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q35-37.md",
+      "file_sha256": "df35cdab77fcd74dc2ac498ebe8def724bb4330099ac6ddbd018059c3ac393d7",
+      "answers": {
+        "35": "③",
+        "36": "⑤",
+        "37": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_012_3x.png",
+          "sha256": "e9fea1a436fdf7e8d50930cb30c8ad93bcf17823abe57285c6312fccab40e8c7"
+        },
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_013_3x.png",
+          "sha256": "a2b0b8f2a0896e709e12f7dcdc35cc058b6af0f6351d015fc07f0c597f4da003"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q38-40.md",
+      "file_sha256": "dfd354b351710e5e98c3eb373058eefeabfafdae7418f853635cad6e4bda646e",
+      "answers": {
+        "38": "①",
+        "39": "④",
+        "40": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_013_3x.png",
+          "sha256": "a2b0b8f2a0896e709e12f7dcdc35cc058b6af0f6351d015fc07f0c597f4da003"
+        },
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_014_3x.png",
+          "sha256": "5bb69f4ff6a4e4477ebe801a7cca4b9f2ba3d4b1801ef9ed918cbea8cf72d692"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        41,
+        42,
+        43
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q41-43.md",
+      "file_sha256": "ca5cf79899b362fb0891e823143a223ffc150fa3d8d4a674d1c990f64736d409",
+      "answers": {
+        "41": "②",
+        "42": "⑤",
+        "43": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_015_3x.png",
+          "sha256": "f9840acad0e30df7e8d794eb8c9da1509f75ba9c00d5616f9ee0443ce1ca8378"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        44,
+        45,
+        46,
+        47
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q44-47.md",
+      "file_sha256": "9b3afca1a4426bab443012f8e4414d0b0f30a4158b03bc8c8a207ff6c0aa41a2",
+      "answers": {
+        "44": "④",
+        "45": "①",
+        "46": "⑤",
+        "47": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_016_3x.png",
+          "sha256": "dbfe97b7deb2844cbcd47299557aa8331efcbaa14349cbd83ba403cc4128f7ef"
+        },
+        {
+          "display_page": 17,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_017_3x.png",
+          "sha256": "1764a1fd97ebdd27bfd13e7a41ae2f5b37b9afc36b5267753d60883703ecaa18"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2005예비",
+      "year": 2005,
+      "variant": "odd",
+      "questions": [
+        48,
+        49,
+        50
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2005예비/q48-50.md",
+      "file_sha256": "b6e806e0e08740e534ccad6502cc5016c09ecd7f3950523d50ba7d3d87d7b300",
+      "answers": {
+        "48": "④",
+        "49": "⑤",
+        "50": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 18,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_018_3x.png",
+          "sha256": "a60c45693fa45225cd6b38f0b8e6780491cd6c5984fb20d329ed7910754f7c75"
+        },
+        {
+          "display_page": 19,
+          "file": "자료/MEET_언어추론/페이지/2005예비/official_page_019_3x.png",
+          "sha256": "dd9f4324159a6624f8d59093b17c541b137182230a7f70f2c800d60e4675fd58"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q01-04.md",
+      "file_sha256": "56a6b4cc313c0c2d57fad446901a4fcba30c04a17d49b74622d0e0d84fb9099f",
+      "answers": {
+        "1": "①",
+        "2": "⑤",
+        "3": "②",
+        "4": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 1,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_039_3x.png",
+          "sha256": "c04721b3a4a89f1d02bb6e42563e9d64e6a24ad967d72d9a9b694fe686750eef"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        5,
+        6,
+        7
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q05-07.md",
+      "file_sha256": "c5068ca2d5e0e9209c4988bab5418d3dd3d0cc8c36d41381e4a8fdc8c30bac74",
+      "answers": {
+        "5": "③",
+        "6": "②",
+        "7": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_040_3x.png",
+          "sha256": "2a5e5a80155bee6823735963512a178004cf599fafec1a30979ac0f2c7e80b03"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        8,
+        9,
+        10
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q08-10.md",
+      "file_sha256": "b549df3c93c4efb7165b5b2a46ab110ea438352ae004239914aedaed26ad1f94",
+      "answers": {
+        "8": "②",
+        "9": "④",
+        "10": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_041_3x.png",
+          "sha256": "88c08e12de4233bf39aa92fdb214107097a7168919eb5a4d7aa5569967a72a38"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        11,
+        12,
+        13
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q11-13.md",
+      "file_sha256": "c4723b992158ca7e58d129a60a3a50e476330333921dc24ea7fda7dfe819312f",
+      "answers": {
+        "11": "①",
+        "12": "④",
+        "13": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_042_3x.png",
+          "sha256": "b5c045b48500f8429a353deb6bad6b01e1ea1e7c3d0fbdb1d2f72d0c2a6a7a99"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        14,
+        15,
+        16
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q14-16.md",
+      "file_sha256": "2647c9465ecf9d9a45e1bd30a89a1b9c50ced95dd8a7a4d97fcd68e499c520e2",
+      "answers": {
+        "14": "⑤",
+        "15": "①",
+        "16": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_043_3x.png",
+          "sha256": "87a264c7f7fb6bcf6f7ad8470f07cb2378b3b3a77f2e2e27669a57a1a62069ab"
+        },
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_044_3x.png",
+          "sha256": "b37443fe203dbd9c61da658d16fd70790dfb85a78abc8879990ce486e5448b53"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        17,
+        18,
+        19
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q17-19.md",
+      "file_sha256": "ece995c29ace21c70278c1c4c56ca7614debcdeb29a01aca8c3de549a46779a4",
+      "answers": {
+        "17": "②",
+        "18": "③",
+        "19": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_044_3x.png",
+          "sha256": "b37443fe203dbd9c61da658d16fd70790dfb85a78abc8879990ce486e5448b53"
+        },
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_045_3x.png",
+          "sha256": "d5aba70f7b94d1c7f291ee26395aa69cfdeda69cbbd57fd64f9caa7aa6e1b158"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        20,
+        21,
+        22
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q20-22.md",
+      "file_sha256": "770394a594953e67db3fb92c107559f14b2e4a303a2dff8bac83f88cb7d9df82",
+      "answers": {
+        "20": "③",
+        "21": "③",
+        "22": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_046_3x.png",
+          "sha256": "60b705b67681740a652359c7b754d732f8a975a34b3a6db78c9c455ca212cdd1"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        23,
+        24,
+        25
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q23-25.md",
+      "file_sha256": "110cb0722f23478062cda054db852e13f1c4033bd4bf174b5f6a2cb179a6beb5",
+      "answers": {
+        "23": "③",
+        "24": "⑤",
+        "25": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_047_3x.png",
+          "sha256": "e2554a7b51fecc20c09d221aff89b66138974b521c883925a1223bc71314ae2a"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        26,
+        27,
+        28
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q26-28.md",
+      "file_sha256": "33f8a8b08eb723cfc9a731979a4ec596a9c56cdfb728d104eb1dd7360964d7ea",
+      "answers": {
+        "26": "⑤",
+        "27": "③",
+        "28": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_048_3x.png",
+          "sha256": "495540f872225ea431bbc932050c00b966bca781187f2c23c45c5c1557d40298"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q29-31.md",
+      "file_sha256": "09f27a8eb61d12b8cc0cc478265abefe5be1967912c2c2f57ebef8a96a253266",
+      "answers": {
+        "29": "③",
+        "30": "①",
+        "31": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_049_3x.png",
+          "sha256": "52173975531f0ea00da6d7c2625871153cba0609f501aa2d20f50f10433af885"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q32-34.md",
+      "file_sha256": "6c4cdb7dd22bcc67aa063b0ef43583cfd7c1da528fec9ae2345193399ab78461",
+      "answers": {
+        "32": "⑤",
+        "33": "②",
+        "34": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_050_3x.png",
+          "sha256": "7c91bfdcff0416bcf604a415bdfff71d3faa85390bc3ddb45d27151d33f1b35f"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q35-37.md",
+      "file_sha256": "f226b729d22b9115068f097bd5c6d405b10c499a8f661c1bfc73a917c2ea1147",
+      "answers": {
+        "35": "③",
+        "36": "④",
+        "37": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_051_3x.png",
+          "sha256": "4dc35f9553ff24f7179299bf9ee7dbaaaec80d589d2569567fddaf95fa07f2f9"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2006",
+      "year": 2006,
+      "variant": "odd",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2006/q38-40.md",
+      "file_sha256": "a1519fbfe121a415496875288646c569b74a0cd2c604d6dd938de493f9bdf1cd",
+      "answers": {
+        "38": "②",
+        "39": "①",
+        "40": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_052_3x.png",
+          "sha256": "c17ffdc73da03a2618ae75259381e8e20a1c03146db0f8472bb726006e884fae"
+        },
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_053_3x.png",
+          "sha256": "3d774f7a0200f1e1170b98f5e99fcaa2846049bec614e249e8031d8e343ea021"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        1,
+        2,
+        3
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q01-03.md",
+      "file_sha256": "27a04efa43cf2665faa35e1998bcb910734e4d71ea3785f6e242a1e611c73756",
+      "answers": {
+        "1": "②",
+        "2": "②",
+        "3": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 1,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_054_3x.png",
+          "sha256": "45103ead3037b65b32273f4a43c8f0bad8eb8c128f2f1a6e5926a42da93fe7b4"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        4,
+        5,
+        6
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q04-06.md",
+      "file_sha256": "dc8b2e22062a78236a959c366f4c56a428dea15bab05de0b01967b069ba75c12",
+      "answers": {
+        "4": "④",
+        "5": "①",
+        "6": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_055_3x.png",
+          "sha256": "acc237dd78aae6073f2fbea579392e1f0581d6860673521ca30e4e515c0621ec"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        7,
+        8,
+        9
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q07-09.md",
+      "file_sha256": "e20692b98059d52a0fdecb7bd32cbc89a430c73e8a73c65159973cab0802237c",
+      "answers": {
+        "7": "④",
+        "8": "③",
+        "9": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_056_3x.png",
+          "sha256": "fed8e79691e386e8b752436cc8eade396d1d1f1dfccbc87d07e04ec701facaaf"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        10,
+        11,
+        12
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q10-12.md",
+      "file_sha256": "43586ce8ed10d7f020b4ce8c882c793cfc40048f1f309eae339e540a1607c67e",
+      "answers": {
+        "10": "③",
+        "11": "④",
+        "12": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_057_3x.png",
+          "sha256": "136d416b0c99f65c29e86d1271c249e54bf2cf07ed3b89b2cdb1a6051bd9f58a"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        13,
+        14,
+        15
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q13-15.md",
+      "file_sha256": "9a0df39911996df46cfe0ed618f0fc526ad10e1802502898b052c7c8ee36cff6",
+      "answers": {
+        "13": "③",
+        "14": "②",
+        "15": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_058_3x.png",
+          "sha256": "c722b177baca2a7f05f02fd98218ddf299184f2a4bd30f1a3b57b41082804754"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        16,
+        17,
+        18
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q16-18.md",
+      "file_sha256": "7fdd5af104e2ceea885dc5e5cd57858a095186ddf00a300db7da2ca1592c01ba",
+      "answers": {
+        "16": "③",
+        "17": "⑤",
+        "18": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_059_3x.png",
+          "sha256": "e201910c058922c5a2737bae82ebb7f8b1ac81ade507a8945d6354f311874b3c"
+        },
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_060_3x.png",
+          "sha256": "6d31389524e7875f9c864e27abcc2e5be15d361220d5e4739bf7789927dbeb29"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        19,
+        20,
+        21
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q19-21.md",
+      "file_sha256": "836e8d7eb95ca58372a12907e31e277b659e820da7dcb6cc4fbe56c02842e477",
+      "answers": {
+        "19": "②",
+        "20": "①",
+        "21": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_061_3x.png",
+          "sha256": "ee6107edd84a7531260cccb27e46a23e8e7512928490fa8672c11b53a6888139"
+        },
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_062_3x.png",
+          "sha256": "3ebcf216f84cdcd55f3a852b3dded3ac71ba332fa24c2c512a4dfc39404004da"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        22,
+        23,
+        24
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q22-24.md",
+      "file_sha256": "5a6d40c9231eb0f72c667012805f08245592a13da158fc560caabbff8b4ac9b8",
+      "answers": {
+        "22": "②",
+        "23": "④",
+        "24": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_062_3x.png",
+          "sha256": "3ebcf216f84cdcd55f3a852b3dded3ac71ba332fa24c2c512a4dfc39404004da"
+        },
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_063_3x.png",
+          "sha256": "b062a9e0b54ac74dafa718d6638c1754970eca62529e84294cbfbb9b33a18a94"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        25,
+        26,
+        27
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q25-27.md",
+      "file_sha256": "b596d7325c2268c54aab6e2d4cd185a670221af30534b3e8fba783e69ffeafcc",
+      "answers": {
+        "25": "④",
+        "26": "④",
+        "27": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_064_3x.png",
+          "sha256": "12b17a352366b5c37f0f0d4206515d92fa1dab89208a6b32c036ce3a82c621f4"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        28,
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q28-31.md",
+      "file_sha256": "4e78d51d04d13622316bcc1e943a5e38fe769732e4d5977459c08ee49fe8df9b",
+      "answers": {
+        "28": "⑤",
+        "29": "①",
+        "30": "⑤",
+        "31": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_065_3x.png",
+          "sha256": "fb0ceb3caa773e4e33de0fa9ea294e7c2ed98cc3fb5f5f051b929094c965899a"
+        },
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_066_3x.png",
+          "sha256": "9f7bfade67bc72ea20b9b4e4897683f2da27fbcdcca456f235f8b086f45caacb"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q32-34.md",
+      "file_sha256": "91bffca04ccf921f87e9cca823ae6f04118d909b7b5480b7c3a5e9b14bcb406d",
+      "answers": {
+        "32": "⑤",
+        "33": "③",
+        "34": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_067_3x.png",
+          "sha256": "d33c99fa753f4aaed845c6823ce1a98544d567279624fdbf9a09dea86190ff0d"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q35-37.md",
+      "file_sha256": "ba9df7ad4446a0248e6a86214d106fcd152ecd9a3747f5cd2f950c0c866d9131",
+      "answers": {
+        "35": "⑤",
+        "36": "④",
+        "37": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_068_3x.png",
+          "sha256": "f7e9ddee11d595adfea5e649e90414050b36bbfd7e0a1b24eb940043c608ed3f"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2007",
+      "year": 2007,
+      "variant": "odd",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2007/q38-40.md",
+      "file_sha256": "df470601e5a7afdea45689b05f0a3a59870e6a32529bd34d567ecdd5b2bb737c",
+      "answers": {
+        "38": "④",
+        "39": "③",
+        "40": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2007/official_page_069_3x.png",
+          "sha256": "5e17d17e06173672331260104ceeaf2607294655b92b73ce9915fa6482fe1c5c"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        1,
+        2
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q01-02.md",
+      "file_sha256": "2ac1315cd9afaef27e35ab4509c8947d4bec9b7bb786ae0ca72726ddcf092664",
+      "answers": {
+        "1": "②",
+        "2": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_071_3x.png",
+          "sha256": "6bb1f725e85e67fdb4ad30a1b83131e857dedf1ff3098becc9e6187d3b1c5e26"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q03-06.md",
+      "file_sha256": "d50835508317eed05bd4e572375e5d4b619911466a4c9e997ce0460147516634",
+      "answers": {
+        "3": "①",
+        "4": "①",
+        "5": "①",
+        "6": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_071_3x.png",
+          "sha256": "6bb1f725e85e67fdb4ad30a1b83131e857dedf1ff3098becc9e6187d3b1c5e26"
+        },
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_072_3x.png",
+          "sha256": "7a83ef5f5f47bc1b7397824cd8a34252baf449d874819d2a3aaea8e4b0f82494"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        7,
+        8,
+        9,
+        10
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q07-10.md",
+      "file_sha256": "0a7316d987d6b97322aa9f9c45dec4b09f48d79f52f577114a1ad6da21c24825",
+      "answers": {
+        "7": "③",
+        "8": "④",
+        "9": "③",
+        "10": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_073_3x.png",
+          "sha256": "3a09042a8d5b9a9030711eceb086047c58990925e35edcde42541f96e442080d"
+        },
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_074_3x.png",
+          "sha256": "47b561b43e2370367db96386fd9610abc6c4eb506a31a2fb1d72a173a63a4bd2"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        11,
+        12,
+        13
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q11-13.md",
+      "file_sha256": "1e8d825a8fbf5d7f4c135c929d2f6aaa8ec9c5bb22693276a0e4015bd60dbcc1",
+      "answers": {
+        "11": "④",
+        "12": "②",
+        "13": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_075_3x.png",
+          "sha256": "11dfb443442bcbf1c30b125b0417f69fe21c78cb6932d9746b6741140910434c"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        14,
+        15,
+        16
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q14-16.md",
+      "file_sha256": "318f90bd4bd08fd6f9806cdc1f07fd5ad5af2a96efc26d4d808b2ed9096ba56d",
+      "answers": {
+        "14": "⑤",
+        "15": "⑤",
+        "16": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_076_3x.png",
+          "sha256": "e78b3926596cc1a22219c54138bd2290afedd59fc3f8de32a6e8efcf87f819df"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        17,
+        18,
+        19
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q17-19.md",
+      "file_sha256": "0edc6ba1433a6e44dd23e6ae77948d007e298d949a071d8e65d6c6bee8d6b7c9",
+      "answers": {
+        "17": "③",
+        "18": "①",
+        "19": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_077_3x.png",
+          "sha256": "2e6caa0bd5ee99f9077fd72b50e84838645d05a596cd7138508e40f267fb6ac7"
+        },
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_078_3x.png",
+          "sha256": "4098770675466758cf61b06201f7431914203b3f2d023379b026e07cde4d9bdd"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        20,
+        21,
+        22
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q20-22.md",
+      "file_sha256": "d25bf59cb6ed76aac8dfefcfa0e384f5e6f091b98bf6490bd98e32682163f9cb",
+      "answers": {
+        "20": "③",
+        "21": "①",
+        "22": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_078_3x.png",
+          "sha256": "4098770675466758cf61b06201f7431914203b3f2d023379b026e07cde4d9bdd"
+        },
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_079_3x.png",
+          "sha256": "a36e1a7c7749360493bd690312a80563a22ff028af33636679258787ddc1d7be"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        23,
+        24,
+        25
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q23-25.md",
+      "file_sha256": "86ccf962c75c88a050b05393ff2371e745062bc19d2026d4aa88539722ca6a89",
+      "answers": {
+        "23": "①",
+        "24": "④",
+        "25": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_079_3x.png",
+          "sha256": "a36e1a7c7749360493bd690312a80563a22ff028af33636679258787ddc1d7be"
+        },
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_080_3x.png",
+          "sha256": "2c65d8c29c57b841bec8fb375eccccfc5fe52c0f567cbfb303b14576350072db"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        26,
+        27,
+        28
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q26-28.md",
+      "file_sha256": "56606dbf14117bc1520df94a87046969d8d993ed8c45cf9d75bc2e84f22465d8",
+      "answers": {
+        "26": "①",
+        "27": "⑤",
+        "28": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_081_3x.png",
+          "sha256": "d11c6bea7ca783123300ef827f06969d058e770feeb640aa82a23df0a70af58c"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q29-31.md",
+      "file_sha256": "325cca19a86633eb759ecf29a8c185ab4c3c85ba80e748b935af0ada4d62914c",
+      "answers": {
+        "29": "②",
+        "30": "④",
+        "31": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_082_3x.png",
+          "sha256": "b94459dba9a846614a773ebe38005c18413bbebe26fe636ad2352bdebc6fea72"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q32-34.md",
+      "file_sha256": "a82f987a5d65b265ffb3a1d22b5e544450d88ac8ebb1935fe4d06f6d10530360",
+      "answers": {
+        "32": "⑤",
+        "33": "③",
+        "34": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_083_3x.png",
+          "sha256": "7f11d4ff5ff36da55398f4a83e5ab697f84eacfe3e05acf789369d3af938da8b"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q35-37.md",
+      "file_sha256": "296900ce2034a17f1acbc93c21faad0367bbdae9b64493b322ea80872e59037b",
+      "answers": {
+        "35": "②",
+        "36": "①",
+        "37": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_084_3x.png",
+          "sha256": "87fa552dc05224aab9daf00da6a346ee458ee904442f347b0049407bf7fba35d"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2008",
+      "year": 2008,
+      "variant": "odd",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2008/q38-40.md",
+      "file_sha256": "33dfa04edc52e550eb15d23a82aea656d1d7b0cda1a0f603a0fbe76a783291b2",
+      "answers": {
+        "38": "③",
+        "39": "②",
+        "40": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2008/official_page_085_3x.png",
+          "sha256": "7a3ecd6dba44c01dd27c1a9870a6b0630dee7fff1122c65ffb3991d8cde1519f"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q01-04.md",
+      "file_sha256": "0acf672b2e2abbd5cdc7c63e4d614c7b0241b45e2abd74c8ebcc1d71290d263f",
+      "answers": {
+        "1": "①",
+        "2": "①",
+        "3": "④",
+        "4": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_087_3x.png",
+          "sha256": "e5bdb670df25a8fd0c50aea70c8a94d93caa63335eb41eeb73fe6481912267b0"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        5,
+        6,
+        7
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q05-07.md",
+      "file_sha256": "e4a2c556316586dee31ffdc4ab65b7d8e2d8619985335d58ffd87602ad049029",
+      "answers": {
+        "5": "①",
+        "6": "③",
+        "7": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_087_3x.png",
+          "sha256": "e5bdb670df25a8fd0c50aea70c8a94d93caa63335eb41eeb73fe6481912267b0"
+        },
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_088_3x.png",
+          "sha256": "96fa6ef829b756e648df804cd4d40f7c30ab88f15e0c6bca6e28daec3fca0a7a"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        8,
+        9,
+        10
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q08-10.md",
+      "file_sha256": "1b0fa030d4d02a0bc290930f6cb6b14b9557fe3339478668a5f36c9219206956",
+      "answers": {
+        "8": "①",
+        "9": "②",
+        "10": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_089_3x.png",
+          "sha256": "c565743a8df13516c8c654a0a69fbe2356a45cdb3d472be5bf12bbc09cf939f3"
+        }
+      ],
+      "visual_assets": [
+        {
+          "file": "자료/MEET_언어추론/시각자료_원본/2009/page_089_image_01_xref_295.jpeg",
+          "sha256": "86f3743dfd395e050beea34a9a448818aa8665f9cf11d06e32f8316a8384c4aa"
+        }
+      ],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        11,
+        12,
+        13
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q11-13.md",
+      "file_sha256": "92c42e9f5ab40ba178a97b7a73f4aba2f0fd3e993d9419f2929ae5e5c06abde3",
+      "answers": {
+        "11": "⑤",
+        "12": "③",
+        "13": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_090_3x.png",
+          "sha256": "acde432a5a98bf71f384ae9d5f0be88927f97eade7e3aad8e92bd8d22afbdffd"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        14,
+        15,
+        16
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q14-16.md",
+      "file_sha256": "a52b54f36ff1bce28d817973c3cd95214dd3eb87c628de214c410ab1ce052c26",
+      "answers": {
+        "14": "⑤",
+        "15": "①",
+        "16": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_091_3x.png",
+          "sha256": "26f688225315f4b7e92092326207f2fc802cb98f80eb4e00c22c76e095b50080"
+        },
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_092_3x.png",
+          "sha256": "c590809de877af00bca9399b3170b387652fc6a7f48be7d5ca6cdc4d910958bf"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        17,
+        18,
+        19
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q17-19.md",
+      "file_sha256": "cddeaeb958c04d1dbd559956a14cc415b4a98693e6948f22228713d20d2e2469",
+      "answers": {
+        "17": "②",
+        "18": "③",
+        "19": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_092_3x.png",
+          "sha256": "c590809de877af00bca9399b3170b387652fc6a7f48be7d5ca6cdc4d910958bf"
+        },
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_093_3x.png",
+          "sha256": "ac7a44aaf17ae35edc5481058269e3314c01b4ed75c1429c4c8d91db750f9c17"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        20,
+        21,
+        22
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q20-22.md",
+      "file_sha256": "5ee74ff2280210393a07f0e6e9a25f61b323be8c3ddff29fa062c4cb7818aca3",
+      "answers": {
+        "20": "⑤",
+        "21": "⑤",
+        "22": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_094_3x.png",
+          "sha256": "79cc0c036c14d4f9cccf156802ab28317715ffb601db06137b893253da78ea06"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        23,
+        24,
+        25
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q23-25.md",
+      "file_sha256": "d7255c883051ee744af14bcf4c557cd81ffd6572bc433ac37b68066ec3a39662",
+      "answers": {
+        "23": "③",
+        "24": "③",
+        "25": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_095_3x.png",
+          "sha256": "c92159a10234a217d059b7e0442f851710fcab50c1e41c7324786f52ec7eccfb"
+        },
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_096_3x.png",
+          "sha256": "675accb82e79d6c76befcb7303188db27ba23b38d1b2f17395d738aacaebb78b"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        26,
+        27,
+        28
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q26-28.md",
+      "file_sha256": "ca3595976d98619474352004c8054540843daa101733e26b4f9b056886868ea4",
+      "answers": {
+        "26": "②",
+        "27": "④",
+        "28": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_096_3x.png",
+          "sha256": "675accb82e79d6c76befcb7303188db27ba23b38d1b2f17395d738aacaebb78b"
+        },
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_097_3x.png",
+          "sha256": "16c9c75ce89fed781f74512596dcebe1e723edb1dfc92f15896b9527c26a9c1a"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q29-31.md",
+      "file_sha256": "1814cb40c6782a0b4ae0c5d5ab9e216c9a75cebcccb2491a833b9da5069d47a6",
+      "answers": {
+        "29": "④",
+        "30": "⑤",
+        "31": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_098_3x.png",
+          "sha256": "008f8f15f3eccc7f5de33ea6111fa37ce8e279e5e9d8fa4410338278e2d6e361"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q32-34.md",
+      "file_sha256": "c426934c1186ea38b93b8c08b5816fe8aef48a919b6fb08ad90004487d35ddfb",
+      "answers": {
+        "32": "③",
+        "33": "①",
+        "34": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_099_3x.png",
+          "sha256": "a6b0fc669a9f1fab23b4cb254e9a9482ff907b3fa53bc33204e2a17c2956a5b3"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q35-37.md",
+      "file_sha256": "ee6ff46604b3543991e06003a2654cdad0769606c3e88c58feb68acd00a1da9e",
+      "answers": {
+        "35": "④",
+        "36": "⑤",
+        "37": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_100_3x.png",
+          "sha256": "223b278506809970a451e196e138d8d10ba5eaba327083a2e8f1976571d043c1"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2009",
+      "year": 2009,
+      "variant": "odd",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2009/q38-40.md",
+      "file_sha256": "2fd2d4e7e4a10e85364bdbe15215de9bef9f49bee8713a5cfd6027184edf0f87",
+      "answers": {
+        "38": "②",
+        "39": "②",
+        "40": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2009/official_page_101_3x.png",
+          "sha256": "5012faa2284a2864109f6aba9e616f01e13a9b05fd85c7fb10acf909c7b1dca6"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q01-04.md",
+      "file_sha256": "531f9e9eebf359d88ccbf4819252296b6df3277d6753ec30c782c1258470a4e2",
+      "answers": {
+        "1": "④",
+        "2": "①",
+        "3": "④",
+        "4": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_103_3x.png",
+          "sha256": "7b731632c31b774a38c0e7707baffc1cb40bf03c9da3eca2be3d13fccf17b94c"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        5,
+        6,
+        7
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q05-07.md",
+      "file_sha256": "764970522e00dcb43c42fd53ea7be8fa7a89be88921afa3d93d0edc11a47f509",
+      "answers": {
+        "5": "③",
+        "6": "②",
+        "7": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_104_3x.png",
+          "sha256": "bd285aaec23af674db7e3541d4a49cd65d955707a7d8883a83979b6ec7d3311b"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        8,
+        9,
+        10
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q08-10.md",
+      "file_sha256": "73e4627340af22bd82df97d9006cc8a4eacf766398683bfdd4394f0b5e35dad1",
+      "answers": {
+        "8": "①",
+        "9": "③",
+        "10": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_105_3x.png",
+          "sha256": "7d34a5a2b80fb63541c07a0d8d8c71c60feddb0a2f93ffa0ff0d130f7a69d215"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        11,
+        12,
+        13
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q11-13.md",
+      "file_sha256": "ca8733c26d980ab802d1905dc2992ab85cae2c33e7b3b413317332d98642babd",
+      "answers": {
+        "11": "⑤",
+        "12": "②",
+        "13": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_106_3x.png",
+          "sha256": "59a7e4253e620bb3f2ff0bbed1616b06958bfee97836586d378baca7f9fb1123"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        14,
+        15,
+        16
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q14-16.md",
+      "file_sha256": "d2cf5c82b694a1f10d67138495248a859eb0ad08d38890e0bc36e56727a7d60d",
+      "answers": {
+        "14": "⑤",
+        "15": "④",
+        "16": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_107_3x.png",
+          "sha256": "b79eb3127f4a6d2fbc560177ef433b60ce971d48fc3e3df980ad022eac1281da"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        17,
+        18,
+        19
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q17-19.md",
+      "file_sha256": "31e0be794ab752d00d9a1e6c01826af8f8620f2738a3f6d3238e391a80b838d7",
+      "answers": {
+        "17": "③",
+        "18": "②",
+        "19": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_108_3x.png",
+          "sha256": "576ac50b35a2f98b2b4cb5d829dcaa2de6f4d2c8adef67cbc6c846d7509cfef8"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        20,
+        21,
+        22
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q20-22.md",
+      "file_sha256": "741db213d0bb9598290a30baf5ee3e9179e5ae19e6ef33167e57eb1d3145fc6a",
+      "answers": {
+        "20": "②",
+        "21": "④",
+        "22": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_109_3x.png",
+          "sha256": "bd9a32d4fadf1374ac036bcc1d56cf287a0c028f56f4ff39f91b022d87d35bef"
+        },
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_110_3x.png",
+          "sha256": "61b8cf4ef52289ede7c003a02811fb271776fd927914b583965ff4d1a80ce660"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        23,
+        24,
+        25
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q23-25.md",
+      "file_sha256": "73df9004cecae7b66eb48edde359fd900b277da34f3346c9f0392833a57d09a9",
+      "answers": {
+        "23": "⑤",
+        "24": "③",
+        "25": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_110_3x.png",
+          "sha256": "61b8cf4ef52289ede7c003a02811fb271776fd927914b583965ff4d1a80ce660"
+        },
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_111_3x.png",
+          "sha256": "eaea5deef3dbeca1b656f248688225272f3bde00fc3f5ccb710b349257b5c077"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        26,
+        27,
+        28
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q26-28.md",
+      "file_sha256": "5d2018e63ab8097fa7e1e0563209f233d40cf05b2d298aed0444e1ad0e50320a",
+      "answers": {
+        "26": "②",
+        "27": "①",
+        "28": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_111_3x.png",
+          "sha256": "eaea5deef3dbeca1b656f248688225272f3bde00fc3f5ccb710b349257b5c077"
+        },
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_112_3x.png",
+          "sha256": "78caeeadaca3c995b6462b5f85948f0c83b6c8fbb2d3d9b96c729ce90c5f134e"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q29-31.md",
+      "file_sha256": "59ffc32b1838cbc0111e464c902ebe55aa575972ce778b0a3061171623fd459d",
+      "answers": {
+        "29": "⑤",
+        "30": "⑤",
+        "31": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_112_3x.png",
+          "sha256": "78caeeadaca3c995b6462b5f85948f0c83b6c8fbb2d3d9b96c729ce90c5f134e"
+        },
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_113_3x.png",
+          "sha256": "541ae08ca62deeafcf0492c63be719fa648301ac8b361c95271c25fa37dc3b5a"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q32-34.md",
+      "file_sha256": "56aa8233667c9053b87166eb187b8b4f11d95d273311946b05e69663b1948357",
+      "answers": {
+        "32": "②",
+        "33": "③",
+        "34": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_114_3x.png",
+          "sha256": "0e4fd1906806b86d3d385fdb558859745ec07cfa217f92c04a472303587d245f"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q35-37.md",
+      "file_sha256": "f7cb350bb7fbce6cb46189e5f14f892af74f542811a1a562f1a9f1bb60e423e4",
+      "answers": {
+        "35": "⑤",
+        "36": "③",
+        "37": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_115_3x.png",
+          "sha256": "2c01f148838402454b124c573c32a509f40a33fc55deda1b0638e4e5137db36c"
+        },
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_116_3x.png",
+          "sha256": "ba8f8021ae40c11196b16fbc0e93fbd9acacafc14bd20177b09cff2df87ff079"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2010",
+      "year": 2010,
+      "variant": "odd",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2010/q38-40.md",
+      "file_sha256": "c1315d9936999408d027810166c968d509adc3adb18360ed3e351afd6fd44cd1",
+      "answers": {
+        "38": "⑤",
+        "39": "①",
+        "40": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2010/official_page_117_3x.png",
+          "sha256": "39f271302a2b4439e6387c821ed5bc6ee1221356270c28578532eed31414aece"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q01-04.md",
+      "file_sha256": "26dc5b55280d4f3fd7067470a540ba65bcb07a7d59643b476b4c4f89a6289ba0",
+      "answers": {
+        "1": "⑤",
+        "2": "④",
+        "3": "④",
+        "4": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_119_3x.png",
+          "sha256": "915aff32db90f6b645a9616644a5dfffccd06b15a42086f876a03153d856c5e5"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        5,
+        6,
+        7
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q05-07.md",
+      "file_sha256": "ab30aea50ae1b895add3c1bc9de73968455eec88399583595d6ea336e470a5de",
+      "answers": {
+        "5": "③",
+        "6": "④",
+        "7": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_119_3x.png",
+          "sha256": "915aff32db90f6b645a9616644a5dfffccd06b15a42086f876a03153d856c5e5"
+        },
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_120_3x.png",
+          "sha256": "b974699a8efc26f774e900f90408eb708d76032d85abaef5d52e898e6e5f0516"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        8,
+        9,
+        10
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q08-10.md",
+      "file_sha256": "bb0fdf55eba5257f6a00553bc437ef30239e5270dfa5858a5bf7829cc7f99205",
+      "answers": {
+        "8": "⑤",
+        "9": "①",
+        "10": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_120_3x.png",
+          "sha256": "b974699a8efc26f774e900f90408eb708d76032d85abaef5d52e898e6e5f0516"
+        },
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_121_3x.png",
+          "sha256": "07ca90f91cddff2273faa1f5f5f232929a6f504add2fa435296690524b41b660"
+        },
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_122_3x.png",
+          "sha256": "5628ed75b2eb7b1aa89482340b57deffe156b9b764951d4a046156fb846dc1d1"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        11,
+        12,
+        13
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q11-13.md",
+      "file_sha256": "b2ff09ec6bf9e446cba7bbbb52141f1d2c88c0f5bf2e26b6449aac87310ecb13",
+      "answers": {
+        "11": "①",
+        "12": "③",
+        "13": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_122_3x.png",
+          "sha256": "5628ed75b2eb7b1aa89482340b57deffe156b9b764951d4a046156fb846dc1d1"
+        },
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_123_3x.png",
+          "sha256": "d74c7d0e409e823467a78ed8f0d44584809f5823875158f11412583284be7ca2"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        14,
+        15,
+        16
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q14-16.md",
+      "file_sha256": "8aed5b696beee307f7b8575d1523fc3a8b0ec123a470fc6d1e71a589993a9406",
+      "answers": {
+        "14": "②",
+        "15": "⑤",
+        "16": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_124_3x.png",
+          "sha256": "474bc96cd27c849d67e0b6dd3969ad333ef7094c5e6c127d47c79547e1dc164d"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        17,
+        18,
+        19
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q17-19.md",
+      "file_sha256": "bd26376ba9d54505d322cebae20eaccdaa4ae8f88d662870eb161121e5166df2",
+      "answers": {
+        "17": "①",
+        "18": "②",
+        "19": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_125_3x.png",
+          "sha256": "7895d96f5ce0e9f7e6fab814a2253c2278b03725874453e9093360fd558bb365"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        20,
+        21,
+        22
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q20-22.md",
+      "file_sha256": "8bb35b406800be8dedfb3c0fe7494b6ae82ccfd90398462c22b8ca2391b3eefc",
+      "answers": {
+        "20": "②",
+        "21": "①",
+        "22": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_126_3x.png",
+          "sha256": "e8bf1672accafcc2588539594fd7425b5f843153a0691b7ad6627f4d29638246"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        23,
+        24,
+        25
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q23-25.md",
+      "file_sha256": "881501c1dabc0299b9db4fef91b85010a931e4bfdb8e2066d916bb12bb507aff",
+      "answers": {
+        "23": "①",
+        "24": "⑤",
+        "25": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_127_3x.png",
+          "sha256": "afaabda841fe97c00ef9f30743db09d32ae66790614950bee5961277b1815ac2"
+        },
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_128_3x.png",
+          "sha256": "eb47fc26da251474f7802b318a189dd68c2e42a071e594fc325b37a795406acb"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        26,
+        27,
+        28
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q26-28.md",
+      "file_sha256": "e56dcdb0928319750de722becc60084df434f96c459b47a3d089694670198087",
+      "answers": {
+        "26": "③",
+        "27": "⑤",
+        "28": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_129_3x.png",
+          "sha256": "d7734605cb77dd07697322fa5782d972bba504c7bd23d04016e4228a943147df"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q29-31.md",
+      "file_sha256": "8a734e10c688b99465701a706922c6da5031007e862f5ddf7eb085f49b3fa013",
+      "answers": {
+        "29": "③",
+        "30": "④",
+        "31": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_130_3x.png",
+          "sha256": "c78ec210720331ae8788c4c3eb23f2a0badc3170c71668fea6bfe873c3277d79"
+        },
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_131_3x.png",
+          "sha256": "1c7642a789657a4bcf061ae4391d1d0238bb36428302ed4cb76c57728ab8e9be"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q32-34.md",
+      "file_sha256": "419877e70073aace449fbfc464084bf27179882a777d8b9c5f62d191bf96a6e8",
+      "answers": {
+        "32": "③",
+        "33": "⑤",
+        "34": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_132_3x.png",
+          "sha256": "da1d5bab9ac4801a6b90d119e0e63ce72d136ce2863966d37db60786fd1349be"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q35-37.md",
+      "file_sha256": "b5bee290459cfe5a5980ac8b5b24828b34bbe760a18d9945070acd61e5e870d7",
+      "answers": {
+        "35": "④",
+        "36": "③",
+        "37": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_133_3x.png",
+          "sha256": "ffc69b59ccc31ff06b69f2b823e1a86e32278eea459d5d9591e4f6e04e479b4d"
+        },
+        {
+          "display_page": 17,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_134_3x.png",
+          "sha256": "38ea394925f23cdc2a4c686a55d145f5def412dbbfcc4ed91a094f023118a719"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2011",
+      "year": 2011,
+      "variant": "single",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2011/q38-40.md",
+      "file_sha256": "4af7a5260e14252c16c716565521981a80ae8694a83c8cdd42a9dcbc4258f2c8",
+      "answers": {
+        "38": "①",
+        "39": "③",
+        "40": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 17,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_134_3x.png",
+          "sha256": "38ea394925f23cdc2a4c686a55d145f5def412dbbfcc4ed91a094f023118a719"
+        },
+        {
+          "display_page": 18,
+          "file": "자료/MEET_언어추론/페이지/2011/official_page_135_3x.png",
+          "sha256": "d95a3a64e54cb89768a24970fbd0a3fcbf588326048bece9297224bbfe2ff633"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q01-04.md",
+      "file_sha256": "d4cc769d4426430b00511fbe2f8b90c73b9511a9ff0b8862d5a610ddba8fb44f",
+      "answers": {
+        "1": "②",
+        "2": "④",
+        "3": "④",
+        "4": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_137_3x.png",
+          "sha256": "5e6afeb04203731425f876629513ad9595a24052167799b5b469871f967fdd84"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        5,
+        6,
+        7
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q05-07.md",
+      "file_sha256": "627fd3fcef4173299c07aee820562bf519f8333a9f2acd82346f0fde14e940cd",
+      "answers": {
+        "5": "②",
+        "6": "②",
+        "7": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 3,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_138_3x.png",
+          "sha256": "9d993a88631fce2a160a2f2334e284e00a169c01de5c4301736621daae1f4446"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        8,
+        9,
+        10
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q08-10.md",
+      "file_sha256": "a437d8c0f47f6a854e8406933469c6fec47585b21c947c060b64736b0a141bab",
+      "answers": {
+        "8": "④",
+        "9": "③",
+        "10": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 4,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_139_3x.png",
+          "sha256": "10d4dc3a2d30dc3d2193d961c53c568d43b00dda18fcb0803828767485414ff4"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        11,
+        12,
+        13
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q11-13.md",
+      "file_sha256": "48ab955076f80e853961440f2174e214e9cdaa2fd7de30b9c6ffc7b60c7216cf",
+      "answers": {
+        "11": "①",
+        "12": "②",
+        "13": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 5,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_140_3x.png",
+          "sha256": "c12fca82105b754ce3a17c337811dde2759bdb7cb9b62fcd43ba75f2892dae11"
+        },
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_141_3x.png",
+          "sha256": "4cf9619d68663eeb2113b2d6675084c41f75855e0e796bcb96d08f35f0983d8e"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        14,
+        15,
+        16
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q14-16.md",
+      "file_sha256": "a4fabc34fd5935d2ab541b8beca34df2e15ad558f8a357bc55cfd71e7d811d44",
+      "answers": {
+        "14": "④",
+        "15": "②",
+        "16": "⑤"
+      },
+      "official_pages": [
+        {
+          "display_page": 6,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_141_3x.png",
+          "sha256": "4cf9619d68663eeb2113b2d6675084c41f75855e0e796bcb96d08f35f0983d8e"
+        },
+        {
+          "display_page": 7,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_142_3x.png",
+          "sha256": "0042add9c58a9dbc794e9d6de9ffb0b93fd9d4be14c19cb18b9aa3aa66b7fdbf"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        17,
+        18,
+        19
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q17-19.md",
+      "file_sha256": "e982c6e149988ece272ff2df28b67bb1d75e5372b3eddba1dd5263ae9c434434",
+      "answers": {
+        "17": "③",
+        "18": "④",
+        "19": "②"
+      },
+      "official_pages": [
+        {
+          "display_page": 8,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_143_3x.png",
+          "sha256": "880484c63ce6579e4e31facb0efd1b9ab426ce004ac3fdbf37594ed90989c640"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        20,
+        21,
+        22
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q20-22.md",
+      "file_sha256": "85556d57d9be4ec1754dfb7a5b7b7635ff852bd9d92b401846d4cdfad08968ea",
+      "answers": {
+        "20": "⑤",
+        "21": "①",
+        "22": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_144_3x.png",
+          "sha256": "15ec840db57bc12dcaaad0e175eba8a6658a1958642fb555991cbda4287d47f8"
+        },
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_145_3x.png",
+          "sha256": "a022676aa45ced6ce2383c97040b4e3c1a780f3e18ef798722ae5aaeb4ba4695"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        23,
+        24,
+        25
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q23-25.md",
+      "file_sha256": "cc69ead655b7e67f62427c5286b51ee16584060e5ba7879b6547e0ee6c4df1f3",
+      "answers": {
+        "23": "④",
+        "24": "⑤",
+        "25": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_145_3x.png",
+          "sha256": "a022676aa45ced6ce2383c97040b4e3c1a780f3e18ef798722ae5aaeb4ba4695"
+        },
+        {
+          "display_page": 11,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_146_3x.png",
+          "sha256": "7d81490bbfe9739fe6712fcc14464d490127164214e0e84974fbdb3671232815"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        26,
+        27,
+        28
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q26-28.md",
+      "file_sha256": "645745bac24c295625fc1c60f01b3c33a8fb61a4876518e848ae77fa6c8044e8",
+      "answers": {
+        "26": "⑤",
+        "27": "①",
+        "28": "①"
+      },
+      "official_pages": [
+        {
+          "display_page": 12,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_147_3x.png",
+          "sha256": "36578c574f22a2dcf80ca9e918b38b61d49d63713a94a5b775c37e7eb1b6fdef"
+        },
+        {
+          "display_page": 13,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_148_3x.png",
+          "sha256": "3247eff56de60225721a590899c09bc3f5401ba0e8c952c6fff466c327dc018f"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        29,
+        30,
+        31
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q29-31.md",
+      "file_sha256": "9c0cb34b5e38216b4720de2184bc6a1f465e59c2fbfee04fdc4eb45604d83265",
+      "answers": {
+        "29": "③",
+        "30": "⑤",
+        "31": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 14,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_149_3x.png",
+          "sha256": "2b4db5d69c6b41ba2cacb5575661ee648ddeee8c71cd43a70507154841a7e42b"
+        },
+        {
+          "display_page": 15,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_150_3x.png",
+          "sha256": "7d9dd66cc00d41515fc71b34a1df4d1ac2a5681479380f11ab31b4a089a94254"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        32,
+        33,
+        34
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q32-34.md",
+      "file_sha256": "7e1d3eff4f2656a260cf4ef83c3b7c196ad9b8ef2548fe035f54944a8346fd1d",
+      "answers": {
+        "32": "④",
+        "33": "⑤",
+        "34": "④"
+      },
+      "official_pages": [
+        {
+          "display_page": 16,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_151_3x.png",
+          "sha256": "0f8407279734b9873fb08a46227854e5f59c39557205e8444cad77bf0b6b6898"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        35,
+        36,
+        37
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q35-37.md",
+      "file_sha256": "7ce18ec580ef4cba88a25ec088a1f243e7e5c11a1f1b0ba8b73276546edecb8b",
+      "answers": {
+        "35": "②",
+        "36": "②",
+        "37": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 17,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_152_3x.png",
+          "sha256": "766d3ebe463034001341f72cdef6c1b0d677514930f5298e0ba47074cf0ca5bf"
+        },
+        {
+          "display_page": 18,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_153_3x.png",
+          "sha256": "6d5044e668901bf754514cc1a209ad8148ed33e3454f7c48f9be4f4aceed0b64"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    },
+    {
+      "label": "2012",
+      "year": 2012,
+      "variant": "single",
+      "questions": [
+        38,
+        39,
+        40
+      ],
+      "file": "자료/MEET_언어추론/전사_검수완료/2012/q38-40.md",
+      "file_sha256": "08ac2df205c22a2bf72df492a9677bd7607cb3e306c57c4c8ea74334e2e0f14f",
+      "answers": {
+        "38": "④",
+        "39": "①",
+        "40": "③"
+      },
+      "official_pages": [
+        {
+          "display_page": 18,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_153_3x.png",
+          "sha256": "6d5044e668901bf754514cc1a209ad8148ed33e3454f7c48f9be4f4aceed0b64"
+        },
+        {
+          "display_page": 19,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_154_3x.png",
+          "sha256": "c52ab95fbc903086e3decf14f8720f18069d7f853007ba2a70c04a50035a909a"
+        }
+      ],
+      "visual_assets": [],
+      "status": "official_page_visual_transcription_verified"
+    }
+  ]
+}

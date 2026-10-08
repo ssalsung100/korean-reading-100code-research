@@ -1,0 +1,6 @@
+{
+  "release_gate": "M~O의 _02 저장 SHA 확인 후 공개",
+  "M": {"official_connection":"KICE-2013-수능-Q21-24-S079~082-Q23","site_status":"site_unlinked_supplement","search_alias_range":["반증사례","강화/약화","전제부정"],"note":"정확 후보 행 미확인은 SDSS 전체 미태그를 뜻하지 않는다."},
+  "N": {"official_connection":"KICE-2023-9월_모평-Q04-09-S011~016-Q07","candidate_id":"CAND-ba11c8339e7504cc","site_original_tags":["전제부정"],"urls":["https://sdss.kr/code/search.asp?CodeName=%EC%A0%84%EC%A0%9C%EB%B6%80%EC%A0%95"],"raw_row_path":"data/기본기_연구/code_study_candidates_v2.jsonl"},
+  "O": {"official_connection":"KICE-2026-수능-Q14-17-S096~099-Q15","candidate_id":"CAND-565310b484c246d3","site_original_tags":["개념분석","관계부정","논의영역"],"urls":["https://sdss.kr/code/search.asp?CodeName=%EA%B0%9C%EB%85%90%EB%B6%84%EC%84%9D","https://sdss.kr/code/search.asp?CodeName=%EA%B4%80%EA%B3%84%EB%B6%80%EC%A0%95","https://sdss.kr/code/search.asp?CodeName=%EB%85%BC%EC%9D%98%EC%98%81%EC%97%AD"],"raw_row_path":"data/기본기_연구/code_study_candidates_v2.jsonl","scope_note":"[A] 범위 미검증 조건부 관찰"}
+}

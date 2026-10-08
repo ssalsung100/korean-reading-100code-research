@@ -1,0 +1,2319 @@
+{
+  "source_passages": "고3 기출/hwpx_텍스트_연도별.md",
+  "source_answers": "자료/평가원_정답표/normalized_answer_keys.json",
+  "section_count": 163,
+  "linked_sections": 163,
+  "unlinked_sections": 0,
+  "links": [
+    {
+      "section_id": "001~005",
+      "heading": "2010학년도 9월 모평 13번~17번",
+      "academic_year": 2010,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 13,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-002"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "009~011",
+      "heading": "2010학년도 6월 모평 20번~22번",
+      "academic_year": 2010,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 20,
+      "question_end": 22,
+      "answer_table_ids": [
+        "KICE-001"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "012~013",
+      "heading": "2010학년도 6월 모평 36번~37번",
+      "academic_year": 2010,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 36,
+      "question_end": 37,
+      "answer_table_ids": [
+        "KICE-001"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "014~017",
+      "heading": "2010학년도 6월 모평 47번~50번",
+      "academic_year": 2010,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 47,
+      "question_end": 50,
+      "answer_table_ids": [
+        "KICE-001"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "006~008",
+      "heading": "2011학년도 수능 44번~46번",
+      "academic_year": 2011,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 44,
+      "question_end": 46,
+      "answer_table_ids": [
+        "KICE-057"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "010~014",
+      "heading": "2011학년도 수능 32번~36번",
+      "academic_year": 2011,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 32,
+      "question_end": 36,
+      "answer_table_ids": [
+        "KICE-057"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "015~017",
+      "heading": "2011학년도 9월 모평 48번~50번",
+      "academic_year": 2011,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 48,
+      "question_end": 50,
+      "answer_table_ids": [
+        "KICE-059"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "055~058",
+      "heading": "2012학년도 수능 17번~20번",
+      "academic_year": 2012,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 17,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-003"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "153~154",
+      "heading": "2012학년도 수능 29번~30번",
+      "academic_year": 2012,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 29,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-003"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "155~157",
+      "heading": "2012학년도 9월 모평 35번~37번",
+      "academic_year": 2012,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 35,
+      "question_end": 37,
+      "answer_table_ids": [
+        "KICE-061"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "009~012",
+      "heading": "2012학년도 수능 21번~24번",
+      "academic_year": 2012,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 21,
+      "question_end": 24,
+      "answer_table_ids": [
+        "KICE-003"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "035~038",
+      "heading": "2012학년도 수능 47번~50번",
+      "academic_year": 2012,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 47,
+      "question_end": 50,
+      "answer_table_ids": [
+        "KICE-003"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "041~044",
+      "heading": "2012학년도 수능 43번~46번",
+      "academic_year": 2012,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 43,
+      "question_end": 46,
+      "answer_table_ids": [
+        "KICE-003"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "079~082",
+      "heading": "2013학년도 수능 21번~24번",
+      "academic_year": 2013,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 21,
+      "question_end": 24,
+      "answer_table_ids": [
+        "KICE-004"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "149~152",
+      "heading": "2013학년도 6월 모평 47번~50번",
+      "academic_year": 2013,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 47,
+      "question_end": 50,
+      "answer_table_ids": [
+        "KICE-005"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "032~034",
+      "heading": "2013학년도 9월 모평 44번~46번",
+      "academic_year": 2013,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 44,
+      "question_end": 46,
+      "answer_table_ids": [
+        "KICE-006"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "059~061",
+      "heading": "2013학년도 수능 29번~31번",
+      "academic_year": 2013,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 29,
+      "question_end": 31,
+      "answer_table_ids": [
+        "KICE-004"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "097~099",
+      "heading": "2013학년도 6월 모평 23번~25번",
+      "academic_year": 2013,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 23,
+      "question_end": 25,
+      "answer_table_ids": [
+        "KICE-005"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "044~046",
+      "heading": "2013학년도 6월 모평 44번~46번",
+      "academic_year": 2013,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 44,
+      "question_end": 46,
+      "answer_table_ids": [
+        "KICE-005"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "088~090",
+      "heading": "2013학년도 9월 모평 17번~19번",
+      "academic_year": 2013,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 17,
+      "question_end": 19,
+      "answer_table_ids": [
+        "KICE-006"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "011~014",
+      "heading": "2013학년도 수능 25번~28번",
+      "academic_year": 2013,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 25,
+      "question_end": 28,
+      "answer_table_ids": [
+        "KICE-004"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "015~018",
+      "heading": "2013학년도 9월 모평 40번~43번",
+      "academic_year": 2013,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 40,
+      "question_end": 43,
+      "answer_table_ids": [
+        "KICE-006"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "051~054",
+      "heading": "2014학년도 9월 모평B 17번~20번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 17,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-011",
+        "KICE-012"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "120~122",
+      "heading": "2014학년도 수능B 19번~21번",
+      "academic_year": 2014,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 19,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-007",
+        "KICE-008"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "170~173",
+      "heading": "2014학년도 6월 모평B 17번~20번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 17,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-009",
+        "KICE-010"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "073~074",
+      "heading": "2014학년도 6월 모평A 28번~29번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 28,
+      "question_end": 29,
+      "answer_table_ids": [
+        "KICE-009",
+        "KICE-010"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "007~008",
+      "heading": "2014학년도 6월 모평B 28번~29번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 28,
+      "question_end": 29,
+      "answer_table_ids": [
+        "KICE-009",
+        "KICE-010"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "019~020",
+      "heading": "2014학년도 수능B 26번~27번",
+      "academic_year": 2014,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 26,
+      "question_end": 27,
+      "answer_table_ids": [
+        "KICE-007",
+        "KICE-008"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "030~031",
+      "heading": "2014학년도 9월 모평B 28번~29번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 28,
+      "question_end": 29,
+      "answer_table_ids": [
+        "KICE-011",
+        "KICE-012"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "094~096",
+      "heading": "2014학년도 9월 모평A 16번~18번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 16,
+      "question_end": 18,
+      "answer_table_ids": [
+        "KICE-011",
+        "KICE-012"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "030~032",
+      "heading": "2014학년도 수능A 28번~30번",
+      "academic_year": 2014,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 28,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-007",
+        "KICE-008"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "033~035",
+      "heading": "2014학년도 6월 모평A 19번~21번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 19,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-009",
+        "KICE-010"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "055~057",
+      "heading": "2014학년도 9월 모평A 19번~21번",
+      "academic_year": 2014,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 19,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-011",
+        "KICE-012"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "035~037",
+      "heading": "2014학년도 수능A 19번~21번",
+      "academic_year": 2014,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 19,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-007",
+        "KICE-008"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "038~040",
+      "heading": "2014학년도 수능B 28번~30번",
+      "academic_year": 2014,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 28,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-007",
+        "KICE-008"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "047~050",
+      "heading": "2015학년도 수능B 17번~20번",
+      "academic_year": 2015,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 17,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-014",
+        "KICE-015"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "092~095",
+      "heading": "2015학년도 6월 모평B 21번~24번",
+      "academic_year": 2015,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 21,
+      "question_end": 24,
+      "answer_table_ids": [
+        "KICE-016",
+        "KICE-017"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "145~148",
+      "heading": "2015학년도 수능B 21번~24번",
+      "academic_year": 2015,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 21,
+      "question_end": 24,
+      "answer_table_ids": [
+        "KICE-014",
+        "KICE-015"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "015~016",
+      "heading": "2015학년도 수능B 25번~26번",
+      "academic_year": 2015,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 25,
+      "question_end": 26,
+      "answer_table_ids": [
+        "KICE-014",
+        "KICE-015"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "017~018",
+      "heading": "2015학년도 6월 모평B 25번~26번",
+      "academic_year": 2015,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 25,
+      "question_end": 26,
+      "answer_table_ids": [
+        "KICE-016",
+        "KICE-017"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "092~093",
+      "heading": "2015학년도 6월 모평A 26번~27번",
+      "academic_year": 2015,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 26,
+      "question_end": 27,
+      "answer_table_ids": [
+        "KICE-016",
+        "KICE-017"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "027~029",
+      "heading": "2015학년도 수능A 20번~22번",
+      "academic_year": 2015,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 20,
+      "question_end": 22,
+      "answer_table_ids": [
+        "KICE-014",
+        "KICE-015"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "031~034",
+      "heading": "2015학년도 수능AB 27번~30번",
+      "academic_year": 2015,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 27,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-014",
+        "KICE-015"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "001~005",
+      "heading": "2015학년도 9월 모평B 17번~21번",
+      "academic_year": 2015,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 17,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-018",
+        "KICE-019"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "043~046",
+      "heading": "2016학년도 6월 모평B 17번~20번",
+      "academic_year": 2016,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 17,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-021",
+        "KICE-022"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "075~078",
+      "heading": "2016학년도 9월 모평B 17번~20번",
+      "academic_year": 2016,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 17,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-023",
+        "KICE-024"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "116~119",
+      "heading": "2016학년도 수능B 17번~20번",
+      "academic_year": 2016,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 17,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-020"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "165~169",
+      "heading": "2016학년도 6월 모평A 22번~26번",
+      "academic_year": 2016,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 22,
+      "question_end": 26,
+      "answer_table_ids": [
+        "KICE-021",
+        "KICE-022"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "069~072",
+      "heading": "2016학년도 수능AB 27번~30번",
+      "academic_year": 2016,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 27,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-020"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "005~006",
+      "heading": "2016학년도 9월 모평B 25번~26번",
+      "academic_year": 2016,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 25,
+      "question_end": 26,
+      "answer_table_ids": [
+        "KICE-023",
+        "KICE-024"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "013~014",
+      "heading": "2016학년도 6월 모평B 25번~26번",
+      "academic_year": 2016,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 25,
+      "question_end": 26,
+      "answer_table_ids": [
+        "KICE-021",
+        "KICE-022"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "025~027",
+      "heading": "2016학년도 수능A 16번~18번",
+      "academic_year": 2016,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 16,
+      "question_end": 18,
+      "answer_table_ids": [
+        "KICE-020"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "028~029",
+      "heading": "2016학년도 수능B 29번~30번",
+      "academic_year": 2016,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 29,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-020"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "085~087",
+      "heading": "2016학년도 수능A 19번~21번",
+      "academic_year": 2016,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 19,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-020"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "006~009",
+      "heading": "2016학년도 6월 모평AB 27번~30번",
+      "academic_year": 2016,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 27,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-021",
+        "KICE-022"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "065~069",
+      "heading": "2017학년도 수능 16번~20번",
+      "academic_year": 2017,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 16,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-025"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "070~074",
+      "heading": "2017학년도 6월 모평 20번~24번",
+      "academic_year": 2017,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 20,
+      "question_end": 24,
+      "answer_table_ids": [
+        "KICE-026"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "058~063",
+      "heading": "2017학년도 수능 37번~42번",
+      "academic_year": 2017,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 37,
+      "question_end": 42,
+      "answer_table_ids": [
+        "KICE-025"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "064~068",
+      "heading": "2017학년도 9월 모평 35번~39번",
+      "academic_year": 2017,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 35,
+      "question_end": 39,
+      "answer_table_ids": [
+        "KICE-027"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "055~058",
+      "heading": "2017학년도 9월 모평 31번~34번",
+      "academic_year": 2017,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 31,
+      "question_end": 34,
+      "answer_table_ids": [
+        "KICE-027"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "088~091",
+      "heading": "2017학년도 수능 33번~36번",
+      "academic_year": 2017,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 33,
+      "question_end": 36,
+      "answer_table_ids": [
+        "KICE-025"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "040~043",
+      "heading": "2017학년도 6월 모평 16번~19번",
+      "academic_year": 2017,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 16,
+      "question_end": 19,
+      "answer_table_ids": [
+        "KICE-026"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "079~084",
+      "heading": "2017학년도 9월 모평 25번~30번",
+      "academic_year": 2017,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 25,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-027"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "031~036",
+      "heading": "2017학년도 6월 모평 28번~33번",
+      "academic_year": 2017,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 28,
+      "question_end": 33,
+      "answer_table_ids": [
+        "KICE-026"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "033~036",
+      "heading": "2018학년도 수능 16번~19번",
+      "academic_year": 2018,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 16,
+      "question_end": 19,
+      "answer_table_ids": [
+        "KICE-028"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "037~042",
+      "heading": "2018학년도 6월 모평 16번~21번",
+      "academic_year": 2018,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 16,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-029"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "030~035",
+      "heading": "2018학년도 수능 27번~32번",
+      "academic_year": 2018,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 27,
+      "question_end": 32,
+      "answer_table_ids": [
+        "KICE-028"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "036~039",
+      "heading": "2018학년도 6월 모평 22번~25번",
+      "academic_year": 2018,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 22,
+      "question_end": 25,
+      "answer_table_ids": [
+        "KICE-029"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "140~144",
+      "heading": "2018학년도 9월 모평 38번~42번",
+      "academic_year": 2018,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 38,
+      "question_end": 42,
+      "answer_table_ids": [
+        "KICE-030"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "017~021",
+      "heading": "2018학년도 수능 38번~42번",
+      "academic_year": 2018,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 38,
+      "question_end": 42,
+      "answer_table_ids": [
+        "KICE-028"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "022~026",
+      "heading": "2018학년도 6월 모평 30번~34번",
+      "academic_year": 2018,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 30,
+      "question_end": 34,
+      "answer_table_ids": [
+        "KICE-029"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "007~010",
+      "heading": "2018학년도 9월 모평 16번~19번",
+      "academic_year": 2018,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 16,
+      "question_end": 19,
+      "answer_table_ids": [
+        "KICE-030"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "025~030",
+      "heading": "2018학년도 9월 모평 27번~32번",
+      "academic_year": 2018,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 27,
+      "question_end": 32,
+      "answer_table_ids": [
+        "KICE-030"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "088~091",
+      "heading": "2019학년도 수능 39번~42번",
+      "academic_year": 2019,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 39,
+      "question_end": 42,
+      "answer_table_ids": [
+        "KICE-031"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "159~164",
+      "heading": "2019학년도 6월 모평 16번~21번",
+      "academic_year": 2019,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 16,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-032"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "015~019",
+      "heading": "2019학년도 9월 모평 21번~25번",
+      "academic_year": 2019,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 21,
+      "question_end": 25,
+      "answer_table_ids": [
+        "KICE-033"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "053~057",
+      "heading": "2019학년도 6월 모평 22번~26번",
+      "academic_year": 2019,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 22,
+      "question_end": 26,
+      "answer_table_ids": [
+        "KICE-032"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "105~109",
+      "heading": "2019학년도 수능 16번~20번",
+      "academic_year": 2019,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 16,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-031"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "084~087",
+      "heading": "2019학년도 6월 모평 35번~38번",
+      "academic_year": 2019,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 35,
+      "question_end": 38,
+      "answer_table_ids": [
+        "KICE-032"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "051~054",
+      "heading": "2019학년도 9월 모평 29번~32번",
+      "academic_year": 2019,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 29,
+      "question_end": 32,
+      "answer_table_ids": [
+        "KICE-033"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "013~018",
+      "heading": "2019학년도 수능 27번~32번",
+      "academic_year": 2019,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 27,
+      "question_end": 32,
+      "answer_table_ids": [
+        "KICE-031"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "019~024",
+      "heading": "2019학년도 9월 모평 33번~38번",
+      "academic_year": 2019,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 33,
+      "question_end": 38,
+      "answer_table_ids": [
+        "KICE-033"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "029~032",
+      "heading": "2020학년도 6월 모평 19번~22번",
+      "academic_year": 2020,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 19,
+      "question_end": 22,
+      "answer_table_ids": [
+        "KICE-035"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "083~087",
+      "heading": "2020학년도 수능 16번~20번",
+      "academic_year": 2020,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 16,
+      "question_end": 20,
+      "answer_table_ids": [
+        "KICE-034"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "009~014",
+      "heading": "2020학년도 수능 37번~42번",
+      "academic_year": 2020,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 37,
+      "question_end": 42,
+      "answer_table_ids": [
+        "KICE-034"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "025~029",
+      "heading": "2020학년도 6월 모평 27번~31번",
+      "academic_year": 2020,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 27,
+      "question_end": 31,
+      "answer_table_ids": [
+        "KICE-035"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "100~104",
+      "heading": "2020학년도 9월 모평 27번~31번",
+      "academic_year": 2020,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 27,
+      "question_end": 31,
+      "answer_table_ids": [
+        "KICE-036"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "001~004",
+      "heading": "2020학년도 수능 26번~29번",
+      "academic_year": 2020,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 26,
+      "question_end": 29,
+      "answer_table_ids": [
+        "KICE-034"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "078~083",
+      "heading": "2020학년도 6월 모평 37번~42번",
+      "academic_year": 2020,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 37,
+      "question_end": 42,
+      "answer_table_ids": [
+        "KICE-035"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "075~078",
+      "heading": "2020학년도 9월 모평 38번~41번",
+      "academic_year": 2020,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 38,
+      "question_end": 41,
+      "answer_table_ids": [
+        "KICE-036"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "007~012",
+      "heading": "2020학년도 9월 모평 21번~26번",
+      "academic_year": 2020,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 21,
+      "question_end": 26,
+      "answer_table_ids": [
+        "KICE-036"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "147~152",
+      "heading": "2021학년도 수능 16번~21번",
+      "academic_year": 2021,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 16,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-037"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "153~158",
+      "heading": "2021학년도 6월 모평 16번~21번",
+      "academic_year": 2021,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 16,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-038"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "020~024",
+      "heading": "2021학년도 6월 모평 29번~33번",
+      "academic_year": 2021,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 29,
+      "question_end": 33,
+      "answer_table_ids": [
+        "KICE-038"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "048~052",
+      "heading": "2021학년도 9월 모평 26번~30번",
+      "academic_year": 2021,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 26,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-039"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "095~099",
+      "heading": "2021학년도 수능 26번~30번",
+      "academic_year": 2021,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 26,
+      "question_end": 30,
+      "answer_table_ids": [
+        "KICE-037"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "074~077",
+      "heading": "2021학년도 9월 모평 34번~37번",
+      "academic_year": 2021,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 34,
+      "question_end": 37,
+      "answer_table_ids": [
+        "KICE-039"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "013~016",
+      "heading": "2021학년도 수능 34번~37번",
+      "academic_year": 2021,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 34,
+      "question_end": 37,
+      "answer_table_ids": [
+        "KICE-037"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "071~074",
+      "heading": "2021학년도 6월 모평 25번~28번",
+      "academic_year": 2021,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 25,
+      "question_end": 28,
+      "answer_table_ids": [
+        "KICE-038"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "025~030",
+      "heading": "2021학년도 9월 모평 20번~25번",
+      "academic_year": 2021,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 20,
+      "question_end": 25,
+      "answer_table_ids": [
+        "KICE-039"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "023~028",
+      "heading": "2022학년도 수능 4번~9번",
+      "academic_year": 2022,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-040"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "106~109",
+      "heading": "2022학년도 9월 모평 10번~13번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-042"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "110~115",
+      "heading": "2022학년도 예시문항 5번~10번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "예시",
+      "variants": [],
+      "question_start": 5,
+      "question_end": 10,
+      "answer_table_ids": [
+        "KICE-043"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "141~146",
+      "heading": "2022학년도 6월 모평 4번~9번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-041"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "210~212",
+      "heading": "2022학년도 수능 1번~3번",
+      "academic_year": 2022,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-040"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "213~215",
+      "heading": "2022학년도 9월 모평 1번~3번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-042"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "216~218",
+      "heading": "2022학년도 6월 모평 1번~3번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-041"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "005~008",
+      "heading": "2022학년도 수능 10번~13번",
+      "academic_year": 2022,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-040"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "130~135",
+      "heading": "2022학년도 9월 모평 4번~9번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-042"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "136~139",
+      "heading": "2022학년도 6월 모평 10번~13번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-041"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "070~073",
+      "heading": "2022학년도 6월 모평 14번~17번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-041"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "058~061",
+      "heading": "2022학년도 수능 14번~17번",
+      "academic_year": 2022,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-040"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "062~065",
+      "heading": "2022학년도 9월 모평 14번~17번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-042"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "066~070",
+      "heading": "2022학년도 예시문항 30번~34번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "예시",
+      "variants": [],
+      "question_start": 30,
+      "question_end": 34,
+      "answer_table_ids": [
+        "KICE-043"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "001~006",
+      "heading": "2022학년도 예시문항 16번~21번",
+      "academic_year": 2022,
+      "exam_type": "수능 모의평가",
+      "month": "예시",
+      "variants": [],
+      "question_start": 16,
+      "question_end": 21,
+      "answer_table_ids": [
+        "KICE-043"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "011~016",
+      "heading": "2023학년도 9월 모평 4번~9번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-046"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "017~022",
+      "heading": "2023학년도 6월 모평 4번~9번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-045"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "135~140",
+      "heading": "2023학년도 수능 4번~9번",
+      "academic_year": 2023,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-044"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "201~203",
+      "heading": "2023학년도 수능 1번~3번",
+      "academic_year": 2023,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-044"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "204~206",
+      "heading": "2023학년도 9월 모평 1번~3번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-046"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "207~209",
+      "heading": "2023학년도 6월 모평 1번~3번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-045"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "001~004",
+      "heading": "2023학년도 6월 모평 14번~17번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-045"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "044~047",
+      "heading": "2023학년도 수능 10번~13번",
+      "academic_year": 2023,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-044"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "091~094",
+      "heading": "2023학년도 9월 모평 10번~13번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-046"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "051~054",
+      "heading": "2023학년도 6월 모평 10번~13번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-045"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "066~069",
+      "heading": "2023학년도 수능 14번~17번",
+      "academic_year": 2023,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-044"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "036~039",
+      "heading": "2023학년도 9월 모평 14번~17번",
+      "academic_year": 2023,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-046"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "005~010",
+      "heading": "2024학년도 수능 12번~17번",
+      "academic_year": 2024,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 12,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-047"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "100~105",
+      "heading": "2024학년도 6월 모평 12번~17번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 12,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-048"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "129~134",
+      "heading": "2024학년도 9월 모평 12번~17번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 12,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-049"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "192~194",
+      "heading": "2024학년도 수능 1번~3번",
+      "academic_year": 2024,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-047"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "195~197",
+      "heading": "2024학년도 9월 모평 1번~3번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-049"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "198~200",
+      "heading": "2024학년도 6월 모평 1번~3번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-048"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "040~043",
+      "heading": "2024학년도 9월 모평 4번~7번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 7,
+      "answer_table_ids": [
+        "KICE-049"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "122~125",
+      "heading": "2024학년도 수능 4번~7번",
+      "academic_year": 2024,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 4,
+      "question_end": 7,
+      "answer_table_ids": [
+        "KICE-047"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "126~129",
+      "heading": "2024학년도 6월 모평 4번~7번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 7,
+      "answer_table_ids": [
+        "KICE-048"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "047~050",
+      "heading": "2024학년도 6월 모평 8번~11번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 8,
+      "question_end": 11,
+      "answer_table_ids": [
+        "KICE-048"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "062~065",
+      "heading": "2024학년도 수능 8번~11번",
+      "academic_year": 2024,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 8,
+      "question_end": 11,
+      "answer_table_ids": [
+        "KICE-047"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "047~050",
+      "heading": "2024학년도 9월 모평 8번~11번",
+      "academic_year": 2024,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 8,
+      "question_end": 11,
+      "answer_table_ids": [
+        "KICE-049"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "059~064",
+      "heading": "2025학년도 6월 모평 12번~17번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 12,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-050"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "123~128",
+      "heading": "2025학년도 수능 4번~9번",
+      "academic_year": 2025,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-062"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "180~182",
+      "heading": "2025학년도 6월 모평 1번~3번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-050"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "183~185",
+      "heading": "2025학년도 수능 1번~3번",
+      "academic_year": 2025,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-062"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "186~188",
+      "heading": "2025학년도 9월 모평 1번~3번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-051"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "189~191",
+      "heading": "2025학년도 6월 모평 1번~3번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-050"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "087~090",
+      "heading": "2025학년도 9월 모평 4번~7번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 7,
+      "answer_table_ids": [
+        "KICE-051"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "114~117",
+      "heading": "2025학년도 수능 14번~17번",
+      "academic_year": 2025,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-062"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "118~121",
+      "heading": "2025학년도 6월 모평 4번~7번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 7,
+      "answer_table_ids": [
+        "KICE-050"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "043~046",
+      "heading": "2025학년도 6월 모평 8번~11번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 8,
+      "question_end": 11,
+      "answer_table_ids": [
+        "KICE-050"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "005~008",
+      "heading": "2025학년도 수능 10번~13번",
+      "academic_year": 2025,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-062"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "009~012",
+      "heading": "2025학년도 9월 모평 8번~11번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 8,
+      "question_end": 11,
+      "answer_table_ids": [
+        "KICE-051"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "001~006",
+      "heading": "2025학년도 9월 모평 12번~17번",
+      "academic_year": 2025,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 12,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-051"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "001~004",
+      "heading": "2026학년도 6월 모평 14번~17번",
+      "academic_year": 2026,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-053"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "096~099",
+      "heading": "2026학년도 수능 14번~17번",
+      "academic_year": 2026,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-052"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "174~176",
+      "heading": "2026학년도 수능 1번~3번",
+      "academic_year": 2026,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-052"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "177~179",
+      "heading": "2026학년도 9월 모평 1번~3번",
+      "academic_year": 2026,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 1,
+      "question_end": 3,
+      "answer_table_ids": [
+        "KICE-054"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "075~080",
+      "heading": "2026학년도 수능 4번~9번",
+      "academic_year": 2026,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-052"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "081~086",
+      "heading": "2026학년도 6월 모평 4번~9번",
+      "academic_year": 2026,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-053"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "110~113",
+      "heading": "2026학년도 9월 모평 10번~13번",
+      "academic_year": 2026,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-054"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "021~024",
+      "heading": "2026학년도 수능 10번~13번",
+      "academic_year": 2026,
+      "exam_type": "수능",
+      "month": null,
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-052"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "039~042",
+      "heading": "2026학년도 6월 모평 10번~13번",
+      "academic_year": 2026,
+      "exam_type": "수능 모의평가",
+      "month": "6월",
+      "variants": [],
+      "question_start": 10,
+      "question_end": 13,
+      "answer_table_ids": [
+        "KICE-053"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "001~004",
+      "heading": "2026학년도 9월 모평 14번~17번",
+      "academic_year": 2026,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 14,
+      "question_end": 17,
+      "answer_table_ids": [
+        "KICE-054"
+      ],
+      "link_status": "linked"
+    },
+    {
+      "section_id": "019~024",
+      "heading": "2026학년도 9월 모평 4번~9번",
+      "academic_year": 2026,
+      "exam_type": "수능 모의평가",
+      "month": "9월",
+      "variants": [],
+      "question_start": 4,
+      "question_end": 9,
+      "answer_table_ids": [
+        "KICE-054"
+      ],
+      "link_status": "linked"
+    }
+  ]
+}

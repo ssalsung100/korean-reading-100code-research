@@ -1,0 +1,33 @@
+{
+  "case_id": "ID",
+  "passage_group": "G052",
+  "artifacts": {
+    "patterns": {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ID_patterns.png",
+      "sha256": "5be5a4f668f88c4c67fd0cb0e16b36096987a0e98ceec79b62045c69dc1e102f"
+    },
+    "process": {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ID_process.png",
+      "sha256": "dbe2dcc0a37cf26c865b88b76a586696e491117b76bd4dc2f1dae66b03aacec9"
+    }
+  },
+  "source_status": "exact_canonical_local_kice_compilation_visual",
+  "direct_original_verification": {
+    "status": "not_verified",
+    "reason": "local canonical HWPX visual catalog was used; original distribution was not consulted"
+  },
+  "local_canonical_source": {
+    "catalog_manifest": "자료/평가원_독서_시각자료_원본/manifest.json",
+    "source_hwpx": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+    "source_hwpx_sha256": "e0b143398556490c695aa75c7ad42b585bcbea98bb9a1487b928533de97145a2",
+    "source_assets": [
+      {"binary_ref": "image31", "preview_sha256": "dbe2dcc0a37cf26c865b88b76a586696e491117b76bd4dc2f1dae66b03aacec9", "role": "process_diagram_with_masks_A_B"},
+      {"binary_ref": "image32", "preview_sha256": "696d63e7dce7f4234c57e67c0135c8acd94e12e2a3732bf76d7c7b3780cd5720", "choice_anchor": "①"},
+      {"binary_ref": "image33", "preview_sha256": "c5cd7ac83c0b6ffe3adb4f02f22eb735344acef5719da484df7816cfd17d35bf", "choice_anchor": "②"},
+      {"binary_ref": "image34", "preview_sha256": "3da395c3104c12cea02c3117f0d0421de03eb3f98964f95b9ca78649d9a4a874", "choice_anchor": "③"},
+      {"binary_ref": "image35", "preview_sha256": "4aaf8e09f1ca0991cd32be72db39a4c4690150b5281ebd7f54aa5efb41ac1c97", "choice_anchor": "④"},
+      {"binary_ref": "image36", "preview_sha256": "20377ff1fd1876784b44a5babf3b014cfe8e725aaed2c2af33d0d29ce0a7a42f", "choice_anchor": "⑤"}
+    ]
+  },
+  "derivation": "image31 was preserved as ID_process.png; it and image32~36 were placed in XML anchor order in ID_patterns.png, with only choice-number labels added in the surrounding white margin."
+}

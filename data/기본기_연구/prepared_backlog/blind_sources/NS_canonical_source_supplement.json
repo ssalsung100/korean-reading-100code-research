@@ -1,0 +1,172 @@
+{
+  "blind_only": true,
+  "passage_group": "G096",
+  "case_id": "NS",
+  "purpose": "NS 선택지·<보기> 표 구조의 canonical source recovery; 답·SDSS·해설·코드 판정 없음",
+  "source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "member": "Contents/section0.xml",
+    "sha256": "2dbdd1aee904463585e46d7e45077931c4a70ee0ee4119eab32f2b20a8c8b88a"
+  },
+  "question_anchor": {
+    "paragraph_indices": [
+      1075,
+      1076,
+      1077,
+      1078,
+      1079,
+      1080,
+      1081,
+      1082,
+      1083,
+      1084,
+      1085,
+      1086,
+      1087,
+      1088,
+      1089,
+      1090,
+      1091,
+      1092
+    ],
+    "stem_paragraph_index": 1075,
+    "view_table_id": "1943574696",
+    "view_table_dimensions": {
+      "rowCnt": 4,
+      "colCnt": 5
+    }
+  },
+  "view_table_cells": [
+    {
+      "cellAddr": {
+        "colAddr": "0",
+        "rowAddr": "0"
+      },
+      "cellSpan": {
+        "colSpan": "2",
+        "rowSpan": "1"
+      },
+      "text": ""
+    },
+    {
+      "cellAddr": {
+        "colAddr": "2",
+        "rowAddr": "0"
+      },
+      "cellSpan": {
+        "colSpan": "1",
+        "rowSpan": "2"
+      },
+      "text": "< 보 기 >"
+    },
+    {
+      "cellAddr": {
+        "colAddr": "3",
+        "rowAddr": "0"
+      },
+      "cellSpan": {
+        "colSpan": "2",
+        "rowSpan": "1"
+      },
+      "text": ""
+    },
+    {
+      "cellAddr": {
+        "colAddr": "0",
+        "rowAddr": "1"
+      },
+      "cellSpan": {
+        "colSpan": "2",
+        "rowSpan": "1"
+      },
+      "text": ""
+    },
+    {
+      "cellAddr": {
+        "colAddr": "3",
+        "rowAddr": "1"
+      },
+      "cellSpan": {
+        "colSpan": "2",
+        "rowSpan": "1"
+      },
+      "text": ""
+    },
+    {
+      "cellAddr": {
+        "colAddr": "0",
+        "rowAddr": "2"
+      },
+      "cellSpan": {
+        "colSpan": "1",
+        "rowSpan": "1"
+      },
+      "text": ""
+    },
+    {
+      "cellAddr": {
+        "colAddr": "1",
+        "rowAddr": "2"
+      },
+      "cellSpan": {
+        "colSpan": "3",
+        "rowSpan": "1"
+      },
+      "text": "내가 알고 있는 ㉮ 어떤 개는 ㉯ 몹시 사납고 물려는 버릇이 있다. 나는 공원에서 산책을 하다가 그 개와 ㉰ 비슷하게 생긴 ㉱ 다른 개를 만났다. 그래서 이 개도 사납고 물려는 버릇이 있을 것이라고 추측했다."
+    },
+    {
+      "cellAddr": {
+        "colAddr": "4",
+        "rowAddr": "2"
+      },
+      "cellSpan": {
+        "colSpan": "1",
+        "rowSpan": "1"
+      },
+      "text": ""
+    },
+    {
+      "cellAddr": {
+        "colAddr": "0",
+        "rowAddr": "3"
+      },
+      "cellSpan": {
+        "colSpan": "5",
+        "rowSpan": "1"
+      },
+      "text": ""
+    }
+  ],
+  "choices_anchor": {
+    "header_paragraph_index": 1087,
+    "header_text": "ⓐ ⓑ ⓒ",
+    "choice_paragraph_indices": [
+      1088,
+      1089,
+      1090,
+      1091,
+      1092
+    ],
+    "choice_texts": [
+      "① ㉮ ㉯ ㉱",
+      "② ㉮ ㉰ ㉯",
+      "③ ㉱ ㉮ ㉰",
+      "④ ㉱ ㉯ ㉰",
+      "⑤ ㉱ ㉰ ㉯"
+    ],
+    "column_order": [
+      "ⓐ",
+      "ⓑ",
+      "ⓒ"
+    ],
+    "complete_choice_count": 5
+  },
+  "source_quality": {
+    "three_column_prompt_present": true,
+    "choice_rows_1_to_5_present": true,
+    "view_cell_addr_and_span_verified": true,
+    "missing_content": "none in canonical anchors checked",
+    "answer_or_sdss_read": false
+  },
+  "status": "blind_source_recovered_mechanically"
+}

@@ -1,0 +1,1860 @@
+{
+  "status": "official_pdf_page_renders_complete",
+  "source": "자료/MEET_언어추론/2005~2012_언어추론.pdf",
+  "source_sha256": "c3815ffd3296c48c1972f8b8a062948eb8bf014c8f1a9e66c93255278d69dda9",
+  "render_matrix": [
+    3,
+    3
+  ],
+  "page_count": 154,
+  "records": [
+    {
+      "label": "2005예비",
+      "official_pdf_page": 1,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_001_3x.png",
+      "sha256": "6fa49b0652a33d05f653d842191fbe65cfd5e5a6f6dba625051c74cb222a3505",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 2,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_002_3x.png",
+      "sha256": "6ef62f508b6cce328163b87e1bb88eafd9975b86d8eed0e6779ab5e5e7d4339e",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 3,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_003_3x.png",
+      "sha256": "97f2fec36ea1447a1153ee80151c4b02c07c8804906ca99b0a11d6f769da83d5",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 4,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_004_3x.png",
+      "sha256": "c432f67f41b22138ad9bf3fec02c8f919eb03eda6c82c9f9b12dc7b857cf7089",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 5,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_005_3x.png",
+      "sha256": "a500ea204d59ed3abdfc6ebabd7bbd21e83865da2b6998544f9987f683e1e82f",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 6,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_006_3x.png",
+      "sha256": "8bcbc942a41e8338c636403b6fe43ca7461c4547226a63cb6354fd94a60e1f79",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 7,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_007_3x.png",
+      "sha256": "bc5574de170b3ed52905d65e165fd0987b491b32d659d01f0c7bf19183038b3e",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 8,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_008_3x.png",
+      "sha256": "9abd49c37ecf4d95b4c0718646682ef8c6a0e20d95151001589bb8d7443ed54b",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 9,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_009_3x.png",
+      "sha256": "f40b6a417166bc68bbcedd40a39986ac88995d675a7d8326b3cdcb19621cffd6",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 10,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_010_3x.png",
+      "sha256": "8bb74035f400f188909f05e7ef9d61e74d0042d5b1f89e416ed660e6cb604469",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 11,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_011_3x.png",
+      "sha256": "85f2c4ddbb97b4e8260a6f4525e866927aa04e8c876610a14d0d548d2115b178",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 12,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_012_3x.png",
+      "sha256": "e9fea1a436fdf7e8d50930cb30c8ad93bcf17823abe57285c6312fccab40e8c7",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 13,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_013_3x.png",
+      "sha256": "a2b0b8f2a0896e709e12f7dcdc35cc058b6af0f6351d015fc07f0c597f4da003",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 14,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_014_3x.png",
+      "sha256": "5bb69f4ff6a4e4477ebe801a7cca4b9f2ba3d4b1801ef9ed918cbea8cf72d692",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 15,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_015_3x.png",
+      "sha256": "f9840acad0e30df7e8d794eb8c9da1509f75ba9c00d5616f9ee0443ce1ca8378",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 16,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_016_3x.png",
+      "sha256": "dbfe97b7deb2844cbcd47299557aa8331efcbaa14349cbd83ba403cc4128f7ef",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 17,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_017_3x.png",
+      "sha256": "1764a1fd97ebdd27bfd13e7a41ae2f5b37b9afc36b5267753d60883703ecaa18",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 18,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_018_3x.png",
+      "sha256": "a60c45693fa45225cd6b38f0b8e6780491cd6c5984fb20d329ed7910754f7c75",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005예비",
+      "official_pdf_page": 19,
+      "file": "자료/MEET_언어추론/페이지/2005예비/official_page_019_3x.png",
+      "sha256": "dd9f4324159a6624f8d59093b17c541b137182230a7f70f2c800d60e4675fd58",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2187,
+      "height": 3096
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 20,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_020_3x.png",
+      "sha256": "20396c12bf1e8c418d232489b440a639928ef5b50d962e991a6ebd5c0cd3d009",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 21,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_021_3x.png",
+      "sha256": "e82dfc0606dcd085cd331539cdaf965aa7d1199899dd8d710bfbdf7d24a39e61",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 22,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_022_3x.png",
+      "sha256": "c887fd7940514df6cbcdab09341240630b4b177bff4d85d5a5821708c126a0b1",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 23,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_023_3x.png",
+      "sha256": "3e02243529ed4a13a5cdf6f323f1df671a9df3f45d12c56d31fe3d1579a2ffb6",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 24,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_024_3x.png",
+      "sha256": "a0f6f5775cc4be7fba9dcda66e2378d3fc9fb8a0facc8d47e1c9f5420a0cca61",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 25,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_025_3x.png",
+      "sha256": "92e546028e77e493cbd359dda88be6746b4d758c9ae5742bfc65e56433c42b90",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 26,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_026_3x.png",
+      "sha256": "1da61fc1b7eeaa976ac147c1471cc382b824715d0b8127c7ee20035d1605b38b",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 27,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_027_3x.png",
+      "sha256": "c84da2609ededed9d8603477bc0a6cba08565adc777bfb73e7e1e84de0ea1bfe",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 28,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_028_3x.png",
+      "sha256": "bfbcf5ba22fefd2c4a1d2dcf8b941a4d4cf1677ebcdd422b239774ba930804df",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 29,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_029_3x.png",
+      "sha256": "c69200fa0fc2022acc10d64cba22514afe6a5a4cdf2773b55eb880e64f344d60",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 30,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_030_3x.png",
+      "sha256": "a892d1cffcae8565642bb42003a5bcc66f318aa341bcd797857d25b8708af1b1",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 31,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_031_3x.png",
+      "sha256": "47db2db36b08c588d83191f1793dc849bc95236042b1f8d44eea60919cd351df",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 32,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_032_3x.png",
+      "sha256": "2c5e1ac566eb0809ee57e879b5739787e39f3c4981b3cd4a5d45148c8fad0f72",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 33,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_033_3x.png",
+      "sha256": "5b15a0987ee635da32fb9ab529f3e641de9b8163c9344f9c840ab8b122a3f4ac",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 34,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_034_3x.png",
+      "sha256": "4a9493d300c0c09ee2c77456813cf02c9a436ae59e9dc103e4af5a1526c54d98",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 35,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_035_3x.png",
+      "sha256": "9acbfea867f86305153d0a41763df889802947a488faf6f3bd1f2a6a339b1df0",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 36,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_036_3x.png",
+      "sha256": "32898b97d9f62c3e0d5bdec222ba7ecfe221ff0b24c663b88c947e0221846f42",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 37,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_037_3x.png",
+      "sha256": "bf23160e013bd0e81fdf2c16b1bea775d7d6cc3e59814435b6fd7bc2c31602df",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2005",
+      "official_pdf_page": 38,
+      "file": "자료/MEET_언어추론/페이지/2005/official_page_038_3x.png",
+      "sha256": "253ff33106ee2d7a196b56877b6f6f0e3bb8aa7c6e9f5e57caaac90e34521705",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 39,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_039_3x.png",
+      "sha256": "c04721b3a4a89f1d02bb6e42563e9d64e6a24ad967d72d9a9b694fe686750eef",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 40,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_040_3x.png",
+      "sha256": "2a5e5a80155bee6823735963512a178004cf599fafec1a30979ac0f2c7e80b03",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 41,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_041_3x.png",
+      "sha256": "88c08e12de4233bf39aa92fdb214107097a7168919eb5a4d7aa5569967a72a38",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 42,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_042_3x.png",
+      "sha256": "b5c045b48500f8429a353deb6bad6b01e1ea1e7c3d0fbdb1d2f72d0c2a6a7a99",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 43,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_043_3x.png",
+      "sha256": "87a264c7f7fb6bcf6f7ad8470f07cb2378b3b3a77f2e2e27669a57a1a62069ab",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 44,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_044_3x.png",
+      "sha256": "b37443fe203dbd9c61da658d16fd70790dfb85a78abc8879990ce486e5448b53",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 45,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_045_3x.png",
+      "sha256": "d5aba70f7b94d1c7f291ee26395aa69cfdeda69cbbd57fd64f9caa7aa6e1b158",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 46,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_046_3x.png",
+      "sha256": "60b705b67681740a652359c7b754d732f8a975a34b3a6db78c9c455ca212cdd1",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 47,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_047_3x.png",
+      "sha256": "e2554a7b51fecc20c09d221aff89b66138974b521c883925a1223bc71314ae2a",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 48,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_048_3x.png",
+      "sha256": "495540f872225ea431bbc932050c00b966bca781187f2c23c45c5c1557d40298",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 49,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_049_3x.png",
+      "sha256": "52173975531f0ea00da6d7c2625871153cba0609f501aa2d20f50f10433af885",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 50,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_050_3x.png",
+      "sha256": "7c91bfdcff0416bcf604a415bdfff71d3faa85390bc3ddb45d27151d33f1b35f",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 51,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_051_3x.png",
+      "sha256": "4dc35f9553ff24f7179299bf9ee7dbaaaec80d589d2569567fddaf95fa07f2f9",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 52,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_052_3x.png",
+      "sha256": "c17ffdc73da03a2618ae75259381e8e20a1c03146db0f8472bb726006e884fae",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2006",
+      "official_pdf_page": 53,
+      "file": "자료/MEET_언어추론/페이지/2006/official_page_053_3x.png",
+      "sha256": "3d774f7a0200f1e1170b98f5e99fcaa2846049bec614e249e8031d8e343ea021",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 54,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_054_3x.png",
+      "sha256": "45103ead3037b65b32273f4a43c8f0bad8eb8c128f2f1a6e5926a42da93fe7b4",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 55,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_055_3x.png",
+      "sha256": "acc237dd78aae6073f2fbea579392e1f0581d6860673521ca30e4e515c0621ec",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 56,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_056_3x.png",
+      "sha256": "fed8e79691e386e8b752436cc8eade396d1d1f1dfccbc87d07e04ec701facaaf",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 57,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_057_3x.png",
+      "sha256": "136d416b0c99f65c29e86d1271c249e54bf2cf07ed3b89b2cdb1a6051bd9f58a",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 58,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_058_3x.png",
+      "sha256": "c722b177baca2a7f05f02fd98218ddf299184f2a4bd30f1a3b57b41082804754",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 59,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_059_3x.png",
+      "sha256": "e201910c058922c5a2737bae82ebb7f8b1ac81ade507a8945d6354f311874b3c",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 60,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_060_3x.png",
+      "sha256": "6d31389524e7875f9c864e27abcc2e5be15d361220d5e4739bf7789927dbeb29",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 61,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_061_3x.png",
+      "sha256": "ee6107edd84a7531260cccb27e46a23e8e7512928490fa8672c11b53a6888139",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 62,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_062_3x.png",
+      "sha256": "3ebcf216f84cdcd55f3a852b3dded3ac71ba332fa24c2c512a4dfc39404004da",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 63,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_063_3x.png",
+      "sha256": "b062a9e0b54ac74dafa718d6638c1754970eca62529e84294cbfbb9b33a18a94",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 64,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_064_3x.png",
+      "sha256": "12b17a352366b5c37f0f0d4206515d92fa1dab89208a6b32c036ce3a82c621f4",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 65,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_065_3x.png",
+      "sha256": "fb0ceb3caa773e4e33de0fa9ea294e7c2ed98cc3fb5f5f051b929094c965899a",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 66,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_066_3x.png",
+      "sha256": "9f7bfade67bc72ea20b9b4e4897683f2da27fbcdcca456f235f8b086f45caacb",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 67,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_067_3x.png",
+      "sha256": "d33c99fa753f4aaed845c6823ce1a98544d567279624fdbf9a09dea86190ff0d",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 68,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_068_3x.png",
+      "sha256": "f7e9ddee11d595adfea5e649e90414050b36bbfd7e0a1b24eb940043c608ed3f",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2007",
+      "official_pdf_page": 69,
+      "file": "자료/MEET_언어추론/페이지/2007/official_page_069_3x.png",
+      "sha256": "5e17d17e06173672331260104ceeaf2607294655b92b73ce9915fa6482fe1c5c",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 70,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_070_3x.png",
+      "sha256": "5771c9a843dd86202ccabff153ee9262f2c71a065779831a1b79aef078a9b5d8",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 71,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_071_3x.png",
+      "sha256": "6bb1f725e85e67fdb4ad30a1b83131e857dedf1ff3098becc9e6187d3b1c5e26",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 72,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_072_3x.png",
+      "sha256": "7a83ef5f5f47bc1b7397824cd8a34252baf449d874819d2a3aaea8e4b0f82494",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 73,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_073_3x.png",
+      "sha256": "3a09042a8d5b9a9030711eceb086047c58990925e35edcde42541f96e442080d",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 74,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_074_3x.png",
+      "sha256": "47b561b43e2370367db96386fd9610abc6c4eb506a31a2fb1d72a173a63a4bd2",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 75,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_075_3x.png",
+      "sha256": "11dfb443442bcbf1c30b125b0417f69fe21c78cb6932d9746b6741140910434c",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 76,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_076_3x.png",
+      "sha256": "e78b3926596cc1a22219c54138bd2290afedd59fc3f8de32a6e8efcf87f819df",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 77,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_077_3x.png",
+      "sha256": "2e6caa0bd5ee99f9077fd72b50e84838645d05a596cd7138508e40f267fb6ac7",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 78,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_078_3x.png",
+      "sha256": "4098770675466758cf61b06201f7431914203b3f2d023379b026e07cde4d9bdd",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 79,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_079_3x.png",
+      "sha256": "a36e1a7c7749360493bd690312a80563a22ff028af33636679258787ddc1d7be",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 80,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_080_3x.png",
+      "sha256": "2c65d8c29c57b841bec8fb375eccccfc5fe52c0f567cbfb303b14576350072db",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 81,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_081_3x.png",
+      "sha256": "d11c6bea7ca783123300ef827f06969d058e770feeb640aa82a23df0a70af58c",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 82,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_082_3x.png",
+      "sha256": "b94459dba9a846614a773ebe38005c18413bbebe26fe636ad2352bdebc6fea72",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 83,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_083_3x.png",
+      "sha256": "7f11d4ff5ff36da55398f4a83e5ab697f84eacfe3e05acf789369d3af938da8b",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 84,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_084_3x.png",
+      "sha256": "87fa552dc05224aab9daf00da6a346ee458ee904442f347b0049407bf7fba35d",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2008",
+      "official_pdf_page": 85,
+      "file": "자료/MEET_언어추론/페이지/2008/official_page_085_3x.png",
+      "sha256": "7a3ecd6dba44c01dd27c1a9870a6b0630dee7fff1122c65ffb3991d8cde1519f",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 86,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_086_3x.png",
+      "sha256": "897fa95c45db7273fcef745a86466b206e8086400d9410e2e864da9d1d4eea21",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 87,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_087_3x.png",
+      "sha256": "e5bdb670df25a8fd0c50aea70c8a94d93caa63335eb41eeb73fe6481912267b0",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 88,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_088_3x.png",
+      "sha256": "96fa6ef829b756e648df804cd4d40f7c30ab88f15e0c6bca6e28daec3fca0a7a",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 89,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_089_3x.png",
+      "sha256": "c565743a8df13516c8c654a0a69fbe2356a45cdb3d472be5bf12bbc09cf939f3",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 90,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_090_3x.png",
+      "sha256": "acde432a5a98bf71f384ae9d5f0be88927f97eade7e3aad8e92bd8d22afbdffd",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 91,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_091_3x.png",
+      "sha256": "26f688225315f4b7e92092326207f2fc802cb98f80eb4e00c22c76e095b50080",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 92,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_092_3x.png",
+      "sha256": "c590809de877af00bca9399b3170b387652fc6a7f48be7d5ca6cdc4d910958bf",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 93,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_093_3x.png",
+      "sha256": "ac7a44aaf17ae35edc5481058269e3314c01b4ed75c1429c4c8d91db750f9c17",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 94,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_094_3x.png",
+      "sha256": "79cc0c036c14d4f9cccf156802ab28317715ffb601db06137b893253da78ea06",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 95,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_095_3x.png",
+      "sha256": "c92159a10234a217d059b7e0442f851710fcab50c1e41c7324786f52ec7eccfb",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 96,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_096_3x.png",
+      "sha256": "675accb82e79d6c76befcb7303188db27ba23b38d1b2f17395d738aacaebb78b",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 97,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_097_3x.png",
+      "sha256": "16c9c75ce89fed781f74512596dcebe1e723edb1dfc92f15896b9527c26a9c1a",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 98,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_098_3x.png",
+      "sha256": "008f8f15f3eccc7f5de33ea6111fa37ce8e279e5e9d8fa4410338278e2d6e361",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 99,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_099_3x.png",
+      "sha256": "a6b0fc669a9f1fab23b4cb254e9a9482ff907b3fa53bc33204e2a17c2956a5b3",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 100,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_100_3x.png",
+      "sha256": "223b278506809970a451e196e138d8d10ba5eaba327083a2e8f1976571d043c1",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2009",
+      "official_pdf_page": 101,
+      "file": "자료/MEET_언어추론/페이지/2009/official_page_101_3x.png",
+      "sha256": "5012faa2284a2864109f6aba9e616f01e13a9b05fd85c7fb10acf909c7b1dca6",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 102,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_102_3x.png",
+      "sha256": "92f9e077e81534aee0e9a312a788b83e21920a88a50499c7089939d4c538bd0d",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 103,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_103_3x.png",
+      "sha256": "7b731632c31b774a38c0e7707baffc1cb40bf03c9da3eca2be3d13fccf17b94c",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 104,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_104_3x.png",
+      "sha256": "bd285aaec23af674db7e3541d4a49cd65d955707a7d8883a83979b6ec7d3311b",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 105,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_105_3x.png",
+      "sha256": "7d34a5a2b80fb63541c07a0d8d8c71c60feddb0a2f93ffa0ff0d130f7a69d215",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 106,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_106_3x.png",
+      "sha256": "59a7e4253e620bb3f2ff0bbed1616b06958bfee97836586d378baca7f9fb1123",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 107,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_107_3x.png",
+      "sha256": "b79eb3127f4a6d2fbc560177ef433b60ce971d48fc3e3df980ad022eac1281da",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 108,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_108_3x.png",
+      "sha256": "576ac50b35a2f98b2b4cb5d829dcaa2de6f4d2c8adef67cbc6c846d7509cfef8",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 109,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_109_3x.png",
+      "sha256": "bd9a32d4fadf1374ac036bcc1d56cf287a0c028f56f4ff39f91b022d87d35bef",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 110,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_110_3x.png",
+      "sha256": "61b8cf4ef52289ede7c003a02811fb271776fd927914b583965ff4d1a80ce660",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 111,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_111_3x.png",
+      "sha256": "eaea5deef3dbeca1b656f248688225272f3bde00fc3f5ccb710b349257b5c077",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 112,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_112_3x.png",
+      "sha256": "78caeeadaca3c995b6462b5f85948f0c83b6c8fbb2d3d9b96c729ce90c5f134e",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 113,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_113_3x.png",
+      "sha256": "541ae08ca62deeafcf0492c63be719fa648301ac8b361c95271c25fa37dc3b5a",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 114,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_114_3x.png",
+      "sha256": "0e4fd1906806b86d3d385fdb558859745ec07cfa217f92c04a472303587d245f",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 115,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_115_3x.png",
+      "sha256": "2c01f148838402454b124c573c32a509f40a33fc55deda1b0638e4e5137db36c",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 116,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_116_3x.png",
+      "sha256": "ba8f8021ae40c11196b16fbc0e93fbd9acacafc14bd20177b09cff2df87ff079",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2010",
+      "official_pdf_page": 117,
+      "file": "자료/MEET_언어추론/페이지/2010/official_page_117_3x.png",
+      "sha256": "39f271302a2b4439e6387c821ed5bc6ee1221356270c28578532eed31414aece",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 118,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_118_3x.png",
+      "sha256": "5a60cb9224fef608c53987e3bdd8066731e4fa7de96ab11313a26cd89fe832e9",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 119,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_119_3x.png",
+      "sha256": "915aff32db90f6b645a9616644a5dfffccd06b15a42086f876a03153d856c5e5",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 120,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_120_3x.png",
+      "sha256": "b974699a8efc26f774e900f90408eb708d76032d85abaef5d52e898e6e5f0516",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 121,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_121_3x.png",
+      "sha256": "07ca90f91cddff2273faa1f5f5f232929a6f504add2fa435296690524b41b660",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 122,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_122_3x.png",
+      "sha256": "5628ed75b2eb7b1aa89482340b57deffe156b9b764951d4a046156fb846dc1d1",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 123,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_123_3x.png",
+      "sha256": "d74c7d0e409e823467a78ed8f0d44584809f5823875158f11412583284be7ca2",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 124,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_124_3x.png",
+      "sha256": "474bc96cd27c849d67e0b6dd3969ad333ef7094c5e6c127d47c79547e1dc164d",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 125,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_125_3x.png",
+      "sha256": "7895d96f5ce0e9f7e6fab814a2253c2278b03725874453e9093360fd558bb365",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 126,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_126_3x.png",
+      "sha256": "e8bf1672accafcc2588539594fd7425b5f843153a0691b7ad6627f4d29638246",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 127,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_127_3x.png",
+      "sha256": "afaabda841fe97c00ef9f30743db09d32ae66790614950bee5961277b1815ac2",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 128,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_128_3x.png",
+      "sha256": "eb47fc26da251474f7802b318a189dd68c2e42a071e594fc325b37a795406acb",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 129,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_129_3x.png",
+      "sha256": "d7734605cb77dd07697322fa5782d972bba504c7bd23d04016e4228a943147df",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 130,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_130_3x.png",
+      "sha256": "c78ec210720331ae8788c4c3eb23f2a0badc3170c71668fea6bfe873c3277d79",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 131,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_131_3x.png",
+      "sha256": "1c7642a789657a4bcf061ae4391d1d0238bb36428302ed4cb76c57728ab8e9be",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 132,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_132_3x.png",
+      "sha256": "da1d5bab9ac4801a6b90d119e0e63ce72d136ce2863966d37db60786fd1349be",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 133,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_133_3x.png",
+      "sha256": "ffc69b59ccc31ff06b69f2b823e1a86e32278eea459d5d9591e4f6e04e479b4d",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 134,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_134_3x.png",
+      "sha256": "38ea394925f23cdc2a4c686a55d145f5def412dbbfcc4ed91a094f023118a719",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2011",
+      "official_pdf_page": 135,
+      "file": "자료/MEET_언어추론/페이지/2011/official_page_135_3x.png",
+      "sha256": "d95a3a64e54cb89768a24970fbd0a3fcbf588326048bece9297224bbfe2ff633",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 136,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_136_3x.png",
+      "sha256": "c4c5cb754415347480dd8824e11d8584515f51deac84babe3b90ed805f3e88bc",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 137,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_137_3x.png",
+      "sha256": "5e6afeb04203731425f876629513ad9595a24052167799b5b469871f967fdd84",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 138,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_138_3x.png",
+      "sha256": "9d993a88631fce2a160a2f2334e284e00a169c01de5c4301736621daae1f4446",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 139,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_139_3x.png",
+      "sha256": "10d4dc3a2d30dc3d2193d961c53c568d43b00dda18fcb0803828767485414ff4",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 140,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_140_3x.png",
+      "sha256": "c12fca82105b754ce3a17c337811dde2759bdb7cb9b62fcd43ba75f2892dae11",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 141,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_141_3x.png",
+      "sha256": "4cf9619d68663eeb2113b2d6675084c41f75855e0e796bcb96d08f35f0983d8e",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 142,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_142_3x.png",
+      "sha256": "0042add9c58a9dbc794e9d6de9ffb0b93fd9d4be14c19cb18b9aa3aa66b7fdbf",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 143,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_143_3x.png",
+      "sha256": "880484c63ce6579e4e31facb0efd1b9ab426ce004ac3fdbf37594ed90989c640",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 144,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_144_3x.png",
+      "sha256": "15ec840db57bc12dcaaad0e175eba8a6658a1958642fb555991cbda4287d47f8",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 145,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_145_3x.png",
+      "sha256": "a022676aa45ced6ce2383c97040b4e3c1a780f3e18ef798722ae5aaeb4ba4695",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 146,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_146_3x.png",
+      "sha256": "7d81490bbfe9739fe6712fcc14464d490127164214e0e84974fbdb3671232815",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 147,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_147_3x.png",
+      "sha256": "36578c574f22a2dcf80ca9e918b38b61d49d63713a94a5b775c37e7eb1b6fdef",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 148,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_148_3x.png",
+      "sha256": "3247eff56de60225721a590899c09bc3f5401ba0e8c952c6fff466c327dc018f",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 149,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_149_3x.png",
+      "sha256": "2b4db5d69c6b41ba2cacb5575661ee648ddeee8c71cd43a70507154841a7e42b",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 150,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_150_3x.png",
+      "sha256": "7d9dd66cc00d41515fc71b34a1df4d1ac2a5681479380f11ab31b4a089a94254",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 151,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_151_3x.png",
+      "sha256": "0f8407279734b9873fb08a46227854e5f59c39557205e8444cad77bf0b6b6898",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 152,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_152_3x.png",
+      "sha256": "766d3ebe463034001341f72cdef6c1b0d677514930f5298e0ba47074cf0ca5bf",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 153,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_153_3x.png",
+      "sha256": "6d5044e668901bf754514cc1a209ad8148ed33e3454f7c48f9be4f4aceed0b64",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    },
+    {
+      "label": "2012",
+      "official_pdf_page": 154,
+      "file": "자료/MEET_언어추론/페이지/2012/official_page_154_3x.png",
+      "sha256": "c52ab95fbc903086e3decf14f8720f18069d7f853007ba2a70c04a50035a909a",
+      "render_matrix": [
+        3,
+        3
+      ],
+      "width": 2526,
+      "height": 3573
+    }
+  ]
+}

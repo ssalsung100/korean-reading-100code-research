@@ -1,0 +1,1878 @@
+{
+  "status": "collected_unverified_third_party_index",
+  "fetched_at": "2026-09-03T11:19:36+09:00",
+  "catalog_url": "https://sdss.kr/code/100.html",
+  "catalog_sha256": "831ea122e7e7f4405a97b1e28319bcbc09ba67a599a36013e83cde519d017317",
+  "code_count": 100,
+  "category_count": 9,
+  "label_hit_count": 1492,
+  "unique_question_count": 1147,
+  "codes": [
+    {
+      "number": 1,
+      "name": "양질",
+      "category": "4범주",
+      "aliases": [
+        "양과질",
+        "있음과없음",
+        "증감",
+        "유무"
+      ]
+    },
+    {
+      "number": 2,
+      "name": "양상",
+      "category": "4범주",
+      "aliases": [
+        "필연가능",
+        "필연",
+        "가능",
+        "개연"
+      ]
+    },
+    {
+      "number": 3,
+      "name": "선후",
+      "category": "4범주",
+      "aliases": [
+        "시간",
+        "시제",
+        "동시"
+      ]
+    },
+    {
+      "number": 4,
+      "name": "양화",
+      "category": "4범주",
+      "aliases": [
+        "양화사",
+        "모든",
+        "어떤"
+      ]
+    },
+    {
+      "number": 5,
+      "name": "지속/변화",
+      "category": "4범주",
+      "aliases": [
+        "지속",
+        "유지",
+        "변화"
+      ]
+    },
+    {
+      "number": 6,
+      "name": "선천/후천",
+      "category": "4범주",
+      "aliases": [
+        "경험적",
+        "선험적"
+      ]
+    },
+    {
+      "number": 7,
+      "name": "질적차이",
+      "category": "4범주",
+      "aliases": [
+        "분류는OX"
+      ]
+    },
+    {
+      "number": 8,
+      "name": "우선순위",
+      "category": "4범주",
+      "aliases": [
+        "조건부함수"
+      ]
+    },
+    {
+      "number": 9,
+      "name": "위계",
+      "category": "4범주",
+      "aliases": [
+        "서열"
+      ]
+    },
+    {
+      "number": 10,
+      "name": "필요조건",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "요건",
+        "선행조건",
+        "필수조건",
+        "특수한것은필요조건이다"
+      ]
+    },
+    {
+      "number": 11,
+      "name": "필요충분조건",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "필충",
+        "iff",
+        "비결정법은 필충"
+      ]
+    },
+    {
+      "number": 12,
+      "name": "조건문",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "충분조건",
+        "조건",
+        "함축",
+        "포함관계",
+        "포함",
+        "법학은조건문",
+        "대우"
+      ]
+    },
+    {
+      "number": 13,
+      "name": "양립불가",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "배타관계",
+        "배타",
+        "배타적관계",
+        "반대",
+        "반대관계"
+      ]
+    },
+    {
+      "number": 14,
+      "name": "양립가능",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "배타적이지 않음"
+      ]
+    },
+    {
+      "number": 15,
+      "name": "기준",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "기준은필요충분조건",
+        "기준은필충",
+        "판단기준"
+      ]
+    },
+    {
+      "number": 16,
+      "name": "개념분석",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "개념의정의",
+        "개념정의",
+        "개념의분석"
+      ]
+    },
+    {
+      "number": 17,
+      "name": "대상범주",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "대상의범주",
+        "범주"
+      ]
+    },
+    {
+      "number": 18,
+      "name": "모순",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "무모순율",
+        "배중률",
+        "모순관계"
+      ]
+    },
+    {
+      "number": 19,
+      "name": "보충도식",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "부족하면보충",
+        "부족하면보완",
+        "보완",
+        "보완관계",
+        "상호보완",
+        "한계"
+      ]
+    },
+    {
+      "number": 20,
+      "name": "복수실현",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "충분하면필요치않아",
+        "보충도식의부정"
+      ]
+    },
+    {
+      "number": 21,
+      "name": "정의는필충",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "정의는필요충분조건"
+      ]
+    },
+    {
+      "number": 22,
+      "name": "속성",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "속성은상속된다",
+        "상속"
+      ]
+    },
+    {
+      "number": 23,
+      "name": "교집합",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "연언",
+        "AND",
+        "&",
+        "공통점"
+      ]
+    },
+    {
+      "number": 24,
+      "name": "원칙/예외",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "원칙",
+        "예외"
+      ]
+    },
+    {
+      "number": 25,
+      "name": "분류",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "트리구조"
+      ]
+    },
+    {
+      "number": 26,
+      "name": "이항대립",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "포스트모더니즘은이항대립의해체",
+        "MECE",
+        "겹치지않게빠짐없이"
+      ]
+    },
+    {
+      "number": 27,
+      "name": "외연/내포",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "외연과내포는경쟁적",
+        "외연",
+        "내포"
+      ]
+    },
+    {
+      "number": 28,
+      "name": "양보",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "포함의도"
+      ]
+    },
+    {
+      "number": 29,
+      "name": "집합",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "외연",
+        "내포"
+      ]
+    },
+    {
+      "number": 30,
+      "name": "합집합",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "합쳐진집합"
+      ]
+    },
+    {
+      "number": 31,
+      "name": "원소의수/집합의수",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "원소/집합"
+      ]
+    },
+    {
+      "number": 32,
+      "name": "교차관계",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "겹쳐진집합"
+      ]
+    },
+    {
+      "number": 33,
+      "name": "이중부정",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "부정의부정은긍정"
+      ]
+    },
+    {
+      "number": 34,
+      "name": "전칭부정",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "어떤것도아님"
+      ]
+    },
+    {
+      "number": 35,
+      "name": "코드는 조합이 가능하다",
+      "category": "포함관계(집합론)",
+      "aliases": [
+        "코드조합",
+        "복합코드",
+        "다중코드"
+      ]
+    },
+    {
+      "number": 36,
+      "name": "반증사례",
+      "category": "개체관계",
+      "aliases": [
+        "반례",
+        "조건문의부정"
+      ]
+    },
+    {
+      "number": 37,
+      "name": "사례찾기",
+      "category": "개체관계",
+      "aliases": [
+        "사례찾기는필요조건",
+        "사례찾기는요건"
+      ]
+    },
+    {
+      "number": 38,
+      "name": "개체관계",
+      "category": "개체관계",
+      "aliases": [
+        "원소의수/집합의수",
+        "개체",
+        "원소"
+      ]
+    },
+    {
+      "number": 39,
+      "name": "비교대상",
+      "category": "개체관계",
+      "aliases": [
+        "공통점",
+        "차이점",
+        "OX퀴즈"
+      ]
+    },
+    {
+      "number": 40,
+      "name": "부분관계",
+      "category": "부분관계",
+      "aliases": [
+        "부분전체",
+        "구성요소",
+        "요소"
+      ]
+    },
+    {
+      "number": 41,
+      "name": "결합의오류",
+      "category": "부분관계",
+      "aliases": [
+        "구성의오류"
+      ]
+    },
+    {
+      "number": 42,
+      "name": "내부/외부",
+      "category": "부분관계",
+      "aliases": [
+        "내/외",
+        "내부",
+        "외부"
+      ]
+    },
+    {
+      "number": 43,
+      "name": "타변수통제",
+      "category": "인과관계",
+      "aliases": [
+        "세테리스파리부스"
+      ]
+    },
+    {
+      "number": 44,
+      "name": "수단/목적",
+      "category": "인과관계",
+      "aliases": [
+        "수단목적",
+        "수단과목적",
+        "수단",
+        "목적"
+      ]
+    },
+    {
+      "number": 45,
+      "name": "함수",
+      "category": "인과관계",
+      "aliases": [
+        "ifo",
+        "입력",
+        "출력",
+        "다변수함수",
+        "조건부함수",
+        "합성함수",
+        "과정은함수적"
+      ]
+    },
+    {
+      "number": 46,
+      "name": "인과관계",
+      "category": "인과관계",
+      "aliases": [
+        "효과",
+        "인과",
+        "결과",
+        "원인"
+      ]
+    },
+    {
+      "number": 47,
+      "name": "공통원인",
+      "category": "인과관계",
+      "aliases": [
+        "공통원인오류",
+        "commoncause",
+        "공통원인의오류"
+      ]
+    },
+    {
+      "number": 48,
+      "name": "공통효과",
+      "category": "인과관계",
+      "aliases": [
+        "공통결과",
+        "commoneffect",
+        "공통효과의오류",
+        "공통결과의오류"
+      ]
+    },
+    {
+      "number": 49,
+      "name": "상관관계",
+      "category": "인과관계",
+      "aliases": [
+        "촉진",
+        "억제",
+        "상관성"
+      ]
+    },
+    {
+      "number": 50,
+      "name": "길이막히면뒤로못간다",
+      "category": "인과관계",
+      "aliases": [
+        "경로",
+        "개입",
+        "중단"
+      ]
+    },
+    {
+      "number": 51,
+      "name": "원인",
+      "category": "인과관계",
+      "aliases": [
+        "요인"
+      ]
+    },
+    {
+      "number": 52,
+      "name": "억제의억제는촉진",
+      "category": "인과관계",
+      "aliases": [
+        "억제의억제"
+      ]
+    },
+    {
+      "number": 53,
+      "name": "차이만이차이를설명한다",
+      "category": "인과관계",
+      "aliases": [
+        "차이만이차이를만든다"
+      ]
+    },
+    {
+      "number": 54,
+      "name": "결정",
+      "category": "인과관계",
+      "aliases": [
+        "충분조건으로서의 원인"
+      ]
+    },
+    {
+      "number": 55,
+      "name": "허위적인과",
+      "category": "인과관계",
+      "aliases": [
+        "허위적상관",
+        "허위적인과관계",
+        "허위적상관관계"
+      ]
+    },
+    {
+      "number": 56,
+      "name": "설명",
+      "category": "인과관계",
+      "aliases": [
+        "논증/설명",
+        "설명항",
+        "피설명항",
+        "인과적설명"
+      ]
+    },
+    {
+      "number": 57,
+      "name": "분기점",
+      "category": "인과관계",
+      "aliases": [
+        "갈림길"
+      ]
+    },
+    {
+      "number": 58,
+      "name": "공통전제",
+      "category": "논증관계",
+      "aliases": [
+        "공통근거",
+        "공통된 근거",
+        "공통된 전제"
+      ]
+    },
+    {
+      "number": 59,
+      "name": "문제해결도식",
+      "category": "논증관계",
+      "aliases": [
+        "pcs",
+        "문제해결",
+        "해결책"
+      ]
+    },
+    {
+      "number": 60,
+      "name": "논증형식",
+      "category": "논증관계",
+      "aliases": [
+        "논거",
+        "주장",
+        "가정",
+        "근거",
+        "논증",
+        "논증구조"
+      ]
+    },
+    {
+      "number": 61,
+      "name": "바람잡이",
+      "category": "논증관계",
+      "aliases": [
+        "훈제청어"
+      ]
+    },
+    {
+      "number": 62,
+      "name": "관계부정",
+      "category": "논증관계",
+      "aliases": [
+        "충분성부정",
+        "관련성부정"
+      ]
+    },
+    {
+      "number": 63,
+      "name": "강화/약화",
+      "category": "논증관계",
+      "aliases": [
+        "비판",
+        "강중약",
+        "강화약화",
+        "강화약화중립"
+      ]
+    },
+    {
+      "number": 64,
+      "name": "논의영역",
+      "category": "논증관계",
+      "aliases": [
+        "논의영역에서벗어나면중립",
+        "논의대상",
+        "주제"
+      ]
+    },
+    {
+      "number": 65,
+      "name": "허수아비",
+      "category": "논증관계",
+      "aliases": [
+        "허수아비공격의오류",
+        "논점일탈의오류"
+      ]
+    },
+    {
+      "number": 66,
+      "name": "삼단논법",
+      "category": "논증관계",
+      "aliases": [
+        "삼단논증",
+        "결합논증",
+        "전건긍정식",
+        "후건부정식"
+      ]
+    },
+    {
+      "number": 67,
+      "name": "합류논증",
+      "category": "논증관계",
+      "aliases": [
+        "충분조건으로서의 근거"
+      ]
+    },
+    {
+      "number": 68,
+      "name": "약화의약화는강화",
+      "category": "논증관계",
+      "aliases": [
+        "재반론"
+      ]
+    },
+    {
+      "number": 69,
+      "name": "유추",
+      "category": "논증관계",
+      "aliases": [
+        "유비추론",
+        "유비논증"
+      ]
+    },
+    {
+      "number": 70,
+      "name": "딜레마",
+      "category": "논증관계",
+      "aliases": [
+        "다얻을수없다"
+      ]
+    },
+    {
+      "number": 71,
+      "name": "선언지부정식",
+      "category": "논증관계",
+      "aliases": [
+        "제거법",
+        "소거법"
+      ]
+    },
+    {
+      "number": 72,
+      "name": "양도추론",
+      "category": "논증관계",
+      "aliases": [
+        "둘중하나"
+      ]
+    },
+    {
+      "number": 73,
+      "name": "전제부정",
+      "category": "논증관계",
+      "aliases": [
+        "근거부정",
+        "수용성부정"
+      ]
+    },
+    {
+      "number": 74,
+      "name": "경쟁가설",
+      "category": "논증관계",
+      "aliases": [
+        "상반된예측"
+      ]
+    },
+    {
+      "number": 75,
+      "name": "경쟁입장",
+      "category": "논증관계",
+      "aliases": [
+        "논쟁"
+      ]
+    },
+    {
+      "number": 76,
+      "name": "귀류법",
+      "category": "논증관계",
+      "aliases": [
+        "귀류법적증명"
+      ]
+    },
+    {
+      "number": 77,
+      "name": "일반화",
+      "category": "논증관계",
+      "aliases": [
+        "성급한 일반화"
+      ]
+    },
+    {
+      "number": 78,
+      "name": "행위설명",
+      "category": "철학적 관계",
+      "aliases": [
+        "동기",
+        "욕구",
+        "행위",
+        "욕망",
+        "의지",
+        "희망",
+        "능동/수동"
+      ]
+    },
+    {
+      "number": 79,
+      "name": "규범",
+      "category": "철학적 관계",
+      "aliases": [
+        "허용/금지",
+        "당위는능력을함축",
+        "당위",
+        "당위는가치를함축"
+      ]
+    },
+    {
+      "number": 80,
+      "name": "인식론적도식",
+      "category": "철학적 관계",
+      "aliases": [
+        "인식",
+        "인식론",
+        "인식대상",
+        "인식주체",
+        "인식결과",
+        "인문은인식론적도식",
+        "표상",
+        "인식적태도"
+      ]
+    },
+    {
+      "number": 81,
+      "name": "존재론",
+      "category": "철학적 관계",
+      "aliases": [
+        "실재관념",
+        "현상",
+        "형이상학",
+        "정신세계",
+        "존재"
+      ]
+    },
+    {
+      "number": 82,
+      "name": "변증법",
+      "category": "철학적 관계",
+      "aliases": [
+        "변증법적구조",
+        "변증법",
+        "종합",
+        "정반합"
+      ]
+    },
+    {
+      "number": 83,
+      "name": "사실/가치",
+      "category": "철학적 관계",
+      "aliases": [
+        "현상계",
+        "본체계",
+        "가치의세계"
+      ]
+    },
+    {
+      "number": 84,
+      "name": "분수식",
+      "category": "수학적 관계",
+      "aliases": [
+        "분수관계",
+        "분수",
+        "분모분자",
+        "분모",
+        "분자"
+      ]
+    },
+    {
+      "number": 85,
+      "name": "비율은경쟁적",
+      "category": "수학적 관계",
+      "aliases": [
+        "비중은경쟁적",
+        "합이일정",
+        "곱이일정",
+        "두수의합",
+        "두수의곱",
+        "비율"
+      ]
+    },
+    {
+      "number": 86,
+      "name": "양적비교",
+      "category": "수학적 관계",
+      "aliases": [
+        "상대량/절대량"
+      ]
+    },
+    {
+      "number": 87,
+      "name": "기울기",
+      "category": "수학적 관계",
+      "aliases": [
+        "변화량",
+        "미분"
+      ]
+    },
+    {
+      "number": 88,
+      "name": "저울질",
+      "category": "수학적 관계",
+      "aliases": [
+        "편익",
+        "비용",
+        "효율성"
+      ]
+    },
+    {
+      "number": 89,
+      "name": "차집합",
+      "category": "수학적 관계",
+      "aliases": [
+        "차이점"
+      ]
+    },
+    {
+      "number": 90,
+      "name": "경우의수",
+      "category": "수학적 관계",
+      "aliases": [
+        "확률",
+        "조합"
+      ]
+    },
+    {
+      "number": 91,
+      "name": "비례성",
+      "category": "수학적 관계",
+      "aliases": [
+        "비례"
+      ]
+    },
+    {
+      "number": 92,
+      "name": "수식",
+      "category": "수학적 관계",
+      "aliases": [
+        "계산",
+        "수리적 사고력",
+        "분수식"
+      ]
+    },
+    {
+      "number": 93,
+      "name": "의사소통",
+      "category": "일상언어",
+      "aliases": [
+        "smcr",
+        "의사소통도식",
+        "발화자",
+        "수신자",
+        "메시지",
+        "채널",
+        "커뮤니케이션"
+      ]
+    },
+    {
+      "number": 94,
+      "name": "없어야OO하지",
+      "category": "일상언어",
+      "aliases": [
+        "지향하는것은부재하는것이다",
+        "없어야",
+        "부재해야"
+      ]
+    },
+    {
+      "number": 95,
+      "name": "있어야OO하지",
+      "category": "일상언어",
+      "aliases": [
+        "있어야",
+        "존재해야"
+      ]
+    },
+    {
+      "number": 96,
+      "name": "일상언어",
+      "category": "일상언어",
+      "aliases": [
+        "일상언어논증",
+        "일상언어논리"
+      ]
+    },
+    {
+      "number": 97,
+      "name": "발화의도",
+      "category": "일상언어",
+      "aliases": [
+        "메시지"
+      ]
+    },
+    {
+      "number": 98,
+      "name": "A의B",
+      "category": "일상언어",
+      "aliases": [
+        "A의 B 함정"
+      ]
+    },
+    {
+      "number": 99,
+      "name": "대용표현",
+      "category": "일상언어",
+      "aliases": [
+        "기술구"
+      ]
+    },
+    {
+      "number": 100,
+      "name": "비유",
+      "category": "일상언어",
+      "aliases": [
+        "상징",
+        "은유",
+        "메타포"
+      ]
+    }
+  ],
+  "search_sources": [
+    {
+      "code_number": 1,
+      "code_name": "양질",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EC%A7%88",
+      "status_code": 200,
+      "sha256": "93dcd1553f2a2dd26c1e652b36630933675edf3c7eb5a4cde99b8ef21eb4310c",
+      "row_count": 35,
+      "raw_file": "data/sdss_code_search_raw/001_양질.html"
+    },
+    {
+      "code_number": 2,
+      "code_name": "양상",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EC%83%81",
+      "status_code": 200,
+      "sha256": "c89e2e5961d7c0e523fe1513e3be747e2f2b0cb65c471e311160db0dc5d79974",
+      "row_count": 46,
+      "raw_file": "data/sdss_code_search_raw/002_양상.html"
+    },
+    {
+      "code_number": 3,
+      "code_name": "선후",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%84%A0%ED%9B%84",
+      "status_code": 200,
+      "sha256": "a77310dfc2e6dd21238c0389b8eac92ccde223c46b428585fca2fbf912d29830",
+      "row_count": 31,
+      "raw_file": "data/sdss_code_search_raw/003_선후.html"
+    },
+    {
+      "code_number": 4,
+      "code_name": "양화",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%ED%99%94",
+      "status_code": 200,
+      "sha256": "af26f2f1e935a40993261a1c2f86ac5e1b4acba81aad9fc3d2c28ba931db51c4",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/004_양화.html"
+    },
+    {
+      "code_number": 5,
+      "code_name": "지속/변화",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A7%80%EC%86%8D%2F%EB%B3%80%ED%99%94",
+      "status_code": 200,
+      "sha256": "3428fe4820a61526f7d9f20b30c53131b5fd738b107c4089733382b66d92078a",
+      "row_count": 11,
+      "raw_file": "data/sdss_code_search_raw/005_지속_변화.html"
+    },
+    {
+      "code_number": 6,
+      "code_name": "선천/후천",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%84%A0%EC%B2%9C%2F%ED%9B%84%EC%B2%9C",
+      "status_code": 200,
+      "sha256": "741f81fa399fa440b9b970d9b16cee358e333f9b7928581344ebbd9c58f19da9",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/006_선천_후천.html"
+    },
+    {
+      "code_number": 7,
+      "code_name": "질적차이",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A7%88%EC%A0%81%EC%B0%A8%EC%9D%B4",
+      "status_code": 200,
+      "sha256": "cdd10069cc8eb5fad73c42784e61a21bb601508f2fabff563d214d306d0615d7",
+      "row_count": 13,
+      "raw_file": "data/sdss_code_search_raw/007_질적차이.html"
+    },
+    {
+      "code_number": 8,
+      "code_name": "우선순위",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84",
+      "status_code": 200,
+      "sha256": "541c2de3df3f960d079f868e3b2439662d0a81872778b360b5f55219acf76ca1",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/008_우선순위.html"
+    },
+    {
+      "code_number": 9,
+      "code_name": "위계",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9C%84%EA%B3%84",
+      "status_code": 200,
+      "sha256": "541c2de3df3f960d079f868e3b2439662d0a81872778b360b5f55219acf76ca1",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/009_위계.html"
+    },
+    {
+      "code_number": 10,
+      "code_name": "필요조건",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%95%84%EC%9A%94%EC%A1%B0%EA%B1%B4",
+      "status_code": 200,
+      "sha256": "0452d6c759f2cf863a1aa1281cd09ada7096ef9ab3a936612279323d0b66ca33",
+      "row_count": 79,
+      "raw_file": "data/sdss_code_search_raw/010_필요조건.html"
+    },
+    {
+      "code_number": 11,
+      "code_name": "필요충분조건",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%95%84%EC%9A%94%EC%B6%A9%EB%B6%84%EC%A1%B0%EA%B1%B4",
+      "status_code": 200,
+      "sha256": "ba8ac3185a0cb132c65899e1e967a9c6ac75edb34c6776c0be70b2e81a196d89",
+      "row_count": 2,
+      "raw_file": "data/sdss_code_search_raw/011_필요충분조건.html"
+    },
+    {
+      "code_number": 12,
+      "code_name": "조건문",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A1%B0%EA%B1%B4%EB%AC%B8",
+      "status_code": 200,
+      "sha256": "4a7f74003ba1674b73f2ba906a2debb8010814342c609ed2a456d23d63da0caf",
+      "row_count": 51,
+      "raw_file": "data/sdss_code_search_raw/012_조건문.html"
+    },
+    {
+      "code_number": 13,
+      "code_name": "양립불가",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EB%A6%BD%EB%B6%88%EA%B0%80",
+      "status_code": 200,
+      "sha256": "a7ccece13af1d640832fc7f40a6a8fca7802d3e789139846e5287fa67044dd10",
+      "row_count": 7,
+      "raw_file": "data/sdss_code_search_raw/013_양립불가.html"
+    },
+    {
+      "code_number": 14,
+      "code_name": "양립가능",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EB%A6%BD%EA%B0%80%EB%8A%A5",
+      "status_code": 200,
+      "sha256": "c2ad36b06bb26bd71d66ee01a75e6158c8f47c67f0496a01875d6c99523311ed",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/014_양립가능.html"
+    },
+    {
+      "code_number": 15,
+      "code_name": "기준",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B8%B0%EC%A4%80",
+      "status_code": 200,
+      "sha256": "a2dea70a4901a514a82e9e6fbb59ce6793e17554c8d08cc3457406fb557bf10b",
+      "row_count": 21,
+      "raw_file": "data/sdss_code_search_raw/015_기준.html"
+    },
+    {
+      "code_number": 16,
+      "code_name": "개념분석",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B0%9C%EB%85%90%EB%B6%84%EC%84%9D",
+      "status_code": 200,
+      "sha256": "ff353fa432b2fd42fbcb5dbf27ce5718f801896a9d2e123074d639579713add0",
+      "row_count": 9,
+      "raw_file": "data/sdss_code_search_raw/016_개념분석.html"
+    },
+    {
+      "code_number": 17,
+      "code_name": "대상범주",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%8C%80%EC%83%81%EB%B2%94%EC%A3%BC",
+      "status_code": 200,
+      "sha256": "b080b15630f6037f448ca50cd84505856a5cfbf439a79c617a262061524bb91a",
+      "row_count": 15,
+      "raw_file": "data/sdss_code_search_raw/017_대상범주.html"
+    },
+    {
+      "code_number": 18,
+      "code_name": "모순",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%AA%A8%EC%88%9C",
+      "status_code": 200,
+      "sha256": "c35755164d876e7fab8d17f16e79e59da91af07d29b373f789e5aee962d8aa8a",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/018_모순.html"
+    },
+    {
+      "code_number": 19,
+      "code_name": "보충도식",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D",
+      "status_code": 200,
+      "sha256": "2dc0a5ec0b24c0a09c9f0b4fab5aba43d411bb3f1b5854d279a246eda8641927",
+      "row_count": 69,
+      "raw_file": "data/sdss_code_search_raw/019_보충도식.html"
+    },
+    {
+      "code_number": 20,
+      "code_name": "복수실현",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B3%B5%EC%88%98%EC%8B%A4%ED%98%84",
+      "status_code": 200,
+      "sha256": "8eaebd272494ca2e36da8b7b64af1a04956287c1c9a6a7f01de5efb5ada6c286",
+      "row_count": 10,
+      "raw_file": "data/sdss_code_search_raw/020_복수실현.html"
+    },
+    {
+      "code_number": 21,
+      "code_name": "정의는필충",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A0%95%EC%9D%98%EB%8A%94%ED%95%84%EC%B6%A9",
+      "status_code": 200,
+      "sha256": "1e6056c3ad48e0b4366d2eb4d7eed8919df6c7d46e772b7301976b6bbe3a9ee3",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/021_정의는필충.html"
+    },
+    {
+      "code_number": 22,
+      "code_name": "속성",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%86%8D%EC%84%B1",
+      "status_code": 200,
+      "sha256": "d20662ccf7f149b3644e77964cad85e22b54f15b6519bababd7c0af3672cae45",
+      "row_count": 7,
+      "raw_file": "data/sdss_code_search_raw/022_속성.html"
+    },
+    {
+      "code_number": 23,
+      "code_name": "교집합",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B5%90%EC%A7%91%ED%95%A9",
+      "status_code": 200,
+      "sha256": "e7e1c03b6349ce58018695c119b35263be59951abef33c88f723d01ec509c19a",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/023_교집합.html"
+    },
+    {
+      "code_number": 24,
+      "code_name": "원칙/예외",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9B%90%EC%B9%99%2F%EC%98%88%EC%99%B8",
+      "status_code": 200,
+      "sha256": "248434dba10a545e81c522bf653a9e682ab5245f275c780d6b4620a212c612bd",
+      "row_count": 6,
+      "raw_file": "data/sdss_code_search_raw/024_원칙_예외.html"
+    },
+    {
+      "code_number": 25,
+      "code_name": "분류",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B6%84%EB%A5%98",
+      "status_code": 200,
+      "sha256": "eb1954053b6c98a118abbbd03a58589fd83bf989f29fea2309c9013430b702aa",
+      "row_count": 48,
+      "raw_file": "data/sdss_code_search_raw/025_분류.html"
+    },
+    {
+      "code_number": 26,
+      "code_name": "이항대립",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%B4%ED%95%AD%EB%8C%80%EB%A6%BD",
+      "status_code": 200,
+      "sha256": "6504fa98e6b0038647ba76ec6710a5b2d0d48d6f3020e91eded65c76a9b01398",
+      "row_count": 29,
+      "raw_file": "data/sdss_code_search_raw/026_이항대립.html"
+    },
+    {
+      "code_number": 27,
+      "code_name": "외연/내포",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%99%B8%EC%97%B0%2F%EB%82%B4%ED%8F%AC",
+      "status_code": 200,
+      "sha256": "ec1be76faa571c4ee1290bb7c9292be874113b79f53ee0b5fb2b023448afff7f",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/027_외연_내포.html"
+    },
+    {
+      "code_number": 28,
+      "code_name": "양보",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EB%B3%B4",
+      "status_code": 200,
+      "sha256": "cb0d99315ec6c6f069805b8645316b5ba78dba1715e6adfc57896aa266e6185a",
+      "row_count": 4,
+      "raw_file": "data/sdss_code_search_raw/028_양보.html"
+    },
+    {
+      "code_number": 29,
+      "code_name": "집합",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A7%91%ED%95%A9",
+      "status_code": 200,
+      "sha256": "500f78533198ef2ca4178d43d30439e91e8af11abd329c15d575b95804b09e4a",
+      "row_count": 14,
+      "raw_file": "data/sdss_code_search_raw/029_집합.html"
+    },
+    {
+      "code_number": 30,
+      "code_name": "합집합",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%95%A9%EC%A7%91%ED%95%A9",
+      "status_code": 200,
+      "sha256": "72803bcf23695bed60df9bd78c2eb517ab7e6afde3061f3d1d7cd447963b407d",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/030_합집합.html"
+    },
+    {
+      "code_number": 31,
+      "code_name": "원소의수/집합의수",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9B%90%EC%86%8C%EC%9D%98%EC%88%98%2F%EC%A7%91%ED%95%A9%EC%9D%98%EC%88%98",
+      "status_code": 200,
+      "sha256": "4892ecca2db630ce7ae8577ead7f9b1d3bf838ae7317324959a42661cbc3e131",
+      "row_count": 6,
+      "raw_file": "data/sdss_code_search_raw/031_원소의수_집합의수.html"
+    },
+    {
+      "code_number": 32,
+      "code_name": "교차관계",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B5%90%EC%B0%A8%EA%B4%80%EA%B3%84",
+      "status_code": 200,
+      "sha256": "c2ad36b06bb26bd71d66ee01a75e6158c8f47c67f0496a01875d6c99523311ed",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/032_교차관계.html"
+    },
+    {
+      "code_number": 33,
+      "code_name": "이중부정",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%B4%EC%A4%91%EB%B6%80%EC%A0%95",
+      "status_code": 200,
+      "sha256": "51c4cfa22b603d24886777535dc85e576b7046b7e345a385dcef4b6c91b0643a",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/033_이중부정.html"
+    },
+    {
+      "code_number": 34,
+      "code_name": "전칭부정",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A0%84%EC%B9%AD%EB%B6%80%EC%A0%95",
+      "status_code": 200,
+      "sha256": "6940bbbfe0e9461e3449855a24dd10cde610ea241b7b26760b8b003df8307e6a",
+      "row_count": 2,
+      "raw_file": "data/sdss_code_search_raw/034_전칭부정.html"
+    },
+    {
+      "code_number": 35,
+      "code_name": "코드는 조합이 가능하다",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%BD%94%EB%93%9C%EB%8A%94+%EC%A1%B0%ED%95%A9%EC%9D%B4+%EA%B0%80%EB%8A%A5%ED%95%98%EB%8B%A4",
+      "status_code": 200,
+      "sha256": "5d62b884349d350e74a9847bdc6a52e0548eb3358773d4ec6cb025fd577941b1",
+      "row_count": 0,
+      "raw_file": "data/sdss_code_search_raw/035_코드는 조합이 가능하다.html"
+    },
+    {
+      "code_number": 36,
+      "code_name": "반증사례",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B0%98%EC%A6%9D%EC%82%AC%EB%A1%80",
+      "status_code": 200,
+      "sha256": "a6ca4f134e4ad200766501443f5c717e4476bf8280f3859bcb06055b7b49479f",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/036_반증사례.html"
+    },
+    {
+      "code_number": 37,
+      "code_name": "사례찾기",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%82%AC%EB%A1%80%EC%B0%BE%EA%B8%B0",
+      "status_code": 200,
+      "sha256": "a6f34166b59c5aa4a63abe39d2f04f95f85be4b7e115cde645a7561a1af37226",
+      "row_count": 9,
+      "raw_file": "data/sdss_code_search_raw/037_사례찾기.html"
+    },
+    {
+      "code_number": 38,
+      "code_name": "개체관계",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B0%9C%EC%B2%B4%EA%B4%80%EA%B3%84",
+      "status_code": 200,
+      "sha256": "4892ecca2db630ce7ae8577ead7f9b1d3bf838ae7317324959a42661cbc3e131",
+      "row_count": 6,
+      "raw_file": "data/sdss_code_search_raw/038_개체관계.html"
+    },
+    {
+      "code_number": 39,
+      "code_name": "비교대상",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B9%84%EA%B5%90%EB%8C%80%EC%83%81",
+      "status_code": 200,
+      "sha256": "bb872620c4b5947874c88501a13651c6a2ce9dfcd87cdaf29c01928bdd2513b8",
+      "row_count": 10,
+      "raw_file": "data/sdss_code_search_raw/039_비교대상.html"
+    },
+    {
+      "code_number": 40,
+      "code_name": "부분관계",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B6%80%EB%B6%84%EA%B4%80%EA%B3%84",
+      "status_code": 200,
+      "sha256": "6dc56a885825b055287119a35c7db7d8bca86eeee7bd1755ad331d4d1f17221a",
+      "row_count": 15,
+      "raw_file": "data/sdss_code_search_raw/040_부분관계.html"
+    },
+    {
+      "code_number": 41,
+      "code_name": "결합의오류",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B2%B0%ED%95%A9%EC%9D%98%EC%98%A4%EB%A5%98",
+      "status_code": 200,
+      "sha256": "8b5e60748a938db58c6de6269deb3372f2525e11df1ceb4372384ee937a6420f",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/041_결합의오류.html"
+    },
+    {
+      "code_number": 42,
+      "code_name": "내부/외부",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%82%B4%EB%B6%80%2F%EC%99%B8%EB%B6%80",
+      "status_code": 200,
+      "sha256": "8d06ebda86b26239049cbb669160cbd0316ce4503eec999194d81832ebc7fecf",
+      "row_count": 26,
+      "raw_file": "data/sdss_code_search_raw/042_내부_외부.html"
+    },
+    {
+      "code_number": 43,
+      "code_name": "타변수통제",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%83%80%EB%B3%80%EC%88%98%ED%86%B5%EC%A0%9C",
+      "status_code": 200,
+      "sha256": "5ad5d808344381ec7f8e169c948f799530fc680a6e72ded84efd72aff4c96e86",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/043_타변수통제.html"
+    },
+    {
+      "code_number": 44,
+      "code_name": "수단/목적",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%88%98%EB%8B%A8%2F%EB%AA%A9%EC%A0%81",
+      "status_code": 200,
+      "sha256": "033fc13b1617e1159d1f5ba712ac61189341b50281ef3700edee3388359b352e",
+      "row_count": 24,
+      "raw_file": "data/sdss_code_search_raw/044_수단_목적.html"
+    },
+    {
+      "code_number": 45,
+      "code_name": "함수",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%95%A8%EC%88%98",
+      "status_code": 200,
+      "sha256": "8d961b8a3e942dcfb7518cc5dec4c1186bec86aa03cced69080030da0bc5703f",
+      "row_count": 35,
+      "raw_file": "data/sdss_code_search_raw/045_함수.html"
+    },
+    {
+      "code_number": 46,
+      "code_name": "인과관계",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84",
+      "status_code": 200,
+      "sha256": "37f342fd95914497b4dfadafa22d316bdee89c28ae406af0f27b69263e4a13a7",
+      "row_count": 51,
+      "raw_file": "data/sdss_code_search_raw/046_인과관계.html"
+    },
+    {
+      "code_number": 47,
+      "code_name": "공통원인",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B3%B5%ED%86%B5%EC%9B%90%EC%9D%B8",
+      "status_code": 200,
+      "sha256": "e0add87d1b7bbbfe7758bc518a869db58863da2d740731d722c10a929db8d8d5",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/047_공통원인.html"
+    },
+    {
+      "code_number": 48,
+      "code_name": "공통효과",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B3%B5%ED%86%B5%ED%9A%A8%EA%B3%BC",
+      "status_code": 200,
+      "sha256": "04e56335478f390404441e79ddd47ea32e454ceb7b402d4be7388c7242f98dcf",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/048_공통효과.html"
+    },
+    {
+      "code_number": 49,
+      "code_name": "상관관계",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84",
+      "status_code": 200,
+      "sha256": "3147cb41c2e698c3782b5b414830f9c19cdaf65691aa414a754912dc4018d6eb",
+      "row_count": 30,
+      "raw_file": "data/sdss_code_search_raw/049_상관관계.html"
+    },
+    {
+      "code_number": 50,
+      "code_name": "길이막히면뒤로못간다",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B8%B8%EC%9D%B4%EB%A7%89%ED%9E%88%EB%A9%B4%EB%92%A4%EB%A1%9C%EB%AA%BB%EA%B0%84%EB%8B%A4",
+      "status_code": 200,
+      "sha256": "f6d41e987e979fbe4c2f1ab9bf9f055135d4517a68f074ae3c5a9dc279738b6c",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/050_길이막히면뒤로못간다.html"
+    },
+    {
+      "code_number": 51,
+      "code_name": "원인",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9B%90%EC%9D%B8",
+      "status_code": 200,
+      "sha256": "37f342fd95914497b4dfadafa22d316bdee89c28ae406af0f27b69263e4a13a7",
+      "row_count": 51,
+      "raw_file": "data/sdss_code_search_raw/051_원인.html"
+    },
+    {
+      "code_number": 52,
+      "code_name": "억제의억제는촉진",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%B5%EC%A0%9C%EC%9D%98%EC%96%B5%EC%A0%9C%EB%8A%94%EC%B4%89%EC%A7%84",
+      "status_code": 200,
+      "sha256": "b02fdc9aeacf8da1e5224a6da35f45f535a9036ab702c2d8e9847cb222205ed1",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/052_억제의억제는촉진.html"
+    },
+    {
+      "code_number": 53,
+      "code_name": "차이만이차이를설명한다",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%B0%A8%EC%9D%B4%EB%A7%8C%EC%9D%B4%EC%B0%A8%EC%9D%B4%EB%A5%BC%EC%84%A4%EB%AA%85%ED%95%9C%EB%8B%A4",
+      "status_code": 200,
+      "sha256": "cd5528e980a9b1d9dd63ad7228fbd28988fc1518b52f8628d499422ed0feb788",
+      "row_count": 4,
+      "raw_file": "data/sdss_code_search_raw/053_차이만이차이를설명한다.html"
+    },
+    {
+      "code_number": 54,
+      "code_name": "결정",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B2%B0%EC%A0%95",
+      "status_code": 200,
+      "sha256": "07433e19313dcfea04a734cc3dbb856390be012daf3633cd9521ab0f4726eced",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/054_결정.html"
+    },
+    {
+      "code_number": 55,
+      "code_name": "허위적인과",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%97%88%EC%9C%84%EC%A0%81%EC%9D%B8%EA%B3%BC",
+      "status_code": 200,
+      "sha256": "eceb491e433a818ef70f1347ba56f562b59a1c28c95aa731569de960269ea1ca",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/055_허위적인과.html"
+    },
+    {
+      "code_number": 56,
+      "code_name": "설명",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%84%A4%EB%AA%85",
+      "status_code": 200,
+      "sha256": "749bc85f7f4cd6337491138216889d85643c6f11548dd81de11627ef6749e9dd",
+      "row_count": 44,
+      "raw_file": "data/sdss_code_search_raw/056_설명.html"
+    },
+    {
+      "code_number": 57,
+      "code_name": "분기점",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B6%84%EA%B8%B0%EC%A0%90",
+      "status_code": 200,
+      "sha256": "57990343ab918ed83a66db5033a5221b7937f5769c15c1bc1b47e7c9538309e8",
+      "row_count": 7,
+      "raw_file": "data/sdss_code_search_raw/057_분기점.html"
+    },
+    {
+      "code_number": 58,
+      "code_name": "공통전제",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B3%B5%ED%86%B5%EC%A0%84%EC%A0%9C",
+      "status_code": 200,
+      "sha256": "bb3d5ee1b784be8101ba6146081bba69e7fb7b6d561b0806bc819a7eea50c5f3",
+      "row_count": 15,
+      "raw_file": "data/sdss_code_search_raw/058_공통전제.html"
+    },
+    {
+      "code_number": 59,
+      "code_name": "문제해결도식",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EB%8F%84%EC%8B%9D",
+      "status_code": 200,
+      "sha256": "211656c3109b78f4c1ce6ee8666714b0c272332405ead425713a5154740a657f",
+      "row_count": 88,
+      "raw_file": "data/sdss_code_search_raw/059_문제해결도식.html"
+    },
+    {
+      "code_number": 60,
+      "code_name": "논증형식",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%85%BC%EC%A6%9D%ED%98%95%EC%8B%9D",
+      "status_code": 200,
+      "sha256": "590175d7ce068c760372b64352502f1620447b1f08fbbebc0df116b09226fa95",
+      "row_count": 28,
+      "raw_file": "data/sdss_code_search_raw/060_논증형식.html"
+    },
+    {
+      "code_number": 61,
+      "code_name": "바람잡이",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B0%94%EB%9E%8C%EC%9E%A1%EC%9D%B4",
+      "status_code": 200,
+      "sha256": "eb36e2928bb47ef029075d7f2c5362133374bb2161551598fdfc5d71e047b166",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/061_바람잡이.html"
+    },
+    {
+      "code_number": 62,
+      "code_name": "관계부정",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B4%80%EA%B3%84%EB%B6%80%EC%A0%95",
+      "status_code": 200,
+      "sha256": "89dee995a23307d61b738694181ef657efb27e1c2c7a445d0326cd8fa0506388",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/062_관계부정.html"
+    },
+    {
+      "code_number": 63,
+      "code_name": "강화/약화",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94",
+      "status_code": 200,
+      "sha256": "83818766257e4ed5707c95497590b79e621447812757e7c2657138b405dac3e5",
+      "row_count": 25,
+      "raw_file": "data/sdss_code_search_raw/063_강화_약화.html"
+    },
+    {
+      "code_number": 64,
+      "code_name": "논의영역",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%85%BC%EC%9D%98%EC%98%81%EC%97%AD",
+      "status_code": 200,
+      "sha256": "7942040b85aed9cab69325745a227ea1cef2b6f2c169d3bc069d33af048cd781",
+      "row_count": 40,
+      "raw_file": "data/sdss_code_search_raw/064_논의영역.html"
+    },
+    {
+      "code_number": 65,
+      "code_name": "허수아비",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%97%88%EC%88%98%EC%95%84%EB%B9%84",
+      "status_code": 200,
+      "sha256": "f46809995b3c056c52268068d911d5165849de1d55a979d0a4886f1cd5f72f03",
+      "row_count": 11,
+      "raw_file": "data/sdss_code_search_raw/065_허수아비.html"
+    },
+    {
+      "code_number": 66,
+      "code_name": "삼단논법",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%82%BC%EB%8B%A8%EB%85%BC%EB%B2%95",
+      "status_code": 200,
+      "sha256": "1bc5fdb5830e3fee221d261aff9d4fba023022bda7ec260bb91e0035de106005",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/066_삼단논법.html"
+    },
+    {
+      "code_number": 67,
+      "code_name": "합류논증",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%95%A9%EB%A5%98%EB%85%BC%EC%A6%9D",
+      "status_code": 200,
+      "sha256": "0754789850dbbf9bc23646885e3c137b42cd6eaf7ae5dbe3a62a3e67e628d337",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/067_합류논증.html"
+    },
+    {
+      "code_number": 68,
+      "code_name": "약화의약화는강화",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%95%BD%ED%99%94%EC%9D%98%EC%95%BD%ED%99%94%EB%8A%94%EA%B0%95%ED%99%94",
+      "status_code": 200,
+      "sha256": "0df10b0ea68aae2c74e51176bba9246f6f01ec5810f77ed344dc874804a286d1",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/068_약화의약화는강화.html"
+    },
+    {
+      "code_number": 69,
+      "code_name": "유추",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9C%A0%EC%B6%94",
+      "status_code": 200,
+      "sha256": "07a8ed65cbf3043061a956739b318ee9906008ab3fa644c992141ac15e6ee7c1",
+      "row_count": 17,
+      "raw_file": "data/sdss_code_search_raw/069_유추.html"
+    },
+    {
+      "code_number": 70,
+      "code_name": "딜레마",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%94%9C%EB%A0%88%EB%A7%88",
+      "status_code": 200,
+      "sha256": "172181e1749de19d24d499b6760eb1d778cad0b398c47f2c43882b5d11fbc1fe",
+      "row_count": 4,
+      "raw_file": "data/sdss_code_search_raw/070_딜레마.html"
+    },
+    {
+      "code_number": 71,
+      "code_name": "선언지부정식",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%84%A0%EC%96%B8%EC%A7%80%EB%B6%80%EC%A0%95%EC%8B%9D",
+      "status_code": 200,
+      "sha256": "2ce2bf5c20c9258ff5f64cb02e9ce4465b4aa487942fc7bba5b45a20911a8b6e",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/071_선언지부정식.html"
+    },
+    {
+      "code_number": 72,
+      "code_name": "양도추론",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EB%8F%84%EC%B6%94%EB%A1%A0",
+      "status_code": 200,
+      "sha256": "ec552b554d44feaba9f282ce44a97e533c744734daaf71e7965e417e593b71e9",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/072_양도추론.html"
+    },
+    {
+      "code_number": 73,
+      "code_name": "전제부정",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A0%84%EC%A0%9C%EB%B6%80%EC%A0%95",
+      "status_code": 200,
+      "sha256": "34911930750496346fe53c3f9e72a91500013fc0f76de6bd03b12482bff709aa",
+      "row_count": 7,
+      "raw_file": "data/sdss_code_search_raw/073_전제부정.html"
+    },
+    {
+      "code_number": 74,
+      "code_name": "경쟁가설",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EA%B0%80%EC%84%A4",
+      "status_code": 200,
+      "sha256": "2b1780e4834f09419c77e4214e8d618dc242c38056125d2bf09a2eb6f80eb46b",
+      "row_count": 14,
+      "raw_file": "data/sdss_code_search_raw/074_경쟁가설.html"
+    },
+    {
+      "code_number": 75,
+      "code_name": "경쟁입장",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EC%9E%85%EC%9E%A5",
+      "status_code": 200,
+      "sha256": "2b1780e4834f09419c77e4214e8d618dc242c38056125d2bf09a2eb6f80eb46b",
+      "row_count": 14,
+      "raw_file": "data/sdss_code_search_raw/075_경쟁입장.html"
+    },
+    {
+      "code_number": 76,
+      "code_name": "귀류법",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B7%80%EB%A5%98%EB%B2%95",
+      "status_code": 200,
+      "sha256": "0b06b64af11435b36d94c307ed6e6876ff622dda1d0bb6d73e7e62aa6365448c",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/076_귀류법.html"
+    },
+    {
+      "code_number": 77,
+      "code_name": "일반화",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%BC%EB%B0%98%ED%99%94",
+      "status_code": 200,
+      "sha256": "adb87fe5a9e78382a1e7cf8005d299835ee7bcde76381d43e759cde4b111c374",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/077_일반화.html"
+    },
+    {
+      "code_number": 78,
+      "code_name": "행위설명",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%ED%96%89%EC%9C%84%EC%84%A4%EB%AA%85",
+      "status_code": 200,
+      "sha256": "3ce79fc9433a3cf6ab481df056247e1a884628051c0635bf9e8c913ffb3ec1a5",
+      "row_count": 34,
+      "raw_file": "data/sdss_code_search_raw/078_행위설명.html"
+    },
+    {
+      "code_number": 79,
+      "code_name": "규범",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B7%9C%EB%B2%94",
+      "status_code": 200,
+      "sha256": "ef445c5b80dd2e474aac4010d2806ea219441270ad3e59c0290eb70a68e57b6e",
+      "row_count": 7,
+      "raw_file": "data/sdss_code_search_raw/079_규범.html"
+    },
+    {
+      "code_number": 80,
+      "code_name": "인식론적도식",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%B8%EC%8B%9D%EB%A1%A0%EC%A0%81%EB%8F%84%EC%8B%9D",
+      "status_code": 200,
+      "sha256": "00b51d722cf55012c1514bb68bd3ce73f9365f5a78b3db58a4fa0f16e084e637",
+      "row_count": 39,
+      "raw_file": "data/sdss_code_search_raw/080_인식론적도식.html"
+    },
+    {
+      "code_number": 81,
+      "code_name": "존재론",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A1%B4%EC%9E%AC%EB%A1%A0",
+      "status_code": 200,
+      "sha256": "b781d4ac02548ad4027d74d820a9ec2eeee9dd82118acd0b720163888d1ba52b",
+      "row_count": 11,
+      "raw_file": "data/sdss_code_search_raw/081_존재론.html"
+    },
+    {
+      "code_number": 82,
+      "code_name": "변증법",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B3%80%EC%A6%9D%EB%B2%95",
+      "status_code": 200,
+      "sha256": "72a31b41dbca1a20cbde59d2cd2e2c4f383ed1e16b9619569b5a84a24ae7a79e",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/082_변증법.html"
+    },
+    {
+      "code_number": 83,
+      "code_name": "사실/가치",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%82%AC%EC%8B%A4%2F%EA%B0%80%EC%B9%98",
+      "status_code": 200,
+      "sha256": "7e63dda37ac6273ba51ba6b4519ce1f223eacc03cd533e1a28cc1b99d2386889",
+      "row_count": 6,
+      "raw_file": "data/sdss_code_search_raw/083_사실_가치.html"
+    },
+    {
+      "code_number": 84,
+      "code_name": "분수식",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B6%84%EC%88%98%EC%8B%9D",
+      "status_code": 200,
+      "sha256": "e34c86b4c5866a1dda5763af25376fbe5a79c665f6a99dda8f660d5a115a6dc1",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/084_분수식.html"
+    },
+    {
+      "code_number": 85,
+      "code_name": "비율은경쟁적",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B9%84%EC%9C%A8%EC%9D%80%EA%B2%BD%EC%9F%81%EC%A0%81",
+      "status_code": 200,
+      "sha256": "1fd5de9af7102f107f3292f4a356a8eacf4cae395b81764faebfbab5d103798c",
+      "row_count": 7,
+      "raw_file": "data/sdss_code_search_raw/085_비율은경쟁적.html"
+    },
+    {
+      "code_number": 86,
+      "code_name": "양적비교",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EC%A0%81%EB%B9%84%EA%B5%90",
+      "status_code": 200,
+      "sha256": "26a33de41d20211f5fef290a8a29569e651961f95512c7275088d7600b724871",
+      "row_count": 9,
+      "raw_file": "data/sdss_code_search_raw/086_양적비교.html"
+    },
+    {
+      "code_number": 87,
+      "code_name": "기울기",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B8%B0%EC%9A%B8%EA%B8%B0",
+      "status_code": 200,
+      "sha256": "6b8a67fc1fb36b2ec229b892f7f74a532ac95d708a1819c992c4b827a794c01d",
+      "row_count": 5,
+      "raw_file": "data/sdss_code_search_raw/087_기울기.html"
+    },
+    {
+      "code_number": 88,
+      "code_name": "저울질",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%A0%80%EC%9A%B8%EC%A7%88",
+      "status_code": 200,
+      "sha256": "66a9ba878041c44ca997b83c9b5a23e9cf47fbcb4dc57210d396508bf4b3d8de",
+      "row_count": 9,
+      "raw_file": "data/sdss_code_search_raw/088_저울질.html"
+    },
+    {
+      "code_number": 89,
+      "code_name": "차집합",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%B0%A8%EC%A7%91%ED%95%A9",
+      "status_code": 200,
+      "sha256": "00690d37922f2c58426b9539dc6db7b3040c161013c23dea9e31d2f5d56a103b",
+      "row_count": 3,
+      "raw_file": "data/sdss_code_search_raw/089_차집합.html"
+    },
+    {
+      "code_number": 90,
+      "code_name": "경우의수",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9A%B0%EC%9D%98%EC%88%98",
+      "status_code": 200,
+      "sha256": "b9f71bf6da35abdc12c8ce1d3421c770700af820a2498ff813cebf00ee4d3796",
+      "row_count": 11,
+      "raw_file": "data/sdss_code_search_raw/090_경우의수.html"
+    },
+    {
+      "code_number": 91,
+      "code_name": "비례성",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B9%84%EB%A1%80%EC%84%B1",
+      "status_code": 200,
+      "sha256": "d584f6f7d61076d644fb58a739b67bdf6f9aeaa4f61eeffa3d710c2658d6451b",
+      "row_count": 2,
+      "raw_file": "data/sdss_code_search_raw/091_비례성.html"
+    },
+    {
+      "code_number": 92,
+      "code_name": "수식",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%88%98%EC%8B%9D",
+      "status_code": 200,
+      "sha256": "871bc9f161ddbc4acbdde5b52522aaaf15f5cff9b7b57820271a5646c339e222",
+      "row_count": 8,
+      "raw_file": "data/sdss_code_search_raw/092_수식.html"
+    },
+    {
+      "code_number": 93,
+      "code_name": "의사소통",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5",
+      "status_code": 200,
+      "sha256": "07bf8a09e1036324e04011a677ea4799702aa3de3f358a680b10c3bf32842348",
+      "row_count": 38,
+      "raw_file": "data/sdss_code_search_raw/093_의사소통.html"
+    },
+    {
+      "code_number": 94,
+      "code_name": "없어야OO하지",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%97%86%EC%96%B4%EC%95%BCOO%ED%95%98%EC%A7%80",
+      "status_code": 200,
+      "sha256": "9ba0f23031f0524b30ff182ae1bde6ead01b671e90d9073e1e900b98582ef745",
+      "row_count": 2,
+      "raw_file": "data/sdss_code_search_raw/094_없어야OO하지.html"
+    },
+    {
+      "code_number": 95,
+      "code_name": "있어야OO하지",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9E%88%EC%96%B4%EC%95%BCOO%ED%95%98%EC%A7%80",
+      "status_code": 200,
+      "sha256": "f809775d5a05862f24f6bf62a8b015dce62473bbbbde33a6a49d12a705115574",
+      "row_count": 11,
+      "raw_file": "data/sdss_code_search_raw/095_있어야OO하지.html"
+    },
+    {
+      "code_number": 96,
+      "code_name": "일상언어",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%BC%EC%83%81%EC%96%B8%EC%96%B4",
+      "status_code": 200,
+      "sha256": "e70acd51c0a5236c324d977025b126fa83d7f3163b7316943bb6d9128121a4d0",
+      "row_count": 7,
+      "raw_file": "data/sdss_code_search_raw/096_일상언어.html"
+    },
+    {
+      "code_number": 97,
+      "code_name": "발화의도",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B0%9C%ED%99%94%EC%9D%98%EB%8F%84",
+      "status_code": 200,
+      "sha256": "5dac3ddfe21ebf9dda5ac8881b309d30480c8e9e1eef7826c6c1593c43dae01f",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/097_발화의도.html"
+    },
+    {
+      "code_number": 98,
+      "code_name": "A의B",
+      "url": "https://sdss.kr/code/search.asp?CodeName=A%EC%9D%98B",
+      "status_code": 200,
+      "sha256": "ae9277ac8123b59a97fceb07b9aa6809436cd5347cfda56d9bb3fc9bb8e267ab",
+      "row_count": 36,
+      "raw_file": "data/sdss_code_search_raw/098_A의B.html"
+    },
+    {
+      "code_number": 99,
+      "code_name": "대용표현",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%8C%80%EC%9A%A9%ED%91%9C%ED%98%84",
+      "status_code": 200,
+      "sha256": "1ff22e2fb38581812817c5f30bbe1fa5ec4b3b2ffb2ba515c0350699483944cf",
+      "row_count": 1,
+      "raw_file": "data/sdss_code_search_raw/099_대용표현.html"
+    },
+    {
+      "code_number": 100,
+      "code_name": "비유",
+      "url": "https://sdss.kr/code/search.asp?CodeName=%EB%B9%84%EC%9C%A0",
+      "status_code": 200,
+      "sha256": "1e74421d5f7fcc878cead15b64e7029891b655fe06810a7c55812866f7255f4f",
+      "row_count": 26,
+      "raw_file": "data/sdss_code_search_raw/100_비유.html"
+    }
+  ],
+  "disclaimer": "사이트 코드는 제3자 후보 라벨이다. 로컬 원문·선지·정답을 다시 판독하기 전에는 프로젝트 확정 코드로 사용하지 않는다. 정답률도 사이트가 명시한 추정치이다."
+}

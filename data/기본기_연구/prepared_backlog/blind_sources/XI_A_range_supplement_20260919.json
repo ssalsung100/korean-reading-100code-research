@@ -1,0 +1,22 @@
+{
+  "blind_only": true,
+  "passage_group": "G147",
+  "case_id": "XI",
+  "source_role": "mechanical_canonical_source_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "source_sha256": "1ec3cd474e996fdcea0e4497f6a2e8f45b7e62caee8a1bfc5588b8c9ae6ec42c",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 1238,
+    "A_end_marker_paragraph_index": 1241,
+    "question_paragraph_index": 1277
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_and_text": "[A]실시간 PCR에서 발색도는 증폭된 이중 가닥 표적 DNA의 양에 비례하며, 일정 수준의 발색도에 도달하는 데 필요한 사이클은 표적 DNA의 초기 양에 따라 달라진다. 사이클의 진행에 따른 발색도의 변화가 연속적인 선으로 표시되며, 표적 DNA를 검출했다고 판단하는 발색도에 도달하는 데 소요된 사이클을 Ct값이라 한다. 표적 DNA의 농도를 알지 못하는 미지 시료의 Ct값과 표적 DNA의 농도를 알고 있는 표준 시료의 Ct값을 비교하면 미지 시료에 포함된 표적 DNA의 농도를 계산할 수 있다.",
+    "end_marker_context": "paragraph 1238의 마지막 문장 뒤에 빈 paragraph 1239·1240이 있고, paragraph 1241에 단독 [A] 표지가 있다.",
+    "range_statement": "[A]는 paragraph 1238 첫머리의 [A]부터 그 단락 마지막 문장까지이며, paragraph 1241의 단독 [A]는 문제에서 다시 참조하는 표지이다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "[A] 표지와 범위만 canonical XML에서 기계적으로 복원했다."
+}

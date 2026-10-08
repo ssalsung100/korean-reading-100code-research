@@ -1,0 +1,55 @@
+{
+  "blind_only": true,
+  "passage_group": "G055",
+  "case_id": "IO",
+  "assets": {
+    "graph": {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/IO_graph.png",
+      "role": "보기의 부피-압력 그래프",
+      "dimensions_px": [831, 502],
+      "curves": ["A", "B", "C"],
+      "axis_titles": {"vertical": "압력", "horizontal": "부피"},
+      "axis_units": {"vertical": null, "horizontal": null},
+      "reference_markers": ["P1", "P2", "P3"],
+      "source_asset_path": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._과학/image11.png",
+      "source_asset_sha256": "b0ff8fa6d03b14377cbfa4e582198f4f83f590a4f68a77a3ea041faba865a192",
+      "copied_asset_sha256": "b0ff8fa6d03b14377cbfa4e582198f4f83f590a4f68a77a3ea041faba865a192"
+    },
+    "equations": {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/IO_equations_reconstructed.png",
+      "role": "본문 상태 방정식 수식 보조 이미지",
+      "reconstruction_status": "equation_script_reconstructed_raster_not_canonical_crop",
+      "sha256": "c81c5014a55fb3d1d01df81bf0683c1703a964fb51b773dd51ca7a3c819a9385"
+    }
+  },
+  "state_equation_source_anchors": [
+    {
+      "text": "기체의 상태에 영향을 미치는 압력(P), 온도(T), 부피(V)의 상관관계를 1몰의 기체에 대해 표현하면 (R : 기체 상수)가 되는데, 이를 이상 기체 상태 방정식이라 한다.",
+      "equation_script": "P = RT / V"
+    },
+    {
+      "text": "기체 분자가 운동할 수 있는 자유 이동 부피는 이상 기체에 비해 b만큼 줄어든 가 된다.",
+      "equation_script": "V - b"
+    },
+    {
+      "text": "이때 줄어드는 압력은 기체 부피의 제곱에 반비례하는데, 이것을 비례 상수 a가 포함된 로 나타낼 수 있다.",
+      "equation_script": "a / V^2"
+    },
+    {
+      "text": "이상 기체 상태 방정식을 보정하면 가 된다. 이를 반데르발스 상태 방정식이라 한다.",
+      "equation_script": "P = RT / (V - b) - a / V^2"
+    }
+  ],
+  "source": {
+    "source_kind": "local_KICE_compilation_HWPX_extracted_visual_asset",
+    "canonical_release_pdf_verified": false,
+    "limitation": "그래프는 로컬 HWPX 편집본에서 추출된 PNG이다. 수식은 HWPX 내부의 equation script를 기계적으로 옮겨 보조 PNG로 재구성했으며, 원배포 PDF의 직접 crop 대조는 수행하지 못했다."
+  },
+  "exclusions": [
+    "공식 정답",
+    "SDSS 태그",
+    "기존 해설",
+    "코드명 및 의미 판정",
+    "그래프 해석 및 답 계산"
+  ]
+}

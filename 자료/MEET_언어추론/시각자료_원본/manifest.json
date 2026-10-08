@@ -1,0 +1,200 @@
+[
+  {
+    "label": "2005예비",
+    "official_pdf_page": 4,
+    "xref": 14,
+    "width": 1143,
+    "height": 681,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2005예비/page_004_image_01_xref_14.png",
+    "sha256": "34402b9de7148e86f9a8e7087a37153f329ede8552d73d60a1c05064618298e7",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2005예비",
+    "official_pdf_page": 4,
+    "xref": 15,
+    "width": 1143,
+    "height": 680,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2005예비/page_004_image_02_xref_15.png",
+    "sha256": "f1fff02a9a2bacda8f9d3e5d1bc0223540a5dbaedcdf38e027505b26455cf2ab",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2005",
+    "official_pdf_page": 26,
+    "xref": 91,
+    "width": 2212,
+    "height": 454,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_01_xref_91.png",
+    "sha256": "67ff238caa340a1dd949c2ae82a77fd9ee0d0bc7cda383c7443c430f3a07ac8f",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2005",
+    "official_pdf_page": 26,
+    "xref": 92,
+    "width": 2212,
+    "height": 454,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_02_xref_92.png",
+    "sha256": "2d29eab6acc5ed2b1426370f61155f80da7380199fdb1c87bb883b851a3b777d",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2005",
+    "official_pdf_page": 26,
+    "xref": 93,
+    "width": 2212,
+    "height": 454,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_03_xref_93.png",
+    "sha256": "735a227f9b54182a066e47f6ec4a9f56704577b6cb75f0d0cc3d524cabfdc383",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2005",
+    "official_pdf_page": 26,
+    "xref": 94,
+    "width": 2212,
+    "height": 454,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2005/page_026_image_04_xref_94.png",
+    "sha256": "1f5f9ca57f963885277f225b3010a95a819ee1fe1af3b149d41f58a223b44331",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2008",
+    "official_pdf_page": 75,
+    "xref": 252,
+    "width": 1034,
+    "height": 880,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2008/page_075_image_01_xref_252.png",
+    "sha256": "22beffca9131dd3a51852cf29c6d1974459add1b952aed29198fda97a21764de",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2009",
+    "official_pdf_page": 89,
+    "xref": 295,
+    "width": 629,
+    "height": 818,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2009/page_089_image_01_xref_295.jpeg",
+    "sha256": "86f3743dfd395e050beea34a9a448818aa8665f9cf11d06e32f8316a8384c4aa",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2010",
+    "official_pdf_page": 107,
+    "xref": 352,
+    "width": 2067,
+    "height": 87,
+    "extension": "png",
+    "file": "자료/MEET_언어추론/시각자료_원본/2010/page_107_image_01_xref_352.png",
+    "sha256": "87b6dee5b0b05dce29f27024b84f1f2d1ba8c352bd066c8686367b34f34c8927",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2011",
+    "official_pdf_page": 130,
+    "xref": 426,
+    "width": 516,
+    "height": 473,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2011/page_130_image_01_xref_426.jpeg",
+    "sha256": "4165a11d2eb7b08e82de333f2084a922b4ff7aceb8e208cfa8724adcd83bb0d5",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2011",
+    "official_pdf_page": 131,
+    "xref": 430,
+    "width": 542,
+    "height": 420,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2011/page_131_image_01_xref_430.jpeg",
+    "sha256": "05eda594861b50701947dea86f8d0d5b99b38b93b881be7ec26e1cc7ad3664e8",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2011",
+    "official_pdf_page": 133,
+    "xref": 437,
+    "width": 854,
+    "height": 1284,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2011/page_133_image_01_xref_437.jpeg",
+    "sha256": "976712bff9defb9adfda3856a5c57b0b85f6261163e0d867e03624f1af3dc968",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2011",
+    "official_pdf_page": 133,
+    "xref": 438,
+    "width": 827,
+    "height": 489,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2011/page_133_image_02_xref_438.jpeg",
+    "sha256": "681fbe1b11c185df75cd5d7504008e89c500477a8b64fb4efca4b0eceb1f651f",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2011",
+    "official_pdf_page": 135,
+    "xref": 445,
+    "width": 454,
+    "height": 276,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2011/page_135_image_01_xref_445.jpeg",
+    "sha256": "4f5439e98456915429cff6370a0b3abcb0d424b44d7c2cc768d8c53e7c1d90ad",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2011",
+    "official_pdf_page": 135,
+    "xref": 446,
+    "width": 566,
+    "height": 230,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2011/page_135_image_02_xref_446.jpeg",
+    "sha256": "d238f98e990ec0ce866e8b0a230b619165d8c7c4232279cd93991a15f06e81d5",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2012",
+    "official_pdf_page": 150,
+    "xref": 494,
+    "width": 692,
+    "height": 692,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2012/page_150_image_01_xref_494.jpeg",
+    "sha256": "3a9af46f4e45a8981f9a56a46944e8f1ac2c0b51d99f43a256b7d3749d2aa3bb",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2012",
+    "official_pdf_page": 152,
+    "xref": 501,
+    "width": 621,
+    "height": 1014,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2012/page_152_image_01_xref_501.jpeg",
+    "sha256": "87e07eb36eac481d0b78e6fac7e0bfbd6824a9a884945550970668b70cf9f723",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  },
+  {
+    "label": "2012",
+    "official_pdf_page": 152,
+    "xref": 502,
+    "width": 560,
+    "height": 388,
+    "extension": "jpeg",
+    "file": "자료/MEET_언어추론/시각자료_원본/2012/page_152_image_02_xref_502.jpeg",
+    "sha256": "c0e48cc520473919a0f7dea62dfbb9f0d01d0b5c3fdc04eadf09cbc729730b06",
+    "status": "extracted_from_supplied_pdf_not_yet_semantically_classified"
+  }
+]

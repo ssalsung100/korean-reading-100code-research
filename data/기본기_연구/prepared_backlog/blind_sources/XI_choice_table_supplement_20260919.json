@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G147",
+  "case_id": "XI",
+  "source_role": "mechanical_choice_table_supplement",
+  "provenance": {
+    "canonical_source_path": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "canonical_source_sha256": "1ec3cd474e996fdcea0e4497f6a2e8f45b7e62caee8a1bfc5588b8c9ae6ec42c",
+    "canonical_xml_part": "Contents/section0.xml",
+    "canonical_paragraph_indices": {"header": 1305, "rows": [1306, 1307, 1308, 1309, 1310]},
+    "official_question_source": "https://wdown.ebsi.co.kr/W61001/01exam/20210603/go3/korA_mun_GB4XT9L7.pdf",
+    "exam_identification": "2022학년도 6월 모의평가 국어 17번"
+  },
+  "column_header_verbatim": ["㉮", "㉯", "㉰"],
+  "rows_verbatim_and_cell_alignment": [
+    {"number": "①", "㉮": "ⓑ보다 많겠군", "㉯": "ⓑ보다 높겠군", "㉰": "ⓑ보다 크겠군"},
+    {"number": "②", "㉮": "ⓑ보다 많겠군", "㉯": "ⓑ와 같겠군", "㉰": "ⓑ보다 작겠군"},
+    {"number": "③", "㉮": "ⓑ와 같겠군", "㉯": "ⓑ보다 높겠군", "㉰": "ⓑ보다 작겠군"},
+    {"number": "④", "㉮": "ⓑ와 같겠군", "㉯": "ⓑ와 같겠군", "㉰": "ⓑ보다 작겠군"},
+    {"number": "⑤", "㉮": "ⓑ와 같겠군", "㉯": "ⓑ보다 높겠군", "㉰": "ⓑ보다 크겠군"}
+  ],
+  "canonical_first_column_observation": "canonical XML paragraph 1306~1310에는 번호와 ㉮ 열만 텍스트로 남아 있고 ㉯·㉰ 열은 누락되어 있어 공식 문제지 원문 표를 사용해 나머지 열을 기계 보강했다.",
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "문항의 ㉮·㉯·㉰ 열과 원래 ①~⑤ 번호 대응만 복원했다. 의미 판단은 수행하지 않는다."
+}

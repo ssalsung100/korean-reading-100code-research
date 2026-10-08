@@ -1,0 +1,44 @@
+{
+  "blind_only": true,
+  "passage_group": "G167",
+  "case_id": "AAD",
+  "purpose": "AAD [A] 범위의 canonical 문단 anchor와 첫·끝 문장 기계 복원",
+  "source_role": "mechanical_canonical_source_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+    "hash_verification": {"command": "sha256sum", "computed_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44", "matches_metadata": true},
+    "xml_part": "Contents/section0.xml",
+    "passage_header": "[177~179] 2026학년도 9월 모평 1번~3번",
+    "paragraph_anchor": {
+      "global_p_index": 2736,
+      "section_child_index": 2110,
+      "marker": "[A]",
+      "marker_position": "paragraph_start_inline",
+      "next_paragraph_global_p_index": 2742,
+      "next_paragraph_starts": "따라서 독자는 인공지능이 생성한 자료에"
+    },
+    "a_marker_table_cell": {"table_id": "2029750741", "rowCnt": 3, "colCnt": 2, "cell_full_text": "[A]"}
+  },
+  "range_text": {
+    "first_sentence": "방대한 규모의 정보를 사전에 학습한 인공지능은 독자의 요구에 따라 필요한 정보를 추출하고 조합하여 자료를 생성한다.",
+    "last_sentence": "또한 원래의 자료가 가지고 있던 작성 의도나 맥락이 훼손되기도 하며, 출처가 누락되거나 잘못 표시될 가능성도 있다.",
+    "canonical_paragraph_text_scope": "[A] marker 뒤부터 위 last_sentence까지의 동일 문단",
+    "following_text_outside_range": "따라서 독자는 인공지능이 생성한 자료에 ⓐ 편견이 있는 표현이 나타나는지, 사실과 다른 부정확한 정보가 있는지, 왜곡되게 편집된 정보가 있는지, ⓑ 출처는 명확한지 등을 점검하며 읽어야 한다."
+    ,"a_marker_table_cell_extraction": "[A]"
+  },
+  "blind_source_crosscheck": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AAD.json",
+    "marker_present": true,
+    "first_sentence_match": true,
+    "last_sentence_match": true,
+    "original_blind_source_modified": false
+  },
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  },
+  "status": "blind_range_anchor_restored_mechanically"
+}

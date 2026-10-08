@@ -1,0 +1,31 @@
+{
+  "blind_only": true,
+  "passage_group": "G132",
+  "case_id": "UK",
+  "source_role": "mechanical_canonical_choice_table_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+    "source_sha256": "e0b143398556490c695aa75c7ad42b585bcbea98bb9a1487b928533de97145a2",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "question_paragraph_index": 1235,
+    "choice_header_paragraph_index": 1246,
+    "choice_row_paragraph_indices": [1247, 1248, 1249, 1250, 1251]
+  },
+  "column_header_verbatim": ["A", "B", "C"],
+  "rows_verbatim_and_cell_alignment": [
+    {"choice": "①", "A": "클수록", "B": "클수록", "C": null, "xml_text": "①    클수록        클수록 "},
+    {"choice": "②", "A": "클수록", "B": "작을수록", "C": "시간", "xml_text": "②    클수록       작을수록         시간"},
+    {"choice": "③", "A": "클수록", "B": "작을수록", "C": null, "xml_text": "③    클수록       작을수록 "},
+    {"choice": "④", "A": "작을수록", "B": "클수록", "C": "시간", "xml_text": "④   작을수록       클수록          시간"},
+    {"choice": "⑤", "A": "작을수록", "B": null, "C": null, "xml_text": "⑤   작을수록 "}
+  ],
+  "alignment_note": "canonical XML의 선택지 행 텍스트와 A/B/C 표제 순서를 그대로 보존했다. 빈 칸은 null로 표시했으며 의미를 보완하지 않았다.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  },
+  "restoration_limit": "선택지 번호와 A/B/C 열의 원문 대응만 복원했다. 풀이·정답·의미 판단은 수행하지 않는다."
+}

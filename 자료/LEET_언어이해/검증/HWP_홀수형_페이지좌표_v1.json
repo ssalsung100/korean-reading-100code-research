@@ -1,0 +1,3400 @@
+{
+  "status": "complete",
+  "scope": "2009예비~2021 LEET 언어이해 홀수형 HWP reusable visual objects",
+  "paper_count": 14,
+  "record_count": 65,
+  "embedded_figure_count": 46,
+  "data_table_count": 14,
+  "choice_table_count": 5,
+  "page_image_count": 216,
+  "coordinate_definition": "one-based printed page/column/line plus HWP list-para-pos anchor; picture records also carry pixel bounding boxes when template verification succeeds",
+  "figure_pixel_status_counts": {
+    "confirmed": 46
+  },
+  "view_box_policy": "125 generic view-box layout containers remain question-linked in v1 mapping but are excluded from the reusable-visual coordinate audit",
+  "records": [
+    {
+      "visual_id": "leet-2009-choice_table-010",
+      "year": 2009,
+      "label": "2009",
+      "kind": "choice_table",
+      "asset_number": 10,
+      "question_group": [
+        4,
+        4
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2009/2009_question_odd/table_010.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009/page_001.png",
+      "page": 1,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 1,
+        "column_number": 2,
+        "line_number": 15,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 31,
+        "anchor_pos": 0,
+        "width_hwpunit": 30810,
+        "height_hwpunit": 42460,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 31,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2009-data_table-012",
+      "year": 2009,
+      "label": "2009",
+      "kind": "data_table",
+      "asset_number": 12,
+      "question_group": [
+        11,
+        13
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2009/2009_question_odd/table_012.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 78,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 28761,
+        "height_hwpunit": 7212,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 37,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2009-choice_table-013",
+      "year": 2009,
+      "label": "2009",
+      "kind": "choice_table",
+      "asset_number": 13,
+      "question_group": [
+        11,
+        13
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2009/2009_question_odd/table_013.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 5,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 133,
+        "anchor_pos": 0,
+        "width_hwpunit": 30810,
+        "height_hwpunit": 17416,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 38,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2009-embedded_figure-001",
+      "year": 2009,
+      "label": "2009",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        20,
+        22
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009/2009_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 2,
+        "line_number": 1,
+        "char_position": 5,
+        "anchor_list": 0,
+        "anchor_para": 250,
+        "anchor_pos": 0,
+        "width_hwpunit": 15713,
+        "height_hwpunit": 14198,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 0,
+        "text_wrap": 0,
+        "control_order": 44,
+        "control_name": ""
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.863078,
+        "bbox_px": [
+          1170,
+          329,
+          1486,
+          614
+        ],
+        "bbox_normalized": [
+          0.694774,
+          0.138177,
+          0.882423,
+          0.257875
+        ],
+        "scale_vs_hwp_size": 1.005,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009-embedded_figure-002",
+      "year": 2009,
+      "label": "2009",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        35,
+        37
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009/2009_question_odd/image_002.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009/page_014.png",
+      "page": 14,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 14,
+        "column_number": 1,
+        "line_number": 13,
+        "char_position": 5,
+        "anchor_list": 0,
+        "anchor_para": 469,
+        "anchor_pos": 0,
+        "width_hwpunit": 16020,
+        "height_hwpunit": 20708,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 0,
+        "text_wrap": 0,
+        "control_order": 53,
+        "control_name": ""
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.810429,
+        "bbox_px": [
+          470,
+          772,
+          790,
+          1186
+        ],
+        "bbox_normalized": [
+          0.279097,
+          0.324234,
+          0.469121,
+          0.49811
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-data_table-006",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "data_table",
+      "asset_number": 6,
+      "question_group": [
+        4,
+        4
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2009예비/2009예비_question_odd/table_006.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_001.png",
+      "page": 1,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 1,
+        "column_number": 2,
+        "line_number": 2,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 25,
+        "anchor_pos": 0,
+        "width_hwpunit": 30611,
+        "height_hwpunit": 16752,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 26,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-data_table-011",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "data_table",
+      "asset_number": 11,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2009예비/2009예비_question_odd/table_011.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_007.png",
+      "page": 7,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 7,
+        "column_number": 1,
+        "line_number": 32,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 255,
+        "anchor_pos": 0,
+        "width_hwpunit": 30612,
+        "height_hwpunit": 27648,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 31,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-embedded_figure-001",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_001.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 88,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 10464,
+        "height_hwpunit": 7296,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 33,
+        "control_name": "(B2): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.915042,
+        "bbox_px": [
+          268,
+          1350,
+          477,
+          1496
+        ],
+        "bbox_normalized": [
+          0.159145,
+          0.566989,
+          0.283254,
+          0.628307
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-embedded_figure-002",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_002.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 1,
+        "anchor_list": 90,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 12600,
+        "height_hwpunit": 7762,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 34,
+        "control_name": "(D2): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.934646,
+        "bbox_px": [
+          553,
+          1345,
+          805,
+          1500
+        ],
+        "bbox_normalized": [
+          0.328385,
+          0.564889,
+          0.478029,
+          0.629987
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-embedded_figure-003",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_003.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 92,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 10464,
+        "height_hwpunit": 7296,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 35,
+        "control_name": "(B3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.911707,
+        "bbox_px": [
+          269,
+          1530,
+          477,
+          1675
+        ],
+        "bbox_normalized": [
+          0.159739,
+          0.642587,
+          0.283254,
+          0.703486
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-embedded_figure-004",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_004.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 2,
+        "anchor_list": 94,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 12348,
+        "height_hwpunit": 7762,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 36,
+        "control_name": "(D3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.938609,
+        "bbox_px": [
+          557,
+          1525,
+          803,
+          1679
+        ],
+        "bbox_normalized": [
+          0.33076,
+          0.640487,
+          0.476841,
+          0.705166
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-embedded_figure-005",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_005.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 96,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 10464,
+        "height_hwpunit": 7296,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 37,
+        "control_name": "(B4): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.934269,
+        "bbox_px": [
+          269,
+          1710,
+          477,
+          1855
+        ],
+        "bbox_normalized": [
+          0.159739,
+          0.718186,
+          0.283254,
+          0.779084
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-embedded_figure-006",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "embedded_figure",
+      "asset_number": 6,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_006.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 2,
+        "anchor_list": 98,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 12348,
+        "height_hwpunit": 7762,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 38,
+        "control_name": "(D4): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.943854,
+        "bbox_px": [
+          557,
+          1705,
+          803,
+          1859
+        ],
+        "bbox_normalized": [
+          0.33076,
+          0.716086,
+          0.476841,
+          0.780764
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2009예비-embedded_figure-007",
+      "year": 2009,
+      "label": "2009예비",
+      "kind": "embedded_figure",
+      "asset_number": 7,
+      "question_group": [
+        35,
+        37
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2009예비/2009예비_question_odd/image_007.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_014.png",
+      "page": 14,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 14,
+        "column_number": 1,
+        "line_number": 23,
+        "char_position": 5,
+        "anchor_list": 0,
+        "anchor_para": 551,
+        "anchor_pos": 0,
+        "width_hwpunit": 10360,
+        "height_hwpunit": 17437,
+        "horizontal_offset_hwpunit": 18050,
+        "vertical_offset_hwpunit": 740,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 0,
+        "text_wrap": 0,
+        "control_order": 42,
+        "control_name": ""
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.952731,
+        "bbox_px": [
+          554,
+          1146,
+          761,
+          1495
+        ],
+        "bbox_normalized": [
+          0.328979,
+          0.48131,
+          0.4519,
+          0.627887
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2010-data_table-012",
+      "year": 2010,
+      "label": "2010",
+      "kind": "data_table",
+      "asset_number": 12,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2010/2010_question_odd/table_012.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_004.png",
+      "page": 4,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 4,
+        "column_number": 1,
+        "line_number": 2,
+        "char_position": 1,
+        "anchor_list": 60,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 14317,
+        "height_hwpunit": 7588,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 33,
+        "control_name": "(A2): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2010-embedded_figure-001",
+      "year": 2010,
+      "label": "2010",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_004.png",
+      "page": 4,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 4,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 86,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 13189,
+        "height_hwpunit": 4784,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 34,
+        "control_name": "(B2): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.85405,
+        "bbox_px": [
+          522,
+          1917,
+          785,
+          2013
+        ],
+        "bbox_normalized": [
+          0.309976,
+          0.805124,
+          0.466152,
+          0.845443
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2010-embedded_figure-002",
+      "year": 2010,
+      "label": "2010",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_002.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_004.png",
+      "page": 4,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 4,
+        "column_number": 2,
+        "line_number": 19,
+        "char_position": 5,
+        "anchor_list": 0,
+        "anchor_para": 139,
+        "anchor_pos": 0,
+        "width_hwpunit": 29977,
+        "height_hwpunit": 8514,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 35,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.846954,
+        "bbox_px": [
+          907,
+          1056,
+          1507,
+          1226
+        ],
+        "bbox_normalized": [
+          0.538599,
+          0.443511,
+          0.894893,
+          0.51491
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2010-data_table-015",
+      "year": 2010,
+      "label": "2010",
+      "kind": "data_table",
+      "asset_number": 15,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2010/2010_question_odd/table_015.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 98,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 29099,
+        "height_hwpunit": 10566,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 38,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2010-embedded_figure-003",
+      "year": 2010,
+      "label": "2010",
+      "kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_003.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 19,
+        "char_position": 6,
+        "anchor_list": 0,
+        "anchor_para": 166,
+        "anchor_pos": 2,
+        "width_hwpunit": 9034,
+        "height_hwpunit": 5760,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 39,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.886903,
+        "bbox_px": [
+          227,
+          1905,
+          408,
+          2020
+        ],
+        "bbox_normalized": [
+          0.134798,
+          0.800084,
+          0.24228,
+          0.848383
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2010-embedded_figure-004",
+      "year": 2010,
+      "label": "2010",
+      "kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_004.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 20,
+        "char_position": 6,
+        "anchor_list": 0,
+        "anchor_para": 167,
+        "anchor_pos": 2,
+        "width_hwpunit": 8890,
+        "height_hwpunit": 5434,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 40,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.876223,
+        "bbox_px": [
+          228,
+          1633,
+          407,
+          1743
+        ],
+        "bbox_normalized": [
+          0.135392,
+          0.685846,
+          0.241686,
+          0.732045
+        ],
+        "scale_vs_hwp_size": 1.005,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2010-embedded_figure-005",
+      "year": 2010,
+      "label": "2010",
+      "kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_005.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 21,
+        "char_position": 6,
+        "anchor_list": 0,
+        "anchor_para": 168,
+        "anchor_pos": 2,
+        "width_hwpunit": 9034,
+        "height_hwpunit": 5654,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 41,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.886125,
+        "bbox_px": [
+          229,
+          1905,
+          410,
+          2018
+        ],
+        "bbox_normalized": [
+          0.135986,
+          0.800084,
+          0.243468,
+          0.847543
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2010-embedded_figure-006",
+      "year": 2010,
+      "label": "2010",
+      "kind": "embedded_figure",
+      "asset_number": 6,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_006.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 22,
+        "char_position": 6,
+        "anchor_list": 0,
+        "anchor_para": 169,
+        "anchor_pos": 2,
+        "width_hwpunit": 9216,
+        "height_hwpunit": 5722,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 42,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.903556,
+        "bbox_px": [
+          229,
+          1504,
+          414,
+          1619
+        ],
+        "bbox_normalized": [
+          0.135986,
+          0.631667,
+          0.245843,
+          0.679966
+        ],
+        "scale_vs_hwp_size": 1.005,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2010-embedded_figure-007",
+      "year": 2010,
+      "label": "2010",
+      "kind": "embedded_figure",
+      "asset_number": 7,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2010/2010_question_odd/image_007.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 23,
+        "char_position": 6,
+        "anchor_list": 0,
+        "anchor_para": 170,
+        "anchor_pos": 2,
+        "width_hwpunit": 9072,
+        "height_hwpunit": 5357,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 43,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.765644,
+        "bbox_px": [
+          223,
+          2046,
+          410,
+          2157
+        ],
+        "bbox_normalized": [
+          0.132423,
+          0.859303,
+          0.243468,
+          0.905922
+        ],
+        "scale_vs_hwp_size": 1.035,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-001",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        4,
+        5
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_001.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_002.png",
+      "page": 2,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 2,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 49,
+        "anchor_para": 0,
+        "anchor_pos": 2,
+        "width_hwpunit": 13783,
+        "height_hwpunit": 8593,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 35,
+        "control_name": "(A1): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.929716,
+        "bbox_px": [
+          912,
+          1277,
+          1188,
+          1449
+        ],
+        "bbox_normalized": [
+          0.541568,
+          0.536329,
+          0.705463,
+          0.608568
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-002",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        4,
+        5
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_002.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_002.png",
+      "page": 2,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 2,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 34,
+        "anchor_list": 49,
+        "anchor_para": 0,
+        "anchor_pos": 13,
+        "width_hwpunit": 13615,
+        "height_hwpunit": 8593,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 36,
+        "control_name": "(A1): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.925525,
+        "bbox_px": [
+          1219,
+          1277,
+          1491,
+          1449
+        ],
+        "bbox_normalized": [
+          0.723872,
+          0.536329,
+          0.885392,
+          0.608568
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-003",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        4,
+        5
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_003.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_002.png",
+      "page": 2,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 2,
+        "column_number": 1,
+        "line_number": 3,
+        "char_position": 3,
+        "anchor_list": 49,
+        "anchor_para": 2,
+        "anchor_pos": 2,
+        "width_hwpunit": 13615,
+        "height_hwpunit": 8482,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 37,
+        "control_name": "(A1): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.941372,
+        "bbox_px": [
+          912,
+          1499,
+          1184,
+          1669
+        ],
+        "bbox_normalized": [
+          0.541568,
+          0.629567,
+          0.703088,
+          0.700966
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-004",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        4,
+        5
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_004.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_002.png",
+      "page": 2,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 2,
+        "column_number": 1,
+        "line_number": 3,
+        "char_position": 33,
+        "anchor_list": 49,
+        "anchor_para": 2,
+        "anchor_pos": 13,
+        "width_hwpunit": 13504,
+        "height_hwpunit": 8482,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 38,
+        "control_name": "(A1): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.930592,
+        "bbox_px": [
+          1215,
+          1499,
+          1485,
+          1669
+        ],
+        "bbox_normalized": [
+          0.721496,
+          0.629567,
+          0.881829,
+          0.700966
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-005",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        21,
+        23
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_005.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_010.png",
+      "page": 10,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 10,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 1,
+        "anchor_list": 86,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 14508,
+        "height_hwpunit": 5054,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 54,
+        "control_name": "(A2): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.954073,
+        "bbox_px": [
+          193,
+          808,
+          484,
+          910
+        ],
+        "bbox_normalized": [
+          0.114608,
+          0.339353,
+          0.287411,
+          0.382192
+        ],
+        "scale_vs_hwp_size": 1.005,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-006",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 6,
+      "question_group": [
+        21,
+        23
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_006.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_010.png",
+      "page": 10,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 10,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 2,
+        "anchor_list": 87,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 14508,
+        "height_hwpunit": 7348,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 55,
+        "control_name": "(B2): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.888564,
+        "bbox_px": [
+          506,
+          785,
+          796,
+          932
+        ],
+        "bbox_normalized": [
+          0.300475,
+          0.329693,
+          0.472684,
+          0.391432
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-007",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 7,
+      "question_group": [
+        21,
+        23
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_007.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_010.png",
+      "page": 10,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 10,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 5,
+        "anchor_list": 99,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 26700,
+        "height_hwpunit": 7440,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 0,
+        "control_order": 58,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.948769,
+        "bbox_px": [
+          932,
+          1755,
+          1466,
+          1904
+        ],
+        "bbox_normalized": [
+          0.553444,
+          0.737085,
+          0.870546,
+          0.799664
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-embedded_figure-008",
+      "year": 2011,
+      "label": "2011",
+      "kind": "embedded_figure",
+      "asset_number": 8,
+      "question_group": [
+        33,
+        35
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2011/2011_question_odd/image_008.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_015.png",
+      "page": 15,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 15,
+        "column_number": 1,
+        "line_number": 31,
+        "char_position": 6,
+        "anchor_list": 0,
+        "anchor_para": 498,
+        "anchor_pos": 0,
+        "width_hwpunit": 28380,
+        "height_hwpunit": 23160,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 76,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.957916,
+        "bbox_px": [
+          221,
+          1473,
+          789,
+          1936
+        ],
+        "bbox_normalized": [
+          0.131235,
+          0.618648,
+          0.468527,
+          0.813104
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2011-data_table-023",
+      "year": 2011,
+      "label": "2011",
+      "kind": "data_table",
+      "asset_number": 23,
+      "question_group": [
+        33,
+        35
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2011/2011_question_odd/table_023.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2011/page_015.png",
+      "page": 15,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 15,
+        "column_number": 1,
+        "line_number": 6,
+        "char_position": 3,
+        "anchor_list": 127,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 29127,
+        "height_hwpunit": 18010,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 82,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2012-embedded_figure-001",
+      "year": 2012,
+      "label": "2012",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        9,
+        11
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2012/2012_question_odd/image_001.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2012/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 6,
+        "char_position": 3,
+        "anchor_list": 50,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 28500,
+        "height_hwpunit": 17220,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 32,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.960208,
+        "bbox_px": [
+          220,
+          634,
+          790,
+          978
+        ],
+        "bbox_normalized": [
+          0.130641,
+          0.266275,
+          0.469121,
+          0.410752
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2012-data_table-012",
+      "year": 2012,
+      "label": "2012",
+      "kind": "data_table",
+      "asset_number": 12,
+      "question_group": [
+        15,
+        17
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2012/2012_question_odd/table_012.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2012/page_007.png",
+      "page": 7,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 7,
+        "column_number": 1,
+        "line_number": 6,
+        "char_position": 3,
+        "anchor_list": 62,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 28934,
+        "height_hwpunit": 17980,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 35,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2012-data_table-019",
+      "year": 2012,
+      "label": "2012",
+      "kind": "data_table",
+      "asset_number": 19,
+      "question_group": [
+        30,
+        32
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2012/2012_question_odd/table_019.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2012/page_013.png",
+      "page": 13,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 13,
+        "column_number": 1,
+        "line_number": 3,
+        "char_position": 3,
+        "anchor_list": 116,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 28774,
+        "height_hwpunit": 11812,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 42,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2013-choice_table-008",
+      "year": 2013,
+      "label": "2013",
+      "kind": "choice_table",
+      "asset_number": 8,
+      "question_group": [
+        1,
+        1
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_008.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_001.png",
+      "page": 1,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 1,
+        "column_number": 1,
+        "line_number": 11,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 8,
+        "anchor_pos": 0,
+        "width_hwpunit": 19878,
+        "height_hwpunit": 11371,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 30,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2013-data_table-014",
+      "year": 2013,
+      "label": "2013",
+      "kind": "data_table",
+      "asset_number": 14,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_014.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 7,
+        "char_position": 1,
+        "anchor_list": 91,
+        "anchor_para": 3,
+        "anchor_pos": 0,
+        "width_hwpunit": 30002,
+        "height_hwpunit": 6910,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 40,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2013-embedded_figure-001",
+      "year": 2013,
+      "label": "2013",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_001.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 2,
+        "char_position": 3,
+        "anchor_list": 116,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 28380,
+        "height_hwpunit": 10380,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 43,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.93836,
+        "bbox_px": [
+          221,
+          1680,
+          789,
+          1888
+        ],
+        "bbox_normalized": [
+          0.131235,
+          0.705586,
+          0.468527,
+          0.792944
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2013-choice_table-016",
+      "year": 2013,
+      "label": "2013",
+      "kind": "choice_table",
+      "asset_number": 16,
+      "question_group": [
+        10,
+        12
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_016.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 15,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 157,
+        "anchor_pos": 0,
+        "width_hwpunit": 20588,
+        "height_hwpunit": 9996,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 0,
+        "control_order": 44,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2013-embedded_figure-002",
+      "year": 2013,
+      "label": "2013",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        19,
+        21
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_002.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_008.png",
+      "page": 8,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 8,
+        "column_number": 2,
+        "line_number": 22,
+        "char_position": 9,
+        "anchor_list": 0,
+        "anchor_para": 257,
+        "anchor_pos": 8,
+        "width_hwpunit": 16560,
+        "height_hwpunit": 14760,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 47,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.986425,
+        "bbox_px": [
+          950,
+          1143,
+          1281,
+          1438
+        ],
+        "bbox_normalized": [
+          0.564133,
+          0.48005,
+          0.760689,
+          0.603948
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2013-embedded_figure-003",
+      "year": 2013,
+      "label": "2013",
+      "kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        25,
+        27
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2013/2013_question_odd/image_003.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_010.png",
+      "page": 10,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 10,
+        "column_number": 2,
+        "line_number": 7,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 337,
+        "anchor_pos": 0,
+        "width_hwpunit": 29760,
+        "height_hwpunit": 10860,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 0,
+        "control_order": 52,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.952669,
+        "bbox_px": [
+          892,
+          557,
+          1487,
+          774
+        ],
+        "bbox_normalized": [
+          0.529691,
+          0.233935,
+          0.883017,
+          0.325073
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2013-data_table-021",
+      "year": 2013,
+      "label": "2013",
+      "kind": "data_table",
+      "asset_number": 21,
+      "question_group": [
+        25,
+        27
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_021.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_011.png",
+      "page": 11,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 11,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 2,
+        "anchor_list": 170,
+        "anchor_para": 0,
+        "anchor_pos": 8,
+        "width_hwpunit": 29350,
+        "height_hwpunit": 26264,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 55,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2013-choice_table-022",
+      "year": 2013,
+      "label": "2013",
+      "kind": "choice_table",
+      "asset_number": 22,
+      "question_group": [
+        25,
+        27
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2013/2013_question_odd/table_022.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2013/page_011.png",
+      "page": 11,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 11,
+        "column_number": 1,
+        "line_number": 27,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 362,
+        "anchor_pos": 0,
+        "width_hwpunit": 26303,
+        "height_hwpunit": 11411,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 56,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2014-embedded_figure-001",
+      "year": 2014,
+      "label": "2014",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        4,
+        7
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2014/2014_question_odd/image_001.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_002.png",
+      "page": 2,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 2,
+        "column_number": 2,
+        "line_number": 29,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 52,
+        "anchor_pos": 0,
+        "width_hwpunit": 29760,
+        "height_hwpunit": 14640,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 0,
+        "control_order": 28,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.940958,
+        "bbox_px": [
+          892,
+          1392,
+          1487,
+          1685
+        ],
+        "bbox_normalized": [
+          0.529691,
+          0.584628,
+          0.883017,
+          0.707686
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2015-data_table-008",
+      "year": 2015,
+      "label": "2015",
+      "kind": "data_table",
+      "asset_number": 8,
+      "question_group": [
+        4,
+        6
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2015/2015_question_odd/table_008.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2015/page_003.png",
+      "page": 3,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 3,
+        "column_number": 1,
+        "line_number": 4,
+        "char_position": 3,
+        "anchor_list": 40,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 28915,
+        "height_hwpunit": 12234,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 32,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2015-data_table-011",
+      "year": 2015,
+      "label": "2015",
+      "kind": "data_table",
+      "asset_number": 11,
+      "question_group": [
+        14,
+        16
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2015/2015_question_odd/table_011.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2015/page_007.png",
+      "page": 7,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 7,
+        "column_number": 1,
+        "line_number": 7,
+        "char_position": 3,
+        "anchor_list": 64,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 28914,
+        "height_hwpunit": 7800,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 37,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2015-embedded_figure-001",
+      "year": 2015,
+      "label": "2015",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        27,
+        29
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2015/2015_question_odd/image_001.tif",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2015/page_012.png",
+      "page": 12,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 12,
+        "column_number": 2,
+        "line_number": 21,
+        "char_position": 11,
+        "anchor_list": 0,
+        "anchor_para": 318,
+        "anchor_pos": 0,
+        "width_hwpunit": 22200,
+        "height_hwpunit": 17820,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 0,
+        "control_order": 46,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.895726,
+        "bbox_px": [
+          967,
+          1093,
+          1411,
+          1449
+        ],
+        "bbox_normalized": [
+          0.574228,
+          0.459051,
+          0.837886,
+          0.608568
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2016-embedded_figure-001",
+      "year": 2016,
+      "label": "2016",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        14,
+        16
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2016/page_006.png",
+      "page": 6,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 6,
+        "column_number": 1,
+        "line_number": 24,
+        "char_position": 16,
+        "anchor_list": 0,
+        "anchor_para": 164,
+        "anchor_pos": 0,
+        "width_hwpunit": 17580,
+        "height_hwpunit": 15900,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 32,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.942613,
+        "bbox_px": [
+          329,
+          1203,
+          681,
+          1521
+        ],
+        "bbox_normalized": [
+          0.195368,
+          0.50525,
+          0.404394,
+          0.638807
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2016-embedded_figure-002",
+      "year": 2016,
+      "label": "2016",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        14,
+        16
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_002.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2016/page_006.png",
+      "page": 6,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 6,
+        "column_number": 2,
+        "line_number": 8,
+        "char_position": 9,
+        "anchor_list": 0,
+        "anchor_para": 168,
+        "anchor_pos": 0,
+        "width_hwpunit": 23820,
+        "height_hwpunit": 8520,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 33,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.91544,
+        "bbox_px": [
+          952,
+          609,
+          1426,
+          778
+        ],
+        "bbox_normalized": [
+          0.565321,
+          0.255775,
+          0.846793,
+          0.326753
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2016-embedded_figure-003",
+      "year": 2016,
+      "label": "2016",
+      "kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        14,
+        16
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_003.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2016/page_006.png",
+      "page": 6,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 6,
+        "column_number": 2,
+        "line_number": 10,
+        "char_position": 9,
+        "anchor_list": 0,
+        "anchor_para": 170,
+        "anchor_pos": 0,
+        "width_hwpunit": 23820,
+        "height_hwpunit": 8520,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 34,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.89653,
+        "bbox_px": [
+          952,
+          850,
+          1426,
+          1019
+        ],
+        "bbox_normalized": [
+          0.565321,
+          0.356993,
+          0.846793,
+          0.427971
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2016-embedded_figure-004",
+      "year": 2016,
+      "label": "2016",
+      "kind": "embedded_figure",
+      "asset_number": 4,
+      "question_group": [
+        29,
+        32
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_004.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2016/page_013.png",
+      "page": 13,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 13,
+        "column_number": 2,
+        "line_number": 19,
+        "char_position": 24,
+        "anchor_list": 0,
+        "anchor_para": 348,
+        "anchor_pos": 0,
+        "width_hwpunit": 9660,
+        "height_hwpunit": 11340,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 51,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.945577,
+        "bbox_px": [
+          1103,
+          1028,
+          1295,
+          1254
+        ],
+        "bbox_normalized": [
+          0.654988,
+          0.431751,
+          0.769002,
+          0.526669
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2016-embedded_figure-005",
+      "year": 2016,
+      "label": "2016",
+      "kind": "embedded_figure",
+      "asset_number": 5,
+      "question_group": [
+        29,
+        32
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2016/2016_question_odd/image_005.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2016/page_014.png",
+      "page": 14,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 14,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 6,
+        "anchor_list": 64,
+        "anchor_para": 0,
+        "anchor_pos": 8,
+        "width_hwpunit": 25500,
+        "height_hwpunit": 5100,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 68,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.960774,
+        "bbox_px": [
+          250,
+          1398,
+          760,
+          1500
+        ],
+        "bbox_normalized": [
+          0.148456,
+          0.587148,
+          0.451306,
+          0.629987
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2016-data_table-013",
+      "year": 2016,
+      "label": "2016",
+      "kind": "data_table",
+      "asset_number": 13,
+      "question_group": [
+        29,
+        32
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2016/2016_question_odd/table_013.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2016/page_014.png",
+      "page": 14,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 14,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 70,
+        "anchor_para": 0,
+        "anchor_pos": 8,
+        "width_hwpunit": 28368,
+        "height_hwpunit": 8345,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 75,
+        "control_name": "(A3): 표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2017-embedded_figure-001",
+      "year": 2017,
+      "label": "2017",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        18,
+        20
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2017/page_010.png",
+      "page": 10,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 10,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 1,
+        "anchor_list": 72,
+        "anchor_para": 0,
+        "anchor_pos": 8,
+        "width_hwpunit": 15000,
+        "height_hwpunit": 10500,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 44,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.871862,
+        "bbox_px": [
+          202,
+          456,
+          501,
+          665
+        ],
+        "bbox_normalized": [
+          0.119952,
+          0.191516,
+          0.297506,
+          0.279294
+        ],
+        "scale_vs_hwp_size": 0.995,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2017-embedded_figure-002",
+      "year": 2017,
+      "label": "2017",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        18,
+        20
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_002.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2017/page_010.png",
+      "page": 10,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 10,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 1,
+        "anchor_list": 73,
+        "anchor_para": 0,
+        "anchor_pos": 0,
+        "width_hwpunit": 15000,
+        "height_hwpunit": 10500,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 45,
+        "control_name": "(C3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.888809,
+        "bbox_px": [
+          509,
+          455,
+          809,
+          665
+        ],
+        "bbox_normalized": [
+          0.302257,
+          0.191096,
+          0.480404,
+          0.279294
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2017-embedded_figure-003",
+      "year": 2017,
+      "label": "2017",
+      "kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        30,
+        32
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2017/2017_question_odd/image_003.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2017/page_014.png",
+      "page": 14,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 14,
+        "column_number": 2,
+        "line_number": 15,
+        "char_position": 15,
+        "anchor_list": 0,
+        "anchor_para": 422,
+        "anchor_pos": 0,
+        "width_hwpunit": 18720,
+        "height_hwpunit": 20400,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 53,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.868026,
+        "bbox_px": [
+          1012,
+          845,
+          1386,
+          1253
+        ],
+        "bbox_normalized": [
+          0.60095,
+          0.354893,
+          0.82304,
+          0.526249
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2018-embedded_figure-001",
+      "year": 2018,
+      "label": "2018",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        7,
+        9
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2018/2018_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2018/page_004.png",
+      "page": 4,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 4,
+        "column_number": 1,
+        "line_number": 11,
+        "char_position": 26,
+        "anchor_list": 0,
+        "anchor_para": 70,
+        "anchor_pos": 0,
+        "width_hwpunit": 7080,
+        "height_hwpunit": 2820,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 34,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.893378,
+        "bbox_px": [
+          424,
+          691,
+          567,
+          748
+        ],
+        "bbox_normalized": [
+          0.251781,
+          0.290214,
+          0.336698,
+          0.314154
+        ],
+        "scale_vs_hwp_size": 1.01,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2018-embedded_figure-002",
+      "year": 2018,
+      "label": "2018",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        7,
+        9
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2018/2018_question_odd/image_002.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2018/page_004.png",
+      "page": 4,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 4,
+        "column_number": 2,
+        "line_number": 1,
+        "char_position": 3,
+        "anchor_list": 0,
+        "anchor_para": 77,
+        "anchor_pos": 0,
+        "width_hwpunit": 29760,
+        "height_hwpunit": 13320,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 35,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.886135,
+        "bbox_px": [
+          892,
+          315,
+          1487,
+          581
+        ],
+        "bbox_normalized": [
+          0.529691,
+          0.132297,
+          0.883017,
+          0.244015
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2018-data_table-013",
+      "year": 2018,
+      "label": "2018",
+      "kind": "data_table",
+      "asset_number": 13,
+      "question_group": [
+        22,
+        25
+      ],
+      "asset_file": "자료/LEET_언어이해/표/2018/2018_question_odd/table_013.md",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2018/page_011.png",
+      "page": 11,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 11,
+        "column_number": 1,
+        "line_number": 39,
+        "char_position": 5,
+        "anchor_list": 0,
+        "anchor_para": 268,
+        "anchor_pos": 0,
+        "width_hwpunit": 28354,
+        "height_hwpunit": 10467,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 50,
+        "control_name": "표"
+      },
+      "mapping_basis": "same_ordinal_table_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "not_required",
+        "reason": "table position is represented by the exact HWP anchor; the Markdown table is semantic, not a raster template"
+      }
+    },
+    {
+      "visual_id": "leet-2019-embedded_figure-001",
+      "year": 2019,
+      "label": "2019",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        7,
+        9
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2019/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 4,
+        "char_position": 2,
+        "anchor_list": 52,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 14160,
+        "height_hwpunit": 14160,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 36,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.981514,
+        "bbox_px": [
+          211,
+          523,
+          495,
+          807
+        ],
+        "bbox_normalized": [
+          0.125297,
+          0.219656,
+          0.293943,
+          0.338933
+        ],
+        "scale_vs_hwp_size": 1.005,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2019-embedded_figure-002",
+      "year": 2019,
+      "label": "2019",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        7,
+        9
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_002.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2019/page_005.png",
+      "page": 5,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 5,
+        "column_number": 1,
+        "line_number": 4,
+        "char_position": 33,
+        "anchor_list": 52,
+        "anchor_para": 1,
+        "anchor_pos": 10,
+        "width_hwpunit": 14160,
+        "height_hwpunit": 14160,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 37,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.980576,
+        "bbox_px": [
+          516,
+          523,
+          799,
+          806
+        ],
+        "bbox_normalized": [
+          0.306413,
+          0.219656,
+          0.474466,
+          0.338513
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2019-embedded_figure-003",
+      "year": 2019,
+      "label": "2019",
+      "kind": "embedded_figure",
+      "asset_number": 3,
+      "question_group": [
+        22,
+        24
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2019/2019_question_odd/image_003.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2019/page_012.png",
+      "page": 12,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 12,
+        "column_number": 1,
+        "line_number": 2,
+        "char_position": 2,
+        "anchor_list": 96,
+        "anchor_para": 1,
+        "anchor_pos": 0,
+        "width_hwpunit": 29760,
+        "height_hwpunit": 23219,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 56,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.843432,
+        "bbox_px": [
+          902,
+          488,
+          1497,
+          952
+        ],
+        "bbox_normalized": [
+          0.535629,
+          0.204956,
+          0.888955,
+          0.399832
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2020-embedded_figure-001",
+      "year": 2020,
+      "label": "2020",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        25,
+        27
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2020/2020_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2020/page_013.png",
+      "page": 13,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 13,
+        "column_number": 2,
+        "line_number": 1,
+        "char_position": 12,
+        "anchor_list": 0,
+        "anchor_para": 310,
+        "anchor_pos": 5,
+        "width_hwpunit": 23820,
+        "height_hwpunit": 13860,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 55,
+        "control_name": "그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.896609,
+        "bbox_px": [
+          977,
+          325,
+          1453,
+          602
+        ],
+        "bbox_normalized": [
+          0.580166,
+          0.136497,
+          0.862827,
+          0.252835
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2020-embedded_figure-002",
+      "year": 2020,
+      "label": "2020",
+      "kind": "embedded_figure",
+      "asset_number": 2,
+      "question_group": [
+        25,
+        27
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2020/2020_question_odd/image_002.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2020/page_014.png",
+      "page": 14,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 14,
+        "column_number": 1,
+        "line_number": 1,
+        "char_position": 2,
+        "anchor_list": 84,
+        "anchor_para": 0,
+        "anchor_pos": 8,
+        "width_hwpunit": 29760,
+        "height_hwpunit": 11340,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 2,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 60,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.878892,
+        "bbox_px": [
+          207,
+          1130,
+          802,
+          1357
+        ],
+        "bbox_normalized": [
+          0.122922,
+          0.474591,
+          0.476247,
+          0.569929
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    },
+    {
+      "visual_id": "leet-2021-embedded_figure-001",
+      "year": 2021,
+      "label": "2021",
+      "kind": "embedded_figure",
+      "asset_number": 1,
+      "question_group": [
+        22,
+        24
+      ],
+      "asset_file": "자료/LEET_언어이해/이미지/2021/2021_question_odd/image_001.jpg",
+      "page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2021/page_012.png",
+      "page": 12,
+      "anchor_coordinate": {
+        "section_number": 1,
+        "printed_page": 12,
+        "column_number": 1,
+        "line_number": 9,
+        "char_position": 5,
+        "anchor_list": 98,
+        "anchor_para": 2,
+        "anchor_pos": 0,
+        "width_hwpunit": 26640,
+        "height_hwpunit": 19860,
+        "horizontal_offset_hwpunit": 0,
+        "vertical_offset_hwpunit": 0,
+        "horizontal_relative_to": 3,
+        "vertical_relative_to": 2,
+        "treat_as_character": 1,
+        "text_wrap": 1,
+        "control_order": 64,
+        "control_name": "(A3): 그림"
+      },
+      "mapping_basis": "nth_picture_control_in_hwp_control_stream",
+      "mapping_confidence": "exact_hwp_anchor",
+      "pixel_verification": {
+        "status": "confirmed",
+        "score": 0.860105,
+        "bbox_px": [
+          933,
+          689,
+          1466,
+          1086
+        ],
+        "bbox_normalized": [
+          0.554038,
+          0.289374,
+          0.870546,
+          0.456111
+        ],
+        "scale_vs_hwp_size": 1.0,
+        "page_size_px": [
+          1684,
+          2381
+        ]
+      }
+    }
+  ],
+  "errors": []
+}

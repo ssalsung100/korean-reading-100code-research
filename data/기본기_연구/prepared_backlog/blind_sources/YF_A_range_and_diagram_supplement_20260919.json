@@ -1,0 +1,33 @@
+{
+  "blind_only": true,
+  "passage_group": "G153",
+  "case_id": "YF",
+  "source_role": "mechanical_canonical_source_and_figure_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "source_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 3210,
+    "A_end_marker_paragraph_index": 3213,
+    "diagram_question_paragraph_index": 3236,
+    "diagram_paragraph_index": 3237,
+    "canonical_binary_ref": "image9",
+    "diagram_file": "data/기본기_연구/prepared_backlog/blind_sources/YF_G153_diagram_image9.png",
+    "diagram_sha256": "b26800cfeb35aeea1cb0d793aa8c47ff2afc16e063d6296933b7244ce633fd6d"
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_observation": "paragraph 3210 첫머리에 [A] 표지가 붙어 있다.",
+    "start_text_verbatim": "읽기 요소들 중 어휘력 발달에 관한 연구들에서는, 학년이 올라감에 따라 ㉠ 어휘력이 높은 학생들과 ㉡ 어휘력이 낮은 학생들 간의 어휘력 격차가 점점 더 커짐이 보고되었다.",
+    "end_text_verbatim": "반대로, 어휘력이 부족하면 읽는 양도 적어지고 어휘 습득의 기회도 줄어 다시 어휘력이 상대적으로 부족하게 됨으로써, 나중에는 커져 버린 격차를 극복하는 데에 많은 노력이 필요하게 된다.",
+    "end_marker_context": "paragraph 3210의 마지막 문장 뒤에 빈 paragraph 3211·3212가 있고, paragraph 3213에 단독 [A] 표지가 있다.",
+    "range_statement": "[A]는 paragraph 3210의 첫머리 표지부터 해당 단락 마지막 문장까지이며, paragraph 3213의 단독 [A]는 문제에서 다시 참조하는 표지이다."
+  },
+  "diagram_mechanical_observation": {
+    "image_mapping": "canonical binary image9를 원본 PNG로 추출했다.",
+    "visible_labels": ["㉠", "㉡", "학년", "어휘력"],
+    "figure_note": "도식의 선과 축, ㉠·㉡ 표시를 원본 이미지로 보존했으며 의미 해석은 하지 않는다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "도식 원본과 [A] 경계 문장·anchor만 canonical에서 기계적으로 복원했다."
+}

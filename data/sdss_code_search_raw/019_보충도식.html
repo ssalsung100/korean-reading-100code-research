@@ -1,0 +1,1550 @@
+
+<!DOCTYPE html>
+<html lang='ko'>
+<head>
+    <meta charset='UTF-8'>
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
+    <link rel='icon' type='image/x-icon' href='favicon.ico'>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <title>검색 결과 - sdss.kr</title>
+    <style>
+        /* ===== CSS 변수 (라이트 모드 - 빔프로젝터 최적화) ===== */
+        :root {
+            --bg-primary: #ffffff;
+            --bg-card: #ffffff;
+            --text-primary: #000000;
+            --text-secondary: #333333;
+            --text-muted: #555555;
+            --border-color: #999999;
+            --border-light: #cccccc;
+            --accent: #0044cc;
+            --accent-hover: #002288;
+            --accent-light: #e8f0fe;
+            --accent-gradient: linear-gradient(135deg, #0044cc, #0033aa);
+            --table-header-bg: #1a1a1a;
+            --table-header-text: #ffffff;
+            --table-row-hover: #e8e8e8;
+            --table-row-alt: #f2f2f2;
+            --correct-bg: #b6f2b6;
+            --correct-text: #005500;
+            --correct-border: #00aa00;
+            --error-bg: #ffe0e0;
+            --error-text: #880000;
+            --error-border: #cc0000;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.12);
+            --shadow-md: 0 4px 8px rgba(0,0,0,0.15);
+            --shadow-lg: 0 8px 20px rgba(0,0,0,0.2);
+            --radius: 10px;
+            --radius-sm: 6px;
+            --tag-bg: #e0e0e0;
+            --tag-text: #222222;
+            --footer-bg: #f0f0f0;
+            --footer-text: #666666;
+            --badge-bg: #d0e4ff;
+            --badge-text: #003399;
+        }
+
+        /* ===== 다크 모드 (빔프로젝터 최적화) ===== */
+        [data-theme="dark"] {
+            --bg-primary: #0a0a0a;
+            --bg-card: #141414;
+            --text-primary: #ffffff;
+            --text-secondary: #cccccc;
+            --text-muted: #999999;
+            --border-color: #555555;
+            --border-light: #333333;
+            --accent: #66aaff;
+            --accent-hover: #99ccff;
+            --accent-light: #1a2d4a;
+            --accent-gradient: linear-gradient(135deg, #66aaff, #88bbff);
+            --table-header-bg: #222222;
+            --table-header-text: #ffffff;
+            --table-row-hover: #2a2a2a;
+            --table-row-alt: #1a1a1a;
+            --correct-bg: #0a3d0a;
+            --correct-text: #66ff66;
+            --correct-border: #33cc33;
+            --error-bg: #3d0a0a;
+            --error-text: #ff8888;
+            --error-border: #cc3333;
+            --shadow-sm: 0 1px 3px rgba(0,0,0,0.5);
+            --shadow-md: 0 4px 8px rgba(0,0,0,0.6);
+            --shadow-lg: 0 8px 20px rgba(0,0,0,0.7);
+            --tag-bg: #333333;
+            --tag-text: #eeeeee;
+            --footer-bg: #141414;
+            --footer-text: #888888;
+            --badge-bg: #1a2d4a;
+            --badge-text: #88ccff;
+        }
+
+        /* ===== 글로벌 리셋 ===== */
+        *, *::before, *::after {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            font-family: 'Inter', 'Malgun Gothic', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            line-height: 1.6;
+            transition: background-color 0.3s ease, color 0.3s ease;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* ===== 다크모드 토글 ===== */
+        .theme-toggle {
+            position: fixed;
+            top: 24px;
+            right: 24px;
+            z-index: 1000;
+            width: 48px;
+            height: 48px;
+            background: var(--bg-card);
+            border: 1px solid var(--border-color);
+            cursor: pointer;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease;
+            box-shadow: var(--shadow-md);
+        }
+        .theme-toggle:hover {
+            transform: scale(1.08);
+            box-shadow: var(--shadow-lg);
+        }
+        .theme-toggle svg {
+            width: 22px;
+            height: 22px;
+            fill: var(--text-primary);
+            display: block;
+        }
+
+        /* ===== 컨테이너 ===== */
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 32px 24px 48px;
+        }
+
+        /* ===== 사이트 로고 ===== */
+        .site-logo {
+            text-align: center;
+            margin-bottom: 12px;
+        }
+        .site-logo a {
+            font-size: 3.2em;
+            font-weight: 900;
+            background: var(--accent-gradient);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            text-decoration: none;
+            letter-spacing: -1px;
+            transition: opacity 0.2s ease;
+        }
+        .site-logo a:hover {
+            opacity: 0.8;
+        }
+
+        /* ===== 검색 헤더 ===== */
+        .search-header {
+            text-align: center;
+            margin-bottom: 28px;
+        }
+        .search-header h1 {
+            font-size: 1.8em;
+            font-weight: 900;
+            color: var(--text-primary);
+            margin-bottom: 8px;
+        }
+        .search-meta {
+            display: inline-flex;
+            align-items: center;
+            gap: 16px;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+        .meta-badge {
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            background: var(--badge-bg);
+            color: var(--badge-text);
+            padding: 6px 16px;
+            border-radius: 20px;
+            font-size: 1em;
+            font-weight: 700;
+        }
+        .meta-badge svg {
+            width: 14px;
+            height: 14px;
+            fill: currentColor;
+        }
+        .meta-hint {
+            color: var(--text-muted);
+            font-size: 0.95em;
+            font-weight: 600;
+        }
+
+        /* ===== 테이블 카드 ===== */
+        .table-card {
+            background: var(--bg-card);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow-md);
+            overflow: hidden;
+            border: 2px solid var(--border-color);
+        }
+        .table-scroll {
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        /* ===== 테이블 ===== */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 1.05em;
+        }
+        thead th {
+            background-color: var(--table-header-bg);
+            color: var(--table-header-text);
+            padding: 16px 14px;
+            text-align: center;
+            font-weight: 800;
+            font-size: 1em;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            border-bottom: 3px solid var(--border-color);
+            border-right: 1px solid rgba(255,255,255,0.15);
+            white-space: nowrap;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        thead th:last-child {
+            border-right: none;
+        }
+        /* 정답률 헤더 강조 */
+        thead th.col-rate {
+            font-size: 1.25em;
+            letter-spacing: 0;
+            text-transform: none;
+        }
+        /* 선택지 헤더 강조 */
+        thead th.col-option {
+            font-size: 1.25em;
+            letter-spacing: 0;
+            text-transform: none;
+        }
+        tbody td {
+            padding: 14px 12px;
+            text-align: center;
+            border-bottom: 2px solid var(--border-light);
+            border-right: 1px solid var(--border-light);
+            font-weight: 600;
+            color: var(--text-primary);
+            white-space: nowrap;
+        }
+        tbody td:last-child {
+            border-right: none;
+        }
+        /* 지문 제목은 줄바꿈 허용 */
+        tbody td.col-title {
+            white-space: normal;
+            text-align: left;
+            max-width: 260px;
+            font-weight: 700;
+        }
+        /* 코드 칼럼 */
+        tbody td.col-code {
+            white-space: normal;
+            max-width: 220px;
+        }
+        tbody tr {
+            transition: background-color 0.15s ease;
+        }
+        tbody tr:nth-child(even) {
+            background-color: var(--table-row-alt);
+        }
+        tbody tr:hover {
+            background-color: var(--table-row-hover);
+        }
+
+        /* 정답 셀 */
+        .correct-answer-cell {
+            background-color: var(--correct-bg) !important;
+            color: var(--correct-text) !important;
+            font-weight: 900 !important;
+            border-left: 4px solid var(--correct-border);
+        }
+
+        /* 정답률 컬럼 */
+        td.col-rate {
+            font-weight: 900;
+            font-size: 1.5em;
+        }
+
+        /* 선택지 컬럼 */
+        td.col-option {
+            font-size: 1.3em;
+            font-weight: 800;
+        }
+
+        /* ===== 링크 스타일 ===== */
+        .clickable-link {
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 700;
+            transition: color 0.15s ease;
+        }
+        .clickable-link:hover {
+            color: var(--accent-hover);
+            text-decoration: underline;
+        }
+
+        /* 코드 태그 스타일 */
+        .code-tag {
+            display: inline-block;
+            background: var(--tag-bg);
+            color: var(--tag-text);
+            padding: 5px 14px;
+            border-radius: 6px;
+            font-size: 1.05em;
+            font-weight: 800;
+            margin: 3px;
+            border: 1px solid var(--border-color);
+            transition: background 0.15s ease;
+            text-decoration: none;
+        }
+        .code-tag:hover {
+            background: var(--accent-light);
+            color: var(--accent);
+        }
+
+        /* ===== 에러 ===== */
+        .error-card {
+            background: var(--error-bg);
+            color: var(--error-text);
+            border: 1px solid var(--error-border);
+            padding: 40px 24px;
+            border-radius: var(--radius);
+            text-align: center;
+            font-weight: 600;
+            font-size: 1em;
+        }
+
+        /* ===== 하단 버튼 ===== */
+        .actions {
+            text-align: center;
+            margin-top: 32px;
+        }
+        .btn-back {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--accent-gradient);
+            color: #fff;
+            padding: 14px 32px;
+            border-radius: var(--radius-sm);
+            text-decoration: none;
+            font-weight: 800;
+            font-size: 1.1em;
+            transition: transform 0.15s ease, box-shadow 0.15s ease;
+            box-shadow: var(--shadow-sm);
+        }
+        .btn-back:hover {
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-md);
+        }
+        .btn-back svg {
+            width: 18px;
+            height: 18px;
+            fill: currentColor;
+        }
+
+        /* ===== 푸터 ===== */
+        .footer {
+            text-align: center;
+            padding: 24px;
+            margin-top: 48px;
+            color: var(--footer-text);
+            font-size: 0.82em;
+            border-top: 1px solid var(--border-color);
+        }
+
+        /* ===== 반응형 ===== */
+        @media (max-width: 768px) {
+            .container {
+                padding: 20px 12px 36px;
+            }
+            .site-logo a {
+                font-size: 2em;
+            }
+            .search-header h1 {
+                font-size: 1.2em;
+            }
+            table {
+                font-size: 0.82em;
+            }
+            thead th {
+                padding: 10px 8px;
+            }
+            tbody td {
+                padding: 10px 8px;
+            }
+            .theme-toggle {
+                top: 16px;
+                right: 16px;
+                width: 42px;
+                height: 42px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- 다크 모드 토글 -->
+    <button class="theme-toggle" id="themeToggle" aria-label="테마 전환">
+        <svg class="sun-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M12 18c-3.3 0-6-2.7-6-6s2.7-6 6-6 6 2.7 6 6-2.7 6-6 6zm0-10c-2.2 0-4 1.8-4 4s1.8 4 4 4 4-1.8 4-4-1.8-4-4-4zM13 2h-2v3h2V2zm0 17h-2v3h2v-3zM5 11H2v2h3v-2zm17 0h-3v2h3v-2zM6.3 4.9L4.9 6.3l2.1 2.1 1.4-1.4-2.1-2.1zm12.7 12.7l-1.4 1.4 2.1 2.1 1.4-1.4-2.1-2.1zM19.1 6.3l-2.1 2.1 1.4 1.4 2.1-2.1-1.4-1.4zM6.3 19.1l2.1-2.1-1.4-1.4-2.1 2.1 1.4 1.4z"/>
+        </svg>
+        <svg class="moon-icon" style="display: none;" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M12 3c-4.97 0-9 4.03-9 9s4.03 9 9 9 9-4.03 9-9c0-.46-.04-.92-.1-1.36-.98 1.37-2.58 2.26-4.4 2.26-2.98 0-5.4-2.42-5.4-5.4 0-1.81.89-3.42 2.26-4.4-.44-.06-.9-.1-1.36-.1z"/>
+        </svg>
+    </button>
+
+    <div class='container'>
+        <!-- 사이트 로고 -->
+        <div class="site-logo">
+            <a href="index.html">sdss.kr</a>
+        </div>
+
+        
+
+        <!-- 검색 헤더 -->
+        <div class="search-header">
+            <h1>코드 검색 결과: 보충도식</h1>
+            <div class="search-meta">
+                
+                <span class="meta-badge">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.5 14h-.79l-.28-.27A6.471 6.471 0 0 0 16 9.5 6.5 6.5 0 1 0 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"/></svg>
+                    총 69건
+                </span>
+                
+                <span class="meta-hint">정답률은 추정치입니다 &middot; 모바일은 가로모드 추천</span>
+            </div>
+        </div>
+
+        
+        <!-- 테이블 -->
+        <div class="table-card">
+            <div class="table-scroll">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>학년도</th>
+                            <th>시험 종류</th>
+                            <th>문항</th>
+                            <th>지문 제목</th>
+                            <th>코드</th>
+                            <th>영역</th>
+                            <th class="col-rate">정답률</th>
+                            <th class="col-option">&#9312;</th>
+                            <th class="col-option">&#9313;</th>
+                            <th class="col-option">&#9314;</th>
+                            <th class="col-option">&#9315;</th>
+                            <th class="col-option">&#9316;</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+<tr>
+    <td><strong>2026</strong></td>
+    <td><a href="search.asp?ExamSearch=2026+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>10</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B3%BC%EA%B1%B0%EC%A0%9C%EC%99%80+%ED%98%84%EB%9F%89%EA%B3%BC" class="clickable-link">&#44284;&#44144;&#51228;&#50752; &#54788;&#47049;&#44284;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50669;&#49324;&#54617;</td>
+    <td class="col-rate">48%</td>
+    <td class="col-option correct-answer-cell">48%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">25%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">16%</td>
+</tr>
+
+<tr>
+    <td><strong>2026</strong></td>
+    <td><a href="search.asp?ExamSearch=2026+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>12</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B3%BC%EA%B1%B0%EC%A0%9C%EC%99%80+%ED%98%84%EB%9F%89%EA%B3%BC" class="clickable-link">&#44284;&#44144;&#51228;&#50752; &#54788;&#47049;&#44284;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50669;&#49324;&#54617;</td>
+    <td class="col-rate">56%</td>
+    <td class="col-option correct-answer-cell">56%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">34%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">4%</td>
+</tr>
+
+<tr>
+    <td><strong>2026</strong></td>
+    <td><a href="search.asp?ExamSearch=2026+%EC%88%98%EB%8A%A5" class="clickable-link">&#49688;&#45733;&#44397;&#50612;</a></td>
+    <td>17</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%9D%B8%EA%B2%A9%EC%9D%98+%EB%8F%99%EC%9D%BC%EC%84%B1" class="clickable-link">&#51064;&#44201;&#51032; &#46041;&#51068;&#49457;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EC%A1%B0%EA%B1%B4%EB%AC%B8' class='code-tag'>&#51312;&#44148;&#47928;</a><a href='search.asp?CodeName=%EC%9D%B4%ED%95%AD%EB%8C%80%EB%A6%BD' class='code-tag'>&#51060;&#54637;&#45824;&#47549;</a></td>
+    <td>&#52384;&#54617;</td>
+    <td class="col-rate">39%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">15%</td>
+    <td class="col-option correct-answer-cell">39%</td>
+    <td class="col-option">25%</td>
+    <td class="col-option">10%</td>
+</tr>
+
+<tr>
+    <td><strong>2025</strong></td>
+    <td><a href="search.asp?ExamSearch=2025+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>14</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%91%90+%EC%88%98%EC%A4%80+%EA%B3%B5%EB%A6%AC%EC%A3%BC%EC%9D%98+%EC%9D%B4%EB%A1%A0" class="clickable-link">&#46160; &#49688;&#51456; &#44277;&#47532;&#51452;&#51032; &#51060;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%ED%97%88%EC%88%98%EC%95%84%EB%B9%84' class='code-tag'>&#54728;&#49688;&#50500;&#48708;</a></td>
+    <td>&#50980;&#47532;&#54617;</td>
+    <td class="col-rate">37%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">40%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option correct-answer-cell">37%</td>
+</tr>
+
+<tr>
+    <td><strong>2025</strong></td>
+    <td><a href="search.asp?ExamSearch=2025+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>29</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%9D%AC%EA%B3%A1%EC%9D%98+%EB%AC%B4%EB%8C%80%ED%99%94+%EA%B3%BC%EC%A0%95" class="clickable-link">&#55148;&#44257;&#51032; &#47924;&#45824;&#54868; &#44284;&#51221;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48120;&#54617;</td>
+    <td class="col-rate">77%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option correct-answer-cell">77%</td>
+    <td class="col-option">3%</td>
+</tr>
+
+<tr>
+    <td><strong>2025</strong></td>
+    <td><a href="search.asp?ExamSearch=2025+%EC%88%98%EB%8A%A5" class="clickable-link">&#49688;&#45733;&#44397;&#50612;</a></td>
+    <td>8</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B0%9C%ED%99%94%EC%97%90+%EB%8C%80%ED%95%9C+%EC%9E%85%EC%9E%A5" class="clickable-link">&#44060;&#54868;&#50640; &#45824;&#54620; &#51077;&#51109;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EC%82%BC%EB%8B%A8%EB%85%BC%EB%B2%95' class='code-tag'>&#49340;&#45800;&#45436;&#48277;</a></td>
+    <td>&#51064;&#47928;</td>
+    <td class="col-rate">21%</td>
+    <td class="col-option correct-answer-cell">21%</td>
+    <td class="col-option">25%</td>
+    <td class="col-option">15%</td>
+    <td class="col-option">25%</td>
+    <td class="col-option">11%</td>
+</tr>
+
+<tr>
+    <td><strong>2024</strong></td>
+    <td><a href="search.asp?ExamSearch=2024+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>14</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%82%AC%ED%9A%8C%EC%A0%81+%EA%B0%80%EC%B9%98%EC%99%80+%EC%82%AC%ED%9A%8C+%EC%84%B1%EA%B3%BC" class="clickable-link">&#49324;&#54924;&#51201; &#44032;&#52824;&#50752; &#49324;&#54924; &#49457;&#44284;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#49324;&#54924;&#54617;</td>
+    <td class="col-rate">73%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">12%</td>
+    <td class="col-option correct-answer-cell">73%</td>
+    <td class="col-option">3%</td>
+</tr>
+
+<tr>
+    <td><strong>2024</strong></td>
+    <td><a href="search.asp?ExamSearch=2024+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>26</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%8B%B9%EC%9C%84+%EB%AA%85%EC%A0%9C%EC%99%80+%EC%A1%B4%EC%9E%AC+%EB%AA%85%EC%A0%9C" class="clickable-link">&#45817;&#50948; &#47749;&#51228;&#50752; &#51316;&#51116; &#47749;&#51228;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#52384;&#54617;</td>
+    <td class="col-rate">71%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option correct-answer-cell">71%</td>
+    <td class="col-option">4%</td>
+</tr>
+
+<tr>
+    <td><strong>2024</strong></td>
+    <td><a href="search.asp?ExamSearch=2024+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>27</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%8B%B9%EC%9C%84+%EB%AA%85%EC%A0%9C%EC%99%80+%EC%A1%B4%EC%9E%AC+%EB%AA%85%EC%A0%9C" class="clickable-link">&#45817;&#50948; &#47749;&#51228;&#50752; &#51316;&#51116; &#47749;&#51228;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#52384;&#54617;</td>
+    <td class="col-rate">41%</td>
+    <td class="col-option correct-answer-cell">41%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">34%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">7%</td>
+</tr>
+
+<tr>
+    <td><strong>2024</strong></td>
+    <td><a href="search.asp?ExamSearch=2024+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>28</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%9E%90%EB%85%80%EC%9D%98+%EA%B5%AD%EC%A0%9C%EC%A0%81+%EC%9D%B4%EB%8F%99" class="clickable-link">&#51088;&#45376;&#51032; &#44397;&#51228;&#51201; &#51060;&#46041;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#49324;&#54617;</td>
+    <td class="col-rate">79%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option correct-answer-cell">79%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">2%</td>
+</tr>
+
+<tr>
+    <td><strong>2023</strong></td>
+    <td><a href="search.asp?ExamSearch=2023+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>12</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%AF%B8%EA%B5%AD+%EC%97%AD%EC%82%AC%ED%95%99%EC%9D%98+%EC%A0%84%EA%B0%9C" class="clickable-link">&#48120;&#44397; &#50669;&#49324;&#54617;&#51032; &#51204;&#44060;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50669;&#49324;&#54617;</td>
+    <td class="col-rate">49%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option correct-answer-cell">49%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">37%</td>
+</tr>
+
+<tr>
+    <td><strong>2023</strong></td>
+    <td><a href="search.asp?ExamSearch=2023+6%ED%8F%89" class="clickable-link">6&#54217;&#44397;&#50612;</a></td>
+    <td>11</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B9%84%ED%83%80%EB%AF%BC+K" class="clickable-link">&#48708;&#53440;&#48124; K</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EB%B6%80%EB%B6%84%EA%B4%80%EA%B3%84' class='code-tag'>&#48512;&#48516;&#44288;&#44228;</a></td>
+    <td>&#49373;&#47932;&#54617;</td>
+    <td class="col-rate">44%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option correct-answer-cell">44%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">29%</td>
+    <td class="col-option">14%</td>
+</tr>
+
+<tr>
+    <td><strong>2022</strong></td>
+    <td><a href="search.asp?ExamSearch=2022+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>8</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%86%8C%EC%84%A4%EC%9D%98+%ED%99%94%EC%9E%90" class="clickable-link">&#49548;&#49444;&#51032; &#54868;&#51088;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#47928;&#54617;</td>
+    <td class="col-rate">59%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option correct-answer-cell">59%</td>
+    <td class="col-option">14%</td>
+</tr>
+
+<tr>
+    <td><strong>2022</strong></td>
+    <td><a href="search.asp?ExamSearch=2022+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>14</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%8C%8C%EC%8B%9C%EC%A6%98%EC%9D%98+%EB%85%BC%EC%A0%90" class="clickable-link">&#54028;&#49884;&#51608;&#51032; &#45436;&#51216;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51221;&#52824;&#54617;</td>
+    <td class="col-rate">51%</td>
+    <td class="col-option correct-answer-cell">51%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">29%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">3%</td>
+</tr>
+
+<tr>
+    <td><strong>2022</strong></td>
+    <td><a href="search.asp?ExamSearch=2022+%EC%88%98%EB%8A%A5" class="clickable-link">&#49688;&#45733;&#44397;&#50612;</a></td>
+    <td>8</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%97%A4%EA%B2%94%EC%9D%98+%EB%AF%B8%ED%95%99" class="clickable-link">&#54756;&#44180;&#51032; &#48120;&#54617;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51064;&#47928;</td>
+    <td class="col-rate">32%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option correct-answer-cell">31%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option">32%</td>
+    <td class="col-option">12%</td>
+</tr>
+
+<tr>
+    <td><strong>2021</strong></td>
+    <td><a href="search.asp?ExamSearch=2021+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>6</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B3%A0%EC%A7%84%EC%9D%98+%ED%92%8D%EA%B2%BD%EB%A1%A0" class="clickable-link">&#44256;&#51652;&#51032; &#54413;&#44221;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EA%B5%90%EC%B0%A8%EA%B4%80%EA%B3%84' class='code-tag'>&#44368;&#52264;&#44288;&#44228;</a></td>
+    <td>&#47928;&#54617;</td>
+    <td class="col-rate">46%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option correct-answer-cell">46%</td>
+    <td class="col-option">15%</td>
+    <td class="col-option">22%</td>
+</tr>
+
+<tr>
+    <td><strong>2021</strong></td>
+    <td><a href="search.asp?ExamSearch=2021+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>7</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%8F%89%EB%93%B1%EC%97%90+%EB%8C%80%ED%95%9C+%EC%8B%9C%EA%B0%81" class="clickable-link">&#54217;&#46321;&#50640; &#45824;&#54620; &#49884;&#44033;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50980;&#47532;&#54617;</td>
+    <td class="col-rate">87%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option correct-answer-cell">87%</td>
+    <td class="col-option">1%</td>
+</tr>
+
+<tr>
+    <td><strong>2021</strong></td>
+    <td><a href="search.asp?ExamSearch=2021+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>12</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%9C%A4%EA%B8%B0%EC%9D%98+%3C%EB%85%BC%ED%98%95%EB%B2%95%3E" class="clickable-link">&#50980;&#44592;&#51032; &lt;&#45436;&#54805;&#48277;&gt;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#49324;&#54617;</td>
+    <td class="col-rate">37%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">18%</td>
+    <td class="col-option">32%</td>
+    <td class="col-option correct-answer-cell">37%</td>
+</tr>
+
+<tr>
+    <td><strong>2021</strong></td>
+    <td><a href="search.asp?ExamSearch=2021+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>28</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B2%95%EB%A5%A0+%EB%AC%B8%EC%96%B8+%ED%95%B4%EC%84%9D" class="clickable-link">&#48277;&#47456; &#47928;&#50616; &#54644;&#49437;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EB%B3%B5%EC%88%98%EC%8B%A4%ED%98%84' class='code-tag'>&#48373;&#49688;&#49892;&#54788;</a></td>
+    <td>&#48277;&#52384;&#54617;</td>
+    <td class="col-rate">36%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option correct-answer-cell">36%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">35%</td>
+    <td class="col-option">13%</td>
+</tr>
+
+<tr>
+    <td><strong>2019</strong></td>
+    <td><a href="search.asp?ExamSearch=2019+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>2</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B2%95%EC%9D%98+%EB%B3%B8%EC%A7%88" class="clickable-link">&#48277;&#51032; &#48376;&#51656;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#52384;&#54617;</td>
+    <td class="col-rate">78%</td>
+    <td class="col-option correct-answer-cell">78%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">3%</td>
+</tr>
+
+<tr>
+    <td><strong>2019</strong></td>
+    <td><a href="search.asp?ExamSearch=2019+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>19</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%92%A4%EC%A7%91%ED%9E%8C+%EA%B0%90%EA%B0%81%EC%A7%88+%EC%82%AC%EA%B3%A0+%EC%8B%A4%ED%97%98" class="clickable-link">&#46244;&#51665;&#55180; &#44048;&#44033;&#51656; &#49324;&#44256; &#49892;&#54744;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#49900;&#47532;&#54617;</td>
+    <td class="col-rate">78%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option correct-answer-cell">78%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option">1%</td>
+</tr>
+
+<tr>
+    <td><strong>2019</strong></td>
+    <td><a href="search.asp?ExamSearch=2019+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>25</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B7%B9%EC%9A%B0%EB%AF%BC%EC%A1%B1%EC%A3%BC%EC%9D%98%EC%9D%98+%EB%84%A4%EC%9D%B4%EC%85%98" class="clickable-link">&#44537;&#50864;&#48124;&#51313;&#51452;&#51032;&#51032; &#45348;&#51060;&#49496;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51221;&#52824;&#54617;</td>
+    <td class="col-rate">75%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option correct-answer-cell">75%</td>
+</tr>
+
+<tr>
+    <td><strong>2018</strong></td>
+    <td><a href="search.asp?ExamSearch=2018+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>2</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%B0%A8%EB%B3%84+%EA%B8%88%EC%A7%80+%EC%9B%90%EC%B9%99" class="clickable-link">&#52264;&#48324; &#44552;&#51648; &#50896;&#52825;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#54617;</td>
+    <td class="col-rate">81%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option correct-answer-cell">81%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">10%</td>
+</tr>
+
+<tr>
+    <td><strong>2018</strong></td>
+    <td><a href="search.asp?ExamSearch=2018+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>8</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=DNA+%EC%BB%B4%ED%93%A8%ED%8C%85" class="clickable-link">DNA &#52980;&#54504;&#54021;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44277;&#54617;</td>
+    <td class="col-rate">50%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option">19%</td>
+    <td class="col-option correct-answer-cell">50%</td>
+    <td class="col-option">14%</td>
+</tr>
+
+<tr>
+    <td><strong>2018</strong></td>
+    <td><a href="search.asp?ExamSearch=2018+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>24</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B2%A0%EB%82%98%ED%83%80%EC%9D%98+%EB%85%BC%EC%A6%9D" class="clickable-link">&#48288;&#45208;&#53440;&#51032; &#45436;&#51613;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#52384;&#54617;</td>
+    <td class="col-rate">84%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option correct-answer-cell">84%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">4%</td>
+</tr>
+
+<tr>
+    <td><strong>2018</strong></td>
+    <td><a href="search.asp?ExamSearch=2018+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>29</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B1%B0%EB%9E%98+%EB%B9%84%EC%9A%A9+%EA%B8%B0%EC%97%85+%EC%9D%B4%EB%A1%A0" class="clickable-link">&#44144;&#47000; &#48708;&#50857; &#44592;&#50629; &#51060;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EB%AC%B8%EC%A0%9C%ED%95%B4%EA%B2%B0%EB%8F%84%EC%8B%9D' class='code-tag'>&#47928;&#51228;&#54644;&#44208;&#46020;&#49885;</a></td>
+    <td>&#44221;&#51228;&#54617;</td>
+    <td class="col-rate">30%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option correct-answer-cell">30%</td>
+    <td class="col-option">28%</td>
+    <td class="col-option">24%</td>
+    <td class="col-option">10%</td>
+</tr>
+
+<tr>
+    <td><strong>2017</strong></td>
+    <td><a href="search.asp?ExamSearch=2017+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>3</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%B9%B4%EB%A5%B4%EB%84%A4%EC%95%84%EB%8D%B0%EC%8A%A4%EC%9D%98+%EB%84%90" class="clickable-link">&#52852;&#47476;&#45348;&#50500;&#45936;&#49828;&#51032; &#45328;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#52384;&#54617;</td>
+    <td class="col-rate">72%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option correct-answer-cell">72%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option">7%</td>
+</tr>
+
+<tr>
+    <td><strong>2017</strong></td>
+    <td><a href="search.asp?ExamSearch=2017+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>13</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B3%B5%ED%99%94%EC%A3%BC%EC%9D%98%EC%99%80+%ED%97%8C%EC%A0%95%EC%A3%BC%EC%9D%98%EC%A0%81+%EC%88%98%EB%8B%A8" class="clickable-link">&#44277;&#54868;&#51452;&#51032;&#50752; &#54732;&#51221;&#51452;&#51032;&#51201; &#49688;&#45800;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EC%96%91%EB%A6%BD%EA%B0%80%EB%8A%A5' class='code-tag'>&#50577;&#47549;&#44032;&#45733;</a></td>
+    <td>&#48277;&#52384;&#54617;</td>
+    <td class="col-rate">46%</td>
+    <td class="col-option correct-answer-cell">46%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">33%</td>
+</tr>
+
+<tr>
+    <td><strong>2016</strong></td>
+    <td><a href="search.asp?ExamSearch=2016+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>34</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%95%99%EC%84%A4%ED%9C%98%EC%B0%AC" class="clickable-link">&#54617;&#49444;&#55064;&#52268;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#49324;&#54617;</td>
+    <td class="col-rate">84%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option correct-answer-cell">84%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">4%</td>
+</tr>
+
+<tr>
+    <td><strong>2016</strong></td>
+    <td><a href="search.asp?ExamSearch=2016+%EC%88%98%EB%8A%A5" class="clickable-link">&#49688;&#45733;&#44397;&#50612;B&#54805;</a></td>
+    <td>24</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%A7%80%EC%8B%9D+%EA%B2%BD%EC%98%81" class="clickable-link">&#51648;&#49885; &#44221;&#50689;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#49324;&#54924;</td>
+    <td class="col-rate">80%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option correct-answer-cell">80%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">3%</td>
+</tr>
+
+<tr>
+    <td><strong>2015</strong></td>
+    <td><a href="search.asp?ExamSearch=2015+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>4</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%B0%A8%EC%84%A0%EC%9D%98+%EB%AC%B8%EC%A0%9C" class="clickable-link">&#52264;&#49440;&#51032; &#47928;&#51228;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44221;&#51228;&#54617;</td>
+    <td class="col-rate">78%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option correct-answer-cell">78%</td>
+</tr>
+
+<tr>
+    <td><strong>2015</strong></td>
+    <td><a href="search.asp?ExamSearch=2015+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>19</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B9%80%EC%86%8C%EC%9B%94+%EC%8B%9C%EB%A1%A0" class="clickable-link">&#44608;&#49548;&#50900; &#49884;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%A1%B4%EC%9E%AC%EB%A1%A0' class='code-tag'>&#51316;&#51116;&#47200;</a><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#47928;&#54617;</td>
+    <td class="col-rate">82%</td>
+    <td class="col-option correct-answer-cell">82%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">4%</td>
+</tr>
+
+<tr>
+    <td><strong>2015</strong></td>
+    <td><a href="search.asp?ExamSearch=2015+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>32</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B2%BD%EC%97%85%EA%B8%88%EC%A7%80%EC%95%BD%EC%A0%95" class="clickable-link">&#44221;&#50629;&#44552;&#51648;&#50557;&#51221;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#49324;&#54617;</td>
+    <td class="col-rate">62%</td>
+    <td class="col-option correct-answer-cell">62%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">19%</td>
+    <td class="col-option">5%</td>
+</tr>
+
+<tr>
+    <td><strong>2015</strong></td>
+    <td><a href="search.asp?ExamSearch=2015+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>34</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B3%A0%EA%B3%A0%ED%95%99%EC%9D%98+%EC%9C%A0%EB%AC%BC+%EB%B6%84%EB%A5%98" class="clickable-link">&#44256;&#44256;&#54617;&#51032; &#50976;&#47932; &#48516;&#47448;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%ED%95%A9%EC%A7%91%ED%95%A9' class='code-tag'>&#54633;&#51665;&#54633;</a><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50669;&#49324;&#54617;</td>
+    <td class="col-rate">74%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option correct-answer-cell">74%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">12%</td>
+</tr>
+
+<tr>
+    <td><strong>2014</strong></td>
+    <td><a href="search.asp?ExamSearch=2014+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>23</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%A0%95%EC%B9%98%EC%A0%81+%EA%B1%B0%EB%9E%98+%EB%B9%84%EC%9A%A9+%EC%9D%B4%EB%A1%A0" class="clickable-link">&#51221;&#52824;&#51201; &#44144;&#47000; &#48708;&#50857; &#51060;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51221;&#52824;&#54617;</td>
+    <td class="col-rate">85%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option correct-answer-cell">85%</td>
+    <td class="col-option">4%</td>
+</tr>
+
+<tr>
+    <td><strong>2014</strong></td>
+    <td><a href="search.asp?ExamSearch=2014+6%ED%8F%89" class="clickable-link">6&#54217;&#44397;&#50612;A&#54805;</a></td>
+    <td>29</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%86%90%ED%95%B4+%EB%B0%B0%EC%83%81+%EC%B1%85%EC%9E%84" class="clickable-link">&#49552;&#54644; &#48176;&#49345; &#52293;&#51076;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#54617;</td>
+    <td class="col-rate">76%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option correct-answer-cell">76%</td>
+    <td class="col-option">10%</td>
+</tr>
+
+<tr>
+    <td><strong>2013</strong></td>
+    <td><a href="search.asp?ExamSearch=2013+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>5</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%85%B8%EB%B9%84%EB%93%A4%EC%9D%98+%EB%AA%A8%EB%B0%98%EC%A3%84" class="clickable-link">&#45432;&#48708;&#46308;&#51032; &#47784;&#48152;&#51396;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#49324;&#54617;</td>
+    <td class="col-rate">36%</td>
+    <td class="col-option">12%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option">34%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option correct-answer-cell">36%</td>
+</tr>
+
+<tr>
+    <td><strong>2013</strong></td>
+    <td><a href="search.asp?ExamSearch=2013+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>19</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%88%98%EC%84%B1%EC%9D%98+%EB%82%B4%EB%B6%80+%EA%B5%AC%EC%A1%B0+%EA%B0%80%EC%84%A4" class="clickable-link">&#49688;&#49457;&#51032; &#45236;&#48512; &#44396;&#51312; &#44032;&#49444;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EA%B7%80%EB%A5%98%EB%B2%95' class='code-tag'>&#44480;&#47448;&#48277;</a></td>
+    <td>&#51648;&#44396;&#44284;&#54617;</td>
+    <td class="col-rate">25%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option correct-answer-cell">25%</td>
+    <td class="col-option">25%</td>
+    <td class="col-option">21%</td>
+    <td class="col-option">21%</td>
+</tr>
+
+<tr>
+    <td><strong>2012</strong></td>
+    <td><a href="search.asp?ExamSearch=2012+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>9</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B7%BC%EC%A0%91+%EC%9D%B4%EB%A1%A0%EA%B3%BC+%EB%B0%A9%ED%96%A5+%EC%9D%B4%EB%A1%A0" class="clickable-link">&#44540;&#51217; &#51060;&#47200;&#44284; &#48169;&#54693; &#51060;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51221;&#52824;&#54617;</td>
+    <td class="col-rate">53%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option correct-answer-cell">53%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">19%</td>
+</tr>
+
+<tr>
+    <td><strong>2011</strong></td>
+    <td><a href="search.asp?ExamSearch=2011+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>20</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B9%84%EB%A7%8C%EA%B3%BC+%EC%84%B1%ED%98%B8%EB%A5%B4%EB%AA%AC" class="clickable-link">&#48708;&#47564;&#44284; &#49457;&#54840;&#47476;&#47788;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44284;&#54617;</td>
+    <td class="col-rate">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option correct-answer-cell">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+</tr>
+
+<tr>
+    <td><strong>2011</strong></td>
+    <td><a href="search.asp?ExamSearch=2011+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>16</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B3%BC%ED%95%99%EC%9D%98+%EC%A7%84%EB%B3%B4" class="clickable-link">&#44284;&#54617;&#51032; &#51652;&#48372;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44284;&#54617;&#52384;&#54617;</td>
+    <td class="col-rate">68%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option correct-answer-cell">68%</td>
+    <td class="col-option">14%</td>
+</tr>
+
+<tr>
+    <td><strong>2011</strong></td>
+    <td><a href="search.asp?ExamSearch=2011+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>24</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%85%B8%EB%8F%99%EC%9E%90+%EC%A0%95%EB%8B%B9+%EB%8C%80%EC%9D%91" class="clickable-link">&#45432;&#46041;&#51088; &#51221;&#45817; &#45824;&#51025;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51221;&#52824;&#54617;</td>
+    <td class="col-rate">68%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option correct-answer-cell">68%</td>
+</tr>
+
+<tr>
+    <td><strong>2011</strong></td>
+    <td><a href="search.asp?ExamSearch=2011+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>29</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%9E%A1%EA%B3%BC%EA%B3%BC%EA%B1%B0%EC%A0%9C%EB%8F%84" class="clickable-link">&#51105;&#44284;&#44284;&#44144;&#51228;&#46020;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50669;&#49324;&#54617;</td>
+    <td class="col-rate">72%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option correct-answer-cell">72%</td>
+    <td class="col-option">12%</td>
+    <td class="col-option">5%</td>
+</tr>
+
+<tr>
+    <td><strong>2011</strong></td>
+    <td><a href="search.asp?ExamSearch=2011+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>32</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%8F%99%EB%AC%BC+%EC%9E%AC%ED%8C%90" class="clickable-link">&#46041;&#47932; &#51116;&#54032;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EC%9D%B4%ED%95%AD%EB%8C%80%EB%A6%BD' class='code-tag'>&#51060;&#54637;&#45824;&#47549;</a></td>
+    <td>&#48277;&#49324;&#54617;</td>
+    <td class="col-rate">57%</td>
+    <td class="col-option">12%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option correct-answer-cell">57%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option">6%</td>
+</tr>
+
+<tr>
+    <td><strong>2010</strong></td>
+    <td><a href="search.asp?ExamSearch=2010+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>10</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B2%95%ED%95%99%EC%A0%81+%ED%95%B4%EC%84%9D" class="clickable-link">&#48277;&#54617;&#51201; &#54644;&#49437;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#54617;</td>
+    <td class="col-rate">55%</td>
+    <td class="col-option correct-answer-cell">55%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">26%</td>
+</tr>
+
+<tr>
+    <td><strong>2010</strong></td>
+    <td><a href="search.asp?ExamSearch=2010+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>16</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%95%84%EC%8A%A4%ED%94%BC%EB%A6%B0%EC%9D%98+%EA%B8%B0%EC%A0%9C" class="clickable-link">&#50500;&#49828;&#54588;&#47536;&#51032; &#44592;&#51228;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44284;&#54617;</td>
+    <td class="col-rate">34%</td>
+    <td class="col-option correct-answer-cell">34%</td>
+    <td class="col-option">26%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">21%</td>
+    <td class="col-option">8%</td>
+</tr>
+
+<tr>
+    <td><strong>2010</strong></td>
+    <td><a href="search.asp?ExamSearch=2010+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>38</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%8A%98%ED%8E%98%ED%84%B0%EC%9D%98+%EC%B0%BD%EC%A1%B0%EC%A0%81+%ED%98%81%EC%8B%A0" class="clickable-link">&#49816;&#54168;&#53552;&#51032; &#52285;&#51312;&#51201; &#54785;&#49888;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44221;&#51228;&#54617;</td>
+    <td class="col-rate">61%</td>
+    <td class="col-option">13%</td>
+    <td class="col-option">18%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option correct-answer-cell">61%</td>
+</tr>
+
+<tr>
+    <td><strong>2010</strong></td>
+    <td><a href="search.asp?ExamSearch=2010+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>4</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EA%B8%B0%EC%97%85%EC%9D%98+%EA%B0%80%EC%B9%98%EC%99%80+%EC%A3%BC%EA%B0%80" class="clickable-link">&#44592;&#50629;&#51032; &#44032;&#52824;&#50752; &#51452;&#44032;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44221;&#51228;&#54617;</td>
+    <td class="col-rate">76%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">19%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option correct-answer-cell">76%</td>
+</tr>
+
+<tr>
+    <td><strong>2010</strong></td>
+    <td><a href="search.asp?ExamSearch=2010+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>15</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%8B%A0%EB%AF%B8%EC%88%A0%EC%82%AC%ED%95%99" class="clickable-link">&#49888;&#48120;&#49696;&#49324;&#54617;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48120;&#54617;</td>
+    <td class="col-rate">85%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option correct-answer-cell">85%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">3%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>6</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%83%9D%EB%AC%BC%ED%95%99%EC%9D%98+%EC%A1%B0%EC%A7%81%ED%99%94" class="clickable-link">&#49373;&#47932;&#54617;&#51032; &#51312;&#51649;&#54868;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44284;&#54617;</td>
+    <td class="col-rate">58%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option correct-answer-cell">58%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">28%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>10</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%8B%A8%ED%86%A0%EC%9D%98+%EC%9B%8C%ED%99%80+%ED%95%B4%EC%84%9D" class="clickable-link">&#45800;&#53664;&#51032; &#50892;&#54848; &#54644;&#49437;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50696;&#49696;</td>
+    <td class="col-rate">59%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option correct-answer-cell">59%</td>
+    <td class="col-option">9%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>29</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%B2%B4%EA%B3%84+%EC%9D%B4%EB%A1%A0%EA%B3%BC+%ED%97%A4%EA%B2%94%EC%9D%98+%EC%98%88%EC%88%A0%EB%A1%A0" class="clickable-link">&#52404;&#44228; &#51060;&#47200;&#44284; &#54756;&#44180;&#51032; &#50696;&#49696;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48120;&#54617;</td>
+    <td class="col-rate">76%</td>
+    <td class="col-option correct-answer-cell">76%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">7%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%A6%AC%ED%8A%B8" class="clickable-link">&#47532;&#53944;&#50616;&#50612;</a></td>
+    <td>34</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%A0%95%EB%8B%B9+%EC%88%98+%EC%82%B0%EC%A0%95" class="clickable-link">&#51221;&#45817; &#49688; &#49328;&#51221;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51221;&#52824;&#54617;</td>
+    <td class="col-rate">43%</td>
+    <td class="col-option correct-answer-cell">43%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option">30%</td>
+    <td class="col-option">7%</td>
+    <td class="col-option">6%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%A6%AC%ED%8A%B8+%EC%98%88%EB%B9%84" class="clickable-link">&#47532;&#53944;&#50696;&#48708;</a></td>
+    <td>8</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=RFID" class="clickable-link">RFID</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44277;&#54617;</td>
+    <td class="col-rate">84%</td>
+    <td class="col-option correct-answer-cell">84%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">11%</td>
+    <td class="col-option">1%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%A6%AC%ED%8A%B8+%EC%98%88%EB%B9%84" class="clickable-link">&#47532;&#53944;&#50696;&#48708;</a></td>
+    <td>13</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%A6%AC%EB%B2%84%ED%8B%B0+%EB%B0%B8%EB%9F%B0%EC%8A%A4%EB%A5%BC+%EC%8F%9C+%EC%82%AC%EB%82%98%EC%9D%B4" class="clickable-link">&#47532;&#48260;&#54000; &#48184;&#47088;&#49828;&#47484; &#50140; &#49324;&#45208;&#51060;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48120;&#54617;</td>
+    <td class="col-rate">80%</td>
+    <td class="col-option">2%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">10%</td>
+    <td class="col-option correct-answer-cell">80%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%A6%AC%ED%8A%B8+%EC%98%88%EB%B9%84" class="clickable-link">&#47532;&#53944;&#50696;&#48708;</a></td>
+    <td>15</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%95%95%EC%B6%95+%EC%A0%84%EB%9E%B5%EA%B3%BC+%EA%B2%BD%ED%97%98+%EC%A0%84%EB%9E%B5" class="clickable-link">&#50517;&#52629; &#51204;&#47029;&#44284; &#44221;&#54744; &#51204;&#47029;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44221;&#51228;&#54617;</td>
+    <td class="col-rate">41%</td>
+    <td class="col-option correct-answer-cell">41%</td>
+    <td class="col-option">34%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option">9%</td>
+</tr>
+
+<tr>
+    <td><strong>2009</strong></td>
+    <td><a href="search.asp?ExamSearch=2009+%EB%A6%AC%ED%8A%B8+%EC%98%88%EB%B9%84" class="clickable-link">&#47532;&#53944;&#50696;&#48708;</a></td>
+    <td>28</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98%EC%9D%98+%EA%B3%B5%EA%B3%A0%ED%99%94" class="clickable-link">&#48124;&#51452;&#51452;&#51032;&#51032; &#44277;&#44256;&#54868;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EB%85%BC%EC%9D%98%EC%98%81%EC%97%AD' class='code-tag'>&#45436;&#51032;&#50689;&#50669;</a></td>
+    <td>&#51221;&#52824;&#54617;</td>
+    <td class="col-rate">61%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option correct-answer-cell">61%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option">16%</td>
+</tr>
+
+<tr>
+    <td><strong>2008</strong></td>
+    <td><a href="search.asp?ExamSearch=2008+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>14</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%A9%B4%EC%97%AD%EC%9D%98+%EB%A9%94%EC%BB%A4%EB%8B%88%EC%A6%98" class="clickable-link">&#47732;&#50669;&#51032; &#47700;&#52964;&#45768;&#51608;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44284;&#54617;</td>
+    <td class="col-rate">56%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">15%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">14%</td>
+    <td class="col-option correct-answer-cell">56%</td>
+</tr>
+
+<tr>
+    <td><strong>2008</strong></td>
+    <td><a href="search.asp?ExamSearch=2008+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>19</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%8B%9C%ED%8B%B0%EA%B6%8C" class="clickable-link">&#54140;&#48660;&#47532;&#49884;&#54000;&#44428;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EC%A0%84%EC%A0%9C%EB%B6%80%EC%A0%95' class='code-tag'>&#51204;&#51228;&#48512;&#51221;</a></td>
+    <td>&#49324;&#54924;</td>
+    <td class="col-rate">74%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">8%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option correct-answer-cell">74%</td>
+</tr>
+
+<tr>
+    <td><strong>2007</strong></td>
+    <td><a href="search.asp?ExamSearch=2007+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>4</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%83%88%EC%82%B0%EC%97%85%EC%82%AC%ED%9A%8C%EB%A1%A0%EC%9E%90" class="clickable-link">&#53448;&#49328;&#50629;&#49324;&#54924;&#47200;&#51088;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44221;&#51228;&#54617;</td>
+    <td class="col-rate">80%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">0%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option correct-answer-cell">80%</td>
+    <td class="col-option">5%</td>
+</tr>
+
+<tr>
+    <td><strong>2007</strong></td>
+    <td><a href="search.asp?ExamSearch=2007+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>7</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%A3%BD%EC%9D%8C%EC%9D%98+%EA%B5%90%EC%8B%A4" class="clickable-link">&#51453;&#51020;&#51032; &#44368;&#49892;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50696;&#49696;</td>
+    <td class="col-rate">89%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option correct-answer-cell">89%</td>
+    <td class="col-option">1%</td>
+</tr>
+
+<tr>
+    <td><strong>2007</strong></td>
+    <td><a href="search.asp?ExamSearch=2007+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>12</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%84%B1%EC%9D%8C%EB%A1%A0" class="clickable-link">&#49457;&#51020;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#51064;&#47928;</td>
+    <td class="col-rate">75%</td>
+    <td class="col-option">9%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">3%</td>
+    <td class="col-option correct-answer-cell">75%</td>
+</tr>
+
+<tr>
+    <td><strong>2007</strong></td>
+    <td><a href="search.asp?ExamSearch=2007+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>19</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%ED%98%84%EB%8C%80+%EC%A7%84%ED%99%94%EC%83%9D%EB%AC%BC%ED%95%99" class="clickable-link">&#54788;&#45824; &#51652;&#54868;&#49373;&#47932;&#54617;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EC%84%A4%EB%AA%85' class='code-tag'>&#49444;&#47749;</a><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44284;&#54617;</td>
+    <td class="col-rate">77%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option correct-answer-cell">77%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">6%</td>
+</tr>
+
+<tr>
+    <td><strong>2006</strong></td>
+    <td><a href="search.asp?ExamSearch=2006+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>23</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%B3%80%EA%B2%BD%EC%A0%81%2C+%EB%B3%B4%EC%B6%A9%EC%A0%81+%ED%9A%A8%EB%A0%A5%EC%84%A4" class="clickable-link">&#48320;&#44221;&#51201;, &#48372;&#52649;&#51201; &#54952;&#47141;&#49444;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#48277;&#54617;</td>
+    <td class="col-rate">66%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option">25%</td>
+    <td class="col-option correct-answer-cell">66%</td>
+    <td class="col-option">1%</td>
+    <td class="col-option">10%</td>
+</tr>
+
+<tr>
+    <td><strong>2006</strong></td>
+    <td><a href="search.asp?ExamSearch=2006+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>30</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%A3%A8%EC%9D%B4%EC%8A%A4%EC%9D%98+%EB%AF%B8%ED%95%99" class="clickable-link">&#47336;&#51060;&#49828;&#51032; &#48120;&#54617;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%EC%9D%B8%EC%8B%9D%EB%A1%A0%EC%A0%81%EB%8F%84%EC%8B%9D' class='code-tag'>&#51064;&#49885;&#47200;&#51201;&#46020;&#49885;</a></td>
+    <td>&#48120;&#54617;</td>
+    <td class="col-rate">64%</td>
+    <td class="col-option correct-answer-cell">64%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">4%</td>
+    <td class="col-option">16%</td>
+    <td class="col-option">9%</td>
+</tr>
+
+<tr>
+    <td><strong>2006</strong></td>
+    <td><a href="search.asp?ExamSearch=2006+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>40</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%9A%B0%EC%A3%BC%EC%9D%98+%ED%83%84%EC%83%9D+%EC%9D%B4%EB%A1%A0" class="clickable-link">&#50864;&#51452;&#51032; &#53444;&#49373; &#51060;&#47200;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#44284;&#54617;</td>
+    <td class="col-rate">55%</td>
+    <td class="col-option">5%</td>
+    <td class="col-option">16%</td>
+    <td class="col-option">16%</td>
+    <td class="col-option">6%</td>
+    <td class="col-option correct-answer-cell">55%</td>
+</tr>
+
+<tr>
+    <td><strong>2005</strong></td>
+    <td><a href="search.asp?ExamSearch=2005+%EB%AF%B8%ED%8A%B8" class="clickable-link">&#48120;&#53944;&#50616;&#50612;</a></td>
+    <td>9</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EC%A0%95%EC%84%9C+%EC%9C%A0%EB%B0%9C" class="clickable-link">&#51221;&#49436; &#50976;&#48156;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a><a href='search.asp?CodeName=%ED%83%80%EB%B3%80%EC%88%98%ED%86%B5%EC%A0%9C' class='code-tag'>&#53440;&#48320;&#49688;&#53685;&#51228;</a></td>
+    <td>&#49900;&#47532;&#54617;</td>
+    <td class="col-rate">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option correct-answer-cell">N/A%</td>
+    <td class="col-option">N/A%</td>
+</tr>
+
+<tr>
+    <td><strong>2005</strong></td>
+    <td><a href="search.asp?ExamSearch=2005+%EB%AF%B8%ED%8A%B8+%EC%98%88%EB%B9%84" class="clickable-link">&#48120;&#53944;&#50696;&#48708;</a></td>
+    <td>15</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%87%8C%EC%9D%98+%EC%96%B8%EC%96%B4+%EC%B2%98%EB%A6%AC%EC%99%80+%EC%8B%A4%EC%96%B4%EC%A6%9D" class="clickable-link">&#45516;&#51032; &#50616;&#50612; &#52376;&#47532;&#50752; &#49892;&#50612;&#51613;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#49373;&#47749;&#44284;&#54617;</td>
+    <td class="col-rate">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option correct-answer-cell">N/A%</td>
+    <td class="col-option">N/A%</td>
+</tr>
+
+<tr>
+    <td><strong>2005</strong></td>
+    <td><a href="search.asp?ExamSearch=2005+%EB%AF%B8%ED%8A%B8+%EC%98%88%EB%B9%84" class="clickable-link">&#48120;&#53944;&#50696;&#48708;</a></td>
+    <td>41</td>
+    <td class="col-title"><a href="search.asp?KeywordSearch=%EB%88%84%EB%93%9C%ED%99%94%EC%97%90+%EA%B4%80%ED%95%9C+%EC%84%A4%EB%AA%85" class="clickable-link">&#45572;&#46300;&#54868;&#50640; &#44288;&#54620; &#49444;&#47749;</a></td>
+    <td class="col-code"><a href='search.asp?CodeName=%EB%B3%B4%EC%B6%A9%EB%8F%84%EC%8B%9D' class='code-tag'>&#48372;&#52649;&#46020;&#49885;</a></td>
+    <td>&#50696;&#49696;</td>
+    <td class="col-rate">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option correct-answer-cell">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+    <td class="col-option">N/A%</td>
+</tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+
+        <!-- 하단 버튼 -->
+        <div class="actions">
+            <a href="index.html" class="btn-back">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"/></svg>
+                검색 페이지로 돌아가기
+            </a>
+        </div>
+    </div>
+
+    <!-- 푸터 -->
+    <div class="footer">&copy; 2025 sdss.kr &middot; Designed by 216</div>
+
+    <script>
+        const themeToggle = document.getElementById('themeToggle');
+        const sunIcon = document.querySelector('.sun-icon');
+        const moonIcon = document.querySelector('.moon-icon');
+        const html = document.documentElement;
+
+        const savedTheme = localStorage.getItem('theme');
+        const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+        if (savedTheme === 'dark' || (!savedTheme && systemPrefersDark)) {
+            html.setAttribute('data-theme', 'dark');
+            sunIcon.style.display = 'none';
+            moonIcon.style.display = 'block';
+        }
+
+        themeToggle.addEventListener('click', () => {
+            const currentTheme = html.getAttribute('data-theme');
+            if (currentTheme === 'dark') {
+                html.removeAttribute('data-theme');
+                localStorage.setItem('theme', 'light');
+                sunIcon.style.display = 'block';
+                moonIcon.style.display = 'none';
+            } else {
+                html.setAttribute('data-theme', 'dark');
+                localStorage.setItem('theme', 'dark');
+                sunIcon.style.display = 'none';
+                moonIcon.style.display = 'block';
+            }
+        });
+    </script>
+</body>
+</html>

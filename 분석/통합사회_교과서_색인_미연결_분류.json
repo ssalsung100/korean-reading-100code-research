@@ -1,0 +1,4731 @@
+[
+  {
+    "course": "통합사회2",
+    "term": "공인 탐정",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 600.4,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "농업 드론 조종사",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 395.2,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "디지털 장의사",
+    "textbook_pages": [
+      15
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 82.2,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "메타버스 크리에이터",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 359.9,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "반려동물 행동 상담원",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 92.4,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "사이버 평판 관리자",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 507.8,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "수소 충전소 안전 관리자",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 674.7,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "에너지 효율 검증 전문가",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 525.4,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "지속가능 경영 전문가",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 398.6,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "콘텐츠 가치 평가사",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 215.8,
+    "concept_ids": [],
+    "category": "미래 직업·사례"
+  },
+  {
+    "course": "통합사회1",
+    "term": "국가 도시 정책",
+    "textbook_pages": [
+      135
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 628.6,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "국제 연합 인간 환경 회의",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 658.0,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "국제 연합 환경 개발 회의",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 672.7,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "기후변화 협약",
+    "textbook_pages": [
+      76,
+      78
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 202.0,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "기후변화에 관한 정부 간 협의체",
+    "textbook_pages": [
+      82
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 187.3,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "람사르 협약",
+    "textbook_pages": [
+      76,
+      78
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 232.3,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "런던 협약",
+    "textbook_pages": [
+      76,
+      78
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 247.0,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "리우 선언",
+    "textbook_pages": [
+      23,
+      76
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 276.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "몬트리올 의정서",
+    "textbook_pages": [
+      76,
+      78
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 424.3,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "바젤 협약",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 240.0,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "법정",
+    "textbook_pages": [
+      37,
+      53
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 313.5,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "비엔나 협약",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 460.5,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "사막화 방지 협약",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 617.2,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "사회 복지 제도",
+    "textbook_pages": [
+      40
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 690.7,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "생물 다양성 협약",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 232.0,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "워싱턴 협약",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 471.1,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "자연 기반 해법",
+    "textbook_pages": [
+      86
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 321.9,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "자연 농법",
+    "textbook_pages": [
+      70
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 336.6,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "파리 기후변화 협약",
+    "textbook_pages": [
+      76,
+      78
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 688.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "환경 정책 기본법",
+    "textbook_pages": [
+      76
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 536.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "감염병 혁신 연합",
+    "textbook_pages": [
+      117
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 248.5,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "건축법",
+    "textbook_pages": [
+      17
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 294.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "경제 안정화 정책",
+    "textbook_pages": [
+      82
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 309.7,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국민 기초 생활 보장 제도",
+    "textbook_pages": [
+      21
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 190.2,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 사면 위원회",
+    "textbook_pages": [
+      31,
+      115,
+      116
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 281.1,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 에너지 기구",
+    "textbook_pages": [
+      140
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 311.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 연합",
+    "textbook_pages": [
+      13,
+      95,
+      115,
+      116,
+      157
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 326.5,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 연합 난민 기구",
+    "textbook_pages": [
+      29
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 341.7,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 연합 아동 기금",
+    "textbook_pages": [
+      117
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 356.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 연합 인간 환경 선언",
+    "textbook_pages": [
+      16
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 372.0,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 연합 환경 개발 회의",
+    "textbook_pages": [
+      157
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 387.1,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 인권 협약",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 402.3,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 통화 기금",
+    "textbook_pages": [
+      97,
+      115
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 447.7,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "근로 기준법",
+    "textbook_pages": [
+      27,
+      30
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 584.1,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "기후변화 협약",
+    "textbook_pages": [
+      157
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 173.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "기후변화에 관한 정부 간 협의체",
+    "textbook_pages": [
+      157
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 158.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "뉴딜 정책",
+    "textbook_pages": [
+      71
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 410.2,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "리우 선언",
+    "textbook_pages": [
+      157
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 213.5,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "문화 기본법",
+    "textbook_pages": [
+      16
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 434.9,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "문화 다양성 협약",
+    "textbook_pages": [
+      112
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 479.9,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "미국 독립 선언서",
+    "textbook_pages": [
+      12,
+      13,
+      14
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 599.9,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "바이마르 헌법",
+    "textbook_pages": [
+      13,
+      14
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 77.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "법률",
+    "textbook_pages": [
+      27
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 675.0,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "법률",
+    "textbook_pages": [
+      27
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 420.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "북대서양 조약 기구",
+    "textbook_pages": [
+      125
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 242.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "사유 재산 제도",
+    "textbook_pages": [
+      70,
+      75
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 492.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "사회 복지 제도",
+    "textbook_pages": [
+      57
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 597.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "선상 투표 제도",
+    "textbook_pages": [
+      21
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 281.1,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세계 무역 기구",
+    "textbook_pages": [
+      92,
+      99,
+      115
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 387.1,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세계 백신 면역 연합",
+    "textbook_pages": [
+      117
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 402.3,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세계 보건 기구",
+    "textbook_pages": [
+      117
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 417.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세계 식량 계획",
+    "textbook_pages": [
+      29
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 447.7,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "소금법 거부 운동",
+    "textbook_pages": [
+      23
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 568.9,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "소득 재분배 정책",
+    "textbook_pages": [
+      82
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 599.2,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "스톡홀름 선언",
+    "textbook_pages": [
+      31
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 83.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "양성평등 채용 목표 제도",
+    "textbook_pages": [
+      59
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 465.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "예금자 보호 제도",
+    "textbook_pages": [
+      88
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 53.8,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "유럽 연합",
+    "textbook_pages": [
+      115,
+      116
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 220.5,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "인간과 시민의 권리 선언",
+    "textbook_pages": [
+      13,
+      14
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 432.6,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "입법 공청회",
+    "textbook_pages": [
+      23
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 689.7,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "자유 무역 협정",
+    "textbook_pages": [
+      92,
+      99
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 285.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "장애인 의무 고용 제도",
+    "textbook_pages": [
+      58
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 390.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "저출산 고령 사회 위원회",
+    "textbook_pages": [
+      138
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 510.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "주거 기본법",
+    "textbook_pages": [
+      15
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 233.6,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "주민 참여 예산 제도",
+    "textbook_pages": [
+      23
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 263.6,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "지역 격차 완화 정책",
+    "textbook_pages": [
+      58
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 473.6,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "차등 벌금 제도",
+    "textbook_pages": [
+      41
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 571.1,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "파리 기후변화 협약",
+    "textbook_pages": [
+      157
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 509.6,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회2",
+    "term": "헌법 불합치 결정",
+    "textbook_pages": [
+      18,
+      20,
+      51
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 167.4,
+    "concept_ids": [],
+    "category": "법·제도·기관·문서"
+  },
+  {
+    "course": "통합사회1",
+    "term": "3D 업종",
+    "textbook_pages": [
+      115
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 689.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "ECO 시스템",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 172.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "EGO 시스템",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 187.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "ESG 경영",
+    "textbook_pages": [
+      77
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 202.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "K–컬처",
+    "textbook_pages": [
+      20,
+      21
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 430.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "가로림 조력 발전소",
+    "textbook_pages": [
+      76
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 172.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "가상 공간",
+    "textbook_pages": [
+      138
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 187.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "강수",
+    "textbook_pages": [
+      56
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 261.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "거주 공간",
+    "textbook_pages": [
+      131
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 319.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "게르",
+    "textbook_pages": [
+      57
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 364.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "고상 가옥",
+    "textbook_pages": [
+      57
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 466.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "고원",
+    "textbook_pages": [
+      59
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 481.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "공간적 맥락",
+    "textbook_pages": [
+      14
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 511.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "공공 택지",
+    "textbook_pages": [
+      149
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 525.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "공정성",
+    "textbook_pages": [
+      16
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 555.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "국제결혼",
+    "textbook_pages": [
+      114,
+      115
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 643.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "규범",
+    "textbook_pages": [
+      16
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 687.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "근친혼",
+    "textbook_pages": [
+      108
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 69.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "긍정적인 삶의 태도",
+    "textbook_pages": [
+      37
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 84.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "기계론적 세계관",
+    "textbook_pages": [
+      29
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 99.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "기계론적 자연관",
+    "textbook_pages": [
+      70
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 113.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "기온",
+    "textbook_pages": [
+      56
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 128.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "나눔과 배려",
+    "textbook_pages": [
+      37
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 276.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "냉대 침엽수림(타이가)",
+    "textbook_pages": [
+      58
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 320.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "담양 소쇄원",
+    "textbook_pages": [
+      73
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 527.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "당진",
+    "textbook_pages": [
+      133
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 541.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "도덕적 원리",
+    "textbook_pages": [
+      16
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 644.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "도시적 생활양식",
+    "textbook_pages": [
+      130,
+      132
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 55.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "도심 항공 서비스",
+    "textbook_pages": [
+      139
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 113.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "디지털 정보화 수준",
+    "textbook_pages": [
+      144
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 157.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "마이스 산업",
+    "textbook_pages": [
+      140
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 350.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "명리",
+    "textbook_pages": [
+      39
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 380.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "명예 살인",
+    "textbook_pages": [
+      111
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 394.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "모스크",
+    "textbook_pages": [
+      92,
+      94
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 409.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "무슬림",
+    "textbook_pages": [
+      92,
+      105,
+      120
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 439.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "미래 모빌리티 산업",
+    "textbook_pages": [
+      138,
+      139
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 659.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "미세 먼지",
+    "textbook_pages": [
+      14,
+      75
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 674.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "미세 플라스틱",
+    "textbook_pages": [
+      74,
+      75
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 688.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "밀농사",
+    "textbook_pages": [
+      59
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 127.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "바드기르",
+    "textbook_pages": [
+      90
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 210.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "바이킹",
+    "textbook_pages": [
+      60
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 225.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "반려동물",
+    "textbook_pages": [
+      24,
+      25
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 269.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "벼농사",
+    "textbook_pages": [
+      57,
+      58
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 357.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "봉사",
+    "textbook_pages": [
+      45,
+      46
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 387.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "불투수 면적",
+    "textbook_pages": [
+      131
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 431.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "비대면 접촉",
+    "textbook_pages": [
+      139
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 445.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "사료",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 573.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "사리",
+    "textbook_pages": [
+      63
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 587.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "사막화",
+    "textbook_pages": [
+      75
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 602.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "산성비",
+    "textbook_pages": [
+      75
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 128.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "삶의 목적",
+    "textbook_pages": [
+      36
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 173.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "생업",
+    "textbook_pages": [
+      41
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 246.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "생태계 위기",
+    "textbook_pages": [
+      69,
+      70
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 276.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "생활공간",
+    "textbook_pages": [
+      131,
+      138,
+      146
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 379.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "선박 평형수",
+    "textbook_pages": [
+      142
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 409.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "선형적 세계관",
+    "textbook_pages": [
+      29
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 423.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "수도권 매립지",
+    "textbook_pages": [
+      22
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 482.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "숙련도 향상",
+    "textbook_pages": [
+      143
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 512.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "순록 유목",
+    "textbook_pages": [
+      58,
+      95
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 527.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "슬로건",
+    "textbook_pages": [
+      35
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 571.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "습지",
+    "textbook_pages": [
+      76,
+      87,
+      150
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 586.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "시대적 맥락",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 615.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "시대적 상황",
+    "textbook_pages": [
+      32,
+      33
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 630.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "식생",
+    "textbook_pages": [
+      56,
+      90
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 659.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "엔데믹",
+    "textbook_pages": [
+      35
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 151.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "역사서",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 180.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "역지사지",
+    "textbook_pages": [
+      45
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 209.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "연교차",
+    "textbook_pages": [
+      58
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 223.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "연대 의식",
+    "textbook_pages": [
+      135
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 238.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "열대 우림 파괴",
+    "textbook_pages": [
+      75
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 267.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "염화플루오린화탄소",
+    "textbook_pages": [
+      75,
+      76
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 296.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "오존층 파괴",
+    "textbook_pages": [
+      74,
+      75
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 340.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "온라인 수업",
+    "textbook_pages": [
+      138
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 383.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "외경",
+    "textbook_pages": [
+      73
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 427.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "유기",
+    "textbook_pages": [
+      24,
+      25
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 485.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "유목",
+    "textbook_pages": [
+      92,
+      95
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 529.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "이두",
+    "textbook_pages": [
+      98
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 587.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "이스털린의 역설",
+    "textbook_pages": [
+      42
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 616.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "이안류",
+    "textbook_pages": [
+      64
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 631.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "이주 노동자",
+    "textbook_pages": [
+      114,
+      118
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 645.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "인류세",
+    "textbook_pages": [
+      79
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 84.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "일부다처제",
+    "textbook_pages": [
+      108
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 113.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "일처다부제",
+    "textbook_pages": [
+      108
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 128.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "임업",
+    "textbook_pages": [
+      58,
+      59
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 143.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "자연관",
+    "textbook_pages": [
+      66,
+      70,
+      73
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 307.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "재교육",
+    "textbook_pages": [
+      143
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 410.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "재지",
+    "textbook_pages": [
+      39
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 424.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "전일론적 자연관",
+    "textbook_pages": [
+      67
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 454.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "제주어",
+    "textbook_pages": [
+      122,
+      123
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 542.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "조차",
+    "textbook_pages": [
+      59
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 557.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "종교",
+    "textbook_pages": [
+      92
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 571.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "중화 사상",
+    "textbook_pages": [
+      106
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 586.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "지각판",
+    "textbook_pages": [
+      63
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 601.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "지구 온난화",
+    "textbook_pages": [
+      75
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 615.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "지속가능성",
+    "textbook_pages": [
+      19
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 645.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "지역성",
+    "textbook_pages": [
+      14
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 69.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "지역적 여건",
+    "textbook_pages": [
+      33
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 84.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "집중 호우",
+    "textbook_pages": [
+      60
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 157.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "처용무",
+    "textbook_pages": [
+      121
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 272.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "천장",
+    "textbook_pages": [
+      107
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 286.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "최저 임금",
+    "textbook_pages": [
+      41
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 316.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "태권도",
+    "textbook_pages": [
+      102
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 530.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "태풍",
+    "textbook_pages": [
+      62,
+      63
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 544.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "태화강",
+    "textbook_pages": [
+      67
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 559.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "택리지",
+    "textbook_pages": [
+      40
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 574.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "판시",
+    "textbook_pages": [
+      72
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 55.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "패러다임",
+    "textbook_pages": [
+      28,
+      29
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 69.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "팬데믹",
+    "textbook_pages": [
+      35
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 84.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "표본",
+    "textbook_pages": [
+      15
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 113.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "풍수지리설",
+    "textbook_pages": [
+      40
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 128.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "한글",
+    "textbook_pages": [
+      102
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 242.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "한복",
+    "textbook_pages": [
+      103
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 272.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "할랄 인증",
+    "textbook_pages": [
+      105
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 286.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "해비타트",
+    "textbook_pages": [
+      41
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 301.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "해수면 상승",
+    "textbook_pages": [
+      60
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 316.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "행복",
+    "textbook_pages": [
+      32
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 345.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "헬레니즘 시대",
+    "textbook_pages": [
+      33
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 389.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "활성 단층",
+    "textbook_pages": [
+      63
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 551.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "황사",
+    "textbook_pages": [
+      14,
+      75
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 566.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "회복 탄력성",
+    "textbook_pages": [
+      32
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 595.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "회복력",
+    "textbook_pages": [
+      152
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 580.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "흙벽돌집",
+    "textbook_pages": [
+      57
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 610.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "히잡",
+    "textbook_pages": [
+      120
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 625.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "1인 시위",
+    "textbook_pages": [
+      22
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 659.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "ESG 경영",
+    "textbook_pages": [
+      83
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 83.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "가상 자산",
+    "textbook_pages": [
+      105
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 187.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "개인선",
+    "textbook_pages": [
+      42
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 263.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "곤충 컨설턴트",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 432.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "공익",
+    "textbook_pages": [
+      51,
+      52
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 585.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "공자",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 615.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "과잉 금지 원칙",
+    "textbook_pages": [
+      25
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 676.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "교정",
+    "textbook_pages": [
+      41
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 692.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국부론",
+    "textbook_pages": [
+      71
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 220.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 정세",
+    "textbook_pages": [
+      89
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 432.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "군정",
+    "textbook_pages": [
+      120
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 462.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "권익 침해",
+    "textbook_pages": [
+      22
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 538.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "그린피스",
+    "textbook_pages": [
+      115
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 553.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "근로 계약서",
+    "textbook_pages": [
+      27,
+      30
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 568.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "기업 혁신",
+    "textbook_pages": [
+      83
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 98.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "남북 대화",
+    "textbook_pages": [
+      121
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 260.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "내선일체론",
+    "textbook_pages": [
+      122
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 290.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "냉동 액화 기술",
+    "textbook_pages": [
+      141
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 305.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "노머니족",
+    "textbook_pages": [
+      89
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 350.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "노인 부양 부담",
+    "textbook_pages": [
+      137
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 365.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "다자녀 대가족",
+    "textbook_pages": [
+      137
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 495.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "단리",
+    "textbook_pages": [
+      87
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 510.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "대사도",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 570.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "독도",
+    "textbook_pages": [
+      122,
+      130,
+      131
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 615.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "독일 통일",
+    "textbook_pages": [
+      125
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 630.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "동북공정",
+    "textbook_pages": [
+      122
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 675.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "딩크족",
+    "textbook_pages": [
+      137
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 97.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "로마 클럽",
+    "textbook_pages": [
+      157
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 168.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "망간 단괴",
+    "textbook_pages": [
+      130
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 299.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "메탄 하이드레이트",
+    "textbook_pages": [
+      130
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 374.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "미국 독립 혁명",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 614.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "미래 예측",
+    "textbook_pages": [
+      146
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 644.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "미래학",
+    "textbook_pages": [
+      146
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 659.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "배당 수익",
+    "textbook_pages": [
+      87,
+      88
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 107.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "보이지 않는 손",
+    "textbook_pages": [
+      71
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 152.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "부동산",
+    "textbook_pages": [
+      104
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 212.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "분배",
+    "textbook_pages": [
+      41,
+      44
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 257.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "사막화",
+    "textbook_pages": [
+      135,
+      156
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 462.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "사익",
+    "textbook_pages": [
+      52,
+      74
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 522.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "산업 재해",
+    "textbook_pages": [
+      15
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 673.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "서브프라임 모기지",
+    "textbook_pages": [
+      73
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 175.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "서비스",
+    "textbook_pages": [
+      74,
+      78
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 190.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "선거",
+    "textbook_pages": [
+      22
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 265.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "성취동기",
+    "textbook_pages": [
+      44,
+      45
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 326.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세계도시 권역",
+    "textbook_pages": [
+      109
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 372.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세종실록지리지",
+    "textbook_pages": [
+      131
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 523.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "소수 언어",
+    "textbook_pages": [
+      112
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 644.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "승부 조작",
+    "textbook_pages": [
+      42
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 98.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "시민 단체",
+    "textbook_pages": [
+      23
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 113.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "시민 제안",
+    "textbook_pages": [
+      24
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 143.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "시세 차익",
+    "textbook_pages": [
+      87
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 158.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "신나치 운동",
+    "textbook_pages": [
+      125
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 218.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "신탁 통치",
+    "textbook_pages": [
+      120
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 278.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "애민 6조",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 435.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "양심적 병역 거부",
+    "textbook_pages": [
+      51
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 480.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "업적",
+    "textbook_pages": [
+      44
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 495.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "엑사줄",
+    "textbook_pages": [
+      140
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 555.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "여성 참정권 운동",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 570.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "연소 근로자",
+    "textbook_pages": [
+      30
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 600.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "영국 대헌장",
+    "textbook_pages": [
+      12,
+      13
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 615.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "영국 명예혁명",
+    "textbook_pages": [
+      12,
+      13
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 630.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "영국병",
+    "textbook_pages": [
+      73
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 645.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "영유권",
+    "textbook_pages": [
+      122
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 660.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "요구불 예금",
+    "textbook_pages": [
+      86
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 99.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "욜로족",
+    "textbook_pages": [
+      89
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 129.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "원격 진료 코디네이터",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 144.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "위계",
+    "textbook_pages": [
+      54
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 175.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "유전체 분석가",
+    "textbook_pages": [
+      150
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 250.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "유토피아",
+    "textbook_pages": [
+      67
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 265.9,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "은퇴 생활 3단계",
+    "textbook_pages": [
+      90
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 311.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "의무",
+    "textbook_pages": [
+      49,
+      51
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 341.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "이격 거리",
+    "textbook_pages": [
+      17
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 356.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "이곡",
+    "textbook_pages": [
+      62
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 372.0,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "이익 단체",
+    "textbook_pages": [
+      23
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 402.3,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "이자",
+    "textbook_pages": [
+      87
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 417.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "인격권",
+    "textbook_pages": [
+      25
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 447.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "인권",
+    "textbook_pages": [
+      12
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 599.2,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "인권 신문",
+    "textbook_pages": [
+      32,
+      33
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 629.5,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "일조권",
+    "textbook_pages": [
+      17
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 674.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "장애인 마크",
+    "textbook_pages": [
+      26
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 375.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "재화",
+    "textbook_pages": [
+      70,
+      74,
+      78
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 450.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "재활용",
+    "textbook_pages": [
+      84
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 465.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "저축성 예금",
+    "textbook_pages": [
+      86
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 480.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "전기 자동차",
+    "textbook_pages": [
+      85,
+      140,
+      152
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 585.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "정기 예금",
+    "textbook_pages": [
+      86
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 630.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "정기 적금",
+    "textbook_pages": [
+      86
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 645.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "정당",
+    "textbook_pages": [
+      23
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 660.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "정치적 무관심",
+    "textbook_pages": [
+      22
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 128.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "조망권",
+    "textbook_pages": [
+      17
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 188.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "주가",
+    "textbook_pages": [
+      87
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 203.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "주권",
+    "textbook_pages": [
+      28,
+      115
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 248.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "주주",
+    "textbook_pages": [
+      86,
+      87
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 293.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "중앙은행",
+    "textbook_pages": [
+      89
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 323.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "지구 온난화",
+    "textbook_pages": [
+      156
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 338.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "지구 표면 온도",
+    "textbook_pages": [
+      157
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 368.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "지구촌",
+    "textbook_pages": [
+      112,
+      147,
+      149
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 353.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "지속가능발전",
+    "textbook_pages": [
+      82,
+      95,
+      96
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 413.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "차마설",
+    "textbook_pages": [
+      62
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 586.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "차용 증서",
+    "textbook_pages": [
+      87
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 616.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "차티스트 운동",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 631.1,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "코백스",
+    "textbook_pages": [
+      117
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 200.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "콩코드 오류",
+    "textbook_pages": [
+      81
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 230.8,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "태정관 지령",
+    "textbook_pages": [
+      131
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 362.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "통상 임금",
+    "textbook_pages": [
+      30
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 392.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "투표",
+    "textbook_pages": [
+      21,
+      22,
+      41
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 407.7,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "포트폴리오 투자",
+    "textbook_pages": [
+      88
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 644.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "프랑스 혁명",
+    "textbook_pages": [
+      13
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 659.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "프레카리아트",
+    "textbook_pages": [
+      151
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 674.6,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "한국 국제 협력단",
+    "textbook_pages": [
+      123
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 92.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "한반도 통일",
+    "textbook_pages": [
+      121
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 107.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "호주제",
+    "textbook_pages": [
+      18
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 242.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "홀로코스트",
+    "textbook_pages": [
+      12
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 272.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회2",
+    "term": "흑묘백묘론",
+    "textbook_pages": [
+      74
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 407.4,
+    "concept_ids": [],
+    "category": "사례·세부 용어"
+  },
+  {
+    "course": "통합사회1",
+    "term": "간디",
+    "textbook_pages": [
+      37
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 217.0,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "그레타 툰베리",
+    "textbook_pages": [
+      68
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 55.0,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "데일 카네기",
+    "textbook_pages": [
+      37
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 600.7,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "박연",
+    "textbook_pages": [
+      121
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 254.7,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "베이컨",
+    "textbook_pages": [
+      82
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 328.2,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "벤담",
+    "textbook_pages": [
+      33
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 342.9,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "부탄",
+    "textbook_pages": [
+      42
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 401.7,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "소로",
+    "textbook_pages": [
+      37
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 468.0,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "이태석 신부",
+    "textbook_pages": [
+      45
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 674.8,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "칸트",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 415.8,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "토머스 쿤",
+    "textbook_pages": [
+      28
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 588.8,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "헬렌 켈러",
+    "textbook_pages": [
+      37
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 404.5,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "루소",
+    "textbook_pages": [
+      55
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 198.5,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "말랄라 유사프자이",
+    "textbook_pages": [
+      115
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 284.9,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "벤담",
+    "textbook_pages": [
+      47
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 137.4,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "애덤 스미스",
+    "textbook_pages": [
+      52,
+      71,
+      72
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 420.4,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "에밀리 데이비슨",
+    "textbook_pages": [
+      33
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 540.4,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "요나스",
+    "textbook_pages": [
+      147
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 114.4,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "정약용",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 53.6,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "제프 멀건",
+    "textbook_pages": [
+      70
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 158.6,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "칸트",
+    "textbook_pages": [
+      47,
+      119
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 155.8,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "커즈와일",
+    "textbook_pages": [
+      152
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 170.8,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "케인스",
+    "textbook_pages": [
+      71,
+      72
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 185.8,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "토머스 모어",
+    "textbook_pages": [
+      67
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 377.7,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "프리드먼",
+    "textbook_pages": [
+      73
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 689.6,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회2",
+    "term": "하이에크",
+    "textbook_pages": [
+      72,
+      73
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 77.4,
+    "concept_ids": [],
+    "category": "인물·사상가"
+  },
+  {
+    "course": "통합사회1",
+    "term": "나우루 공화국",
+    "textbook_pages": [
+      17
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 291.1,
+    "concept_ids": [],
+    "category": "지역·공간 사례"
+  },
+  {
+    "course": "통합사회1",
+    "term": "특별 재난 지역",
+    "textbook_pages": [
+      64
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 618.2,
+    "concept_ids": [],
+    "category": "지역·공간 사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국가",
+    "textbook_pages": [
+      115
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 114.4,
+    "concept_ids": [],
+    "category": "지역·공간 사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "동아시아",
+    "textbook_pages": [
+      122
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 690.7,
+    "concept_ids": [],
+    "category": "지역·공간 사례"
+  },
+  {
+    "course": "통합사회2",
+    "term": "혁신 도시",
+    "textbook_pages": [
+      58
+    ],
+    "index_pdf_page": 164,
+    "column_x": 399.7,
+    "y": 212.4,
+    "concept_ids": [],
+    "category": "지역·공간 사례"
+  },
+  {
+    "course": "통합사회1",
+    "term": "자율 주행 차량",
+    "textbook_pages": [
+      139
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 380.7,
+    "concept_ids": [],
+    "category": "지표·측정 개념"
+  },
+  {
+    "course": "통합사회1",
+    "term": "행복 지수",
+    "textbook_pages": [
+      36,
+      42,
+      44,
+      48,
+      49
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 375.1,
+    "concept_ids": [],
+    "category": "지표·측정 개념"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세계 자유 지수",
+    "textbook_pages": [
+      28
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 478.0,
+    "concept_ids": [],
+    "category": "지표·측정 개념"
+  },
+  {
+    "course": "통합사회2",
+    "term": "세계 평화 지수",
+    "textbook_pages": [
+      124
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 493.2,
+    "concept_ids": [],
+    "category": "지표·측정 개념"
+  },
+  {
+    "course": "통합사회2",
+    "term": "잠재 성장률",
+    "textbook_pages": [
+      137
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 345.4,
+    "concept_ids": [],
+    "category": "지표·측정 개념"
+  },
+  {
+    "course": "통합사회1",
+    "term": "가치관",
+    "textbook_pages": [
+      18,
+      32
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 202.3,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "건조 문화권",
+    "textbook_pages": [
+      92,
+      95
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 349.3,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "계단식 농업",
+    "textbook_pages": [
+      59
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 393.4,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "고랭지 농업",
+    "textbook_pages": [
+      61
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 422.8,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "고령 사회",
+    "textbook_pages": [
+      41
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 437.5,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "공리주의 사상",
+    "textbook_pages": [
+      33
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 540.4,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "관점",
+    "textbook_pages": [
+      12,
+      18,
+      23,
+      28
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 584.5,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "기후",
+    "textbook_pages": [
+      56
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 143.2,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "다문화 장병",
+    "textbook_pages": [
+      116
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 468.4,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "민주주의",
+    "textbook_pages": [
+      44
+    ],
+    "index_pdf_page": 162,
+    "column_x": 56.7,
+    "y": 83.4,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "생태환경",
+    "textbook_pages": [
+      40,
+      131
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 364.8,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "수목 농업",
+    "textbook_pages": [
+      58
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 497.5,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "온실 효과",
+    "textbook_pages": [
+      75
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 412.9,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "유기적 관계",
+    "textbook_pages": [
+      70
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 500.2,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "윤리적 가치관",
+    "textbook_pages": [
+      19
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 543.8,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "이상 기후",
+    "textbook_pages": [
+      75
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 602.0,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "인문환경",
+    "textbook_pages": [
+      92,
+      94,
+      107,
+      146
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 99.1,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "전체주의적 관점",
+    "textbook_pages": [
+      67
+    ],
+    "index_pdf_page": 163,
+    "column_x": 65.2,
+    "y": 468.9,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회1",
+    "term": "지역 문제",
+    "textbook_pages": [
+      146,
+      147
+    ],
+    "index_pdf_page": 163,
+    "column_x": 236.7,
+    "y": 55.0,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "경제활동",
+    "textbook_pages": [
+      78
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 386.2,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "공리주의",
+    "textbook_pages": [
+      47
+    ],
+    "index_pdf_page": 161,
+    "column_x": 65.2,
+    "y": 569.8,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국경 없는 의사회",
+    "textbook_pages": [
+      115,
+      117,
+      126
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 175.0,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "국제 경제",
+    "textbook_pages": [
+      89
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 235.6,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "권리 청원",
+    "textbook_pages": [
+      12
+    ],
+    "index_pdf_page": 161,
+    "column_x": 236.7,
+    "y": 523.5,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "대동사회",
+    "textbook_pages": [
+      66
+    ],
+    "index_pdf_page": 161,
+    "column_x": 408.2,
+    "y": 555.7,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "사회적 가치",
+    "textbook_pages": [
+      40
+    ],
+    "index_pdf_page": 162,
+    "column_x": 228.2,
+    "y": 627.8,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "생산 수단",
+    "textbook_pages": [
+      70
+    ],
+    "index_pdf_page": 162,
+    "column_x": 399.7,
+    "y": 144.7,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "자본주의",
+    "textbook_pages": [
+      70,
+      71,
+      72
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 150.4,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "자유주의",
+    "textbook_pages": [
+      48,
+      51
+    ],
+    "index_pdf_page": 163,
+    "column_x": 408.2,
+    "y": 315.4,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "정의의 여신상",
+    "textbook_pages": [
+      40
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 98.6,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "지속가능한 사회",
+    "textbook_pages": [
+      144
+    ],
+    "index_pdf_page": 164,
+    "column_x": 56.7,
+    "y": 458.6,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "특수 윤리",
+    "textbook_pages": [
+      111,
+      112
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 422.7,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  },
+  {
+    "course": "통합사회2",
+    "term": "평화비",
+    "textbook_pages": [
+      122
+    ],
+    "index_pdf_page": 164,
+    "column_x": 228.2,
+    "y": 614.6,
+    "concept_ids": [],
+    "category": "하위 개념 후보"
+  }
+]

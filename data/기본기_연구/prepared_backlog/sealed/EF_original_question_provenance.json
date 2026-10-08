@@ -1,0 +1,27 @@
+{
+  "case_id": "EF",
+  "source_hwpx": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+  "source_hwpx_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+  "rendered_pdf": "data/기본기_연구/prepared_backlog/sealed/EF_fullsource_render.pdf",
+  "rendered_pdf_sha256": "9cbf65b6a974ff50ab90e2fcb9cf478186dcb3a6ccde120b6f0cd727db364c00",
+  "render_method": "Hancom HWPFrame.HwpObject.SaveAs PDF",
+  "page_index_zero_based": 79,
+  "crop_pdf_points": [
+    306,
+    54,
+    558,
+    512
+  ],
+  "render_scale": 4,
+  "blind_supplement": "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_crop.png",
+  "blind_supplement_sha256": "988dde7181ef2d8ca7e6f43667c946ac37d9833d343bfd072aa62a87c91eca1d",
+  "note": "provenance_mapping의 local_available=false는 과거 상태. 현재 실제 로컬 HWPX를 확인하여 사용. answer_sdss·기존 풀이·코드판정 미열람.",
+  "identity": {
+    "exam_family": "KICE",
+    "academic_year": 2025,
+    "exam_label": "수능",
+    "question_number": 3,
+    "question_id": "KICE-2025-수능-Q01-03-S183~185-Q03",
+    "passage_id": "KICE-2025-수능-Q01-03-S183~185"
+  }
+}

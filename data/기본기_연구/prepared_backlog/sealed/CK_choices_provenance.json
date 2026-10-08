@@ -1,0 +1,16 @@
+{
+  "case_id": "CK",
+  "passage_group": "G017",
+  "provenance": {
+    "exam_family": "KICE",
+    "academic_year": 2023,
+    "exam_label": "9월 모평",
+    "question_number": 4,
+    "question_id": "KICE-2023-9월_모평-Q04-09-S011~016-Q04",
+    "passage_id": "KICE-2023-9월_모평-Q04-09-S011~016",
+    "local_text_source": "고3 기출/hwpx_텍스트_연도별.md",
+    "local_text_location": "문항 011 블록, lines 10983-11010",
+    "source_role": "sealed_choices_supplement_provenance"
+  },
+  "answer_or_sdss_included": false
+}

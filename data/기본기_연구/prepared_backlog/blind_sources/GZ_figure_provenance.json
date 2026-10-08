@@ -1,0 +1,11 @@
+{
+  "case_id": "GZ",
+  "passage_group": "G043",
+  "source": "/tmp/2011_kor2_mun.pdf",
+  "source_identification": "봉인 provenance의 GZ 식별(KICE 2011 수능 Q35)만 사용",
+  "astronomy_figure": {"artifact": "GZ_astronomy_figure.png", "pdf_page_index": 11, "printed_page": 10, "crop_pixels_at_render_scale_2_5": [180, 1450, 1060, 2200], "sha256": "facf5f9db0626b6c5248651cebeafd87d5df6e302394d87f5251f5403736050f"},
+  "choices_figure": {"artifact": "GZ_choices_figure.png", "pdf_page_index": 12, "printed_page": 11, "crop_pixels_at_render_scale_2_5": [180, 250, 1060, 1120], "sha256": "53f9e3a1cea7666a890f8245d9431ad45c74c6fe623bb04d81dc4a91b9f462b1"},
+  "scope_marker": "[A] bracket begins at ‘항성년은 위의 그림처럼’ and ends at the sentence ending ‘생긴다.’ on printed page 10.",
+  "a_full": {"artifact": "GZ_A_full.png", "pdf_page_index": 11, "printed_page": 10, "crop_pixels_at_render_scale_2_5": [170, 1950, 1070, 2380], "sha256": "361e3023fae56e524ca6ee8f3becb625a840bfd420822817a87c0a73acfe35ca", "role": "blind_region_restoration_only"},
+  "limitations": ["공식 질문 PDF의 픽셀 crop이며 벡터 원본은 확인하지 않음.", "답·SDSS·해설·코드 판정은 기록하지 않음."]
+}

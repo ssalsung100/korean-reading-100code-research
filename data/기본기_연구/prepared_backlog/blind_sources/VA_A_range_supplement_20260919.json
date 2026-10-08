@@ -1,0 +1,31 @@
+{
+  "blind_only": true,
+  "passage_group": "G135",
+  "case_id": "VA",
+  "source_role": "mechanical_canonical_source_supplement",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "canonical_file_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+  "xml_anchor": {
+    "passage_header_paragraph_index": 2176,
+    "passage_start_paragraph_index": 2181,
+    "A_text_paragraph_index": 2183,
+    "A_marker_table_id": "1077579278",
+    "A_marker_cell": {"colAddr": "0", "rowAddr": "1"},
+    "A_layout_marker_paragraph_index": 2186,
+    "A_end_paragraph_index": 2183,
+    "following_limitation_paragraph_index": 2189
+  },
+  "range_transcription": {
+    "start": "정본 표 1077579278 1행의 [A] 표지 직후 ‘가령 바나나가 a 지점에서 b 지점까지 이동하는 과정을 과정 1이라고 하자.’",
+    "end": "같은 정본 paragraph 2183의 ‘…과정 3은 다른 과정과의 교차로 도입된 표지를 전달할 수 없다.’ 직후"
+  },
+  "transcription_note": "[A]는 정본 XML에서 과정 1~4를 함께 담은 p2183의 시작 표지이다. 별도 배치 표지 p2186이 이어지며, 물리적 세계 바깥의 한계 문단 p2189는 [A] 범위 밖이다.",
+  "quality_limit": "범위는 canonical XML 구조와 텍스트 anchor로 복원했으며 시각 crop/PDF 렌더링은 추가하지 않았다.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  }
+}

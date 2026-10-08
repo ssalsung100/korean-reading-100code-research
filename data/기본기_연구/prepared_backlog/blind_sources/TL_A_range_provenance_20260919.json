@@ -1,0 +1,24 @@
+{
+  "blind_only": true,
+  "case_id": "TL",
+  "passage_group": "G127",
+  "source_role": "mechanical_canonical_source_provenance",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "canonical_file_sha256": "80775db9b9ee656762d0b496d41e5657fc51a727b197d7dc2bc299c78e206cff",
+  "anchor": {
+    "passage_paragraphs": [132, 133, 134, 135, 136],
+    "A_marker_table_id": "1196512278",
+    "A_marker_cell": {"colAddr": "0", "rowAddr": "1"},
+    "A_text_paragraph": 136,
+    "next_question_number": "007",
+    "next_question_paragraph_index": 143
+  },
+  "quality_limit": "The [A] boundary is restored from canonical XML structure; no official answer, SDSS, explanation, code judgment, or visual crop is included.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "scope": "B-F only; no official answers and no G-I metadata or tags",
+  "records": {
+    "B": {
+      "canonical_identifier": "KICE-2025-6월_모평-Q12-17-S059~064-Q15",
+      "site_original_tags": ["강화/약화", "경쟁입장"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94",
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EA%B0%80%EC%84%A4",
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EC%9E%85%EC%9E%A5"
+      ],
+      "source_paths": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      },
+      "sealed_source_sha256": "469ec32d6e694dbe467ec942d0936d65fd5437b98dfa03ec544ceddedbfc9014",
+      "comparison_file_sha256": "11e0fed911466b75d1f3e0713ce3eba788f09b8db4f35c15dd76619e03074a39"
+    },
+    "C": {
+      "canonical_identifier": "LEET-2025-odd-Q09",
+      "site_original_tags": ["강화/약화"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94"
+      ],
+      "source_paths": {
+        "자료/LEET_언어이해/텍스트/2025/2025_question_odd.md": "df42c8324b6b51a4f66aabd36dc85d7c2225611d121a66e7574828b461fb94e2"
+      },
+      "sealed_source_sha256": "df42c8324b6b51a4f66aabd36dc85d7c2225611d121a66e7574828b461fb94e2",
+      "comparison_file_sha256": "4e71e506cf0f32ed3bf96050bcfbf05072c177fe31525e2382a4e5f364d95694"
+    },
+    "D": {
+      "canonical_identifier": "LEET-2026-odd-Q28",
+      "site_original_tags": ["경쟁입장"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EA%B0%80%EC%84%A4",
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EC%9E%85%EC%9E%A5"
+      ],
+      "source_paths": {
+        "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md": "e9850725352397a36d85c4a83639c18b39b362041c3dfdbaf0b5b216b6ed3fe4"
+      },
+      "sealed_source_sha256": "e9850725352397a36d85c4a83639c18b39b362041c3dfdbaf0b5b216b6ed3fe4",
+      "comparison_file_sha256": "8c5957272a4beae2cb27bb4655858ca7e08e880e3103e8c580c7d123025723cc"
+    },
+    "E": {
+      "canonical_identifier": "MEET-2010-Q34",
+      "site_original_tags": ["강화/약화"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B0%95%ED%99%94%2F%EC%95%BD%ED%99%94"
+      ],
+      "source_paths": {
+        "자료/MEET_언어추론/전사_검수완료/2010/q32-34.md": "56aa8233667c9053b87166eb187b8b4f11d95d273311946b05e69663b1948357"
+      },
+      "sealed_source_sha256": "56aa8233667c9053b87166eb187b8b4f11d95d273311946b05e69663b1948357",
+      "comparison_file_sha256": "202dcf5d63ced949e967d3ea6ac5100cf7d6ae90dbf339ca8772155c8c5a7ae8"
+    },
+    "F": {
+      "canonical_identifier": "MEET-2012-Q12",
+      "site_original_tags": ["경쟁입장"],
+      "search_urls": [
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EA%B0%80%EC%84%A4",
+        "https://sdss.kr/code/search.asp?CodeName=%EA%B2%BD%EC%9F%81%EC%9E%85%EC%9E%A5"
+      ],
+      "source_paths": {
+        "자료/MEET_언어추론/전사_검수완료/2012/q11-13.md": "48ab955076f80e853961440f2174e214e9cdaa2fd7de30b9c6ffc7b60c7216cf"
+      },
+      "sealed_source_sha256": "48ab955076f80e853961440f2174e214e9cdaa2fd7de30b9c6ffc7b60c7216cf",
+      "comparison_file_sha256": "db994a9042c968d97486982c621ba37770ac1938f18134fe7f8191b676495d47"
+    }
+  }
+}

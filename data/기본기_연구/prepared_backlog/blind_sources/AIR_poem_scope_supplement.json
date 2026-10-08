@@ -1,0 +1,26 @@
+{
+  "blind_only": true,
+  "passage_group": "G215",
+  "case_id": "AIR",
+  "source_role": "official_pdf_scope_supplement",
+  "canonical_source": {
+    "path": "/mnt/d/국어/평가원 선지 빼먹기/source_pdfs/daipzip/2024_수능_국어_문제.pdf",
+    "page": 8,
+    "clip_points": [65, 110, 410, 1175],
+    "render_scale": 3,
+    "crop_path": "data/기본기_연구/prepared_backlog/blind_sources/AIR_poem_ABC_scope_official_pdf.png",
+    "crop_sha256": "c0b0e9a1f10010483f6187f3fc3c6ed04b104a612fda52039e5739f493993505"
+  },
+  "scope": {
+    "passage_part": "(나)",
+    "markers": ["[A]", "[B]", "[C]"],
+    "passage_and_marker_start_end_visible": true,
+    "question_visual_or_scope_only": true
+  },
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_scope_restored"
+}

@@ -1,0 +1,126 @@
+{
+  "generated_at": "2026-10-08",
+  "purpose": "G508 four official answer provenance recovery; explicit source transcription only",
+  "source_policy": "No answer inference; only case-specific sealed coordinate provenance and the repository KICE official answer table were used.",
+  "cases": [
+    {
+      "case_id": "BQJ",
+      "passage_group": "G508",
+      "exam_family": "KICE",
+      "academic_year": 2016,
+      "exam_label": "수능국어B형",
+      "exam_form": "홀수형",
+      "question_number": 21,
+      "question_id": "KICE-2016-수능국어B형-Q21-24-Q21",
+      "official_answer": "③",
+      "official_answer_source": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf — PDF 3쪽, 2016학년도 대학수학능력시험 국어 영역 정답표 (B형 홀수형), 문항 21 행",
+      "source_evidence": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+          "field_or_location": "case_id=BQJ → provenance.question_id / provenance.passage_id / provenance.official_pages",
+          "value": "KICE-2016-수능국어B형-Q21-24-Q21 / KICE-2016-수능국어B형-Q21-24; 2016 KICE 국어 B형 홀수형 Q21~24 공통 지문 (PDF page index 39); 2016 KICE 국어 B형 홀수형 Q21 stem and five choices (PDF page index 40); source SHA-256 1f0f6c3736502fd772ea27686d55ecb40abf1aad7c05dcaa56e2d1d945bcc97c"
+        },
+        {
+          "path": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf",
+          "field_or_location": "PDF page 3, B형 홀수형 정답표, 문항 21 행",
+          "value": "2016학년도 대학수학능력시험 국어 영역 정답표; B형 홀수형; 21번 정답 ③; source SHA-256 373b825c4777ba4d83653acb779faa4db197bc6137a049a03baf6053108fb423"
+        }
+      ],
+      "status": "RECOVERED",
+      "notes": "case별 sealed provenance가 공식 KICE 질문 PDF의 B형 홀수형 공통 지문 및 해당 문항 페이지를 직접 지정한다. 공식 정답표의 같은 시험·형식·문항 행에서 답을 전사했다. 문항 풀이, 선지 내용, 기존 semantic 판단, SDSS 표기, 문항 순서로 정답을 추론하지 않았다."
+    },
+    {
+      "case_id": "BQK",
+      "passage_group": "G508",
+      "exam_family": "KICE",
+      "academic_year": 2016,
+      "exam_label": "수능국어B형",
+      "exam_form": "홀수형",
+      "question_number": 22,
+      "question_id": "KICE-2016-수능국어B형-Q21-24-Q22",
+      "official_answer": "③",
+      "official_answer_source": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf — PDF 3쪽, 2016학년도 대학수학능력시험 국어 영역 정답표 (B형 홀수형), 문항 22 행",
+      "source_evidence": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+          "field_or_location": "case_id=BQK → provenance.question_id / provenance.passage_id / provenance.official_pages",
+          "value": "KICE-2016-수능국어B형-Q21-24-Q22 / KICE-2016-수능국어B형-Q21-24; 2016 KICE 국어 B형 홀수형 Q21~24 공통 지문 (PDF page index 39); 2016 KICE 국어 B형 홀수형 Q22 stem and five choices (PDF page index 40); source SHA-256 1f0f6c3736502fd772ea27686d55ecb40abf1aad7c05dcaa56e2d1d945bcc97c"
+        },
+        {
+          "path": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf",
+          "field_or_location": "PDF page 3, B형 홀수형 정답표, 문항 22 행",
+          "value": "2016학년도 대학수학능력시험 국어 영역 정답표; B형 홀수형; 22번 정답 ③; source SHA-256 373b825c4777ba4d83653acb779faa4db197bc6137a049a03baf6053108fb423"
+        }
+      ],
+      "status": "RECOVERED",
+      "notes": "case별 sealed provenance가 공식 KICE 질문 PDF의 B형 홀수형 공통 지문 및 해당 문항 페이지를 직접 지정한다. 공식 정답표의 같은 시험·형식·문항 행에서 답을 전사했다. 문항 풀이, 선지 내용, 기존 semantic 판단, SDSS 표기, 문항 순서로 정답을 추론하지 않았다."
+    },
+    {
+      "case_id": "BQL",
+      "passage_group": "G508",
+      "exam_family": "KICE",
+      "academic_year": 2016,
+      "exam_label": "수능국어B형",
+      "exam_form": "홀수형",
+      "question_number": 23,
+      "question_id": "KICE-2016-수능국어B형-Q21-24-Q23",
+      "official_answer": "③",
+      "official_answer_source": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf — PDF 3쪽, 2016학년도 대학수학능력시험 국어 영역 정답표 (B형 홀수형), 문항 23 행",
+      "source_evidence": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+          "field_or_location": "case_id=BQL → provenance.question_id / provenance.passage_id / provenance.official_pages",
+          "value": "KICE-2016-수능국어B형-Q21-24-Q23 / KICE-2016-수능국어B형-Q21-24; 2016 KICE 국어 B형 홀수형 Q21~24 공통 지문 (PDF page index 39); 2016 KICE 국어 B형 홀수형 Q23 stem and five choices (PDF page index 40); source SHA-256 1f0f6c3736502fd772ea27686d55ecb40abf1aad7c05dcaa56e2d1d945bcc97c"
+        },
+        {
+          "path": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf",
+          "field_or_location": "PDF page 3, B형 홀수형 정답표, 문항 23 행",
+          "value": "2016학년도 대학수학능력시험 국어 영역 정답표; B형 홀수형; 23번 정답 ③; source SHA-256 373b825c4777ba4d83653acb779faa4db197bc6137a049a03baf6053108fb423"
+        }
+      ],
+      "status": "RECOVERED",
+      "notes": "case별 sealed provenance가 공식 KICE 질문 PDF의 B형 홀수형 공통 지문 및 해당 문항 페이지를 직접 지정한다. 공식 정답표의 같은 시험·형식·문항 행에서 답을 전사했다. 문항 풀이, 선지 내용, 기존 semantic 판단, SDSS 표기, 문항 순서로 정답을 추론하지 않았다."
+    },
+    {
+      "case_id": "BQM",
+      "passage_group": "G508",
+      "exam_family": "KICE",
+      "academic_year": 2016,
+      "exam_label": "수능국어B형",
+      "exam_form": "홀수형",
+      "question_number": 24,
+      "question_id": "KICE-2016-수능국어B형-Q21-24-Q24",
+      "official_answer": "②",
+      "official_answer_source": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf — PDF 3쪽, 2016학년도 대학수학능력시험 국어 영역 정답표 (B형 홀수형), 문항 24 행",
+      "source_evidence": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+          "field_or_location": "case_id=BQM → provenance.question_id / provenance.passage_id / provenance.official_pages",
+          "value": "KICE-2016-수능국어B형-Q21-24-Q24 / KICE-2016-수능국어B형-Q21-24; 2016 KICE 국어 B형 홀수형 Q21~24 공통 지문 (PDF page index 39); 2016 KICE 국어 B형 홀수형 Q24 stem and five choices (PDF page index 40); source SHA-256 1f0f6c3736502fd772ea27686d55ecb40abf1aad7c05dcaa56e2d1d945bcc97c"
+        },
+        {
+          "path": "자료/평가원_정답표/원본/수능/2016__국어_정답표_국어영역.pdf",
+          "field_or_location": "PDF page 3, B형 홀수형 정답표, 문항 24 행",
+          "value": "2016학년도 대학수학능력시험 국어 영역 정답표; B형 홀수형; 24번 정답 ②; source SHA-256 373b825c4777ba4d83653acb779faa4db197bc6137a049a03baf6053108fb423"
+        }
+      ],
+      "status": "RECOVERED",
+      "notes": "case별 sealed provenance가 공식 KICE 질문 PDF의 B형 홀수형 공통 지문 및 해당 문항 페이지를 직접 지정한다. 공식 정답표의 같은 시험·형식·문항 행에서 답을 전사했다. 문항 풀이, 선지 내용, 기존 semantic 판단, SDSS 표기, 문항 순서로 정답을 추론하지 않았다."
+    }
+  ],
+  "ledger_pre_write": {
+    "sha256": {
+      "data/기본기_연구/astra_handoff_queue.jsonl": "74b1e630ddb3808a1fc25d5d047514b8558ddd8f271d1d41a5d629fd568b4195",
+      "data/기본기_연구/astra_handoff_processed.jsonl": "c49e67a393b517671b94b6e0267689f8250fe55f6d4f2cd38e0cd954ef311818",
+      "data/기본기_연구/prepared_backlog/manifest.jsonl": "29bbdf41af019151d0342a846b3cfa48cec22142f41f24f5d895c4b8e4392e48",
+      "data/기본기_연구/meta_state.json": "2ac212abe6f83b7d2e97f9b2ef0b706bca92bd8bda7dfafb1a2482044be480fc"
+    },
+    "queue_rows": 7605,
+    "processed_rows": 7605,
+    "pending": 0,
+    "queue_duplicates": 0,
+    "processed_duplicates": 0,
+    "orphans": 0
+  },
+  "process_sequence_note": "시험 연도·B형·문항 좌표를 확인한 뒤 정답표의 형식별 차이를 사전 확인했으며, 그 단계에서는 답을 배정하지 않았다. 이후 case별 sealed provenance에서 B형 홀수형의 공통 지문 및 각 문항 페이지가 직접 연결됨을 검증한 후에만 공식 정답표 행을 적용했다. 정답이나 선택지 내용으로 형식을 역추론하지 않았다."
+}

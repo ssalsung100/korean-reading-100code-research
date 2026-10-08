@@ -1,0 +1,4228 @@
+[
+  {
+    "order": 1,
+    "id": "ETH-01",
+    "area": "윤리",
+    "title": "행복을 무엇으로 판단하는가",
+    "focus": "행복의 기준을 덕·쾌락·평정·동양 사상의 관점에서 비교",
+    "recommended_visual": "사상가 발언·입장 비교표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "eudaimonia",
+        "name": "덕과 자아실현의 행복론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "pleasure_happiness",
+        "name": "쾌락과 욕구 충족의 행복론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "stoic_happiness",
+        "name": "금욕과 평정의 행복론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "eastern_happiness",
+        "name": "동양의 행복론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "meaning_of_happiness",
+      "eudaimonia"
+    ],
+    "supporting_concepts": [
+      "pleasure_happiness",
+      "stoic_happiness",
+      "eastern_happiness"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [
+      {
+        "concept_id": "conditions_happiness",
+        "name": "행복한 삶의 조건",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "stoic_happiness",
+        "name": "금욕과 평정의 행복론",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "eastern_happiness",
+        "name": "동양의 행복론",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 2,
+    "id": "ETH-02",
+    "area": "윤리",
+    "title": "행복의 개인적·사회적 조건",
+    "focus": "좋은 삶을 개인의 실천과 정주·정치 조건의 결합으로 설명",
+    "recommended_visual": "행복 조건 지표·사례 비교표",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "conditions_happiness",
+        "name": "행복한 삶의 조건",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "moral_practice_happiness",
+        "name": "도덕적 실천과 행복",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "settlement_environment",
+        "name": "질 높은 정주 환경",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "democracy_happiness",
+        "name": "민주주의와 행복",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "conditions_happiness",
+      "moral_practice_happiness"
+    ],
+    "supporting_concepts": [
+      "settlement_environment",
+      "democracy_happiness"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "meaning_of_happiness",
+        "name": "행복의 의미와 기준",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 3,
+    "id": "ETH-03",
+    "area": "윤리",
+    "title": "도덕적 고려의 범위는 어디까지인가",
+    "focus": "인간 중심주의에서 동물·생명·생태 중심주의로 고려 범위를 확장",
+    "recommended_visual": "도덕적 고려 대상의 포함 관계도",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "ethical_view",
+        "name": "윤리적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "anthropocentrism",
+        "name": "인간 중심주의",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "animal_liberation",
+        "name": "동물 중심주의",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "life_centrism",
+        "name": "생명 중심주의",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "ecocentrism",
+        "name": "생태 중심주의",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "ethical_view",
+      "anthropocentrism"
+    ],
+    "supporting_concepts": [
+      "animal_liberation",
+      "life_centrism",
+      "ecocentrism"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "life_centrism",
+        "name": "생명 중심주의",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 4,
+    "id": "ETH-04",
+    "area": "윤리",
+    "title": "분배 정의의 기준과 소유 권리",
+    "focus": "평등 기준과 롤스·노직·공동체주의의 분배 원칙을 대조",
+    "recommended_visual": "분배 원칙·가상 배분 결과표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "justice",
+        "name": "정의의 의미",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "equality_principles",
+        "name": "절대적 평등과 상대적 평등",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "rawls",
+        "name": "롤스의 정의론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "nozick",
+        "name": "노직의 소유 권리론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "liberal_communitarian",
+        "name": "자유주의와 공동체주의 정의관",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "justice",
+      "distributive_justice"
+    ],
+    "supporting_concepts": [
+      "equality_principles",
+      "rawls",
+      "nozick",
+      "liberal_communitarian"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "liberal_communitarian",
+        "name": "자유주의와 공동체주의 정의관",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 5,
+    "id": "ETH-05",
+    "area": "윤리",
+    "title": "잘못을 어떻게 바로잡을 것인가",
+    "focus": "교정적 정의와 형벌 정당화, 부정의한 법에 대한 시민 불복종의 조건",
+    "recommended_visual": "판결 사례·행위 조건 도식",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "justice",
+        "name": "정의의 의미",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 2,
+        "concept_id": "corrective_justice",
+        "name": "교정적 정의",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "punishment_theories",
+        "name": "응보주의와 공리주의 형벌론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "civil_disobedience",
+        "name": "시민 불복종",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "corrective_justice",
+      "punishment_theories"
+    ],
+    "supporting_concepts": [
+      "civil_disobedience",
+      "justice"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "constitutional_rights",
+        "name": "헌법과 기본권 보장"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "punishment_theories",
+        "name": "응보주의와 공리주의 형벌론",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 6,
+    "id": "ETH-06",
+    "area": "윤리",
+    "title": "확장되는 시민의 책임",
+    "focus": "소비·생태·세계·기술 영역으로 확장되는 시민 윤리",
+    "recommended_visual": "행위 주체별 책임 매트릭스",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "ecological_citizen",
+        "name": "생태시민과 녹색 소비",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "ethical_consumption",
+        "name": "윤리적 소비와 지속가능한 시장 참여",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "world_citizenship",
+        "name": "세계시민 의식과 국제적 연대",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "technology_ethics_regulation",
+        "name": "인공지능·신기술의 윤리와 규제",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "ecological_citizen",
+      "ethical_consumption"
+    ],
+    "supporting_concepts": [
+      "world_citizenship",
+      "technology_ethics_regulation"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "economic_actor_roles",
+        "name": "가계·기업·정부의 경제적 역할"
+      },
+      {
+        "id": "fourth_industrial_revolution",
+        "name": "제4차 산업 혁명과 인공지능 사회"
+      },
+      {
+        "id": "human_rights",
+        "name": "인권의 의미와 특성"
+      },
+      {
+        "id": "international_peace",
+        "name": "국제 사회의 행위 주체와 평화"
+      },
+      {
+        "id": "sustainable_development",
+        "name": "지속 가능한 발전"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "technology_ethics_regulation",
+        "name": "인공지능·신기술의 윤리와 규제",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 7,
+    "id": "GEO-01",
+    "area": "지리",
+    "title": "기후 자료로 생활 양식을 추론하는 법",
+    "focus": "공간적 관점과 기후 그래프를 이용해 기후 지역의 생활을 추론",
+    "recommended_visual": "세계 기후 지도·기후 그래프",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "spatial_view",
+        "name": "공간적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "climate_regions",
+        "name": "기후 지역과 생활 양식",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "climate_graph_reasoning",
+        "name": "기후 그래프 판독과 기후 지역 추론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "spatial_view",
+      "natural_environment"
+    ],
+    "supporting_concepts": [
+      "climate_regions",
+      "climate_graph_reasoning"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [
+      {
+        "concept_id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 8,
+    "id": "GEO-02",
+    "area": "지리",
+    "title": "지형은 인간 생활의 조건이 되는가",
+    "focus": "지형 형성과 토지 이용·산업·정주 방식의 관계",
+    "recommended_visual": "지형 단면도·토지 이용 사진",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "natural_environment",
+        "name": "자연환경과 인간 생활",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "landforms_and_life",
+        "name": "지형 형성과 인간 생활",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "settlement_environment",
+        "name": "질 높은 정주 환경",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "landforms_and_life",
+      "natural_environment"
+    ],
+    "supporting_concepts": [
+      "settlement_environment"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "conditions_happiness",
+        "name": "행복한 삶의 조건"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "climate_regions",
+        "name": "기후 지역과 생활 양식",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 9,
+    "id": "GEO-03",
+    "area": "지리",
+    "title": "재해와 위험은 같은 말이 아니다",
+    "focus": "자연현상, 노출, 취약성, 대응 역량을 구분하여 재해 위험을 설명",
+    "recommended_visual": "재해 위험 함수·지역별 취약성 지도",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "spatial_view",
+        "name": "공간적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 2,
+        "concept_id": "natural_disaster",
+        "name": "자연재해의 발생과 대응",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "disaster_risk_management",
+        "name": "재해 위험·취약성·대응과 위험 관리",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      }
+    ],
+    "core_concepts": [
+      "natural_disaster",
+      "disaster_risk_management"
+    ],
+    "supporting_concepts": [
+      "spatial_view"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활"
+      },
+      {
+        "id": "settlement_environment",
+        "name": "질 높은 정주 환경"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "disaster_risk_management",
+        "name": "재해 위험·취약성·대응과 위험 관리",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 10,
+    "id": "GEO-04",
+    "area": "지리",
+    "title": "환경 문제의 발생과 개발의 한계",
+    "focus": "환경 용량을 넘는 이용이 생태계·생물 다양성과 환경 갈등에 미치는 영향",
+    "recommended_visual": "개발 전후 생태 자료·이해관계자 도식",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "biodiversity",
+        "name": "생물 다양성과 생태계 보전",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "environmental_capacity",
+        "name": "환경 용량과 자정 능력",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "environmental_assessment",
+        "name": "환경 영향 평가와 개발의 한계",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "environmental_conflict",
+        "name": "환경 갈등과 이해관계 조정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "environmental_problem",
+      "environmental_capacity"
+    ],
+    "supporting_concepts": [
+      "biodiversity",
+      "environmental_assessment",
+      "environmental_conflict"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "environmental_governance",
+        "name": "환경 문제 해결의 주체와 거버넌스"
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활"
+      },
+      {
+        "id": "sustainable_development",
+        "name": "지속 가능한 발전"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "environmental_capacity",
+        "name": "환경 용량과 자정 능력",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "environmental_assessment",
+        "name": "환경 영향 평가와 개발의 한계",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "environmental_conflict",
+        "name": "환경 갈등과 이해관계 조정",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 11,
+    "id": "GEO-05",
+    "area": "지리",
+    "title": "기후 위기를 다층적으로 다스리는 방법",
+    "focus": "지속가능발전에서 국제 협약·국내 거버넌스·탄소중립으로 이어지는 대응",
+    "recommended_visual": "국가·정부·기업·시민 역할 도식",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "sustainable_development",
+        "name": "지속 가능한 발전",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "environmental_governance",
+        "name": "환경 문제 해결의 주체와 거버넌스",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "climate_governance",
+        "name": "기후 변화와 국제 환경 협약",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "carbon_neutrality",
+        "name": "탄소중립과 탄소 가격 제도",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "sdgs",
+        "name": "지속가능발전 목표(SDGs)",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "sustainable_development",
+      "climate_governance"
+    ],
+    "supporting_concepts": [
+      "environmental_governance",
+      "carbon_neutrality",
+      "sdgs"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "environmental_problem",
+        "name": "환경 문제의 발생 구조"
+      },
+      {
+        "id": "renewable_energy",
+        "name": "신·재생 에너지와 에너지 전환"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "sdgs",
+        "name": "지속가능발전 목표(SDGs)",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "carbon_neutrality",
+        "name": "탄소중립과 탄소 가격 제도",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 12,
+    "id": "GEO-06",
+    "area": "지리",
+    "title": "도시는 어떻게 분화하고 확장하는가",
+    "focus": "도시화, 내부 구조, 교외화, 도시 문제와 재생·스마트 도시의 관계",
+    "recommended_visual": "도시 내부 구조 모식도·시계열 항공 사진",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "urbanization",
+        "name": "도시화",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "urban_problem_regeneration",
+        "name": "도시 문제와 도시 재생",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "urban_structure",
+        "name": "도시 내부 구조와 공간 분화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "suburbanization_metro",
+        "name": "교외화와 대도시권 확대",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "smart_sustainable_city",
+        "name": "스마트 도시와 지속가능한 도시",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "urbanization",
+      "urban_structure"
+    ],
+    "supporting_concepts": [
+      "suburbanization_metro",
+      "urban_problem_regeneration",
+      "smart_sustainable_city"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "industrialization",
+        "name": "산업화"
+      },
+      {
+        "id": "information_society",
+        "name": "정보화와 정보 사회"
+      },
+      {
+        "id": "sustainable_development",
+        "name": "지속 가능한 발전"
+      },
+      {
+        "id": "transport_development",
+        "name": "교통 발달과 공간 변화"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "suburbanization_metro",
+        "name": "교외화와 대도시권 확대",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "smart_sustainable_city",
+        "name": "스마트 도시와 지속가능한 도시",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 13,
+    "id": "GEO-07",
+    "area": "지리",
+    "title": "교통과 정보가 지역을 바꾸는 방식",
+    "focus": "접근성 변화와 지역 조사 자료를 이용해 지역 격차를 분석",
+    "recommended_visual": "교통망 변화 지도·GIS 중첩도",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "spatial_view",
+        "name": "공간적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 2,
+        "concept_id": "transport_development",
+        "name": "교통 발달과 공간 변화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "regional_research",
+        "name": "지역 조사와 지리 정보",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "regional_inequality",
+        "name": "지역 격차와 공간 불평등",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "transport_development",
+      "regional_research"
+    ],
+    "supporting_concepts": [
+      "regional_inequality",
+      "spatial_view"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 14,
+    "id": "GEO-08",
+    "area": "지리",
+    "title": "문화권과 종교 경관의 형성",
+    "focus": "문화권 구분과 종교 확산이 지역 경관에 남긴 흔적",
+    "recommended_visual": "문화권·종교 분포 지도",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "culture",
+        "name": "문화의 의미와 속성",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 2,
+        "concept_id": "cultural_regions",
+        "name": "문화권의 형성과 세계 문화권",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "religious_landscape",
+        "name": "종교의 공간적 확산과 문화 경관",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      }
+    ],
+    "core_concepts": [
+      "cultural_regions",
+      "religious_landscape"
+    ],
+    "supporting_concepts": [
+      "culture"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활"
+      },
+      {
+        "id": "spatial_view",
+        "name": "공간적 관점"
+      },
+      {
+        "id": "temporal_view",
+        "name": "시간적 관점"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "acculturation",
+        "name": "문화 접변의 양상",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 15,
+    "id": "GEO-09",
+    "area": "지리",
+    "title": "세계화와 지역화는 반대인가",
+    "focus": "다국적 기업·세계 도시와 장소 마케팅·지리적 표시제가 공존하는 구조",
+    "recommended_visual": "다국적 기업 기능 입지 지도·지역 상품 사례",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "globalization",
+        "name": "세계화의 양상과 영향",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "localization",
+        "name": "지역화와 장소 마케팅",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "multinational_corporation",
+        "name": "다국적 기업과 공간적 분업",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "globalization_problems",
+        "name": "세계화의 문제와 문화 획일화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "global_city",
+        "name": "세계 도시와 도시 체계",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "geographical_indication",
+        "name": "지리적 표시제와 지역 상품의 가치",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "globalization",
+      "localization"
+    ],
+    "supporting_concepts": [
+      "multinational_corporation",
+      "global_city",
+      "geographical_indication",
+      "globalization_problems"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "cultural_regions",
+        "name": "문화권의 형성과 세계 문화권"
+      },
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역"
+      },
+      {
+        "id": "urbanization",
+        "name": "도시화"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "cultural_regions",
+        "name": "문화권의 형성과 세계 문화권",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 16,
+    "id": "GEO-10",
+    "area": "지리",
+    "title": "인구 구조와 이동의 연쇄",
+    "focus": "인구 지표와 인구 변천을 바탕으로 저출산·고령화·이주·정책을 연결",
+    "recommended_visual": "인구 피라미드·인구 이동 흐름도",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "population_structure",
+        "name": "인구 구조와 인구 문제",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "population_indicators",
+        "name": "인구 지표와 인구 구조 분석",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "low_birth_aging",
+        "name": "저출산·고령화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "population_migration",
+        "name": "인구 이동과 국제 이주",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "demographic_transition",
+        "name": "인구 변천 모형과 인구 성장 단계",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "population_policy",
+        "name": "인구 문제와 인구 정책",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "population_structure",
+      "population_indicators"
+    ],
+    "supporting_concepts": [
+      "demographic_transition",
+      "low_birth_aging",
+      "population_migration",
+      "population_policy"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "demographic_transition",
+        "name": "인구 변천 모형과 인구 성장 단계",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "population_policy",
+        "name": "인구 문제와 인구 정책",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 17,
+    "id": "GEO-11",
+    "area": "지리",
+    "title": "자원의 편재와 에너지 전환",
+    "focus": "자원의 특성과 공간적 편재가 자원 안보와 에너지 믹스 전환에 미치는 영향",
+    "recommended_visual": "자원 분포 지도·국가별 에너지 믹스",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "resource_characteristics",
+        "name": "자원의 의미·유한성·편재성·가변성",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "fossil_fuel",
+        "name": "화석 에너지 자원",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "resource_security",
+        "name": "자원 안보와 자원 민족주의",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "renewable_energy",
+        "name": "신·재생 에너지와 에너지 전환",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "energy_mix_transition",
+        "name": "에너지 믹스와 에너지 전환 경로",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "resource_distribution",
+      "resource_characteristics"
+    ],
+    "supporting_concepts": [
+      "resource_security",
+      "fossil_fuel",
+      "renewable_energy",
+      "energy_mix_transition"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역"
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활"
+      },
+      {
+        "id": "sustainable_development",
+        "name": "지속 가능한 발전"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "resource_security",
+        "name": "자원 안보와 자원 민족주의",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 18,
+    "id": "SOC-01",
+    "area": "사회문화",
+    "title": "문화를 이해하는 기준과 한계",
+    "focus": "문화의 속성·보편성·다양성에서 문화 상대주의의 적용 한계까지",
+    "recommended_visual": "문화 사례 판정표·입장 비교",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "social_view",
+        "name": "사회적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "culture",
+        "name": "문화의 의미와 속성",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "cultural_universality",
+        "name": "문화의 보편성과 다양성",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "attitude_culture",
+        "name": "문화를 이해하는 태도",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "extreme_relativism",
+        "name": "극단적 문화 상대주의의 한계",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "social_view",
+      "culture"
+    ],
+    "supporting_concepts": [
+      "cultural_universality",
+      "attitude_culture",
+      "extreme_relativism"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [
+      {
+        "concept_id": "cultural_identity",
+        "name": "문화적 정체성과 다문화 사회",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 19,
+    "id": "SOC-02",
+    "area": "사회문화",
+    "title": "문화는 어떻게 변하고 정체성이 되는가",
+    "focus": "문화 변동과 접변, 전통의 재구성, 다문화 정체성과 통합 정책",
+    "recommended_visual": "문화 접변 결과 벤다이어그램·사례 계보",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "cultural_change",
+        "name": "문화 변동의 요인",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "traditional_culture",
+        "name": "전통문화의 의의와 창조적 계승",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "cultural_identity",
+        "name": "문화적 정체성과 다문화 사회",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "acculturation",
+        "name": "문화 접변의 양상",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 5,
+        "concept_id": "multicultural_policy",
+        "name": "다문화 정책과 사회 통합",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "cultural_change",
+      "acculturation"
+    ],
+    "supporting_concepts": [
+      "traditional_culture",
+      "cultural_identity",
+      "multicultural_policy"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "cultural_universality",
+        "name": "문화의 보편성과 다양성"
+      },
+      {
+        "id": "culture",
+        "name": "문화의 의미와 속성"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 20,
+    "id": "SOC-03",
+    "area": "사회문화",
+    "title": "산업화에서 정보화까지의 사회 변화",
+    "focus": "산업·정보 기술 변화가 문화 지체·격차·시민 책임을 발생시키는 과정",
+    "recommended_visual": "산업 구조 시계열·정보 격차 통계",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "information_society",
+        "name": "정보화와 정보 사회",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "industrial_social_change",
+        "name": "산업화·도시화의 사회 변화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "cultural_lag",
+        "name": "문화 지체와 기술 지체",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "digital_citizenship",
+        "name": "디지털 시민성과 사이버 공간의 권리·책임",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "industrial_social_change",
+      "information_society"
+    ],
+    "supporting_concepts": [
+      "cultural_lag",
+      "digital_divide",
+      "digital_citizenship"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "cultural_change",
+        "name": "문화 변동의 요인"
+      },
+      {
+        "id": "industrialization",
+        "name": "산업화"
+      },
+      {
+        "id": "urbanization",
+        "name": "도시화"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "cultural_change",
+        "name": "문화 변동의 요인",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "industrialization",
+        "name": "산업화",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "cultural_lag",
+        "name": "문화 지체와 기술 지체",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "digital_citizenship",
+        "name": "디지털 시민성과 사이버 공간의 권리·책임",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 21,
+    "id": "SOC-04",
+    "area": "사회문화",
+    "title": "불평등은 어떻게 측정하고 완화하는가",
+    "focus": "불평등 양상과 지표, 복지 정책 및 적극적 우대 조치의 기준",
+    "recommended_visual": "소득 분포·불평등 지수·정책 효과표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "social_inequality",
+        "name": "사회 불평등의 양상",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "equality_principles",
+        "name": "절대적 평등과 상대적 평등",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "inequality_indicators",
+        "name": "불평등 지표의 해석",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 5,
+        "concept_id": "affirmative_action",
+        "name": "적극적 우대 조치",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "social_inequality",
+      "inequality_indicators"
+    ],
+    "supporting_concepts": [
+      "welfare_policy",
+      "affirmative_action",
+      "equality_principles"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "justice",
+        "name": "정의의 의미"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "inequality_indicators",
+        "name": "불평등 지표의 해석",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 22,
+    "id": "SOC-05",
+    "area": "사회문화",
+    "title": "인공지능 시대의 사회 변화",
+    "focus": "제4차 산업 혁명과 미래 사회에서 기술 규제와 사회 제도의 대응",
+    "recommended_visual": "기술 확산 시나리오·이해관계자 표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "information_society",
+        "name": "정보화와 정보 사회",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 2,
+        "concept_id": "future_society",
+        "name": "미래 사회의 변화와 대응",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "fourth_industrial_revolution",
+        "name": "제4차 산업 혁명과 인공지능 사회",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "technology_ethics_regulation",
+        "name": "인공지능·신기술의 윤리와 규제",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "future_society",
+      "fourth_industrial_revolution"
+    ],
+    "supporting_concepts": [
+      "technology_ethics_regulation",
+      "information_society"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "human_rights",
+        "name": "인권의 의미와 특성"
+      },
+      {
+        "id": "sustainable_development",
+        "name": "지속 가능한 발전"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 23,
+    "id": "ECO-01",
+    "area": "경제",
+    "title": "희소성에서 최적 선택까지",
+    "focus": "비용·편익과 기회비용을 한계적으로 비교하는 선택 원리",
+    "recommended_visual": "선택 대안별 편익·비용 표",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "scarcity",
+        "name": "희소성과 경제 문제",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "opportunity_cost",
+        "name": "기회비용",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "marginal_analysis",
+        "name": "한계 분석과 최적 선택",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "scarcity",
+      "rational_choice"
+    ],
+    "supporting_concepts": [
+      "opportunity_cost",
+      "marginal_analysis"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 24,
+    "id": "ECO-02",
+    "area": "경제",
+    "title": "경제 체제와 경제 주체의 역할",
+    "focus": "국민 경제 순환 속 가계·기업·정부의 목적과 경제 체제의 차이",
+    "recommended_visual": "국민 경제 순환도·경제 체제 비교표",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "economic_systems",
+        "name": "시장경제·계획경제·혼합경제",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "economic_agent_objectives",
+        "name": "경제 주체의 역할과 목적 함수",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "economic_actor_roles",
+        "name": "가계·기업·정부의 경제적 역할",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "capitalism_history",
+        "name": "자본주의의 역사적 전개",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "economic_activity_flow",
+      "economic_systems"
+    ],
+    "supporting_concepts": [
+      "economic_agent_objectives",
+      "economic_actor_roles",
+      "capitalism_history"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리"
+      },
+      {
+        "id": "scarcity",
+        "name": "희소성과 경제 문제"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 25,
+    "id": "ECO-03",
+    "area": "경제",
+    "title": "소비자는 예산 안에서 무엇을 선택하는가",
+    "focus": "가계 소득·지출과 예산 제약 아래 효용 및 윤리적 소비를 함께 고려",
+    "recommended_visual": "예산선·소비 조합표",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "household_income_expenditure",
+        "name": "가계의 소득·지출과 처분 가능 소득",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "rational_choice",
+        "name": "합리적 선택과 비용·편익",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "ethical_consumption",
+        "name": "윤리적 소비와 지속가능한 시장 참여",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "consumer_choice_budget",
+        "name": "예산 제약과 소비자의 효용 극대화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      }
+    ],
+    "core_concepts": [
+      "consumer_choice_budget",
+      "household_income_expenditure"
+    ],
+    "supporting_concepts": [
+      "rational_choice",
+      "ethical_consumption"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환"
+      },
+      {
+        "id": "economic_actor_roles",
+        "name": "가계·기업·정부의 경제적 역할"
+      },
+      {
+        "id": "economic_agent_objectives",
+        "name": "경제 주체의 역할과 목적 함수"
+      },
+      {
+        "id": "financial_life",
+        "name": "금융 생활과 자산 관리"
+      },
+      {
+        "id": "marginal_analysis",
+        "name": "한계 분석과 최적 선택"
+      },
+      {
+        "id": "scarcity",
+        "name": "희소성과 경제 문제"
+      },
+      {
+        "id": "sustainable_development",
+        "name": "지속 가능한 발전"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "financial_life",
+        "name": "금융 생활과 자산 관리",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "financial_properties",
+        "name": "금융 자산의 유형과 속성",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "financial_return_risk",
+        "name": "금융 상품의 수익·위험 구조와 분산 투자",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "consumer_choice_budget",
+        "name": "예산 제약과 소비자의 효용 극대화",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 26,
+    "id": "ECO-04",
+    "area": "경제",
+    "title": "기업의 이윤과 책임은 충돌하는가",
+    "focus": "생산·비용·수입에 따른 이윤 극대화와 기업의 사회적 책임",
+    "recommended_visual": "생산량별 비용·수입 그래프",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "corporate_responsibility",
+        "name": "기업가 정신과 사회적 책임",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "economic_agent_objectives",
+        "name": "경제 주체의 역할과 목적 함수",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "firm_production_cost",
+        "name": "기업의 생산·비용·수입과 이윤 극대화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 중심"
+      }
+    ],
+    "core_concepts": [
+      "firm_production_cost",
+      "corporate_responsibility"
+    ],
+    "supporting_concepts": [
+      "economic_agent_objectives"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환"
+      },
+      {
+        "id": "marginal_analysis",
+        "name": "한계 분석과 최적 선택"
+      },
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 27,
+    "id": "ECO-05",
+    "area": "경제",
+    "title": "시장 균형은 어떻게 움직이는가",
+    "focus": "수요·공급, 연관재, 동시 변동과 탄력성으로 균형 변화를 추론",
+    "recommended_visual": "수요·공급 곡선과 이동 도식",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "market_principle",
+        "name": "시장 경제의 원리",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "demand_supply",
+        "name": "수요·공급의 법칙과 시장 균형",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "demand_supply_shift",
+        "name": "수요·공급의 변동과 연관재",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "simultaneous_market_shift",
+        "name": "수요·공급의 동시 변동과 균형의 불확정성",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "elasticity",
+        "name": "수요·공급의 가격 탄력성",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "market_principle",
+      "demand_supply"
+    ],
+    "supporting_concepts": [
+      "demand_supply_shift",
+      "simultaneous_market_shift",
+      "elasticity"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "scarcity",
+        "name": "희소성과 경제 문제"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "simultaneous_market_shift",
+        "name": "수요·공급의 동시 변동과 균형의 불확정성",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "elasticity",
+        "name": "수요·공급의 가격 탄력성",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 28,
+    "id": "ECO-06",
+    "area": "경제",
+    "title": "시장 규제와 후생의 변화",
+    "focus": "경제적 잉여를 기준으로 가격 규제·조세·독과점 정책의 효과를 평가",
+    "recommended_visual": "잉여 영역·거래량 변화 그래프",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "economic_surplus_efficiency",
+        "name": "소비자·생산자 잉여와 자원 배분 효율성",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "price_regulation",
+        "name": "최고·최저 가격제와 거래량 규제",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "tax_subsidy_incidence",
+        "name": "조세·보조금의 귀착과 후생 효과",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "monopoly_competition",
+        "name": "독과점과 경쟁 정책",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "economic_surplus_efficiency",
+      "price_regulation"
+    ],
+    "supporting_concepts": [
+      "tax_subsidy_incidence",
+      "monopoly_competition"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "demand_supply",
+        "name": "수요·공급의 법칙과 시장 균형"
+      },
+      {
+        "id": "marginal_analysis",
+        "name": "한계 분석과 최적 선택"
+      },
+      {
+        "id": "market_failure",
+        "name": "시장 실패"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "firm_production_cost",
+        "name": "기업의 생산·비용·수입과 이윤 극대화",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "demand_supply",
+        "name": "수요·공급의 법칙과 시장 균형",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "monopoly_competition",
+        "name": "독과점과 경쟁 정책",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "tax_subsidy_incidence",
+        "name": "조세·보조금의 귀착과 후생 효과",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 29,
+    "id": "ECO-07",
+    "area": "경제",
+    "title": "시장은 왜 실패하고 정부도 왜 실패하는가",
+    "focus": "외부 효과·공공재·정보 비대칭을 교정하는 정책과 정부 실패의 가능성",
+    "recommended_visual": "사적·사회적 비용 곡선·정책 비교",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "market_failure",
+        "name": "시장 실패",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "external_effects",
+        "name": "외부 효과",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "public_goods",
+        "name": "공공재의 비배제성과 비경합성",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "information_asymmetry",
+        "name": "정보 비대칭성과 역선택",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "externality_correction",
+        "name": "외부 효과의 사회적 최적과 교정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "market_failure",
+      "external_effects"
+    ],
+    "supporting_concepts": [
+      "public_goods",
+      "information_asymmetry",
+      "externality_correction",
+      "government_failure"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "economic_surplus_efficiency",
+        "name": "소비자·생산자 잉여와 자원 배분 효율성"
+      },
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "market_principle",
+        "name": "시장 경제의 원리",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "economic_surplus_efficiency",
+        "name": "소비자·생산자 잉여와 자원 배분 효율성",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "information_asymmetry",
+        "name": "정보 비대칭성과 역선택",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 30,
+    "id": "ECO-08",
+    "area": "경제",
+    "title": "국민소득과 경제 지표를 읽는 법",
+    "focus": "국민소득 측정, 명목·실질 구분, 증가율의 누적 효과",
+    "recommended_visual": "명목·실질 지표 시계열 표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "compound_rate_change",
+        "name": "증가율·증가액과 누적 변화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "nominal_real_indicators",
+        "name": "명목·실질 지표와 물가 조정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "economic_indicators",
+        "name": "경제 지표와 금융 의사 결정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "national_income_accounting",
+      "nominal_real_indicators"
+    ],
+    "supporting_concepts": [
+      "compound_rate_change",
+      "economic_indicators"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환"
+      },
+      {
+        "id": "financial_life",
+        "name": "금융 생활과 자산 관리"
+      },
+      {
+        "id": "price_level_inflation",
+        "name": "물가 지수와 인플레이션"
+      },
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 31,
+    "id": "ECO-09",
+    "area": "경제",
+    "title": "물가와 고용 지표의 함정",
+    "focus": "인플레이션 유형과 고용 상태 이동, 실망 실업자가 지표에 미치는 영향",
+    "recommended_visual": "고용 상태 이동도·물가 지수표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "price_level_inflation",
+        "name": "물가 지수와 인플레이션",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "employment_indicators",
+        "name": "고용·실업 지표와 인구 상태 이동",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "inflation_types",
+        "name": "수요 견인·비용 인상 인플레이션",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "labor_market_wage",
+        "name": "노동 시장의 수요·공급과 임금 결정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "discouraged_worker_effect",
+        "name": "실망 실업자와 고용 지표의 역설",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "price_level_inflation",
+      "employment_indicators"
+    ],
+    "supporting_concepts": [
+      "inflation_types",
+      "labor_market_wage",
+      "discouraged_worker_effect"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "aggregate_demand_supply",
+        "name": "총수요·총공급과 국민 경제 균형"
+      },
+      {
+        "id": "demand_supply",
+        "name": "수요·공급의 법칙과 시장 균형"
+      },
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환"
+      },
+      {
+        "id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "business_cycle",
+        "name": "경기 변동과 경제 성장",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "discouraged_worker_effect",
+        "name": "실망 실업자와 고용 지표의 역설",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 32,
+    "id": "ECO-10",
+    "area": "경제",
+    "title": "경기 변동과 안정화 정책",
+    "focus": "총수요·총공급 충격에 재정·통화 정책과 정책 조합이 작동하는 경로",
+    "recommended_visual": "총수요·총공급 그래프·정책 전달 경로",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "business_cycle",
+        "name": "경기 변동과 경제 성장",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "fiscal_balance",
+        "name": "재정 수입·지출과 재정 수지",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "aggregate_demand_supply",
+        "name": "총수요·총공급과 국민 경제 균형",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "fiscal_policy",
+        "name": "재정 정책과 경기 안정화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "monetary_policy",
+        "name": "통화 정책과 통화량·금리 경로",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "policy_mix",
+        "name": "재정·통화 정책 조합과 상쇄 효과",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "business_cycle",
+      "aggregate_demand_supply"
+    ],
+    "supporting_concepts": [
+      "fiscal_policy",
+      "fiscal_balance",
+      "monetary_policy",
+      "policy_mix"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "demand_supply",
+        "name": "수요·공급의 법칙과 시장 균형"
+      },
+      {
+        "id": "economic_agent_objectives",
+        "name": "경제 주체의 역할과 목적 함수"
+      },
+      {
+        "id": "economic_indicators",
+        "name": "경제 지표와 금융 의사 결정"
+      },
+      {
+        "id": "employment_indicators",
+        "name": "고용·실업 지표와 인구 상태 이동"
+      },
+      {
+        "id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정"
+      },
+      {
+        "id": "price_level_inflation",
+        "name": "물가 지수와 인플레이션"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "government_failure",
+        "name": "정부 개입과 정부 실패",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "national_income_accounting",
+        "name": "국내 총생산과 국민소득의 측정",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "price_level_inflation",
+        "name": "물가 지수와 인플레이션",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "policy_mix",
+        "name": "재정·통화 정책 조합과 상쇄 효과",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 33,
+    "id": "ECO-11",
+    "area": "경제",
+    "title": "비교 우위에서 무역 정책까지",
+    "focus": "생산 가능 곡선과 비교 우위, 교역 조건, 관세가 무역 후생에 미치는 영향",
+    "recommended_visual": "생산 가능 곡선·교역 전후 소비표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "international_trade",
+        "name": "국제 분업과 무역",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "fair_trade",
+        "name": "공정 무역",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "comparative_advantage",
+        "name": "절대 우위와 비교 우위",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "production_possibility",
+        "name": "생산 가능 곡선과 특화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "terms_of_trade",
+        "name": "교역 조건과 무역 이익",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "trade_policy_welfare",
+        "name": "관세·수입 규제와 무역 후생",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "international_trade",
+      "comparative_advantage"
+    ],
+    "supporting_concepts": [
+      "production_possibility",
+      "terms_of_trade",
+      "trade_policy_welfare",
+      "fair_trade"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "economic_surplus_efficiency",
+        "name": "소비자·생산자 잉여와 자원 배분 효율성"
+      },
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "opportunity_cost",
+        "name": "기회비용",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 34,
+    "id": "ECO-12",
+    "area": "경제",
+    "title": "환율과 국제수지의 연결",
+    "focus": "외환 시장의 수요·공급과 환율 변동이 무역·자본 이동·국제수지에 미치는 영향",
+    "recommended_visual": "외환 시장 그래프·국제 거래표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "foreign_exchange_market",
+        "name": "외환 시장과 환율 결정",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "exchange_rate_effects",
+        "name": "환율 변동의 무역·자본 이동 효과",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "cross_exchange_rate",
+        "name": "통화 가치와 교차 환율",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "balance_of_payments",
+        "name": "국제수지와 경상 수지",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "foreign_exchange_market",
+      "exchange_rate_effects"
+    ],
+    "supporting_concepts": [
+      "cross_exchange_rate",
+      "balance_of_payments"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "demand_supply",
+        "name": "수요·공급의 법칙과 시장 균형"
+      },
+      {
+        "id": "international_trade",
+        "name": "국제 분업과 무역"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "exchange_rate_effects",
+        "name": "환율 변동의 무역·자본 이동 효과",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      },
+      {
+        "concept_id": "cross_exchange_rate",
+        "name": "통화 가치와 교차 환율",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 35,
+    "id": "ECO-13",
+    "area": "경제",
+    "title": "수익·위험·시간을 고려한 자산 관리",
+    "focus": "금융 자산의 유동성·안전성·수익성과 분산 투자·복리·실질 수익률",
+    "recommended_visual": "포트폴리오 원그래프·복리 계산표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "financial_life",
+        "name": "금융 생활과 자산 관리",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "financial_properties",
+        "name": "금융 자산의 유형과 속성",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "financial_return_risk",
+        "name": "금융 상품의 수익·위험 구조와 분산 투자",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "time_value_of_money",
+        "name": "화폐의 시간 가치와 복리",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "real_interest_return",
+        "name": "명목 이자율·물가와 실질 수익률",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "economic_indicators",
+        "name": "경제 지표와 금융 의사 결정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "financial_life",
+      "financial_properties"
+    ],
+    "supporting_concepts": [
+      "financial_return_risk",
+      "time_value_of_money",
+      "real_interest_return",
+      "economic_indicators"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "price_level_inflation",
+        "name": "물가 지수와 인플레이션"
+      },
+      {
+        "id": "rational_choice",
+        "name": "합리적 선택과 비용·편익"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "household_income_expenditure",
+        "name": "가계의 소득·지출과 처분 가능 소득",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "real_interest_return",
+        "name": "명목 이자율·물가와 실질 수익률",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 36,
+    "id": "ECO-14",
+    "area": "경제",
+    "title": "조세 구조와 소득 재분배",
+    "focus": "비례·누진·역진적 조세 부담과 재정 수지·복지 정책의 관계",
+    "recommended_visual": "소득 계층별 조세 부담률 표",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "fiscal_balance",
+        "name": "재정 수입·지출과 재정 수지",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "social_inequality",
+        "name": "사회 불평등의 양상",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "tax_structure",
+        "name": "비례세·누진세·역진세와 조세 부담",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      }
+    ],
+    "core_concepts": [
+      "tax_structure",
+      "fiscal_balance"
+    ],
+    "supporting_concepts": [
+      "welfare_policy",
+      "social_inequality"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준"
+      },
+      {
+        "id": "economic_agent_objectives",
+        "name": "경제 주체의 역할과 목적 함수"
+      },
+      {
+        "id": "justice",
+        "name": "정의의 의미"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "tax_structure",
+        "name": "비례세·누진세·역진세와 조세 부담",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 37,
+    "id": "LAW-01",
+    "area": "법과 정치",
+    "title": "인권은 어떻게 권리로 확장되었는가",
+    "focus": "자연권에서 실정법적 권리와 현대적 인권으로 확장되는 과정",
+    "recommended_visual": "인권 선언·헌법 조항 연표",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "human_rights",
+        "name": "인권의 의미와 특성",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "rights_history",
+        "name": "인권 보장의 역사",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "new_rights",
+        "name": "현대 사회의 새로운 인권",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "rights_conceptions",
+        "name": "인권의 성격과 권리 개념의 확장",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      }
+    ],
+    "core_concepts": [
+      "human_rights",
+      "rights_conceptions"
+    ],
+    "supporting_concepts": [
+      "rights_history",
+      "new_rights"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "rights_conceptions",
+        "name": "인권의 성격과 권리 개념의 확장",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 38,
+    "id": "LAW-02",
+    "area": "법과 정치",
+    "title": "헌법은 기본권을 어떻게 보장하고 제한하는가",
+    "focus": "기본권 유형, 법치주의·권력 분립, 기본권 제한의 한계",
+    "recommended_visual": "기본권 분류표·과잉금지 심사 도식",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "constitutional_rights",
+        "name": "헌법과 기본권 보장",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "rights_categories",
+        "name": "기본권의 유형",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "rule_of_law_separation",
+        "name": "법치주의와 권력 분립",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "rights_limits",
+        "name": "기본권 제한과 한계",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "constitutional_rights",
+      "rights_categories"
+    ],
+    "supporting_concepts": [
+      "rule_of_law_separation",
+      "rights_limits"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "human_rights",
+        "name": "인권의 의미와 특성"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "rights_limits",
+        "name": "기본권 제한과 한계",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 39,
+    "id": "LAW-03",
+    "area": "법과 정치",
+    "title": "새로운 권리와 사회적 약자의 보호",
+    "focus": "환경·안전·노동 권리와 사회적 약자 보호의 구체적 조건",
+    "recommended_visual": "권리 침해 사례·구제 수단 표",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "new_rights",
+        "name": "현대 사회의 새로운 인권",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "environmental_rights",
+        "name": "환경권과 안전권",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "labor_rights",
+        "name": "근로자의 권리",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "vulnerable_human_rights",
+      "new_rights"
+    ],
+    "supporting_concepts": [
+      "environmental_rights",
+      "labor_rights"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "human_rights",
+        "name": "인권의 의미와 특성"
+      },
+      {
+        "id": "natural_disaster",
+        "name": "자연재해의 발생과 대응"
+      },
+      {
+        "id": "rights_categories",
+        "name": "기본권의 유형"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 40,
+    "id": "LAW-04",
+    "area": "법과 정치",
+    "title": "권리 침해에 대응하는 시민과 제도",
+    "focus": "기본권 구제 제도와 민주적 참여·시민 불복종의 요건",
+    "recommended_visual": "침해 유형별 구제 절차도",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "democratic_participation",
+        "name": "민주 정치와 시민 참여",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "constitutional_rights",
+        "name": "헌법과 기본권 보장",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "rights_remedies",
+        "name": "기본권 구제 제도",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "civil_disobedience",
+        "name": "시민 불복종",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "rights_remedies",
+      "democratic_participation"
+    ],
+    "supporting_concepts": [
+      "civil_disobedience",
+      "constitutional_rights"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "human_rights",
+        "name": "인권의 의미와 특성"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "rights_categories",
+        "name": "기본권의 유형",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 41,
+    "id": "LAW-05",
+    "area": "법과 정치",
+    "title": "국제 사회에서 평화는 어떻게 가능한가",
+    "focus": "국제 행위 주체와 현실주의·이상주의, 소극적·적극적 평화의 차이",
+    "recommended_visual": "국제 행위 주체 관계망·평화 개념 비교표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "international_peace",
+        "name": "국제 사회의 행위 주체와 평화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "world_citizenship",
+        "name": "세계시민 의식과 국제적 연대",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "international_relations",
+        "name": "국제 관계의 현실주의와 이상주의",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "peace_theory",
+        "name": "소극적 평화와 적극적 평화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "international_peace",
+      "international_relations"
+    ],
+    "supporting_concepts": [
+      "peace_theory",
+      "world_citizenship"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "globalization",
+        "name": "세계화의 양상과 영향"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "division_unification",
+        "name": "한반도 분단과 통일",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트",
+    "explanation_extensions": [
+      {
+        "concept_id": "international_relations",
+        "name": "국제 관계의 현실주의와 이상주의",
+        "role": "해설 확장",
+        "instruction": "본문의 기초·핵심 개념에서 이 심화 개념이 도출되는 이유를 해설에 2~4문장으로 연결"
+      }
+    ]
+  },
+  {
+    "order": 42,
+    "id": "HIS-01",
+    "area": "역사",
+    "title": "산업화와 자본주의는 공간과 사회를 어떻게 바꾸었는가",
+    "focus": "시간적 관점에서 자본주의·산업화·도시화와 사회 변화를 추적",
+    "recommended_visual": "산업 구조·도시 인구 시계열",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "temporal_view",
+        "name": "시간적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "industrialization",
+        "name": "산업화",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "urbanization",
+        "name": "도시화",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "capitalism_history",
+        "name": "자본주의의 역사적 전개",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 5,
+        "concept_id": "industrial_social_change",
+        "name": "산업화·도시화의 사회 변화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "temporal_view",
+      "capitalism_history"
+    ],
+    "supporting_concepts": [
+      "industrialization",
+      "urbanization",
+      "industrial_social_change"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "urban_structure",
+        "name": "도시 내부 구조와 공간 분화",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 43,
+    "id": "HIS-02",
+    "area": "역사",
+    "title": "인권 보장의 역사적 확대",
+    "focus": "시민권에서 사회권·연대권으로 확대되는 역사적 맥락",
+    "recommended_visual": "권리 세대·역사 사건 연표",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "human_rights",
+        "name": "인권의 의미와 특성",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "temporal_view",
+        "name": "시간적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "rights_history",
+        "name": "인권 보장의 역사",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "constitutional_rights",
+        "name": "헌법과 기본권 보장",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "rights_history",
+      "human_rights"
+    ],
+    "supporting_concepts": [
+      "constitutional_rights",
+      "temporal_view"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 44,
+    "id": "HIS-03",
+    "area": "역사",
+    "title": "분단과 동아시아 갈등을 평화로 전환하기",
+    "focus": "분단의 역사성과 동아시아 기억 갈등, 평화 구축의 조건",
+    "recommended_visual": "분단·갈등 사건 지도와 연표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "division_unification",
+        "name": "한반도 분단과 통일",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "international_peace",
+        "name": "국제 사회의 행위 주체와 평화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "east_asia_conflict",
+        "name": "동아시아 역사 갈등과 평화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "peace_theory",
+        "name": "소극적 평화와 적극적 평화",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "division_unification",
+      "east_asia_conflict"
+    ],
+    "supporting_concepts": [
+      "international_peace",
+      "peace_theory"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "globalization",
+        "name": "세계화의 양상과 영향"
+      },
+      {
+        "id": "temporal_view",
+        "name": "시간적 관점"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "독립 세트"
+  },
+  {
+    "order": 45,
+    "id": "INT-01",
+    "area": "융합",
+    "title": "하나의 사회 문제를 여러 관점으로 읽기",
+    "focus": "시간·공간·사회·윤리 질문을 결합하되 각 관점의 판단 기준을 구분",
+    "recommended_visual": "관점별 질문 매트릭스",
+    "difficulty_band": "기초·핵심",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "integrated_view",
+        "name": "통합적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "temporal_view",
+        "name": "시간적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "spatial_view",
+        "name": "공간적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "social_view",
+        "name": "사회적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "ethical_view",
+        "name": "윤리적 관점",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "integrated_inquiry_attitudes",
+        "name": "통합적 탐구의 사고 태도",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "integrated_view",
+      "temporal_view"
+    ],
+    "supporting_concepts": [
+      "spatial_view",
+      "social_view",
+      "ethical_view",
+      "integrated_inquiry_attitudes"
+    ],
+    "assumed_prerequisites": [],
+    "recommended_question_targets": [],
+    "coverage_purpose": "영역 간 전이 및 A급 개념 재노출"
+  },
+  {
+    "order": 46,
+    "id": "INT-02",
+    "area": "융합",
+    "title": "기후 위기의 경제학과 정치",
+    "focus": "환경 문제를 외부 효과로 설명하고 탄소중립·국제 협력·지속가능발전으로 해결",
+    "recommended_visual": "탄소 배출 비용 곡선·국제 협약 자료",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "environmental_problem",
+        "name": "환경 문제의 발생 구조",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "sustainable_development",
+        "name": "지속 가능한 발전",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "external_effects",
+        "name": "외부 효과",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 4,
+        "concept_id": "externality_correction",
+        "name": "외부 효과의 사회적 최적과 교정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "carbon_neutrality",
+        "name": "탄소중립과 탄소 가격 제도",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "climate_governance",
+        "name": "기후 변화와 국제 환경 협약",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 7,
+        "concept_id": "sdgs",
+        "name": "지속가능발전 목표(SDGs)",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "environmental_problem",
+      "external_effects"
+    ],
+    "supporting_concepts": [
+      "externality_correction",
+      "carbon_neutrality",
+      "climate_governance",
+      "sustainable_development",
+      "sdgs"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "economic_surplus_efficiency",
+        "name": "소비자·생산자 잉여와 자원 배분 효율성"
+      },
+      {
+        "id": "market_failure",
+        "name": "시장 실패"
+      },
+      {
+        "id": "natural_environment",
+        "name": "자연환경과 인간 생활"
+      },
+      {
+        "id": "renewable_energy",
+        "name": "신·재생 에너지와 에너지 전환"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "integrated_view",
+        "name": "통합적 관점",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "resource_distribution",
+        "name": "자원의 분포와 소비",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      },
+      {
+        "concept_id": "fossil_fuel",
+        "name": "화석 에너지 자원",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "영역 간 전이 및 A급 개념 재노출"
+  },
+  {
+    "order": 47,
+    "id": "INT-03",
+    "area": "융합",
+    "title": "세계 상품의 가치 사슬과 공정성",
+    "focus": "비교 우위·다국적 기업·지역화·공정 무역이 생산자와 지역에 미치는 영향",
+    "recommended_visual": "세계 생산 네트워크 지도·판매액 배분표",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "globalization",
+        "name": "세계화의 양상과 영향",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 2,
+        "concept_id": "international_trade",
+        "name": "국제 분업과 무역",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "multinational_corporation",
+        "name": "다국적 기업과 공간적 분업",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "localization",
+        "name": "지역화와 장소 마케팅",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "fair_trade",
+        "name": "공정 무역",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "corporate_responsibility",
+        "name": "기업가 정신과 사회적 책임",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 7,
+        "concept_id": "comparative_advantage",
+        "name": "절대 우위와 비교 우위",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 중심"
+      }
+    ],
+    "core_concepts": [
+      "international_trade",
+      "comparative_advantage"
+    ],
+    "supporting_concepts": [
+      "multinational_corporation",
+      "globalization",
+      "localization",
+      "fair_trade",
+      "corporate_responsibility"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "market_principle",
+        "name": "시장 경제의 원리"
+      },
+      {
+        "id": "opportunity_cost",
+        "name": "기회비용"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "영역 간 전이 및 A급 개념 재노출"
+  },
+  {
+    "order": 48,
+    "id": "INT-04",
+    "area": "융합",
+    "title": "저출산·고령화와 노동·복지의 재설계",
+    "focus": "인구 구조 변화가 노동 시장·재정·복지와 세대 간 정의에 미치는 영향",
+    "recommended_visual": "인구 피라미드·재정 수지 전망표",
+    "difficulty_band": "중상",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "population_structure",
+        "name": "인구 구조와 인구 문제",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "low_birth_aging",
+        "name": "저출산·고령화",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "employment_indicators",
+        "name": "고용·실업 지표와 인구 상태 이동",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "fiscal_balance",
+        "name": "재정 수입·지출과 재정 수지",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 5,
+        "concept_id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 7,
+        "concept_id": "labor_market_wage",
+        "name": "노동 시장의 수요·공급과 임금 결정",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "low_birth_aging",
+      "population_structure"
+    ],
+    "supporting_concepts": [
+      "labor_market_wage",
+      "employment_indicators",
+      "fiscal_balance",
+      "welfare_policy",
+      "distributive_justice"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "demand_supply",
+        "name": "수요·공급의 법칙과 시장 균형"
+      },
+      {
+        "id": "economic_activity_flow",
+        "name": "경제 활동의 유형과 국민 경제 순환"
+      },
+      {
+        "id": "economic_agent_objectives",
+        "name": "경제 주체의 역할과 목적 함수"
+      },
+      {
+        "id": "justice",
+        "name": "정의의 의미"
+      },
+      {
+        "id": "social_inequality",
+        "name": "사회 불평등의 양상"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "영역 간 전이 및 A급 개념 재노출"
+  },
+  {
+    "order": 49,
+    "id": "INT-05",
+    "area": "융합",
+    "title": "인공지능 사회의 권리와 규제",
+    "focus": "정보 격차·새로운 인권·시장 실패·기술 윤리를 결합한 규제 설계",
+    "recommended_visual": "알고리즘 의사 결정 사례·규제 비교표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "information_society",
+        "name": "정보화와 정보 사회",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 2,
+        "concept_id": "digital_divide",
+        "name": "정보 격차와 정보 윤리",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 3,
+        "concept_id": "new_rights",
+        "name": "현대 사회의 새로운 인권",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "fourth_industrial_revolution",
+        "name": "제4차 산업 혁명과 인공지능 사회",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 중심"
+      },
+      {
+        "order": 5,
+        "concept_id": "digital_citizenship",
+        "name": "디지털 시민성과 사이버 공간의 권리·책임",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "technology_ethics_regulation",
+        "name": "인공지능·신기술의 윤리와 규제",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 7,
+        "concept_id": "information_asymmetry",
+        "name": "정보 비대칭성과 역선택",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "fourth_industrial_revolution",
+      "information_society"
+    ],
+    "supporting_concepts": [
+      "digital_divide",
+      "digital_citizenship",
+      "new_rights",
+      "technology_ethics_regulation",
+      "information_asymmetry"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "future_society",
+        "name": "미래 사회의 변화와 대응"
+      },
+      {
+        "id": "human_rights",
+        "name": "인권의 의미와 특성"
+      },
+      {
+        "id": "market_failure",
+        "name": "시장 실패"
+      }
+    ],
+    "recommended_question_targets": [],
+    "coverage_purpose": "영역 간 전이 및 A급 개념 재노출"
+  },
+  {
+    "order": 50,
+    "id": "INT-06",
+    "area": "융합",
+    "title": "불평등을 줄이는 정책은 언제 정당한가",
+    "focus": "불평등 지표와 분배 정의를 바탕으로 조세·복지·적극적 우대 조치를 평가",
+    "recommended_visual": "분배 결과표·정책 전후 불평등 지표",
+    "difficulty_band": "심화",
+    "learning_sequence": [
+      {
+        "order": 1,
+        "concept_id": "justice",
+        "name": "정의의 의미",
+        "stage": 1,
+        "stage_label": "기초",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 2,
+        "concept_id": "social_inequality",
+        "name": "사회 불평등의 양상",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "A",
+        "role": "본문 중심"
+      },
+      {
+        "order": 3,
+        "concept_id": "welfare_policy",
+        "name": "사회 복지와 불평등 완화 정책",
+        "stage": 2,
+        "stage_label": "핵심",
+        "importance": "B",
+        "role": "본문 연계"
+      },
+      {
+        "order": 4,
+        "concept_id": "inequality_indicators",
+        "name": "불평등 지표의 해석",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 중심"
+      },
+      {
+        "order": 5,
+        "concept_id": "rawls",
+        "name": "롤스의 정의론",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "A",
+        "role": "본문 연계"
+      },
+      {
+        "order": 6,
+        "concept_id": "tax_structure",
+        "name": "비례세·누진세·역진세와 조세 부담",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "C",
+        "role": "본문 연계"
+      },
+      {
+        "order": 7,
+        "concept_id": "affirmative_action",
+        "name": "적극적 우대 조치",
+        "stage": 3,
+        "stage_label": "심화",
+        "importance": "B",
+        "role": "본문 연계"
+      }
+    ],
+    "core_concepts": [
+      "social_inequality",
+      "inequality_indicators"
+    ],
+    "supporting_concepts": [
+      "justice",
+      "rawls",
+      "tax_structure",
+      "welfare_policy",
+      "affirmative_action"
+    ],
+    "assumed_prerequisites": [
+      {
+        "id": "distributive_justice",
+        "name": "분배적 정의와 분배 기준"
+      },
+      {
+        "id": "fiscal_balance",
+        "name": "재정 수입·지출과 재정 수지"
+      }
+    ],
+    "recommended_question_targets": [
+      {
+        "concept_id": "vulnerable_human_rights",
+        "name": "사회적 약자와 인권 문제",
+        "role": "문항·보기 재노출",
+        "reason": "A급 개념 최소 2회 노출 보장; 인과·적용·비교 관계가 자연스러운 세트로 수동 배정"
+      }
+    ],
+    "coverage_purpose": "영역 간 전이 및 A급 개념 재노출"
+  }
+]

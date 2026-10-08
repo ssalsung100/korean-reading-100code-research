@@ -1,0 +1,25 @@
+{
+  "blind_only_provenance": true,
+  "case_id": "IW",
+  "source_role": "sealed_official_form_provenance",
+  "source_pdf": "data/기본기_연구/prepared_backlog/sealed/IW_official_form_source.pdf",
+  "source_pdf_sha256": "731102ddb9dc298e7d007cdb9c3a7c3a2ebd9ba5ff51151cf988f38f6b27e919",
+  "source_type": "third_party_archived_question_pdf_even_form",
+  "canonical_origin_verified": false,
+  "source_url": "https://blog.kakaocdn.net/dna/Z5pwV/dJMcacVK3f3/AAAAAAAAAAAAAAAAAAAAAEE3K7MPMK3Tc4ckK8Aqxx8EWcWsVbySTX7oLRChQpAu/%EA%B5%AD%EC%96%B4%28%EC%A7%9D%EC%88%98%ED%98%95%29.pdf?allow_ip=&allow_referer=&attach=1&credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1790780399&knm=tfile.pdf&signature=55L8ypUbixEzLaBZu%2B32qmX%2FelM%3D",
+  "page_index": 4,
+  "crop_rect_pdf_points": [82, 426.03289794921875, 416, 600.7974243164062],
+  "crop_path": "data/기본기_연구/prepared_backlog/blind_sources/IW_A_official_form.png",
+  "crop_sha256": "3960926e18ad102ab7099647b9a7f8ada51e162a7cc3eb5be07e57b69e50efba",
+  "range_status": "confirmed_by_direct_visual_crop_of_archived_question_pdf",
+  "range_anchor": {
+    "start_text": "이를 바탕으로 칸트는",
+    "end_text": "뜻하지는 않기 때문이다.",
+    "paragraph_scope": "one_paragraph"
+  },
+  "limitations": [
+    "제3자 보관본 PDF이며 원배포 서버와의 직접 검증은 하지 않았다.",
+    "정답지·해설지는 보존하거나 blind source에 넣지 않았다."
+  ],
+  "supersedes_for_range": "기존 XML 텍스트 후보 범위는 공식 crop 근거로 채택하지 않으며 후보·실패 이력으로만 보존한다."
+}

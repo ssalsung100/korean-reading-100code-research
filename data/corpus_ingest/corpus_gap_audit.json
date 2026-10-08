@@ -1,0 +1,43 @@
+{
+  "audit_scope": "mechanical corpus gap audit; no semantic research",
+  "target_unique_questions": 1147,
+  "target_source": "data/기본기_연구/code_study_candidates_v2.jsonl",
+  "target_source_row_count": 1147,
+  "deduplication_rule": "canonical_connection.question_id; fallback exam_family|year|exam_type|question_number",
+  "duplicate_rows": 0,
+  "canonical": {"kice_passages": 169, "kice_questions": 700, "leet_questions": 630, "meet_deet_questions": 380, "other_questions": 0, "total_unique_questions": 1710},
+  "already_researched_questions": 663,
+  "status_counts": {"CANONICAL_READY": 1093, "LOCAL_SOURCE_AVAILABLE": 4, "LOCAL_COMPLETE": 45, "LOCAL_PARTIAL": 0, "EXTERNAL_SOURCE_NEEDED": 5, "TARGET_MAPPING_UNRESOLVED": 0},
+  "reconciliation": {"equation": "1147 = 1093 + 4 + 45 + 5 + 0", "holds": true},
+  "family_status_counts": {"KICE": {"CANONICAL_READY": 153, "LOCAL_SOURCE_AVAILABLE": 4, "LOCAL_COMPLETE": 45, "LOCAL_PARTIAL": 0}, "LEET": {"CANONICAL_READY": 603, "EXTERNAL_SOURCE_NEEDED": 5}, "MEET": {"CANONICAL_READY": 337}},
+  "canonical_sources": {"KICE": ["data/kice_passages.jsonl", "data/kice_questions.jsonl"], "LEET": ["자료/LEET_언어이해/검증/텍스트_전수검증_v1.json"], "MEET": ["data/meet_passages.jsonl", "data/meet_questions.jsonl"]},
+  "packages_to_download": {"total": 1, "KICE": 0, "LEET": 1, "MEET_DEET": 0, "Other": 0},
+  "protected_files_modified": false,
+  "kice_literature_local_reaudit": {
+    "audit_date": "2026-09-20",
+    "target_count": 45,
+    "status_counts": {"LOCAL_COMPLETE": 45, "LOCAL_RESTORABLE": 0, "LOCAL_PARTIAL": 0, "EXTERNAL_SOURCE_NEEDED": 0},
+    "partial_reason": null,
+    "kice_download_packages_remaining": 0,
+    "new_central_literature_md": 13,
+    "new_assets": 0,
+    "target_mapping": "data/corpus_ingest/kice_literature_local_audit_target_mapping.json",
+    "source_inventory": "data/corpus_ingest/KICE_LITERATURE_MOTHERTONG_SOURCE_INVENTORY.json",
+    "report": "data/corpus_ingest/KICE_LITERATURE_LOCAL_AUDIT.md",
+    "canonical_status": "LITERATURE_CANONICAL_SCHEMA_NEEDED",
+    "schema_note": "현재 data/kice_passages.jsonl·data/kice_questions.jsonl는 독서 전용이며 문학 schema를 임의 확장하지 않음",
+    "source_scan": {
+      "filename_and_internal_text_search": true,
+      "hwpx_signature_and_contents_xml_checked": true,
+      "hwp_signature_checked": true,
+      "answer_table_only_for_8_exam_packages": false,
+      "mother_tong_original_hwpx_count": 7,
+      "mother_tong_extracted_md_count": 8,
+      "mother_tong_inventory_file_count": 15,
+      "central_md_count": 13,
+      "target_year_literature_md_or_question_pdf_found": true,
+      "other_year_literature_md_found": ["data/기출_MD_정본/연도별/2027/6월_모평/문학/q04-09.md", "data/기출_MD_정본/연도별/2027/9월_모평/문학/q04-09.md"]
+    }
+  },
+  "note": "개별 target 상태의 authoritative source와 후보 식별자는 원장 row 및 kice_literature_local_audit_target_mapping.json에 있으며, 이 JSON은 집계·패키지 중심 audit 결과다."
+}

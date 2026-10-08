@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G211",
+  "case_id": "AIC",
+  "source_role": "official_pdf_scope_supplement",
+  "canonical_source": {
+    "path": "/mnt/d/국어/평가원 선지 빼먹기/source_pdfs/daipzip/2022_수능_국어_문제.pdf",
+    "page": 10,
+    "clip_points": [400, 120, 790, 1080],
+    "render_scale": 3,
+    "crop_path": "data/기본기_연구/prepared_backlog/blind_sources/AIC_AB_scope_official_pdf.png",
+    "crop_sha256": "c0cbbd6fb364ba6179ef71cd51e7df97ca7edb5205345e2c21ae861f5d27a0d7"
+  },
+  "scope": {
+    "markers": ["[A]", "[B]"],
+    "bracket_start_and_end_visible": true,
+    "question_visual_or_scope_only": true
+  },
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_scope_restored"
+}

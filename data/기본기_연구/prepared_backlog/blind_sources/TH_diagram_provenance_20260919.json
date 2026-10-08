@@ -1,0 +1,20 @@
+{
+  "blind_only": true,
+  "passage_group": "G126",
+  "case_id": "TH",
+  "source_role": "mechanical_embedded_diagram_extract",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+  "source_sha256": "e0b143398556490c695aa75c7ad42b585bcbea98bb9a1487b928533de97145a2",
+  "xml_part": "Contents/section0.xml",
+  "xml_anchor": {
+    "question_number_text": "078",
+    "question_paragraph_index": 1318,
+    "view_paragraph_index": 1319,
+    "embedded_binary_item_ref": "image28",
+    "embedded_path": "BinData/image28.bmp"
+  },
+  "output_path": "data/기본기_연구/prepared_backlog/blind_sources/TH_diagram.png",
+  "output_dimensions": [453, 486],
+  "extraction_note": "canonical HWPX embedded image를 변환·추출한 원이미지이며, 도식의 기호·원·비콘 위치를 수정하거나 해석하지 않음",
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"}
+}

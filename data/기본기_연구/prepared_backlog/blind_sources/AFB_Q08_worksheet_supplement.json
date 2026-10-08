@@ -1,0 +1,40 @@
+{
+  "blind_only": true,
+  "passage_group": "G193",
+  "case_id": "AFB",
+  "supplement_role": "missing_choice_table_recovery",
+  "source_role": "anonymous_blind_source_supplement",
+  "provenance": {
+    "canonical_source": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+    "source_sha256": "e0b143398556490c695aa75c7ad42b585bcbea98bb9a1487b928533de97145a2",
+    "container_member": "BinData/image2.bmp",
+    "binary_ref": "image2",
+    "linked_question_id": "KICE-2025-9월_모평-Q08-11-S009~012-Q08"
+  },
+  "visual_asset": "data/기본기_연구/prepared_backlog/blind_sources/G193_Q08_worksheet.bmp",
+  "choice_table": [
+    {
+      "number": 1
+    },
+    {
+      "number": 2
+    },
+    {
+      "number": 3
+    },
+    {
+      "number": 4
+    },
+    {
+      "number": 5
+    }
+  ],
+  "quality": {
+    "transcription": "visual_original_preserved",
+    "choice_count": 5,
+    "answer_or_sdss_included": false,
+    "reasoning_or_code_judgment_included": false,
+    "identity_included": false,
+    "original_blind_source_modified": false
+  }
+}

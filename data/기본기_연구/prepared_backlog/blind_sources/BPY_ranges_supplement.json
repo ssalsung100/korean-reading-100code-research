@@ -1,0 +1,51 @@
+{
+  "blind_only": true,
+  "case_id": "BPY",
+  "passage_group": "G504",
+  "purpose": "공식 문제지에서 선지 뒤로 밀린 [A][B][C] 범위 표기 복원",
+  "source": {
+    "exam_family": "LEET",
+    "academic_year": 2026,
+    "variant": "odd",
+    "question_numbers": [19, 20, 21],
+    "work_title": "크리스마스캐럴Ⅳ",
+    "official_pdf": "자료/LEET_언어이해/원본/2026/2026_question_odd_2026_LEET_언어이해(홀수형).pdf",
+    "official_page_image": "자료/LEET_언어이해/페이지/2026/2026_question_odd/page_010.png",
+    "official_page_image_sha256": "0964695ab63a4c5c16d9ac96afe94a85313d5a60eb3c46dc03b3c5ff840ded03",
+    "official_pdf_sha256": "a3f191f3893ed6a234776c50d3664710a8f3ff9e5ed9316cd6b9d6b53b8be99b",
+    "provenance_mapping": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+    "provenance_mapping_case": "BPY",
+    "source_status": "official_page_visual_range_restored"
+  },
+  "ranges": {
+    "A": {
+      "start": "성녀?",
+      "end": "아니 문화차별론자라 부르게.",
+      "page": 10,
+      "crop": "data/기본기_연구/prepared_backlog/blind_sources/BPY_A_range_official_page10_full_left_tight.png",
+      "visual_boundary_note": "왼쪽 단의 괄호 시작 꼭짓점은 첫 대사 ‘성녀?’의 앞이며, [A] 표지는 괄호 중간에 배치되어 있다."
+    },
+    "B": {
+      "start": "그녀의 눈길이 못박혀있는 곳, 그의 발밑에 한 권의 자그마한 책이 떨어져 있다.",
+      "end": "미안해요, 외국 학생. 미안해요…….",
+      "page": 10,
+      "crop": [
+        "data/기본기_연구/prepared_backlog/blind_sources/BPY_B_range_official_page10_start_tight.png",
+        "data/기본기_연구/prepared_backlog/blind_sources/BPY_B_range_official_page10_continuation_tight.png"
+      ],
+      "layout_note": "B는 page 10의 좌단 하단에서 시작해 우단 상단으로 이어지는 단일 괄호 구간이다. 두 crop은 시작부와 이어지는 본문을 각각 포함한다."
+    },
+    "C": {
+      "start": "자네, ‘수호성녀’를 잊지는 않았겠지.",
+      "end": "그것은 사랑이라는 가장 인간적인 동기에서 나오고 그것으로 지탱된 것이었어.",
+      "page": 10,
+      "crop": "data/기본기_연구/prepared_backlog/blind_sources/BPY_C_range_official_page10_tight.png"
+    }
+  },
+  "disclosure_boundary": {
+    "official_answer_read": false,
+    "sdss_read": false,
+    "existing_judgment_read": false,
+    "semantic_judgment_added": false
+  }
+}

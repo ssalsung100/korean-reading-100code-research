@@ -1,0 +1,17 @@
+{
+  "blind_only": true,
+  "passage_group": "G081",
+  "case_id": "LN",
+  "source": {
+    "container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "basis": "direct canonical HWPX equation extraction; no inferred restoration or semantic judgment"
+  },
+  "missing_sentence_anchor": "반면, n × n의 영상을 가로세로 방향으로 각각 절반으로 축소해서 모니터에 표시하려면",
+  "equations": [
+    {"equation_xml_id": "1943574852", "script": "{n} over {2}", "text_after": "x"},
+    {"equation_xml_id": "1943574854", "script": "{n} over {2}", "text_before": "x", "text_after": "의 가상 영상을 만들고 화솟값을 채운다."}
+  ],
+  "restoration_target": "data/기본기_연구/prepared_backlog/blind_sources/LN.json",
+  "qualification": {"answer_seen": false, "sdss_seen": false, "semantic_interpretation": false}
+}

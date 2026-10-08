@@ -1,0 +1,33 @@
+{
+  "blind_only": true,
+  "passage_group": "G156",
+  "case_id": "YO",
+  "source_role": "mechanical_canonical_source_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "source_sha256": "d5db41d1206c34c2176624c93481da71355e87a4545761009516015d2c4a3149",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 735,
+    "A_end_marker_paragraph_index": 738,
+    "B_start_paragraph_index": 741,
+    "B_end_marker_paragraph_index": 744,
+    "question_paragraph_index": 761
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_observation": "paragraph 735 첫머리에 [A] 표지가 붙어 있다.",
+    "start_text_verbatim": "데이터 이동권의 법제화로 기업은 데이터의 생성 비용과 거래 비용을 줄일 수 있다.",
+    "end_text_verbatim": "이에 따라 기업 간 공유나 유통이 촉진되고, 관련 산업이 활성화된다.",
+    "end_marker_context": "paragraph 735의 마지막 문장 뒤에 빈 paragraph 736·737이 있고, paragraph 738에 단독 [A] 표지가 있다.",
+    "range_statement": "[A]는 paragraph 735 첫머리의 표지부터 해당 단락 마지막 문장까지이다."
+  },
+  "B_range_mechanical_transcription": {
+    "start_marker_observation": "paragraph 741 첫머리에 [B] 표지가 붙어 있다.",
+    "start_text_verbatim": "한편, 정보 주체가 보안의 신뢰성이 높고 데이터 제공에 따른 혜택이 많은 기업으로 데이터를 이동하면, 데이터가 집중되어 데이터의 공유나 유통이 위축될 수 있다는 우려도 있다.",
+    "end_text_verbatim": "그런데 ㉱ 데이터가 집중된 기존 기업이 집적·처리된 데이터를 공유하려 하지 않으면, 신규 기업의 시장 진입이 어려워져 독점화가 강화될 수 있다.",
+    "end_marker_context": "paragraph 741의 마지막 문장 뒤에 빈 paragraph 742·743이 있고, paragraph 744에 단독 [B] 표지가 있다.",
+    "range_statement": "[B]는 paragraph 741 첫머리의 표지부터 해당 단락 마지막 문장까지이다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "[A]·[B] 표지와 시작·끝 문장 및 XML anchor만 기계적으로 복원했다."
+}

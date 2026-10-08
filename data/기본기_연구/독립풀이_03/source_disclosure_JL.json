@@ -1,0 +1,78 @@
+{
+  "scope": "J-L only; no official answers or selection-rationale details",
+  "records": {
+    "J": {
+      "canonical_identifier": "KICE-2010-6월_모평-Q36-37-S012~013-Q37",
+      "site_original_tags": [],
+      "site_raw_row_verification": {
+        "exact_candidate_label_matches": [],
+        "status": "site_unlinked_supplement: no exact candidate-label row or candidate-queue canonical-ID link in the local collection; no raw SDSS row is asserted, and this is not a claim about the entire site"
+      },
+      "canonical_verification": {
+        "question_and_choices_exact_match": true,
+        "passage_exact_match": true,
+        "visual_placeholder_excluded": true
+      },
+      "source_paths": [
+        "data/kice_passages.jsonl",
+        "data/kice_questions.jsonl"
+      ],
+      "source_path_sha256": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      }
+    },
+    "K": {
+      "canonical_identifier": "KICE-2017-수능-Q16-20-S065~069-Q18",
+      "site_original_tags": [],
+      "site_raw_row_verification": {
+        "exact_candidate_label_matches": [],
+        "status": "site_unlinked_supplement: no exact candidate-label row or candidate-queue canonical-ID link in the local collection; no raw SDSS row is asserted, and this is not a claim about the entire site"
+      },
+      "canonical_verification": {
+        "question_and_choices_exact_match": true,
+        "passage_exact_match": true,
+        "visual_placeholder_excluded": true
+      },
+      "source_paths": [
+        "data/kice_passages.jsonl",
+        "data/kice_questions.jsonl"
+      ],
+      "source_path_sha256": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      }
+    },
+    "L": {
+      "canonical_identifier": "KICE-2022-예시문항-Q05-10-S110~115-Q09",
+      "site_original_tags": [],
+      "site_raw_row_verification": {
+        "exact_candidate_label_matches": [],
+        "status": "site_unlinked_supplement: no exact candidate-label row or candidate-queue canonical-ID link in the local collection; no raw SDSS row is asserted, and this is not a claim about the entire site"
+      },
+      "canonical_verification": {
+        "question_and_choices_exact_match": true,
+        "passage_exact_match": true,
+        "visual_placeholder_excluded": true
+      },
+      "source_paths": [
+        "data/kice_passages.jsonl",
+        "data/kice_questions.jsonl"
+      ],
+      "source_path_sha256": {
+        "data/kice_passages.jsonl": "27ffd9e839d991cbaa815ccaa69b73487bc22816e07f14d52f0c4f6c12ee4fbe",
+        "data/kice_questions.jsonl": "12e67ae6fc98e7b6083d0395933eb5c985d7135bd0f08c3b4a90a95ab605dbc2"
+      }
+    }
+  },
+  "selection_boundary_status": {
+    "strict_multiple_competing_explanations_with_opposed_observational_predictions": "unmet",
+    "search_scope": [
+      "data/kice_questions.jsonl",
+      "data/kice_passages.jsonl",
+      "data/code_site_labels.jsonl",
+      "data/sdss_code_search_raw/"
+    ],
+    "conclusion": "No candidate is asserted to meet this strict boundary. This is a scoped search record, not a claim that no such question exists."
+  }
+}

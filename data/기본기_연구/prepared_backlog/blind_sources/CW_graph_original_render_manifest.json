@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G019",
+  "case_id": "CW",
+  "supplement_role": "original_hwpx_application_render_crop",
+  "source_role": "anonymous_blind_source_supplement",
+  "source_container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+  "source_render": "Hancom HWPFrame.HwpObject.SaveAs PDF; PyMuPDF crop",
+  "rendered_pdf_page_index_zero_based": 17,
+  "crop_pdf_points": [
+    48.0,
+    123.0,
+    281.0,
+    230.0
+  ],
+  "scale": 4.0,
+  "output": "data/기본기_연구/prepared_backlog/blind_sources/CW_graph_original_render.png",
+  "quality": {
+    "source_application_render": true,
+    "full_graph_crop_verified_visually": true,
+    "graph_interpretation_added": false,
+    "answer_or_sdss_included": false,
+    "reasoning_included": false
+  }
+}

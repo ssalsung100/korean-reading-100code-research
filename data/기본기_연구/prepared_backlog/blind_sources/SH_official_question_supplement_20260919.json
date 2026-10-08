@@ -1,0 +1,37 @@
+{
+  "blind_only": true,
+  "passage_group": "G121",
+  "case_id": "SH",
+  "source_role": "official_question_mechanical_provenance_supplement",
+  "provenance": {
+    "exam_header_text": "2019학년도 대학수학능력시험 문제지 / 제1교시 / 국어 영역",
+    "question_number": "31",
+    "identified_as": "2019학년도 대학수학능력시험 국어 영역 31번",
+    "passage_linkage": "KICE-2019-수능-Q27-32-S013~018",
+    "local_image_files": [
+      {
+        "path": "data/기본기_연구/prepared_backlog/blind_sources/SH_G121_2019KICE_header.png",
+        "sha256": "086a8674a3d098b1707d6b41ca5f9af993257e3c840b475ed5478952c610f8cf",
+        "content": "공식 문제지 header crop"
+      },
+      {
+        "path": "data/기본기_연구/prepared_backlog/blind_sources/SH_G121_2019KICE_Q31_choice5.png",
+        "sha256": "0450a409bef45e1b0426ce3d353e631d8b55c3c3a2a99981ef41faa2b81dcf4d",
+        "content": "공식 문제지 31번 <보기> 및 선택지 crop"
+      }
+    ]
+  },
+  "mechanical_transcription": {
+    "question_stem": "<보기>를 참고할 때, [A]에 대한 이해로 적절하지 않은 것은? [3점]",
+    "choice_5_verbatim_from_official_crop": "⑤ 반지름이 R, 질량이 M인 지구와 지구 표면에서 높이 h에 중심이 있는 질량이 m인 구슬 사이의 만유인력은, R + h의 거리만큼 떨어져 있으면서 질량이 M, m인 두 질점 사이의 만유인력과 크기가 같겠군.",
+    "symbol_observation": "공식 문제지 crop에서 선택지⑤의 지구 질량은 대문자 M이며, 구슬 질량은 소문자 m이다. canonical HWPX의 선택지⑤(지구 질량 m)와 대소문자가 다르다.",
+    "A_scope_observation": "질문 stem은 [A]를 가리키며, crop은 동일 시험지의 31번 보기 문항이다. [A] 전체 범위의 의미 판단은 수행하지 않는다."
+  },
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  },
+  "restoration_limit": "공식 header와 SH ⑤ 기호의 이미지·전사를 제공한다. 원문 기반 blind 유효화와 이후 단계의 판단은 Astra가 수행한다."
+}

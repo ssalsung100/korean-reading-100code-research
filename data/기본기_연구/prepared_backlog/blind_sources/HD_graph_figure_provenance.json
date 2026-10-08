@@ -1,0 +1,13 @@
+{
+  "case_id": "HD",
+  "passage_group": "G044",
+  "source": "https://cfile220.uf.daum.net/attach/1630D8024C7F4F559AFF9F",
+  "source_identification": "봉인 provenance의 HD 식별(KICE 2011 9월 모의평가 Q50)만 사용",
+  "source_location": {"pdf_page_index": 15, "printed_page": 15, "question": 50},
+  "artifact": "HD_graph_figure.png",
+  "crop_pixels_at_render_scale_2_5": [850, 1450, 1785, 1900],
+  "visible_elements": ["저항값 축", "시간 축", "Rs", "Rair", "t1", "A 물질의 저항값", "B 물질의 저항값", "공기", "공기+특정 가스"],
+  "restoration_role": "mechanical_blind_figure_restoration",
+  "limitations": ["공식 문제 PDF의 픽셀 crop이며 벡터 원본은 확인하지 않음.", "답·SDSS·해설·코드 판정은 기록하지 않음."],
+  "sha256": "9fb009825782314ffdb1f569d25333b391bb83919b7a9417c19ffcd6f998376d"
+}

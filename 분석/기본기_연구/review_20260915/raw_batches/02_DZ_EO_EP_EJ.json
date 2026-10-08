@@ -1,0 +1,77 @@
+{
+  "record_id": "DZ-EO-EP-EJ-boundary_revision-20260915-semantic-audit-01",
+  "case": "DZ-EO-EP-EJ", "stage": "boundary_revision", "status": "done", "timestamp": "2026-09-15",
+  "payload": {
+    "case_ids": ["DZ", "EO", "EP", "EJ"], "original_blind_preserved": true,
+    "review_kind": "완료 사례 사후 감사. 원문 직접 재독 후 강한 경쟁 표현 비교. 기존 판정 및 과거 revision 모두 불변",
+    "source_record_ids": ["DZ-independent_code-20260913-01", "EO-independent_code-20260913-02", "EP-independent_code-20260913-02", "DZ-EO-EP-boundary_revision-20260913-02", "EJ-independent_code-20260913-02", "EJ-depth_backfill-20260913-03"],
+    "evidence_additions": [
+      {
+        "case": "DZ", "passage_group": "G026", "source": "data/기본기_연구/prepared_backlog/blind_sources/DZ.json",
+        "task": "알 수 있는 내용 중 부적절 선지 선택", "target": "④의 주체·분해 결과·안정 상태를 포함한 전체 문장",
+        "evidence_location": "3문단 에틸렌 결합 구성, 4문단 '열을 흡수한 과산화물 개시제는 ... 불안정한 ... 분자로 분해된다' 및 뒤 연쇄 반응; choices[3]",
+        "relation_without_codes": "열 흡수 개시제→분해→불안정 원자 포함 분자; 그 원자가 에틸렌과 결합→다른 탄소에 홀전자→다음 반응. 사슬 끝끼리 결합하면 안정화·종료.",
+        "changed_part": "개시제의 분해를 에틸렌에 붙이고, 중간 단계 불안정화를 분해에 의한 안정화로 바꿈",
+        "decisive_operation": "주체·단계·결과가 함께 적힌 사건표와④를 비교. 주체 한 칸만 고쳐도 전체 문장이 맞아지는 것은 아님",
+        "evidence_type": "합성 함의", "evidence_qualification": "개시제 분해 후 불안정은 직접 명시. 에틸렌이라는 단어가 있거나 일부 결합이 끊어진다는 사실만으로 '분해되면서 안정'을 허용하지 않음",
+        "existing_code_layers": "주#17 사건 귀속, 보조#3 단계·#5 상태 변화, 표면#45 과정. 원기록 유지",
+        "strongest_competitor": "단계별 함수형 표: 입력=열 흡수 개시제/에틸렌, 처리=분해/결합, 출력=불안정 원자/새 사슬 끝. #45로 이 표를 쓰면#17 사건 귀속과 같은 오류를 검출한다. #46의 인과 경로도 정확한 주체·상태를 포함하면 반박 가능하다.",
+        "competitor_relation": "입출력/사건표는 같은 국소 수행의 다른 표현. 전체 중합의 모든 연결을 합성하는 추가 수행은 정답에 필수 아님",
+        "priority": "#17 대표 유지; 함수식으로 표현 가능하다는 이유만으로#45 주로 변경하거나#45 설명을 배제하지 않음"
+      },
+      {
+        "case": "EO", "passage_group": "G029", "source": "data/기본기_연구/prepared_backlog/blind_sources/EO.json",
+        "task": "잠재 표현 설명 중 부적절 선지 선택", "target": "⑤ 입력 대상 절",
+        "evidence_location": "1문단 원본=원하는 값만, 2문단 예측기는 단계별 확산 이미지 입력→노이즈 특성의 수치화; 4문단 역확산 입력; choices[4]",
+        "relation_without_codes": "노이즈 포함 이미지→예측기→노이즈 특성 수치(잠재 표현)",
+        "changed_part": "예측기의 입력을 노이즈 포함 이미지에서 원본 이미지로 교체",
+        "decisive_operation": "입력 역할 한 칸을 원문과 대응", "evidence_type": "직접 함의",
+        "existing_code_layers": "최초 주#45/보조#17/표면#16, 후속#17·#45 우선순위 유보를 보존",
+        "strongest_competitor": "#17 표에 대상=예측기, 역할=입력, 값=노이즈 포함 이미지를 적으면 충분. #16도 '잠재 표현=예측기가 노이즈 포함 이미지에서 추출한 특성의 수치'라는 생성 출처 포함 정의로 구성하면 같은 판단. '수치이다'만 적은 약한 정의를 반증 대상으로 삼지 않음",
+        "competitor_relation": "같은 국소 수행의 다른 표현. 정의에 출처를 포함하는 표현이#16 원저자 범위인지 여부는 미결",
+        "priority": "#17/#45 유일 우선순위 유보 유지. #16의 약한 정의만 기각한 과거 논증은 강한 대안 배제 근거로 불충분; 새 주 번호 확정 없음"
+      },
+      {
+        "case": "EP", "passage_group": "G029", "source": "data/기본기_연구/prepared_backlog/blind_sources/EP.json",
+        "task": "보기의 단계 이해 중 부적절 선지 선택", "target": "③ 순확산 조건 아래 예측 노이즈→이미지 연산기 연결",
+        "evidence_location": "2문단 생성기가 만든 노이즈를 연산기가 더함, 3문단 예측값은 정답 노이즈와 학습 비교, 4문단 예측 노이즈를 연산기가 뺌; choices[2], choices[4]",
+        "relation_without_codes": "순확산: 연산기 노이즈 입력=생성값, 학습 비교=예측값 대 생성값. 역확산: 연산기 제거 입력=예측값",
+        "changed_part": "순확산 조건에 역확산의 공급 연결을 이식",
+        "decisive_operation": "과정 조건을 선택한 뒤 그 과정의 공급자·값·수신자 대응을 확인",
+        "evidence_type": "합성 함의",
+        "evidence_qualification": "원문이 설명하는 장치 연결과 용도 안에서③을 기각. '문장에 안 나왔다'만으로 현실의 모든 부가 연결이 불가능하다고 주장하지 않음",
+        "existing_code_layers": "최초 주#45=전달 연결, 보조#12=과정 조건·#17=공급값 귀속, 표면#92=더하기/빼기. 기존 판정 보존",
+        "strongest_competitor": "완전한 조건부 귀속표: (순확산, 연산기 노이즈 입력, 생성기 생성값), (순확산, 학습 비교, 예측값/생성값), (역확산, 연산기 제거 입력, 예측기 예측값). ③의 삼항/사항 튜플을 첫 행과 대조하면 전체 경로 합성 없이 같은 오류를 찾는다. 조건문도 순확산이면 공급자는 생성기라는 구체 결과까지 포함하면 충분하다.",
+        "competitor_relation": "과정 조건을 포함한 귀속표와 경로표는 같은 국소 수행의 다른 표현. 과정 없는 대상표에 비해 조건 선택은 별개의 추가 수행이지만, 그것이#45에만 속한다는 근거는 없음",
+        "priority": "사후 current_primary_candidates=[12,17,45], 유일 우선순위 유보. 원 최초#45를 소급 수정하지 않음",
+        "counterexample_to_prior_boundary": "20260913 revision의 'EP는 대상 이름 수정 한 번으로 모두 보존 불가'는 맞아도 강한 귀속표로 환원 불가를 뜻하지 않는다. 표에 과정 열을 추가하면 정보 손실 없이 판단 가능. EP에서 여러 간선 합성이 반드시 필요하다는 강화된 주장에 반례"
+      },
+      {
+        "case": "EJ", "passage_group": "G028", "source": "data/기본기_연구/prepared_backlog/blind_sources/EJ.json",
+        "task": "㉠ 박은식/㉡ 천두슈 이해 중 가장 적절한 선지 선택", "target": "정답② 두 절과 매력적 오답③의 박은식 절·④의 천두슈 절",
+        "evidence_location": "(가)4문단 서양 준거/민족 주체성 대조 및 박은식 과학 연구 시급·유학 혁신; (나)3문단 철학의 과학 방법 요구·전쟁은 이용의 죄악; choices[1:4]",
+        "relation_without_codes": "박은식: 과학 수용과 자국 철학 재구성 지지. 천두슈: 철학의 과학 방법 이용 지지, 과학 오용 책임 인정. 선지 끝 태도 술어가 두 절에 각각 걸림",
+        "changed_part": "③ 시급성 인정에 부인을, ④ 오용 책임 인정에 비판을 붙임",
+        "decisive_operation": "인물별 명제를 태도 방향까지 포함해 적고 각 선지의 두 절을 검증",
+        "evidence_type": "합성 함의",
+        "evidence_qualification": "③·④ 기각은 직접 명시된 견해/태도와 충돌. ② 박은식의 서양 주체 준거 반대는 자국 철학·주체 재구성 문맥에서 추론되며 같은 표현이 직접 인용된 것은 아님",
+        "existing_code_layers": "최초 주#80/보조#75, 이후#75·#80 유일 우선순위 유보. 표면#39=두 대상, #33=② 천두슈 절의 국소 부정 방향",
+        "strongest_competitor": "견해표의 셀을 '박은식은 과학 연구가 시급하다고 본다', '천두슈는 전쟁 책임을 과학 오용에 돌린다'처럼 완전 명제로 쓰면 별도 태도표 없이③·④가 기각된다. 주체-명제-태도 표와 진위 결과 동일",
+        "competitor_relation": "#75/#80 같은 국소 수행의 다른 표현. #39 공통점 산출은 이 문항 필수가 아님. #33 단독으로 두 절의 실질 견해를 결정하는 설명은 배제",
+        "priority": "기존 사후 유보 유지. 단순 지지/반대를 확인했다는 이유로 고유 인식 연산을 입증하지 않음"
+      }
+    ],
+    "revised_rule": "O1 귀속에는 입력·사건·조건 인덱스를 포함할 수 있다. O4는 조건 선택/단일 연결 대조/복수 연결 합성을 분리한다. O6는 태도에 주의를 주는 O1의 특수 적용 후보이며 별개 능력으로 확정하지 않는다.",
+    "decisions": {"유지": "조건과 태도 정보가 빠진 표로는 판단을 보존하지 못함", "수정": "EP의 경로표 우위를 조건부 귀속표와의 국소 동치/유일 우선순위 유보로 제한", "유보": "O1/O4/O6 독립성과#16/#17/#45/#75/#80 전역 포함 관계", "반례": "EP 완전 조건부 귀속표; DZ는 주어만 고쳐도 결과 오류가 남아 모든 문항의 단일 칸 수정 가설을 반박", "다음_falsification_target": "미열람 지문에서 두 연결을 실제로 합성해야만 드러나는 결과 또는 믿음/앎의 강도 차이가 필요한 사례를 선정하되 이번에는 열람하지 않음"},
+    "minimal_variants": [
+      {"case": "DZ", "one_change": "④ 첫 주체 '불안정한 원자를 가진 에틸렌'을 '과산화물 개시제'로만 교체", "predicted_change": "안정해진다는 결과 오류가 남아 문장 전체는 여전히 부적절. 완전 정문화가 아닌 단일 수정의 불충분성을 검사", "synthetic_not_corpus": true},
+      {"case": "EO", "one_change": "⑤의 원본 이미지를 확산 이미지로 교체", "predicted_change": "입력 귀속 오류 해소", "synthetic_not_corpus": true},
+      {"case": "EP", "one_change": "③의 순확산을 역확산으로 교체", "predicted_change": "확산 이미지 입력에서 예측 노이즈가 제거 연산기에 들어가는 연결이 적절해짐. 문항 전체 단일 정답 보장은 별도", "synthetic_not_corpus": true},
+      {"case": "EJ", "one_change": "③ 박은식 절의 태도만 부인에서 인정으로 교체; 천두슈 절 부인은 유지", "predicted_change": "③ 박은식 절 오류가 해소. 원문 공통 종결 '부인'을 통째로 바꾸면 두 절을 바꾸므로 단일 변형이 아님. 의미상 한 절만 명시적으로 다시 쓰는 검토용 변형", "synthetic_not_corpus": true}
+    ],
+    "student_action": "누가/어느 과정에서/무엇을 입력·생성·인정하는지 필요한 열만 만든다. 대상 이름이 같아도 조건·태도가 다르면 별도로 비교하고, 이미 표에 담긴 확인을 두 번의 독립 수행으로 세지 않는다.",
+    "generation_principle": "입력 대상, 과정 조건, 태도 하나를 이동한 선지를 설계한다. 여러 오류가 겹친 DZ형은 한 칸 수정으로 정답화된다고 가정하지 않는다.",
+    "sampling": {"cases": 4, "distinct_passage_groups": 3, "EO_EP_same_passage": true, "new_corpus_cases": 0},
+    "confidence": "국소 대안 구성 높음; 원저자 코드 정의와 전역 우선순위 미결"
+  }
+}

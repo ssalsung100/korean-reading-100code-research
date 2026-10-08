@@ -1,0 +1,149 @@
+{
+  "case_ids": [
+    "DV",
+    "GA",
+    "DZ",
+    "EO",
+    "EP",
+    "EJ",
+    "AB",
+    "BZ",
+    "CT",
+    "GC",
+    "FH",
+    "FN",
+    "FT",
+    "GJ",
+    "ET",
+    "FF",
+    "FL",
+    "FX",
+    "EF",
+    "FD",
+    "EI"
+  ],
+  "queue_count": 858,
+  "queue_last_record_id": "SESSION-hold-20260915-user-stop-01",
+  "files": {
+    "data/기본기_연구/astra_handoff_queue.jsonl": {
+      "bytes": 1266677,
+      "sha256": "a4c2ef4ca60189db3f819fb21730782fc1c2e9051f65814dbe08ce2e565866b6"
+    },
+    "data/기본기_연구/astra_handoff_processed.jsonl": {
+      "bytes": 331053,
+      "sha256": "bc01e91bd3d8252fdc5bbac950c5683ea76013de90772cafff26a875df3e761d"
+    },
+    "data/기본기_연구/prepared_backlog/manifest.jsonl": {
+      "bytes": 107551,
+      "sha256": "cd970730d688698ef7e64b563efe94a035b01e8c15f9fea70b52f29e6a30ff6d"
+    },
+    "data/기본기_연구/meta_state.json": {
+      "bytes": 4215,
+      "sha256": "ef45922808315f0d08fed1559d5e02ef592b96728f5cac3ef96d8aab792075ca"
+    },
+    "분석/기본기_연구/CURRENT.md": {
+      "bytes": 52589,
+      "sha256": "26e2b2e841f68b31680bf7256f50e2ca1a595fde64577f1413cf469c9bc0c756"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/DV.json": {
+      "bytes": 3825,
+      "sha256": "32c1a43cc6f691326d190986e9e29f82d444fb116585cdfba7ff31c971256812"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/GA.json": {
+      "bytes": 6571,
+      "sha256": "b718b9b9498146b4e8ef92513252053e214f12ffe3866b67ddf6c13e055c5db9"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/DZ.json": {
+      "bytes": 4558,
+      "sha256": "02ed28e0f80c80540cb5a3f410befb4f1c2b6939cf7b29984201fc9d3dfcea44"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/EO.json": {
+      "bytes": 4518,
+      "sha256": "ab723b7c88b0bf7af0850b4ea6c9f9d5b3e9acaea2a4278a5c28498663a72922"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/EP.json": {
+      "bytes": 5113,
+      "sha256": "7dbb5807f5ac46128b0aab26c2594169d7b74213aa62680a95c8aea835076add"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/EJ.json": {
+      "bytes": 7176,
+      "sha256": "724b004a05baf98280b73699d395dddaf5bd9e9954a6043e69b55c6eee30160e"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/AB.json": {
+      "bytes": 4985,
+      "sha256": "8075065feca87862c8ee243ab429f7e409d4a5e6a1b54225334e3373c30f6d6b"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/BZ.json": {
+      "bytes": 3588,
+      "sha256": "1ebc7d928e5467ce73d5d43b4a6155f2f2172a2e9081a22982c3f8f4955d6339"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/CT.json": {
+      "bytes": 4883,
+      "sha256": "416ebcdd29b178e617ddaf711553a086d3ac6e50c07bd7d806efd7139a03136d"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/CT_equation_supplement.json": {
+      "bytes": 2366,
+      "sha256": "5d8148974d78347e3e8852f14de148ba7b88fdff39624407ec1c18d27a54f6fc"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/CT_source_supplement.json": {
+      "bytes": 2868,
+      "sha256": "53028399d55ff9e1e8d8202e2f4cdcfc92726538c9aa24c9b0621a946775454d"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/GC.json": {
+      "bytes": 6360,
+      "sha256": "79123a5641f07dee81ba5218e686d6827649eccc17264556b129093730e53c68"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/FH.json": {
+      "bytes": 5987,
+      "sha256": "00cd946029cc59976538ec02e6fe474190e0588841a3157624d75ae847b87c1f"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/FN.json": {
+      "bytes": 5956,
+      "sha256": "31b2d84385186219b6d009141cd778ae50fe1c39b490edc2c0f327ddba6c8633"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/FT.json": {
+      "bytes": 6443,
+      "sha256": "103eba625f5fdfb7e7d413e137a9abdbf251aeac1842cb5f79818bc7bef86710"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/GJ.json": {
+      "bytes": 4517,
+      "sha256": "6cf8ff481eb6dd729f539472c3a071d05e246e49d0ce3f30fed9b970417acc61"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/ET.json": {
+      "bytes": 3831,
+      "sha256": "cf84b61428145c8818756a957d821c25d99a022bf523971c1891d9dffd3a403b"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/FF.json": {
+      "bytes": 6266,
+      "sha256": "1563dec4c7e93dea4f918280809bc911dec2b2d50fa3f7d1d7ef0a0947d0f9e8"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/FL.json": {
+      "bytes": 6085,
+      "sha256": "f9a17878e7e20f12428b8f654e6da1a35e42895a62c5d9531975dc72a844f0bf"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/FX.json": {
+      "bytes": 7845,
+      "sha256": "b9a46ad5ed726ba71f40a8bc9a54ff95e59bbeb550204735bbabe7a12292837c"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/EF.json": {
+      "bytes": 3659,
+      "sha256": "87a0cbfc4327143c2d32908b08bf43379ce7ca2b4a1bf70aa75ef22bf02c74c9"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_crop.png": {
+      "bytes": 190003,
+      "sha256": "988dde7181ef2d8ca7e6f43667c946ac37d9833d343bfd072aa62a87c91eca1d"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/EF_original_question_supplement.json": {
+      "bytes": 1160,
+      "sha256": "e40d1574522263dc7bb2187f5a79b308d7d43af0d65bff549f53a085b5ac649b"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/FD.json": {
+      "bytes": 6139,
+      "sha256": "225ae4af6e7a85ab7115d1808f15cddb73057e875250d3b434a2e691ae2f2e05"
+    },
+    "data/기본기_연구/prepared_backlog/blind_sources/EI.json": {
+      "bytes": 6914,
+      "sha256": "20a4d2f2c1dd5953f80c06cc4a47128180b1538577f5c917f8ae3ce227763cd7"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "blind_only": true,
+  "passage_group": "G073",
+  "case_id": "KO",
+  "supplement_role": "anonymous_blind_source_supplement",
+  "supplement_type": "embedded_visual_choice_assets",
+  "choice_asset_mapping": [
+    {
+      "choice_number": 1,
+      "embedded_asset_reference": "image18",
+      "asset": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_1.png",
+      "original_dimensions_px": [
+        558,
+        329
+      ]
+    },
+    {
+      "choice_number": 2,
+      "embedded_asset_reference": "image19",
+      "asset": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_2.png",
+      "original_dimensions_px": [
+        557,
+        329
+      ]
+    },
+    {
+      "choice_number": 3,
+      "embedded_asset_reference": "image20",
+      "asset": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_3.png",
+      "original_dimensions_px": [
+        558,
+        329
+      ]
+    },
+    {
+      "choice_number": 4,
+      "embedded_asset_reference": "image21",
+      "asset": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_4.png",
+      "original_dimensions_px": [
+        557,
+        329
+      ]
+    },
+    {
+      "choice_number": 5,
+      "embedded_asset_reference": "image22",
+      "asset": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_5.png",
+      "original_dimensions_px": [
+        558,
+        329
+      ]
+    }
+  ],
+  "provenance": {
+    "artifact_scope": "local canonical HWPX Contents/section0.xml embedded bitmap",
+    "answer_or_sdss_included": false,
+    "interpretation_added": false
+  }
+}

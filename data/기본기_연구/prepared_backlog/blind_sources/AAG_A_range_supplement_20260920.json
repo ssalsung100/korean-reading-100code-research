@@ -1,0 +1,44 @@
+{
+  "blind_only": true,
+  "passage_group": "G168",
+  "case_id": "AAG",
+  "purpose": "AAG [A] 범위의 canonical 문단 anchor와 첫·끝 문장 기계 복원",
+  "source_role": "mechanical_canonical_source_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "sha256": "d5db41d1206c34c2176624c93481da71355e87a4545761009516015d2c4a3149",
+    "hash_verification": {"command": "sha256sum", "computed_sha256": "d5db41d1206c34c2176624c93481da71355e87a4545761009516015d2c4a3149", "matches_metadata": true},
+    "xml_part": "Contents/section0.xml",
+    "passage_header": "[081~086] 2026학년도 6월 모평 4번~9번",
+    "paragraph_anchor": {
+      "global_p_index": 1354,
+      "marker": "[A]",
+      "marker_position": "paragraph_start_inline",
+      "following_marker_global_p_index": 1357,
+      "following_text_global_p_index": 1360,
+      "following_text_starts": "절차주의적 법 모델에 따르면, 법은 분쟁에 직접 개입해 해결책을"
+    },
+    "a_marker_table_cell": {"table_id": "2029780286", "rowCnt": 3, "colCnt": 2, "cell_full_text": "[A]"}
+  },
+  "range_text": {
+    "first_sentence": "그런데 법적 규제가 과도할 경우 삶의 세계를 구성해 온 고유한 직업 윤리 등 문화적·도덕적 규범이 강행적 성격을 띤 법 규범에 의해 침범당하는 경우가 생긴다.",
+    "last_sentence": "그로 인해 법 규범이 삶의 세계에 점점 더 깊숙이 개입하게 되어 사회의 자율적 조절 기능은 더욱 망가지는 과정이 반복된다. ㉠ 이러한 악순환을 방지하면서 사회복지 체계를 보완하고자 등장한 것이 절차주의적 법 모델이다.",
+    "canonical_paragraph_text_scope": "[A] marker 뒤부터 위 last_sentence까지의 동일 문단",
+    "following_text_outside_range": "절차주의적 법 모델에 따르면, 법은 분쟁에 직접 개입해 해결책을 내놓는 대신 분쟁 당사자들의 논의와 협상을 위한 절차나 권한 분배 등 분쟁 해결 방식에만 관여한다."
+    ,"a_marker_table_cell_extraction": "[A]"
+  },
+  "blind_source_crosscheck": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AAG.json",
+    "marker_present": true,
+    "first_sentence_match": true,
+    "last_sentence_match": true,
+    "original_blind_source_modified": false
+  },
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  },
+  "status": "blind_range_anchor_restored_mechanically"
+}

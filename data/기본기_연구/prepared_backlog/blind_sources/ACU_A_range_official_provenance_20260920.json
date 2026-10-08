@@ -1,0 +1,22 @@
+{
+  "blind_only": true,
+  "case_id": "ACU",
+  "passage_group": "G181",
+  "source_role": "official_question_pdf_visual_crop",
+  "official_source": {
+    "url": "https://wdown.ebsi.co.kr/W61001/01exam/20250903/go3/kor_main_mun_O973Z9C5.pdf",
+    "local_temp_path": "/tmp/official_2026_9_kor.pdf",
+    "sha256": "d2e886d79851fcc92e695f6b9fa6cb42a0b65874362621873872a118c508a738",
+    "page_number_one_based": 2,
+    "page_anchor": "G181 source passage with SF section and floating [A] marker"
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ACU_A_range_official_crop_20260920.png",
+    "source_raster": "official PDF page 2 rendered at 1.8x",
+    "pixel_box_xyxy": [780, 700, 1395, 1015],
+    "sha256": "827f1015125d257c463e89fe2b2b596c12a34f66d9a102a059c8feeb488f24db",
+    "scope": "official PDF rendered [A] marker and adjacent bracketed paragraph only; question choices excluded"
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "status": "official_visual_anchor_restored_mechanically"
+}

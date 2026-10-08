@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G155",
+  "case_id": "YL",
+  "source_role": "mechanical_canonical_source_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "source_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 3069,
+    "A_end_marker_paragraph_index": 3072,
+    "preceding_paragraph_index": 3068,
+    "following_paragraph_index": 3075
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_observation": "paragraph 3069 첫머리에 [A] 표지가 붙어 있다.",
+    "start_text_verbatim": "독서의 ‘때문에 동기’는 독서 행위를 하게 만든 이유를 의미한다.",
+    "end_text_verbatim": "또한 독서 행위를 통해 성취감이나 감동을 느끼는 것, 선물로 받은 책을 읽어서 친구를 실망시키지 않는 것 등도 이 독서 행위의 결과로 기대할 수 있는 것이므로 역시 ‘위하여 동기’가 된다고 할 수 있다.",
+    "end_marker_context": "paragraph 3069의 마지막 문장 뒤에 빈 paragraph 3070·3071이 있고, paragraph 3072에 단독 [A] 표지가 있다. 이후 paragraph 3075에서 다음 내용이 시작된다.",
+    "range_statement": "[A]는 paragraph 3069 첫머리의 표지부터 해당 단락 마지막 문장까지이며, paragraph 3072의 단독 [A]는 문제에서 다시 참조하는 표지이다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "원문 [A] 표지와 시작·끝 문장 및 XML anchor만 기계적으로 복원했다."
+}

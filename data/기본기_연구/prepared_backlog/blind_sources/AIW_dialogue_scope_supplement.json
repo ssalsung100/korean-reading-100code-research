@@ -1,0 +1,25 @@
+{
+  "blind_only": true,
+  "passage_group": "G216",
+  "case_id": "AIW",
+  "source_role": "official_pdf_scope_supplement",
+  "canonical_source": {
+    "path": "/mnt/d/국어/평가원 선지 빼먹기/source_pdfs/daipzip/2024_수능_국어_문제.pdf",
+    "page": 10,
+    "clip_points": [400, 100, 790, 780],
+    "render_scale": 4,
+    "crop_path": "data/기본기_연구/prepared_backlog/blind_sources/AIW_dialogue_ABC_scope_official_pdf.png",
+    "crop_sha256": "49880f5f4604b7b04e5b29275df520822e9063d705c50a4afb155f2e63fbdd7d"
+  },
+  "scope": {
+    "markers": ["[A]", "[B]", "[C]"],
+    "dialogue_scope_start_and_end_visible": true,
+    "question_visual_or_scope_only": true
+  },
+  "exposure": {
+    "official_answer": "not_included",
+    "sdss": "not_included",
+    "code_judgment": "not_included"
+  },
+  "status": "official_pdf_scope_restored"
+}

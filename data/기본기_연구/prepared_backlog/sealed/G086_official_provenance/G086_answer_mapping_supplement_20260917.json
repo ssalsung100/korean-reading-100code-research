@@ -1,0 +1,53 @@
+{
+  "blind_only": false,
+  "purpose": "G086 시험 식별·문항 번호·공식 정답표 매핑 검증용 provenance; 의미 판정·코드·해설 없음",
+  "passage_group": "G086",
+  "case_ids": ["MH", "MI", "MJ", "MK"],
+  "source_identity": {
+    "exam": "2016학년도 대학수학능력시험 국어 B형",
+    "form": "홀수형",
+    "question_range": "17~20",
+    "passage_anchor": "도덕적 운",
+    "canonical_compilation": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "canonical_compilation_metadata": "고3 기출/hwpx_텍스트_연도별.md § [116~119] 2016학년도 수능B 17번~20번"
+  },
+  "question_pdf": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/2016_KICE_Korean_B_problem_and_answer_archive.pdf",
+    "repository_url": "https://wimg.kyeongin.com/news/legacy/attach/201511/20151112001156181_1.pdf",
+    "repository_type": "third_party_archive",
+    "kice_notice": "PDF pages carry 한국교육과정평가원 copyright notice",
+    "archive_page_map": {"odd_question_page": 39, "even_question_page": 55},
+    "sha256": "1f0f6c3736502fd772ea27686d55ecb40abf1aad7c05dcaa56e2d1d945bcc97c",
+    "render_crops": [
+      {"path": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/G086_problem_Q17_p39_odd.png", "pdf_page_index": 38, "scope": "Q17 only", "render_scale": 3, "sha256": "b2ea0ba8dd81ae5da5b7d61581b3ebeabb13592c9de3482e617cc28cb278e5c8"},
+      {"path": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/G086_problem_Q18_Q20_p40_odd.png", "pdf_page_index": 39, "scope": "Q18-Q20 only", "render_scale": 3, "sha256": "331ab4f0cac3e24122b88e8196a18d5f67eef7b4330ca6ee76cf8b5a3778fbc8"}
+    ]
+  },
+  "official_answer_table": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/2016_KICE_Korean_B_odd_answer_table.pdf",
+    "repository_url": "https://www.visang.com/upload/contents/18hkk3ha/html/data/04_%EC%88%98%EB%8A%A5%EB%AA%A8%EC%9D%98%ED%8F%89%EA%B0%80%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C/01_%EC%88%98%EB%8A%A5/2016_%EC%88%98%EB%8A%A5_B%ED%98%95_%EC%A0%95%EB%8B%B5.pdf",
+    "repository_type": "third_party_archive_of_answer_table",
+    "table_page": 1,
+    "form": "B형 홀수형",
+    "sha256": "ab3a2b98ea3ed057fec83337d12c0ab4c6c82f7a55a45f4f9383d190f2786572",
+    "render_crop": {"path": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/G086_answer_table_Q17_Q20_odd_p1.png", "pdf_page_index": 0, "scope": "answer-table title plus Q17-Q20 rows only", "render_scale": 3, "sha256": "371fd3d07c666c8f18c8e1aa89c042393aedd8c888c1234885b63fcded2b0829"}
+  },
+  "case_to_official_question_mapping": {
+    "MH": {"question_number": 17, "blind_selected_answer": 5, "official_answer_table_answer": 5},
+    "MI": {"question_number": 18, "blind_selected_answer": 1, "official_answer_table_answer": 1},
+    "MJ": {"question_number": 19, "blind_selected_answer": 1, "official_answer_table_answer": 1},
+    "MK": {"question_number": 20, "blind_selected_answer": 4, "official_answer_table_answer": 4}
+  },
+  "sealed_conflict_preservation": {
+    "sealed_values_seen_in_parent_hold": {"MH": 2, "MI": 4, "MJ": 2, "MK": 3},
+    "action": "sealed values are not overwritten; conflict is recorded for Astra provenance review",
+    "comparison_basis": "official B형 홀수형 answer table question numbers 17~20, not explanation or SDSS"
+  },
+  "qualification": {
+    "direct_kice_endpoint_bytes": false,
+    "third_party_files": true,
+    "semantic_judgment": false,
+    "sdss_seen": false,
+    "existing_code_or_explanation_seen": false
+  }
+}

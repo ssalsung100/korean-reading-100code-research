@@ -1,0 +1,80 @@
+{
+  "purpose": "G160 ZD/ZE/ZF의 canonical 연도·회차·문항 번호와 공식 정답표 연결을 기계적으로 검증하는 source supplement",
+  "source_role": "mechanical_official_answer_provenance_supplement",
+  "passage_group": "G160",
+  "canonical_mapping_source": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/provenance_mapping.jsonl",
+    "records": {
+      "ZD": {
+        "exam_family": "KICE",
+        "academic_year": 2025,
+        "exam_label": "6월 모평",
+        "question_number": 1,
+        "dataset_question_id": "180",
+        "question_id": "KICE-2025-6월_모평-Q01-03-S180~182-Q01",
+        "passage_id": "KICE-2025-6월_모평-Q01-03-S180~182"
+      },
+      "ZE": {
+        "exam_family": "KICE",
+        "academic_year": 2025,
+        "exam_label": "6월 모평",
+        "question_number": 2,
+        "dataset_question_id": "181",
+        "question_id": "KICE-2025-6월_모평-Q01-03-S180~182-Q02",
+        "passage_id": "KICE-2025-6월_모평-Q01-03-S180~182"
+      },
+      "ZF": {
+        "exam_family": "KICE",
+        "academic_year": 2025,
+        "exam_label": "6월 모평",
+        "question_number": 3,
+        "dataset_question_id": "182",
+        "question_id": "KICE-2025-6월_모평-Q01-03-S180~182-Q03",
+        "passage_id": "KICE-2025-6월_모평-Q01-03-S180~182"
+      }
+    }
+  },
+  "canonical_question_record_source": {
+    "path": "data/kice_questions.jsonl",
+    "passage_id": "KICE-2025-6월_모평-Q01-03-S180~182",
+    "question_rows": [
+      {"question_number": 1, "dataset_question_id": "180", "answer": "⑤"},
+      {"question_number": 2, "dataset_question_id": "181", "answer": "②"},
+      {"question_number": 3, "dataset_question_id": "182", "answer": "②"}
+    ],
+    "linkage_fields": ["question_id", "passage_id", "academic_year", "exam_label", "question_number", "answer", "official_answer_verified", "answer_link_status"]
+  },
+  "official_answer_table": {
+    "path": "자료/평가원_정답표/원본/모의평가/2025_6월_국어_국어영역_정답표.pdf",
+    "sha256": "fe72ad067c402e41b7bc914644fd367ffde18f10ed35b3a1e342ea81418d80c6",
+    "pdf_page_index": 0,
+    "title_text": "2025학년도 대학수학능력시험 6월 모의평가 국어 영역 정답표",
+    "verified_rows": [
+      {"question_number": 1, "official_answer": "⑤"},
+      {"question_number": 2, "official_answer": "②"},
+      {"question_number": 3, "official_answer": "②"},
+      {"question_number": 4, "official_answer": "①", "neighbor_check": true}
+    ],
+    "neighbor_alignment": "공식 정답표의 연속 행 Q1~Q4가 ⑤·②·②·①로 읽혀 Q1~Q3 연결의 번호 밀림 없음"
+  },
+  "blind_vs_official": {
+    "ZD": {"blind_choice": "④", "official_answer": "⑤"},
+    "ZE": {"blind_choice": "⑤", "official_answer": "②"},
+    "ZF": {"blind_choice": "③", "official_answer": "②"}
+  },
+  "preservation": {
+    "blind_sources_modified": false,
+    "semantic_judgment_performed": false,
+    "sdss_read": false,
+    "project_explanation_read": false,
+    "code_judgment_performed": false,
+    "original_blind_and_sealed_records_preserved": true
+  },
+  "status": "mechanical_provenance_and_answer_table_link_verified"
+  ,"correction": {
+    "problem_pdf_first_paragraph_topic": "여러 글 읽기/선택·연결·조직 지문",
+    "observed_first_two_sentences": "여러 글에서 다양한 정보를 종합하며 읽는 능력은 많은 정보가 산재해 있는 디지털 환경에서 더욱 중요해졌다. 궁금증 해소나 글쓰기 등 문제 해결을 위한 목적으로 글 읽기를 할 때에 한 편의 글에 원하는 정보가 충분하지 않다면, 여러 글을 읽으며 이를 해결할 수 있다.",
+    "g160_question_linkage": "문제지 실제 지문 연결 미확정",
+    "note": "기존 canonical/provenance 라벨과 정답표 연결 기록은 보존하며, 문제지 실제 지문 대조 전 ZD/ZE/ZF의 해당 문제지 연결을 확정하지 않는다. 정답 추론 없음."
+  }
+}

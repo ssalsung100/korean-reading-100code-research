@@ -1,0 +1,28 @@
+{
+  "blind_only": true,
+  "case_id": "TL",
+  "passage_group": "G127",
+  "source_role": "mechanical_canonical_source_supplement",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "xml_anchor": {
+    "passage_start_paragraph_index": 132,
+    "passage_end_paragraph_index": 136,
+    "A_marker_table_id": "1196512278",
+    "A_marker_cell": {"colAddr": "0", "rowAddr": "1"},
+    "A_text_paragraph_index": 136,
+    "next_question_number_paragraph_index": 143
+  },
+  "range_transcription": {
+    "start": "[A] 표지는 ‘영화는 허구적 이야기에 역사적 사실을 담아냄으로써…’ 앞에 있다.",
+    "end": "‘이렇듯 영화는 공식 역사의 대척점에서 활동하면서 역사적 의식 형성에 참여한다는 점에서 역사 서술의 한 주체가 된다.’"
+  },
+  "transcription_note": "정본 원문은 표 1196512278의 1행에 [A] 표지를 두고, A 지문 텍스트를 같은 hp:p(문단 index 136)에 둔다. blind TL.json 평탄화에서는 [A]가 끝에 배치되었으므로 이 보충 자료는 경계만 복원한다.",
+  "quality_limit": "경계 anchor는 XML 구조 및 텍스트 증거에 근거하며, 시각 crop/PDF 렌더링은 추가하지 않았다.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  }
+}

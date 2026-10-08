@@ -1,0 +1,43 @@
+{
+  "source": "파일럿/통합사회_평가원형_고난도_파일럿_v2_경제.md",
+  "metrics": {
+    "passage_nonspace_chars": 1066,
+    "paragraphs": 5,
+    "questions": 4,
+    "choice_counts": [
+      5,
+      5,
+      5,
+      5
+    ],
+    "inference_ending_count": 10,
+    "absolute_signal_hits": {},
+    "exposed_meta_hits": {},
+    "direct_recall_stem_hits": {}
+  },
+  "formal_checks": {
+    "passage_length_1050_1250": true,
+    "five_paragraphs": true,
+    "four_questions": true,
+    "five_choices_each": true,
+    "no_exposed_meta_terms": true,
+    "no_absolute_signal_terms": true,
+    "no_direct_recall_stems": true,
+    "inference_endings_present": true,
+    "answers_present": true
+  },
+  "design_evidence": {
+    "delayed_retrieval": true,
+    "two_paragraph_integration_q1_q2": true,
+    "variable_mapping_q3": true,
+    "part_whole_q4": true,
+    "single_mutation_distractors": true
+  },
+  "formal_status": "PASS",
+  "difficulty_status": "PASS_PROVISIONAL",
+  "manual_audit": {
+    "q3": "A는 2, 4가 모두 5보다 작아 2단위, B는 3만 5보다 작아 1단위 감축. ④가 유일.",
+    "q4": "정책 이득 30+15=45, 행정 비용 55 증가이므로 순이득 10 감소. ④가 유일.",
+    "caveat": "평가원 체감 난도는 실제 풀이 또는 사용자 캘리브레이션 전까지 확정하지 않음."
+  }
+}

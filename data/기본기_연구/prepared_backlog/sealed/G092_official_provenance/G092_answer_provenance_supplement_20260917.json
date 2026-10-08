@@ -1,0 +1,85 @@
+{
+  "purpose": "G092 NB/NC 시험 형식·문항 번호·정답표 위치 확인용 provenance supplement; semantic code judgment 없음",
+  "exam": "2016학년도 대학수학능력시험 국어 B형 홀수형",
+  "case_mapping": {
+    "NB": {
+      "question_number": 29,
+      "blind_choice": "④",
+      "sealed_answer_preserved": "⑤"
+    },
+    "NC": {
+      "question_number": 30,
+      "blind_choice": "⑤",
+      "sealed_answer_preserved": "②"
+    }
+  },
+  "source_reused_from": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/",
+  "question_pdf": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/2016_KICE_Korean_B_problem_and_answer_archive.pdf",
+    "pdf_page_index": 42,
+    "form": "odd",
+    "crop_rect_points": [
+      60,
+      140,
+      780,
+      1050
+    ],
+    "scope": "Q29-Q30 passage and question page",
+    "render_scale": 3,
+    "crop_path": "data/기본기_연구/prepared_backlog/sealed/G092_official_provenance/G092_problem_Q29_Q30_p43_odd.png",
+    "sha256": "b0f24a3cb621c91909f79affeab96c0ec675b8a5ea574f130eac73760084e5b5"
+  },
+  "answer_table_pdf": {
+    "path": "data/기본기_연구/prepared_backlog/sealed/G086_official_provenance/2016_KICE_Korean_B_odd_answer_table.pdf",
+    "pdf_page_index": 0,
+    "form": "odd",
+    "crop_rect_points": [
+      300,
+      380,
+      365,
+      460
+    ],
+    "scope": "Q29-Q30 answer-table cells only; surrounding columns excluded",
+    "render_scale": 3,
+    "crop_path": "data/기본기_연구/prepared_backlog/sealed/G092_official_provenance/G092_answer_table_Q29_Q30_odd_p1.png",
+    "sha256": "381c3d832d9643d3bb35279b2d00e60aa4c25832b2b73be02f0f0bfe23e2bea3"
+  },
+  "refined_crops": {
+    "problem_q29_left": {
+      "path": "data/기본기_연구/prepared_backlog/sealed/G092_official_provenance/G092_problem_Q29_left_p43_odd.png",
+      "pdf_page_index": 42,
+      "crop_rect_points": [75, 845, 420, 1080],
+      "scope": "Q29 left column: stem and choices ①~⑤, including the full ⑤ text",
+      "sha256": "8119eca1d611c0805f901698d8a0f226f9b9e50145a043fdbf2a848db4eb3ff7"
+    },
+    "problem_q30_right": {
+      "path": "data/기본기_연구/prepared_backlog/sealed/G092_official_provenance/G092_problem_Q30_right_p43_odd.png",
+      "pdf_page_index": 42,
+      "crop_rect_points": [425, 145, 770, 635],
+      "scope": "Q30 right column: stem, <보기>, and choices ①~⑤; Q31~33 text excluded",
+      "sha256": "d0f948bdf56d39a500a3243bf8806a7e11133e135a83b347d6dbe5c3e10d4719"
+    },
+    "problem_header": {
+      "path": "data/기본기_연구/prepared_backlog/sealed/G092_official_provenance/G092_problem_header_p43_odd.png",
+      "pdf_page_index": 42,
+      "crop_rect_points": [60, 90, 780, 160],
+      "scope": "exam title/page and 홀수형 header",
+      "sha256": "72998af2ea3a1ddafa1db3acf184be4fbd8fa304846b6e951ee96ded4afc50eb"
+    },
+    "answer_header": {
+      "path": "data/기본기_연구/prepared_backlog/sealed/G092_official_provenance/G092_answer_table_header_p1_odd.png",
+      "pdf_page_index": 0,
+      "crop_rect_points": [180, 95, 410, 195],
+      "scope": "정답표 title and B형/홀수형 format header",
+      "sha256": "a736b641600a4d89209c438889f50abf023571b99be28df51c4222a093799611"
+    }
+  },
+  "crop_limitations": "기존 Q29-Q30 combined crop은 이력 보존용이다. refined crop은 Q29 ⑤ 전체 문장을 포함하고 Q30만 포함하도록 보강했으며, 시험지·정답표 header를 별도 저장했다. 기존 combined crop의 하단 잘림과 Q31~33 인접 본문 포함은 해소 대상 한계로 기록한다.",
+  "preservation": {
+    "original_blind_records_preserved": true,
+    "original_sealed_values_preserved": true,
+    "other_unstarted_question_answers_extracted": false,
+    "semantic_judgment_performed": false
+  },
+  "status": "source_recovery_for_astra_visual_check"
+}

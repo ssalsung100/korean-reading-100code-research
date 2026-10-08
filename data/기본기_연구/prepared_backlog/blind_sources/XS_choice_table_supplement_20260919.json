@@ -1,0 +1,31 @@
+{
+  "blind_only": true,
+  "passage_group": "G150",
+  "case_id": "XS",
+  "source_role": "mechanical_canonical_source_supplement",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx",
+  "xml_part": "Contents/section0.xml",
+  "canonical_file_sha256": "80775db9b9ee656762d0b496d41e5657fc51a727b197d7dc2bc299c78e206cff",
+  "xml_anchor": {
+    "question_number_paragraph_index": 21,
+    "stem_paragraph_index": 22,
+    "choice_header_paragraph_index": 31,
+    "choice_rows": [32, 33, 34, 35, 36]
+  },
+  "columns": ["ⓐ", "ⓑ", "ⓒ"],
+  "choices": [
+    {"choice": "①", "a": "적절", "b": "적절", "c": "적절"},
+    {"choice": "②", "a": "적절", "b": "적절", "c": "부적절"},
+    {"choice": "③", "a": "적절", "b": "부적절", "c": "적절"},
+    {"choice": "④", "a": "부적절", "b": "적절", "c": "적절"},
+    {"choice": "⑤", "a": "부적절", "b": "부적절", "c": "부적절"}
+  ],
+  "transcription_note": "canonical XML은 3열 표제와 번호가 붙은 5개 행을 hp:tab 간격이 있는 일반 hp:p 항목으로 저장한다. 각 행은 문장을 평가하지 않고 기계적으로 전사했다.",
+  "quality_limit": "요청된 (나) 점수는 포함하지 않았으며, 시각 crop/PDF 렌더링은 추가하지 않았다.",
+  "exposure": {
+    "official_answer": "not included",
+    "sdss": "not included",
+    "explanation": "not included",
+    "code_judgment": "not included"
+  }
+}

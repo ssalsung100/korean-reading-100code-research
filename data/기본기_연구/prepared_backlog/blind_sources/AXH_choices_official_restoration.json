@@ -1,0 +1,18 @@
+{
+  "blind_only": true,
+  "passage_group": "G342",
+  "case_id": "AXH",
+  "supplement_type": "official_choice_transcription_restoration",
+  "source": {
+    "official_file": "자료/LEET_언어이해/원본/2014/2014_question_odd_2014학년도_법학적성시험_언어이해(홀수형).hwp",
+    "rendered_page": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_003.png",
+    "choice_crop": "data/기본기_연구/prepared_backlog/blind_sources/AXH_choices_official_crop.png",
+    "printed_page": 3,
+    "question_number": 6
+  },
+  "restored_choices": {
+    "④": "α는 높은 범죄율 사회를 낮은 범죄율 사회로 변화시킬 수 있는 제재의 강도에 해당한다.",
+    "⑤": "범죄에 β보다 더 강한 제재가 가해지는 사회에서 범죄율은 낮은 상태를 유지할 것이다."
+  },
+  "method": "공식 홀수형 문제지 렌더링을 직접 대조해 빠진 그리스문자만 전사함. 정답·SDSS·기존 판정은 본 보충자료에 포함하지 않음."
+}

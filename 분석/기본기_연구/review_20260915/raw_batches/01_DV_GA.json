@@ -1,0 +1,57 @@
+{
+  "record_id": "DV-GA-depth_backfill-20260915-semantic-audit-01",
+  "case": "DV-GA",
+  "stage": "depth_backfill",
+  "status": "done",
+  "timestamp": "2026-09-15",
+  "payload": {
+    "case_ids": ["DV", "GA"],
+    "review_kind": "완료 사례의 사후 semantic audit; 새 blind 판정 아님",
+    "original_blind_preserved": true,
+    "source_record_ids": ["DV-blind-20260913-01", "DV-independent_code-20260913-01", "GA-blind-20260914-02", "GA-independent_code-20260914-02"],
+    "evidence_additions": [
+      {
+        "case": "DV", "passage_group": "G025",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/DV.json",
+        "task": "윗글 이해, 적절하지 않은 선지 선택", "target": "③ 전체 조건문",
+        "evidence_location": "passage_text 3문단: 정상적인 데이터라도 특징을 왜곡하는 값이 있을 수 있다; 선수 연봉 예. choices[2]",
+        "relation_without_codes": "P=정상 수집, Q=이상치 없음. 선지는 P→Q, 본문은 P와 이상치 존재의 양립 가능성을 직접 예시한다.",
+        "changed_part": "정상 수집을 이상치 부재의 충분조건으로 강화",
+        "decisive_operation": "정상 연봉 데이터에 극단 연봉이 포함되는 허용 사례를 대입해 P→Q를 기각",
+        "evidence_type": "명시 반례",
+        "evidence_qualification": "실제 관측 통계가 아니라 본문이 명시한 가능한 반례 상황. 모든 정상 데이터에 이상치가 있다는 뜻은 아님.",
+        "existing_code_layers": "최초 주#36=반례 사용 수행/증거, 보조#14=양립 관계, 보조#2=⑤의 강도 판독, 표면#12=③ 조건문 형식. 기존 번호 보존.",
+        "strongest_competitor": "#12로 ③을 조건식으로 쓰고 P∧¬Q를 대입하거나 #14로 정상 수집/이상치 존재의 양립을 확인해도 동일 결론이다.",
+        "competitor_relation": "상위/하위 층위: #12 관계 형식과 #36 증거 사용. 반례 대입을 포함한 두 표현은 같은 국소 수행의 다른 표현.",
+        "unique_primary": "기존#36 대표는 유지하되 모든 층을 대표하는 유일 코드라고 확정하지 않음",
+        "unresolved": "⑤의 가능성은 실제 측정 오류 비이상치 사례가 명시된 것과 다름. 이 문항 정답③의 반례 근거를⑤까지 전이하지 않음."
+      },
+      {
+        "case": "GA", "passage_group": "G037",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/GA.json",
+        "task": "(가)로 알 수 있는 내용 중 적절하지 않은 선지 선택", "target": "④ 후반 절: 값어치가 일치해야 계약이 체결된다",
+        "evidence_location": "(가)3문단: 계약 체결 당시부터 있던 하자 때문에 대금만큼의 값어치를 하지 못하는 상태였다면 매도인이 책임; choices[3]",
+        "relation_without_codes": "P=계약 체결, Q=교환 대상의 값어치 일치. 하자 있는 매매에 책임/파기 가능성을 부여하는 서술은 체결된 계약과 당시 값어치 미달의 양립을 허용한다.",
+        "changed_part": "거래 대상 값어치에 대한 담보 책임을 계약 체결 이전의 필수요건으로 옮김",
+        "decisive_operation": "체결된 하자 매매의 허용 상황을 복원하고 P∧¬Q를 선지 P→Q에 대입",
+        "evidence_type": "합성 함의",
+        "evidence_qualification": "반례 사용은 맞지만 DV처럼 별도의 구체 예가 직접 제시된 것은 아니다. 조건문만으로 실제 사례의 존재를 논리적으로 도출하지 않는다. 본문이 허용하는 계약 상황을 해석하여 반례를 구성한 것.",
+        "existing_code_layers": "최초 주#10=선지가 추가한 필요조건 관계, 보조#36=기각 증거/수행, 표면#3=시점 표현, #8=③ 배당 순위. 기존 번호 보존.",
+        "strongest_competitor": "#12의 체결→값어치 일치 표기와 #36의 하자 매매 대입은 #10 판독과 같은 결론을 낸다. 유상 계약 정의만 읽고 모든 약속이면 무조건 유효 체결이라고 단정하는 약한 대안은 채택하지 않는다.",
+        "competitor_relation": "#10/#12 같은 국소 관계의 다른 표현; #10/#36 관계와 증거 사용의 층위 차이",
+        "unique_primary": "관계 층의#10와 수행 층의#36 중 하나를 전체 유일 주 코드로 확정하지 않음",
+        "unresolved": "원저자의#10/#36 전역 분류 정의 미확보; 법률 현실의 유효성 요건 전반을 이 독해 판단으로 일반화하지 않음"
+      }
+    ],
+    "boundary_or_generation_impact": "두 사례의 반증 골격은 같지만 증거 직접성은 다르다. O3를 조건 형식·명제 강도·증거 상태의 별도 축으로 수정. 원 판정의 주 코드 차이를 풀이 행동 불일치로 세지 않는다.",
+    "candidate_rule": {"decision": "수정", "retained": "P→Q를 허용된 P∧¬Q로 기각", "counterexample": "GA는 반례 상황 복원에 문맥 연결이 필요하므로 두 사례 모두 직접 명시 반례라는 일괄 표기는 부정확", "held": "반례 사용과 필요조건 판독의 코드 통합", "next_falsification_target": "완료 anchor 밖 새 자료는 열지 않음. 향후 P→Q만 있고 역조건이나 P∧¬Q의 근거가 없는 지문에서 지지 부족과 모순을 구분"},
+    "minimal_variants": [
+      {"case": "DV", "one_change": "③의 '존재하지 않는다'를 '존재할 수 있다'로 교체", "predicted_change": "③은 본문이 직접 지지하는 적절한 진술로 바뀜. 문항 전체 유일답은 재검증 필요", "synthetic_not_corpus": true},
+      {"case": "GA", "one_change": "④의 '일치해야 계약이 체결된다'를 '일치하지 않아도 계약이 체결될 수 있다'로 교체", "predicted_change": "필수요건 추가 오류가 해소됨", "synthetic_not_corpus": true}
+    ],
+    "student_action": "'해야'가 무엇의 조건인지 먼저 표시한 뒤, 본문에서 그 일이 성립하면서 조건은 없는 상황이 허용되는지 찾는다. 반례가 없다는 사실만으로 역조건을 참이나 거짓으로 확정하지 않는다.",
+    "generation_principle": "책임/효과 규정의 내용을 성립 요건으로 옮기거나, 주된 발생 경향을 예외 없는 조건으로 강화한다. 기각용 반례 또는 지지 부족 여부를 출제 전에 구분한다.",
+    "sampling": {"cases": 2, "distinct_passage_groups": 2, "new_corpus_cases": 0},
+    "confidence": "국소 판단 높음; GA 증거 분류는 본문 문맥의 허용 상황 해석에 한정; 전역 코드 우선순위 유보"
+  }
+}

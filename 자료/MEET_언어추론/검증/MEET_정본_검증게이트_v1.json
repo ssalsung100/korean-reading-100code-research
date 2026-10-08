@@ -1,0 +1,64 @@
+{
+  "gate": "PASS_REGISTERED_SCOPE",
+  "errors": [],
+  "records": 125,
+  "verified_questions": 380,
+  "expected_questions": 380,
+  "progress": {
+    "2005예비": {
+      "verified": 50,
+      "expected": 50,
+      "complete": true,
+      "missing": []
+    },
+    "2005": {
+      "verified": 50,
+      "expected": 50,
+      "complete": true,
+      "missing": []
+    },
+    "2006": {
+      "verified": 40,
+      "expected": 40,
+      "complete": true,
+      "missing": []
+    },
+    "2007": {
+      "verified": 40,
+      "expected": 40,
+      "complete": true,
+      "missing": []
+    },
+    "2008": {
+      "verified": 40,
+      "expected": 40,
+      "complete": true,
+      "missing": []
+    },
+    "2009": {
+      "verified": 40,
+      "expected": 40,
+      "complete": true,
+      "missing": []
+    },
+    "2010": {
+      "verified": 40,
+      "expected": 40,
+      "complete": true,
+      "missing": []
+    },
+    "2011": {
+      "verified": 40,
+      "expected": 40,
+      "complete": true,
+      "missing": []
+    },
+    "2012": {
+      "verified": 40,
+      "expected": 40,
+      "complete": true,
+      "missing": []
+    }
+  },
+  "scope_note": "PASS_REGISTERED_SCOPE는 등록된 정본 파일의 무결성 통과만 뜻한다."
+}

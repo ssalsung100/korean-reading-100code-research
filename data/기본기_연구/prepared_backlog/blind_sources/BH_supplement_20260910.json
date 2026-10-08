@@ -1,0 +1,14 @@
+{
+  "blind_only": true,
+  "case_id": "BH",
+  "passage_group": "G009",
+  "supplement_role": "official_visual_asset_recovery",
+  "asset_file": "BH_supplement_20260910_scene_plan.bmp",
+  "source_archive": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+  "source_member": "BinData/image3.bmp",
+  "source_xml": "Contents/section0.xml",
+  "source_xml_anchor": "BH stem immediately followed by hc:img binaryItemIDRef=\"image3\"",
+  "source_shape_comment": "원본 그림의 이름: CLP0002911c16c6.bmp; 원본 그림의 크기: 가로 2392pixel, 세로 1802pixel",
+  "sha256": "f82471ebc2681b232d93eda29be2203ce36152ece79ed962558c059d119a0794",
+  "visual_transcription": null
+}

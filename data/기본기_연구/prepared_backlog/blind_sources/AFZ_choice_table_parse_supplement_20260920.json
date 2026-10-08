@@ -1,0 +1,23 @@
+{
+  "blind_only": true,
+  "passage_group": "G197",
+  "case_id": "AFZ",
+  "question_id": "KICE-2019-9월_모평-Q21-25-S015~019-Q23",
+  "source_role": "mechanical_canonical_choice_table_parse_supplement",
+  "canonical_source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "anchor": "<보기>의 ㉮～㉲ 중 CDS 프리미엄이 두 번째로 큰 것은?",
+    "source_note": "canonical HWPX XML contains the complete comparison table and five choice rows; normalized KICE question record had incomplete_visual_or_table parse"
+  },
+  "restored_table_rows": [
+    {"trade": "㉮", "underlying_asset_credit_rating": "BB+", "protection_seller_bond_credit_rating": "AAA"},
+    {"trade": "㉯", "underlying_asset_credit_rating": "BB+", "protection_seller_bond_credit_rating": "AA-"},
+    {"trade": "㉰", "underlying_asset_credit_rating": "BBB-", "protection_seller_bond_credit_rating": "A-"},
+    {"trade": "㉱", "underlying_asset_credit_rating": "BBB-", "protection_seller_bond_credit_rating": "AA-"},
+    {"trade": "㉲", "underlying_asset_credit_rating": "BBB-", "protection_seller_bond_credit_rating": "A+"}
+  ],
+  "restored_choice_labels": ["① ㉮", "② ㉯", "③ ㉰", "④ ㉱", "⑤ ㉲"],
+  "exposure": {"official_answer": "not included", "sdss": "not included", "code_judgment": "not included"},
+  "status": "choice_table_parse_restored_mechanically"
+}

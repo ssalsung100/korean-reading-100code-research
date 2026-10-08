@@ -1,0 +1,27 @@
+{
+  "case_id": "APB",
+  "passage_group": "G271",
+  "artifact_role": "sealed_official_diagram_crop",
+  "source_file": "자료/MEET_언어추론/페이지/2005/official_page_026_3x.png",
+  "source_sha256": "1da61fc1b7eeaa976ac147c1471cc382b824715d0b8127c7ee20035d1605b38b",
+  "source_size_px": [
+    2526,
+    3573
+  ],
+  "crop_box_left_top_right_bottom_px": [
+    1329,
+    2147,
+    2268,
+    2894
+  ],
+  "crop_file": "data/기본기_연구/prepared_backlog/sealed/G271_APB_official_diagram_labeled_20260927.png",
+  "crop_size_px": [
+    939,
+    747
+  ],
+  "crop_sha256": "13ab5ba84f317a9dac5c35889387af80fdc910c9d36661ca7c15070671f0d890",
+  "operation": "원본 공식 페이지를 지정 좌표로 무손실 PNG crop. 리사이즈·도식 재작성·글자 보완 없음.",
+  "verification": "주 Astra가 crop의 노드 라벨과 화살표를 직접 확인 완료했다고 통보했다.",
+  "existing_blind_asset_limitation": "G271_visual01.png~G271_visual04.png는 노드 글자 없는 추출 도형 조각이다. 기존 blind 문자도식은 노드 글자와 연결을 제공하지만 B에서 신경근증으로 향하는 공식의 직접 대각 화살표를 D 아래 세로선에 합류하는 모양으로 표시한다.",
+  "preservation": "기존 blind 원본과 연구 raw는 수정하지 않았다. 본 crop은 별도 sealed 보조 근거다."
+}

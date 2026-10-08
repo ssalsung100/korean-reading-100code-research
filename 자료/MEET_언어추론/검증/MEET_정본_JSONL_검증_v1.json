@@ -1,0 +1,36 @@
+{
+  "status": "PASS",
+  "generated_at_utc": "2026-09-06T05:57:01.674744+00:00",
+  "authority": "자료/MEET_언어추론/전사_검수완료/manifest.json",
+  "authority_sha256": "d797bdd1f55ab7eac5a504f9068b33b84206d1f24b1beb195297e2598202a871",
+  "outputs": {
+    "data/meet_passages.jsonl": {
+      "records": 125,
+      "sha256": "c6db121e53b2518698fcbd0f4f5e0eaa3548382c5ae162758561bbd317782867"
+    },
+    "data/meet_questions.jsonl": {
+      "records": 380,
+      "sha256": "9638da1348fba623d72f7b5e68eb2cfffb2ef1bacdbc4386bce00da1533dc37e"
+    }
+  },
+  "counts": {
+    "groups": 125,
+    "questions": 380,
+    "questions_with_five_choices": 380,
+    "questions_with_answer": 380,
+    "groups_with_visual_assets": 2,
+    "questions_by_label": {
+      "2005": 50,
+      "2005예비": 50,
+      "2006": 40,
+      "2007": 40,
+      "2008": 40,
+      "2009": 40,
+      "2010": 40,
+      "2011": 40,
+      "2012": 40
+    }
+  },
+  "errors": [],
+  "provenance_note": "OCR 초안이 아니라 공식 지면 직접 대조 완료 Markdown과 그 manifest만을 입력으로 사용했다."
+}

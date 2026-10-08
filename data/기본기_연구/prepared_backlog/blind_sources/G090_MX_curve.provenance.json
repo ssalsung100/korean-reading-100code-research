@@ -1,0 +1,23 @@
+{
+  "blind_only": true,
+  "passage_group": "G090",
+  "case_id": "MX",
+  "supplement_role": "anonymous_blind_source_supplement",
+  "supplement_type": "embedded_visual_asset",
+  "diagram_asset": "data/기본기_연구/prepared_backlog/blind_sources/G090_MX_curve.png",
+  "parallel_original_asset": "data/기본기_연구/prepared_backlog/blind_sources/G090_MX_curve.bmp",
+  "provenance": {
+    "artifact_scope": "local canonical HWPX Contents/section0.xml embedded bitmap",
+    "embedded_asset_reference": "image3",
+    "canonical_source": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+    "canonical_xml_anchor": "Contents/section0.xml hc:img binaryItemIDRef=image3; hp:imgRect 55860×34140",
+    "embedded_bmp_sha256": "2fc6b7cc5cacf4829e1991cc36a4b0e67ad4ff5aa297f7f906d357f1df2a26b7",
+    "blind_png_sha256": "9c66494a38fbce1a6fd3023642a9eb5b954c4e9d0d82ffa762943bcdedd07f74",
+    "original_dimensions_px": [
+      745,
+      455
+    ],
+    "answer_or_sdss_included": false,
+    "interpretation_added": false
+  }
+}

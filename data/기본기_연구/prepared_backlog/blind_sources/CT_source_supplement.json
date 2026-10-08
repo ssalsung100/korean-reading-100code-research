@@ -1,0 +1,43 @@
+{
+  "blind_only": true,
+  "passage_group": "G018",
+  "case_id": "CT",
+  "supplement_role": "source_fidelity_recovery",
+  "source_role": "anonymous_blind_source_supplement",
+  "shared_passage_correction": {
+    "paragraph": 2,
+    "current_blind_text": "상속받을 수 있었을 이익의 만 보장된다.",
+    "official_text": "상속받을 수 있었을 이익의 2분의 1이 보장된다.",
+    "missing_text": "2분의 1이",
+    "scope": "G018 공통 지문(CQ~CT)"
+  },
+  "choice_table": [
+    {"number": 1, "text": "A 물건의 시가 상승이 을의 노력과 무관한 경우 유류분 부족액은 300이다."},
+    {"number": 2, "text": "A물건의 시가 상승이 을의 노력과 무관한 경우 유류분 반환의 대상은 A 물건의 지분이다."},
+    {"number": 3, "text": "A물건의 시가가 을의 노력으로 상승한 경우 유류분 부족액은 100이다."},
+    {"number": 4, "text": "A 물건의 시가가 을의 노력으로 상승한 경우 유류분 반환의 대상은 A 물건의 지분이다."},
+    {"number": 5, "text": "A 물건의 시가가 을의 노력으로 상승한 경우와 을의 노력과 무관하게 상승한 경우 모두, 갑이 상속 개시 당시 소유했던 재산으로부터 병이 취득할 수 있는 이익은 동일하다."}
+  ],
+  "current_blind_choice_comparison": [
+    {"number": 1, "current": "A 물건의 시가 상승이 을의 노력과 무관한 경우 유류분 부족액은 300이다.", "difference": "없음"},
+    {"number": 2, "current": "A물건의 시가 상승이 을의 노력과 무관한 경우 유류분 반환의 대상은 A 물건의 지분이다.", "difference": "없음"},
+    {"number": 3, "current": "A물건의 시가가 을의 노력으로 상승한 경우 유류분 부족액은 100이다.", "difference": "없음"},
+    {"number": 4, "current": "A 물건의 시가가 을의 노력으로 상승한 경우 유류분 반환의 대상은 A 물건의 지분이다.", "difference": "없음"},
+    {"number": 5, "current": "A 물건의 시가가 을의 노력으로 상승한 경우와 을의 노력과 무관하게 상승한 경우 모두, 갑이 상속 개시 당시 소유했던 재산으로부터 병이 취득할 수 있는 이익은 동일하다.", "difference": "없음"}
+  ],
+  "local_text_source": "고3 기출/hwpx_텍스트_연도별.md",
+  "local_text_location": "공통 지문 lines 11749-11752; 문항 094 선택지 lines 11813-11821",
+  "source_image": {
+    "available_locally": false,
+    "path": null,
+    "location_note": "현재 저장소에는 해당 원문 페이지 이미지가 없음"
+  },
+  "quality": {
+    "passage_fragment": "recovered",
+    "choice_transcription": "complete",
+    "choice_count": 5,
+    "answer_or_sdss_included": false,
+    "reasoning_or_code_judgment_included": false,
+    "original_blind_source_modified": false
+  }
+}

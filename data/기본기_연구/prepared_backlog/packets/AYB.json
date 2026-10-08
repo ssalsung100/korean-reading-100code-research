@@ -1,0 +1,18 @@
+{
+  "blind_packet": true,
+  "passage_group": "G349",
+  "group_case_ids": [
+    "AYB",
+    "AYC",
+    "AYD"
+  ],
+  "group_release_rules": [
+    "all_group_blind_records_before_any_group_answer_check",
+    "all_group_independent_code_records_before_any_group_sdss_disclosure"
+  ],
+  "source_files": [
+    "data/기본기_연구/prepared_backlog/blind_sources/AYB.json",
+    "data/기본기_연구/prepared_backlog/blind_sources/AYC.json",
+    "data/기본기_연구/prepared_backlog/blind_sources/AYD.json"
+  ]
+}

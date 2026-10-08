@@ -1,0 +1,21 @@
+{
+  "blind_only": true,
+  "passage_group": "G121",
+  "case_id": "SH",
+  "source_role": "official_source_search_hold",
+  "provenance_basis": "KICE 2019 수능 국어, question_number 31, passage_id KICE-2019-수능-Q27-32-S013~018",
+  "local_search": {
+    "question_source_files_found": [],
+    "answer_source_files_found_but_not_opened": ["자료/평가원_정답표/원본/수능/2019__국어_국어영역_정답표.pdf"],
+    "canonical_adaptation": "고3 기출/2027 고3 국어 독서_Ⅵ. 복합 지문.hwpx"
+  },
+  "network_source_attempt": {
+    "candidate": "https://wdown.ebsi.co.kr/W61001/01exam/20181115_go3_kor_hsj.pdf",
+    "initial_result": "DNS resolution unavailable in sandbox",
+    "escalated_result": "HTTP 404 Not Found after require_escalated curl -L; no file acquired",
+    "additional_search": "KICE page candidate returned requested-page-not-found; search-engine queries did not yield a downloadable official question URL"
+  },
+  "status": "needs_official_question_source",
+  "scope": "공식 문제지 header 및 SH ⑤ 원문을 확보하기 전까지 canonical HWPX의 표기를 수정하거나 추측하지 않음",
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"}
+}

@@ -1,0 +1,35 @@
+{
+  "case_id": "FI",
+  "passage_group": "G034",
+  "created_at": "2026-09-13T19:32:46.017778+00:00",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+  "source_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+  "source_member": "Contents/section0.xml",
+  "source_member_sha256": "2dbdd1aee904463585e46d7e45077931c4a70ee0ee4119eab32f2b20a8c8b88a",
+  "source_paragraphs_zero_based": {
+    "stem": 1202,
+    "box": 1203,
+    "table_header": 1204,
+    "choices": [
+      1205,
+      1206,
+      1207,
+      1208,
+      1209
+    ]
+  },
+  "method": "HWPX XML의 hp:tab을 열 구분으로 보존하여 선택지 5행·2열 기계 복원",
+  "raw_choice_lines_tabs_preserved": [
+    "① 의식과 함수적 역할\t\t내 몸의 체험",
+    "② 의식과 함수적 역할\t\t 물질적 반응",
+    "③ 의식과 뇌의 상태\t\t 의식의 판단",
+    "④ 의식과 뇌의 상태\t\t내 몸의 체험",
+    "⑤   입력과 출력\t\t\t 의식의 판단"
+  ],
+  "identity_check": "blind source의 발문·정리문 문구와 일치하며 ㉮ 열 5행이 blind source 기존 선택지 5개와 정확히 일치",
+  "canonical_status": "로컬 HWPX 수록 원문 연결 확인. 공식 발행 PDF와의 추가 대조는 수행하지 않음.",
+  "quality": "두 열 모두 XML 문자로 존재하며 추정·OCR 없이 추출. 탭과 앞뒤 공백만 표시용으로 정규화.",
+  "exposure": "정답·SDSS·프로젝트 해설·기존 코드 판정을 읽지 않음.",
+  "supplement_path": "data/기본기_연구/prepared_backlog/blind_sources/FI_choices_supplement.json",
+  "supplement_sha256": "f0a9a0ee333cbc880b9b9802b83d625836c60a180ea02fc6400ab87b0d0c51fd"
+}

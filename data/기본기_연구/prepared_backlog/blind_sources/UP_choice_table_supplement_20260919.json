@@ -1,0 +1,22 @@
+{
+  "blind_only": true,
+  "passage_group": "G133",
+  "case_id": "UP",
+  "source_role": "mechanical_canonical_choice_number_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅴ. 예술.hwpx",
+    "source_sha256": "0ff1d76ce69849ddfd40ea46f1d3e750fde0396c5f8f83502d236cf42e3064bd",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "canonical_memo_paragraph_indices": [452, 453, 454, 455, 456],
+    "canonical_combined_memo_paragraph_index": 443
+  },
+  "rows_verbatim_and_number_mapping": [
+    {"number": "①", "sentence": "◦ 콜링우드의 관점을 적용하면, 화가 A가 낡은 신발을 그린 것에서 아버지에 대한 그리움을 갖고 있었으리라는 점을 제시할 수 있겠군. …………………………………………………"},
+    {"number": "②", "sentence": "◦ 디키의 관점을 적용하면, 평범한 신발이 특별한 이유는 신발의 원래 주인이 화가였다는 사실에 있음을 언급하여 이 그림을 예술 작품으로 평가할 수 있겠군. ………………………"},
+    {"number": "③", "sentence": "◦ 텐의 관점을 적용하면, 이 작품에서 아버지의 낡은 신발은 화가 A가 추구하는 예술가 정신의 상징임을 팸플릿 정보를 근거로 해석할 수 있겠군. …………………………………………"},
+    {"number": "④", "sentence": "◦ 프리드의 관점을 적용하면, 따뜻한 계열의 색들을 유기적으로 구성한 점에서 이 그림이 우수한 작품임을 언급할 수 있겠군. ………"},
+    {"number": "⑤", "sentence": "◦ 프랑스의 관점을 적용하면, 그림 속의 낡고 색이 바랜 신발을 보고, 지친 나의 삶에서 편안함과 여유를 느꼈음을 서술할 수 있겠군. …………………………………………………"}
+  ],
+  "scope_note": "canonical 착안점의 문장과 원래 번호 대응만 복원했다. 답·SDSS·해설·의미 판단은 포함하지 않는다."
+}

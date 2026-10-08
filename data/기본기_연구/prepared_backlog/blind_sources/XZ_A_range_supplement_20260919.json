@@ -1,0 +1,21 @@
+{
+  "blind_only": true,
+  "passage_group": "G151",
+  "case_id": "XZ",
+  "source_role": "mechanical_canonical_source_supplement",
+  "provenance": {
+    "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "source_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+    "xml_part": "Contents/section0.xml",
+    "paragraph_index_basis": "section0.xml의 hp:p 전체 순서(0-based)",
+    "A_start_paragraph_index": 3124,
+    "A_end_marker_paragraph_index": 3127
+  },
+  "A_range_mechanical_transcription": {
+    "start_marker_and_text": "[A]이러한 소통은 독자가 책의 내용에 대해 질문하고 답을 찾아내는 과정에서 가능해진다. 독자는 책에서 답을 찾는 질문, 독자 자신에게서 답을 찾는 질문 등을 제기할 수 있다. 전자의 경우 책에 명시된 내용에서 답을 발견할 수 있고, 책의 내용들을 관계 지으며 답에 해당하는 내용을 스스로 구성할 수도 있다. 또한 후자의 경우 책에는 없는 독자의 경험에서 답을 찾을 수 있다. 이런 질문들을 풍부히 생성하고 주체적으로 답을 찾을 때 소통의 즐거움은 더 커진다.",
+    "end_marker_context": "paragraph 3124의 마지막 문장 뒤에 빈 paragraph 3125·3126이 있고, paragraph 3127에 단독 [A] 표지가 있다.",
+    "range_statement": "[A]는 paragraph 3124 첫머리의 [A]부터 해당 단락 마지막 문장까지이며, paragraph 3127의 단독 [A]는 문제의 재참조 표지이다."
+  },
+  "exposure": {"official_answer": "not included", "sdss": "not included", "explanation": "not included", "code_judgment": "not included"},
+  "restoration_limit": "[A] 표지와 문단 anchor만 canonical XML에서 기계적으로 복원했다."
+}

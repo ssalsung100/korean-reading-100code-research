@@ -1,0 +1,135 @@
+﻿{
+    "status":  "complete",
+    "expected_records":  1,
+    "record_count":  1,
+    "file_path_check_module_registered":  false,
+    "renderer":  "Hancom HWPFrame.HwpObject.CreatePageImage",
+    "note":  "Page-faithful bitmap images rendered from official odd-form HWP files. Page numbering is one-based in this manifest.",
+    "records":  [
+                    {
+                        "label":  "2009",
+                        "year":  2009,
+                        "source_file":  "자료/LEET_언어이해/원본/2009/2009_question_odd_2009_법학적성시험_언어이해(홀).hwp",
+                        "source_sha256":  "2273611de6d10ab1748c23c64d5552617424f9f219688035bc47d7fd5c209a8c",
+                        "page_count":  16,
+                        "resolution_dpi":  144,
+                        "color_depth":  24,
+                        "format":  "png",
+                        "pages":  [
+                                      {
+                                          "page":  1,
+                                          "file":  "/2009/page_001.png",
+                                          "bytes":  148339,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  2,
+                                          "file":  "/2009/page_002.png",
+                                          "bytes":  216659,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  3,
+                                          "file":  "/2009/page_003.png",
+                                          "bytes":  206829,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  4,
+                                          "file":  "/2009/page_004.png",
+                                          "bytes":  212053,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  5,
+                                          "file":  "/2009/page_005.png",
+                                          "bytes":  197091,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  6,
+                                          "file":  "/2009/page_006.png",
+                                          "bytes":  189981,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  7,
+                                          "file":  "/2009/page_007.png",
+                                          "bytes":  164582,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  8,
+                                          "file":  "/2009/page_008.png",
+                                          "bytes":  259643,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  9,
+                                          "file":  "/2009/page_009.png",
+                                          "bytes":  189330,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  10,
+                                          "file":  "/2009/page_010.png",
+                                          "bytes":  174318,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  11,
+                                          "file":  "/2009/page_011.png",
+                                          "bytes":  187992,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  12,
+                                          "file":  "/2009/page_012.png",
+                                          "bytes":  224655,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  13,
+                                          "file":  "/2009/page_013.png",
+                                          "bytes":  207161,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  14,
+                                          "file":  "/2009/page_014.png",
+                                          "bytes":  255101,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  15,
+                                          "file":  "/2009/page_015.png",
+                                          "bytes":  195177,
+                                          "width":  1684,
+                                          "height":  2381
+                                      },
+                                      {
+                                          "page":  16,
+                                          "file":  "/2009/page_016.png",
+                                          "bytes":  69417,
+                                          "width":  1684,
+                                          "height":  2381
+                                      }
+                                  ],
+                        "status":  "rendered_from_official_hwp_by_hancom_create_page_image"
+                    }
+                ]
+}

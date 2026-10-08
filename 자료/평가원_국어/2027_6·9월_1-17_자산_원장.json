@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "scope": "2027학년도 6월·9월 모의평가 국어 공통 1~17번",
+  "exams": [
+    {
+      "month": "6월",
+      "question_pdf": "자료/평가원_국어/원본/2027/2027_6월_모의평가_국어_문제.pdf",
+      "question_pdf_sha256": "9991ab18a8829a2beba083ddebaf22d41ae9d4ff83bf885cd42533ce0cecd875",
+      "answer_pdf": "자료/평가원_국어/원본/2027/2027_6월_모의평가_국어_정답.pdf",
+      "answer_pdf_sha256": "e1120e03f7b75a7c70324d5cfc1555415f39790d1d91ab433a1b45bb18468289",
+      "source_pages": [
+        {
+          "page": 1,
+          "path": "자료/평가원_국어/페이지/2027/6월/page_001.png",
+          "sha256": "c64a3410cf047eeca8cea4b18fb3bada5503512df6954385667f010d8524924a",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 2,
+          "path": "자료/평가원_국어/페이지/2027/6월/page_002.png",
+          "sha256": "6e7dfc024d1ae8dd5bdb88b625d7a6bd02a7d958c87c8739ba02e3056a7be344",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 3,
+          "path": "자료/평가원_국어/페이지/2027/6월/page_003.png",
+          "sha256": "d3337c2ceaeb05c62caf3b5dfd89bc10d51ff3c3bb40780c09e5a1cc4634f1dc",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 4,
+          "path": "자료/평가원_국어/페이지/2027/6월/page_004.png",
+          "sha256": "dc3c3de82469118ed9b204cd424043e3402c333b0789b6d61793617e6b9891ee",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 5,
+          "path": "자료/평가원_국어/페이지/2027/6월/page_005.png",
+          "sha256": "abee1f9a5b5612cd1f658480b2df32236fc8fae89534ce36200e921a8fb7e930",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 6,
+          "path": "자료/평가원_국어/페이지/2027/6월/page_006.png",
+          "sha256": "65a0b46f55c9c5a52fb94742f00ecde4ce31e07d32ad204b9a048c6a875f007d",
+          "width": 2526,
+          "height": 3573
+        }
+      ],
+      "positioned_text": "자료/평가원_국어/좌표텍스트/2027/2027_6월_모의평가_1-17_좌표텍스트.json"
+    },
+    {
+      "month": "9월",
+      "question_pdf": "자료/평가원_국어/원본/2027/2027_9월_모의평가_국어_문제.pdf",
+      "question_pdf_sha256": "28432c2ccfc85f228b39411e1296c44d242a58b4a1f6223fa2b9919ebb41779e",
+      "answer_pdf": "자료/평가원_국어/원본/2027/2027_9월_모의평가_국어_정답.pdf",
+      "answer_pdf_sha256": "94c8a8b5871c6723aaf7ed6da81a9a91a7df611c9c55a59da9a3d1769d0d3604",
+      "source_pages": [
+        {
+          "page": 1,
+          "path": "자료/평가원_국어/페이지/2027/9월/page_001.png",
+          "sha256": "04b912f8aed43ba9b525d258d033a5cb341097b5bcd03197839bf6e01ea1ea74",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 2,
+          "path": "자료/평가원_국어/페이지/2027/9월/page_002.png",
+          "sha256": "31e854d70fec6ee69b9e04e59b2591f37ba9d24273513bbf45a4390adf025fc1",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 3,
+          "path": "자료/평가원_국어/페이지/2027/9월/page_003.png",
+          "sha256": "8b8907aa42ffd94b5be71431f34c41d9bd8005dda31acb9490b4fbd52b70e747",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 4,
+          "path": "자료/평가원_국어/페이지/2027/9월/page_004.png",
+          "sha256": "3aa278a253789ec5ad203ef6da3c88f3cd5c468f8ef973382872c93eacd3992f",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 5,
+          "path": "자료/평가원_국어/페이지/2027/9월/page_005.png",
+          "sha256": "b758a3f79a028cae5821a087740f25f1cb5311de1cc71d8a056ff3b89ed7912e",
+          "width": 2526,
+          "height": 3573
+        },
+        {
+          "page": 6,
+          "path": "자료/평가원_국어/페이지/2027/9월/page_006.png",
+          "sha256": "a8d73f63b3506e2a8b70eb03d9c2ec9002ef8a6fcff2419827f11a8417ac8bb8",
+          "width": 2526,
+          "height": 3573
+        }
+      ],
+      "positioned_text": "자료/평가원_국어/좌표텍스트/2027/2027_9월_모의평가_1-17_좌표텍스트.json"
+    }
+  ],
+  "visuals": [
+    {
+      "asset_id": "KICE-2027-09-Q09-choice-table",
+      "question_number": 9,
+      "page": 3,
+      "kind": "choice_table",
+      "method": "page_crop",
+      "filename": "q09_선지_대응표.png",
+      "month": "9월",
+      "source_page": 3,
+      "source_bbox": [
+        [
+          430.0,
+          950.0,
+          625.0,
+          1075.0
+        ]
+      ],
+      "path": "자료/평가원_국어/시각자료_원본/2027/q09_선지_대응표.png",
+      "sha256": "7f5078d0c77ebc6d3c31407905b8aa0babeaea0de8df3b900cbb0bbf2afbf469",
+      "width": 585,
+      "height": 375
+    },
+    {
+      "asset_id": "KICE-2027-09-Q13-adapter-diagram",
+      "question_number": 13,
+      "page": 5,
+      "kind": "process_diagram",
+      "method": "embedded_image",
+      "filename": "q13_어댑터_구조도.png",
+      "month": "9월",
+      "source_page": 5,
+      "source_bbox": [
+        [
+          108.83999633789062,
+          335.7610168457031,
+          395.6399841308594,
+          413.1610107421875
+        ]
+      ],
+      "path": "자료/평가원_국어/시각자료_원본/2027/q13_어댑터_구조도.png",
+      "sha256": "2dc123735ed039dd6e8c024aa84156963a7338561d15dae0bbb8a05d73680788",
+      "width": 2388,
+      "height": 646
+    }
+  ]
+}

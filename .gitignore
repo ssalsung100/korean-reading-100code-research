@@ -1,0 +1,26 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.aws/
+**/credentials
+**/credentials.*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Local tools and temporary runtime
+.tools/
+.playwright-cli/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Research execution logs
+data/기본기_연구/cxresearch_loop_logs/

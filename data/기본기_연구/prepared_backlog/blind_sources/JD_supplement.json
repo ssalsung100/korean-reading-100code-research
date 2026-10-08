@@ -1,0 +1,19 @@
+{
+  "blind_only": true,
+  "case_id": "JD",
+  "supplement_type": "local_hwpx_underline_run",
+  "source_role": "anonymous_blind_source_supplement",
+  "marker": "ⓐ",
+  "underline": {
+    "run_text": "명명덕",
+    "charPrIDRef": "19",
+    "underline_type": "BOTTOM",
+    "underline_shape": "SOLID",
+    "scope_note": "ⓐ 뒤의 여는 인용부호 다음부터 닫는 인용부호 직전까지의 한자어만 밑줄 처리됨"
+  },
+  "context": {
+    "before": "주희와 정약용은 ⓐ ‘",
+    "after": "’과 ‘친민’에 대해 서로 다르게 해석한다."
+  },
+  "quality_limit": "로컬 HWPX XML의 run·charPr 정보에 근거한 범위 복원이며, 별도 공식 PDF crop 대조는 수행하지 않음"
+}

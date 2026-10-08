@@ -1,0 +1,65 @@
+{
+  "blind_only": true,
+  "passage_group": "G082",
+  "case_id": "LR",
+  "source": {
+    "container": "고3 기출/2027 고3 국어 독서_Ⅴ. 예술.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "basis": "direct canonical HWPX table/anchor extraction; no range inference"
+  },
+  "scope_marker": {
+    "table_xml_id": "1841991653",
+    "table_attributes": {"rowCnt": "4", "colCnt": "2", "textWrap": "SQUARE"},
+    "marker_cell": {"cellAddr": {"colAddr": "0", "rowAddr": "2"}, "cellSpan": {"colSpan": "2", "rowSpan": "1"}, "borderFillIDRef": "4", "text": "[A]", "cellSz": {"width": "2606", "height": "1570"}},
+    "following_text_anchor": "취미 판단이란, 대상의 미․추를 판정하는, 미감적 판단력의 행위이다."
+  },
+  "range_status": "confirmed_by_official_form_render_crop",
+  "range_start_anchor": {
+    "preceding_text_exact": "이러한 작업에서 핵심 역할을 하는 것이 그의 취미 판단 이론이다.",
+    "bracket_interior_start_exact": "취미 판단이란, 대상의 미․추를 판정하는, 미감적 판단력의 행위이다.",
+    "visual_evidence": "official-form crop shows the left vertical bracket beginning beside the paragraph starting with this sentence; the preceding sentence is outside the bracket"
+  },
+  "range_end_anchor": {
+    "bracket_interior_end_exact": "취미 판단에는 대상에 대한 지식뿐 아니라, 실용적 유익성, 교훈적 내용 등 일체의 다른 맥락이 끼어들지 않아야 하는 것이다.",
+    "following_text_exact": "중요한 것은 취미 판단이 기본적으로 공동체적 차원의 것이라는 점이다.",
+    "visual_evidence": "official-form crop shows the left vertical bracket ending immediately after the sentence ending ‘않아야 하는 것이다.’ and before the following paragraph"
+  },
+  "bracket_topology_evidence": {
+    "table_id": "1841991653",
+    "row_count": 4,
+    "rows": [
+      {"row": 0, "cell": "col0,row0", "span": "rowSpan=2", "borderFillIDRef": "8", "right_border": "SOLID"},
+      {"row": 1, "cell": "col1,row1", "borderFillIDRef": "17", "left_border": "SOLID"},
+      {"row": 2, "cell": "col0,row2", "span": "colSpan=2", "text": "[A]", "borderFillIDRef": "4", "all_borders": "NONE"},
+      {"row": 3, "cells": [
+        {"cell": "col0,row3", "borderFillIDRef": "8", "right_border": "SOLID"},
+        {"cell": "col1,row3", "borderFillIDRef": "7", "left_border": "SOLID", "bottom_border": "SOLID"}
+      ]}
+    ],
+    "interpretation": "XML은 [A] floating table object와 border topology만 보존한다. 실제 범위의 시작·끝은 XML 앞뒤 hp:t anchor로 추론하지 않고, 공식 형식 PDF crop의 조판에서 판독한다.",
+    "source_basis": "direct canonical HWPX XML inspection, retained as structural evidence only; visual range comes from official-form PDF crop"
+  },
+  "hold_reason": null,
+  "render_or_pdf_followup": {
+    "official_format_pdf_local_search": "publicly archived official-form problem PDF located; source exam identified as 2015학년도 대학수학능력시험 국어 B형 홀수형, page 10/16",
+    "official_pdf_provenance": {
+      "repository_url": "https://mogozip.com/downloads/ebsi/%EA%B3%A03-N%EC%88%98/2014/11/2015%ED%95%99%EB%85%84%EB%8F%84_%EB%8C%80%ED%95%99%EC%88%98%ED%95%99%EB%8A%A5%EB%A0%A5%EC%8B%9C%ED%97%98_%EA%B5%AD%EC%96%B4B%ED%98%95_%ED%99%80%EC%88%98%ED%98%95/question-27271258e1.pdf",
+      "repository_type": "third_party_archive_of_EBSi_file",
+      "kice_status": "PDF page copyright notice identifies 한국교육과정평가원; raw file was obtained from third-party archive, not directly from KICE endpoint",
+      "page": 10,
+      "page_index_zero_based": 9,
+      "pdf_sha256": "14f765366f50e8d7034afc80dcf2e78a4878c018ced29faae93503c783f2f610"
+    },
+    "rendered_crop": {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/LR_assets/LR_official_form_p10_passage_crop_20260917.png",
+      "scope": "page 10 left passage column containing the complete visible [A] bracket and its surrounding passage; question choices excluded",
+      "crop_pdf_rect_points": [80, 145, 430, 1110],
+      "render_scale": 3,
+      "png_sha256": "56885aba67e67c80a316c0fef3404c718858c7ca70cb4b687f30787c1bddef57"
+    },
+    "hwpx_render": "official-form PDF crop created and visually inspected; HWPX native renderer remains unavailable in workspace",
+    "crop_created": true,
+    "source_grade": "third_party_archived_official_form_pdf_render_crop_plus_local_canonical_hwpx_xml"
+  },
+  "qualification": {"answer_seen": false, "sdss_seen": false, "semantic_interpretation": false}
+}

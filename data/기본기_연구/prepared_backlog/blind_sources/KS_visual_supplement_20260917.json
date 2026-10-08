@@ -1,0 +1,30 @@
+{
+  "blind_only": true,
+  "passage_group": "G074",
+  "case_id": "KS",
+  "purpose": "보기 만화 bitmap 및 칸 연결 provenance 보강",
+  "source": {
+    "container": "고3 기출/2027 고3 국어 독서_Ⅴ. 예술.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "xml_anchor": "hc:img binaryItemIDRef=\"image2\"",
+    "embedded_asset": "BinData/image2.bmp",
+    "asset_copy": "data/기본기_연구/prepared_backlog/blind_sources/KS_assets/KS_comic_original.bmp",
+    "dimensions_px": [921, 685],
+    "mechanical_basis": "XML embedded image reference and approximate rectangular regions from pixel gutters; no visual interpretation",
+    "crop_qualification": "approximate_rectangular_regions_not_panel_boundaries"
+  },
+  "panel_mapping": [
+    {"panel": 1, "label": "칸 󰊱", "crop_xywh": [8, 8, 347, 332]},
+    {"panel": 2, "label": "칸 󰊲", "crop_xywh": [359, 8, 216, 332]},
+    {"panel": 3, "label": "칸 󰊳", "crop_xywh": [578, 8, 335, 332]},
+    {"panel": 4, "label": "칸 󰊴", "crop_xywh": [8, 344, 347, 332]},
+    {"panel": 5, "label": "칸 󰊵", "crop_xywh": [359, 344, 216, 332]},
+    {"panel": 6, "label": "칸 󰊶", "crop_xywh": [578, 344, 335, 332]}
+  ],
+  "qualification": {
+    "answer_seen": false,
+    "sdss_seen": false,
+    "semantic_interpretation": false,
+    "panel_order_basis": "approximate left-to-right, top row then bottom row regions; crop_xywh are not precise panel boundaries"
+  }
+}

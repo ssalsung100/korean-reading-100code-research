@@ -1,0 +1,16 @@
+{
+  "case_id": "ES",
+  "passage_group": "G030",
+  "supplement_role": "blind_only_missing_comment_original_image",
+  "canonical_source_path": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+  "container_member": "BinData/image2.bmp",
+  "container_img_binaryItemIDRef": "image2",
+  "section_xml_image_reference": "CLP00002ee4000d.bmp; 2414x760 px",
+  "extraction": "embedded BMP bytes copied unchanged from HWPX",
+  "original_member_sha256": "198a80801918f15bcea27ea40aeefc16b35ee2c94f8a47b84162f38741eb4d2e",
+  "supplement_bmp_sha256": "198a80801918f15bcea27ea40aeefc16b35ee2c94f8a47b84162f38741eb4d2e",
+  "display_png": "ES_comment_original.png",
+  "png_conversion": "Pillow lossless RGB pixel-format conversion from extracted BMP; same 2414x760 pixel dimensions; no crop, rescale, OCR or content edits",
+  "png_sha256": "242c3c19134f1a38a95ba14d211c08b5f4429f73a84c481b4ad4f02221284ae7",
+  "visual_fidelity": "Original comment table image preserves displayed speaker labels, arrows/indentation, placeholder glyphs, punctuation, and order. XML extraction does not represent these comments as text."
+}

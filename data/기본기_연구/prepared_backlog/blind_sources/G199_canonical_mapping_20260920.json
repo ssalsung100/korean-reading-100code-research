@@ -1,0 +1,15 @@
+{
+  "blind_only": true,
+  "passage_group": "G199",
+  "case_ids": ["AGH", "AGI", "AGJ", "AGK"],
+  "canonical_source": {
+    "passage_id": "KICE-2020-6월_모평-Q19-22-S029~032",
+    "source_hwpx": "2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+    "xml_part": "Contents/section0.xml",
+    "section_anchor": "고대 그리스 시대의 사람들은 신에 의해 우주가 운행된다고 믿는 결정론적 세계관 속에서...",
+    "passage_sha256": "1d1f12be0d8ae1ac6b4b7535f9789b5e39984a77c634b5aae9bbcc41e62b6e94",
+    "question_numbers": [19, 20, 21, 22]
+  },
+  "mechanical_case_order_basis": "preflight frontier selected unused passages in data/kice_passages.jsonl order after G198; this passage is the fifth selected group",
+  "status": "canonical_source_link_restored_mechanically"
+}

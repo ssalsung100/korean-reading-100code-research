@@ -1,0 +1,1026 @@
+{
+  "status": "verified_against_official_page_image",
+  "policy": "각 항목은 공식 페이지 이미지를 직접 확인한 경우에만 기록한다.",
+  "records": [
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_001.png",
+      "official_page_sha256": "ce5be7c04b5d6105d3109e4ae77cbb8a7521f998e7a8e667d21e372aa66389c0",
+      "verified_text": "명랑화를",
+      "rejected_secondary_variants": ["명량화를"],
+      "context": "사회의 명랑화를 도모한다는 명분 아래"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_001.png",
+      "official_page_sha256": "ce5be7c04b5d6105d3109e4ae77cbb8a7521f998e7a8e667d21e372aa66389c0",
+      "verified_text": "과포화 상태의",
+      "rejected_secondary_variants": ["파포화 상태의"],
+      "context": "부랑인을 과포화 상태의 보호시설에"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_001.png",
+      "official_page_sha256": "ce5be7c04b5d6105d3109e4ae77cbb8a7521f998e7a8e667d21e372aa66389c0",
+      "verified_text": "총진군했던",
+      "rejected_secondary_variants": ["충진군했던"],
+      "context": "개척의 터전으로 총진군했던 부랑인 가운데"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 2,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_002.png",
+      "official_page_sha256": "18d21b60e21ff8432840547a7740ce830ac512fa7dbd8a8650f7876b61edff8f",
+      "verified_text": "촉발한다",
+      "rejected_secondary_variants": ["축발한다"],
+      "context": "철학적 자연관의 출현을 촉발한다"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 2,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_002.png",
+      "official_page_sha256": "18d21b60e21ff8432840547a7740ce830ac512fa7dbd8a8650f7876b61edff8f",
+      "verified_text": "범주",
+      "rejected_secondary_variants": ["법주"],
+      "context": "최상위의 범주 또는 섭리"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 4,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_004.png",
+      "official_page_sha256": "6f93d1efb3db5f27eb21686f86072e7193b83a0dcd7cce73dc12a5ee096012e2",
+      "verified_text": "다르게 인식되어 다르게 재현된다는 것이다",
+      "rejected_secondary_variants": ["다르게 인식되고 다르게 재현된다는 것이다"],
+      "context": "같은 사건도 다르게 인식되어 다르게 재현된다는 것이다"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "official_page_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "verified_text": "비대칭적인 모양이 된다",
+      "rejected_secondary_variants": ["비대칭인 모양이 된다"],
+      "context": "그 세기가 최대가 되는 비대칭적인 모양이 된다"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 7,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_007.png",
+      "official_page_sha256": "bbd84242c90b6a27f3f1abb00b5fc200ed5560e42e42df1d504159ff6d370bfd",
+      "verified_text": "동일한 범주로 묶일 수 없다는",
+      "rejected_secondary_variants": ["동일한 범주로 묶을 수 없다는"],
+      "context": "서로 다른 목표를 추구하므로 동일한 범주로 묶일 수 없다는 비판"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 7,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_007.png",
+      "official_page_sha256": "bbd84242c90b6a27f3f1abb00b5fc200ed5560e42e42df1d504159ff6d370bfd",
+      "verified_text": "자본주의 경제 질서를 수용하고",
+      "rejected_secondary_variants": ["자본주의의 경제 질서를 수용하고"],
+      "context": "자본주의 경제 질서를 수용하고 과학 문명의 성과를 활용하는"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 10,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_010.png",
+      "official_page_sha256": "f56498fdfbefe9fb8c4ee9c21bc9954a0b85556f8ed9a104725234ab1e82aeb9",
+      "verified_text": "재산권적 특징을",
+      "rejected_secondary_variants": ["재산권적 특정을"],
+      "context": "회사체제라는 현대 사회의 재산권적 특징을 포착하고자"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_011.png",
+      "official_page_sha256": "3263fcf6ee88878564ca47b7c8722c4c0519bb57ae3770a9da06bee7ba3a42f4",
+      "verified_text": "민주주의 규범도",
+      "rejected_secondary_variants": ["민주주의의 규범도"],
+      "context": "헌법이나 법률에 명문화되지 않은 민주주의 규범도 중요한 역할을 해왔다"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_011.png",
+      "official_page_sha256": "3263fcf6ee88878564ca47b7c8722c4c0519bb57ae3770a9da06bee7ba3a42f4",
+      "verified_text": "회복된다",
+      "rejected_secondary_variants": ["회복되었다"],
+      "context": "그 결과 상호 관용의 규범도 회복된다"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 13,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_013.png",
+      "official_page_sha256": "624d45bc9e9febfbde7f78dbe3e2f53a94faa71b814646c041b3c8ed55380da4",
+      "verified_text": "예컨대",
+      "rejected_secondary_variants": ["에컨대"],
+      "context": "예컨대 알파고는 경쟁에서 이겨도 승리를 기뻐하지 못하며"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 14,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_014.png",
+      "official_page_sha256": "b22fe8c2bb22b7f300cbb13bc4ede310ddfb0be0f87c7d781c139f02508cbf3d",
+      "verified_text": "것까지를 요구하지는 않는다는",
+      "rejected_secondary_variants": ["것까지 요구하지는 않는다는", "것까지를 요구하지는 않는"],
+      "context": "그것을 따르는 것 자체가 행위의 이유가 될 것까지를 요구하지는 않는다는 외면성 명제"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 14,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_014.png",
+      "official_page_sha256": "b22fe8c2bb22b7f300cbb13bc4ede310ddfb0be0f87c7d781c139f02508cbf3d",
+      "verified_text": "무조건적이며",
+      "rejected_secondary_variants": ["무조건이며"],
+      "context": "오로지 외적인 자유만을 전제로 한다는 점에서 무조건적이며 단적으로 효력을 지닌다"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_001.png",
+      "official_page_sha256": "9950353df59af20351c4ace089942f9092e5f5abc97ff2abe9f5dd5630504dc4",
+      "verified_text": "판사에게 진솔함이 요구되는가",
+      "rejected_secondary_variants": ["판사에게 진술함이 요구되는가"],
+      "context": "판사에게 진솔함이 요구되는가 하는 문제가 논의되고 있다"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_001.png",
+      "official_page_sha256": "9950353df59af20351c4ace089942f9092e5f5abc97ff2abe9f5dd5630504dc4",
+      "verified_text": "판사의 진솔 의무",
+      "rejected_secondary_variants": ["판사의 진술 의무"],
+      "context": "하지만 이런 논의가 판사의 진솔 의무를 부정하지는 못한다"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 2,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_002.png",
+      "official_page_sha256": "98a9a852d253ed1ebb4e17e4cc8c1218146e92ba1e6ff62a83ed045f75e04fa9",
+      "verified_text": "그것을 좇거나 피하려고 한다는",
+      "rejected_secondary_variants": ["그것을 좋거나 피하려고 한다는"],
+      "context": "쾌락이나 고통을 느끼기에 그것을 좇거나 피하려고 한다는 도덕적 이익"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_005.png",
+      "official_page_sha256": "f840ec4bd6c5ed5ed1823f19347beaaae251af311b26b001ac4f8b189f113a12",
+      "verified_text": "계급적인 갈등으로",
+      "rejected_secondary_variants": ["계급적 갈등으로"],
+      "context": "혁신주의 역사가가 헌법의 제정을 계급적인 갈등으로 파악했다면"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_009.png",
+      "official_page_sha256": "bfe2cbe13bceab767dc428619c54d5717c49973e4c7793058db611cde85db849",
+      "verified_text": "트렁크를 빼앗으며",
+      "rejected_secondary_variants": ["트렁크를 빼들으며"],
+      "context": "창수댁: (트렁크를 빼앗으며) 안 돼요"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_009.png",
+      "official_page_sha256": "bfe2cbe13bceab767dc428619c54d5717c49973e4c7793058db611cde85db849",
+      "verified_text": "이민선 쨍카호를",
+      "rejected_secondary_variants": ["이민선 쟁카호를"],
+      "context": "우리의 이민선 쨍카호를 타고 신천지를 향해"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_009.png",
+      "official_page_sha256": "bfe2cbe13bceab767dc428619c54d5717c49973e4c7793058db611cde85db849",
+      "verified_text": "인젠 제에발",
+      "rejected_secondary_variants": ["인젠 제애발"],
+      "context": "창수: 인젠 제에발 그 구질구질한 짐짝을 끌구 다니지 말자구"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_009.png",
+      "official_page_sha256": "bfe2cbe13bceab767dc428619c54d5717c49973e4c7793058db611cde85db849",
+      "verified_text": "거지 떼",
+      "rejected_secondary_variants": ["거지 때"],
+      "context": "그렇지 않아도 우린 거, 거지 떼"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_009.png",
+      "official_page_sha256": "bfe2cbe13bceab767dc428619c54d5717c49973e4c7793058db611cde85db849",
+      "verified_text": "거지 떼지 뭡니까?",
+      "rejected_secondary_variants": ["거지 떼지 됩니까?"],
+      "context": "(모두 뭐, 덕보구 고개를 쳐들며) 유쾌한 거지 떼지 뭡니까?"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_011.png",
+      "official_page_sha256": "909a0d2ae768f04effa2a2ba280fdcfbd548f8d682e593225c1a815fd1dd3283",
+      "verified_text": "핵심을 적확하게 드러내는",
+      "rejected_secondary_variants": ["핵심을 정확하게 드러내는"],
+      "context": "그의 정신철학 전체의 핵심을 적확하게 드러내는 개념"
+    },
+    {
+      "year": 2023,
+      "form": "odd",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2023/2023_question_odd/page_011.png",
+      "official_page_sha256": "909a0d2ae768f04effa2a2ba280fdcfbd548f8d682e593225c1a815fd1dd3283",
+      "verified_text": "가장 강한 형태의 판본을",
+      "rejected_secondary_variants": ["가장 강한 형태의 관본을"],
+      "context": "이성주의의 가장 강한 형태의 판본을 구축하려는 헤겔의 관점"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "verified_text": "미하엘 콜하스",
+      "rejected_secondary_variants": ["미하엘 콜하스]", "F미하엘 콜하스"],
+      "context": "클라이스트의 소설 『미하엘 콜하스』(1810)"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "verified_text": "벤첼",
+      "rejected_secondary_variants": ["벤촬", "벤젤"],
+      "context": "벤첼에게 저지당하자 / 벤첼을 처벌할 것 / 벤첼의 친인척"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "verified_text": "평한 바 있다",
+      "rejected_secondary_variants": ["평한 있다"],
+      "context": "주인공의 ‘지독한 편집증’뿐이라 평한 바 있다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "verified_text": "무법 상태",
+      "rejected_secondary_variants": ["0무법 상태"],
+      "context": "그러한 모독을 참는 것은 한순간이나마 ㉡ 무법 상태를 승인하는 것이 된다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "verified_text": "추방이란 바로 법의 보호가 거부되었음을 뜻한다",
+      "rejected_secondary_variants": ["e 추방이란 바로 법의 보호가 거부되었음을 뜻한다"],
+      "context": "㉣ 추방이란 바로 법의 보호가 거부되었음을 뜻한다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "verified_text": "신에게만 복종하는 지배자로",
+      "rejected_secondary_variants": ["0 신에게만 복종하는 지배자로"],
+      "context": "오직 ㉤ 신에게만 복종하는 지배자로 규정한다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 1,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_001.png",
+      "official_page_sha256": "311bdfde01a712028def4a630114597662f3477dd6e77d6f71f738507661c9f0",
+      "verified_text": "정치적·법적 부조리를",
+      "rejected_secondary_variants": ["정치적법적 부조리를"],
+      "context": "정치적·법적 부조리를 날카롭게 지적하는 동시에"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "verified_text": "오줌을 갈기던",
+      "rejected_secondary_variants": ["오줌을 깔기던"],
+      "context": "바지를 내리고 무책임한 오줌을 갈기던 강"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "verified_text": "담수어 같은 움직임을 할 때에도",
+      "rejected_secondary_variants": ["담수어 같은 움직임을 때에도"],
+      "context": "펌프 물에 머리를 처박고 담수어 같은 움직임을 할 때에도"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "verified_text": "살갗을",
+      "rejected_secondary_variants": ["살갖을"],
+      "context": "계집아이의 ㉠ 살갗을 스쳐 보기도 하고"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "verified_text": "딱정벌레처럼",
+      "rejected_secondary_variants": ["딱정떼처럼"],
+      "context": "그 순간 딱정벌레처럼 문둥이촌 소년이 덤벼들었다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "verified_text": "흙과 같은 독소가",
+      "rejected_secondary_variants": ["꽃과 같은 독소가"],
+      "context": "무언가 산기슭에서 흙과 같은 독소가 뛰어들어 간 듯한 공포심"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "verified_text": "눈치챘다",
+      "rejected_secondary_variants": ["눈치했다"],
+      "context": "그는 무언가 수상스런 낌새를 눈치챘다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 11,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_011.png",
+      "official_page_sha256": "f84ea565a83ad454de4d4382891e0bf02f3fab0b10cc246c19be8e81403df9a0",
+      "verified_text": "증폭하였다",
+      "rejected_secondary_variants": ["중폭하였다"],
+      "context": "개에 대한 소년의 강렬한 기억은 전염의 공포를 증폭하였다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "열 Q_L",
+      "rejected_secondary_variants": ["열 Q", "열 &"],
+      "context": "저온 열원에서 열 Q_L을 흡수해 기체가 되게 하며"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "압축 일 W_C",
+      "rejected_secondary_variants": ["압축 일 W"],
+      "context": "기체 냉매에 전기 에너지를 이용한 압축 일 W_C를 가해"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "열 Q_H",
+      "rejected_secondary_variants": ["열 Q"],
+      "context": "고온 열원에 열 Q_H를 방출하며 액체로 전환되게 하고"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "Q_H = Q_L + W_C",
+      "rejected_secondary_variants": ["Q = Q + W"],
+      "context": "히트펌프에서 나가는 에너지인 Q_H는 들어오는 에너지인 Q_L과 W_C의 합과 같다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "COP_H와 COP_C",
+      "rejected_secondary_variants": ["COP]와 COPO", "COP와 COPC"],
+      "context": "고온부의 성능계수(COP_H)와 저온부의 성능계수(COP_C)"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "Q_H와 Q_L을 W_C로 나누면",
+      "rejected_secondary_variants": ["Q와 &을 W로 나누면"],
+      "context": "COP_H와 COP_C는 각각 Q_H와 Q_L을 W_C로 나누면 얻을 수 있다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "구동열 Q_G",
+      "rejected_secondary_variants": ["구동열 Q"],
+      "context": "외부에서 화석 연료의 연소 등을 통해 공급되는 구동열 Q_G"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 12,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_012.png",
+      "official_page_sha256": "4237d94f01535368b6c095cf47cc6b4aac738bff2096f8c3d6806cd8a8e3cf3c",
+      "verified_text": "용액펌프의 일 W_P",
+      "rejected_secondary_variants": ["용액펌프의 일 W"],
+      "context": "이러한 순환 과정에 용액펌프의 일 W_P가 투입된다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 13,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_013.png",
+      "official_page_sha256": "c7913e82d109b24bdce46213427cd1a26ff70254b5758cbca01a7d271532f830",
+      "verified_text": "Q_H = Q_L + Q_G + W_P",
+      "rejected_secondary_variants": ["QH = QL + QG + WP"],
+      "context": "에너지 보존 법칙을 적용하면 Q_H = Q_L + Q_G + W_P이다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 13,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_013.png",
+      "official_page_sha256": "c7913e82d109b24bdce46213427cd1a26ff70254b5758cbca01a7d271532f830",
+      "verified_text": "Q_H와 Q_L을 Q_G와 W_P의 합으로 나눈 값",
+      "rejected_secondary_variants": ["QH와 QL을 QG와 WP의 합으로 나눈 값"],
+      "context": "COP_H와 COP_C는 각각 Q_H와 Q_L을 Q_G와 W_P의 합으로 나눈 값이다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 8,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "official_page_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "verified_text": "이를 예상한 A는 B를 신뢰하지 않을 것이다",
+      "rejected_secondary_variants": ["이를 예상한 A는I B를 신뢰하지 않을 것이다"],
+      "context": "마지막 선택자인 B는 배신을 선택할 것이고, 이를 예상한 A는 B를 신뢰하지 않을 것이다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 8,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "official_page_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "verified_text": "㉡ B의 배신에 대해",
+      "rejected_secondary_variants": ["0 B의 배신에 대해"],
+      "context": "㉡ B의 배신에 대해 A가 보복할 기회가 존재하는 상황"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 8,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_008.png",
+      "official_page_sha256": "8db2f9d32c22750f1ce2cddfce424982021760e29f9cdd016e376ead829834a8",
+      "verified_text": "<그림 1> / <그림 2>",
+      "rejected_secondary_variants": ["<그림 1", "<그림"],
+      "context": "두 신뢰 게임 도식의 그림 번호"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png",
+      "official_page_sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7",
+      "verified_text": "제공해 줄 수 있는 기계를",
+      "rejected_secondary_variants": ["제공해 출수 있는 기계를"],
+      "context": "당신이 원하는 모든 경험을 제공해 줄 수 있는 기계를 상상해 보라"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png",
+      "official_page_sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7",
+      "verified_text": "그것을 만족하게 하는 경험 기계에",
+      "rejected_secondary_variants": ["그것을 만찍하게 하는 경험 기계에"],
+      "context": "사람들은 그것을 만족하게 하는 경험 기계에 연결되기를 원할 텐데"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 9,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_009.png",
+      "official_page_sha256": "b6212f4811137b856d2c752b3c091b5cd039d62e0c3a1b827984a229993756b7",
+      "verified_text": "한 번도 경험한 적 없는",
+      "rejected_secondary_variants": ["한 번도 경험한 없는"],
+      "context": "한 번도 경험한 적 없는 새로운 가상 공간으로 이동할 것인지"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 14,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_014.png",
+      "official_page_sha256": "4ee1314237fc18a799c8bd8b4bad867a6e70fa189a47f65e4b49d264ebf6ccd2",
+      "verified_text": "㉠ 파생상품 시장에서",
+      "rejected_secondary_variants": ["0파생상품 시장에서"],
+      "context": "경제 체계의 이러한 미래 지향성은 ㉠ 파생상품 시장에서 극대화된다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 14,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_014.png",
+      "official_page_sha256": "4ee1314237fc18a799c8bd8b4bad867a6e70fa189a47f65e4b49d264ebf6ccd2",
+      "verified_text": "㉡ 예방적 구금에서",
+      "rejected_secondary_variants": ["0 예방적 구금에서"],
+      "context": "이는 ㉡ 예방적 구금에서 극명하게 드러난다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 14,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_014.png",
+      "official_page_sha256": "4ee1314237fc18a799c8bd8b4bad867a6e70fa189a47f65e4b49d264ebf6ccd2",
+      "verified_text": "㉠과 ㉡을 설명할 때",
+      "rejected_secondary_variants": ["O과 ㄷ을 설명할 때"],
+      "context": "29. ㉠과 ㉡을 설명할 때 가장 적절한 것은?"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 3,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_003.png",
+      "official_page_sha256": "5789c45b152af4401cd8059cf0e21b8bcddcb39595e8393605cb965bfe9754bb",
+      "verified_text": "C, C_1, C_2는 각 선 위에 있는 점",
+      "rejected_secondary_variants": ["C C1 C는 각 위에 있는 점"],
+      "context": "C, C_1, C_2는 각 선 위에 있는 점으로서 제도 간의 결합으로 기대되는 가치의 실현 정도를 나타낸다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 3,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_003.png",
+      "official_page_sha256": "5789c45b152af4401cd8059cf0e21b8bcddcb39595e8393605cb965bfe9754bb",
+      "verified_text": "가치 X",
+      "rejected_secondary_variants": ["가치 &"],
+      "context": "도식의 가로축 표기"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 3,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_003.png",
+      "official_page_sha256": "5789c45b152af4401cd8059cf0e21b8bcddcb39595e8393605cb965bfe9754bb",
+      "verified_text": "경우는 D당 당론이",
+      "rejected_secondary_variants": ["경우는I D당 당론이"],
+      "context": "A당 당론의 채택 결과와 가장 큰 차이를 보이는 경우는 D당 당론이 채택될 경우"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 10,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_010.png",
+      "official_page_sha256": "0920baa5c7248e8f1a9afeba772180c6cebd57e8d2b979843268b2710de8af3a",
+      "verified_text": "신뢰할 수 없다",
+      "rejected_secondary_variants": ["신뢰할 없다"],
+      "context": "참가자의 상상력마저 통제하지 못하는 한 ㉡은 신뢰할 수 없다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 10,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_010.png",
+      "official_page_sha256": "0920baa5c7248e8f1a9afeba772180c6cebd57e8d2b979843268b2710de8af3a",
+      "verified_text": "설명할 때 적절하지 않은 것은",
+      "rejected_secondary_variants": ["설명할 적절하지 않은 것은"],
+      "context": "21. 윗글을 바탕으로 <보기>를 설명할 때 적절하지 않은 것은?"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 10,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_010.png",
+      "official_page_sha256": "0920baa5c7248e8f1a9afeba772180c6cebd57e8d2b979843268b2710de8af3a",
+      "verified_text": "긍정적 시나리오에 비해",
+      "rejected_secondary_variants": ["궁정적 시나리오에 비해"],
+      "context": "긍정적 시나리오에 비해 부정적 시나리오에서 기계와의 연결을 유지하려는 경향"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "verified_text": "지표-대류권계",
+      "rejected_secondary_variants": ["지표대류권계", "지표_대류권 계"],
+      "context": "지구의 유효 방출 온도, 즉 지표-대류권계를 균일한 온도를 갖는 물체로 가정한 경우의 온도"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "verified_text": "-18℃",
+      "rejected_secondary_variants": ["-18"],
+      "context": "지구의 유효 방출 온도는 약 -18℃이다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "verified_text": "15℃",
+      "rejected_secondary_variants": ["15C", "15"],
+      "context": "지표의 평균 온도는 약 15℃이므로"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "verified_text": "33℃",
+      "rejected_secondary_variants": ["33C", "33"],
+      "context": "대기의 온실효과 덕분에 약 33℃ 더 따뜻해진 것이다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "verified_text": "온도(℃)",
+      "rejected_secondary_variants": ["온도c", "온도C"],
+      "context": "<그림>의 가로축 표기"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "verified_text": "유효 방출 중심(A)",
+      "rejected_secondary_variants": ["유효 방출 중심A"],
+      "context": "온실기체 농도가 증가하기 전의 유효 방출 중심"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_005.png",
+      "official_page_sha256": "7db37d2b8a0cdb16aaf70db61c2b9a4e967977840c3b27204f62a83c4b75e878",
+      "verified_text": "유효 방출 중심(B)",
+      "rejected_secondary_variants": ["유효 방출 중심B"],
+      "context": "대류권에서 하향 복사의 방출 중심"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "official_page_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "verified_text": "태양 복사 에너지(W/m²)",
+      "rejected_secondary_variants": ["태양 복사 에너지W/m?", "태양 복사 에너지(W/m?)"],
+      "context": "12번 <보기> 표의 첫째 행 제목"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "official_page_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "verified_text": "지표 온도(℃)",
+      "rejected_secondary_variants": ["지표 온도C", "지표 온도(C)"],
+      "context": "12번 <보기> 표의 둘째 행 제목"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "official_page_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "verified_text": "온실기체 농도(ppm)",
+      "rejected_secondary_variants": ["온실기체 농도ppm", "온실기체 농도(ppn)"],
+      "context": "12번 <보기> 표의 셋째 행 제목"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "official_page_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "verified_text": "시대 Y의 지표 온도는 2",
+      "rejected_secondary_variants": ["시대 Y의 지표 온도는 N"],
+      "context": "12번 <보기> 표에서 시대 Y의 지표 온도 값"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_006.png",
+      "official_page_sha256": "b40ee85b2c0c463b8ac99a0e0dd8a402f3b69b0b6d94e3fbce2d721a5aeb79e0",
+      "verified_text": "이들 사이의 간극은 넘어설 수 없기 때문이네",
+      "rejected_secondary_variants": ["이들 사이의 간국은 넘어설 수 없기 때문이네"],
+      "context": "불의를 저지르는 자와 당하는 자의 처지를 비교하는 소크라테스의 문답"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 2,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_002.png",
+      "official_page_sha256": "9b8b3e8b60bfc3d5bed62f85067a182350cff13a0f54758c58dfee643147fd48",
+      "verified_text": "㉠ 고민은 증폭된다",
+      "rejected_secondary_variants": ["0 고민은 증폭된다"],
+      "context": "가치를 최적화하려는 설계자의 ㉠ 고민은 증폭된다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 2,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_002.png",
+      "official_page_sha256": "9b8b3e8b60bfc3d5bed62f85067a182350cff13a0f54758c58dfee643147fd48",
+      "verified_text": "㉡ 상충관계의 유형은",
+      "rejected_secondary_variants": ["0 상충관계의 유형은"],
+      "context": "제도를 결합할 때 설계에 따라 ㉡ 상충관계의 유형은 달라질 수 있다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 2,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_002.png",
+      "official_page_sha256": "9b8b3e8b60bfc3d5bed62f85067a182350cff13a0f54758c58dfee643147fd48",
+      "verified_text": "㉢ 권역별 연동형 비례대표제로",
+      "rejected_secondary_variants": ["㉡ 권역별 연동형 비례대표제로"],
+      "context": "㉢ 권역별 연동형 비례대표제로 불리는 독일의 선거 제도"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 4,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_004.png",
+      "official_page_sha256": "4abc3009506987bd614b9adecf1283679596232b7590a0a2743456087bba1d68",
+      "verified_text": "힘을 보탰다",
+      "rejected_secondary_variants": ["힘을 보됐다"],
+      "context": "병참 지원 비전투원인 ‘수동적 날개’로서 힘을 보탰다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 4,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_004.png",
+      "official_page_sha256": "4abc3009506987bd614b9adecf1283679596232b7590a0a2743456087bba1d68",
+      "verified_text": "㉠ 비상시국을 유지하였다",
+      "rejected_secondary_variants": ["0 비상시국을 유지하였다"],
+      "context": "영국은 진압을 마친 뒤에도 1960년까지 ㉠ 비상시국을 유지하였다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 4,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_004.png",
+      "official_page_sha256": "4abc3009506987bd614b9adecf1283679596232b7590a0a2743456087bba1d68",
+      "verified_text": "강제 수용소를 케냐 전역에",
+      "rejected_secondary_variants": ["한강제수용소를 케냐 전역에", "강제수용소를 케냐 전역에"],
+      "context": "동조 혐의가 있는 민간인을 대상으로 한 강제 수용소를 케냐 전역에 150개소 남짓 설치"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 4,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_004.png",
+      "official_page_sha256": "4abc3009506987bd614b9adecf1283679596232b7590a0a2743456087bba1d68",
+      "verified_text": "5,228명에 한하여는",
+      "rejected_secondary_variants": ["5228명에 한하여는"],
+      "context": "2013년 영국 외무장관 헤이그는 고문 생존자 5,228명에 한하여는 배상을 약속"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 4,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_004.png",
+      "official_page_sha256": "4abc3009506987bd614b9adecf1283679596232b7590a0a2743456087bba1d68",
+      "verified_text": "㉠에 대한 설명으로",
+      "rejected_secondary_variants": ["그에 대한 설명으로"],
+      "context": "9. ㉠에 대한 설명으로 가장 적절한 것은?"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 7,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_007.png",
+      "official_page_sha256": "5f37627a64e4530d0cb62e4ad2db90f32e0fd0d44683dc7c829b80d92c98a270",
+      "verified_text": "① 정의는 훌륭한 것이라고",
+      "rejected_secondary_variants": ["D 정의는 훌륭한 것이라고"],
+      "context": "14번 첫째 선택지의 번호와 첫 구절"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 7,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_007.png",
+      "official_page_sha256": "5f37627a64e4530d0cb62e4ad2db90f32e0fd0d44683dc7c829b80d92c98a270",
+      "verified_text": "극도로 가난하지만 건강한 삶을",
+      "rejected_secondary_variants": ["극도로 가난하지 만 건강한 삶을"],
+      "context": "15번 <보기>의 C"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 15,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_015.png",
+      "official_page_sha256": "f3725af63848d362d9495dbff718499b7f6b1b6dcda3d6a0c380924bdb707c33",
+      "verified_text": "‘기다림은 곧 공멸’이라며",
+      "rejected_secondary_variants": ["공멸’이라며", "기다림은 곧 공멸이라며"],
+      "context": "그러나 A국 대통령은 ‘기다림은 곧 공멸’이라며 B국 연구 시설에 대한 전면적인 미사일 폭격을 감행했다"
+    },
+    {
+      "year": 2027,
+      "form": "single",
+      "page": 15,
+      "official_page_image": "자료/LEET_언어이해/페이지/2027/2027_question/page_015.png",
+      "official_page_sha256": "f3725af63848d362d9495dbff718499b7f6b1b6dcda3d6a0c380924bdb707c33",
+      "verified_text": "50%로 증가한 후",
+      "rejected_secondary_variants": ["50%로 증가한후"],
+      "context": "A국 대통령이 B국의 무기 개발 성공 가능성이 50%로 증가한 후 선제 타격 결정을 했다고 하더라도"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+      "official_page_sha256": "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b",
+      "verified_text": "그 움직임을 간단히 알아챌 수",
+      "rejected_secondary_variants": ["그움직임을 간단히 알아챌수", "- 그움직임을 간단히 알아챌수"],
+      "context": "시간차를 두고 획득한 두 이미지의 차이를 통해 그 움직임을 간단히 알아챌 수 있을 것 같지만"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+      "official_page_sha256": "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b",
+      "verified_text": "이 시간 동안 약 2m를",
+      "rejected_secondary_variants": ["시간 동안 약 2m를"],
+      "context": "강하게 친 테니스공은 이 시간 동안 약 2m를 이동할 수 있어서"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+      "official_page_sha256": "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b",
+      "verified_text": "도롱뇽의 망막에",
+      "rejected_secondary_variants": ["도롱농의 망막에"],
+      "context": "마이크로칩 위에 올려진 도롱뇽의 망막에 막대 모양의 상을 맺히게 하고"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+      "official_page_sha256": "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b",
+      "verified_text": "폭이 0.13 mm인",
+      "rejected_secondary_variants": ["폭이 013 mm인"],
+      "context": "폭이 0.13 mm인 막대 모양의 상을 1/60초 동안만 맺히게 한 후에"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 5,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_005.png",
+      "official_page_sha256": "670ae6b210b503bf14b2459a5ee39f716f2e0bb5abcf696ab7bfcb5e1abcdf6b",
+      "verified_text": "약 1/20초 후에",
+      "rejected_secondary_variants": ["후에", "약 1/20초"],
+      "context": "상이 맺힌 순간부터 약 1/20초 후에 신경절세포에서 신호가 발생하기 시작하여"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "official_page_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "verified_text": "다음 그림은 ㉠의 실험에서",
+      "rejected_secondary_variants": ["다음 그림은 0의 실험에서"],
+      "context": "11번 <보기>의 첫 문장"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "official_page_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "verified_text": "b와 c는 속력이 같고",
+      "rejected_secondary_variants": ["6와 C는 속력이 같고"],
+      "context": "그래프 a, b, c의 조건을 설명하는 문장"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "official_page_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "verified_text": "ㄴ. 상의 속력은 a가 b보다 크다",
+      "rejected_secondary_variants": ["느상의 속력은 a가 6보다 크다"],
+      "context": "11번 <보기>의 둘째 판단"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "official_page_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "verified_text": "ㄷ. 상과 주변의 밝기 차는 b가 c보다 작다",
+      "rejected_secondary_variants": ["드 상과 주변의 밝기 차는 6가 C보다 작다"],
+      "context": "11번 <보기>의 셋째 판단"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 6,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_006.png",
+      "official_page_sha256": "5e737c9c78074069ae9d431e660e73776aba534d32a2bbb34a63de346c02fe62",
+      "verified_text": "‘도롱뇽이 파리를 응시하는 상황’을",
+      "rejected_secondary_variants": ["'도롱농이 파리를 응시하는 상황'을"],
+      "context": "12번 문두"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 15,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_015.png",
+      "official_page_sha256": "4e81629feff0a0f234ac06b9b74dc50601c80bff6d02cbad994b6b4fa6a4bfbe",
+      "verified_text": "법칙 수립 형식 내지",
+      "rejected_secondary_variants": ["법칙 수립 형식'내지"],
+      "context": "윤리규범과 법규범의 차이를 오로지 법칙 수립 형식 내지 의무 강제 방식에서의 자율성과 타율성에서 찾는"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 15,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_015.png",
+      "official_page_sha256": "4e81629feff0a0f234ac06b9b74dc50601c80bff6d02cbad994b6b4fa6a4bfbe",
+      "verified_text": "① 외면성 명제는 윤리규범과",
+      "rejected_secondary_variants": ["D 외면성 명제는 윤리규범과"],
+      "context": "28번 첫째 선택지의 번호와 첫 구절"
+    },
+    {
+      "year": 2022,
+      "form": "odd",
+      "page": 15,
+      "official_page_image": "자료/LEET_언어이해/페이지/2022/2022_question_odd/page_015.png",
+      "official_page_sha256": "4e81629feff0a0f234ac06b9b74dc50601c80bff6d02cbad994b6b4fa6a4bfbe",
+      "verified_text": "㉠에 대해 추론한 것으로",
+      "rejected_secondary_variants": ["그에 대해 추론한 것으로"],
+      "context": "29번 문두"
+    }
+  ]
+}

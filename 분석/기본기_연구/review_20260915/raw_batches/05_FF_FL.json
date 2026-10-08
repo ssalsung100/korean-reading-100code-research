@@ -1,0 +1,45 @@
+{
+  "record_id": "FF-FL-depth_backfill-20260915-semantic-audit-01",
+  "case": "FF-FL", "stage": "depth_backfill", "status": "done", "timestamp": "2026-09-15",
+  "payload": {
+    "case_ids": ["FF", "FL"], "original_blind_preserved": true, "review_kind": "완료 사례 사후 감사",
+    "source_record_ids": ["FF-independent_code-20260914-01", "FL-independent_code-20260914-01", "G033-G034-boundary_revision-20260914-01"],
+    "evidence_additions": [
+      {
+        "case":"FF", "passage_group":"G033", "source":"data/기본기_연구/prepared_backlog/blind_sources/FF.json",
+        "task":"정신분석학적 이론에서 현실감이 환영인 이유로 가장 적절한 것", "target":"① 설명 근거,④ 참인 후속 위험",
+        "evidence_location":"(나)1문단 '동일시 현상은 영화 장치로 인해 발생', 부재를 채우는 상상적 작업; 2문단 이미 규정된 카메라 시선; 3문단 환영 인식 어려움과 이념 수용 위험; choices[0], choices[3]",
+        "relation_without_codes":"영화 장치→동일시·부재를 채우는 상상→인위적으로 구성된 세계를 현실로 느낌. 그때 비판 없이 이념을 수용할 위험이 생김",
+        "changed_part":"④는 설명 대상이 생기는 근거 자리에 그 상태에서 생기는 위험을 제시",
+        "decisive_operation":"설명 대상을 '환영적 현실감'으로 고정하고 장치의 영향을 생성 근거로 연결",
+        "evidence_type":"합성 함의", "evidence_qualification":"④ 위험 자체는 원문이 지지하지만 그 위험이 현실감을 만드는 이유라는 연결은 지지 부족. 이유로 부적합과 진술 자체 거짓을 구분",
+        "existing_code_layers":"주#56=이유 적합성 과제, 보조#46=생성 관계·#80=현실로 믿음/인위적 세계, 표면#100=비유",
+        "strongest_competitor":"#46/#51로 장치·동일시·환영·위험의 방향을 복원하면①과④를 구별. #56이 이 인과 사슬과 별도의 추가 추론을 요구하지 않음",
+        "competitor_relation":"#56 과제와#46/#51 관계는 상위/하위 층위; 이 사례의 완전 인과 설명은 같은 국소 풀이",
+        "priority":"최초 유지, 유일 주 우선순위는 설명 층 선택에 의존"
+      },
+      {
+        "case":"FL", "passage_group":"G034", "source":"data/기본기_연구/prepared_backlog/blind_sources/FL.json",
+        "task":"㉡ 지각과 감각이 구분되지 않는 이유로 가장 적절한 것", "target":"② 얽힘 자체를 지각으로 규정",
+        "evidence_location":"(나)3문단 손을 만지며 동시에 만져짐, '지각은 ... 얽힘의 체험', '따라서 ... 구분되지 않는다'; choices[1]",
+        "relation_without_codes":"감각함과 감각됨이 얽힌 몸의 체험 자체가 지각이므로 감각과 별개의 판단 결과로 지각을 떼어내지 않음",
+        "changed_part":"①는 같은 물질세계라는 공통 장소를 구성적 관계 대신 제시;④는 필자가 비판하는 의식의 판단 설명을 필자 근거로 이식",
+        "decisive_operation":"②의 체험 규정이㉡을 설명하는지 확인", "evidence_type":"직접 함의", "evidence_qualification":"본문이 명시한 개념적 설명을 회수. 인과는 반드시 시간 간격이 있어야 한다고 정의해서 인과 후보를 배제하는 것은 아님",
+        "existing_code_layers":"주#56=이유 적합성, 보조#16=구성적 규정·#17=④ 견해 귀속, 표면#46=이유 발문에서 연상되는 인과",
+        "strongest_competitor":"#16 정의표 '지각=감각함/감각됨의 얽힘'으로②를 고르면 충분. 강한 인과 대안은 '감각이 별개의 지각 결과를 발생시킨다'인데, 이 관계만으로 둘을 구분하지 않는 결론은 나오지 않음. '구성적 원인'이라는 이름으로 체험 규정을 그대로 포함하면 용어 변경일 뿐 새 인과 연산 아님",
+        "competitor_relation":"#56/#16 상위 과제/하위 구성 관계. 분리된 원인→결과만으로 설명하는 대안은 실제 결론을 놓쳐 배제; 원인이라는 말로 정의까지 포함한 표현과는 국소 중첩",
+        "priority":"최초 유지; 설명 전부를 인과로 전역 환원하는 가설은 이 독해 자료로 지지되지 않음"
+      }
+    ],
+    "boundary_or_generation_impact":"O5의 목적·관점 적용만으로 두 이유 문항을 분류 완료할 수 없다. 설명 대상에 대한 적합성과 실제 근거 관계를 따로 기록한다. FF는 인과적 생성, FL은 개념적 구성. O4의 모든 화살표를 인과로 해석하지 않는다.",
+    "candidate_rule":{"decision":"유지 및 한정","retained":"이유의 근거는 인과/정의·구성으로 구분","counterexample":"FL은 시간 순서나 공통 속성만으로②의 설명을 대체할 수 없어 이유=인과 가설에 반례","held":"#56/#46/#51 전역 통합; 두 사례만으로 모든 설명 유형을 망라한다는 주장","next_falsification_target":"다음 미열람 지문에서 정의는 그대로인데 발생 기제가 달라지는 경우, 또는 인과와 구성 근거가 둘 다 충분한 사례. 이번에는 열지 않음"},
+    "minimal_variants":[
+      {"case":"FF","one_change":"발문의 설명 대상을 '환영적 현실감의 이유'에서 '그로 인해 생기는 위험'으로 교체","predicted_change":"④의 이념 무비판 수용 위험이 질문에 적합한 후보로 바뀜. 완성 발문·선지의 유일답은 따로 검증","synthetic_not_corpus":true},
+      {"case":"FL","one_change":"검토용②의 '지각이기 때문에'를 '지각의 원인이기 때문에'로 교체","predicted_change":"원인 관계만으로 감각/지각의 구분 불가를 보장하지 못해 직접 설명력이 소실. 원문 전체가 거짓으로 바뀐다는 뜻은 아님","synthetic_not_corpus":true}
+    ],
+    "student_action":"왜 그런지 물으면 '무엇이 생기게 했나'인지 '무엇으로 이루어지거나 규정되나'인지 근거 문장을 확인한다. 참인 결과나 위험을 원인 자리에 옮기지 않는다.",
+    "generation_principle":"같은 지문의 참인 결과를 이유 선지에 놓거나, 공통 장소를 개념적 구성 근거 대신 놓는다. 지문에 없는 인과 연결로 답을 정당화하지 않는다.",
+    "sampling":{"cases":2,"distinct_passage_groups":2,"new_corpus_cases":0,"dependencies":"FF=FH·FD와G033, FL=FN과G034. 어휘 검토와 중복 독립 표본 아님"},
+    "confidence":"원문 내 설명 관계 높음; 원저자 정의와 설명 유형의 전역 분할 미확정"
+  }
+}

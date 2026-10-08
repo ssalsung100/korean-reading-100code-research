@@ -1,0 +1,21 @@
+{
+  "case_id": "AKM",
+  "passage_group": "G229",
+  "purpose": "official_source_visual_provenance_only",
+  "source_pdf": "자료/LEET_언어이해/원본/2022/2022_question_odd_2022_LEET_언어이해(홀수형)_배포용.pdf",
+  "source_pdf_sha256": "e00f065644591dcd965a6439c3119906e3106bd4bdd4354ac158b6cae9ef4077",
+  "source_page": {
+    "printed_page": 12,
+    "pdf_page_index_1based": 12,
+    "page_size_points": [841.0, 1190.0]
+  },
+  "crop": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G229_AKM_official_crop_20260926.png",
+    "bbox_pdf_points_xyxy": [425.0, 300.0, 770.0, 640.0],
+    "render_scale": 4.0,
+    "dimensions_pixels": [1380, 1360],
+    "sha256": "49d6ebc5a2cb228dc03aec470f7ef3cc299dad8b0abfe2d47e8479187bc6f820"
+  },
+  "visual_scope": "2022 LEET odd-form Q24 view, including marker ⓓ and its surrounding sentence; crop contains no answer key, SDSS tag, or explanatory annotation.",
+  "verification": "Parent visually confirmed the official page marker ⓓ reads 좌파 야당. No source or research raw record was edited."
+}

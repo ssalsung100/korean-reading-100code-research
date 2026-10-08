@@ -1,0 +1,1031 @@
+{
+  "blind_only": true,
+  "case_id": "ACU",
+  "passage_group": "G181",
+  "purpose": "marker table 전체 구조의 기계 추출; 범위 의미 판단 보류",
+  "source": {
+    "path": "고3 기출/2027 고3 국어 독서_Ⅴ. 예술.hwpx",
+    "sha256": "0ff1d76ce69849ddfd40ea46f1d3e750fde0396c5f8f83502d236cf42e3064bd",
+    "xml_part": "Contents/section0.xml",
+    "table_id": "2029780368"
+  },
+  "table": {
+    "id": "2029780368",
+    "zOrder": "25",
+    "numberingType": "TABLE",
+    "textWrap": "SQUARE",
+    "textFlow": "BOTH_SIDES",
+    "lock": "0",
+    "dropcapstyle": "None",
+    "pageBreak": "CELL",
+    "repeatHeader": "1",
+    "rowCnt": "3",
+    "colCnt": "2",
+    "cellSpacing": "0",
+    "borderFillIDRef": "3",
+    "noAdjust": "0"
+  },
+  "rows": [
+    {
+      "row_index": 0,
+      "cells": [
+        {
+          "cell_addr": {
+            "colAddr": "0",
+            "rowAddr": "0"
+          },
+          "cell_span": {
+            "colSpan": "1",
+            "rowSpan": "1"
+          },
+          "cell_size": {
+            "width": "1303",
+            "height": "5474"
+          },
+          "cell_margin": {
+            "left": "510",
+            "right": "510",
+            "top": "141",
+            "bottom": "141"
+          },
+          "cell_attrs": {
+            "name": "",
+            "header": "0",
+            "hasMargin": "0",
+            "protect": "0",
+            "editable": "0",
+            "dirty": "0",
+            "borderFillIDRef": "8"
+          },
+          "text": "",
+          "border_fill_id": "8",
+          "border_fill": {
+            "attrs": {
+              "id": "8",
+              "threeD": "0",
+              "shadow": "0",
+              "centerLine": "NONE",
+              "breakCellSeparateLine": "0"
+            },
+            "parts": [
+              {
+                "tag": "slash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "backSlash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "leftBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "rightBorder",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "topBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "bottomBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "diagonal",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.1 mm",
+                  "color": "#000000"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "cell_addr": {
+            "colAddr": "1",
+            "rowAddr": "0"
+          },
+          "cell_span": {
+            "colSpan": "1",
+            "rowSpan": "1"
+          },
+          "cell_size": {
+            "width": "1303",
+            "height": "5474"
+          },
+          "cell_margin": {
+            "left": "510",
+            "right": "510",
+            "top": "141",
+            "bottom": "141"
+          },
+          "cell_attrs": {
+            "name": "",
+            "header": "0",
+            "hasMargin": "0",
+            "protect": "0",
+            "editable": "0",
+            "dirty": "0",
+            "borderFillIDRef": "6"
+          },
+          "text": "",
+          "border_fill_id": "6",
+          "border_fill": {
+            "attrs": {
+              "id": "6",
+              "threeD": "0",
+              "shadow": "0",
+              "centerLine": "NONE",
+              "breakCellSeparateLine": "0"
+            },
+            "parts": [
+              {
+                "tag": "slash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "backSlash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "leftBorder",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "rightBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "topBorder",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "bottomBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "diagonal",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.1 mm",
+                  "color": "#000000"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row_index": 1,
+      "cells": [
+        {
+          "cell_addr": {
+            "colAddr": "0",
+            "rowAddr": "1"
+          },
+          "cell_span": {
+            "colSpan": "2",
+            "rowSpan": "1"
+          },
+          "cell_size": {
+            "width": "2606",
+            "height": "2025"
+          },
+          "cell_margin": {
+            "left": "510",
+            "right": "510",
+            "top": "141",
+            "bottom": "141"
+          },
+          "cell_attrs": {
+            "name": "",
+            "header": "0",
+            "hasMargin": "0",
+            "protect": "0",
+            "editable": "0",
+            "dirty": "0",
+            "borderFillIDRef": "4"
+          },
+          "text": "[A]",
+          "border_fill_id": "4",
+          "border_fill": {
+            "attrs": {
+              "id": "4",
+              "threeD": "0",
+              "shadow": "0",
+              "centerLine": "NONE",
+              "breakCellSeparateLine": "0"
+            },
+            "parts": [
+              {
+                "tag": "slash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "backSlash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "leftBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "rightBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "topBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "bottomBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "diagonal",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.1 mm",
+                  "color": "#000000"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "row_index": 2,
+      "cells": [
+        {
+          "cell_addr": {
+            "colAddr": "0",
+            "rowAddr": "2"
+          },
+          "cell_span": {
+            "colSpan": "1",
+            "rowSpan": "1"
+          },
+          "cell_size": {
+            "width": "1303",
+            "height": "5610"
+          },
+          "cell_margin": {
+            "left": "510",
+            "right": "510",
+            "top": "141",
+            "bottom": "141"
+          },
+          "cell_attrs": {
+            "name": "",
+            "header": "0",
+            "hasMargin": "0",
+            "protect": "0",
+            "editable": "0",
+            "dirty": "0",
+            "borderFillIDRef": "8"
+          },
+          "text": "",
+          "border_fill_id": "8",
+          "border_fill": {
+            "attrs": {
+              "id": "8",
+              "threeD": "0",
+              "shadow": "0",
+              "centerLine": "NONE",
+              "breakCellSeparateLine": "0"
+            },
+            "parts": [
+              {
+                "tag": "slash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "backSlash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "leftBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "rightBorder",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "topBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "bottomBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "diagonal",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.1 mm",
+                  "color": "#000000"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "cell_addr": {
+            "colAddr": "1",
+            "rowAddr": "2"
+          },
+          "cell_span": {
+            "colSpan": "1",
+            "rowSpan": "1"
+          },
+          "cell_size": {
+            "width": "1303",
+            "height": "5610"
+          },
+          "cell_margin": {
+            "left": "510",
+            "right": "510",
+            "top": "141",
+            "bottom": "141"
+          },
+          "cell_attrs": {
+            "name": "",
+            "header": "0",
+            "hasMargin": "0",
+            "protect": "0",
+            "editable": "0",
+            "dirty": "0",
+            "borderFillIDRef": "7"
+          },
+          "text": "",
+          "border_fill_id": "7",
+          "border_fill": {
+            "attrs": {
+              "id": "7",
+              "threeD": "0",
+              "shadow": "0",
+              "centerLine": "NONE",
+              "breakCellSeparateLine": "0"
+            },
+            "parts": [
+              {
+                "tag": "slash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "backSlash",
+                "attrs": {
+                  "type": "NONE",
+                  "Crooked": "0",
+                  "isCounter": "0"
+                }
+              },
+              {
+                "tag": "leftBorder",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "rightBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "topBorder",
+                "attrs": {
+                  "type": "NONE",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "bottomBorder",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.12 mm",
+                  "color": "#000000"
+                }
+              },
+              {
+                "tag": "diagonal",
+                "attrs": {
+                  "type": "SOLID",
+                  "width": "0.1 mm",
+                  "color": "#000000"
+                }
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "cells": [
+    {
+      "cell_addr": {
+        "colAddr": "0",
+        "rowAddr": "0"
+      },
+      "cell_span": {
+        "colSpan": "1",
+        "rowSpan": "1"
+      },
+      "cell_size": {
+        "width": "1303",
+        "height": "5474"
+      },
+      "cell_margin": {
+        "left": "510",
+        "right": "510",
+        "top": "141",
+        "bottom": "141"
+      },
+      "cell_attrs": {
+        "name": "",
+        "header": "0",
+        "hasMargin": "0",
+        "protect": "0",
+        "editable": "0",
+        "dirty": "0",
+        "borderFillIDRef": "8"
+      },
+      "text": "",
+      "border_fill_id": "8",
+      "border_fill": {
+        "attrs": {
+          "id": "8",
+          "threeD": "0",
+          "shadow": "0",
+          "centerLine": "NONE",
+          "breakCellSeparateLine": "0"
+        },
+        "parts": [
+          {
+            "tag": "slash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "backSlash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "leftBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "rightBorder",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "topBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "bottomBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "diagonal",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.1 mm",
+              "color": "#000000"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "cell_addr": {
+        "colAddr": "1",
+        "rowAddr": "0"
+      },
+      "cell_span": {
+        "colSpan": "1",
+        "rowSpan": "1"
+      },
+      "cell_size": {
+        "width": "1303",
+        "height": "5474"
+      },
+      "cell_margin": {
+        "left": "510",
+        "right": "510",
+        "top": "141",
+        "bottom": "141"
+      },
+      "cell_attrs": {
+        "name": "",
+        "header": "0",
+        "hasMargin": "0",
+        "protect": "0",
+        "editable": "0",
+        "dirty": "0",
+        "borderFillIDRef": "6"
+      },
+      "text": "",
+      "border_fill_id": "6",
+      "border_fill": {
+        "attrs": {
+          "id": "6",
+          "threeD": "0",
+          "shadow": "0",
+          "centerLine": "NONE",
+          "breakCellSeparateLine": "0"
+        },
+        "parts": [
+          {
+            "tag": "slash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "backSlash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "leftBorder",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "rightBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "topBorder",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "bottomBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "diagonal",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.1 mm",
+              "color": "#000000"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "cell_addr": {
+        "colAddr": "0",
+        "rowAddr": "1"
+      },
+      "cell_span": {
+        "colSpan": "2",
+        "rowSpan": "1"
+      },
+      "cell_size": {
+        "width": "2606",
+        "height": "2025"
+      },
+      "cell_margin": {
+        "left": "510",
+        "right": "510",
+        "top": "141",
+        "bottom": "141"
+      },
+      "cell_attrs": {
+        "name": "",
+        "header": "0",
+        "hasMargin": "0",
+        "protect": "0",
+        "editable": "0",
+        "dirty": "0",
+        "borderFillIDRef": "4"
+      },
+      "text": "[A]",
+      "border_fill_id": "4",
+      "border_fill": {
+        "attrs": {
+          "id": "4",
+          "threeD": "0",
+          "shadow": "0",
+          "centerLine": "NONE",
+          "breakCellSeparateLine": "0"
+        },
+        "parts": [
+          {
+            "tag": "slash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "backSlash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "leftBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "rightBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "topBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "bottomBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "diagonal",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.1 mm",
+              "color": "#000000"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "cell_addr": {
+        "colAddr": "0",
+        "rowAddr": "2"
+      },
+      "cell_span": {
+        "colSpan": "1",
+        "rowSpan": "1"
+      },
+      "cell_size": {
+        "width": "1303",
+        "height": "5610"
+      },
+      "cell_margin": {
+        "left": "510",
+        "right": "510",
+        "top": "141",
+        "bottom": "141"
+      },
+      "cell_attrs": {
+        "name": "",
+        "header": "0",
+        "hasMargin": "0",
+        "protect": "0",
+        "editable": "0",
+        "dirty": "0",
+        "borderFillIDRef": "8"
+      },
+      "text": "",
+      "border_fill_id": "8",
+      "border_fill": {
+        "attrs": {
+          "id": "8",
+          "threeD": "0",
+          "shadow": "0",
+          "centerLine": "NONE",
+          "breakCellSeparateLine": "0"
+        },
+        "parts": [
+          {
+            "tag": "slash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "backSlash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "leftBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "rightBorder",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "topBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "bottomBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "diagonal",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.1 mm",
+              "color": "#000000"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "cell_addr": {
+        "colAddr": "1",
+        "rowAddr": "2"
+      },
+      "cell_span": {
+        "colSpan": "1",
+        "rowSpan": "1"
+      },
+      "cell_size": {
+        "width": "1303",
+        "height": "5610"
+      },
+      "cell_margin": {
+        "left": "510",
+        "right": "510",
+        "top": "141",
+        "bottom": "141"
+      },
+      "cell_attrs": {
+        "name": "",
+        "header": "0",
+        "hasMargin": "0",
+        "protect": "0",
+        "editable": "0",
+        "dirty": "0",
+        "borderFillIDRef": "7"
+      },
+      "text": "",
+      "border_fill_id": "7",
+      "border_fill": {
+        "attrs": {
+          "id": "7",
+          "threeD": "0",
+          "shadow": "0",
+          "centerLine": "NONE",
+          "breakCellSeparateLine": "0"
+        },
+        "parts": [
+          {
+            "tag": "slash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "backSlash",
+            "attrs": {
+              "type": "NONE",
+              "Crooked": "0",
+              "isCounter": "0"
+            }
+          },
+          {
+            "tag": "leftBorder",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "rightBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "topBorder",
+            "attrs": {
+              "type": "NONE",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "bottomBorder",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.12 mm",
+              "color": "#000000"
+            }
+          },
+          {
+            "tag": "diagonal",
+            "attrs": {
+              "type": "SOLID",
+              "width": "0.1 mm",
+              "color": "#000000"
+            }
+          }
+        ]
+      }
+    }
+  ],
+  "border_definitions_source": "Contents/header.xml",
+  "raw_xml_subtree": "<ns0:tbl xmlns:ns0=\"http://www.hancom.co.kr/hwpml/2011/paragraph\" id=\"2029780368\" zOrder=\"25\" numberingType=\"TABLE\" textWrap=\"SQUARE\" textFlow=\"BOTH_SIDES\" lock=\"0\" dropcapstyle=\"None\" pageBreak=\"CELL\" repeatHeader=\"1\" rowCnt=\"3\" colCnt=\"2\" cellSpacing=\"0\" borderFillIDRef=\"3\" noAdjust=\"0\"><ns0:sz width=\"2606\" widthRelTo=\"ABSOLUTE\" height=\"13109\" heightRelTo=\"ABSOLUTE\" protect=\"0\" /><ns0:pos treatAsChar=\"0\" affectLSpacing=\"0\" flowWithText=\"1\" allowOverlap=\"0\" holdAnchorAndSO=\"0\" vertRelTo=\"PARA\" horzRelTo=\"COLUMN\" vertAlign=\"TOP\" horzAlign=\"LEFT\" vertOffset=\"96\" horzOffset=\"4294966503\" /><ns0:outMargin left=\"283\" right=\"283\" top=\"283\" bottom=\"283\" /><ns0:inMargin left=\"510\" right=\"510\" top=\"141\" bottom=\"141\" /><ns0:tr><ns0:tc name=\"\" header=\"0\" hasMargin=\"0\" protect=\"0\" editable=\"0\" dirty=\"0\" borderFillIDRef=\"8\"><ns0:subList id=\"\" textDirection=\"HORIZONTAL\" lineWrap=\"BREAK\" vertAlign=\"CENTER\" linkListIDRef=\"0\" linkListNextIDRef=\"0\" textWidth=\"0\" textHeight=\"0\" hasTextRef=\"0\" hasNumRef=\"0\"><ns0:p id=\"2147483648\" paraPrIDRef=\"3\" styleIDRef=\"0\" pageBreak=\"0\" columnBreak=\"0\" merged=\"0\"><ns0:run charPrIDRef=\"2\" /><ns0:linesegarray><ns0:lineseg textpos=\"0\" vertpos=\"0\" vertsize=\"1000\" textheight=\"1000\" baseline=\"850\" spacing=\"600\" horzpos=\"0\" horzsize=\"1440\" flags=\"393216\" /></ns0:linesegarray></ns0:p></ns0:subList><ns0:cellAddr colAddr=\"0\" rowAddr=\"0\" /><ns0:cellSpan colSpan=\"1\" rowSpan=\"1\" /><ns0:cellSz width=\"1303\" height=\"5474\" /><ns0:cellMargin left=\"510\" right=\"510\" top=\"141\" bottom=\"141\" /></ns0:tc><ns0:tc name=\"\" header=\"0\" hasMargin=\"0\" protect=\"0\" editable=\"0\" dirty=\"0\" borderFillIDRef=\"6\"><ns0:subList id=\"\" textDirection=\"HORIZONTAL\" lineWrap=\"BREAK\" vertAlign=\"CENTER\" linkListIDRef=\"0\" linkListNextIDRef=\"0\" textWidth=\"0\" textHeight=\"0\" hasTextRef=\"0\" hasNumRef=\"0\"><ns0:p id=\"2147483648\" paraPrIDRef=\"3\" styleIDRef=\"0\" pageBreak=\"0\" columnBreak=\"0\" merged=\"0\"><ns0:run charPrIDRef=\"2\" /><ns0:linesegarray><ns0:lineseg textpos=\"0\" vertpos=\"0\" vertsize=\"1000\" textheight=\"1000\" baseline=\"850\" spacing=\"600\" horzpos=\"0\" horzsize=\"1440\" flags=\"393216\" /></ns0:linesegarray></ns0:p></ns0:subList><ns0:cellAddr colAddr=\"1\" rowAddr=\"0\" /><ns0:cellSpan colSpan=\"1\" rowSpan=\"1\" /><ns0:cellSz width=\"1303\" height=\"5474\" /><ns0:cellMargin left=\"510\" right=\"510\" top=\"141\" bottom=\"141\" /></ns0:tc></ns0:tr><ns0:tr><ns0:tc name=\"\" header=\"0\" hasMargin=\"0\" protect=\"0\" editable=\"0\" dirty=\"0\" borderFillIDRef=\"4\"><ns0:subList id=\"\" textDirection=\"HORIZONTAL\" lineWrap=\"BREAK\" vertAlign=\"CENTER\" linkListIDRef=\"0\" linkListNextIDRef=\"0\" textWidth=\"0\" textHeight=\"0\" hasTextRef=\"0\" hasNumRef=\"0\"><ns0:p id=\"2147483648\" paraPrIDRef=\"3\" styleIDRef=\"0\" pageBreak=\"0\" columnBreak=\"0\" merged=\"0\"><ns0:run charPrIDRef=\"3\"><ns0:t>[A]</ns0:t></ns0:run><ns0:linesegarray><ns0:lineseg textpos=\"0\" vertpos=\"0\" vertsize=\"1000\" textheight=\"1000\" baseline=\"850\" spacing=\"600\" horzpos=\"0\" horzsize=\"1584\" flags=\"393216\" /></ns0:linesegarray></ns0:p></ns0:subList><ns0:cellAddr colAddr=\"0\" rowAddr=\"1\" /><ns0:cellSpan colSpan=\"2\" rowSpan=\"1\" /><ns0:cellSz width=\"2606\" height=\"2025\" /><ns0:cellMargin left=\"510\" right=\"510\" top=\"141\" bottom=\"141\" /></ns0:tc></ns0:tr><ns0:tr><ns0:tc name=\"\" header=\"0\" hasMargin=\"0\" protect=\"0\" editable=\"0\" dirty=\"0\" borderFillIDRef=\"8\"><ns0:subList id=\"\" textDirection=\"HORIZONTAL\" lineWrap=\"BREAK\" vertAlign=\"CENTER\" linkListIDRef=\"0\" linkListNextIDRef=\"0\" textWidth=\"0\" textHeight=\"0\" hasTextRef=\"0\" hasNumRef=\"0\"><ns0:p id=\"2147483648\" paraPrIDRef=\"3\" styleIDRef=\"0\" pageBreak=\"0\" columnBreak=\"0\" merged=\"0\"><ns0:run charPrIDRef=\"2\" /><ns0:linesegarray><ns0:lineseg textpos=\"0\" vertpos=\"0\" vertsize=\"1000\" textheight=\"1000\" baseline=\"850\" spacing=\"600\" horzpos=\"0\" horzsize=\"1440\" flags=\"393216\" /></ns0:linesegarray></ns0:p></ns0:subList><ns0:cellAddr colAddr=\"0\" rowAddr=\"2\" /><ns0:cellSpan colSpan=\"1\" rowSpan=\"1\" /><ns0:cellSz width=\"1303\" height=\"5610\" /><ns0:cellMargin left=\"510\" right=\"510\" top=\"141\" bottom=\"141\" /></ns0:tc><ns0:tc name=\"\" header=\"0\" hasMargin=\"0\" protect=\"0\" editable=\"0\" dirty=\"0\" borderFillIDRef=\"7\"><ns0:subList id=\"\" textDirection=\"HORIZONTAL\" lineWrap=\"BREAK\" vertAlign=\"CENTER\" linkListIDRef=\"0\" linkListNextIDRef=\"0\" textWidth=\"0\" textHeight=\"0\" hasTextRef=\"0\" hasNumRef=\"0\"><ns0:p id=\"2147483648\" paraPrIDRef=\"3\" styleIDRef=\"0\" pageBreak=\"0\" columnBreak=\"0\" merged=\"0\"><ns0:run charPrIDRef=\"2\" /><ns0:linesegarray><ns0:lineseg textpos=\"0\" vertpos=\"0\" vertsize=\"1000\" textheight=\"1000\" baseline=\"850\" spacing=\"600\" horzpos=\"0\" horzsize=\"1440\" flags=\"393216\" /></ns0:linesegarray></ns0:p></ns0:subList><ns0:cellAddr colAddr=\"1\" rowAddr=\"2\" /><ns0:cellSpan colSpan=\"1\" rowSpan=\"1\" /><ns0:cellSz width=\"1303\" height=\"5610\" /><ns0:cellMargin left=\"510\" right=\"510\" top=\"141\" bottom=\"141\" /></ns0:tc></ns0:tr></ns0:tbl>",
+  "scope_judgment": "not_performed",
+  "answer_explanation_sdss_code_data": "not included"
+}

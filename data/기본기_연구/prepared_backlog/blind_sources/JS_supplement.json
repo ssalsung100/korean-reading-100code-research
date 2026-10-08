@@ -1,0 +1,17 @@
+{
+  "blind_only": true,
+  "case_id": "JS",
+  "supplement_type": "local_hwpx_embedded_diagram",
+  "source_role": "anonymous_blind_source_supplement",
+  "diagram_asset": "data/기본기_연구/prepared_backlog/blind_sources/JS_diagram.png",
+  "parallel_original_asset": "data/기본기_연구/prepared_backlog/blind_sources/JS_diagram.bmp",
+  "labels_preserved": ["A", "B", "C", "D", "E"],
+  "visual_elements_preserved": ["검은 회전축 표지", "회전 방향 화살표", "발판", "입수 수면"],
+  "asset_metadata": {
+    "origin": "로컬 정본 HWPX embedded bitmap",
+    "embedded_asset_reference": "image7",
+    "original_dimensions_px": [581, 812],
+    "png_conversion": "동일 픽셀 크기로 무손실 PNG 변환"
+  },
+  "quality_limit": "로컬 HWPX embedded bitmap을 추출·변환했으며 원배포 PDF crop·해상도 대조는 하지 않음"
+}

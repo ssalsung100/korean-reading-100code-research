@@ -1,0 +1,19 @@
+{
+  "blind_only": true,
+  "passage_group": "G081",
+  "case_id": "LO",
+  "supplement_role": "anonymous_blind_source_supplement",
+  "supplement_type": "embedded_visual_asset",
+  "diagram_asset": "data/기본기_연구/prepared_backlog/blind_sources/G081_LO_figure.png",
+  "parallel_original_asset": "data/기본기_연구/prepared_backlog/blind_sources/G081_LO_figure.bmp",
+  "provenance": {
+    "artifact_scope": "local canonical HWPX Contents/section0.xml embedded bitmap",
+    "embedded_asset_reference": "image6",
+    "original_dimensions_px": [
+      659,
+      292
+    ],
+    "answer_or_sdss_included": false,
+    "interpretation_added": false
+  }
+}
