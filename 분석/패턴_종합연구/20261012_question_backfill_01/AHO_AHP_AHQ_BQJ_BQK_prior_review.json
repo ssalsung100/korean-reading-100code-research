@@ -1,0 +1,276 @@
+{
+  "date": "2026-10-15",
+  "records": {
+    "AHO": [
+      {
+        "line": 3063,
+        "case": "AHO",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G207",
+          "primary": [],
+          "primary_candidates": [
+            45,
+            17
+          ],
+          "working_representative": 45,
+          "auxiliary": [
+            46,
+            49
+          ],
+          "surface": [
+            40
+          ],
+          "judgment_reason": "스위치의 입출력 변화 기능을 억제로 바꾼② 오류. 기능 대응45와 억제 기능의 잘못된 장치 귀속17이 같은 위치를 검출. 부품이 많다는40으로 대체하지 않음.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "후보",
+              "reason": "평활회로의 억제기능을 스위치에 옮김으로 설명 가능"
+            },
+            {
+              "code": 49,
+              "verdict": "보조",
+              "reason": "변동 증가를 억제로 바꾼 방향 반전이나 그 방향은 국소 스위치 입출력에 한정"
+            },
+            {
+              "code": 46,
+              "verdict": "보조",
+              "reason": "변압기 작동을 위한 변동 생성의 경로가 뒷받침하지만②은 직접 기능문 대조로 기각 가능"
+            },
+            {
+              "code": 40,
+              "verdict": "표면",
+              "reason": "부품 구성 존재만 알면 어떤 부품이 억제하는지 결정 못함"
+            }
+          ],
+          "minimal_change_test": "스위치라는 주체를 평활회로로 바꾸거나 억제를 생성으로 고치면 기능 오류 해소. 전체 전원의 안정화를 개별 스위치의 국소 작용으로 옮기지 않는다.",
+          "sdss_seen": false,
+          "confidence": 0.95,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AHO-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T02:22:09.120657+00:00"
+      }
+    ],
+    "AHP": [
+      {
+        "line": 3064,
+        "case": "AHP",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G207",
+          "primary": [],
+          "primary_candidates": [
+            44,
+            88
+          ],
+          "working_representative": 44,
+          "auxiliary": [
+            39,
+            19
+          ],
+          "surface": [
+            86
+          ],
+          "judgment_reason": "소형·고효율의 일반 우세에도 출력노이즈를 허용할 수 없는 목적이라면 선형을 선택한다. 목적에 맞춘 수단44와 장단점 절충88이 같은 선택을 설명해 유일주 유보.",
+          "competing_codes": [
+            {
+              "code": 88,
+              "verdict": "후보",
+              "reason": "효율·크기상 손실을 감수하고 노이즈 부재의 이점을 택하는 질적 비용편익 검토"
+            },
+            {
+              "code": 19,
+              "verdict": "보조",
+              "reason": "스위칭의 특정 한계를 선형으로 보완하나 모든 조건에서 선형이 더 좋다는 뜻 아님"
+            },
+            {
+              "code": 39,
+              "verdict": "보조",
+              "reason": "각 방식의 장단점 비교는 필요하나 왜 그 특별조건에서 선택되는지 목적과 연결해야 함"
+            },
+            {
+              "code": 86,
+              "verdict": "표면",
+              "reason": "효율·크기 언급만 있고 수량 계산이나 상대량 값 도출 없음"
+            }
+          ],
+          "minimal_change_test": "노이즈에 민감하다는 조건을 지우면⑤의 선형 선택 근거가 약해진다. 고효율 조건만 더하면 선형 선택이 아니라 스위칭에 유리하다.",
+          "sdss_seen": false,
+          "confidence": 0.94,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AHP-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T02:22:09.121367+00:00"
+      }
+    ],
+    "AHQ": [
+      {
+        "line": 3065,
+        "case": "AHQ",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G207",
+          "primary": [
+            45
+          ],
+          "auxiliary": [
+            39,
+            15,
+            46
+          ],
+          "surface": [
+            91,
+            40
+          ],
+          "judgment_reason": "두 장치의 출력값을 무엇이 결정하는지 복원한다. 고정출력 소자와 피드백의 기준전압이 각 제어점이다.③은 원하는 산출을 바꾸기 위한 결정입력 교체.",
+          "competing_codes": [
+            {
+              "code": 15,
+              "verdict": "보조",
+              "reason": "기준전압이 제어 목표로 쓰이나 대상 분류의 경계값을 판정하는 과제는 아님"
+            },
+            {
+              "code": 39,
+              "verdict": "보조",
+              "reason": "두 방식을 비교하나 비교내용은 출력 결정구조. 단순 차이 열거를 넘음"
+            },
+            {
+              "code": 46,
+              "verdict": "보조",
+              "reason": "기준값변경→비교오차→스위치조정→출력변경의 인과 경로가45 기술을 뒷받침"
+            },
+            {
+              "code": 91,
+              "verdict": "특정 오답 표면",
+              "reason": "④ 주파수·크기 방향 비교는 있으나 정확 비례식·정답③의 주연산 아님"
+            }
+          ],
+          "minimal_change_test": "소자의 고정출력/기준전압을 유지한 채 다른 장치가 있다는 정보만 바꾸면③의 결정근거는 변하지 않는다. 두 제어값을 변경해야 목표출력 변화가 설명된다.",
+          "sdss_seen": false,
+          "confidence": 0.95,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AHQ-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T02:22:09.122183+00:00"
+      }
+    ],
+    "BQJ": [
+      {
+        "line": 7212,
+        "case": "BQJ",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G508",
+          "minimal_logic_without_codes": "각 문단이 무엇을 정의·응용·분류·평가하는지 확인하고 마지막 실현 요건을 전체 전개와 연결한다.",
+          "primary": [
+            {
+              "code": 60,
+              "reason": "지식에 대한 논의가 경영론의 근거가 되고 실현 요건 검토로 이어지는 문단의 역할을 복원한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 56,
+              "reason": "지식 개념과 경영론을 설명하는 부분의 기능을 구별한다."
+            },
+            {
+              "code": 10,
+              "reason": "마지막 문단의 구성원 참여를 실현의 요건으로 읽는다."
+            },
+            {
+              "code": 25,
+              "reason": "네 변환 유형의 분류를 고정된 시간 단계로 오독하지 않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "글의 제시 순서는 있지만 지식 성격이 역사적으로 변한 과정을 기술한 것은 아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 75,
+              "rejection": "두 학자의 초점이 달라도 글이 양측 장단점을 대칭적으로 비교하는 논쟁 구조는 아니다."
+            },
+            {
+              "code": 5,
+              "rejection": "서술된 개념 분류를 지식 성격 자체의 역사적 변화로 바꿀 수 없다."
+            },
+            {
+              "code": 59,
+              "rejection": "실현상 어려움과 대응 방향은 마지막에 있지만 글 전체가 특정 기업 문제를 해결하는 사례 구조인 것은 아니다."
+            }
+          ],
+          "confidence": 0.93,
+          "sdss_seen": false,
+          "scope_limit": "60은 여기서 문단의 논리적 역할을 표상하는 후보이며 모든 내용전개 문항을 형식논증으로 환원하지 않는다."
+        },
+        "record_id": "BQJ-independent_code-20261004-01",
+        "status": "done",
+        "timestamp": "2026-10-04T03:11:55.379845+00:00"
+      }
+    ],
+    "BQK": [
+      {
+        "line": 7213,
+        "case": "BQK",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G508",
+          "minimal_logic_without_codes": "같은 공유가능성 기준에서 명시지와 암묵지의 상대적 우열을 고정하면③의 방향이 반대임을 알 수 있다.",
+          "primary": [
+            {
+              "code": 39,
+              "reason": "비교 기준과 두 대상을 고정하여 상대적 순서를 뒤집은 오류를 찾는다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "객관적으로 형식화된 명시지와 표현하기 어려운 암묵지의 속성을 구분한다."
+            },
+            {
+              "code": 17,
+              "reason": "폴라니와 노나카의 주장을 서로 바꿔 귀속하지 않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 2,
+              "reason": "공유가능성이라는 말이 있지만 가능/필연 강도 교환이 아니라 두 대상의 비교 방향 역전이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 86,
+              "rejection": "정량적 크기나 상대량/절대량 변환이 제시되지 않아 일반적인 비교축 고정39가 더 직접적이다.숫자 없는 우열도86에 포함할지는 유보한다."
+            },
+            {
+              "code": 13,
+              "rejection": "암묵지와 명시지가 함께 쓰일 수 없다는 배타성 판정이 아니다."
+            },
+            {
+              "code": 4,
+              "rejection": "명시지가 모두 공유된다고 전칭으로 확대한 선지가 아니라 두 지식의 상대 순서를 뒤집었다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_seen": false
+        },
+        "record_id": "BQK-independent_code-20261004-01",
+        "status": "done",
+        "timestamp": "2026-10-04T03:11:55.739377+00:00"
+      }
+    ]
+  },
+  "limits": [
+    "AHO/AHP/AHQ의정답은기존canonical필드기계연결이며공식답셀직접검증아님.",
+    "BQJ/BQK의strict_blind_eligible=false및sealed null의공식답연결복원이력보존.새blind로집계하지않음."
+  ]
+}

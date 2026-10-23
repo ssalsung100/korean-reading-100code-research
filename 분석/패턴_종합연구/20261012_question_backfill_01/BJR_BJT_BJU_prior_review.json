@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BJR": [
+      {
+        "line": 6386,
+        "record_id": "BJR-independent_code-20261003-01",
+        "case": "BJR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T18:05:42.730669+00:00",
+        "payload": {
+          "passage_group": "G449",
+          "sdss_seen": false,
+          "general_task": "윌리엄슨의성과와관계변수의방향평가",
+          "decisive_relation": "특수성·불완전성증가는속박위험과거래어려움증가방향",
+          "primary": {
+            "code": 49,
+            "scope": "④",
+            "reason": "특수성/불완전성과거래비용의방향을반대로바꾼오류."
+          },
+          "auxiliary": [
+            {
+              "code": 46,
+              "reason": "대안가치하락→기회주의우려→안전장치필요의경로."
+            },
+            {
+              "code": 19,
+              "scope": "②③⑤",
+              "reason": "코즈의설명부족에행동가정·계약유형을추가한이론보완."
+            },
+            {
+              "code": 64,
+              "scope": "①",
+              "reason": "거래비용발생기제설명과권위원천설명은범위가다르다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 88,
+              "reason": "비용을언급해도정확한편익-비용차를계산하는문항은아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 75,
+              "verdict": "전체비교보조",
+              "refutation": "학자별귀속은필요하나④는같은이론내변수방향의오류다."
+            },
+            {
+              "code": 43,
+              "verdict": "조건경계",
+              "refutation": "안전장치강화후실제비용과거래특성에따른기본위험을같은관측값으로비교하면안되지만이문항은실험설계검토가아니다."
+            },
+            {
+              "code": 54,
+              "verdict": "기각",
+              "refutation": "관계특수성하나만으로모든거래비용수치가충분히결정된다고하지않는다."
+            }
+          ],
+          "counterfactual": "특수성높은거래에더강한안전장치를도입해사후위험이낮아지는사례는가능하지만이는특수성자체가비용을낮춘다는④의관계와다르다.개입전조건과대응후결과를나눈다.",
+          "source_restoration": "윌리엄슨의기업이론명칭과발문은답공개전blind보충복원.최초hold보존.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BJT": [
+      {
+        "line": 6400,
+        "record_id": "BJT-independent_code-20261003-01",
+        "case": "BJT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T18:13:29.923084+00:00",
+        "payload": {
+          "passage_group": "G450",
+          "sdss_seen": false,
+          "general_task": "두민주주의유형의특성과성과비교",
+          "decisive_relation": "권력분산→거부권자증가→교착위험이라는조건부경로",
+          "primary": {
+            "code": 46,
+            "scope": "⑤",
+            "reason": "권력공유의부작용가능성을중간주체수증가로연결한다."
+          },
+          "auxiliary": [
+            {
+              "code": 2,
+              "scope": "⑤",
+              "reason": "교착이발생할수있다는가능성이지필연결과가아님."
+            },
+            {
+              "code": 39,
+              "scope": "전체",
+              "reason": "합의제/다수제의같은지표를비교."
+            },
+            {
+              "code": 98,
+              "scope": "④",
+              "reason": "권력공유정치주체와권력위임유권자의수를바꾸지않음."
+            },
+            {
+              "code": 1,
+              "scope": "③",
+              "reason": "성장차이없음을성장열세로바꾸지않음."
+            }
+          ],
+          "surface": [
+            {
+              "code": 85,
+              "reason": "권력공유라는표현을고정총량의정확한비율연산으로취급하지않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 75,
+              "verdict": "전체견해보조",
+              "refutation": "유형별설명을대조하지만정답의직접근거는권력분산의교착기제."
+            },
+            {
+              "code": 54,
+              "verdict": "기각",
+              "refutation": "합의제라면언제나교착한다는충분결정이아니다."
+            },
+            {
+              "code": 86,
+              "verdict": "국소보조",
+              "refutation": "주체수나성과대소는있으나정확수치비교는주어지지않는다."
+            }
+          ],
+          "counterfactual": "권력분산이거부권자의비협조와연결되지않고안정적합의를형성한다면교착은필연적이지않다.따라서⑤의가능성강도를유지해야한다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BJU": [
+      {
+        "line": 6401,
+        "record_id": "BJU-independent_code-20261003-01",
+        "case": "BJU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T18:14:01.504817+00:00",
+        "payload": {
+          "passage_group": "G450",
+          "sdss_seen": false,
+          "general_task": "합의제지표에맞는제도변경선별",
+          "decisive_relation": "독립위헌심판권강화가합의제방향이며각지표의축을따로적용",
+          "primary": {
+            "code": 15,
+            "scope": "①~⑤",
+            "reason": "레이파트가제시한각제도기준의방향과개혁안을대응한다."
+          },
+          "auxiliary": [
+            {
+              "code": 49,
+              "scope": "⑤",
+              "reason": "인사결정의입법·행정부통제감소→사법독립강화방향."
+            },
+            {
+              "code": 17,
+              "scope": "③",
+              "reason": "이익집단대표의중앙집약과정부권력의집중은다른지표축."
+            },
+            {
+              "code": 37,
+              "reason": "제시된합의제특징에부합하는개혁사례를찾음."
+            }
+          ],
+          "surface": [
+            {
+              "code": 86,
+              "scope": "④",
+              "reason": "2/3대과반차이는기준방향에관여하지만정확의석계산을요구하지않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 42,
+              "verdict": "국소보조",
+              "refutation": "사법부내선출이라는경계는중요하나무엇에서독립하는지의기준이함께필요하다."
+            },
+            {
+              "code": 26,
+              "verdict": "주기각",
+              "refutation": "집중/분산을모든지표에똑같이적용하는이항도식은③에서실패한다."
+            },
+            {
+              "code": 59,
+              "verdict": "전체과제",
+              "refutation": "합의제촉진이라는개혁목적은있으나실제결정은본문의지표일치판독이다."
+            }
+          ],
+          "counterfactual": "③의지방분산이라는단어만으로합의제라분류하면본문의중앙집약적대표체계기준과충돌한다.명칭보다각지표에주어진관계를따른다.",
+          "confidence": 0.99
+        }
+      }
+    ]
+  },
+  "복원": "BJR 기존 윌리엄슨의 기업 이론 인라인·발문 복원을 승계.",
+  "경계": "BJR 위험 특성 자체의 효과와 대응 후 실제 비용 구별. BJT 의미 있는 성장 차이 미확인은 정확한 수치 동일성 주장이 아님. BJU⑤는 인사권 분리의 지표상 방향이지 실제 독립성 완전 보장 아님."
+}

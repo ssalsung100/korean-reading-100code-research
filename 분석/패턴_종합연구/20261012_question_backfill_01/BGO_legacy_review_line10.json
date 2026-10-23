@@ -1,0 +1,87 @@
+{
+  "source_path": "data/기본기_연구/code_reviews_01.jsonl",
+  "line": 10,
+  "record": {
+    "case_id": "BASIC-C04-LEET-2011-odd-Q15",
+    "code_number": 4,
+    "exam_family": "LEET",
+    "year": 2011,
+    "question_number": 15,
+    "local_question_id": "LEET-2011-odd-Q15",
+    "passage_id": "LEET-2011-odd-Q15-17",
+    "source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+    "official_answer": "⑤",
+    "official_answer_source": "자료/LEET_언어이해/원본/2011/2011_answer_2011_법학적성시험_언어이해_정답표.hwp",
+    "site_code_label": "양화",
+    "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EA%B3%BC%ED%95%99%EC%9D%98+%EC%A7%84%EB%B3%B4",
+    "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%ED%99%94",
+    "passage_structure_codes": [
+      12,
+      19,
+      39
+    ],
+    "primary_solution_codes": [
+      12,
+      39
+    ],
+    "support_codes": [
+      4
+    ],
+    "evidence": [
+      {
+        "location": "본문2문단",
+        "quote": "시간과 공간 같은 물리학의 개념들을 변화",
+        "source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+        "source_record_id": "LEET-2011-odd-Q15",
+        "quote_normalization": "whitespace_only"
+      },
+      {
+        "location": "본문3문단",
+        "quote": "속도가 그다지 크지 않다면",
+        "source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+        "source_record_id": "LEET-2011-odd-Q15",
+        "quote_normalization": "whitespace_only"
+      },
+      {
+        "location": "본문3문단",
+        "quote": "충분히 훌륭한 근사",
+        "source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+        "source_record_id": "LEET-2011-odd-Q15",
+        "quote_normalization": "whitespace_only"
+      }
+    ],
+    "reasoning_steps": [
+      "개념 변화가 있었으므로 모든 개념 유지라는 ③은 불가능하다.",
+      "고전 식과 새 식이 같다는 것이 아니라 낮은 속도 영역에서 계산 결과가 근사한다.",
+      "음속과 비슷한 속도의 조건을 보존한 ⑤가 맞다."
+    ],
+    "distractor_operations": [
+      "① 혼돈이론의 적용 기반을 고전에서 양자로 교환.",
+      "② 원자 내 전자의 적용 이론을 양자에서 고전으로 교환.",
+      "③ 변화한 개념이 있음에도 모든 개념 유지로 확대.",
+      "④ 결과의 근사 일치를 공식 자체의 동일성으로 강화.",
+      "⑤ 참: 저속 조건에서 설명 결과의 근사 유지."
+    ],
+    "nearest_code_boundary": "#4는 ③을 직접 소거하나 정답은 조건부 근사와 비교 기준 #12/#39로 결정된다.",
+    "site_tag_verdict": "보조 코드 수용",
+    "review_status": "single_analyst_reviewed",
+    "site_original_codes": [
+      "양화"
+    ],
+    "site_candidate_id": "CAND-c783b84234753d72",
+    "site_snapshot": {
+      "fetched_at": "2026-09-03T11:19:36+09:00",
+      "catalog_path": "data/sdss_100codes_catalog.json",
+      "raw_path": "data/sdss_code_search_raw/004_양화.html",
+      "current_site_rechecked": false
+    },
+    "site_tag_relation_scope": {
+      "location": "오답③",
+      "interpretation": "정답⑤는 저속 조건과 근사 #12/#39",
+      "site_intended_scope_confirmed": false
+    },
+    "site_untagged_supplement": false,
+    "passage_source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+    "question_source_path": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md"
+  }
+}

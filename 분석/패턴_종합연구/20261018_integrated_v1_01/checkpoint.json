@@ -1,0 +1,100 @@
+{
+  "version": "국어 사고 원리 체계 v1",
+  "date": "2026-10-18",
+  "status": "요청한 v1 구축 완료·후속 연구는 계속 열림",
+  "scope": "기존 완료 연구의 체계화·교육 설계·제작 입력 작성. 신규 blind 및 원장 재검증 없음",
+  "input_directory": "분석/패턴_종합연구/20261016_integrated_research_01",
+  "confirmed_input": {
+    "casebooks": 78,
+    "principles": 63,
+    "integration_decisions": 96,
+    "production_effects": 300,
+    "legacy_candidates": 112,
+    "previous_direct_scene_comparisons": 191
+  },
+  "execution": {
+    "requested_model": "GPT-6 Astra xhigh",
+    "model_switch_or_external_model_call": false,
+    "runtime_model_identity": "실행 도구에서 별도 확인하지 않음; 요청 모델명으로 실제 실행 모델을 증명하지 않음",
+    "git_push": false
+  },
+  "completed": [
+    "필수12산출물 본문 저장",
+    "63원리 실행 명세·7상위 조직·52관계 작성",
+    "112기존 후보 정의/조건/유보 보존",
+    "2202장면의 M0/I1/V2 및 미연결 상태 연결",
+    "16문항15지문군21장면 사후 직접 대조",
+    "300효과 원문 보존·5축 분류",
+    "12잠정 학습 단위와 강의 설계",
+    "4구체 제작 카드 MD/JSON 및 모델 중립 입출력 계약",
+    "연구자 수시 반영 방법·사용 제한·후속 목록",
+    "카드 국소 수치/규약 및 파일 참조 검증"
+  ],
+  "next": [
+    "제작 카드 한 개를 선택하여 소재 사실 자료·독립 설명문·전선지 근거를 갖춘 실제 제작으로 확장",
+    "수업에서 대표/경계의 중간 발화를 관찰해 교육 단위를 갱신",
+    "원리 확장이 필요할 때 AKX 충분 방향, BKP/BMH와P058, 미분류 제안 순으로 좁게 대조"
+  ],
+  "write_policy": "신규 v1 폴더에만 기록. 기존 원본·원장·통합본·동결 자료 수정 금지",
+  "counts": {
+    "principles": 63,
+    "principle_states": {
+      "잠정 안정화": 26,
+      "단독 잠정 후보": 29,
+      "추가 비교 필요": 5,
+      "재분류 검토": 3
+    },
+    "candidate_states": {
+      "A": 12,
+      "C": 58,
+      "D": 25,
+      "B": 17
+    },
+    "scenes": 2202,
+    "unique_questions": 1667,
+    "mapping_status": {
+      "M0만": 1847,
+      "IR 미연결·후보 보존": 195,
+      "I1 포함": 119,
+      "V2 포함": 21,
+      "미분류": 20
+    },
+    "link_levels": {
+      "M0": 9890,
+      "I1": 131,
+      "V2": 23
+    },
+    "current_direct_scenes": 21,
+    "current_direct_questions": 16,
+    "current_direct_groups": 15,
+    "prior_integrated_compared_scenes": 191,
+    "prior_meta_scenes": 2,
+    "effects": 300,
+    "effect_primary_counts": {
+      "국소 정오 변경": 106,
+      "풀이·근거 경로 변경; 정오 유지 범위 별도": 32,
+      "미확정·근거 부분 변경": 76,
+      "평가 대상 변경": 23,
+      "모형·문항 정합성 재설계 필요": 14,
+      "현재 판정 유지": 38,
+      "새 경계 또는 적용 조건 사례": 11
+    },
+    "relations": 52
+  },
+  "current_active_stage": null,
+  "not_completed_or_not_claimed": [
+    "전체2202장면 신규 의미 검증",
+    "전300효과의 수정 전선지 신규 검증",
+    "연구자 내용 검토·학생 학습 효과",
+    "완성 창작 문항·모델 비교 실험",
+    "원유보93건·G024/G370·QZ/SH 등 유보 해소"
+  ],
+  "resume_files": [
+    "README.md",
+    "v1_검증범위와사용제한.md",
+    "다중AI_출제입력카드.md",
+    "미분류와후속검토.md"
+  ],
+  "validation_report": "검증보고서.json",
+  "new_blind_cases": 0
+}

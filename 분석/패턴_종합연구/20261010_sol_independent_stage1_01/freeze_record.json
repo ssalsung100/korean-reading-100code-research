@@ -1,0 +1,28 @@
+{
+  "stage": "1단계 결과 고정 완료",
+  "frozen_at_utc": "2026-10-10T09:07:43.969241+00:00",
+  "payload_file_count": 59,
+  "run_folder": "분석/패턴_종합연구/20261010_sol_independent_stage1_01",
+  "freeze_manifest_sha256": "652b40579baa0d4e9f9eb0e1b0da58b892f330d0d12c61afc4d1140cca893188",
+  "freeze_sha256_list_sha256": "dec061bd627a27dcad951639ad01814fa5913ea8bfbd8a4191a6a32cd662109c",
+  "result_report_sha256": "f51aea643dfb4fd5ea5b8c143293013093fb835a570159bd25d2bf99edcbe9e2",
+  "candidates_sha256": "fed63bc88f17f240742efb5021416e70328cdbcc2acb445006ba61a43028e006",
+  "solutions_sha256": "f7e140ce43dcaf5501c5ebd471762142e4eb66be05429df3dd6bbc885c8ccaad",
+  "summary": {
+    "groups": 6,
+    "questions": 21,
+    "selected": 20,
+    "hold": [
+      "RX"
+    ],
+    "historical_exposure_group": "G095",
+    "historical_exposure_count": 5,
+    "candidate_counts": [
+      4,
+      6,
+      10
+    ]
+  },
+  "integrity_note": "이 기록 자체의 SHA-256을 최종 응답으로 제시해 manifest·결과·개별 파일의 해시 연결을 외부에 고정한다.",
+  "stopped_before_comparison": true
+}

@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BEQ": [
+      {
+        "line": 5782,
+        "case": "BEQ",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G404",
+          "primary": [
+            {
+              "code": 44,
+              "reason": "민생 회복·절용·저축이라는 목적과 정책 수단의 적합성을 판정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 79,
+              "reason": "여유가 있어도 함부로 써서는 안 된다는 규범이③의 제안 범위를 제한한다."
+            },
+            {
+              "code": 19,
+              "reason": "백성의 호소가 조정에 닿지 않는 문제를 조사 파견으로 보완한다는②의 간접 근거."
+            }
+          ],
+          "surface": [
+            {
+              "code": 88,
+              "reason": "재정 절약은 비용 내용이나 최적 규모를 수치로 비교하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 59,
+              "rejection": "문제해결·수단 적합성으로 실질 중첩 가능. 별도 배타 코드로 나눌 필요 없음."
+            },
+            {
+              "code": 37,
+              "rejection": "명시된 정의의 정형 사례를 찾기보다 필자의 처방을 구체 제안으로 연장한다."
+            },
+            {
+              "code": 94,
+              "rejection": "현재 결핍은 배경이지만 결핍이 있어야 행위가 가능하다는 일반 필요조건 추론은 아니다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEQ-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:23:02.812647+09:00"
+      }
+    ],
+    "BET": [
+      {
+        "line": 5796,
+        "case": "BET",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G405",
+          "primary": [
+            {
+              "code": 12,
+              "reason": "해양 지각 섭입→고압 변성 경로를 안데스의 섭입형 경계에 적용한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 25,
+              "reason": "섭입형·충돌형·유지형의 예시를 분류하여 적용 경로를 선택한다."
+            },
+            {
+              "code": 46,
+              "reason": "깊은 섭입과 고압에 따른 암석 생성 기제를 추적한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 69,
+              "reason": "알프스·우랄에 히말라야 모형을 적용하는 유사성은 있으나 안데스②는 명시 분류와 과정 조건의 적용이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 10,
+              "rejection": "충돌 완료를 필수로 보면 오판한다. 실제 요구는 고압에 도달하는 섭입 경로이며 그 조건에서 생성 가능을 적용하는 구조."
+            },
+            {
+              "code": 21,
+              "rejection": "에클로자이트 정의만으로 생성지역을 정하지 못하고 지역별 과정 정보가 필요하다."
+            },
+            {
+              "code": 3,
+              "rejection": "충돌 이전 생성이 근거지만 문항의 새 작업은 다른 경계 유형에 기제를 적용하는 것이다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        },
+        "record_id": "BET-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:27:07.469866+09:00"
+      }
+    ],
+    "BEU": [
+      {
+        "line": 5797,
+        "case": "BEU",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G405",
+          "primary": [
+            {
+              "code": 17,
+              "reason": "북중국/남중국과 한반도 북부/남부의 대응을 유지하여 섭입 주체·대상 역전을 잡는다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 69,
+              "reason": "연결된 동일 충돌대라는 가정 아래 중국의 형성 과정을 한반도에 옮긴다."
+            },
+            {
+              "code": 3,
+              "reason": "2억5천만년 전 동쪽 사건이2억3천만년 전 서쪽보다 먼저임을 확인한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 2,
+              "reason": "⑤의 인장력 설명은 추정 양상을 보존하나 정답은③ 방향 역전이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 92,
+              "rejection": "연대 숫자는 크기·과거 순서 비교이며 실제 산술 계산이 핵심은 아니다."
+            },
+            {
+              "code": 39,
+              "rejection": "지역 비교는 이루어지지만 결정적 관계는 누가 누구 아래로 들어가는지의 역할 대응이다."
+            },
+            {
+              "code": 46,
+              "rejection": "인과 과정 전체보다 그 과정의 행위 주체·대상을 뒤바꾼 오류를 좁혀17로 기술한다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEU-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:27:07.608913+09:00"
+      }
+    ]
+  },
+  "G405": "visual01.jpg지도와visual02.md보기전체직접확인. 사선북중국판이한반도북부,가로선남중국판이남부에연결. 오대산은홍성보다동쪽. 단순히지도북쪽이아래로들어간다고추측하지않음."
+}

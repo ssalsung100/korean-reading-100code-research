@@ -1,0 +1,325 @@
+{
+  "prototype_id": "IR-T003",
+  "scope": "창작규약의상태전이·보고진리값·전체5선지및3변형의자체국소검산;학생난도·외부독립검토아님",
+  "checks": [
+    {
+      "condition": "원문시제품",
+      "trace": {
+        "09:00": {
+          "kind": "line",
+          "mode": "input",
+          "positive": true,
+          "queued_before": false,
+          "queued_after": true,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:01": {
+          "kind": "mode",
+          "mode": "report",
+          "queued": true,
+          "snapshot": true
+        },
+        "09:02": {
+          "kind": "line",
+          "mode": "report",
+          "positive": true,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": true,
+          "physical_disposal_proven": false
+        },
+        "09:03": {
+          "kind": "line",
+          "mode": "report",
+          "positive": false,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": false,
+          "physical_disposal_proven": false
+        },
+        "09:04": {
+          "kind": "mode",
+          "mode": "input",
+          "queued": true,
+          "snapshot": null
+        },
+        "09:05": {
+          "kind": "line",
+          "mode": "input",
+          "positive": false,
+          "queued_before": true,
+          "queued_after": false,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:06": {
+          "kind": "mode",
+          "mode": "report",
+          "queued": false,
+          "snapshot": false
+        },
+        "09:07": {
+          "kind": "line",
+          "mode": "report",
+          "positive": true,
+          "queued_before": false,
+          "queued_after": false,
+          "snapshot": false,
+          "truth_value": false,
+          "physical_disposal_proven": false
+        }
+      },
+      "option_truths": [
+        false,
+        false,
+        false,
+        true,
+        false
+      ],
+      "answers": [
+        4
+      ]
+    },
+    {
+      "condition": "E218입력전환삭제",
+      "trace": {
+        "09:00": {
+          "kind": "line",
+          "mode": "input",
+          "positive": true,
+          "queued_before": false,
+          "queued_after": true,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:01": {
+          "kind": "mode",
+          "mode": "report",
+          "queued": true,
+          "snapshot": true
+        },
+        "09:02": {
+          "kind": "line",
+          "mode": "report",
+          "positive": true,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": true,
+          "physical_disposal_proven": false
+        },
+        "09:03": {
+          "kind": "line",
+          "mode": "report",
+          "positive": false,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": false,
+          "physical_disposal_proven": false
+        },
+        "09:05": {
+          "kind": "line",
+          "mode": "report",
+          "positive": false,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": false,
+          "physical_disposal_proven": false
+        },
+        "09:06": {
+          "kind": "mode",
+          "mode": "report",
+          "queued": true,
+          "snapshot": true
+        },
+        "09:07": {
+          "kind": "line",
+          "mode": "report",
+          "positive": true,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": true,
+          "physical_disposal_proven": false
+        }
+      },
+      "option_truths": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "answers": []
+    },
+    {
+      "condition": "E219첫보고전환삭제",
+      "trace": {
+        "09:00": {
+          "kind": "line",
+          "mode": "input",
+          "positive": true,
+          "queued_before": false,
+          "queued_after": true,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:02": {
+          "kind": "line",
+          "mode": "input",
+          "positive": true,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:03": {
+          "kind": "line",
+          "mode": "input",
+          "positive": false,
+          "queued_before": true,
+          "queued_after": false,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:04": {
+          "kind": "mode",
+          "mode": "input",
+          "queued": false,
+          "snapshot": null
+        },
+        "09:05": {
+          "kind": "line",
+          "mode": "input",
+          "positive": false,
+          "queued_before": false,
+          "queued_after": false,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:06": {
+          "kind": "mode",
+          "mode": "report",
+          "queued": false,
+          "snapshot": false
+        },
+        "09:07": {
+          "kind": "line",
+          "mode": "report",
+          "positive": true,
+          "queued_before": false,
+          "queued_after": false,
+          "snapshot": false,
+          "truth_value": false,
+          "physical_disposal_proven": false
+        }
+      },
+      "option_truths": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "answers": [
+        2
+      ]
+    },
+    {
+      "condition": "E220③하나거짓",
+      "trace": {
+        "09:00": {
+          "kind": "line",
+          "mode": "input",
+          "positive": true,
+          "queued_before": false,
+          "queued_after": true,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:01": {
+          "kind": "mode",
+          "mode": "report",
+          "queued": true,
+          "snapshot": true
+        },
+        "09:02": {
+          "kind": "line",
+          "mode": "report",
+          "positive": true,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": true,
+          "physical_disposal_proven": false
+        },
+        "09:03": {
+          "kind": "line",
+          "mode": "report",
+          "positive": false,
+          "queued_before": true,
+          "queued_after": true,
+          "snapshot": true,
+          "truth_value": false,
+          "physical_disposal_proven": false
+        },
+        "09:04": {
+          "kind": "mode",
+          "mode": "input",
+          "queued": true,
+          "snapshot": null
+        },
+        "09:05": {
+          "kind": "line",
+          "mode": "input",
+          "positive": false,
+          "queued_before": true,
+          "queued_after": false,
+          "snapshot": null,
+          "truth_value": null,
+          "physical_disposal_proven": false
+        },
+        "09:06": {
+          "kind": "mode",
+          "mode": "report",
+          "queued": false,
+          "snapshot": false
+        },
+        "09:07": {
+          "kind": "line",
+          "mode": "report",
+          "positive": true,
+          "queued_before": false,
+          "queued_after": false,
+          "snapshot": false,
+          "truth_value": false,
+          "physical_disposal_proven": false
+        }
+      },
+      "option_truths": [
+        false,
+        false,
+        true,
+        true,
+        false
+      ],
+      "answers": [
+        3,
+        4
+      ]
+    }
+  ]
+}

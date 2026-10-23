@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-15",
+  "run": "두 번째 이어서 실행",
+  "status": "진행 중·중간 인계 저장",
+  "stop_reason": "단일 응답의 컨텍스트·출력 작업 예산에 따른 중간 인계. 연구 완료나 배치 완료에 의한 종료가 아님. 구체 quota 잔여치와 emergency 경고는 관측되지 않음.",
+  "authoritative_checkpoint": "checkpoint.json",
+  "previous_session_handoff": "session_handoff_20261015.json",
+  "start": {
+    "reviewed_questions": 543,
+    "scenes": 870,
+    "next_order": 544,
+    "next_question": "U0225-Q03",
+    "last_saved_author": "author_014h.py"
+  },
+  "session_completed": {
+    "orders": [
+      544,
+      573
+    ],
+    "questions_added": 30,
+    "exam": "LEET",
+    "scenes_added": 52,
+    "option_rows_checked": 150,
+    "new_raw_duplicates": 0
+  },
+  "current": {
+    "reviewed_questions": 573,
+    "target_questions": 1077,
+    "new_scenes": 922,
+    "remaining_questions": 504,
+    "by_exam": {
+      "KICE": {
+        "target": 496,
+        "reviewed": 496,
+        "deeply_extracted": 496,
+        "scenes": 788,
+        "unresolved_questions": 20,
+        "remaining": 0
+      },
+      "LEET": {
+        "target": 379,
+        "reviewed": 77,
+        "deeply_extracted": 77,
+        "scenes": 134,
+        "unresolved_questions": 6,
+        "remaining": 302
+      },
+      "MEET": {
+        "target": 202,
+        "reviewed": 0,
+        "deeply_extracted": 0,
+        "scenes": 0,
+        "unresolved_questions": 0,
+        "remaining": 202
+      }
+    },
+    "unresolved_questions": 26
+  },
+  "last_saved_author": "author_015e.py",
+  "last_saved_question": "U0306-Q01",
+  "last_saved_case": "AXP",
+  "last_audit": "audit_014.py",
+  "audited_batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "audit_14": {
+    "sample_questions": 14,
+    "sample_scenes": 25,
+    "sample_options": 70,
+    "amendments": [
+      "QBF01-AMD038",
+      "QBF01-AMD039",
+      "QBF01-AMD040",
+      "QBF01-AMD041"
+    ],
+    "developments": [
+      "QBF01-DEV048",
+      "QBF01-DEV049",
+      "QBF01-DEV050",
+      "QBF01-DEV051"
+    ],
+    "candidate_review": "BFP013을 ANT 단일 문항의 잠정 후보로 유지"
+  },
+  "active_batch": {
+    "number": 15,
+    "saved_questions": 13,
+    "semantic_sample_audit_complete": false,
+    "next_audit_at_reviewed_questions": 600
+  },
+  "new_unresolved": [
+    {
+      "question": "U0295-Q02",
+      "case": "AWI",
+      "official_answer": 3,
+      "issue": "개입량과 독재 비용 x좌표는 다른 변수. 비용함수가 바뀌면 개입 증가·x감소가 양립하므로 기존 제도순서 해석을 실제좌표의 보편 방향 법칙으로 확대하지 않음.",
+      "verification": "AWI_countermodel_verification.json",
+      "next": "15배치 후속 실제 사례에서 축과 선택 변수를 비교. 공식③ 유지."
+    },
+    {
+      "question": "U0301-Q03",
+      "case": "AXB",
+      "official_answer": 3,
+      "issue": "외곽 평균 밀도 증가→반지각 절대 두께 증가의 유일성에는 추가 제약이 필요. M/R·성분밀도·지각두께 고정과 세 관측 변화 모두를 만족하면서 반지각두께1→0.9인 가상 동심층 모형 성립.",
+      "verification": "AXB_countermodel_verification.json",
+      "next": "600경계 감사에서 검산·해석 재검토. 공식③과 의도된 국소 보완 해석 유지."
+    }
+  ],
+  "source_repairs": [
+    {
+      "question": "U0303-Q03",
+      "case": "AXH",
+      "file": "AXH_source_with_restored_greek.json",
+      "mapping": "source_overrides.json",
+      "repair": "④α·⑤β보다를 공식 렌더 직접 확인하여 새 폴더 파생본에 복원. 원본 불변.",
+      "evidence": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_003.png"
+    }
+  ],
+  "important_limits": [
+    "AWI의 수학 반례와AXB의 구형층 모형은 기출 관측값이나 실제 정책·수성의 새 측정 결과가 아님. 공식답을 바꾸지 않고 일반화 조건을 점검하는 자료.",
+    "AWE 기존 BASIC-C46-LEET-2023-Q13 기록을 연결하되 고유문항1회 계수. AWE/AWF의 인접 페이지 노출 이력 유지.",
+    "AWM 질량·출력은 적절히 조율할 때 양대역 개선 가능. 아무 증가량이나 개선 보장으로 확대하지 않음. 불필요한 투과율 증가를 다른 변수로 상쇄할 수 있음과 개선 기여 항목은 다름.",
+    "AWR 원TIFF6개를 새폴더PNG로 무손실 표시해 직접 판독. B의 미표시 시작연도를1920년대로 추정하지 않음.",
+    "AWP/AWY/AWV/AXE/AXG/AXK/AXO의 보기는 기존 보충MD 전체 직접 열람. 신규 공식 이미지 검증과 구별.",
+    "AXB 기존hold→가정복원→유효blind→answer 순서 보존. AXF/G/H의 helper답태그노출·경로이탈·strict blind 제외 이력 보존.",
+    "15배치 아직 표본감사하지 않음. 다음 경계600에서 AXB 새유보와 최근후보연결을 포함해 감사."
+  ],
+  "next": {
+    "order": 574,
+    "unique_question": "U0306-Q03",
+    "case_ids": [
+      "AXR"
+    ],
+    "read_but_not_saved": false,
+    "suggested_author": "author_015f.py",
+    "resume_command": "python3 분석/패턴_종합연구/20261012_question_backfill_01/backfill_io.py packet 574 2"
+  },
+  "save_state": {
+    "read_but_not_saved": [],
+    "authored_but_not_saved": [],
+    "last_validation": "author_015e_validation.json",
+    "verification_scope": "각새author의원문구간·해시·선지수·참조검증 및현재30개raw메타데이터확인.보호원장전수hash검사없음.",
+    "execution_note": "author_014k 인용2건은preflight가저장전에차단해원문표현으로수정후저장. author_015b 실행은시간초과yield뒤기저장상태를확인했으며재실행하지않음."
+  },
+  "constraints": {
+    "results_only_in_backfill_folder": true,
+    "KICE_reanalysis": false,
+    "original_assets_changed": false,
+    "other_models_called": false,
+    "automatic_git_push": false,
+    "holds_preserved": [
+      "G024",
+      "G370"
+    ]
+  }
+}

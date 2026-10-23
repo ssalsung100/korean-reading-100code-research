@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AQB": [
+      {
+        "line": 4067,
+        "record_id": "AQB-independent_code-20260927-01",
+        "case": "AQB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:51:32.823242+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 8,
+              "reason": "여러비판중글쓴이가명시한중요도우선순위확인"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 63,
+              "reason": "클락설명의불충분성비판"
+            },
+            {
+              "code": 60,
+              "reason": "작은예외반례보다관습의의미해석누락을주논거로배치"
+            }
+          ],
+          "surface": [
+            {
+              "code": 36,
+              "scope": "③",
+              "reason": "비예술누드는예외사례이나가장중요한비판은아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 4,
+              "refutation": "모든누드예술이라는전칭예외만찾으면③에멈춰중요도발문놓침"
+            },
+            {
+              "code": 75,
+              "refutation": "학자간입장차이가있어도왜핵심불만인지논거서열필요"
+            },
+            {
+              "code": 16,
+              "refutation": "누드정의분석은배경이나가장중요한이유라는과업은우선순위판정"
+            }
+          ],
+          "counterfactual_probe": "2문단큰문제아님을가장큰문제로고치면③의선택우선순위가달라짐.비판의사실적타당성과글의중요도는별개.",
+          "confidence": 0.97,
+          "passage_group": "G280",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AQC": [
+      {
+        "line": 4068,
+        "record_id": "AQC-independent_code-20260927-01",
+        "case": "AQC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:51:32.824014+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 100,
+              "reason": "복장이라는비유를전시를위한가장·구성으로해석"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "벌거벗음과누드의문맥정의구별"
+            },
+            {
+              "code": 80,
+              "reason": "타인의시선속대상으로보이는방식"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "모델의수치심이나도덕성을평가하는표현아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 10,
+              "refutation": "가식표정이라는특정연기를모든누드의필요조건으로추가못함"
+            },
+            {
+              "code": 17,
+              "refutation": "실제옷/몸의물리적범주만보면④처럼비유를문자화"
+            },
+            {
+              "code": 69,
+              "refutation": "새사실을유비로도출하기보다표현의의미를문맥에서해제하는단계"
+            }
+          ],
+          "counterfactual_probe": "복장을옷한벌로치환하면피부·체모자체의전시가장이라는본문근거가사라짐.비유의공유속성은꾸며짐이다.",
+          "confidence": 0.96,
+          "passage_group": "G280",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AQE": [
+      {
+        "line": 4079,
+        "record_id": "AQE-independent_code-20260927-01",
+        "case": "AQE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:55:34.877417+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 60,
+              "reason": "법칙과초기조건에서현상을필연유도하는논증형식에사례대조"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 2,
+              "reason": "필연성과개연성구별"
+            },
+            {
+              "code": 56,
+              "reason": "제시된과학적설명모형의요건"
+            },
+            {
+              "code": 37,
+              "reason": "설명모형에맞는사례선택"
+            }
+          ],
+          "surface": [
+            {
+              "code": 46,
+              "reason": "과학적원인설명소재라는것만으로모형적합성보장안함"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 44,
+              "refutation": "기능/목적제시만으로법칙적필연도출을대신못함"
+            },
+            {
+              "code": 77,
+              "refutation": "관측반복에서법칙을일반화하는단계가아닌주어진일반관계의적용"
+            },
+            {
+              "code": 10,
+              "refutation": "생존에산소필요하다는③만으로폐존재가연역되는것은아님.필요기능에서특정기관존재도출은다른논증"
+            }
+          ],
+          "counterfactual_probe": "⑤가능성이가장높다를구체초기조건과법칙에따른필연적발생으로구성하면모형에가까워질수있지만현선지는그보장을주지않음.",
+          "confidence": 0.97,
+          "passage_group": "G281",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "예술비평은필자가분석한관습·표현기능의범위에한정.AQE는제시된연역모형의요건부합판정이며이모형이모든과학설명을완전히포괄한다는승인이아님.실제응결의모든물리조건을새로측정·검증한것도아님."
+}

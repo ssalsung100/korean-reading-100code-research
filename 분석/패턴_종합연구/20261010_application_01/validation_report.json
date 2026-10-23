@@ -1,0 +1,163 @@
+{
+  "passed": true,
+  "revised_events": 46,
+  "citation_audits": 43,
+  "choice_links_checked": 66,
+  "answer_routes_checked": 39,
+  "added_answer_events": 3,
+  "boundary_links_checked": 22,
+  "patterns_with_A_to_F_analysis": 13,
+  "markdown_file_links_checked": 148,
+  "discovery_only": true,
+  "validation_semantic_analysis": false,
+  "other_models_called": false,
+  "hold_groups_entered": [],
+  "prototype_cases": {
+    "갑_변경전": [
+      true,
+      true,
+      true
+    ],
+    "갑_변경후": [
+      false,
+      true,
+      true
+    ],
+    "을_변경전": [
+      false,
+      false,
+      false
+    ],
+    "을_변경후": [
+      false,
+      true,
+      true
+    ],
+    "병_변경후": [
+      false,
+      false,
+      false
+    ]
+  },
+  "prototype_unknown_fields_all_completions_checked": true,
+  "prototype_counterexamples": {
+    "시각대응이_없으면_최종채택_불가": [
+      {
+        "S": false,
+        "T": false,
+        "I": true,
+        "M": true,
+        "D": false,
+        "C": true,
+        "A": true
+      },
+      {
+        "S": true,
+        "T": false,
+        "I": true,
+        "M": true,
+        "D": false,
+        "C": true,
+        "A": true
+      }
+    ],
+    "출처만_확인되면_직접채택": [
+      {
+        "S": true,
+        "T": false,
+        "I": false,
+        "M": false,
+        "D": false,
+        "C": false,
+        "A": false
+      },
+      {
+        "S": true,
+        "T": false,
+        "I": false,
+        "M": true,
+        "D": false,
+        "C": false,
+        "A": false
+      },
+      {
+        "S": true,
+        "T": false,
+        "I": true,
+        "M": false,
+        "D": false,
+        "C": false,
+        "A": false
+      },
+      {
+        "S": true,
+        "T": false,
+        "I": true,
+        "M": true,
+        "D": false,
+        "C": true,
+        "A": true
+      }
+    ],
+    "내용일치면_교차채택": [
+      {
+        "S": false,
+        "T": false,
+        "I": false,
+        "M": true,
+        "D": false,
+        "C": false,
+        "A": false
+      },
+      {
+        "S": false,
+        "T": true,
+        "I": false,
+        "M": true,
+        "D": false,
+        "C": false,
+        "A": false
+      },
+      {
+        "S": true,
+        "T": false,
+        "I": false,
+        "M": true,
+        "D": false,
+        "C": false,
+        "A": false
+      },
+      {
+        "S": true,
+        "T": true,
+        "I": false,
+        "M": true,
+        "D": true,
+        "C": false,
+        "A": true
+      }
+    ]
+  },
+  "prototype_condition_mutations": {
+    "갑_독립성도_취소": [
+      false,
+      false,
+      false
+    ],
+    "을_새기록도_복사": [
+      false,
+      false,
+      false
+    ],
+    "병_시각대응_확인": [
+      true,
+      false,
+      true
+    ]
+  },
+  "limitations": [
+    "문자열·좌표 점검은 인용의 의미적 충분성을 자동 보증하지 않음",
+    "창작 문항의 논리 모형은 제작자의 본문 해석에 기초함; 독립 독자·학생 검증 아님",
+    "보존 해시 검사는 preservation_report.json으로 별도 기록"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "status": "[A]의 폐쇄적 의미 관계에 한정한 사후 표상",
+  "symbols": {
+    "O": "명령",
+    "F": "금지",
+    "P": "적극 허용",
+    "N": "소극 허용"
+  },
+  "rules": [
+    "O↔¬N",
+    "F↔¬P",
+    "O→P",
+    "F→N"
+  ],
+  "allowed_rows": [
+    {
+      "O": true,
+      "F": false,
+      "P": true,
+      "N": false,
+      "name": "명령"
+    },
+    {
+      "O": false,
+      "F": true,
+      "P": false,
+      "N": true,
+      "name": "금지"
+    },
+    {
+      "O": false,
+      "F": false,
+      "P": true,
+      "N": true,
+      "name": "양쪽 허용"
+    }
+  ],
+  "excluded_row": {
+    "O": false,
+    "F": false,
+    "P": false,
+    "N": false,
+    "reason": "단순 양립불가만으로는 배제 못하나[A]의 부정관계·포괄성과 양립하지 않음"
+  },
+  "choice4": "전반 O→¬N은 참,후반이 부정하는 ¬O→N은 실제로 참이므로 선지는 틀림.",
+  "scope": "실제 모든 법체계나 뒤 문단의 개방 체계에 일괄 적용하지 않음."
+}

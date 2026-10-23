@@ -1,0 +1,164 @@
+{
+  "samples": [
+    {
+      "split": "validation",
+      "passage_group": "G064",
+      "passage_id": "KICE-2014-6월_모평B-Q28-29-S007~008",
+      "exam_family": "KICE",
+      "academic_year": 2014,
+      "case_ids": [
+        "JN",
+        "JO"
+      ],
+      "question_ids": [
+        "KICE-2014-6월_모평B-Q28-29-S007~008-Q28",
+        "KICE-2014-6월_모평B-Q28-29-S007~008-Q29"
+      ],
+      "source_paths": [],
+      "blind_source_paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/JN.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/JO.json"
+      ]
+    },
+    {
+      "split": "validation",
+      "passage_group": "G095",
+      "passage_id": "KICE-2017-수능-Q16-20-S065~069",
+      "exam_family": "KICE",
+      "academic_year": 2017,
+      "case_ids": [
+        "NK",
+        "NL",
+        "NM",
+        "NN",
+        "NO"
+      ],
+      "question_ids": [
+        "KICE-2017-수능-Q16-20-S065~069-Q16",
+        "KICE-2017-수능-Q16-20-S065~069-Q17",
+        "KICE-2017-수능-Q16-20-S065~069-Q18",
+        "KICE-2017-수능-Q16-20-S065~069-Q19",
+        "KICE-2017-수능-Q16-20-S065~069-Q20"
+      ],
+      "source_paths": [],
+      "blind_source_paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/NK.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NL.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NM.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NN.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NO.json"
+      ]
+    },
+    {
+      "split": "validation",
+      "passage_group": "G119",
+      "passage_id": "KICE-2019-6월_모평-Q35-38-S084~087",
+      "exam_family": "KICE",
+      "academic_year": 2019,
+      "case_ids": [
+        "RV",
+        "RW",
+        "RX",
+        "RY"
+      ],
+      "question_ids": [
+        "KICE-2019-6월_모평-Q35-38-S084~087-Q35",
+        "KICE-2019-6월_모평-Q35-38-S084~087-Q36",
+        "KICE-2019-6월_모평-Q35-38-S084~087-Q37",
+        "KICE-2019-6월_모평-Q35-38-S084~087-Q38"
+      ],
+      "source_paths": [],
+      "blind_source_paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/RV.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/RW.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/RX.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/RY.json"
+      ]
+    },
+    {
+      "split": "validation",
+      "passage_group": "G157",
+      "passage_id": "KICE-2024-6월_모평-Q04-07-S126~129",
+      "exam_family": "KICE",
+      "academic_year": 2024,
+      "case_ids": [
+        "YR",
+        "YS",
+        "YT",
+        "YU"
+      ],
+      "question_ids": [
+        "KICE-2024-6월_모평-Q04-07-S126~129-Q04",
+        "KICE-2024-6월_모평-Q04-07-S126~129-Q05",
+        "KICE-2024-6월_모평-Q04-07-S126~129-Q06",
+        "KICE-2024-6월_모평-Q04-07-S126~129-Q07"
+      ],
+      "source_paths": [],
+      "blind_source_paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/YR.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/YS.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/YT.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/YU.json"
+      ]
+    },
+    {
+      "split": "validation",
+      "passage_group": "G350",
+      "passage_id": "LEET-2015-odd-Q04-06",
+      "exam_family": "LEET",
+      "academic_year": 2015,
+      "case_ids": [
+        "AYE",
+        "AYF",
+        "AYG"
+      ],
+      "question_ids": [
+        "LEET-2015-odd-Q04",
+        "LEET-2015-odd-Q05",
+        "LEET-2015-odd-Q06"
+      ],
+      "source_paths": [
+        "자료/LEET_언어이해/텍스트/2015/2015_question_odd.md"
+      ],
+      "blind_source_paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/AYE.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/AYF.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/AYG.json"
+      ]
+    },
+    {
+      "split": "validation",
+      "passage_group": "G310",
+      "passage_id": "MEET-2010-Q05-07",
+      "exam_family": "MEET",
+      "academic_year": 2010,
+      "case_ids": [
+        "ATN",
+        "ATO",
+        "ATP"
+      ],
+      "question_ids": [
+        "MEET-2010-Q05",
+        "MEET-2010-Q06",
+        "MEET-2010-Q07"
+      ],
+      "source_paths": [
+        "data/meet_questions.jsonl"
+      ],
+      "blind_source_paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/ATN.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/ATO.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/ATP.json"
+      ]
+    }
+  ],
+  "question_count": 21,
+  "holds": [
+    "G024",
+    "G370"
+  ],
+  "fixed_manifest": "분석/패턴_종합연구/20261009_pilot_01/sample_manifest.json",
+  "fixed_manifest_sha256": "569a08db645c9236d9ef4ce54b4a34b86c5aee1a5fc5d91f5894ddba4bfccac5",
+  "separation": "고정 표본 목록을 코드로 파싱해 허용 ID·출처 필드만 새 파일로 분리. 나머지 값은 모델에 출력하지 않음.",
+  "G095": "이전 Astra의 정답·코드 노출 이력은 사용자 고지로만 인지. 상세 기록 열람 금지. 5문항 별도 집계."
+}

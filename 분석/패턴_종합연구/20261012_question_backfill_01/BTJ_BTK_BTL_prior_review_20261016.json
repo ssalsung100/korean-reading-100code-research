@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BTJ": [
+      {
+        "line": 7567,
+        "record_id": "BTJ-independent_code-20261005-01",
+        "case": "BTJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:42:34.579140+00:00",
+        "payload": {
+          "passage_group": "G535",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 15,
+              "reason": "이해가능성을요구받는기준이국민각자/추상일반인/전문가로변하면서입법부담이달라짐을판정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 4,
+              "reason": "국민각자라는개별전칭요구와추상평균기준을구별한다."
+            },
+            {
+              "code": 3,
+              "reason": "한차례타협과재차부담감소라는단계를보존한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 86,
+              "reason": "부담감소의정성적서열이지만수치비교는없다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 19,
+              "rejection": "전문가보충이실제대안으로있지만정답③은그이전첫타협의기준완화다."
+            },
+            {
+              "code": 12,
+              "rejection": "재차라는말을형식조건문의역으로처리하지않고명시된연속완화관계를읽는다."
+            }
+          ],
+          "confidence": 0.97
+        }
+      }
+    ],
+    "BTK": [
+      {
+        "line": 7578,
+        "record_id": "BTK-independent_code-20261005-01",
+        "case": "BTK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:48:30.341538+00:00",
+        "payload": {
+          "passage_group": "G536",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 75,
+              "cluster": "C074_075",
+              "reason": "서로다른근대지식인론에포함된보편성추구와지위차이를정확히귀속한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 2,
+              "reason": "탈근대집단지성의조건부가능성을완료성과로강화한⑤를배제한다."
+            },
+            {
+              "code": 3,
+              "reason": "중세사례와드레퓌스부각시점을구분한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 25,
+              "reason": "지식인분류가있으나③판정은주어진공통역할재진술이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 77,
+              "rejection": "근대전체의외부역사실제를귀납한것이아니라본문에제시된공통이상을읽는다."
+            },
+            {
+              "code": 63,
+              "rejection": "이론을지지하는새사실의효과를평가하지않는다."
+            }
+          ],
+          "confidence": 0.95
+        }
+      }
+    ],
+    "BTL": [
+      {
+        "line": 7579,
+        "record_id": "BTL-independent_code-20261005-01",
+        "case": "BTL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:48:49.966129+00:00",
+        "payload": {
+          "passage_group": "G536",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 5,
+              "reason": "새매체속구술적특성의재활성과지식권력탈중심화라는변화양상을유지한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 93,
+              "reason": "독자선택·공유·논박이라는지식전파구조를확인한다."
+            },
+            {
+              "code": 15,
+              "reason": "부르디외의지배/피지배판단기준이서로다름을읽는다."
+            },
+            {
+              "code": 3,
+              "reason": "동시지위의차이를시간적강등으로바꾸지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 13,
+              "reason": "다른기준의지배/피지배는양립가능하다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 86,
+              "rejection": "권력이커졌다작아졌다는방향이있지만정량비교가주과제는아니다."
+            },
+            {
+              "code": 46,
+              "rejection": "새매체효과는있으나⑤의새억압체계형성을원문밖인과결론으로추가하면안된다."
+            }
+          ],
+          "confidence": 0.95
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인. BTJ[A]는 제공된 텍스트에서 표시된 마지막 문단을 근거로 하며 새 시각 판독 성과 없음.",
+  "범위": "BTK의 보편성 공통점이 세 이론의 보편성 내용·계급관의 완전 동일성을 뜻하지 않음. BTL의 지배계급/피지배분파는 기준·관계 차이를 유지하며 시간적 전락으로 바꾸지 않음."
+}

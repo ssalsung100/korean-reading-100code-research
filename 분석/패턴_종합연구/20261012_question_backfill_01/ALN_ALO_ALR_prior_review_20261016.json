@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ALN": [
+      {
+        "line": 3533,
+        "record_id": "ALN-independent_code-20260927-01",
+        "case": "ALN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:15:38.189328+00:00",
+        "payload": {
+          "primary": [
+            15
+          ],
+          "primary_candidates": [
+            15,
+            16,
+            10
+          ],
+          "working_primary": 15,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            17
+          ],
+          "surface": [
+            100
+          ],
+          "judgment_reason": "세밀한 사물 묘사라는 기법의 요건을 실제 텍스트와 대조한다.인물의 표정·행동 묘사를 특정 사물의 세밀 묘사로 대체하지 않는다.",
+          "competing_codes": [
+            {
+              "code": 16,
+              "verdict": "공동 후보",
+              "reason": "기법의 의미를 분석하여 등장과 묘사를 구별."
+            },
+            {
+              "code": 10,
+              "verdict": "공동 후보",
+              "reason": "해당 기법이라 하려면 사물의 구체적 세부 묘사 근거가 있어야 한다는 요건 검사."
+            },
+            {
+              "code": 17,
+              "verdict": "보조",
+              "reason": "묘사 대상을 사물/인물로 귀속."
+            }
+          ],
+          "minimal_change_test": "②의 특정 사물 세밀 묘사를 인물의 표정과 행동의 구체 묘사로 바꾸면 눈물·분·모성행동 등 근거를 찾을 수 있다.",
+          "confidence": 0.92,
+          "passage_group": "G239",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "ALO": [
+      {
+        "line": 3534,
+        "record_id": "ALO-independent_code-20260927-01",
+        "case": "ALO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:15:38.190001+00:00",
+        "payload": {
+          "primary": [
+            80
+          ],
+          "primary_candidates": [
+            80,
+            78
+          ],
+          "working_primary": 80,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            46
+          ],
+          "surface": [
+            97
+          ],
+          "judgment_reason": "아버지 인생의 가장 환한 때라는 나의 평가를 아버지의 진실한 사랑을 인정하는 인식으로 복원한다.",
+          "competing_codes": [
+            {
+              "code": 78,
+              "verdict": "공동 후보",
+              "reason": "아버지의 사랑이라는 마음과 그로 인한 행동을 읽는 행위·동기 설명."
+            },
+            {
+              "code": 46,
+              "verdict": "보조",
+              "reason": "이별 후 음주·고통은 사랑의 강도를 지지하는 단서이지 인과만으로유일심리를확정하는실험은아님."
+            },
+            {
+              "code": 97,
+              "verdict": "①오답 관련",
+              "reason": "나의 추격을 이별 저지 의도로 만들지 않는다.⑤는숨은발화의도를요구하지않음."
+            }
+          ],
+          "minimal_change_test": "나의 가장 환한 때라는 평가를 삭제하면 음주만으로 진실한 사랑을 확정하는 근거는 약해진다.본문의 명시 평가를 우선한다.",
+          "confidence": 0.94,
+          "passage_group": "G239",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "ALR": [
+      {
+        "line": 3548,
+        "record_id": "ALR-independent_code-20260927-01",
+        "case": "ALR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:18:07.623801+00:00",
+        "payload": {
+          "primary": [
+            64
+          ],
+          "primary_candidates": [
+            64,
+            17
+          ],
+          "working_primary": 64,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            2
+          ],
+          "surface": [
+            59
+          ],
+          "judgment_reason": "제목·부제가 설명 대상의 범위와 성취 수준을 맞추는지 검사한다.④만 생물 기구의 나노 제조 이용과 구체 사례를 함께 포괄.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "공동 후보",
+              "reason": "나노선·소자제조·회로설계의 대상범위를 구별."
+            },
+            {
+              "code": 2,
+              "verdict": "보조",
+              "reason": "③의 실용화는 미래 기대를 완료 성취로 강화."
+            },
+            {
+              "code": 59,
+              "verdict": "배경",
+              "reason": "기존 제조의 한계를 넘는 방법이지만 제목의 범위 판정에문제-해결재구성이독점적필수는아님."
+            }
+          ],
+          "minimal_change_test": "③의실용화를가능성으로바꿔도트랜지스터에좁힌범위문제는남는다.",
+          "confidence": 0.96,
+          "passage_group": "G240",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "MEET기존미추출대상.전체지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "노출": "과거 raw의strict_blind_eligible=true를수정하지않음.이번은기존답·풀이열람후사후보완이므로새blind실적0.",
+  "코드이력": "기존 unique_primary_confirmed=false 및 공동 후보들을 원문 그대로 보존. 이번 장면 연결로 그 후보 중 하나를 유일 코드로 확정하지 않음.",
+  "정답출처": "기존 answer_check의 official-page-verified canonical transcript 연결을 승계. 이번 공식문제지·정답표 이미지 전수 재대조 아님."
+}

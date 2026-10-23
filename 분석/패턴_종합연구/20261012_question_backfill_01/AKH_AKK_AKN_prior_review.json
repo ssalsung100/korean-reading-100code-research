@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AKH": [
+      {
+        "line": 3383,
+        "record_id": "AKH-independent_code-20260926-01",
+        "case": "AKH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T12:29:08.777408+00:00",
+        "payload": {
+          "primary": [
+            12
+          ],
+          "auxiliary": [
+            64,
+            79
+          ],
+          "surface": [
+            44
+          ],
+          "judgment_reason": "법적 근거·사회적 수용 준비가 없는 경우 신인의무 대상을 확장하지 말라는 조건부 규범을④가 누락한다. 공동체 지향의 궁극 원칙을 회사법상 즉각적 의무 확장에 적용한 영역 교체도 포함.",
+          "competing_codes": [
+            {
+              "code": 64,
+              "verdict": "보조·주 후보",
+              "reason": "회사법과 회사법 바깥 영역을 나누는 것이④ 오류 설명에 중요.12의 준비 조건 검사와 겹치며 유일 주 우선성 단정 안 함."
+            },
+            {
+              "code": 79,
+              "verdict": "보조",
+              "reason": "확장해서는 안 된다는 금지와 한정해서는 안 된다는 금지 대상 반전을 확인."
+            },
+            {
+              "code": 44,
+              "verdict": "배경",
+              "reason": "주주 보호가 공동체 이익을 위한 출발점이지만④에서는 준비 없는 상황에서 범위를 확대한다는 조건 오류가 직접적."
+            },
+            {
+              "code": 4,
+              "verdict": "주 기각",
+              "reason": "유일한 청구권 부정의 양화 자체는 벌리와 맞으며 그로부터 무조건 의무 확대를 도출한 연결이 문제."
+            }
+          ],
+          "minimal_change_test": "④의 결론을 준비 없는 상황에서는 주주로 한정해야 한다로 바꾸면 본문의 현실적 제약을 복구한다. 궁극 공동체 지향을 철회할 필요는 없다.",
+          "confidence": 0.94,
+          "passage_group": "G228",
+          "sdss_seen": false,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AKK": [
+      {
+        "line": 3396,
+        "record_id": "AKK-independent_code-20260926-01",
+        "case": "AKK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T12:32:21.448033+00:00",
+        "payload": {
+          "primary": [
+            19
+          ],
+          "auxiliary": [
+            44,
+            62
+          ],
+          "surface": [
+            79
+          ],
+          "judgment_reason": "헌법 장치 자체로는 민주주의 보호에 충분하지 않고 불문 규범이 중요한 역할을 더한다는 보완 구조가⑤의 핵심이다. 규범의 명칭만 확인하는 것이 아니라 헌법 목적을 실현하는 데 부족한 부분을 메운 역할을 읽는다.",
+          "competing_codes": [
+            {
+              "code": 44,
+              "verdict": "보조",
+              "reason": "민주주의 보호라는 헌법 목적과 규범의 기여를 연결한다. 단순 수단 나열이 아니라 기존 장치의 불충분성과 추가 역할을 포함해19를 작업 대표로 둠."
+            },
+            {
+              "code": 62,
+              "verdict": "보조",
+              "reason": "헌법만으로 충분하다는 연결을 부정하는 것이 보완 필요의 전제.19와 별도 독립 연산으로 무조건 중복 셈하지 않음."
+            },
+            {
+              "code": 10,
+              "verdict": "경쟁 후보",
+              "reason": "규범 붕괴→민주주의 위기라는 문장이 필수성 읽기를 뒷받침할 수 있으나⑤에서 규범만이 유일한 필요충분조건이라고 확대하지 않음."
+            },
+            {
+              "code": 79,
+              "verdict": "표면",
+              "reason": "규범이라는 소재가 있다고 당위/사실의 전환이 문항 핵심인 것은 아님."
+            }
+          ],
+          "minimal_change_test": "본문에서 헌법만으로 완전히 보호됨으로 바꾸고 규범 기여를 제거하면⑤의 규범 역할 근거가 사라진다. 기존 장치의 불충분성은19 판단의 구체 근거.",
+          "confidence": 0.95,
+          "passage_group": "G229",
+          "sdss_seen": false,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AKN": [
+      {
+        "line": 3413,
+        "record_id": "AKN-independent_code-20260926-01",
+        "case": "AKN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T12:41:04.960008+00:00",
+        "payload": {
+          "primary": [
+            39
+          ],
+          "primary_candidates": [
+            39,
+            17
+          ],
+          "working_primary": 39,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            17,
+            42
+          ],
+          "surface": [
+            69
+          ],
+          "judgment_reason": "두 영역의 대응 항을 맞춰야 한다. 인지 과제의 외적 수행↔감정의 행동 패턴,의미 이해↔내적 경험이다.②는 앞 영역의 외적 항을 뒤 영역의 내적 항과 짝지어 관계가 틀림.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "보조·주 후보",
+              "reason": "서로 다른 역할 항의 귀속을 바꾸는 오류.39는 영역 간 대응 비교의 형식으로 같은 판단을 기술."
+            },
+            {
+              "code": 42,
+              "verdict": "보조",
+              "reason": "외적 행동/내적 경험의 명시 대비가 대응축이며 물리 공간 안팎만을 뜻하지 않음."
+            },
+            {
+              "code": 69,
+              "verdict": "표면",
+              "reason": "본문의 마찬가지로라는 유사 설명은 있으나 새로운 결론을 유추하기보다 이미 제시된 두 구조의 항을 맞춘다."
+            },
+            {
+              "code": 80,
+              "verdict": "배경·주 기각",
+              "reason": "경험과 의미 이해라는 소재가 인식 관련이지만②의 오류는 내용의 진실성보다 두 비교항의 잘못된 대응."
+            }
+          ],
+          "minimal_change_test": "②의 내적인 감정 경험을 외적으로 드러나는 감정 행동으로 고치면 대응이 맞는다.두 영역을 모두 참으로 설명해도 대응 연결만으로 오류를 만들 수 있는 유형.",
+          "confidence": 0.95,
+          "passage_group": "G230",
+          "sdss_seen": false,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  }
+}

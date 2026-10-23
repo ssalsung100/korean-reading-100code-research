@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BTN": [
+      {
+        "line": 7596,
+        "record_id": "BTN-independent_code-20261005-01",
+        "case": "BTN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T08:00:04.733680+00:00",
+        "payload": {
+          "passage_group": "G537",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 75,
+              "cluster": "C074_075",
+              "reason": "문언기준·목적기준·민주적권한기준을각입장에정확히귀속한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "불확정해서답없음과확정됐지만부적절한답의두난점을나눈다."
+            },
+            {
+              "code": 15,
+              "reason": "결과합당성기준과판정권한정당성기준을분리한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 13,
+              "reason": "문언을넘음/반함은구분되나전통정의의경계가완전배타라고보장하지않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "어느방법이더좋은지새근거로결정하지않고본문내용을대조한다."
+            },
+            {
+              "code": 18,
+              "rejection": "부적절한결과를수용하는권한원칙은기준이다르므로단순논리모순아님."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BTO": [
+      {
+        "line": 7597,
+        "record_id": "BTO-independent_code-20261005-01",
+        "case": "BTO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T08:00:19.235594+00:00",
+        "payload": {
+          "passage_group": "G537",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 10,
+              "reason": "어려운사안모두에목적구속을필수요건으로추가하지않는다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 2,
+              "reason": "목적을참조할수있음과반드시구속되어야함을구별한다."
+            },
+            {
+              "code": 75,
+              "reason": "목적반론과최종문언권한입장을서로대체하지않는다."
+            },
+            {
+              "code": 19,
+              "reason": "답부재의보충필요와그보충방식의자동정당화를분리한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 24,
+              "reason": "문언반대해석을무조건적예외허용으로읽을수없다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 11,
+              "rejection": "흠결보충이면반대해석정당이라는충분조건은본문에서확보되지않는다."
+            },
+            {
+              "code": 33,
+              "rejection": "필요성부정은목적참조의전면금지로환원되지않는다."
+            }
+          ],
+          "confidence": 0.95,
+          "scope_limit": "②는필연성의부정이지모든목적참조의금지·무의미화가아니다."
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·기존 최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "각 법해석 입장의 내용과 논증을 판독하며 어떤 방식이 실제 사건에서 법적으로 정당한지 새로 결정하지 않음. 목적구속 필연성의 부정과 목적조회 전면금지를 구별한다."
+}

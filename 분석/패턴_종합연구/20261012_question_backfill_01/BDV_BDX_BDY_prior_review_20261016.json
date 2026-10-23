@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BDV": [
+      {
+        "line": 5683,
+        "record_id": "BDV-independent_code-20261002-01",
+        "case": "BDV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:14:49.817425+09:00",
+        "payload": {
+          "passage_group": "G397",
+          "primary_codes": [
+            75
+          ],
+          "auxiliary_codes": [
+            17,
+            78,
+            97
+          ],
+          "surface_codes": [
+            23
+          ],
+          "decisive_operation": "노자·장자에 대한 박세당의 평가를 다른 주석가의 구별과 분리해 귀속한다.행위의 표면적 공명 회피와 해석된 숨은 공명 욕구를 구분한다.",
+          "competitor_refutations": [
+            {
+              "code": 17,
+              "reason": "누구의어떤대상에대한평가인가를고정하는행동은75와중첩.별도필수연산으로중복계수하지않음."
+            },
+            {
+              "code": 78,
+              "reason": "ㄴ의공명욕구판단에서행위동기가중요하나ㄱ·ㄹ의텍스트수용태도전체를동기만으로판정못함."
+            },
+            {
+              "code": 97,
+              "reason": "문구에드러난공명불집착과박세당의의도해석이달라ㄴ을배제.직접대화의청자반응은없어75평가귀속과층위를나눔."
+            }
+          ],
+          "boundary_note": "후대도가를비판한말을노자본인의무공명으로받아들이려면박세당이실제그렇게해석했다는별도근거필요.",
+          "confidence": 0.9,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDX": [
+      {
+        "line": 5696,
+        "record_id": "BDX-independent_code-20261002-01",
+        "case": "BDX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:22:43.798783+09:00",
+        "payload": {
+          "passage_group": "G398",
+          "primary_codes": [
+            17
+          ],
+          "auxiliary_codes": [
+            80,
+            100,
+            18
+          ],
+          "surface_codes": [
+            93
+          ],
+          "decisive_operation": "재현 주체·재현 대상·산물의 성격을 두 사례에서 구별해 식민자가 부여한 이미지와 피식민자가 만든 혼종문학을 대응한다.",
+          "competitor_refutations": [
+            {
+              "code": 80,
+              "reason": "타자를재현하고자기정체성을구성한다는인식관계가내용이나정답은누가누구를묘사/모방했는지의논항귀속으로직접판정."
+            },
+            {
+              "code": 100,
+              "reason": "충직한거짓말쟁이와검은셰익스피어는상징적표현이지만원문이설명한재현관계를보존하면추가문학비유해석없이결정가능."
+            },
+            {
+              "code": 18,
+              "reason": "㉠의모순성은③단일성배제에필요하지만충직과거짓말을고전논리의같은명제긍정/부정으로형식화할근거는없다."
+            }
+          ],
+          "boundary_note": "문학적양가성을형식논리적모순과자동동일시하지않는다.",
+          "confidence": 0.93,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDY": [
+      {
+        "line": 5697,
+        "record_id": "BDY-independent_code-20261002-01",
+        "case": "BDY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:22:43.799707+09:00",
+        "payload": {
+          "passage_group": "G398",
+          "primary_codes": [
+            75
+          ],
+          "auxiliary_codes": [
+            14,
+            26,
+            80
+          ],
+          "surface_codes": [
+            18
+          ],
+          "decisive_operation": "민족주의의 고정정체성·이분법과 탈식민주의의 분열·혼종·동화와저항공존을 각각 귀속하여②의 관점 역전을 찾는다.",
+          "competitor_refutations": [
+            {
+              "code": 14,
+              "reason": "의식적협력과무의식적저항이공존가능한지가핵심내용이다.75는그판정을누구에게귀속할지의행동."
+            },
+            {
+              "code": 26,
+              "reason": "민족주의친일/반일이분법이공존판독과대비되지만전체이론을정의상배타집합으로재구성하는것은아님."
+            },
+            {
+              "code": 18,
+              "reason": "의도층위의협력과효과층위의저항은같은명제의모순쌍이아니다.분열/모순이라는수사표현만으로동시성립불가라읽으면원문과충돌."
+            }
+          ],
+          "boundary_note": "같은관점안의해석범위와다른관점의귀속을구별한다.",
+          "confidence": 0.93,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정·BDV사후중복노출정정직접확인.",
+  "이력": "BDV=F(MEET2012Q12).F최초/독립MD도직접열람.기존BDV는F태그·판정요약사전노출의사후식별로strict_blind제외된사례.원초기unknown·후속정정모두불변.신규고유1회계수.",
+  "메타": "BDX/BDY는기존Luna의원문ID대조노출만확인됐고후보등재가완료연구중복이라는뜻은아님.이번은모두사후보완.",
+  "유보": "BDY③은제시민족주의설명틀의범위로수용하는기존한계승계."
+}

@@ -1,0 +1,69 @@
+{
+  "source_derivation": {
+    "original_source_path": "data/기본기_연구/prepared_backlog/blind_sources/BFX.json",
+    "original_sha256": "d5143bc5b8509dc795fd7fda4bd9c6efb23b4be376847a4fc7d0a504c39f830d",
+    "official_page": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2010/page_005.png",
+    "official_crop": "분석/패턴_종합연구/20261012_question_backfill_01/BFX_official_choices_crop.png",
+    "method": "주 에이전트가2010홀수형12번의표·번호·다섯도식과G415_visual05~09를각각직접대조. 각번호의최초결합·후속결합·잎배치를텍스트전사. 가지길이의수치를새로부여하지않음.",
+    "mapping": {
+      "1": {
+        "visual": "data/기본기_연구/prepared_backlog/blind_sources/G415_visual05.jpg",
+        "structure": "(((A,B),C),D)"
+      },
+      "2": {
+        "visual": "data/기본기_연구/prepared_backlog/blind_sources/G415_visual06.jpg",
+        "structure": "(((A,C),B),D)"
+      },
+      "3": {
+        "visual": "data/기본기_연구/prepared_backlog/blind_sources/G415_visual07.jpg",
+        "structure": "(((A,D),B),C)"
+      },
+      "4": {
+        "visual": "data/기본기_연구/prepared_backlog/blind_sources/G415_visual08.jpg",
+        "structure": "(((A,D),C),B)"
+      },
+      "5": {
+        "visual": "data/기본기_연구/prepared_backlog/blind_sources/G415_visual09.jpg",
+        "structure": "(((B,C),A),D)"
+      }
+    },
+    "resolves": "기존BFX의원선지번호대응유보만이번사후보완에서해소. 최초blind의번호불확실성기록은보존.",
+    "original_unchanged": true
+  },
+  "positive_character_sets": {
+    "A": [
+      3,
+      6
+    ],
+    "B": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7
+    ],
+    "C": [
+      3,
+      4,
+      8
+    ],
+    "D": []
+  },
+  "pairwise_distances": {
+    "AB": 0.5,
+    "AC": 0.375,
+    "AD": 0.25,
+    "BC": 0.875,
+    "BD": 0.75,
+    "CD": 0.375
+  },
+  "after_first_merge": {
+    "AD-C": 0.375,
+    "AD-B": 0.625,
+    "B-C": 0.875
+  },
+  "chosen_topology": "(((A,D),C),B)",
+  "official_choice_number_verified": 4,
+  "verification_scope": "공식문제지선지번호확인과표기반검산. 정답표의새독립시각대조아님."
+}

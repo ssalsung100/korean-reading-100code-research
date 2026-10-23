@@ -1,0 +1,11 @@
+{
+  "status": "통과",
+  "checked_files": 86,
+  "changed_files": [],
+  "scope": "기존 패턴 연구 3폴더·이번에 사용한 blind 원문 및 보충·RX 진단 정본. 저장소 전체 파일의 전후 해시 증명은 아님.",
+  "hold_actions": {
+    "G024": "읽기·재개·상태 변경 없음",
+    "G370": "읽기·재개·상태 변경 없음"
+  },
+  "old_files_modified_by_this_run": false
+}

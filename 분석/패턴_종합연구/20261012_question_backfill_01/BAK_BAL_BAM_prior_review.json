@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BAK": [
+      {
+        "line": 5289,
+        "record_id": "BAK-independent_code-20261001-01",
+        "case": "BAK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            45
+          ],
+          "auxiliary": [
+            12,
+            91,
+            92
+          ],
+          "surface": [
+            69,
+            100
+          ],
+          "decisive_operation": "각 켜진 음원과 소리굽쇠의 접근·이격 방향 및 속력을 감지 진동수로 변환하고 출력500Hz 여부를 검사한다.",
+          "evidence": [
+            "기준v에서+2Hz",
+            "ㄱ500/496,ㄴ502/494,ㄷ왼쪽off·오른쪽496"
+          ],
+          "competing_codes": [
+            {
+              "code": 91,
+              "rebuttal": "v→2v에서 차이2→4를 얻는 부분 연산이다.음원off와 방향을 반영하지 않으면ㄷ을 해결하지 못한다."
+            },
+            {
+              "code": 12,
+              "rebuttal": "500Hz 일치라는 공명 조건은 필수 보조다.세 경우의 차이를 실제 산출하는 핵심은 방향·속도·음원 상태에 따른 변환이다."
+            },
+            {
+              "code": 69,
+              "rebuttal": "빛과 소리의 공통 법칙 적용은 있지만 유사성에서 미지 성질을 새로 추정하는 유비 논증이 아니다."
+            },
+            {
+              "code": 87,
+              "rebuttal": "차이가 속도에 비례하지만 그래프 기울기나 변화율 계산을 요구하지 않는다."
+            }
+          ],
+          "boundary_note": "소리 크기·거리 자체를 더하지 않는다. 같은 속력이라도 음원 상태와 방향이 다르면 다른 출력이다.",
+          "confidence": 0.96,
+          "passage_group": "G368",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true,
+          "source_repair_provenance_preserved": true
+        }
+      }
+    ],
+    "BAL": [
+      {
+        "line": 5290,
+        "record_id": "BAL-independent_code-20261001-01",
+        "case": "BAL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            91
+          ],
+          "auxiliary": [
+            17,
+            84,
+            39
+          ],
+          "surface": [
+            92
+          ],
+          "decisive_operation": "파장과 진동수·광자 운동량의 반비례 방향을 적용하면서 원자 질량에 따른 원자 운동량과 구분한다.",
+          "evidence": [
+            "리튬670nm<루비듐780nm→공명f와광자p는리튬이큼",
+            "질량6.94<85.47→같은v의원자p는리튬이작음",
+            "광원f를낮추면파장은공명값보다길어짐"
+          ],
+          "competing_codes": [
+            {
+              "code": 84,
+              "rebuttal": "반비례를분수식으로표현가능하나정확한비율계산없이방향으로결정.91과국소동치적기술을허용하되번호별별도연산계수안함."
+            },
+            {
+              "code": 17,
+              "rebuttal": "원자/광자대상고정은필수보조지만반비례방향을계산하지않으면②의참거짓을결정할수없다."
+            },
+            {
+              "code": 86,
+              "rebuttal": "단순양의대소확인에서끝나지않고파장작음→운동량큼이라는역방향변환이필요하다."
+            },
+            {
+              "code": 43,
+              "rebuttal": "③같은속도는조건이지만비교실험으로원인효과를식별하는문항은아니다."
+            }
+          ],
+          "boundary_note": "같은 운동량 명칭 아래에도 원자 p=mv와 광자 p∝1/파장은 입력·대상이 다르다.",
+          "confidence": 0.94,
+          "passage_group": "G368",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true,
+          "source_repair_provenance_preserved": true
+        }
+      }
+    ],
+    "BAM": [
+      {
+        "line": 5302,
+        "record_id": "BAM-independent_code-20261001-01",
+        "case": "BAM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            17,
+            2,
+            39
+          ],
+          "surface": [
+            83,
+            78
+          ],
+          "decisive_operation": "세 복지 이론과 수정 이론의 기준을 각각 보존해 견해를 귀속한다. 욕구 이론의 평가 가능을 비교 불가로 바꾼②를 반박한다.",
+          "evidence": [
+            "도입의 개인 간 복지 비교와3문단 평가 가능",
+            "③ 객관적 목록의 쾌락 독립성과⑤ 합리적 욕구 제한"
+          ],
+          "competing_codes": [
+            {
+              "code": 2,
+              "rebuttal": "가능/불가능이②에서 중요하지만 특정 이론의 입장을 유지하지 않으면③⑤ 판단도 혼동된다. 강도는 보조로 기록."
+            },
+            {
+              "code": 39,
+              "rebuttal": "비교의 여러 대상이 있지만 핵심은 실제 수치 비교가 아니라 어떤 이론이 어떤 기준을 인정하는지이다."
+            },
+            {
+              "code": 83,
+              "rebuttal": "복지의 가치가 소재지만 사실 명제에서 당위를 도출하는 오류나 사실/가치 구분 자체가 쟁점은 아니다."
+            }
+          ],
+          "boundary_note": "75/17은 주체별 견해 귀속에서 국소 중첩. 외부 경제학의 개인간 효용비교 논쟁을 원문 밖에서 가져오지 않는다.",
+          "confidence": 0.93,
+          "passage_group": "G369",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ]
+  },
+  "G368": "공식렌더14쪽에서BAK보기v/2v·스피커on/off와BAL전체선지·표직접확인. 공통본문복원파생본사용. 표의공명파장과실제냉각광원파장을구별."
+}

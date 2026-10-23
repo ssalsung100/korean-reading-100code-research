@@ -1,0 +1,1066 @@
+{
+  "stage": "1단계·기존 체계 미대조",
+  "candidate_count": 20,
+  "candidates": [
+    {
+      "candidate_id": "TXT-A",
+      "unit": "지문",
+      "name": "분류 뒤에 성립 조건과 작동 사례를 붙임",
+      "definition": "상위 범주를 나눈 뒤 각 범주의 입력 조건·작동 차이·사례를 제공한다. 정의를 현상 판별에 쓸 수 있게 만든 조직이다.",
+      "cases": [
+        "JN",
+        "JO",
+        "RV",
+        "RW",
+        "RY"
+      ],
+      "passage_groups": [
+        "G064",
+        "G119"
+      ],
+      "strict_unexposed_case_ids": [
+        "JN",
+        "JO",
+        "RV",
+        "RW",
+        "RY"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G064-E1",
+        "G064-E2",
+        "G064-E3",
+        "G064-E4",
+        "G064-E5",
+        "G064-E6",
+        "G064-E7",
+        "G064-E8",
+        "G064-E9",
+        "G119-E10",
+        "G119-E11",
+        "G119-E13",
+        "G119-E16",
+        "G119-E2",
+        "G119-E3",
+        "G119-E4",
+        "G119-E5",
+        "G119-E6",
+        "G119-E7",
+        "G119-E8",
+        "G119-E9"
+      ],
+      "decision_scene_ids": [
+        "JN-decision",
+        "JO-decision",
+        "RV-decision",
+        "RW-decision",
+        "RY-decision"
+      ],
+      "applicable_when": "여러 하위 범주의 조건이 명시될 때.",
+      "do_not_apply_when": "범주 이름의 열거만 있고 판별 조건이 없을 때.",
+      "sample_boundary_or_counterexample": "G064의 시각 각도 설명은 존재하지만 JN/JO는 각도 계산을 요구하지 않는다. 지문 특징 전체를 문항 행동으로 세지 않는다.",
+      "applications": "교재: 범주-조건-반례를 연결. 강의: 조건에 맞는 사례를 먼저 찾기. 창작: 표면이 닮고 성립 조건이 다른 현상을 설계.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "TXT-B",
+      "unit": "지문",
+      "name": "구조에서 기작·신호·판정으로 단계적으로 연결",
+      "definition": "부품의 위치와 이동을 설명한 뒤 실제 결합, 표시 신호, 의미 판정, 오류율로 설명 층을 이동한다.",
+      "cases": [
+        "RV",
+        "RW",
+        "RX",
+        "RY"
+      ],
+      "passage_groups": [
+        "G119"
+      ],
+      "strict_unexposed_case_ids": [
+        "RV",
+        "RW",
+        "RX",
+        "RY"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G119-E10",
+        "G119-E11",
+        "G119-E12",
+        "G119-E13",
+        "G119-E14",
+        "G119-E16",
+        "G119-E2",
+        "G119-E3",
+        "G119-E4",
+        "G119-E5",
+        "G119-E6",
+        "G119-E7",
+        "G119-E8",
+        "G119-E9"
+      ],
+      "decision_scene_ids": [
+        "RV-decision",
+        "RW-decision",
+        "RX-decision",
+        "RY-decision"
+      ],
+      "applicable_when": "구조와 신호 의미가 명시적으로 연결된 설명일 때.",
+      "do_not_apply_when": "공간 배열만 보고 반응 관계와 신호 의미까지 보충할 때.",
+      "sample_boundary_or_counterexample": "표준선 발색은 정상 진행이고 목표 성분 존재의 보증이 아니다. RX에서는 결합 위치보다 실제 상태별 분모가 필요하다.",
+      "applications": "교재: 설명 층을 분리한 도식. 강의: 단계마다 무엇을 알 수 있는지 점검. 창작: 정상 신호와 검출 신호를 독립시킴.",
+      "status": "한 지문 내 여러 문항에서 관찰·지문 간 반복 미검증",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "TXT-C",
+      "unit": "지문",
+      "name": "선행 주장에 대한 수정·비판·종합을 연결",
+      "definition": "연구자나 입장의 목록을 나열하는 대신 앞선 설명의 한계, 변경한 가정, 후속 결론의 관계를 명시한다.",
+      "cases": [
+        "NK",
+        "NL",
+        "NN",
+        "YR",
+        "YS",
+        "AYE",
+        "AYG"
+      ],
+      "passage_groups": [
+        "G095",
+        "G157",
+        "G350"
+      ],
+      "strict_unexposed_case_ids": [
+        "YR",
+        "YS",
+        "AYE",
+        "AYG"
+      ],
+      "historical_exposure_case_ids": [
+        "NK",
+        "NL",
+        "NN"
+      ],
+      "evidence_ids": [
+        "G095-E1",
+        "G095-E10",
+        "G095-E12",
+        "G095-E13",
+        "G095-E2",
+        "G095-E3",
+        "G095-E5",
+        "G095-E6",
+        "G095-E7",
+        "G157-E1",
+        "G157-E2",
+        "G157-E3",
+        "G157-E4",
+        "G157-E5",
+        "G157-E7",
+        "G157-E8",
+        "G350-E1",
+        "G350-E2",
+        "G350-E3",
+        "G350-E6",
+        "G350-E7",
+        "G350-E8",
+        "G350-V1",
+        "G350-V2"
+      ],
+      "decision_scene_ids": [
+        "NK-decision",
+        "NL-decision",
+        "NN-decision",
+        "YR-decision",
+        "YS-decision",
+        "AYE-decision",
+        "AYG-decision"
+      ],
+      "applicable_when": "앞뒤 입장의 관계를 본문이 직접 설명할 때.",
+      "do_not_apply_when": "연도·인명 존재만으로 비판·진전의 인과를 만들어 낼 때.",
+      "sample_boundary_or_counterexample": "G157의 마지막 의의 문장은 구체적 미해결 과제를 제시하지 않는다. G095의 공통 경험 시험은 입장 차이만 강조하면 사라진다.",
+      "applications": "교재: 주장→문제→변경점 기록. 강의: 무엇을 유지하고 무엇을 바꿨는지 비교. 창작: 후속 입장이 실제 앞선 주장에 답하도록 구성.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "TXT-D",
+      "unit": "지문",
+      "name": "여러 발화자의 정책 논쟁과 사후 평가",
+      "definition": "정책 제안·반대 이유·대안·회고 평가를 복수 인용 목소리로 조직하며 같은 어휘의 대상과 평가가 달라진다.",
+      "cases": [
+        "ATN",
+        "ATO",
+        "ATP"
+      ],
+      "passage_groups": [
+        "G310"
+      ],
+      "strict_unexposed_case_ids": [
+        "ATN",
+        "ATO",
+        "ATP"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G310-E1",
+        "G310-E10",
+        "G310-E11",
+        "G310-E12",
+        "G310-E14",
+        "G310-E2",
+        "G310-E3",
+        "G310-E4",
+        "G310-E5",
+        "G310-E6",
+        "G310-E7",
+        "G310-E8",
+        "G310-E9"
+      ],
+      "decision_scene_ids": [
+        "ATN-decision",
+        "ATO-decision",
+        "ATP-decision"
+      ],
+      "applicable_when": "화자와 인용·회고 경계가 구분될 때.",
+      "do_not_apply_when": "복수 입장을 한 서술자의 승인된 사실로 합칠 때.",
+      "sample_boundary_or_counterexample": "작은 폐단과 왕의 폐단은 같은 기존 군역을 가리킬 수 있다. 같은 사건에 대한 평가 차이와 지시 대상 차이는 별개다.",
+      "applications": "교재: 화자·정책·시점·평가의 분리. 강의: 발화 귀속. 창작: 같은 단어의 동일/상이 지시를 함께 구현.",
+      "status": "한 지문에서 관찰·지문 간 반복 미검증",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ASK-A",
+      "unit": "문항",
+      "name": "닮은 말·신호·현상을 다른 역할로 바꾸어 제시",
+      "definition": "본문의 표현을 표면적으로 유지하면서 관찰자/대상, 표지/항체, 검사/표준선, 기존/장래 폐단의 역할을 바꾼 선지를 만든다.",
+      "cases": [
+        "JO",
+        "RV",
+        "RW",
+        "RY",
+        "ATP"
+      ],
+      "passage_groups": [
+        "G064",
+        "G119",
+        "G310"
+      ],
+      "strict_unexposed_case_ids": [
+        "JO",
+        "RV",
+        "RW",
+        "RY",
+        "ATP"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G064-E3",
+        "G064-E5",
+        "G064-E6",
+        "G064-E7",
+        "G064-E8",
+        "G119-E10",
+        "G119-E11",
+        "G119-E13",
+        "G119-E16",
+        "G119-E2",
+        "G119-E3",
+        "G119-E4",
+        "G119-E5",
+        "G119-E6",
+        "G119-E7",
+        "G119-E8",
+        "G119-E9",
+        "G310-E1",
+        "G310-E11",
+        "G310-E14",
+        "G310-E5",
+        "G310-E6"
+      ],
+      "decision_scene_ids": [
+        "JO-decision",
+        "RV-decision",
+        "RW-decision",
+        "RY-decision",
+        "ATP-decision"
+      ],
+      "applicable_when": "역할을 구별할 명시 조건이 있을 때.",
+      "do_not_apply_when": "소재가 같다는 이유만으로 대응한다고 볼 때.",
+      "sample_boundary_or_counterexample": "JO의 시간에 따른 공 크기 변화와 동시 집단 분포는 모두 크기가 변하지만 다른 단서다.",
+      "applications": "교재: 혼동하기 쉬운 역할의 짝을 제시. 강의: 명칭보다 입력을 보기. 창작: 역할 한 개의 교환으로 오답 구성.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ASK-B",
+      "unit": "문항",
+      "name": "본문 규칙을 새 사례나 관찰 결과로 옮김",
+      "definition": "조건-결과 규칙을 보기에 적용하거나 결과에서 가능한 조건을 역으로 찾도록 설계한다. 순방향 적용과 역방향 복원은 구분한다.",
+      "cases": [
+        "JO",
+        "NM",
+        "RY",
+        "YT"
+      ],
+      "passage_groups": [
+        "G064",
+        "G095",
+        "G119",
+        "G157"
+      ],
+      "strict_unexposed_case_ids": [
+        "JO",
+        "RY",
+        "YT"
+      ],
+      "historical_exposure_case_ids": [
+        "NM"
+      ],
+      "evidence_ids": [
+        "G064-E3",
+        "G064-E5",
+        "G064-E6",
+        "G064-E7",
+        "G064-E8",
+        "G095-E3",
+        "G095-E4",
+        "G095-E7",
+        "G095-E8",
+        "G095-E9",
+        "G119-E10",
+        "G119-E11",
+        "G119-E13",
+        "G119-E16",
+        "G119-E2",
+        "G119-E7",
+        "G157-E6",
+        "G157-E7"
+      ],
+      "decision_scene_ids": [
+        "JO-decision",
+        "NM-decision",
+        "RY-decision",
+        "YT-decision"
+      ],
+      "applicable_when": "필요 입력이 보기와 본문에 제공될 때.",
+      "do_not_apply_when": "불완전한 규칙의 결과만으로 단일 원인을 확정할 때.",
+      "sample_boundary_or_counterexample": "YT는 전수 네 조합과 규칙 부합 조건이 있어 역추론 가능하다. JO⑤의 실제 공포 반응은 단안 가능성만으로 필연 결과를 정할 수 없다.",
+      "applications": "교재: 입력→결과와 결과→입력 과제 분리. 강의: 역추론 가능 근거 확인. 창작: 출력이 같은 복수 입력을 남김.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ASK-C",
+      "unit": "문항",
+      "name": "주장의 지지·반론을 새로운 진술로 검사",
+      "definition": "주장을 그대로 반복한 선지와 실제 반박·지지 사례를 구분시키며, 참인 비교도 해당 논증의 증거로 유효한지 묻는다.",
+      "cases": [
+        "NN",
+        "AYF",
+        "AYG"
+      ],
+      "passage_groups": [
+        "G095",
+        "G350"
+      ],
+      "strict_unexposed_case_ids": [
+        "AYF",
+        "AYG"
+      ],
+      "historical_exposure_case_ids": [
+        "NN"
+      ],
+      "evidence_ids": [
+        "G095-E10",
+        "G095-E6",
+        "G095-E7",
+        "G350-E1",
+        "G350-E10",
+        "G350-E2",
+        "G350-E4",
+        "G350-E5",
+        "G350-E6",
+        "G350-E7",
+        "G350-E8",
+        "G350-V1",
+        "G350-V2"
+      ],
+      "decision_scene_ids": [
+        "NN-decision",
+        "AYF-decision",
+        "AYG-decision"
+      ],
+      "applicable_when": "비판 대상·지지하려는 명제가 구체적일 때.",
+      "do_not_apply_when": "비판 어조나 두 상황의 차이만으로 논증 관계를 인정할 때.",
+      "sample_boundary_or_counterexample": "NN③은 상대가 채택하지 않은 수정 한정을 공격한다. AYG②는 최적/비최적 차이를 부분 조건 개수의 비단조성 증거로 잘못 쓴다.",
+      "applications": "교재: 주장-증거 적합성 활동. 강의: 실제 상대 명제 확인. 창작: 사실은 맞아도 증거 역할이 어긋난 선지 설계.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ASK-D",
+      "unit": "문항",
+      "name": "입장과 범위를 유지한 내용 재서술",
+      "definition": "선지에 주체·필요 조건·정도·동기·방향을 재배치해 본문이 허용한 해석 범위를 검사한다.",
+      "cases": [
+        "JN",
+        "NK",
+        "NL",
+        "YS",
+        "ATN",
+        "ATO"
+      ],
+      "passage_groups": [
+        "G064",
+        "G095",
+        "G157",
+        "G310"
+      ],
+      "strict_unexposed_case_ids": [
+        "JN",
+        "YS",
+        "ATN",
+        "ATO"
+      ],
+      "historical_exposure_case_ids": [
+        "NK",
+        "NL"
+      ],
+      "evidence_ids": [
+        "G064-E1",
+        "G064-E2",
+        "G064-E4",
+        "G064-E8",
+        "G064-E9",
+        "G095-E1",
+        "G095-E12",
+        "G095-E13",
+        "G095-E2",
+        "G095-E3",
+        "G095-E5",
+        "G095-E6",
+        "G095-E7",
+        "G157-E1",
+        "G157-E2",
+        "G157-E3",
+        "G157-E4",
+        "G157-E5",
+        "G157-E7",
+        "G310-E10",
+        "G310-E12",
+        "G310-E2",
+        "G310-E3",
+        "G310-E4",
+        "G310-E7",
+        "G310-E8",
+        "G310-E9"
+      ],
+      "decision_scene_ids": [
+        "JN-decision",
+        "NK-decision",
+        "NL-decision",
+        "YS-decision",
+        "ATN-decision",
+        "ATO-decision"
+      ],
+      "applicable_when": "발화자와 범위 표현을 추적할 수 있을 때.",
+      "do_not_apply_when": "모든 내용 일치 문항을 하나의 구체 행동이라고 단정할 때.",
+      "sample_boundary_or_counterexample": "ATN③은 감소를 소멸로 확대하고 명시되지 않은 동기를 부여한다. NK는 차이뿐 아니라 공통 경험 시험을 요구한다.",
+      "applications": "교재: 선지에서 바뀐 요소 표시. 강의: 주체·조건·정도 먼저 확인. 창작: 단순 낱말 치환 대신 의미 범위의 변경을 설계.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ASK-E",
+      "unit": "문항",
+      "name": "개별 사실에서 전체 글의 연결 방식으로 초점 이동",
+      "definition": "본문 사실의 참거짓을 넘어서 문단 사이 관계와 끝맺음의 기능을 전체 전개 설명에 대응시킨다.",
+      "cases": [
+        "YR"
+      ],
+      "passage_groups": [
+        "G157"
+      ],
+      "strict_unexposed_case_ids": [
+        "YR"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G157-E1",
+        "G157-E2",
+        "G157-E8"
+      ],
+      "decision_scene_ids": [
+        "YR-decision"
+      ],
+      "applicable_when": "전체 전개 방식이 발문의 직접 대상일 때.",
+      "do_not_apply_when": "비판·사회·후속이라는 어휘가 한 번 나왔다는 이유로 전체 조직을 결정할 때.",
+      "sample_boundary_or_counterexample": "G157에 위협-효능감 모형이 존재하지만 YR은 모형을 집단에 대입하는 행동을 사용하지 않는다.",
+      "applications": "교재: 문단 요약 뒤 관계 동사. 강의: 부분 내용과 전체 기능 분리. 창작: 동일 소재라도 다른 연결 구조를 설계.",
+      "status": "한 문항 관찰·반복 미검증",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ASK-F",
+      "unit": "문항",
+      "name": "논증 내용과 별도로 문맥 어휘의 호환을 검사",
+      "definition": "동사 교체가 문장의 의미 방향·목적어 결합·평가 어조를 보존하는지 판단하게 한다.",
+      "cases": [
+        "NO",
+        "YU"
+      ],
+      "passage_groups": [
+        "G095",
+        "G157"
+      ],
+      "strict_unexposed_case_ids": [
+        "YU"
+      ],
+      "historical_exposure_case_ids": [
+        "NO"
+      ],
+      "evidence_ids": [
+        "G095-E11",
+        "G157-E10",
+        "G157-E2",
+        "G157-E4",
+        "G157-E7",
+        "G157-E9"
+      ],
+      "decision_scene_ids": [
+        "NO-decision",
+        "YU-decision"
+      ],
+      "applicable_when": "표시어를 실제 문장에 대체하는 문항일 때.",
+      "do_not_apply_when": "동일 지문에 속한다는 이유로 철학 논증·심리 모형 풀이와 같은 행동으로 묶을 때.",
+      "sample_boundary_or_counterexample": "NO의 결과 도달은 원인 귀속과 다르며 YU의 영향은 긍정적 보탬인 기여와 다르다.",
+      "applications": "교재: 문맥 대입 비교. 강의: 조사·방향·평가 어조. 창작: 사전적 관련성과 문맥 호환의 차이를 이용.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-A",
+      "unit": "풀이",
+      "name": "정의의 입력 조건에 사례 역할을 대응",
+      "definition": "명칭을 붙이기 전에 대상 상태·관찰자·구성 물질·공급원 등 입력 역할을 고정해 성립 조건과 일치시킨다.",
+      "cases": [
+        "JN",
+        "JO",
+        "RW",
+        "RY",
+        "AYF"
+      ],
+      "passage_groups": [
+        "G064",
+        "G119",
+        "G350"
+      ],
+      "strict_unexposed_case_ids": [
+        "JN",
+        "JO",
+        "RW",
+        "RY",
+        "AYF"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G064-E1",
+        "G064-E2",
+        "G064-E3",
+        "G064-E4",
+        "G064-E5",
+        "G064-E6",
+        "G064-E7",
+        "G064-E8",
+        "G064-E9",
+        "G119-E10",
+        "G119-E11",
+        "G119-E13",
+        "G119-E16",
+        "G119-E2",
+        "G119-E3",
+        "G119-E6",
+        "G119-E7",
+        "G119-E8",
+        "G350-E10",
+        "G350-E4",
+        "G350-E5"
+      ],
+      "decision_scene_ids": [
+        "JN-decision",
+        "JO-decision",
+        "RW-decision",
+        "RY-decision",
+        "AYF-decision"
+      ],
+      "applicable_when": "역할과 성립 조건이 명시될 때.",
+      "do_not_apply_when": "함께 움직임·같은 소재·같은 국가 묶음을 직접 결합 또는 비용 방향의 증거로 사용할 때.",
+      "sample_boundary_or_counterexample": "AYF③은 A·B가 모두 C보다 비싸지만 A-B 서열은 없다. JO④는 크기 변화라는 표면 공통점만으로 결 기울기가 아니다.",
+      "applications": "교재: 역할 표 작성. 강의: 입력 조건 먼저 확인. 창작: 역할 한 개를 달리한 경계 사례.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-B",
+      "unit": "풀이",
+      "name": "필요·가능·전체 범위를 검사",
+      "definition": "가능한 사실에 필요성을 덧붙였는지, 일부를 전부로 넓혔는지, 모든 수정 경로를 닫았는지 확인한다.",
+      "cases": [
+        "JN",
+        "JO",
+        "NM",
+        "RV",
+        "ATN"
+      ],
+      "passage_groups": [
+        "G064",
+        "G095",
+        "G119",
+        "G310"
+      ],
+      "strict_unexposed_case_ids": [
+        "JN",
+        "JO",
+        "RV",
+        "ATN"
+      ],
+      "historical_exposure_case_ids": [
+        "NM"
+      ],
+      "evidence_ids": [
+        "G064-E1",
+        "G064-E2",
+        "G064-E3",
+        "G064-E4",
+        "G064-E5",
+        "G064-E6",
+        "G064-E7",
+        "G064-E8",
+        "G064-E9",
+        "G095-E3",
+        "G095-E4",
+        "G095-E7",
+        "G095-E8",
+        "G095-E9",
+        "G119-E11",
+        "G119-E2",
+        "G119-E4",
+        "G119-E5",
+        "G119-E6",
+        "G119-E9",
+        "G310-E12",
+        "G310-E2",
+        "G310-E3",
+        "G310-E4",
+        "G310-E8"
+      ],
+      "decision_scene_ids": [
+        "JN-decision",
+        "JO-decision",
+        "NM-decision",
+        "RV-decision",
+        "ATN-decision"
+      ],
+      "applicable_when": "선지에 반드시·못함·없음·전체 등의 강한 범위가 들어갈 때.",
+      "do_not_apply_when": "약한 가능성 진술까지 동일 반박으로 배제할 때.",
+      "sample_boundary_or_counterexample": "JN④는 두 눈이 도움될 가능성이 아닌 두 눈의 필요성을 주장한다. NM⑤는 다른 지식 수정으로 가설을 유지하는 길을 부정한다.",
+      "applications": "교재: 범위 표현 밑줄. 강의: 최소 반례 구성. 창작: 강도를 바꾼 선지와 그 반례를 함께 검증.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-C",
+      "unit": "풀이",
+      "name": "의존하는 전제를 분해해 단일 원인 단정을 막음",
+      "definition": "결과를 만드는 가설·배경·조건 또는 가정의 결합을 분해하고, 실패·우열 주장의 입력에서 빠진 전제를 찾는다.",
+      "cases": [
+        "NL",
+        "NM",
+        "AYE",
+        "AYG"
+      ],
+      "passage_groups": [
+        "G095",
+        "G350"
+      ],
+      "strict_unexposed_case_ids": [
+        "AYE",
+        "AYG"
+      ],
+      "historical_exposure_case_ids": [
+        "NL",
+        "NM"
+      ],
+      "evidence_ids": [
+        "G095-E12",
+        "G095-E13",
+        "G095-E2",
+        "G095-E3",
+        "G095-E4",
+        "G095-E5",
+        "G095-E7",
+        "G095-E8",
+        "G095-E9",
+        "G350-E1",
+        "G350-E2",
+        "G350-E3",
+        "G350-E6",
+        "G350-E7",
+        "G350-E8",
+        "G350-V1",
+        "G350-V2"
+      ],
+      "decision_scene_ids": [
+        "NL-decision",
+        "NM-decision",
+        "AYE-decision",
+        "AYG-decision"
+      ],
+      "applicable_when": "결과가 여러 전제에 의존하거나 설명이 정의에 다시 의존할 때.",
+      "do_not_apply_when": "관련된 모든 문장을 형식 논리의 같은 종류 화살표로 합칠 때.",
+      "sample_boundary_or_counterexample": "NL의 정의 의존 순환과 NM의 경험적 예측 실패는 서로 다른 논증 행동이다. 공통점은 의존 입력 확인이며 두 하위 행동을 유지한다.",
+      "applications": "교재: 정의 의존과 예측 전제를 별도 도식. 강의: 무엇이 빠졌는지 질문. 창작: 숨은 가정을 명시한 뒤 변경.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-D",
+      "unit": "풀이",
+      "name": "전수 조건표에서 역추론하고 미확정 값을 남김",
+      "definition": "가능한 입력을 모두 나열한 표에서 출력과 맞는 행을 찾고 같은 출력인 행들의 차이는 확정하지 않는다.",
+      "cases": [
+        "YT"
+      ],
+      "passage_groups": [
+        "G157"
+      ],
+      "strict_unexposed_case_ids": [
+        "YT"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G157-E6",
+        "G157-E7"
+      ],
+      "decision_scene_ids": [
+        "YT-decision"
+      ],
+      "applicable_when": "전수 입력과 규칙 부합이 보장될 때.",
+      "do_not_apply_when": "일반 조건문을 대우나 역으로 임의 전환하거나 출력에 숨은 원인이 있을 때.",
+      "sample_boundary_or_counterexample": "YT 집단1·2의 위협은 낮다고 알지만 효능감은 어느 집단이 높은지 정할 수 없다. NM 예측 실패로 가설 하나를 탓하는 것은 이 조건을 충족하지 않는다.",
+      "applications": "교재: 결정 가능/불가능 칸. 강의: 전수성 검증. 창작: 동일 출력의 복수 입력을 의도적으로 구성.",
+      "status": "한 문항 직접 관찰·반복 미검증",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-E",
+      "unit": "풀이",
+      "name": "표시·현실·오류 및 조건부 분모를 분리",
+      "definition": "보이는 신호, 검사의 판정, 실제 상태를 각각 적고 지표의 분모가 어느 실제 상태 집단인지 고정한다.",
+      "cases": [
+        "RV",
+        "RX",
+        "RY"
+      ],
+      "passage_groups": [
+        "G119"
+      ],
+      "strict_unexposed_case_ids": [
+        "RV",
+        "RX",
+        "RY"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G119-E10",
+        "G119-E11",
+        "G119-E12",
+        "G119-E13",
+        "G119-E14",
+        "G119-E16",
+        "G119-E2",
+        "G119-E4",
+        "G119-E5",
+        "G119-E6",
+        "G119-E7",
+        "G119-E9"
+      ],
+      "decision_scene_ids": [
+        "RV-decision",
+        "RX-decision",
+        "RY-decision"
+      ],
+      "applicable_when": "검사 판정과 현실이 어긋날 수 있고 조건부 지표가 정의될 때.",
+      "do_not_apply_when": "정상 검사 신호를 현실 상태의 참 보증으로 보거나 분모가 다른 절대 건수를 비교할 때.",
+      "sample_boundary_or_counterexample": "RX는 분모 해석까지 가능하지만 선지 B열 누락이 번호 확정을 막는다. RV는 비율 계산 없이 검사선/표준선 기능만으로 판단할 수 있다.",
+      "applications": "교재: 실제×판정 표와 신호 칸 분리. 강의: 분모를 먼저 말하기. 창작: 표본 크기·비율 명시.",
+      "status": "한 지문 내 반복 관찰·비율 연산은 RX 한 문항",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-F",
+      "unit": "풀이",
+      "name": "발화자·시점·대상과 평가를 분리",
+      "definition": "누가 어떤 정책·사건을 언제 말하는지 먼저 복원하고, 같은 대상의 다른 평가와 같은 어휘의 다른 대상을 구분한다.",
+      "cases": [
+        "NK",
+        "YS",
+        "ATN",
+        "ATO",
+        "ATP"
+      ],
+      "passage_groups": [
+        "G095",
+        "G157",
+        "G310"
+      ],
+      "strict_unexposed_case_ids": [
+        "YS",
+        "ATN",
+        "ATO",
+        "ATP"
+      ],
+      "historical_exposure_case_ids": [
+        "NK"
+      ],
+      "evidence_ids": [
+        "G095-E1",
+        "G095-E3",
+        "G095-E6",
+        "G095-E7",
+        "G157-E1",
+        "G157-E2",
+        "G157-E3",
+        "G157-E4",
+        "G157-E5",
+        "G157-E7",
+        "G310-E1",
+        "G310-E10",
+        "G310-E11",
+        "G310-E12",
+        "G310-E14",
+        "G310-E2",
+        "G310-E3",
+        "G310-E4",
+        "G310-E5",
+        "G310-E6",
+        "G310-E7",
+        "G310-E8",
+        "G310-E9"
+      ],
+      "decision_scene_ids": [
+        "NK-decision",
+        "YS-decision",
+        "ATN-decision",
+        "ATO-decision",
+        "ATP-decision"
+      ],
+      "applicable_when": "복수 입장과 인용·회고가 문항 근거일 때.",
+      "do_not_apply_when": "왕·반대자·사관의 말을 합쳐 전체 글의 단일 입장으로 만들 때.",
+      "sample_boundary_or_counterexample": "ATP의 작다/크다는 평가가 새/기존 대상과 연결된다. ATN의 찬성 사실은 군포 완전 면제 기대를 명시하지 않는다.",
+      "applications": "교재: 화자·시점·대상·평가 표. 강의: 발화 귀속. 창작: 동일 지시의 평가 차이 및 상이 지시의 동어 반복 구성.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-G",
+      "unit": "풀이",
+      "name": "사실과 논증의 증거 역할을 별도로 검사",
+      "definition": "진술이 참일 수 있는지와 그것이 지정된 주장의 지지·비판으로 기능하는지를 나누어 판정한다.",
+      "cases": [
+        "NN",
+        "AYF",
+        "AYG",
+        "ATO"
+      ],
+      "passage_groups": [
+        "G095",
+        "G310",
+        "G350"
+      ],
+      "strict_unexposed_case_ids": [
+        "AYF",
+        "AYG",
+        "ATO"
+      ],
+      "historical_exposure_case_ids": [
+        "NN"
+      ],
+      "evidence_ids": [
+        "G095-E10",
+        "G095-E6",
+        "G095-E7",
+        "G310-E10",
+        "G310-E7",
+        "G310-E9",
+        "G350-E1",
+        "G350-E10",
+        "G350-E2",
+        "G350-E4",
+        "G350-E5",
+        "G350-E6",
+        "G350-E7",
+        "G350-E8",
+        "G350-V1",
+        "G350-V2"
+      ],
+      "decision_scene_ids": [
+        "NN-decision",
+        "AYF-decision",
+        "AYG-decision",
+        "ATO-decision"
+      ],
+      "applicable_when": "지지 사례·비판·대안의 담화 기능이 발문의 대상일 때.",
+      "do_not_apply_when": "비판적인 말투·관련 소재·두 상황의 차이만 보고 기능을 인정할 때.",
+      "sample_boundary_or_counterexample": "ATO의 청묘법은 정책 대안이 아니라 반대 유추다. AYG②는 최적 대비라는 차이가 핵심 비단조성의 증거가 되지 않는다.",
+      "applications": "교재: 참인 사실이지만 관련 없는 증거 활동. 강의: 목표 주장 명시. 창작: 사실 일치와 증거 적합성이 갈라지는 사례.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-H",
+      "unit": "풀이",
+      "name": "비교 방향을 확정하되 정보 부족은 남김",
+      "definition": "거리-속도·비용·위협-반응·변화량의 방향을 추적하고 주어진 비교로 결정되지 않는 순서·동기를 보류한다.",
+      "cases": [
+        "JO",
+        "RX",
+        "YT",
+        "AYF",
+        "ATN"
+      ],
+      "passage_groups": [
+        "G064",
+        "G119",
+        "G157",
+        "G310",
+        "G350"
+      ],
+      "strict_unexposed_case_ids": [
+        "JO",
+        "RX",
+        "YT",
+        "AYF",
+        "ATN"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G064-E3",
+        "G064-E5",
+        "G064-E6",
+        "G064-E7",
+        "G064-E8",
+        "G119-E11",
+        "G119-E12",
+        "G119-E13",
+        "G119-E14",
+        "G157-E6",
+        "G157-E7",
+        "G310-E12",
+        "G310-E2",
+        "G310-E3",
+        "G310-E4",
+        "G310-E8",
+        "G350-E10",
+        "G350-E4",
+        "G350-E5"
+      ],
+      "decision_scene_ids": [
+        "JO-decision",
+        "RX-decision",
+        "YT-decision",
+        "AYF-decision",
+        "ATN-decision"
+      ],
+      "applicable_when": "비교 지표와 방향은 주어지지만 일부 연결 정보가 부족할 때.",
+      "do_not_apply_when": "누락 선지를 정답 기억으로 복원하거나 간접 서열에서 없는 직접 서열을 만들어 낼 때.",
+      "sample_boundary_or_counterexample": "AYF③의 A-B 비용, YT 집단1·2 효능감, RX④/⑤ B열은 각각 다른 이유로 미확정이다. 논리적 미확정과 원문 결손은 분리해서 기록한다.",
+      "applications": "교재: 부족한 정보 적기. 강의: 보류 이유 분류. 창작: 불완전 정보 오답은 완전한 정답 선지와 구별되게 설계.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-I",
+      "unit": "풀이",
+      "name": "문맥 대입으로 의미 방향·논항·어조를 보존",
+      "definition": "교체 어휘를 문장에 넣고 도착/원인 방향, 목적어와 조사, 중립/긍정 평가가 유지되는지 확인한다.",
+      "cases": [
+        "NO",
+        "YU"
+      ],
+      "passage_groups": [
+        "G095",
+        "G157"
+      ],
+      "strict_unexposed_case_ids": [
+        "YU"
+      ],
+      "historical_exposure_case_ids": [
+        "NO"
+      ],
+      "evidence_ids": [
+        "G095-E11",
+        "G157-E10",
+        "G157-E2",
+        "G157-E4",
+        "G157-E7",
+        "G157-E9"
+      ],
+      "decision_scene_ids": [
+        "NO-decision",
+        "YU-decision"
+      ],
+      "applicable_when": "문맥상 어휘 호환을 직접 묻는 경우.",
+      "do_not_apply_when": "사전상 관련어라는 이유로 모든 문장에 동일 교체가 된다고 볼 때.",
+      "sample_boundary_or_counterexample": "기인한다는 도달한다의 방향을 보존하지 않고 기여는 아무 영향을 주지의 중립 의미와 결합을 보존하지 않는다.",
+      "applications": "교재: 실제 문장 대입. 강의: 방향·조사·어조. 창작: 문맥 기능이 달라지는 관련어 선지.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    },
+    {
+      "candidate_id": "ACT-J",
+      "unit": "풀이",
+      "name": "국소 사실과 전체 조직의 판단 수준을 맞춤",
+      "definition": "문단에 등장한 내용과 문단 사이 관계·전체 결론의 기능을 구분하여 발문이 요구한 수준만 판단한다.",
+      "cases": [
+        "YR",
+        "AYG"
+      ],
+      "passage_groups": [
+        "G157",
+        "G350"
+      ],
+      "strict_unexposed_case_ids": [
+        "YR",
+        "AYG"
+      ],
+      "historical_exposure_case_ids": [],
+      "evidence_ids": [
+        "G157-E1",
+        "G157-E2",
+        "G157-E8",
+        "G350-E1",
+        "G350-E2",
+        "G350-E6",
+        "G350-E7",
+        "G350-E8",
+        "G350-V1",
+        "G350-V2"
+      ],
+      "decision_scene_ids": [
+        "YR-decision",
+        "AYG-decision"
+      ],
+      "applicable_when": "전체 전개 또는 사례의 주장 지지 기능을 묻는 경우.",
+      "do_not_apply_when": "본문의 복잡한 모형을 모든 문항에서 반드시 계산해야 한다고 볼 때.",
+      "sample_boundary_or_counterexample": "YR은 위티의 조건표를 사용하지 않는다. AYG의 표 판독은 필요하지만 그 다음에 비교의 논증 역할을 따로 검사한다.",
+      "applications": "교재: 문항별 실제 사용 표시. 강의: 읽을 정보와 답을 가르는 정보 구분. 창작: 같은 지문에서 국소·전체 질문을 달리 설계.",
+      "status": "반복 관찰·잠정 후보",
+      "count_warning": "후보 사례는 서로 중복될 수 있다. 해당 수는 빈도·배타적 분류·학습 효과의 측정값이 아니다."
+    }
+  ],
+  "induction_note": "기존 정의·분류를 읽지 않고 이번 원문과 직접 작성한 풀이만 귀납. 유사한 후보는 분석 단위가 다르므로 연결하고, 풀이 후보 내부에서도 필요한 하위 행동을 보존함."
+}

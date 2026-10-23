@@ -1,0 +1,393 @@
+{
+  "passage_group": "G095",
+  "passage_analysis": {
+    "organization": "기존 두 입장의 공통 분류와 시험 방법→콰인의 예측 도출 입력 확장→분석/종합 구분의 순환 비판→중심/주변의 연속성과 수정 비용→총체주의의 이점 및 미해결 비판으로 전개한다. 입장 차이, 논증 의존 관계, 수정 선택을 함께 포함한다.",
+    "evidence": {
+      "G095-E1": "가설로부터 논리적으로 도출된 예측을 관찰이나 실험 등의 경험을 통해 맞는지 틀리는지 판단함으로써 그 가설을 시험하는 과학적 방법을 제시한다.",
+      "G095-E2": "논리실증주의자는 예측이 맞을 경우에, 포퍼는 예측이 틀리지 않는 한, 그 예측을 도출한 가설이 하나씩 새로운 지식으로 추가된다고 주장한다.",
+      "G095-E3": "예측은 가설, 기존의 지식들, 여러 조건 등을 모두 합쳐야만 논리적으로 도출된다는 것이다.",
+      "G095-E4": "예측이 거짓으로 밝혀지면 정확히 무엇 때문에 예측에 실패한 것인지 알 수 없다는 것이다.",
+      "G095-E5": "필연성 개념은 다시 분석 명제 개념에 의존하게 되는 순환론에 빠진다.",
+      "G095-E6": "수학적 지식이나 논리학 지식은 중심부 지식의 한가운데에 있어 경험에서 가장 멀리 떨어져 있지만 그렇다고 경험과 무관한 것은 아니라는 것이다.",
+      "G095-E7": "중심부 지식과 주변부 지식이 원칙적으로 모두 수정의 대상이 될 수 있고, 지식의 변화도 더 이상 개별적 지식이 단순히 누적되는 과정이 아니라고 주장한다.",
+      "G095-E8": "실용적 필요 때문에 중심부 지식을 수정하는 경우도 있다.",
+      "G095-E9": "그 가설이 실용적으로 필요하다고 인정되면 언제든 그와 같은 반박을 피하는 방법을 강구하여 그 가설을 받아들일 수 있다.",
+      "G095-E10": "아무도 의심하지 않는 지식은 분석 명제로 분류해야 하는 것이 아니냐는 비판에 답해야 하는 어려움이 있다.",
+      "G095-E11": "따라서 콰인은 종합 명제와 구분되는 분석 명제가 존재한다는 주장은 근거가 없다는 결론에 ㉢ 도달한다.",
+      "G095-E12": "이러한 환원이 가능한 것은 ‘총각’과‘ 미혼의 성인 남성’이 동의적 표현이기 때문인데",
+      "G095-E13": "동의적 표현은 언제나 반드시 대체 가능해야 한다는 필연성 개념에 다시 의존하게 된다."
+    },
+    "features_present_but_not_required": [
+      "금속 예측 사례는 핵심이지만 금속의 물리 성질을 외부 지식으로 판단하지 않는다.",
+      "수정 비용의 크기 차이가 있으나 NK·NL·NO에서는 비용 계산이 답 결정의 필수 행동은 아니다."
+    ],
+    "passage_question_links": {
+      "NK": "입장별 공통점·차이를 질문의 yes/no로 재구성.",
+      "NL": "정의의 의존 고리를 선지의 화살표와 대조.",
+      "NM": "예측 실패로 원인 단정 여부와 수정 가능 범위를 판단.",
+      "NN": "총체주의가 부정하는 종류 구분을 다시 요구하는 반론을 식별.",
+      "NO": "결론에 이르는 서술의 방향과 어휘 결합을 판단."
+    },
+    "transfer_limit": "철학자에 대한 외부 설명보다 본문에서 사용한 비교·예측·수정 조건을 우선한다. G095의 5문항은 세션 내 독립 판단이지만 과거 Astra 노출 이력 때문에 엄격 blind 실적에서 제외한다."
+  },
+  "questions": [
+    {
+      "case_id": "NK",
+      "independent_answer": 2,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G095-E1",
+        "G095-E3",
+        "G095-E6",
+        "G095-E7"
+      ],
+      "question_design": "두 입장을 같은 질문에 대입해 둘 다 부정하는 교집합을 찾는다.",
+      "reasoning_steps": [
+        "㉠은 경험으로 예측을 시험하고 ㉡도 전체 지식을 경험으로 시험한다. 시험 단위는 다르지만 경험 없는 시험 가능성에는 둘 다 아니요이다.",
+        "①·③·④·⑤는 본문이 설정한 누적성·경험 독립성·도출 입력·지식 종류의 차이이므로 공통 부정이 아니다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "공통 부정 아님",
+          "evidence_ids": [
+            "G095-E2",
+            "G095-E7"
+          ],
+          "specific_reason": "㉠은 누적을 인정하고 ㉡은 단순 개별 누적을 부정한다."
+        },
+        {
+          "option": 2,
+          "statement_status": "공통 부정",
+          "evidence_ids": [
+            "G095-E1",
+            "G095-E3"
+          ],
+          "specific_reason": "㉠의 가설 시험과 ㉡의 전체 지식 시험 모두 관찰·실험의 경험을 필요로 한다."
+        },
+        {
+          "option": 3,
+          "statement_status": "공통 부정 아님",
+          "evidence_ids": [
+            "G095-E6"
+          ],
+          "specific_reason": "㉠은 경험 무관 지식을 인정하고 ㉡은 중심 지식도 경험과 무관하지 않다고 본다."
+        },
+        {
+          "option": 4,
+          "statement_status": "공통 부정 아님",
+          "evidence_ids": [
+            "G095-E1",
+            "G095-E3"
+          ],
+          "specific_reason": "㉠은 가설로부터 도출을 제시한다. ㉡은 가설만으로 부족하며 기존 지식과 조건을 합쳐야 한다고 본다."
+        },
+        {
+          "option": 5,
+          "statement_status": "공통 부정 아님",
+          "evidence_ids": [
+            "G095-E6",
+            "G095-E7"
+          ],
+          "specific_reason": "㉠은 종류를 나누고 ㉡은 중심·주변의 명확한 종류 구분을 부정한다."
+        }
+      ],
+      "repeatable_action": "같은 진술에 대해 입장별 응답을 먼저 독립적으로 만든 뒤 요구한 응답 조합을 찾는다.",
+      "applicable_when": "비교 대상의 범위와 질문 명제가 명확하고 공통점도 제시될 때.",
+      "do_not_apply_when": "서로 논쟁한다는 이유만으로 모든 답변이 반대라고 가정하거나 ㉠의 두 학자를 서로 같은 세부 기준으로 취급할 때.",
+      "alternative_routes": [
+        "공통 시험 근거로 ②를 직접 찾는 경로.",
+        "5개 질문의 두 응답을 표로 만들고 아니요/아니요 행을 고르는 경로."
+      ],
+      "production_implications": "교재·강의는 차이점 표에 공통점 행을 의도적으로 포함한다. 창작에서는 같은 경험 시험을 유지한 채 시험 대상만 달리하는 대비를 설계할 수 있다.",
+      "historical_exposure": "과거 Astra 노출 이력·엄격 blind 별도 제외",
+      "current_session_answer_or_pattern_exposure": false
+    },
+    {
+      "case_id": "NL",
+      "independent_answer": 4,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G095-E2",
+        "G095-E5",
+        "G095-E12",
+        "G095-E13"
+      ],
+      "question_design": "복잡한 철학 논증을 정의가 무엇에 의존하는지의 연결 순서로 바꾸어 선지와 대조한다.",
+      "reasoning_steps": [
+        "분석 명제의 환원 설명→동의 표현→필연성→분석 명제로 되돌아간다. ④가 이 순환을 정확히 기술한다.",
+        "①은 포퍼의 기준을 논리실증주의자의 기준 쪽으로 변경하고 ②는 논리적 환원을 경험적 조사로 바꾼다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "반박",
+          "evidence_ids": [
+            "G095-E2"
+          ],
+          "specific_reason": "포퍼의 기준은 틀리지 않는 한이다. 맞을 경우를 더 우선한다고 비교할 근거가 없다."
+        },
+        {
+          "option": 2,
+          "statement_status": "반박",
+          "evidence_ids": [
+            "G095-E12"
+          ],
+          "specific_reason": "총각 조사는 경험 조사이며, 본문은 동의 표현을 통한 동어 반복 환원을 설명한다."
+        },
+        {
+          "option": 3,
+          "statement_status": "반박",
+          "evidence_ids": [
+            "G095-E6",
+            "G095-E7"
+          ],
+          "specific_reason": "콰인은 경험과 먼 정도가 달라도 근본적으로 다른 종류로 나누지 않는다."
+        },
+        {
+          "option": 4,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G095-E5",
+            "G095-E12",
+            "G095-E13"
+          ],
+          "specific_reason": "분석 명제→동의 표현→필연성→분석 명제의 의존 순환을 보존한다."
+        },
+        {
+          "option": 5,
+          "statement_status": "반박",
+          "evidence_ids": [
+            "G095-E12",
+            "G095-E13"
+          ],
+          "specific_reason": "본문의 동의 표현·진릿값 보존 조건과 반대로 의미도 다르고 진릿값도 바뀌는 표현을 제시한다. 동어 반복의 충분조건이 아니다."
+        }
+      ],
+      "repeatable_action": "정의를 설명하는 의존 화살표를 추적하고 선지가 그 순서·방향·시작점을 보존하는지 확인한다.",
+      "applicable_when": "논증이 개념 간 정의 의존 관계로 제시될 때.",
+      "do_not_apply_when": "단순히 문장들이 서로 관련된다고 해서 순환 논증으로 판정하거나 지문의 비판을 모든 실제 논리학 체계에 일반화할 때.",
+      "alternative_routes": [
+        "④의 연결 순서만 확인하는 경로.",
+        "기준의 주체·경험 조사 여부·종류 구분을 대조하여 오답을 제거하는 경로."
+      ],
+      "production_implications": "강의에서는 각 화살표를 왜 설명에 필요한가로 읽게 한다. 창작 설계에서는 연결 순서 하나를 뒤바꾸되 실제 본문의 순환을 따로 검증한다.",
+      "historical_exposure": "과거 Astra 노출 이력·엄격 blind 별도 제외",
+      "current_session_answer_or_pattern_exposure": false
+    },
+    {
+      "case_id": "NM",
+      "independent_answer": 5,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G095-E3",
+        "G095-E4",
+        "G095-E7",
+        "G095-E8",
+        "G095-E9"
+      ],
+      "question_design": "표지된 가설·예측·전체 지식의 역할을 고정한 뒤 예측 실패가 허용하는 판단과 수정 경로를 검토한다.",
+      "reasoning_steps": [
+        "가설 H와 배경 지식·조건 B를 합쳐 예측 P를 도출한다. P가 실패하면 결합 입력 중 무엇이 문제인지 단정할 수 없다.",
+        "전체 지식의 다른 부분을 실용적으로 수정해 H를 유지할 수 있다. 그 길을 모두 부정하는 ⑤가 부적절하다. ⓒ는 전체 지식이므로 H와 완전히 별개인 집합으로 가정하지 않는다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G095-E4"
+          ],
+          "specific_reason": "결합 입력의 도출 실패이므로 ⓐ만 원인이라고 확정할 수 없다."
+        },
+        {
+          "option": 2,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G095-E8",
+            "G095-E9"
+          ],
+          "specific_reason": "수정 위치는 원칙적으로 열려 있으며 실용적 필요가 선택에 관여한다."
+        },
+        {
+          "option": 3,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G095-E3"
+          ],
+          "specific_reason": "ⓐ와 배경 지식·조건을 포함하는 ⓒ를 결합하면 ⓑ를 논리적으로 도출한다. 집합이 중첩된다고 도출 자체가 부정되지는 않는다."
+        },
+        {
+          "option": 4,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G095-E6",
+            "G095-E7"
+          ],
+          "specific_reason": "관찰되는 팽창 예측의 실패는 경험과 직접 만나는 주변부의 충돌에 해당한다."
+        },
+        {
+          "option": 5,
+          "statement_status": "반박",
+          "evidence_ids": [
+            "G095-E9"
+          ],
+          "specific_reason": "다른 지식·조건을 조정해 실용적으로 필요한 가설을 받아들일 수 있다는 설명과 정면으로 충돌한다."
+        }
+      ],
+      "repeatable_action": "결합된 전제의 결과가 실패할 때 한 전제만 탓하는 단정을 거부하고 유지·수정 가능한 경로를 나눈다.",
+      "applicable_when": "예측이 여러 전제의 결합에서 나오며 원인 격리 증거가 없을 때.",
+      "do_not_apply_when": "실험이 특정 전제만 따로 통제해 원인을 입증한 경우에도 원인 판단이 불가능하다고 하거나 모든 가설을 과학적으로 참이라고 인정할 때.",
+      "alternative_routes": [
+        "마지막 문단의 가설 유지 가능성으로 ⑤를 직접 반박.",
+        "H와 B의 결합이 P를 낳는 구조를 만들고 다섯 평가를 순차 검사."
+      ],
+      "production_implications": "교재는 실패 결과에서 원인 후보를 하나로 줄이려면 어떤 추가 통제가 필요한지 묻게 할 수 있다. 신규 문항은 실패 결과와 수정 정책을 분리하고 원문에 허용된 유지 경로만 답 근거로 삼는다.",
+      "historical_exposure": "과거 Astra 노출 이력·엄격 blind 별도 제외",
+      "current_session_answer_or_pattern_exposure": false
+    },
+    {
+      "case_id": "NN",
+      "independent_answer": 5,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G095-E6",
+        "G095-E7",
+        "G095-E10"
+      ],
+      "question_design": "비판 대상이 실제로 채택한 주장과 충돌하는 선지를 찾고, 동의·재서술·허구의 제한에 대한 비판을 구분한다.",
+      "reasoning_steps": [
+        "콰인은 중심·주변을 다른 종류로 나누지 않는다. 논리 법칙 같은 지식에는 종류 차이가 있다는 ⑤는 이 주장에 대한 반론이다.",
+        "③의 수정 대상을 주변부로 한정한다는 전제는 총체주의가 채택하지 않았으므로 실제 입장을 비판하지 못한다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "비판 아님",
+          "evidence_ids": [
+            "G095-E4"
+          ],
+          "specific_reason": "총체주의 자신의 예측 실패-가설 단정 불가 설명에 동의한다."
+        },
+        {
+          "option": 2,
+          "statement_status": "비판 아님",
+          "evidence_ids": [
+            "G095-E6"
+          ],
+          "specific_reason": "중심부라도 경험과 무관하지 않다는 본문의 입장에 동의한다."
+        },
+        {
+          "option": 3,
+          "statement_status": "대상 왜곡",
+          "evidence_ids": [
+            "G095-E7"
+          ],
+          "specific_reason": "총체주의는 중심부도 수정 가능하다고 하므로 주변부 한정이라는 비판 대상이 없다."
+        },
+        {
+          "option": 4,
+          "statement_status": "유효한 반박 근거 없음",
+          "evidence_ids": [
+            "G095-E7"
+          ],
+          "specific_reason": "수정 파급의 비대칭은 본문 설명과 양립한다. 종류 구분 부정이나 전체 시험을 반박하지 않는다."
+        },
+        {
+          "option": 5,
+          "statement_status": "비판 성립",
+          "evidence_ids": [
+            "G095-E10",
+            "G095-E6"
+          ],
+          "specific_reason": "경계가 불명확해도 다른 종류인 중심 지식이 있다는 주장은 분석 명제 구분을 회복시켜 콰인의 핵심 주장과 충돌한다."
+        }
+      ],
+      "repeatable_action": "비판이 겨냥하는 명제를 원래 입장에 귀속시킨 뒤 반론과 실제 충돌하는지 검사한다.",
+      "applicable_when": "주장과 반론의 명제 수준이 명확하고 비판 대상의 채택 여부를 확인할 수 있을 때.",
+      "do_not_apply_when": "비판적인 말투나 잘못이라는 표현만으로 비판의 타당성을 판정하거나 양립 가능한 보충 설명을 반론으로 볼 때.",
+      "alternative_routes": [
+        "마지막 문단에 제시된 비판을 ⑤의 추상 진술과 연결.",
+        "총체주의의 주장 목록을 만든 뒤 각 선지를 동의·왜곡·반박으로 구분."
+      ],
+      "production_implications": "강의는 비판문 앞에 상대가 정말 그렇게 말했는가를 넣는다. 창작 오답은 실제 주장과 허구의 제한을 구별시키는 데 활용하되 비판의 대상이 지문에서 추적 가능해야 한다.",
+      "historical_exposure": "과거 Astra 노출 이력·엄격 blind 별도 제외",
+      "current_session_answer_or_pattern_exposure": false
+    },
+    {
+      "case_id": "NO",
+      "independent_answer": 2,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G095-E11"
+      ],
+      "question_design": "논증 끝에 특정 결론에 이르는 문맥을 보존하는 동사 교체를 묻는다.",
+      "reasoning_steps": [
+        "도달한다의 문맥상 기능은 추론 결과인 결론에 이름이다. 다다른다가 그 방향과 목적지 결합을 보존한다.",
+        "문제에 봉착한다는 부정적 상황의 맞닥뜨림, 회귀한다는 돌아감, 기인한다는 원인 귀속으로 이 문맥의 논증 결과와 다르다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "부적합",
+          "evidence_ids": [
+            "G095-E11"
+          ],
+          "specific_reason": "잇따른다는 연속하여 뒤따름이며 결론에 이르는 동작을 나타내지 않는다."
+        },
+        {
+          "option": 2,
+          "statement_status": "적합",
+          "evidence_ids": [
+            "G095-E11"
+          ],
+          "specific_reason": "결론을 목적지로 삼아 이른다는 의미·결합이 유지된다."
+        },
+        {
+          "option": 3,
+          "statement_status": "부적합",
+          "evidence_ids": [
+            "G095-E11"
+          ],
+          "specific_reason": "봉착은 곤란 등에 맞닥뜨리는 문맥이며 제시된 결론 도출 기능과 다르다."
+        },
+        {
+          "option": 4,
+          "statement_status": "부적합",
+          "evidence_ids": [
+            "G095-E11"
+          ],
+          "specific_reason": "회귀는 앞선 위치로 돌아가는 방향을 추가한다. 본문은 새 결론 도출이다."
+        },
+        {
+          "option": 5,
+          "statement_status": "부적합",
+          "evidence_ids": [
+            "G095-E11"
+          ],
+          "specific_reason": "기인은 결론을 원인으로 삼는 방향이 되어 결론에 이른다는 결과 도출과 다르다."
+        }
+      ],
+      "repeatable_action": "단어의 넓은 유의 관계보다 목적어·조사·담화상 도착점과 동사의 방향을 함께 확인한다.",
+      "applicable_when": "문맥상 어휘 대체를 묻고 논증 결과의 역할이 확인될 때.",
+      "do_not_apply_when": "동사 하나의 유의어 목록을 모든 조사·평가 어조·문맥에 그대로 대입할 때.",
+      "alternative_routes": [
+        "논증 결과라는 문맥 기능으로 다다른다 선택.",
+        "결론에라는 결합을 각 동사에 실제 대입해 방향·어조 비교."
+      ],
+      "production_implications": "교재는 같은 명사에 동사를 대입하되 방향을 표시하게 할 수 있다. 창작에서는 어휘만 달라지는 문항의 판단을 내용 추론과 별도 기록한다. 이 표본에서는 어휘 문항이 하나뿐이므로 반복성은 아직 검증되지 않았다.",
+      "historical_exposure": "과거 Astra 노출 이력·엄격 blind 별도 제외",
+      "current_session_answer_or_pattern_exposure": false
+    }
+  ]
+}

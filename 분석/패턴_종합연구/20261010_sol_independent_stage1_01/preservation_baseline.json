@@ -1,0 +1,348 @@
+[
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/CA_figure_preview.png",
+    "sha256": "be371ee77427513038e8235f59c0fbc4c47e1139d2e3cff317ca7ce5b6b2a8f0"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/build_outputs.py",
+    "sha256": "25bffef8bf3d805dfbbfdf6e4ff760be504a2a7e0b83695a2c6f91bc54e1c4b6"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/card_specs.py",
+    "sha256": "26dc19a2715f74b942edda2c80cb9d9f9ecaa652c1ae9733a5cd8f45c7210578"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/corpus_counts.json",
+    "sha256": "0e4eed46a2076834c7da5c292180994b265749aaf8f47429bc6e718edee01bf0"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/corpus_map.md",
+    "sha256": "0912921639b41e93f3b078f39f0de5eab77cf831d9647eaa8c5ade677eb064a0"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/event_specs.py",
+    "sha256": "f97af5e8f7dca9e42ee448ee49541ece5a2ae44af2d426b098b21d13c806b50e"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/pattern_cards.md",
+    "sha256": "808c967963fae3b8a282c8e659f4f3618a0ce84134035a481f0c28a1f5baedef"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/pilot_counts.json",
+    "sha256": "23a7e295acdcdb0566eb6ef734be4d3b46c0ea9226647275c7e360bb1be8dc50"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/pilot_events.jsonl",
+    "sha256": "5b7e23578f1a2f4ddb6ae6c543ee1ab6145ca2b413e5895990436b36e95feb46"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/pilot_review.md",
+    "sha256": "615348af627db7d33e71661fdbb3aaa6f67695d1c267a5285ea2a0686e2910eb"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/prepare_sample.py",
+    "sha256": "ca4b8029bdd0b794bfb1e6e677871487b1a8ffb60d340b547263a735fa8e5284"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/preservation_baseline.json",
+    "sha256": "6b98449fc0e4681123c3f4db98d297417a0dc5e2c1b20c437a92acbe30803829"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/reading_coverage.json",
+    "sha256": "b982481470cae334b121e54e631568c93bfc3bd9043781e6f71c3f0a17b37360"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/sample_annotations.json",
+    "sha256": "cea9798b34cf6f2852ff4a9fe426251a12301444edc7d7dd9159bd1ea1acfc19"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/sample_manifest.json",
+    "sha256": "569a08db645c9236d9ef4ce54b4a34b86c5aee1a5fc5d91f5894ddba4bfccac5"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/validate_outputs.py",
+    "sha256": "f925426b92243084f5aa37fb2e79385fcfb6fe8e2ddfd1925fc39752d369c8ad"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/validation_report.json",
+    "sha256": "61f51f27d8dcc5d052be753a017227b5b9ad9cc6e927b4178d6edee78487ce3c"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/write_reports.py",
+    "sha256": "5d58fa2b1a8928b279691ae5338c8b3a46ed5473261cad3c5fc6c00e8989c602"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/01_수정_판정장면과_변경기록.md",
+    "sha256": "8bcc0987ee9cb362c4aab08fc3e84562e50057a39b7096ce3c7ab5a3c474b1af"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/02_패턴별_활용_매트릭스.md",
+    "sha256": "493e4452ab42ebcff081bda61d5d6922ada05602a6cd65cb5986b6e886aef46f"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/03_대표와_경계_사례.md",
+    "sha256": "f09a894207064389286f26e02efc7355507f4abe42669c479cbfd23ebf75d544"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/04_강의와_교재_시제품.md",
+    "sha256": "3b25139f1662c1a2a8c69e1b5c777454d61c8d238afb881f3ee0e6979b495936"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/05_학생용_시제품.md",
+    "sha256": "9978e0189340b886c2c8a0ca739d53dd769e4ee02ff47852a6749671a6a9f60f"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/06_정답과_자체품질검토.md",
+    "sha256": "ca5506982b6a7ace9ef26b502d6f276053b56cb5eabb54e88c67a0706f377c9c"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/07_남은_문제와_다음_단계.md",
+    "sha256": "d890ed3418000952c491fbc00dc6f381bb25121cedaf6b465406cf602d0ada21"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/README.md",
+    "sha256": "4ffee87a5f8a1b00365e20030022d6ecd4eb5f1680e67824105c31e0e0539489"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/answer_route_audit.json",
+    "sha256": "605d2125fcc9f5ad7a135f29fb468cbab13d8ef233a0e17a6e06275fbfe731dd"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/boundary_links.json",
+    "sha256": "1c8ca37c36e0bdbeebb8e87c045039ac479012f92749f50b3552ff397f1358ac"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/build_casebook.py",
+    "sha256": "a048f645dd1fef06a936b982a2942537f7cff82f64a522f980ab71768782c16e"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/build_revision.py",
+    "sha256": "d0c930fefc1a8ec355d68067875c44fb062a179e13d3b46b9a1fc36555583128"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/check_preservation.py",
+    "sha256": "daa113b0e1c2f0839cafb1fb1d34f5d34c9368d17426098b4f3c68946b07834c"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/citation_audit.jsonl",
+    "sha256": "34098750c959dbd1d40e4605417ca259f2cafee816a4975207b8a3604bb03b3a"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/preservation_baseline.json",
+    "sha256": "47b1992aee5e97b3e32f222191139a312d392ce21456c9feef9cc0808240ea4d"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/preservation_report.json",
+    "sha256": "46a41dfbc6b055158cccf81f89b242fffd2eca6db4bed49689f12204d0fd25c9"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/revised_events.jsonl",
+    "sha256": "eb2731fac8f8504bb81630171af9481c74eabfd98fb2ab74905fba6d3d1f6a37"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/validate_revision.py",
+    "sha256": "c2ec4128d27594a230433900497e3e71c157e19922fb1d4a4c3998b4d7235dbd"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/validation_report.json",
+    "sha256": "5d86856c8487bc207649a6436920f8985137cc08197f8a8af230ec26ec43a838"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/README.md",
+    "sha256": "664a86c370f4f45d4496cbd99f4dca93ac32f65ab4d6ff58684bcf5aafa46ad9"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/annotation_schema.json",
+    "sha256": "fa86716d5e1b5e79a5343b835e805a57508b82bf8b7d3e33bedcd6a43a6735a5"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/application_protocol.md",
+    "sha256": "9c88dc1d2b577f722dfe8669374c0bc8a574259ba79e79c363761a495b9d1be3"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/build_codebook.py",
+    "sha256": "b227f74c09678d421dabf4be5308b642961cd27ca009fd2e914a1f946274c675"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/codebook_v0.2.json",
+    "sha256": "cb25b7b5438863c4c0f437f5f2e115cc30865183202edd79b0e7a8de5b5c9dff"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/codebook_v0.2.md",
+    "sha256": "70f8dfa698b5901abc94ffd84b4a68ad81bbee396a27b0174e7f4018b29cee27"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/count_patterns.py",
+    "sha256": "d163d34ce4456b5e2daf95b46d3c47f11f482b3db9a74628e3b21a0b01584c8f"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/count_reconciliation.json",
+    "sha256": "c7232390f932701a754d2b0d27fa4592e1784ffc92c22c1a2e0f9897cfd11f79"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/count_reconciliation.md",
+    "sha256": "721b3e8572810c45aac187a8edf37d33ae65e2abb3dd936a71614d215b434717"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/counting_rules.md",
+    "sha256": "4309da1f34d4c1206a3e5303a6e2a00b95dc5854bbdc3a9d850cf63890415e7e"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/event_mapping_v0.2.jsonl",
+    "sha256": "49cc6fb521fb9ac6c44289934740428b48e544f662e55ef4143b61dc7d0de1f5"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/event_mapping_v0.2.md",
+    "sha256": "dfc2251d6f5243754a352ae7b577b4f30b73f01ee394fd75d5a14adba02cc7ff"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/external_annotation_template.json",
+    "sha256": "b18c0f3a17650216da3c6ac31a80f436b0efdfdc8dcd863cd1ea3e285017d5c6"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze.py",
+    "sha256": "91ace1ba2986b38179591d70342e123e4d6a2e00e66768a408aa82475c9eedd4"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze_manifest.json",
+    "sha256": "e06c9524dbef2fe54f0f62415c1762d33d0db8795c66066199e9c473b19f0402"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze_manifest.sha256",
+    "sha256": "4d438494c104cb2a4e49c47a0c3d2d6d33b678342e631ed2000a661004e91178"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze_report.md",
+    "sha256": "1bf0430079ffa07f629a32cfb6c85d9107f69d9d021491291835bcd8b1ba832e"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/independent_validation_inputs.md",
+    "sha256": "d4e08ba3079706983bd49477c6eed7869a2a0974603a385944988439887118cd"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/input_inventory.json",
+    "sha256": "503f80ad57e180cf1dfb62887eb313cdeea4d74d3ead1ee6c79abad671535fae"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/management_metadata.json",
+    "sha256": "684d7822583e587dab1a15e8be1ca4e23b286e6b7cb34f6457d96889eb77f0ea"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/preservation_baseline.json",
+    "sha256": "64672da5da967759ef4b97f851effec306ec909f1a4e166b9555cca21de5bd34"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/validate_codebook.py",
+    "sha256": "8ec028cc4696ebb0000c13ee151de2774a3c9892d496dc6812c677441159c93e"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/validation_report.json",
+    "sha256": "4dea4065b4a8eba29d1c3f0cd1a029761d82b226f004d07dac23316db27b1194"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/verify_freeze.py",
+    "sha256": "e2dc02ad37bacf0f526e3d9639a0be4b86f9f5cbe7e47ae26d93ccec25b170d4"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/JN.json",
+    "sha256": "0c1560f42da81f849739720abd38b202e0f432381f4f29ad0d45c5a4e2310321"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/JO.json",
+    "sha256": "303ba44b047d291aab5aacba358f65b13cf4d6cf5ef225e62ae2fd00d5c775f4"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NK.json",
+    "sha256": "fd624a37f7b6033349a9688a23b46887a131231e30d3b8b10c4321a721d20230"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NL.json",
+    "sha256": "13db663503ce637af63527c7e05030b1cc71a0879792e946d3900d8b1a8a5a18"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NM.json",
+    "sha256": "73da536e8efecb147cc63abf53f5fffc08a20df9546a6bd80b66dd4996412375"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NN.json",
+    "sha256": "22af361949d93246b5cf83639f7b093eaf5a5b3ac982ce7f8b7ab8809e74c2ab"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NO.json",
+    "sha256": "5fae703f23010303abbb74b42e56ad47e9df5df38ce0a45913231821d949514e"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RV.json",
+    "sha256": "434e62a0089e11971dfbbd0be907f7c374197c0687d6945e94aef9e67c8bd8d8"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RW.json",
+    "sha256": "a2094074edb360d5b7babeeb684b9442eeabf2a63d15b0282a85cc78945f9654"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RX.json",
+    "sha256": "31e2cf62bdf544ebe57c0379fb87c4b651142424a2532f229a93ef4f99d469dd"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RY.json",
+    "sha256": "ff87147b1ef3776dea7ea192cd68acfc80fb4de1060d2b4d1e565a95d952d641"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YR.json",
+    "sha256": "eac85daddbacc74a88f99307fbb093917ead21a5ddbecb3805f1dbc554472d9e"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YS.json",
+    "sha256": "c8cd93970dfae2f50c29501c696cff31292e878a26909215dd2a14db817097e0"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YT.json",
+    "sha256": "26297936ae87cc8b8f30901d7ca1cd10d7327ebca1b4e030e4faf4c7fb31c187"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YU.json",
+    "sha256": "0d3b116316eddb4b7b9d3c61c63d76f5a4ddfddb5bbcb2b29650d344e7cc2d8b"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AYE.json",
+    "sha256": "4db57331f87abf16900e127896bdca6720d4258ee75737f0b0bc2b416e532b54"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AYF.json",
+    "sha256": "7b4df01c625e9de9eff8860e887e8028b7be43bf1b5e52bb20aabcb3e5fcb5a9"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AYG.json",
+    "sha256": "4f4fa0b96e55fad944e86090a53841f4b61b2123aed83587cb3d5113c149624a"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ATN.json",
+    "sha256": "6d1b01b14f616edb7a1e294a953a4350bceec63e26b77f545a4215b8c6b8dd7c"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ATO.json",
+    "sha256": "ba190f7b0287e49a7ebd35e829d16bbc992fc7f829f5f9dc1829d4ec62fcd9b7"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ATP.json",
+    "sha256": "0cc62dc68399b22b89cc3aaaf4d77fa21fdfb8d9b3add309ac27e8ab905a1f53"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual01.md",
+    "sha256": "61d83bb45e1c5a26174ef47184a2f3e4e3f1fc1d9352056babcbd0664af87a3d"
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual02.md",
+    "sha256": "1fbd5609ce8118293534a68563c30bc62cb5e44ea63d1270029b07df38bff9a4"
+  },
+  {
+    "path": "data/기출_MD_정본/연도별/2019/6월_모평/독서/Q35-38.md",
+    "sha256": "b7759da9a0c3a1a74f6d81817b9dd6e2753b6630517bc4559092d1acfeca42ad",
+    "baseline_timing": "RX 조회 후 기록·우리 작업은 읽기만 수행"
+  },
+  {
+    "path": "data/기출_MD_정본/연도별/2019/6월_모평/독서/Q35-38-S084-087.md",
+    "sha256": "b7759da9a0c3a1a74f6d81817b9dd6e2753b6630517bc4559092d1acfeca42ad",
+    "baseline_timing": "RX 조회 후 기록·우리 작업은 읽기만 수행"
+  }
+]

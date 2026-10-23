@@ -1,0 +1,115 @@
+{
+  "scope": "보기의선형도식모형을가정한신규제작변형검산.실제X선감쇄법칙검증아님.",
+  "curves": [
+    {
+      "relative_contribution_r": 1,
+      "points": [
+        {
+          "s": "0",
+          "weighted_sum_without_common_scale": "0"
+        },
+        {
+          "s": "1/2",
+          "weighted_sum_without_common_scale": "1/2"
+        },
+        {
+          "s": "1",
+          "weighted_sum_without_common_scale": "1"
+        },
+        {
+          "s": "3/2",
+          "weighted_sum_without_common_scale": "3/4"
+        },
+        {
+          "s": "2",
+          "weighted_sum_without_common_scale": "1/2"
+        },
+        {
+          "s": "5/2",
+          "weighted_sum_without_common_scale": "1/4"
+        },
+        {
+          "s": "3",
+          "weighted_sum_without_common_scale": "0"
+        }
+      ],
+      "middle_slope": "-1/2",
+      "connection_at_1": 1,
+      "connection_at_2": "1/2"
+    },
+    {
+      "relative_contribution_r": 2,
+      "points": [
+        {
+          "s": "0",
+          "weighted_sum_without_common_scale": "0"
+        },
+        {
+          "s": "1/2",
+          "weighted_sum_without_common_scale": "1/2"
+        },
+        {
+          "s": "1",
+          "weighted_sum_without_common_scale": "1"
+        },
+        {
+          "s": "3/2",
+          "weighted_sum_without_common_scale": "1"
+        },
+        {
+          "s": "2",
+          "weighted_sum_without_common_scale": "1"
+        },
+        {
+          "s": "5/2",
+          "weighted_sum_without_common_scale": "1/2"
+        },
+        {
+          "s": "3",
+          "weighted_sum_without_common_scale": "0"
+        }
+      ],
+      "middle_slope": "0",
+      "connection_at_1": 1,
+      "connection_at_2": "1"
+    },
+    {
+      "relative_contribution_r": 3,
+      "points": [
+        {
+          "s": "0",
+          "weighted_sum_without_common_scale": "0"
+        },
+        {
+          "s": "1/2",
+          "weighted_sum_without_common_scale": "1/2"
+        },
+        {
+          "s": "1",
+          "weighted_sum_without_common_scale": "1"
+        },
+        {
+          "s": "3/2",
+          "weighted_sum_without_common_scale": "5/4"
+        },
+        {
+          "s": "2",
+          "weighted_sum_without_common_scale": "3/2"
+        },
+        {
+          "s": "5/2",
+          "weighted_sum_without_common_scale": "3/4"
+        },
+        {
+          "s": "3",
+          "weighted_sum_without_common_scale": "0"
+        }
+      ],
+      "middle_slope": "1/2",
+      "connection_at_1": 1,
+      "connection_at_2": "3/2"
+    }
+  ],
+  "continuity": "s=1과s=2의좌우식일치;양끝0",
+  "original_r": 2
+}

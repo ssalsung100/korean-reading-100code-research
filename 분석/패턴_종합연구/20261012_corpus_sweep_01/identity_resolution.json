@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-12",
+  "resolutions": [
+    {
+      "analysis_id": "독립풀이_03:C",
+      "old_group": "U0498",
+      "new_group": "U0451",
+      "old_question": "U0498-Q01",
+      "new_question": "U0451-Q03",
+      "verification": "본문 차이는 작업용 P1 표지·문항 범위·읽기 지시문뿐. 이를 제거하면 본문·발문·5선지 일치. 시험·연도·형·번호도 같음.",
+      "source_paths": [
+        "data/기본기_연구/독립풀이_03/packets/C.md",
+        "data/기본기_연구/prepared_backlog/blind_sources/BOK.json"
+      ]
+    },
+    {
+      "analysis_id": "독립풀이_03:D",
+      "old_group": "U0499",
+      "new_group": "U0468",
+      "old_question": "U0499-Q01",
+      "new_question": "U0468-Q01",
+      "verification": "본문 차이는 작업용 P1 표지·문항 범위·읽기 지시문뿐. 이를 제거하면 본문·발문·5선지 일치. 시험·연도·형·번호도 같음.",
+      "source_paths": [
+        "data/기본기_연구/독립풀이_03/packets/D.md",
+        "data/기본기_연구/prepared_backlog/blind_sources/BQG.json"
+      ]
+    },
+    {
+      "analysis_id": "독립풀이_03:H",
+      "old_group": "U0500",
+      "new_group": "U0301",
+      "old_question": "U0500-Q01",
+      "new_question": "U0301-Q02",
+      "verification": "본문 차이는 작업용 P1 표지·문항 범위·읽기 지시문뿐. 이를 제거하면 본문·발문·5선지 일치. 시험·연도·형·번호도 같음.",
+      "source_paths": [
+        "data/기본기_연구/독립풀이_03/packets/H.md",
+        "data/기본기_연구/prepared_backlog/blind_sources/AXA.json"
+      ]
+    }
+  ],
+  "previous_group_count": 500,
+  "current_group_count": 497,
+  "previous_unique_completed_questions": 1672,
+  "current_unique_completed_questions": 1669,
+  "interpretation": "처음 연결 집합의 임시 수에서 legacy C/D/H 수록 중복을 추가 제거했다. 기존 완료 원장은 변경하지 않는다.",
+  "provenance_correction": {
+    "group": "G160",
+    "unique_group": "U0142",
+    "stored_academic_year": 2025,
+    "actual_academic_year": 2026,
+    "actual_exam": "2026학년도 6월 모평",
+    "record_id": "ZD-answer_check-20260920-02",
+    "scope": "G160 Q1~3의 저장 학년도 오연결 정정. G162의 2025학년도6월 원문은 별도 지문 유지."
+  }
+}

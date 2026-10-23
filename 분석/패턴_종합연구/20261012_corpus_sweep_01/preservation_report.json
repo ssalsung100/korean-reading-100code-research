@@ -1,0 +1,19 @@
+{
+  "baseline_file_count": 9869,
+  "unchanged_file_count": 9867,
+  "changed_evidence_or_frozen_inputs": [],
+  "missing_files": [],
+  "changed_noninput_live_sibling_files": [
+    {
+      "path": "분석/패턴_종합연구/20261012_synthesis_01/build_assets.py",
+      "before_sha256": "e3f4c025c572cb39d2b3cca23b74ae7976b51a818551d249b39368d6973d9e86",
+      "current_sha256": "48ecac633abaaf911a362f5ed1f3771d639901e9033835ca97d03979e49fabff"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261012_synthesis_01/decision_raw.jsonl",
+      "before_sha256": "daffc25f6ce67759b2c9432046412657169c966725647cb41ff445b3ff8c2b7f",
+      "current_sha256": "10fd42a73faf7d71816f0cbee68bb8620e16eef0b6703d13377b73e534773776"
+    }
+  ],
+  "explanation": "이웃 20261012_synthesis_01은 이번 판단 근거나 동결 근거 집합에 사용하지 않았다. 본 작업에서는 쓰지 않았다. 넓은 디렉터리 기준에 포함되어 해시 변화가 관측되었으므로 별도 기록하며 모든 파일 불변으로 보고하지 않는다."
+}

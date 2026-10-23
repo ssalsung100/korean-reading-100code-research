@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AYD": [
+      {
+        "line": 5014,
+        "record_id": "AYD-independent_code-20260928-01",
+        "case": "AYD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:42:32.453984+09:00",
+        "payload": {
+          "passage_group": "G349",
+          "primary": [
+            75,
+            13
+          ],
+          "auxiliary": [
+            12,
+            14,
+            58,
+            4
+          ],
+          "surface": [
+            79
+          ],
+          "decisive_operation": "공유하는 예·형 존중과 달리 포상·처벌의 동시 적용 가능성에서 갈라짐을 확인한다. 유종원은 예에 맞으면 처벌불가, 진자앙은 해당사건을 포상하면서 처벌 가능.",
+          "competing_codes": [
+            {
+              "code": 58,
+              "rejection": "④의 공통전제 배제에 유효하나 정답③은 같은 사례에 대한 결론의 양립불가이다."
+            },
+            {
+              "code": 14,
+              "rejection": "두 규범의 병행 가능성이 쟁점이라 유효 보조. 양립가능/불가를 별개 연산으로 중복 계수하지 않음."
+            },
+            {
+              "code": 4,
+              "rejection": "②⑤의 무조건/일반 허용 과장은 배제에 필요하지만③의 직접 대립은 범위보다 적용결론 차이."
+            },
+            {
+              "code": 70,
+              "rejection": "강제된 두 선택 모두 손실이라는 딜레마를 해결하는 문제가 아니라 두 입장의 반대 결론을 찾는다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.94,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYE": [
+      {
+        "line": 5035,
+        "record_id": "AYE-independent_code-20260928-01",
+        "case": "AYE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:48:06.939584+09:00",
+        "payload": {
+          "passage_group": "G350",
+          "primary": [
+            2,
+            41
+          ],
+          "auxiliary": [
+            49,
+            91,
+            40
+          ],
+          "surface": [
+            92,
+            1
+          ],
+          "decisive_operation": "부분조건 개선의 누적을 전체효율 증가의 보장으로 바꾸지 않는다.⑤의 비례적 증가 주장이 핵심 부정대상.",
+          "competing_codes": [
+            {
+              "code": 10,
+              "rejection": "모든조건은최적의필요조건이나 그 중 일부의 개수가 효율을 보장하는지와 구별해야 한다."
+            },
+            {
+              "code": 91,
+              "rejection": "⑤비례표현에적용되지만 실수계수나비율계산이아니며 보장부정이더기본적이다."
+            },
+            {
+              "code": 4,
+              "rejection": "조건의개수를다루지만 전칭/특칭의적용대상확대가직접오류는아니다."
+            },
+            {
+              "code": 46,
+              "rejection": "부문연결이배경이나특정원인기제의방향복원없이일반보장부정으로판정가능."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYF": [
+      {
+        "line": 5036,
+        "record_id": "AYF-independent_code-20260928-01",
+        "case": "AYF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:48:07.048604+09:00",
+        "payload": {
+          "passage_group": "G350",
+          "primary": [
+            63,
+            37
+          ],
+          "auxiliary": [
+            36,
+            39,
+            86
+          ],
+          "surface": [
+            12,
+            25
+          ],
+          "decisive_operation": "관세동맹은효율을낮출수있다는주장을실제로구현하는공급비용상승사례를선택한다.②C→B는최저비용에서이탈하고③A→B의상대순서는미정.",
+          "competing_codes": [
+            {
+              "code": 36,
+              "rejection": "항상효율증가라는상대주장의반례로도동일사례를설명가능;바이너존재가능주장의지지63과국소중첩."
+            },
+            {
+              "code": 88,
+              "rejection": "총무역창출과전환을비교하는지문구조는있지만정답보기는직접공급원교체이며두효과량의합산없음."
+            },
+            {
+              "code": 84,
+              "rejection": "관세나가격비율계산이없고생산비용순서만필요."
+            },
+            {
+              "code": 46,
+              "rejection": "관세동맹의작용은배경이나지지사례선정에서결정적인것은전후공급원의비용차이."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "AYE": "G350_emphasis_restored.md 직접 확인. 기존 hold→강조구 복원→blind→answer 순서 보존."
+}

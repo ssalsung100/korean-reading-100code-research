@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BDD": [
+      {
+        "line": 5601,
+        "record_id": "BDD-independent_code-20261002-01",
+        "case": "BDD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:46:25.765464+09:00",
+        "payload": {
+          "passage_group": "G391",
+          "primary_codes": [
+            60
+          ],
+          "auxiliary_codes": [
+            3,
+            93
+          ],
+          "surface_codes": [
+            36
+          ],
+          "decisive_operation": "대화 속 실제 주장·근거·동의가 어느 단계에 존재하는지 확인하여 없는 정당화와 동의의 선행 단계를 삽입한③을 배제한다.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "③의 먼저 정당화·동의 후 연결이라는 순서는 오류의 일부다. 하지만 실제로 존재하지 않는 good→beautiful 논증을 순서만 바꿔도 고칠 수 없으므로 주60."
+            },
+            {
+              "code": 93,
+              "reason": "발화자 질문·동의는 논증이 드러나는 형식이다. 단순 메시지 전달 실패를 묻는 것이 아니다."
+            },
+            {
+              "code": 36,
+              "reason": "① 수족 절단은 자기 것 사랑설의 반례여서 적용되나 정답③의 없는 정당화 검사는 반례 제시와 다르다."
+            }
+          ],
+          "boundary_note": "④의 근거 관계는 문장 등장 순서와 달라도 성립. 명시된 논증 구조와 텍스트 배치를 별도 저장.",
+          "confidence": 0.9,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDF": [
+      {
+        "line": 5603,
+        "record_id": "BDF-independent_code-20261002-01",
+        "case": "BDF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:46:25.766643+09:00",
+        "payload": {
+          "passage_group": "G391",
+          "primary_codes": [
+            23
+          ],
+          "auxiliary_codes": [
+            39,
+            78,
+            19
+          ],
+          "surface_codes": [
+            75
+          ],
+          "decisive_operation": "서로 다른 두 사랑 설명에서 결핍 상태를 넘는 지향이라는 공통 관계를 추출하고 구체적 반쪽 회복이나 영생 결과의 동일성은 요구하지 않는다.",
+          "competitor_refutations": [
+            {
+              "code": 39,
+              "reason": "두 관점의 공통/차이 대조는23과 국소 동일 행동. 별도 연산 중복 없음."
+            },
+            {
+              "code": 19,
+              "reason": "불완전한 상태를 넘어 보완한다는 내용이 공통. 상징 반쪽과 가사성 해소가 같은 실제 보충 수단이라고 하지는 않는다."
+            },
+            {
+              "code": 78,
+              "reason": "갈망과 목적이라는 공통 내용의 구조다. 공통점 추출23과 분류 축이 다르며 이 문항에서 함께 성립한다."
+            }
+          ],
+          "boundary_note": "공통성의 추상도는 결핍 극복 지향으로 제한. 같은 목적의 구체 내용·달성 방식·실제 성공을 전이하지 않음.",
+          "confidence": 0.9,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDG": [
+      {
+        "line": 5612,
+        "record_id": "BDG-independent_code-20261002-01",
+        "case": "BDG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:49:24.106464+09:00",
+        "payload": {
+          "passage_group": "G392",
+          "primary_codes": [
+            39
+          ],
+          "auxiliary_codes": [
+            3,
+            44,
+            5
+          ],
+          "surface_codes": [
+            86
+          ],
+          "decisive_operation": "의식별 국왕과 관원의 입퇴장 순서를 대응한 뒤 국왕의 대기 부담/부동성을 비교하고 수정 오례와 국조오례의의 동일 형식을 보존한다.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "입퇴장 선후가 비교의 핵심 입력이다.단순 연대 나열만으로 편의 정도를 알 수 없어39와44가 함께 필요하다."
+            },
+            {
+              "code": 44,
+              "reason": "군주상과 편의라는 두 목적의 반영을 판단한다. 순서 변형이 어떤 목적을 더 만족하는지39와 층위 중첩."
+            },
+            {
+              "code": 86,
+              "reason": "더 고려라는 말이 있지만 수치의 절대량/상대량 교환이 아니다. 절차상 대기·관람 여부의 질적 비교이다."
+            }
+          ],
+          "boundary_note": "태조→태종→세종이라는 시간 순서를 편의의 단조 증가로 읽지 않는다. 오례→국조오례의는 실제 형식 변화 없음.",
+          "confidence": 0.89,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.BDF완전성은지향추상도의공통성으로한정하는기존유보승계."
+}

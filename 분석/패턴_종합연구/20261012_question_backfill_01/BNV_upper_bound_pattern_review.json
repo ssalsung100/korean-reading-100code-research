@@ -1,0 +1,6 @@
+{
+  "amendment_id": "QBF01-AMD048",
+  "scene": "QBF01-U0446-Q03-S02",
+  "decision": "기존 후보 연결 비움. 상한만으로 정확한 상대값 없이 비교 배제라는 행동 자체는 보존. 반복 사례를 더 검토한 뒤 통합/분리 판단.",
+  "semantic_inference_changed": false
+}

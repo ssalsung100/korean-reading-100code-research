@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BFR": [
+      {
+        "line": 5907,
+        "record_id": "BFR-independent_code-20261002-r3-01",
+        "case": "BFR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:23:08.238763+09:00",
+        "payload": {
+          "general_task": "두 평가 방법의 차이·공통점 확인",
+          "decisive_relation": "반대 증거로 배제되는 동일 조건에서 두 방법의 결론이 같음",
+          "primary": [
+            39
+          ],
+          "auxiliary": [
+            75,
+            12
+          ],
+          "surface": [
+            71,
+            63
+          ],
+          "code_rationale": {
+            "39": "⑤가 뒤집은 것은 동일 조건 아래 두 방법의 결과의 같음/다름",
+            "75": "경쟁하는 방법의 내용을 각각 보존.74/75 통합군 대표",
+            "12": "부정적 효과라는 조건 고정"
+          },
+          "competing_codes": [
+            {
+              "code": 71,
+              "rebuttal": "제거법 설명 소재이나 실제 여러 선택가설을 하나씩 소거하는 실행 문제가 아니다."
+            },
+            {
+              "code": 63,
+              "rebuttal": "증거 평가 방식의 설명을 비교하지 새로운 증거로 한 가설을 직접 평가하지 않는다."
+            },
+            {
+              "code": 74,
+              "rebuttal": "75와 별도 본질 경계를 만들지 않으며 통합군 관점은 보조. 결정 오류는 같음/다름."
+            }
+          ],
+          "confidence": 0.94,
+          "passage_group": "G413",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BFT": [
+      {
+        "line": 5918,
+        "record_id": "BFT-independent_code-20261002-r3-01",
+        "case": "BFT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:27:17.036460+09:00",
+        "payload": {
+          "passage_group": "G414",
+          "general_task": "법제 형성에 대한 추론 평가",
+          "decisive_relation": "법전 완비 지연과 두 법원 병존체제 출현 지연의 설명 대상 교체",
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            3,
+            46
+          ],
+          "surface": [
+            59,
+            79
+          ],
+          "code_rationale": {
+            "17": "원인설명이 걸리는 결과가 완비에서 전율 출현으로 바뀜",
+            "3": "국전끼리 충돌할 때에는 대명률과 국전이 이미 병존",
+            "46": "국전 충돌이라는 원인의 효과 범위를 추적"
+          },
+          "competing_codes": [
+            {
+              "code": 46,
+              "rebuttal": "인과연결이 있지만 오류는 원인 자체의 부재보다 결과대상 교체.17을 결정 관계로 우선."
+            },
+            {
+              "code": 59,
+              "rebuttal": "본문 편찬은 문제해결 구조이나 정답은 해결책 적합성보다 설명 대상 혼동."
+            },
+            {
+              "code": 3,
+              "rebuttal": "시간순서는 반증 근거이나 단순 선후 역전만으로 두 결과 개념 차이를 모두 설명하지 못함."
+            }
+          ],
+          "confidence": 0.9,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BFX": [
+      {
+        "line": 5931,
+        "record_id": "BFX-independent_code-20261002-r3-01",
+        "case": "BFX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:30:28.961228+09:00",
+        "payload": {
+          "passage_group": "G415",
+          "general_task": "표에서 계통수 산출",
+          "decisive_relation": "차이 비율 계산→최소값 결합→거리 재계산의 반복",
+          "primary": [
+            92
+          ],
+          "auxiliary": [
+            45,
+            86
+          ],
+          "surface": [
+            25,
+            23
+          ],
+          "code_rationale": {
+            "92": "AD2/8,갱신AD-C3/8,AD-B5/8 등 산술이 분기를 결정",
+            "45": "표 입력→거리→갱신군의 순차 처리",
+            "86": "최솟값 비교"
+          },
+          "competing_codes": [
+            {
+              "code": 15,
+              "rebuttal": "규칙 준수라는 상위 설명은 되나 핵심 단계별 수치와 재계산을 지운다."
+            },
+            {
+              "code": 23,
+              "rebuttal": "공유파생만 묶는 BFW 규칙을 적용하면 처음AB를 묶는 다른 답이 나온다."
+            },
+            {
+              "code": 25,
+              "rebuttal": "트리형 산출물이라는 형식만으로 어떤 가지가 먼저 결합할지 결정되지 않는다."
+            }
+          ],
+          "confidence": 0.98,
+          "sdss_disclosed": false,
+          "unresolved": "번호④는 원문 선지번호 대응 검증 대기.구조답은 visual08."
+        }
+      }
+    ]
+  },
+  "BFX": "공식2010홀수형5쪽12번의표와선지번호를직접확인. visual05~09도각각판독하여①~⑤대응확정. 원번호유보는이번사후단계에서해소하고최초기록은보존."
+}

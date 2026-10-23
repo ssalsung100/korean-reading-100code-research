@@ -1,0 +1,309 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BCF": [
+      {
+        "line": 5483,
+        "record_id": "BCF-independent_code-20261002-01",
+        "case": "BCF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G383",
+          "primary": [
+            {
+              "code": 45,
+              "reason": "방정식 인자와 보기 요소가 예측치에 영향을 미치는 경로를 연결해야 함.최초 오답은 직접인자/간접조건의 연결 허용 기준이 일관되지 않았음."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "항성 수명/문명 존속 기간 및 은하 전체 성분/행성의 생명 재료를 서로 다른 대상 수준으로 유지"
+            },
+            {
+              "code": 64,
+              "reason": "우리 은하라는 예측 범위를 은하 개수로 확장하는ㄴ 배제"
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "방정식 소재이지만 수치 대입·계산은 하지 않음"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 10,
+              "reason": "생명 일반의 필요 재료를 파악하는 것만으로 방정식에 고려할 입력의 공간·시간 단위를 확정하지 못함."
+            },
+            {
+              "code": 98,
+              "reason": "항성의 수명/은하의 원소라는 수식어는 중요하나 소유자 차이만으로 간접 영향의 유무를 결정할 수 없음."
+            },
+            {
+              "code": 84,
+              "reason": "분자/분모 역관계가 아니라 곱셈 인자의 의존 경로와 대상범위 문제."
+            }
+          ],
+          "boundary_note": "저장 공식②에 따라항성수명→생명 가능 기간/문명 존속 상한 연결은 검토 후보.그러나 ㄹ의 은하 구성 원소 종류를 배제하는 충분한 지문 내부 근거는 아직 확정하지 못함.공식답에 맞추어 요소무관을 단정하지 않는다.",
+          "answer_disagreement": {
+            "blind": 3,
+            "sealed_official": 2,
+            "original_official_verification": "Luna 기계확인 대기",
+            "unresolved": "ㄱㄷ 수용과ㄹ 배제에서 허용되는 간접 영향/범위의 기준"
+          },
+          "confidence": 0.66,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BCG": [
+      {
+        "line": 5501,
+        "record_id": "BCG-independent_code-20261002-01",
+        "case": "BCG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G384",
+          "primary": [
+            {
+              "code": 64,
+              "reason": "작품의실제갈등초점을산업화소외/상실감이라는외부의주제틀로바꾼①배제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 78,
+              "reason": "친구들의감정단절과선구의화해동기를서사중심으로복원"
+            },
+            {
+              "code": 59,
+              "reason": "소통단절문제와옛정/술자리해결시도는③의직접구조"
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "197×연도는배경확인이지①전체해석을보증하지않음"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 83,
+              "reason": "도농격차사실과상실감이라는가치대립이주문제는아님."
+            },
+            {
+              "code": 63,
+              "reason": "경제사회이론에대한증거지지평가가아니라작품근거에맞는주제범위판정."
+            },
+            {
+              "code": 100,
+              "reason": "④⑤의표현/상징검토는국소타당선지이고①의서사주제대체가핵심."
+            }
+          ],
+          "boundary_note": "64의논의영역을문학주제범위에국소적용한작업판정.모든작품내용불일치를64로자동분류하지않음.",
+          "confidence": 0.87,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BCI": [
+      {
+        "line": 5503,
+        "record_id": "BCI-independent_code-20261002-01",
+        "case": "BCI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G384",
+          "primary": [
+            {
+              "code": 78,
+              "reason": "만득의태도변화를근거있는인정·자기반성의동기로설명하고추종성격으로환원한①배제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 80,
+              "reason": "발화내용에서인물별인식/자기성찰귀속"
+            },
+            {
+              "code": 96,
+              "reason": "⑤산전수전다의관용적노련함을기계적전칭으로읽지않음"
+            }
+          ],
+          "surface": [
+            {
+              "code": 5,
+              "reason": "태도변화는관측된사실이지만변화여부만으로소신없음판정불가"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 18,
+              "reason": "이전비판과이후인정이논리적모순이라서인물평가가틀린것이아님.인정대상과자기반성내용이다름."
+            },
+            {
+              "code": 63,
+              "reason": "선구말의논리적설득력평가보다는만득의동기/성격을판정."
+            },
+            {
+              "code": 4,
+              "reason": "⑤의다는관용표현이므로모든사건경험이라는양화오류로주판정하지않음."
+            }
+          ],
+          "boundary_note": "태도변화의원인에타인의말이영향을줬다는것과내용없이따라가는성격이라는것은다르다.사고내용의자립근거를확인.",
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BCJ": [
+      {
+        "line": 5504,
+        "record_id": "BCJ-independent_code-20261002-01",
+        "case": "BCJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G384",
+          "primary": [
+            {
+              "code": 96,
+              "reason": "문맥속낯선어휘를실제행위방식과대응해풀이가맞는지검사"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "욕심껏취함과남에게빌어얻음의행위범주구별"
+            },
+            {
+              "code": 16,
+              "reason": "어휘뜻의구별성분을검사한다는국소층위"
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "물외밭/뼈를곤돈의비유적대조가문맥근거이나표적은걸태질뜻풀이"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 97,
+              "reason": "발화자가어떤의도로말했는지보다어휘행위의뜻판별."
+            },
+            {
+              "code": 99,
+              "reason": "대명사/지시어대용대상복원아님."
+            },
+            {
+              "code": 78,
+              "reason": "욕심이라는동기는문맥에있지만인물행위의동기를설명하는과제보다행위어뜻대응."
+            }
+          ],
+          "boundary_note": "96의광범위한일상어분류만으로충분한세부연산이아니므로행위방식차이를필수기록.완전한사전정의검증과원문추론을구별.",
+          "confidence": 0.86,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "별도판정": {
+    "case_id": "BASIC-C10-MEET-2007-Q34",
+    "code_number": 10,
+    "exam_family": "MEET",
+    "year": 2007,
+    "question_number": 34,
+    "local_question_id": "MEET-2007-Q34",
+    "passage_id": "MEET-2007-Q32-34",
+    "source_path": "자료/MEET_언어추론/전사_검수완료/2007/q32-34.md",
+    "official_answer": "②",
+    "official_answer_source": "자료/MEET_언어추론/공식_정답표_원본/2007_언어추론_정답표.hwp",
+    "site_code_label": "필요조건",
+    "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%99%B8%EA%B3%84+%EC%83%9D%EB%AA%85%EC%B2%B4+%ED%83%90%EC%82%AC",
+    "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%ED%95%84%EC%9A%94%EC%A1%B0%EA%B1%B4",
+    "passage_structure_codes": [
+      10,
+      92,
+      64
+    ],
+    "primary_solution_codes": [
+      10,
+      92,
+      64
+    ],
+    "support_codes": [
+      3
+    ],
+    "evidence": [
+      {
+        "location": "본문1문단",
+        "quote": "액체 상태의 물",
+        "source_path": "자료/MEET_언어추론/전사_검수완료/2007/q32-34.md",
+        "source_record_id": "MEET-2007-Q34",
+        "quote_normalization": "whitespace_only"
+      },
+      {
+        "location": "본문8문단",
+        "quote": "통신 기술을 갖고 있는 고등 문명의 존속 기간",
+        "source_path": "자료/MEET_언어추론/전사_검수완료/2007/q32-34.md",
+        "source_record_id": "MEET-2007-Q34",
+        "quote_normalization": "whitespace_only"
+      },
+      {
+        "location": "본문8문단",
+        "quote": "우리 은하 내에서",
+        "source_path": "자료/MEET_언어추론/전사_검수완료/2007/q32-34.md",
+        "source_record_id": "MEET-2007-Q34",
+        "quote_normalization": "whitespace_only"
+      }
+    ],
+    "reasoning_steps": [
+      "행성 온도는 액체 물과 생명 생존 가능 조건에 연결되어 ㄱ을 포함한다.",
+      "항성의 평균 수명은 그 주위 생명과 문명의 존속 가능한 기간을 제약하므로 ㄷ을 포함한다.",
+      "대상은 우리 은하이므로 은하 개수 ㄴ은 영역 밖이다. ㄹ의 은하 구성 원소 종류는 제시된 방정식의 독립 가변 인자로 제시되지 않는다. 공식 답은 ㄱㄷ ②."
+    ],
+    "distractor_operations": [
+      "① ㄱ을 보존하지만 우리 은하 밖의 수 ㄴ을 넣고 ㄷ 누락.",
+      "② 참: 생존 온도와 존속 기간 제약의 조합.",
+      "③ ㄱ을 보존하지만 본문 인자에 직접 대응하지 않은 ㄹ 대체.",
+      "④ ㄴ과 ㄹ로 필요한 생존·존속 요건 모두 누락.",
+      "⑤ ㄷ을 보존하지만 ㄱ을 ㄹ로 바꿈."
+    ],
+    "nearest_code_boundary": "탄소 존재의 필요성과 은하 구성 원소 종류의 변화를 동일 변수로 취급하면 ㄹ을 잘못 포함한다. #10만으로는 부족하며 #64 영역과 #92 실제 인자 대응이 필요하다. ㄹ 배제는 공식 정답과 문맥의 변수 범위에 기초한 해석이며 자연과학 일반 명제 아님.",
+    "site_tag_verdict": "주 코드 수용",
+    "review_status": "single_analyst_reviewed",
+    "site_original_codes": [
+      "A의B",
+      "내부/외부",
+      "필요조건"
+    ],
+    "site_candidate_id": "CAND-12c09736c4816153",
+    "site_snapshot": {
+      "fetched_at": "2026-09-03T11:19:36+09:00",
+      "catalog_path": "data/sdss_100codes_catalog.json",
+      "raw_path": "data/sdss_code_search_raw/010_필요조건.html",
+      "current_site_rechecked": false
+    },
+    "site_tag_relation_scope": {
+      "location": "정답②의 ㄱㄷ 및 논의 영역",
+      "interpretation": "생존·존속 제약과 본문 변수 대응. #10 단독 풀이 불충분",
+      "site_intended_scope_confirmed": false
+    },
+    "site_untagged_supplement": false,
+    "passage_source_path": "자료/MEET_언어추론/전사_검수완료/2007/q32-34.md",
+    "question_source_path": "자료/MEET_언어추론/전사_검수완료/2007/q32-34.md"
+  },
+  "검토": "원문·5선지·기존최초풀이·복수정답대조·독립판정직접확인.BCF별도판정10/92/64와prepared45중심판정병존.고유문항1회계수.",
+  "미해결": "BCFㄹ배제의충분근거와간접영향허용기준은이번에도미해결.공식문항이미지와원HWP표셀의②를직접대조했지만의미판정을정답으로대체하지않음.",
+  "실패": "BCF최초③확신0.86불변.추후정답확인을최초성공으로소급금지.",
+  "어휘": "BCJ는원문문맥에따른행위구별.이번도외부사전전문독립검증아님."
+}

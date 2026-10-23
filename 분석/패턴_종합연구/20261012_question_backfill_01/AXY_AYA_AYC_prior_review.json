@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AXY": [
+      {
+        "line": 4988,
+        "record_id": "AXY-independent_code-20260928-01",
+        "case": "AXY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:38:13.098921+09:00",
+        "payload": {
+          "passage_group": "G348",
+          "primary": [
+            49
+          ],
+          "auxiliary": [
+            47,
+            91,
+            84,
+            43
+          ],
+          "surface": [
+            46,
+            45
+          ],
+          "decisive_operation": "주파수가 낮아지면 직진성과 단위시간당 정보량이 함께 낮아진다는 방향을 복원하여③의 역방향을 배제한다. 직진성이 정보량을 직접 발생시킨다고 추론하지 않는다.",
+          "code_scope": {
+            "49": "정답③의 증감 방향",
+            "47": "주파수라는 공통 변수에 연결된 두 결과를 매개 인과로 오해하지 않음",
+            "91/84": "④의 파장 반비례·주파수 비율 역산",
+            "43": "전송량 비교에서 동일 비트당 파동 수를 고정한 원문 예시 조건"
+          },
+          "competing_codes": [
+            {
+              "code": 46,
+              "rejection": "직진성→정보량이라는 직접 경로가 제시되지 않으며 기제 복원이 정답에 필요하지 않다. 물리적 인과 배경을 주로 올리지 않음."
+            },
+            {
+              "code": 45,
+              "rejection": "함수로 표현할 수 있으나 여기서 변별되는 것은 두 증가방향이며 일반 입력출력만으로 특정 오류를 설명하기 부족."
+            },
+            {
+              "code": 91,
+              "rejection": "파장과 주파수의 반비례는④·⑤ 검증 보조이며③의 직접 핵심은 아님."
+            },
+            {
+              "code": 43,
+              "rejection": "새로운 실험통제의 타당성을 평가하는 문항은 아니며 원문 고정조건 유지 역할이다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYA": [
+      {
+        "line": 4990,
+        "record_id": "AYA-independent_code-20260928-01",
+        "case": "AYA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:38:13.321296+09:00",
+        "payload": {
+          "passage_group": "G348",
+          "primary": [
+            15,
+            12
+          ],
+          "auxiliary": [
+            44,
+            39,
+            46
+          ],
+          "surface": [
+            79,
+            8
+          ],
+          "decisive_operation": "주파수 대역의 실제 용도를 공익/효율이라는 관리기준에 대응시키고③이 공익 대역을 효율 우선으로 바꾼 것을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 8,
+              "rejection": "공익보다 효율이라는 우선순위가③에 있지만 직접 근거는0.3MHz이하의 공공용도와 관리정의 대응이다. 우선순위 일반 코드만으로 역할을 설명하지 않음."
+            },
+            {
+              "code": 59,
+              "rejection": "기술적 취약성 해결보다는 관리기준 적용이③의 핵심. 문제해결로 모든 정책선택을 묶지 않음."
+            },
+            {
+              "code": 46,
+              "rejection": "①② 정보량/소형화의 인과 경로에는 필요하지만③ 정답 판정의 주된 연산은 아님."
+            },
+            {
+              "code": 75,
+              "rejection": "경쟁주체의 견해 귀속이 아니라 주어진 관리방식 정의에 따른 사례 분류이다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYC": [
+      {
+        "line": 5013,
+        "record_id": "AYC-independent_code-20260928-01",
+        "case": "AYC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:42:32.360050+09:00",
+        "payload": {
+          "passage_group": "G349",
+          "primary": [
+            39,
+            22
+          ],
+          "auxiliary": [
+            58,
+            44,
+            13
+          ],
+          "surface": [
+            79,
+            7
+          ],
+          "decisive_operation": "예와형의 구체적 작용은 달라도 목적=무질서방지라는 속성은 공유됨을 고정한다.⑤는 공유 속성을 근본차이로 바꾼다.",
+          "competing_codes": [
+            {
+              "code": 7,
+              "rejection": "질적 차이를 확인하는 것이 아니라 차이로 제시된 항목이 실제 공통 속성임을 판정한다."
+            },
+            {
+              "code": 58,
+              "rejection": "공통목적이 두 규범에 적용되지만 두 논증의 숨은 공통전제를 찾는 것은 아님. 지문 명시근본을 보조로 설명 가능."
+            },
+            {
+              "code": 44,
+              "rejection": "질서 확보라는 목적과 두 규범의 연결은 유효하나 수단의 효율/적합성 평가를 새로 수행하지 않는다."
+            },
+            {
+              "code": 75,
+              "rejection": "진자앙과의 경쟁입장을 복원하지 않아도2문단 예·형 공통근본만으로⑤를 배제한다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.87,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "repair": "공식2014 page014/015 직접 판독. AXY·AYA의 기호c,f,λ,c=fλ 및 길이계수1/2~1/4를 이번 폴더 파생본에 복원. 기존 최초풀이의 결손 기록은 원상 유지. page014의AXX보기도 재확인했으나 기저장분을 재분석·재계수하지 않음."
+}

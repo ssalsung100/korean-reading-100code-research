@@ -1,0 +1,24 @@
+[
+  {
+    "sample_id": "PA08",
+    "question": 24,
+    "initial_choice": null,
+    "initial_content": "ⓐⓑⓒ 참,ⓓ 거짓",
+    "recovered_choice": 4,
+    "stored_answer": "④",
+    "post_exposure": true,
+    "matches": true,
+    "evidence": "근거/문항/PA08_24_원PDF페이지.png"
+  },
+  {
+    "sample_id": "PA16",
+    "question": 17,
+    "initial_choice": null,
+    "initial_content": "증가량 큼,검출시점 발색도 같음,Ct 작음",
+    "recovered_choice": 2,
+    "stored_answer": "②",
+    "post_exposure": true,
+    "matches": true,
+    "evidence": "근거/문항/PA16_17_원PDF페이지.png"
+  }
+]

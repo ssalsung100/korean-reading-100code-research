@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AYU": [
+      {
+        "line": 5097,
+        "record_id": "AYU-independent_code-20260928-01",
+        "case": "AYU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:59:25.820082+09:00",
+        "payload": {
+          "passage_group": "G355",
+          "primary": [
+            17,
+            25
+          ],
+          "auxiliary": [
+            22,
+            36,
+            4
+          ],
+          "surface": [
+            79,
+            80
+          ],
+          "decisive_operation": "자율성이라는 속성으로 가르는 인격/비인격 범주를 인간/동물 범주로 바꾼 오류를 유인원 반례로 배제한다.",
+          "competing_codes": [
+            {
+              "code": 36,
+              "rejection": "유인원이라는 한 반례로①을 기각할 수 있어 유효 보조. 범주축교환17/25와 국소중첩."
+            },
+            {
+              "code": 4,
+              "rejection": "동물 모두 자율성없음으로 확대하는 범위오류를 설명하지만 먼저 분류축을 식별해야 함."
+            },
+            {
+              "code": 80,
+              "rejection": "자기의식은 분류속성이며 이 문항은 인식행위 자체보다 그 속성의 외연 귀속을 판단한다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYW": [
+      {
+        "line": 5099,
+        "record_id": "AYW-independent_code-20260928-01",
+        "case": "AYW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:59:26.016755+09:00",
+        "payload": {
+          "passage_group": "G355",
+          "primary": [
+            15,
+            12
+          ],
+          "auxiliary": [
+            17,
+            39,
+            40,
+            86
+          ],
+          "surface": [
+            75,
+            79
+          ],
+          "decisive_operation": "이론별 기준을 각 행위에 적용하면서 물고기의 직접고통과 주변의 간접고통을 나누고 자율성의 적용범주를 지킨다.",
+          "competing_codes": [
+            {
+              "code": 39,
+              "rejection": "갑을 비교에서 고통을 겪는 주체가 본인인지 주변인지 고정하는 보조."
+            },
+            {
+              "code": 40,
+              "rejection": "직접/간접 요인 중 일부 부재를 전체 고통 부재로 바꾸는ㄱ 오류에 유효."
+            },
+            {
+              "code": 75,
+              "rejection": "이론귀속 기능은 있지만 표에명시된 기준을 적용하는 작업이 직접적."
+            },
+            {
+              "code": 86,
+              "rejection": "ㄴ의 선호좌절량 비교에는 필요하나 ㄱㄷ의 주체/범주 오류는 양만으로 해결안됨."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYX": [
+      {
+        "line": 5113,
+        "record_id": "AYX-independent_code-20260928-01",
+        "case": "AYX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:05:11.803014+09:00",
+        "payload": {
+          "passage_group": "G356",
+          "primary": [
+            45
+          ],
+          "auxiliary": [
+            17,
+            12
+          ],
+          "surface": [
+            40,
+            46
+          ],
+          "decisive_operation": "회로의 출력 위치를 고정하고 조합출력→저장입력→인버터→저장출력 순서의 변환을 추적한다.",
+          "competing_codes": [
+            {
+              "code": 40,
+              "rejection": "부품이 여러개라는 구성은 배경. 결론은 그 사이 입력출력 변환에 의해 정해진다."
+            },
+            {
+              "code": 46,
+              "rejection": "회로작동은 물리인과이나 세부 전기기제 대신 명시된 논리함수로 판정 가능."
+            },
+            {
+              "code": 17,
+              "rejection": "서로다른회로출력대상을같게읽은범위교환이 보조로 필요하지만 반전함수45가 직접근거."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.92,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "visual": "G355_visual01.md 전체와G356_visual01.png 회로 직접 판독. AYX의기존반전설명을입력표본시점과다음저장상태의관계로제한. 원기록불변."
+}

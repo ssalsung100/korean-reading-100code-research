@@ -1,0 +1,30 @@
+{
+  "status": "본문의 잔여청구·유한책임 구조를 표현한 가상 숫자; 현실 기업 자료 아님",
+  "debt": 100,
+  "initial_equity_investment": 20,
+  "rows": [
+    {
+      "assets": 80,
+      "creditor_shortfall": 20,
+      "shareholder_residual": 0,
+      "net_from_initial_investment": -20
+    },
+    {
+      "assets": 50,
+      "creditor_shortfall": 50,
+      "shareholder_residual": 0,
+      "net_from_initial_investment": -20
+    },
+    {
+      "assets": 130,
+      "creditor_shortfall": 0,
+      "shareholder_residual": 30,
+      "net_from_initial_investment": 10
+    }
+  ],
+  "formulas": {
+    "residual": "max(A-D,0)",
+    "net_profit": "max(A-D,0)-I"
+  },
+  "boundary": "투자액I 고정 및 본문의 유한책임 모형.평판·보증·다른 법적 책임을 임의 추가하지 않음.확률이 없어 기대수익 숫자는 계산하지 않음."
+}

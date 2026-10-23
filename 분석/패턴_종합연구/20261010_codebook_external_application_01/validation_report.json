@@ -1,0 +1,23 @@
+{
+  "status": "pass",
+  "validation_scope": "형식·추적성·입력 불변 검사",
+  "semantic_validity_certified": false,
+  "official_answers_checked": false,
+  "checked": {
+    "passages": 6,
+    "items": 21,
+    "choices": 105,
+    "evidence_links": 350,
+    "text_evidence_links": 347,
+    "image_links": 3,
+    "initial_solution_preserved": true,
+    "input_baselines_unchanged": true,
+    "frozen_codebook_unchanged": true
+  },
+  "limits": [
+    "자동 검사 통과는 의미적 타당성 완료가 아님",
+    "시각 전사의 의미 일치는 자동 검사 대상 아님",
+    "실제 런타임 모델 ID와 effort는 미확인"
+  ],
+  "validated_at": "2026-10-10T12:40:08.949321+00:00"
+}

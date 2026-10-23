@@ -1,0 +1,330 @@
+{
+  "created_at": "2026-10-10T12:08:21.197855+00:00",
+  "groups": {
+    "G064": [
+      "JN",
+      "JO"
+    ],
+    "G095": [
+      "NK",
+      "NL",
+      "NM",
+      "NN",
+      "NO"
+    ],
+    "G119": [
+      "RV",
+      "RW",
+      "RX",
+      "RY"
+    ],
+    "G157": [
+      "YR",
+      "YS",
+      "YT",
+      "YU"
+    ],
+    "G350": [
+      "AYE",
+      "AYF",
+      "AYG"
+    ],
+    "G310": [
+      "ATN",
+      "ATO",
+      "ATP"
+    ]
+  },
+  "inputs": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "0c5f3746b820f3ab4ec8aa2f53401b00742a69c2106ebb4241cce56305b73787",
+      "size_bytes": 9584,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/codebook_v0.2.json",
+      "sha256": "cb25b7b5438863c4c0f437f5f2e115cc30865183202edd79b0e7a8de5b5c9dff",
+      "size_bytes": 100234,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/manifest.jsonl",
+      "sha256": "29bbdf41af019151d0342a846b3cfa48cec22142f41f24f5d895c4b8e4392e48",
+      "size_bytes": 1067623,
+      "scope": "원문 라우팅·결손 메타데이터만"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/JN.json",
+      "sha256": "0c1560f42da81f849739720abd38b202e0f432381f4f29ad0d45c5a4e2310321",
+      "size_bytes": 3741,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/JO.json",
+      "sha256": "303ba44b047d291aab5aacba358f65b13cf4d6cf5ef225e62ae2fd00d5c775f4",
+      "size_bytes": 4262,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NK.json",
+      "sha256": "fd624a37f7b6033349a9688a23b46887a131231e30d3b8b10c4321a721d20230",
+      "size_bytes": 5927,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NL.json",
+      "sha256": "13db663503ce637af63527c7e05030b1cc71a0879792e946d3900d8b1a8a5a18",
+      "size_bytes": 6536,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NM.json",
+      "sha256": "73da536e8efecb147cc63abf53f5fffc08a20df9546a6bd80b66dd4996412375",
+      "size_bytes": 6158,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NN.json",
+      "sha256": "22af361949d93246b5cf83639f7b093eaf5a5b3ac982ce7f8b7ab8809e74c2ab",
+      "size_bytes": 6376,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NO.json",
+      "sha256": "5fae703f23010303abbb74b42e56ad47e9df5df38ce0a45913231821d949514e",
+      "size_bytes": 5681,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RV.json",
+      "sha256": "434e62a0089e11971dfbbd0be907f7c374197c0687d6945e94aef9e67c8bd8d8",
+      "size_bytes": 5780,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RW.json",
+      "sha256": "a2094074edb360d5b7babeeb684b9442eeabf2a63d15b0282a85cc78945f9654",
+      "size_bytes": 5817,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RX.json",
+      "sha256": "31e2cf62bdf544ebe57c0379fb87c4b651142424a2532f229a93ef4f99d469dd",
+      "size_bytes": 5517,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RY.json",
+      "sha256": "ff87147b1ef3776dea7ea192cd68acfc80fb4de1060d2b4d1e565a95d952d641",
+      "size_bytes": 6623,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YR.json",
+      "sha256": "eac85daddbacc74a88f99307fbb093917ead21a5ddbecb3805f1dbc554472d9e",
+      "size_bytes": 3709,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YS.json",
+      "sha256": "c8cd93970dfae2f50c29501c696cff31292e878a26909215dd2a14db817097e0",
+      "size_bytes": 4002,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YT.json",
+      "sha256": "26297936ae87cc8b8f30901d7ca1cd10d7327ebca1b4e030e4faf4c7fb31c187",
+      "size_bytes": 4128,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YU.json",
+      "sha256": "0d3b116316eddb4b7b9d3c61c63d76f5a4ddfddb5bbcb2b29650d344e7cc2d8b",
+      "size_bytes": 3424,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/AYE.json",
+      "sha256": "4db57331f87abf16900e127896bdca6720d4258ee75737f0b0bc2b416e532b54",
+      "size_bytes": 6833,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/AYF.json",
+      "sha256": "7b4df01c625e9de9eff8860e887e8028b7be43bf1b5e52bb20aabcb3e5fcb5a9",
+      "size_bytes": 7215,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/AYG.json",
+      "sha256": "4f4fa0b96e55fad944e86090a53841f4b61b2123aed83587cb3d5113c149624a",
+      "size_bytes": 6726,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ATN.json",
+      "sha256": "6d1b01b14f616edb7a1e294a953a4350bceec63e26b77f545a4215b8c6b8dd7c",
+      "size_bytes": 6501,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ATO.json",
+      "sha256": "ba190f7b0287e49a7ebd35e829d16bbc992fc7f829f5f9dc1829d4ec62fcd9b7",
+      "size_bytes": 6258,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ATP.json",
+      "sha256": "0cc62dc68399b22b89cc3aaaf4d77fa21fdfb8d9b3add309ac27e8ab905a1f53",
+      "size_bytes": 6313,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RX_choice_table.md",
+      "sha256": "8705f86730e770c4776de536b0d5aa5d63215aa16ac2da2cdb0f5a5aa91bf2ab",
+      "size_bytes": 695,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual01.md",
+      "sha256": "61d83bb45e1c5a26174ef47184a2f3e4e3f1fc1d9352056babcbd0664af87a3d",
+      "size_bytes": 292,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual02.md",
+      "sha256": "1fbd5609ce8118293534a68563c30bc62cb5e44ea63d1270029b07df38bff9a4",
+      "size_bytes": 1103,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_emphasis_restored.md",
+      "sha256": "13a697882bfc5a2ad9ef6e8960c124d0f552894607ee8bcc33ff8e5f9de5a963",
+      "size_bytes": 1283,
+      "scope": "이번 작업에 허용된 입력"
+    },
+    {
+      "path": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2015/page_002.png",
+      "sha256": "5b401464ebaf8de79cc9dd8864319d7407d222a39038c937235f12df7d232554",
+      "size_bytes": 199451,
+      "scope": "G350 원문·강조구·문항·보기 표 직접 시각 확인; 2쪽의 앞 지문 문항2·3은 화면에 부수적으로 노출되었으나 분석하지 않음"
+    },
+    {
+      "path": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2015/page_003.png",
+      "sha256": "6bf85b88ec1c2818cb61db13bfab0d7672d6b1eacf0066ed1ba704d462894bd4",
+      "size_bytes": 117792,
+      "scope": "G350 원문·강조구·문항·보기 표 직접 시각 확인; 2쪽의 앞 지문 문항2·3은 화면에 부수적으로 노출되었으나 분석하지 않음"
+    }
+  ],
+  "prohibited_read": [
+    "Sol stage1 독립 풀이·후보·분석",
+    "기존 100코드 풀이·정답·SDSS 기록",
+    "sealed 정답 자료"
+  ],
+  "frozen_folder_baseline": [
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/README.md",
+      "sha256": "664a86c370f4f45d4496cbd99f4dca93ac32f65ab4d6ff58684bcf5aafa46ad9"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/annotation_schema.json",
+      "sha256": "fa86716d5e1b5e79a5343b835e805a57508b82bf8b7d3e33bedcd6a43a6735a5"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/application_protocol.md",
+      "sha256": "9c88dc1d2b577f722dfe8669374c0bc8a574259ba79e79c363761a495b9d1be3"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/build_codebook.py",
+      "sha256": "b227f74c09678d421dabf4be5308b642961cd27ca009fd2e914a1f946274c675"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/codebook_v0.2.json",
+      "sha256": "cb25b7b5438863c4c0f437f5f2e115cc30865183202edd79b0e7a8de5b5c9dff"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/codebook_v0.2.md",
+      "sha256": "70f8dfa698b5901abc94ffd84b4a68ad81bbee396a27b0174e7f4018b29cee27"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/count_patterns.py",
+      "sha256": "d163d34ce4456b5e2daf95b46d3c47f11f482b3db9a74628e3b21a0b01584c8f"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/count_reconciliation.json",
+      "sha256": "c7232390f932701a754d2b0d27fa4592e1784ffc92c22c1a2e0f9897cfd11f79"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/count_reconciliation.md",
+      "sha256": "721b3e8572810c45aac187a8edf37d33ae65e2abb3dd936a71614d215b434717"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/counting_rules.md",
+      "sha256": "4309da1f34d4c1206a3e5303a6e2a00b95dc5854bbdc3a9d850cf63890415e7e"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/event_mapping_v0.2.jsonl",
+      "sha256": "49cc6fb521fb9ac6c44289934740428b48e544f662e55ef4143b61dc7d0de1f5"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/event_mapping_v0.2.md",
+      "sha256": "dfc2251d6f5243754a352ae7b577b4f30b73f01ee394fd75d5a14adba02cc7ff"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/external_annotation_template.json",
+      "sha256": "b18c0f3a17650216da3c6ac31a80f436b0efdfdc8dcd863cd1ea3e285017d5c6"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze.py",
+      "sha256": "91ace1ba2986b38179591d70342e123e4d6a2e00e66768a408aa82475c9eedd4"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze_manifest.json",
+      "sha256": "e06c9524dbef2fe54f0f62415c1762d33d0db8795c66066199e9c473b19f0402"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze_manifest.sha256",
+      "sha256": "4d438494c104cb2a4e49c47a0c3d2d6d33b678342e631ed2000a661004e91178"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/freeze_report.md",
+      "sha256": "1bf0430079ffa07f629a32cfb6c85d9107f69d9d021491291835bcd8b1ba832e"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/independent_validation_inputs.md",
+      "sha256": "d4e08ba3079706983bd49477c6eed7869a2a0974603a385944988439887118cd"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/input_inventory.json",
+      "sha256": "503f80ad57e180cf1dfb62887eb313cdeea4d74d3ead1ee6c79abad671535fae"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/management_metadata.json",
+      "sha256": "684d7822583e587dab1a15e8be1ca4e23b286e6b7cb34f6457d96889eb77f0ea"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/preservation_baseline.json",
+      "sha256": "64672da5da967759ef4b97f851effec306ec909f1a4e166b9555cca21de5bd34"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/validate_codebook.py",
+      "sha256": "8ec028cc4696ebb0000c13ee151de2774a3c9892d496dc6812c677441159c93e"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/validation_report.json",
+      "sha256": "4dea4065b4a8eba29d1c3f0cd1a029761d82b226f004d07dac23316db27b1194"
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/verify_freeze.py",
+      "sha256": "e2dc02ad37bacf0f526e3d9639a0be4b86f9f5cbe7e47ae26d93ccec25b170d4"
+    }
+  ],
+  "mechanical_hash_scope": "동결 폴더 전체는 수정 검증용 바이트 해시만 계산; codebook_v0.2.json 이외 파일의 의미 내용은 열람하지 않음",
+  "runtime_identity": {
+    "assistant_system_identity": "GPT-6 기반 OpenAI Codex",
+    "actual_runtime_model_id": null,
+    "actual_runtime_effort": null,
+    "identity_limit": "런타임의 모델 slug·effort는 환경에 노출되지 않으면 미확인으로 보존. Astra 명칭만으로 모델을 추정하지 않음. 다른 모델 호출 없음."
+  }
+}

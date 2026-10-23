@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "패턴 적용 v0.2 사건 주석",
+  "type": "object",
+  "required": ["sample_split", "event_id", "case_id", "passage_id", "question_id", "exam_family", "relations"],
+  "properties": {
+    "sample_split": {"enum": ["discovery", "validation", "external"]},
+    "event_id": {"type": "string", "minLength": 1},
+    "case_id": {"type": "string", "minLength": 1},
+    "passage_id": {"type": "string", "minLength": 1},
+    "question_id": {"type": "string", "minLength": 1},
+    "exam_family": {"enum": ["KICE", "LEET", "MEET", "other"]},
+    "relations": {
+      "type": "array", "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["pattern_id", "pattern_relation", "decision", "subtype_ids", "choice_ids", "basis"],
+        "properties": {
+          "pattern_id": {"enum": ["P01", "P02", "P03", "P04", "P05", "P06", "P07", "S01", "S02", "S03", "S04", "S05", "S06", null]},
+          "pattern_relation": {
+            "type": "array", "minItems": 1, "uniqueItems": true,
+            "items": {"enum": ["structure_present", "item_utilized", "solution_helpful", "explanatory_only", "boundary_case", "unconfirmed", "unclassified"]}
+          },
+          "decision": {"enum": ["confirmed_inherited", "confirmed_new", "non_applicable_inherited", "non_applicable_new", "unconfirmed", "unclassified"]},
+          "subtype_ids": {"type": "array", "uniqueItems": true, "items": {"type": "string"}},
+          "choice_ids": {"type": "array", "uniqueItems": true, "items": {"type": "integer", "minimum": 1}},
+          "basis": {"type": "string", "minLength": 1},
+          "new_evidence": {
+            "type": "object",
+            "required": ["canonical_checked", "minimum_evidence_met", "references", "reasoning"],
+            "properties": {
+              "canonical_checked": {"type": "boolean"},
+              "minimum_evidence_met": {"type": "boolean"},
+              "references": {"type": "array", "items": {"type": "object", "required": ["path", "locator", "quote"], "properties": {"path": {"type": "string", "minLength": 1}, "locator": {"type": "string", "minLength": 1}, "quote": {"type": "string", "minLength": 1}}}},
+              "reasoning": {"type": "string"}
+            }
+          }
+        },
+        "allOf": [
+          {"if": {"properties": {"decision": {"const": "confirmed_new"}}}, "then": {"required": ["new_evidence"], "properties": {"new_evidence": {"properties": {"canonical_checked": {"const": true}, "minimum_evidence_met": {"const": true}, "references": {"minItems": 1}, "reasoning": {"minLength": 1}}}}}},
+          {"if": {"properties": {"pattern_relation": {"contains": {"const": "explanatory_only"}}}}, "then": {"properties": {"pattern_relation": {"not": {"contains": {"enum": ["item_utilized", "solution_helpful"]}}}}}},
+          {"if": {"properties": {"pattern_relation": {"contains": {"const": "unclassified"}}}}, "then": {"properties": {"pattern_id": {"type": "null"}, "decision": {"const": "unclassified"}}}},
+          {"if": {"properties": {"pattern_id": {"type": "null"}}}, "then": {"properties": {"pattern_relation": {"items": {"enum": ["unconfirmed", "unclassified"]}}}}},
+          {"if": {"properties": {"pattern_relation": {"contains": {"const": "unconfirmed"}}}}, "then": {"properties": {"decision": {"const": "unconfirmed"}, "pattern_relation": {"maxItems": 1}}}},
+          {"if": {"properties": {"decision": {"enum": ["non_applicable_inherited", "non_applicable_new"]}}}, "then": {"properties": {"pattern_relation": {"items": {"const": "boundary_case"}}}}},
+          {"if": {"properties": {"decision": {"enum": ["confirmed_inherited", "confirmed_new"]}}}, "then": {"properties": {"pattern_relation": {"contains": {"enum": ["structure_present", "item_utilized", "solution_helpful", "explanatory_only"]}}}}}
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "cards": 13,
+  "events": 46,
+  "legacy_count_differences": [],
+  "family_counts_match": true,
+  "E028_excluded_from_utilization": true,
+  "duplicate_and_tag_pollution_tests_passed": true,
+  "unconfirmed_and_unsupported_new_excluded": true,
+  "protected_prior_run_files": 37,
+  "changed_prior_files": [],
+  "validation_applied": false,
+  "G095_metadata_redisclosure_recorded": true,
+  "holds_preserved": [
+    "G024",
+    "G370"
+  ],
+  "canonical_quote_semantics_reverified": false,
+  "json_schema_library_validation_run": false,
+  "schema_check_scope": "JSON 구문·주요 필수 필드·역할/상태 제약을 로컬 assertion으로 검사. 별도 JSON Schema 엔진은 미실행.",
+  "interpretation": "구조·계수·보존 점검이며 의미·교육효과·외부전이 검증 아님"
+}

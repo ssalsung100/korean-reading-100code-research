@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BRW": [
+      {
+        "line": 7390,
+        "record_id": "BRW-independent_code-20261005-01",
+        "case": "BRW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:30:00.176466+00:00",
+        "payload": {
+          "passage_group": "G523",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 15,
+              "reason": "감각적쾌를넘어심층내용을읽는다는감상기준에다섯사례를대조한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 37,
+              "reason": "각감상이사상·무의식·예술정체성등의조건을구현하는지확인한다."
+            },
+            {
+              "code": 80,
+              "reason": "감각적으로보는것과심안으로읽는것의인식방식을구별한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "본문의심안·텍스트비유는관점을설명하지만각선지에서비유대상을찾는과제는아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 88,
+              "rejection": "편안한즐거움이선지에있어도편익계산으로감상의적절성을판정하지않는다."
+            },
+            {
+              "code": 63,
+              "rejection": "작품이론을강화·약화하는새증거가아니라주어진관점적용이다."
+            },
+            {
+              "code": 93,
+              "rejection": "작가의뜻을읽는넓은소통모형은가능하나작가·매체·수신자단계추적만으로⑤의감상기준위반을설명하지못한다."
+            }
+          ],
+          "confidence": 0.94,
+          "scope_limit": "⑤작품에심층내용이없다고판정하지않고제시된감상의초점을판정한다."
+        }
+      }
+    ],
+    "BRX": [
+      {
+        "line": 7403,
+        "record_id": "BRX-independent_code-20261005-01",
+        "case": "BRX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:33:15.227360+00:00",
+        "payload": {
+          "passage_group": "G524",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 60,
+              "reason": "정의제시→현실적용이라는글전체의기능순서를판정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "도입부가용어정의라는기능임을확인한다."
+            },
+            {
+              "code": 37,
+              "reason": "1930/1950년대서술이정의의실제적용임을확인한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 25,
+              "reason": "심리상태분류는있지만사회관점분류라는②의전개와동일하지않다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 75,
+              "rejection": "대립견해가있어도전체전개가조화·비교중심은아니다."
+            },
+            {
+              "code": 59,
+              "rejection": "사회과학과제를제안하지만구체적탐구방법비교와해결전략선택은없다."
+            }
+          ],
+          "confidence": 0.95,
+          "scope_limit": "60을형식타당성에만한정하지않고서술의논증적기능배열로사용한사례."
+        }
+      }
+    ],
+    "BRY": [
+      {
+        "line": 7404,
+        "record_id": "BRY-independent_code-20261005-01",
+        "case": "BRY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:33:28.180157+00:00",
+        "payload": {
+          "passage_group": "G524",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 75,
+              "cluster": "C074_075",
+              "reason": "글쓴이가비판하려소개한타인의설명을필자주장과구별한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 60,
+              "reason": "타인설명소개뒤그한계비판이라는논증역할을확인한다."
+            },
+            {
+              "code": 83,
+              "reason": "쟁점이되지않는현상을쟁점으로삼아야한다는필자의과제설정과구분한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "시대가바뀌지만②의오류는시제반전보다발언주체의교환이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 65,
+              "rejection": "선지의잘못된귀속만있고왜곡주장을상대로공격하는논증은없다."
+            },
+            {
+              "code": 63,
+              "rejection": "새근거의지지변화를평가하지않고이미제시된평가의주체를찾는다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인. BRW공식2009예비HWP렌더4쪽에서[B]괄호직접확인.",
+  "BRW_추가": "BRW_B_range_review_20261016.json에이번사후확인범위·출처해시·최초미확인제한보존. 기존 본시험/예비시험 정답 연결 수정 이력도 승계.",
+  "BRW_범위": "선지의 실제 작품 역사·정신분석 해석을 외부 사실로 새 검증하지 않고 제시된 감상 방식의 기준 부합을 판단한다."
+}

@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AUV": [
+      {
+        "line": 4626,
+        "record_id": "AUV-independent_code-20260928-01",
+        "case": "AUV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            17,
+            39
+          ],
+          "auxiliary": [
+            1,
+            46
+          ],
+          "surface": [
+            3,
+            4
+          ],
+          "decisive_operation": "일상 경제 순환과경제 발전의 범위를 분리해 소비 욕망의 규모 효과와생산자 주도 혁신을 각각 귀속한다.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "②는 생산/소비 순서 문제처럼 보이지만 발전의 명제를 일반 순환으로 옮긴 범위 오류다."
+            },
+            {
+              "code": 4,
+              "reason": "⑤의 주체 변경 범위는 오답 제거이고①은 순환 규모의 변화다."
+            },
+            {
+              "code": 12,
+              "reason": "소비 증가를 발전의 충분조건으로 만들 수 없으며 범위 구분이 먼저다."
+            }
+          ],
+          "confidence": 0.95,
+          "passage_group": "G321",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUX": [
+      {
+        "line": 4638,
+        "record_id": "AUX-independent_code-20260928-01",
+        "case": "AUX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            23,
+            39
+          ],
+          "auxiliary": [
+            17,
+            16
+          ],
+          "surface": [
+            75,
+            79
+          ],
+          "decisive_operation": "세 계약의 권한 배분 차이를 남기면서 계약 관계라는 공통 상위 속성을 추출.",
+          "competitor_refutations": [
+            {
+              "code": 75,
+              "reason": "견해 차이는 재료지만 누가옳은지보다 공통항을 찾는다."
+            },
+            {
+              "code": 4,
+              "reason": "다수·전체 표현이 있어도 정답은 수량이 아닌 계약 관계다."
+            },
+            {
+              "code": 79,
+              "reason": "권리와국가가 소재이나 규범의 정당성 자체를 평가하지 않는다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G322",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUZ": [
+      {
+        "line": 4640,
+        "record_id": "AUZ-independent_code-20260928-01",
+        "case": "AUZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            10,
+            37
+          ],
+          "auxiliary": [
+            17,
+            44,
+            79
+          ],
+          "surface": [
+            4,
+            40
+          ],
+          "decisive_operation": "차별 허용의 필요 근거인 공공 이익을 사례에 적용해 특정 주민 집단만의 이익과 구별.",
+          "competitor_refutations": [
+            {
+              "code": 4,
+              "reason": "특정 지역·특정 재범 위험자 등 제한 대상 일부여도 공익 목적은 가능하다."
+            },
+            {
+              "code": 40,
+              "reason": "특정 집단은 전체의 일부라는 사실만으로 언제나 사익이라고 단정할 수 없고 제시된 목적 범위를 봐야 한다."
+            },
+            {
+              "code": 11,
+              "reason": "공익만 있으면 모든 차별이 충분히 정당화된다는 양방향 조건은 주어지지 않았다."
+            },
+            {
+              "code": 63,
+              "reason": "새로운 비판 자료를 구성하는 작업이 아니라 주어진 정당화 요건의 사례 판정이다."
+            }
+          ],
+          "unresolved": "단지 안전이 실제로 공익이 될 수 없다는 전역 주장 아님.④가 제시한 내부 수혜 집단만을 근거로 비교한 문항 범위.",
+          "confidence": 0.94,
+          "passage_group": "G322",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체원문·5선지·기존풀이·독립판정직접확인.AUZ특정집단안전/공익의문항내범위유보를승계하며실제정책적법성판정아님."
+}

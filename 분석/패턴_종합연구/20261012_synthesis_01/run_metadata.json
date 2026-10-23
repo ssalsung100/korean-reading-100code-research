@@ -1,0 +1,17 @@
+{
+  "run_id": "20261012_synthesis_01",
+  "task": "작업 C: 기존 표본 심층 종합",
+  "requested_model": "GPT-6 Astra",
+  "requested_reasoning_effort": "high",
+  "runtime_exact_model_id": null,
+  "runtime_effort_verified": false,
+  "runtime_note": "현재 세션은 시스템상 GPT-6 기반 Codex. API 세부 모델·effort의 독립 확인 수단은 사용하지 못함. 모델 설정 준수를 검증했다고 주장하지 않음.",
+  "other_models_called": false,
+  "new_blind_research": false,
+  "new_corpus_classification": false,
+  "original_files_edited": false,
+  "git_push": false,
+  "shared_queue_modified": false,
+  "persistence": "이 폴더의 decision_raw.jsonl 및 종합 파일. 원 연구 queue/processed/CURRENT는 보존.",
+  "semantic_review": "주 세션의 직접 종합. 제2평가자 없음."
+}

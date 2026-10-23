@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BBR": [
+      {
+        "line": 5428,
+        "record_id": "BBR-independent_code-20261002-01",
+        "case": "BBR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G379",
+          "primary": [
+            {
+              "code": 44,
+              "reason": "세성기년법이라는 수단의 목적은 연도 식별인데③은 계절 변화 표시로 바꾼다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "12년 주기 내 어느 해인지와 한 해 내 계절이라는 시간 범주 구분"
+            },
+            {
+              "code": 45,
+              "reason": "목성 위치→연도 대응을 계절 대응으로 교환"
+            }
+          ],
+          "surface": [
+            {
+              "code": 9,
+              "reason": "③ 가장 잘이라는 서열은 근거 없는 추가지만 기능 오류가 선행"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 3,
+              "reason": "연/계절이라는 시간 말이 있지만 사건 선후 순서 판단 아님."
+            },
+            {
+              "code": 92,
+              "reason": "⑤ 0.25×4 계산은 국소 타당 선지이며③의 결정 연산 아님."
+            },
+            {
+              "code": 80,
+              "reason": "천의 감지는④의 맥락이고③은 달력 표기의 기능·목적 오류."
+            }
+          ],
+          "boundary_note": "44와45는 수단의 이용 목적과 위치-출력 대응이라는 층위로 중첩.식별 목적 없는 단순 대응표는45로 재분할 가능.",
+          "confidence": 0.91,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BBT": [
+      {
+        "line": 5430,
+        "record_id": "BBT-independent_code-20261002-01",
+        "case": "BBT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G379",
+          "primary": [
+            {
+              "code": 37,
+              "reason": "역법 제정으로 천명을 실천한다는 관념의 필수 구성 관계를 모두 보이는 사례① 선택"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 44,
+              "reason": "천체 관측·계절 정립이라는 수단으로 천명 실천/백성 통치라는 목적을 구현"
+            },
+            {
+              "code": 80,
+              "reason": "하늘의 뜻을 읽는 관념은①④ 공유하지만④는 제정/실천 단계 부재"
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "② 씨줄/날줄,⑤ 천지 형상은 비유·상징 표면으로 핵심 관념과 다름"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 69,
+              "reason": "비슷한 사례를 선택하지만 본문의 주장을 다른 영역으로 옮겨 새 결론을 정당화하는 유추가 아니라 구성요건 부합 확인."
+            },
+            {
+              "code": 49,
+              "reason": "④의 천문 현상-통치 징후 대응만으로 역법 관념의 전체 구조 충족 불가."
+            },
+            {
+              "code": 79,
+              "reason": "통치 정당성과 천명이 소재지만 허용·금지·당위 조건을 판단하는 과제 아님."
+            }
+          ],
+          "boundary_note": "37은 과제층위,44는 사례 내용의 실제 관계.유일 주 우선순위는 과제/내용 선택에 의존하므로 양자를 동일 연산으로 중복 계수하지 않음.",
+          "confidence": 0.9,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BBU": [
+      {
+        "line": 5441,
+        "record_id": "BBU-independent_code-20261002-01",
+        "case": "BBU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G380",
+          "primary": [
+            {
+              "code": 78,
+              "reason": "이탈 욕구와 의리의 상충하는 동기를 내면 진술·포옹·눈물로 복원"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 80,
+              "reason": "하원이 나의 마음을 아는지와 내가 내 갈등을 아는지를 구별하여② 배제"
+            },
+            {
+              "code": 17,
+              "reason": "나/하원/두찬의 심리 근거 귀속 유지"
+            }
+          ],
+          "surface": [
+            {
+              "code": 70,
+              "reason": "현실/의리 갈등이나 둘 중 무엇을 골라도 손실이라는 양자택일 논증은 제시되지 않음"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 18,
+              "reason": "버리는 마음과 끌어안는 행동의 긴장은 명제 모순이 아니라 상충 동기."
+            },
+            {
+              "code": 63,
+              "reason": "인물에 대한 비판의 유불리 평가보다 행동과 심리의 대응."
+            },
+            {
+              "code": 9,
+              "reason": "① 고향 집착 비교는 근거 없는 오답의 상대 서열일 뿐 주 연산 아님."
+            }
+          ],
+          "boundary_note": "78은 동기 복원,80은 주체별 인식/심리 귀속.행동 동기를 요구하지 않고 생각의 소유만 가를 경우80로 재분할.",
+          "confidence": 0.92,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정직접확인.연도식별/계절,징후판독/제정실천,인물내면/행동의긴장을구별.역법의수치는본문근사값으로한정."
+}

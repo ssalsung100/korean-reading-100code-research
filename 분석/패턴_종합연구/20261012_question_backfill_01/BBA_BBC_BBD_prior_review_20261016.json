@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BBA": [
+      {
+        "line": 5345,
+        "record_id": "BBA-independent_code-20261001-01",
+        "case": "BBA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            78,
+            4
+          ],
+          "surface": [
+            79,
+            80
+          ],
+          "decisive_operation": "분신의 발언에 실제 포함된 가치·동기를 보존하여 윤리적 내용이 빠졌다는 배타적 해석을 반박한다.",
+          "evidence": [
+            "재보 착하게·선악,횡보 본분,낭보 기업가 책무",
+            "③윤리영역에서 벗어난 본능·충동으로 한정"
+          ],
+          "competing_codes": [
+            {
+              "code": 78,
+              "rebuttal": "분신은 복수 욕구·동기이지만 특정 행동 결과를 동기에서 새로 설명하는 것이 아니라 작품이 포함하는 심리 내용의 범위를 확인한다."
+            },
+            {
+              "code": 79,
+              "rebuttal": "윤리 규범이 실제 내용에 존재하지만 어느 규범이 정당한지 연구자가 판단하는 문제는 아니다."
+            },
+            {
+              "code": 41,
+              "rebuttal": "일부 분신의 본능 성향을 전체로 확대했다는 설명은 가능하지만 선지는 전체의 집합적 성질 도출보다 윤리 내용의 존재를 지운다."
+            }
+          ],
+          "boundary_note": "분신이라는 형식이 본능만 다룬다는 충분조건이 되지 않는다.작품의 발언 증거를 우선한다.",
+          "confidence": 0.92,
+          "passage_group": "G373",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BBC": [
+      {
+        "line": 5357,
+        "record_id": "BBC-independent_code-20261001-01",
+        "case": "BBC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            56,
+            19,
+            2
+          ],
+          "surface": [
+            79,
+            46
+          ],
+          "decisive_operation": "필자의 현재 재벌 구조 비판과 주주가치경영 자체 반대론·외국자본 제한론을 구별해 핵심 이유를 귀속한다.",
+          "evidence": [
+            "2문단 총수실질지배와일반감시의한계",
+            "3문단 원천불가능은비판론자의입장",
+            "4~5문단 투자불가주장은필자의반박대상"
+          ],
+          "competing_codes": [
+            {
+              "code": 56,
+              "rebuttal": "이유 설명은 형식이지만 누구의 이유인지 구분해야⑤ 등 다른 입장의 논거를 배제한다."
+            },
+            {
+              "code": 19,
+              "rebuttal": "감시 장치의 불충분은 핵심 내용이나 여러 논평자의 입장을 혼합하면 불충분의 대상과 범위가 바뀐다."
+            },
+            {
+              "code": 2,
+              "rebuttal": "원천불가능/현재한계의 강도 구분이 중요하지만③의강한표현은현재일반장치만의범위로해석해야 함.이를 모든개혁의불가능으로 확정하지 않는다."
+            }
+          ],
+          "boundary_note": "관점 귀속과 결론 강도를 별도 검증한다.정답 일치가③표현의 무제한 강도 승인을 뜻하지 않음.",
+          "confidence": 0.93,
+          "passage_group": "G374",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BBD": [
+      {
+        "line": 5358,
+        "record_id": "BBD-independent_code-20261001-01",
+        "case": "BBD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            44
+          ],
+          "auxiliary": [
+            37,
+            46,
+            17
+          ],
+          "surface": [
+            79,
+            49
+          ],
+          "decisive_operation": "각 제도가 누구의 권한을 늘리거나 줄여 어떤 목적에 기여하는지 대응한다.경영자견제와총수방어를구분하여ㄴㄷ선택.",
+          "evidence": [
+            "ㄴ내부거래공개로감시가능",
+            "ㄷ소송요건완화로주주견제가능",
+            "ㄹ기관투자가의결권제한은감시자권한감소"
+          ],
+          "competing_codes": [
+            {
+              "code": 37,
+              "rebuttal": "수단 사례를 찾는 과제이지만 분류 요건을 결정하는 것은 해당 조치가 경영자의 사익 추구를 억제하는 기능인지다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "공시/권한→감시효과 경로는 보조이며 요구된 기능을 수행하는 제도 수단을 고르는44와 국소 결합한다."
+            },
+            {
+              "code": 79,
+              "rebuttal": "제도·규제라는 소재만으로 규범의 정당성을 판단하는 문제로 바꾸지 않는다."
+            },
+            {
+              "code": 49,
+              "rebuttal": "완화/규제의 증감 단어만으로 효과를 정할 수 없다.누구의 권한인지를 먼저 고정해야 방향이 결정된다."
+            }
+          ],
+          "boundary_note": "같은 규제라도 경영자 규제와 감시자 규제의 견제 효과가 반대다.",
+          "confidence": 0.95,
+          "passage_group": "G374",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·조합보기·기존풀이·독립판정직접확인.BBC③현재구조와일반감시장치의한계를영구적불가능으로확대하지않는기존제한승계.현행기업정책평가아님."
+}

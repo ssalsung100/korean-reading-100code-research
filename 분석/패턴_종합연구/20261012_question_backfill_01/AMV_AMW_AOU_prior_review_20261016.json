@@ -1,0 +1,213 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AMV": [
+      {
+        "line": 3685,
+        "record_id": "AMV-independent_code-20260927-01",
+        "case": "AMV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:48:23.332148+00:00",
+        "payload": {
+          "primary": [
+            44
+          ],
+          "primary_candidates": [
+            44,
+            46
+          ],
+          "working_primary": 44,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            17
+          ],
+          "surface": [
+            86
+          ],
+          "judgment_reason": "현금마련이라는목적때문에환금작물재배가확대되는수단선택을⑤로확인한다.",
+          "competing_codes": [
+            {
+              "code": 46,
+              "verdict": "공동 후보",
+              "reason": "화폐도입→현금필요→재배확대의원인경로로같은판단을표현."
+            },
+            {
+              "code": 17,
+              "verdict": "보조",
+              "reason": "③생계/위세부채영역을구분하고④외부수출/내부소비귀속을유지."
+            },
+            {
+              "code": 86,
+              "verdict": "④관련",
+              "reason": "총생산과내부소비의차이가있지만⑤직접선택은수량계산아님."
+            }
+          ],
+          "minimal_change_test": "현금마련목적을삭제하면왜환금작물로전환하는지근거가약해진다.생산증가만으로내부소비증가를추론하지않음.",
+          "confidence": 0.96,
+          "passage_group": "G251",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "AMW": [
+      {
+        "line": 3686,
+        "record_id": "AMW-independent_code-20260927-01",
+        "case": "AMW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:48:23.333083+00:00",
+        "payload": {
+          "primary": [
+            80
+          ],
+          "primary_candidates": [
+            80,
+            64
+          ],
+          "working_primary": 80,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            60
+          ],
+          "surface": [
+            79
+          ],
+          "judgment_reason": "글쓴이가티브의고유교환규범과유대체계의맥락에서변동을파악한다는관점을복원한다.",
+          "competing_codes": [
+            {
+              "code": 64,
+              "verdict": "공동 후보",
+              "reason": "내적동인·정치교체·성평등등제시되지않은논점과실제초점을구별."
+            },
+            {
+              "code": 60,
+              "verdict": "보조",
+              "reason": "전통체계와외부변화의설명구조를보고글의관점을추론."
+            },
+            {
+              "code": 79,
+              "verdict": "표면",
+              "reason": "여성교환서술이있어도글쓴이의성평등규범주장이제시된것은아님."
+            }
+          ],
+          "minimal_change_test": "여성이라는소재를다른교환권리로바꾸어도고유체계변동의관점은남는다.소재만으로규범입장을부여하지않음.",
+          "confidence": 0.96,
+          "passage_group": "G251",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "AOU": [
+      {
+        "line": 3919,
+        "record_id": "AOU-independent_code-20260927-01",
+        "case": "AOU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:07:43.453883+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 43,
+              "reason": "실험에서조작·통제·위장절차각역할을구별"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 44,
+              "reason": "질문지의실제목적과가정된내용효과측정목적대조"
+            },
+            {
+              "code": 17,
+              "reason": "절차요소의기능귀속"
+            }
+          ],
+          "surface": [
+            {
+              "code": 93,
+              "reason": "질문응답소통이있지만메시지내용효과를실험한것아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 46,
+              "refutation": "원인효과탐색의설계이나질문지내용효과가측정되었다는근거는없음"
+            },
+            {
+              "code": 53,
+              "refutation": "차이가없는질문지조건에서그내용효과의차이를찾을수없음.원리로보조가능하나설계역할확인이선행"
+            },
+            {
+              "code": 74,
+              "refutation": "전체가경쟁이론검증이지만④직접오류는조작변인발명"
+            }
+          ],
+          "counterfactual_probe": "질문지내용만다르게한조건을추가하고나머지를동일하게하면④의설계목적이가능.현설계에는그조작없음.",
+          "confidence": 0.96,
+          "passage_group": "G269",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인. AOU표의원전사부록G269_visual01.md및기존별도code_reviews_02.jsonl5행직접확인.",
+  "AOU_별도기록": {
+    "path": "data/기본기_연구/code_reviews_02.jsonl",
+    "line": 5,
+    "record": {
+      "case_id": "BASIC-C43-MEET-2005-Q09",
+      "code_number": 43,
+      "exam_family": "MEET",
+      "year": 2005,
+      "question_number": 9,
+      "local_question_id": "MEET-2005-Q09",
+      "passage_id": "MEET-2005-Q09-11",
+      "source_path": "자료/MEET_언어추론/전사_검수완료/2005/q09-11.md",
+      "official_answer": "④",
+      "official_answer_source": "자료/MEET_언어추론/공식_정답표_원본/2005_언어추론_정답표.hwp",
+      "site_code_label": "타변수통제",
+      "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%A0%95%EC%84%9C+%EC%9C%A0%EB%B0%9C",
+      "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%ED%83%80%EB%B3%80%EC%88%98%ED%86%B5%EC%A0%9C",
+      "source_status": "complete",
+      "passage_structure_codes": [
+        43,
+        64
+      ],
+      "primary_solution_codes": [
+        43,
+        64
+      ],
+      "support_codes": [
+        53
+      ],
+      "evidence": [
+        {
+          "location": "본문",
+          "quote": "B 집단에게만 그 주사 때문에"
+        },
+        {
+          "location": "④",
+          "quote": "질문지의 내용이 피험자의 정서 반응에 영향을 주는지"
+        }
+      ],
+      "reasoning_steps": [
+        "각성, 각성 원인 정보, 협력자 행동을 집단·그룹별로 조작한다.",
+        "질문지는 모든 집단에 공통 제공되어 내용 효과를 비교한 변인이 아니다.",
+        "④는 검증하지 않은 질문지 효과를 실험 목적으로 넣는다."
+      ],
+      "distractor_operations": [
+        "④는 공통 절차를 독립 조작으로 바꾼다."
+      ],
+      "nearest_code_boundary": "인과 방향보다 실험에서 실제로 분리·비교한 변인을 확인하는 것이 핵심이다.",
+      "site_tag_verdict": "주 코드 수용",
+      "review_status": "single_analyst_reviewed"
+    }
+  },
+  "범위": "민족지의 관습 서술을 연구자의 규범적 승인이나 현재 사회 전체의 사실로 일반화하지 않음. AOU는기출실험설계의역할검사이며실제연구결과의현대적타당성전수평가아님. 동일AOU/BASIC고유문항1회계수."
+}

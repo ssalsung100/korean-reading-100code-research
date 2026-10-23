@@ -1,0 +1,12 @@
+{
+  "scope": "이번 작성 문항만 검사; 보호 원장 전수 검증 없음",
+  "case_ids": [
+    "AKB",
+    "AKE"
+  ],
+  "questions": 2,
+  "scenes": 4,
+  "options": 10,
+  "errors": [],
+  "pass": true
+}

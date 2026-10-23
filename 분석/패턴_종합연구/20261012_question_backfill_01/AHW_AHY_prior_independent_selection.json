@@ -1,0 +1,109 @@
+{
+  "AHW": [
+    {
+      "line": 3096,
+      "case": "AHW",
+      "stage": "independent_code",
+      "payload": {
+        "passage_group": "G209",
+        "primary": [],
+        "primary_candidates": [
+          80,
+          96
+        ],
+        "working_representative": 80,
+        "auxiliary": [
+          97,
+          39
+        ],
+        "surface": [
+          46,
+          3
+        ],
+        "judgment_reason": "자기 괴로움의 이유를 되묻고 자신의 결여를 응시하는 발화맥락에서 반성적 태도를 읽는다. 내면의 자기인식80과 일상언어 맥락판독96은 이 정답에서 겹쳐 유일주유보.",
+        "competing_codes": [
+          {
+            "code": 97,
+            "verdict": "보조",
+            "reason": "없을까의 질문기능은 이유없음 단정이 아니며 자기재검토. 화자의 전달의도를 넘겨 외부청자 설득으로 만들지 않음"
+          },
+          {
+            "code": 46,
+            "verdict": "특정오답",
+            "reason": "③ 사랑결여·시대슬픔결여 병치를 인과로 만드는 근거가 없음"
+          },
+          {
+            "code": 39,
+            "verdict": "보조",
+            "reason": "흐르는자연과 선발 대비를 읽으나④ 직접근거는 없다 반복을 통한 자기응시"
+          },
+          {
+            "code": 96,
+            "verdict": "후보",
+            "reason": "부정반복과자기질문을 문맥에서읽는동일작업"
+          }
+        ],
+        "minimal_change_test": "없을까라는 자기질문을 단순확정으로 바꾸면②기각과④반성근거가 약해진다. 한 피동표현만으로 순응태도를 생성하지 않는다.",
+        "sdss_seen": false,
+        "confidence": 0.91,
+        "quota_status": "unavailable"
+      },
+      "record_id": "AHW-independent_code-20260921-01",
+      "status": "done",
+      "timestamp": "2026-09-21T02:30:59.042350+00:00"
+    }
+  ],
+  "AHY": [
+    {
+      "line": 3098,
+      "case": "AHY",
+      "stage": "independent_code",
+      "payload": {
+        "passage_group": "G209",
+        "primary": [],
+        "primary_candidates": [
+          17,
+          100
+        ],
+        "working_representative": 17,
+        "auxiliary": [
+          39,
+          96
+        ],
+        "surface": [
+          46
+        ],
+        "judgment_reason": "보기의 새=현대인 알레고리에서 걷기·모이추구는 일상순응과본질상실에 대응한다.④은 이를 본질충실로 귀속.대응관계100과범주귀속17이 같은반전을검출해 유일주유보.",
+        "competing_codes": [
+          {
+            "code": 100,
+            "verdict": "후보",
+            "reason": "명시적알레고리대응을 보존해야 본질상실의 뜻을판단"
+          },
+          {
+            "code": 39,
+            "verdict": "보조",
+            "reason": "보기의일상충실/본질상실과선지의본질충실을대조"
+          },
+          {
+            "code": 46,
+            "verdict": "주 기각",
+            "reason": "일상충실→본질상실 경로는 있으나④ 최소오류는 출발행동의 의미귀속을 본질충실로 바꾼것"
+          },
+          {
+            "code": 18,
+            "verdict": "주 기각",
+            "reason": "아이러니를 논리적모순으로보아선지③을기각하면 안됨.서로다른평가차원의역설"
+          }
+        ],
+        "minimal_change_test": "④ 자신의본질에충실하다보니를 일상의안온함에길들다보니로 고치면 보기의상실관계회복. 시의가치판단을일반생활훈계로대체하지 않음.",
+        "sdss_seen": false,
+        "confidence": 0.95,
+        "quota_status": "unavailable"
+      },
+      "record_id": "AHY-independent_code-20260921-01",
+      "status": "done",
+      "timestamp": "2026-09-21T02:30:59.043918+00:00"
+    }
+  ]
+}

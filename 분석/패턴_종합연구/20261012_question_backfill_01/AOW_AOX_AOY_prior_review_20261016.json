@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AOW": [
+      {
+        "line": 3921,
+        "record_id": "AOW-independent_code-20260927-01",
+        "case": "AOW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:07:43.455065+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 74,
+              "reason": "실제관측과구별하여경쟁제임스이론의예측을산출"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 45,
+              "reason": "동일각성입력에같은정서출력대응"
+            },
+            {
+              "code": 46,
+              "reason": "각성→정서라는이론상결정경로"
+            },
+            {
+              "code": 43,
+              "reason": "동일약물A/B를비교하는조건고정"
+            }
+          ],
+          "surface": [
+            {
+              "code": 23,
+              "reason": "A/B약물공통점이이론적예측의입력조건"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 63,
+              "refutation": "가설지지강도를평가하기이전에그가설이어떤결과를예측하는지묻는문항"
+            },
+            {
+              "code": 75,
+              "refutation": "학자별의견귀속만으로부족하고그관계에실험조건을대입해야함"
+            },
+            {
+              "code": 5,
+              "refutation": "시간에따른상태변화추세아니고집단간예측동일성"
+            }
+          ],
+          "counterfactual_probe": "A/B약물이달랐다면①동일정서예측의근거가사라진다.실제표B/C무반응을기억해③을고르는경로는이론조건을무시.",
+          "confidence": 0.97,
+          "passage_group": "G269",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOX": [
+      {
+        "line": 3932,
+        "record_id": "AOX-independent_code-20260927-01",
+        "case": "AOX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:11:14.420684+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 10,
+              "reason": "결론유추에빠질수없는전제와무관한역방향활용구별"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 69,
+              "reason": "회로와뇌의구조기능대응"
+            },
+            {
+              "code": 20,
+              "reason": "같은교차기능을2차원회로에서도실현"
+            },
+            {
+              "code": 2,
+              "reason": "작동가능성의결론강도"
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "차원숫자소재지만수치계산아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 12,
+              "refutation": "유추방향을역으로바꾸어가능성을추론하는오류는있지만문항은그역활용전제가필수인지판정"
+            },
+            {
+              "code": 46,
+              "refutation": "뇌의인과발달을설명하는것이아닌기능구현가능성대응"
+            },
+            {
+              "code": 59,
+              "refutation": "교차문제해결은배경이며②전제필요성은별도"
+            }
+          ],
+          "counterfactual_probe": "2차원기술을3차원에전혀전용못해도2차원회로와뇌의기능유추는남는다.반대로뇌/회로의유사성이없으면유추연결이약해짐.",
+          "confidence": 0.96,
+          "passage_group": "G270",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOY": [
+      {
+        "line": 3933,
+        "record_id": "AOY-independent_code-20260927-01",
+        "case": "AOY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:11:14.421264+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 42,
+              "reason": "몸통주위를두르는고리의안팎과평면내교차가능성을검토하는작업대표"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 40,
+              "reason": "몸통·고리·축의배치조건"
+            },
+            {
+              "code": 37,
+              "reason": "2차원운동제약을스포츠사례에적용"
+            },
+            {
+              "code": 69,
+              "reason": "바퀴축불가와고리몸통배치의구조대응"
+            }
+          ],
+          "surface": [
+            {
+              "code": 91,
+              "reason": "원형이라는말이비례관계뜻하지않음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 50,
+              "refutation": "길이막혀이동불가라는표현으로기술가능하나생물·인과경로차단보다공간교차제약"
+            },
+            {
+              "code": 45,
+              "refutation": "입출력변환보다는공간에서구성요소를양립시킬수있는지판정"
+            },
+            {
+              "code": 100,
+              "refutation": "그림과가상세계가있어도은유해석아닌명시적기하조건적용"
+            }
+          ],
+          "counterfactual_probe": "세번째공간방향을허용하면허리와고리의교차없는배치가가능해짐.평면내원이돌아가는모든운동을금지하는규칙은원문밖과장.",
+          "boundary_status": "100코드중공간배치제약의정확대표번호미확정.42/40/37/69는다른관점의후보이며유일주확정아님.",
+          "confidence": 0.86,
+          "passage_group": "G270",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기·5선지·최초풀이·정답대조·독립판정 직접 확인. G269표와G270_visual01/02의평면몸구조그림직접확인.",
+  "AOX_범위": "필요전제는문단의지적생명체질문→컴퓨터구현→뇌유추라는연결에서검사.④는지적생명체논의와뇌가능성을잇는역할이며이문항의전제목록을최소형식공리계로증명했다고하지않음.",
+  "AOY_범위": "통상의허리주위고리회전이라는운동과본문의두공간방향모형에한정.2차원모든원운동불가능·모든변형놀이불가능이라는주장아님.기존공간배치대표코드미확정상태보존."
+}

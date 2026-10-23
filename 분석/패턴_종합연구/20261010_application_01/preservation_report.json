@@ -1,0 +1,8 @@
+{
+  "checked_files": 9683,
+  "changed_files": [],
+  "missing_files": [],
+  "passed": true,
+  "scope": "기존 pilot 전체, 기본기 연구 MD·데이터 트리 전체, 주요 원문 DB·원장·코드 카탈로그 및 초기 안내 파일. 검증용 본문은 해시만 계산하고 의미 분석하지 않음.",
+  "hold_policy": "G024/G370 유지. hold 해제·원장 갱신·기존 manifest 수정 없음."
+}

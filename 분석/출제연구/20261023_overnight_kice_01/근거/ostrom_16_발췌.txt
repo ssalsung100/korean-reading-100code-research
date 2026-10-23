@@ -1,0 +1,46 @@
+423
+studies confirm that robust resource systems are characterized by most of 
+the design principles and that failures are not. The authors of some studies 
+that found the design principles inadequate tended to interpret them very 
+rigidly and felt that successful systems were characterized by more flexibility. 
+In three instances, the initial wording of the design principles was too gen-
+eral and did not distinguish between ecological and social conditions. Thus, 
+I have adopted the improvements to principles 1, 2, and 4 suggested by Cox 
+and coauthors.
+5. Conducting Experiments to Study Common-Pool 
+Resource Problems
+The existence of a large number of cases where users had overcome social 
+dilemmas in order to sustain long-term use of common-pool resources suc-
+cessfully challenged the presumption that this was impossible. Many variables 
+simultaneously affect these outcomes in the field. Developing game-theoreti-
+cal models of common-pool resource situations (Weissing and Ostrom 1993; 
+E. Ostrom and Gardner 1993) has been one strategy we have used to assess 
+the theoretical outcomes of a set of variables we have observed in the field. 
+We have also thought it was important to examine the effect of precise com-
+binations of variables in an experimental setting.
+A. Common-Pool Resource Experiments in University Laboratories
+Roy Gardner and James Walker joined me in an extended effort to build and 
+test well-specified, game-theoretical models consistent with the IAD frame-
+work (see E. Ostrom, Walker, and Gardner 1992; E. Ostrom, Gardner, and 
+Walker 1994). The initial CPR experiments started with a static, baseline situ-
+ation that was as simple as could be specified without losing crucial aspects 
+of the appropriation problems facing harvesters in the field. We used a qua-
+dratic payoff production function based on Gordon’s (1954) classic model. 
+The initial resource endowment ω for each of eight subjects was a set of 
+tokens that the subject could allocate between Market 1 (which had a fixed 
+return) and Market 2 (which functioned as a common-pool resource with 
+a return affected by the actions of all subjects in the experiment). Subjects 
+received aggregated information so they did not know each individual’s 
+actions. Each subject i could invest a portion xi of his/her endowment in 
+the common resource (Market 2) and the remaining portion would then be 
+invested in Market 1. The payoff function we used (E. Ostrom, Gardner, and 
+Walker 1994: 110) was:
+ui(x) = we	
+if xi = 0	
+(1)
+ui(x) = w(e – xi) + (xi/Σxi)F(Σxi)	
+if xi > 0.	
+(2)
+The baseline experiment was a commons dilemma in which the game- 
+theoretic outcome involved substantial overuse of a resource while a much 
+better outcome could be reached if subjects were to reduce their joint 

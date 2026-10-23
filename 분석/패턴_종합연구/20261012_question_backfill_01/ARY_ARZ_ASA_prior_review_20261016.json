@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ARY": [
+      {
+        "line": 4287,
+        "record_id": "ARY-independent_code-20260927-01",
+        "case": "ARY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G296",
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            46,
+            81
+          ],
+          "surface": [
+            6
+          ],
+          "decisive_operation": "하늘과 정치가 가치적으로 호응한다는 동중서 입장을 다른 주장과 대응한다.",
+          "competing_codes": [
+            {
+              "code": 46,
+              "rebuttal": "비우연적 호응이라는 관계가 핵심 내용이나 구체 물리 인과 기제를 외부 사실로 승인하는 것이 아니라 견해 적합성을 판정한다."
+            },
+            {
+              "code": 81,
+              "rebuttal": "의도적 하늘과 무작위 자연의 차이는④⑤ 배제에 중요하지만③의 호응 관계 전체는 그 존재 분류만으로 정해지지 않는다."
+            },
+            {
+              "code": 6,
+              "rebuttal": "① 본성 표현이 있으나 선천/후천 여부만으로 동중서의 사람별 차이와 천인 호응을 대표하지 못한다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ARZ": [
+      {
+        "line": 4288,
+        "record_id": "ARZ-independent_code-20260927-01",
+        "case": "ARZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G296",
+          "primary": [
+            100
+          ],
+          "auxiliary": [
+            46,
+            17
+          ],
+          "surface": [
+            69
+          ],
+          "decisive_operation": "바람=제왕,풀=백성을 대응시키고 영향 방향을 보존하여 만물→하늘이라는 다른 관계를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 46,
+              "rebuttal": "영향 방향 반전이 오류의 직접 형태이며100의 대응항 복원과 중첩된다."
+            },
+            {
+              "code": 17,
+              "rebuttal": "제왕/백성과 만물/하늘의 대상 범위 교체를 확인하는 보조다. 범위만 고정해도 영향 방향을 확인해야 한다."
+            },
+            {
+              "code": 69,
+              "rebuttal": "바람-풀에서 통치 관계를 설명하는 구조 대응이라는 관점은 가능하나 표시된 비유의 문맥 의미를 복원하는100을 대표로 둔다. 예측 부재만으로69를 배제하지 않는다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASA": [
+      {
+        "line": 4299,
+        "record_id": "ASA-independent_code-20260927-01",
+        "case": "ASA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G297",
+          "primary": [
+            39
+          ],
+          "auxiliary": [
+            78,
+            16
+          ],
+          "surface": [
+            13
+          ],
+          "decisive_operation": "자제력 없음과 무절제에서 이성 판단-욕구 행동의 일치 여부를 같은 축으로 비교한다.",
+          "competing_codes": [
+            {
+              "code": 78,
+              "rebuttal": "행동과 욕구·선택의 관계라는 내용은 유효하며39의 비교 과업과 중첩된다."
+            },
+            {
+              "code": 16,
+              "rebuttal": "두 정의를 풀어야 하지만 결정은 공유 소재 아래 차별 요건인 판단/행동 일치 여부다."
+            },
+            {
+              "code": 13,
+              "rebuttal": "이성/욕구가 언제나 양립 불가한 것이 아니다. 무절제에서는 같은 방향이라는 반례가 있다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "천인호응의물리적진실을검증하는것이아니라동중서의입장과비유를판독. ASA의이성적선택은본문의선택구조이며그내용이항상도덕적으로옳다는의미로사용하지않음."
+}

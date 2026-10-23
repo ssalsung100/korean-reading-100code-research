@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "APT": [
+      {
+        "line": 4028,
+        "record_id": "APT-independent_code-20260927-01",
+        "case": "APT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:39:22.546000+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 17,
+              "reason": "판결변화의근거를권리해석에서의학적뇌사기준으로잘못귀속"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 15,
+              "reason": "뇌사기준과생명유지제거허용기준구별"
+            },
+            {
+              "code": 60,
+              "reason": "같은사실에서다른규범논거로결론이달라짐"
+            }
+          ],
+          "surface": [
+            {
+              "code": 5,
+              "reason": "판결이바뀌었다는사실은맞아도모든기준변경을뜻하지않음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 46,
+              "refutation": "결과변경을뇌사기준변경의인과증거로삼으면본문밖원인추가"
+            },
+            {
+              "code": 80,
+              "refutation": "기자의평가적표현은있지만⑤는평가가아닌판결근거의사실오류"
+            },
+            {
+              "code": 75,
+              "refutation": "판사들견해가다름을넘어무엇의기준이달라졌는지확인해야함"
+            }
+          ],
+          "counterfactual_probe": "⑤뇌사의새기준을생명유지수단제거에관한프라이버시권범위로수정하면부합.사실판정과규범적허용은별개.",
+          "confidence": 0.97,
+          "passage_group": "G277",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APU": [
+      {
+        "line": 4029,
+        "record_id": "APU-independent_code-20260927-01",
+        "case": "APU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:39:22.546585+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 60,
+              "reason": "사실결과와규범전건을연결하는숨은전제복원"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 66,
+              "reason": "제거→죽음→불이익가능→금지라는연쇄적용"
+            },
+            {
+              "code": 2,
+              "reason": "불이익일수도있다는가능성만으로제시규범발동"
+            },
+            {
+              "code": 79,
+              "reason": "후견인의불이익가능결정금지규범"
+            }
+          ],
+          "surface": [
+            {
+              "code": 46,
+              "reason": "제거→죽음의인과는이미주어져있고빈칸은가치요건연결"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 10,
+              "refutation": "필수전제찾기라는과업으로겹치지만필요조건/충분조건방향만외워서는죽음과불이익간공백을못찾음"
+            },
+            {
+              "code": 83,
+              "refutation": "사실과가치의층위연결은있으나사실만으로가치를자동도출한것이아니라별도전제를요구"
+            },
+            {
+              "code": 63,
+              "refutation": "주장을그저강화하는사실보다추론의연결고리로기능해야함"
+            }
+          ],
+          "counterfactual_probe": "①을삭제하면죽음이불이익범주에속하는지미정이라금지규범을적용못함.반대로항상불이익이라는강한명제까지필요없음.",
+          "confidence": 0.97,
+          "passage_group": "G277",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APV": [
+      {
+        "line": 4041,
+        "record_id": "APV-independent_code-20260927-01",
+        "case": "APV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:43:57.126983+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 60,
+              "reason": "실재론을옹호하는논증의중심질문복원"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 56,
+              "reason": "과학의성공을설명하는실재론의설명력"
+            },
+            {
+              "code": 64,
+              "reason": "개별이론진위와실재론자체정당화범위구별"
+            },
+            {
+              "code": 74,
+              "reason": "다른철학적관점보다성공을잘설명하는지비교"
+            }
+          ],
+          "surface": [
+            {
+              "code": 81,
+              "reason": "실재존재는명제내용이지만글핵심은믿음정당화"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 16,
+              "refutation": "실재론정의는중간설명일뿐글전체핵심을다담지못함"
+            },
+            {
+              "code": 77,
+              "refutation": "수많은과학자가받아들인다는빈도귀납이아님"
+            },
+            {
+              "code": 80,
+              "refutation": "믿음의대상은중요하나무슨이유로믿는지를복원해야함"
+            }
+          ],
+          "counterfactual_probe": "실재론정의만남기고과학성공을설명하는마지막논증을삭제하면①의핵심성이사라짐.④는정의내용이지만옹호질문을포괄못함.",
+          "confidence": 0.96,
+          "passage_group": "G278",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기표·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "APT/APU는기출이제시한법적논증과가정된추론을분석하며환자의실제의학적상태·현행법·연명치료결정에대한조언아님. APV는과학적실재론의옹호논증을복원하며철학적참됨을확정하지않음.",
+  "APT_보도": "기자의전략적실수·선정적변론등평가와판결이새기준을제시했다는사실추가를구별.확률이극히작다는본문을실제확률0의독립측정으로만들지않음."
+}

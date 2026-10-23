@@ -1,0 +1,2069 @@
+[
+  {
+    "case": "AA",
+    "passage_group": "G001",
+    "passage_id": "KICE-2014-6월_모평A-Q28-29-S073~074",
+    "question_id": "KICE-2014-6월_모평A-Q28-29-S073~074-Q28",
+    "resolved_passage_id": "KICE-2014-6월_모평A-Q28-29",
+    "resolved_question_id": "KICE-2014-6월_모평A-Q28-29-Q28",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 26,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 89,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AA.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": "①",
+    "answer_record_id": "AA-answer_check-20260909-01",
+    "answer_record_line": 40,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 38,
+        "record_id": "AA-blind-20260909-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 40,
+        "record_id": "AA-answer_check-20260909-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 42,
+        "record_id": "AA-independent_code-20260909-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 44,
+        "record_id": "AA-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AB",
+    "passage_group": "G001",
+    "passage_id": "KICE-2014-6월_모평A-Q28-29-S073~074",
+    "question_id": "KICE-2014-6월_모평A-Q28-29-S073~074-Q29",
+    "resolved_passage_id": "KICE-2014-6월_모평A-Q28-29",
+    "resolved_question_id": "KICE-2014-6월_모평A-Q28-29-Q29",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 26,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 90,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AB.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": "④",
+    "answer_record_id": "AB-answer_check-20260909-01",
+    "answer_record_line": 41,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 39,
+        "record_id": "AB-blind-20260909-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 41,
+        "record_id": "AB-answer_check-20260909-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 43,
+        "record_id": "AB-independent_code-20260909-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 45,
+        "record_id": "AB-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AC",
+    "passage_group": "G002",
+    "passage_id": "KICE-2015-수능B-Q25-26-S015~016",
+    "question_id": "KICE-2015-수능B-Q25-26-S015~016-Q25",
+    "resolved_passage_id": "KICE-2015-수능B-Q25-26",
+    "resolved_question_id": "KICE-2015-수능B-Q25-26-Q25",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 39,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 127,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AC.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "AC-answer_check-20260910-01",
+    "answer_record_line": 49,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 47,
+        "record_id": "AC-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 49,
+        "record_id": "AC-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 51,
+        "record_id": "AC-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 53,
+        "record_id": "AC-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AD",
+    "passage_group": "G002",
+    "passage_id": "KICE-2015-수능B-Q25-26-S015~016",
+    "question_id": "KICE-2015-수능B-Q25-26-S015~016-Q26",
+    "resolved_passage_id": "KICE-2015-수능B-Q25-26",
+    "resolved_question_id": "KICE-2015-수능B-Q25-26-Q26",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 39,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 128,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅲ. 과학.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AD.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 4,
+    "answer_record_id": "AD-answer_check-20260910-01",
+    "answer_record_line": 50,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 48,
+        "record_id": "AD-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 50,
+        "record_id": "AD-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 52,
+        "record_id": "AD-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 54,
+        "record_id": "AD-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AF",
+    "passage_group": "G004",
+    "passage_id": "KICE-2020-수능-Q16-20-S083~087",
+    "question_id": "KICE-2020-수능-Q16-20-S083~087-Q16",
+    "resolved_passage_id": "KICE-2020-수능-Q16-20",
+    "resolved_question_id": "KICE-2020-수능-Q16-20-Q16",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 84,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 321,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AF.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "AF-answer_check-20260910-01",
+    "answer_record_line": 66,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 61,
+        "record_id": "AF-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 66,
+        "record_id": "AF-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 71,
+        "record_id": "AF-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 76,
+        "record_id": "AF-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AG",
+    "passage_group": "G004",
+    "passage_id": "KICE-2020-수능-Q16-20-S083~087",
+    "question_id": "KICE-2020-수능-Q16-20-S083~087-Q17",
+    "resolved_passage_id": "KICE-2020-수능-Q16-20",
+    "resolved_question_id": "KICE-2020-수능-Q16-20-Q17",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 84,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 322,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AG.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "AG-answer_check-20260910-01",
+    "answer_record_line": 67,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 62,
+        "record_id": "AG-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 67,
+        "record_id": "AG-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 72,
+        "record_id": "AG-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 77,
+        "record_id": "AG-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AH",
+    "passage_group": "G004",
+    "passage_id": "KICE-2020-수능-Q16-20-S083~087",
+    "question_id": "KICE-2020-수능-Q16-20-S083~087-Q18",
+    "resolved_passage_id": "KICE-2020-수능-Q16-20",
+    "resolved_question_id": "KICE-2020-수능-Q16-20-Q18",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 84,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 323,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AH.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 4,
+    "answer_record_id": "AH-answer_check-20260910-01",
+    "answer_record_line": 68,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 63,
+        "record_id": "AH-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 68,
+        "record_id": "AH-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 73,
+        "record_id": "AH-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 78,
+        "record_id": "AH-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AI",
+    "passage_group": "G004",
+    "passage_id": "KICE-2020-수능-Q16-20-S083~087",
+    "question_id": "KICE-2020-수능-Q16-20-S083~087-Q19",
+    "resolved_passage_id": "KICE-2020-수능-Q16-20",
+    "resolved_question_id": "KICE-2020-수능-Q16-20-Q19",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 84,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 324,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AI.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "AI-answer_check-20260910-01",
+    "answer_record_line": 69,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 64,
+        "record_id": "AI-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 69,
+        "record_id": "AI-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 74,
+        "record_id": "AI-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 79,
+        "record_id": "AI-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AJ",
+    "passage_group": "G004",
+    "passage_id": "KICE-2020-수능-Q16-20-S083~087",
+    "question_id": "KICE-2020-수능-Q16-20-S083~087-Q20",
+    "resolved_passage_id": "KICE-2020-수능-Q16-20",
+    "resolved_question_id": "KICE-2020-수능-Q16-20-Q20",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 84,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 325,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AJ.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "AJ-answer_check-20260910-01",
+    "answer_record_line": 70,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 65,
+        "record_id": "AJ-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 70,
+        "record_id": "AJ-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 75,
+        "record_id": "AJ-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 80,
+        "record_id": "AJ-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "BI",
+    "passage_group": "G010",
+    "passage_id": "KICE-2022-6월_모평-Q10-13-S136~139",
+    "question_id": "KICE-2022-6월_모평-Q10-13-S136~139-Q10",
+    "resolved_passage_id": "KICE-2022-6월_모평-Q10-13",
+    "resolved_question_id": "KICE-2022-6월_모평-Q10-13-Q10",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 110,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 448,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/BI.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "BI-answer_check-20260910-01",
+    "answer_record_line": 174,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 170,
+        "record_id": "BI-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 174,
+        "record_id": "BI-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 178,
+        "record_id": "BI-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 182,
+        "record_id": "BI-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "BJ",
+    "passage_group": "G010",
+    "passage_id": "KICE-2022-6월_모평-Q10-13-S136~139",
+    "question_id": "KICE-2022-6월_모평-Q10-13-S136~139-Q11",
+    "resolved_passage_id": "KICE-2022-6월_모평-Q10-13",
+    "resolved_question_id": "KICE-2022-6월_모평-Q10-13-Q11",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 110,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 449,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/BJ.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "BJ-answer_check-20260910-01",
+    "answer_record_line": 175,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 171,
+        "record_id": "BJ-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 175,
+        "record_id": "BJ-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 179,
+        "record_id": "BJ-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 183,
+        "record_id": "BJ-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "BK",
+    "passage_group": "G010",
+    "passage_id": "KICE-2022-6월_모평-Q10-13-S136~139",
+    "question_id": "KICE-2022-6월_모평-Q10-13-S136~139-Q12",
+    "resolved_passage_id": "KICE-2022-6월_모평-Q10-13",
+    "resolved_question_id": "KICE-2022-6월_모평-Q10-13-Q12",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 110,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 450,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/BK.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 4,
+    "answer_record_id": "BK-answer_check-20260910-01",
+    "answer_record_line": 176,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 172,
+        "record_id": "BK-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 176,
+        "record_id": "BK-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 180,
+        "record_id": "BK-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 184,
+        "record_id": "BK-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "BL",
+    "passage_group": "G010",
+    "passage_id": "KICE-2022-6월_모평-Q10-13-S136~139",
+    "question_id": "KICE-2022-6월_모평-Q10-13-S136~139-Q13",
+    "resolved_passage_id": "KICE-2022-6월_모평-Q10-13",
+    "resolved_question_id": "KICE-2022-6월_모평-Q10-13-Q13",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 110,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 451,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅱ. 사회.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/BL.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "BL-answer_check-20260910-01",
+    "answer_record_line": 177,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 173,
+        "record_id": "BL-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 177,
+        "record_id": "BL-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 181,
+        "record_id": "BL-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 185,
+        "record_id": "BL-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "BY",
+    "passage_group": "G014",
+    "passage_id": "KICE-2022-수능-Q14-17-S058~061",
+    "question_id": "KICE-2022-수능-Q14-17-S058~061-Q14",
+    "resolved_passage_id": "KICE-2022-수능-Q14-17",
+    "resolved_question_id": "KICE-2022-수능-Q14-17-Q14",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 112,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 456,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/BY.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 4,
+    "answer_record_id": "BY-answer_check-20260910-01",
+    "answer_record_line": 261,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 257,
+        "record_id": "BY-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 261,
+        "record_id": "BY-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 265,
+        "record_id": "BY-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 269,
+        "record_id": "BY-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "BZ",
+    "passage_group": "G014",
+    "passage_id": "KICE-2022-수능-Q14-17-S058~061",
+    "question_id": "KICE-2022-수능-Q14-17-S058~061-Q15",
+    "resolved_passage_id": "KICE-2022-수능-Q14-17",
+    "resolved_question_id": "KICE-2022-수능-Q14-17-Q15",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 112,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 457,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/BZ.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "BZ-answer_check-20260910-01",
+    "answer_record_line": 262,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 258,
+        "record_id": "BZ-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 262,
+        "record_id": "BZ-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 266,
+        "record_id": "BZ-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 270,
+        "record_id": "BZ-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "CA",
+    "passage_group": "G014",
+    "passage_id": "KICE-2022-수능-Q14-17-S058~061",
+    "question_id": "KICE-2022-수능-Q14-17-S058~061-Q16",
+    "resolved_passage_id": "KICE-2022-수능-Q14-17",
+    "resolved_question_id": "KICE-2022-수능-Q14-17-Q16",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 112,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 458,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/CA.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 4,
+    "answer_record_id": "CA-answer_check-20260910-01",
+    "answer_record_line": 263,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 259,
+        "record_id": "CA-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 263,
+        "record_id": "CA-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 267,
+        "record_id": "CA-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 271,
+        "record_id": "CA-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": true,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "CB",
+    "passage_group": "G014",
+    "passage_id": "KICE-2022-수능-Q14-17-S058~061",
+    "question_id": "KICE-2022-수능-Q14-17-S058~061-Q17",
+    "resolved_passage_id": "KICE-2022-수능-Q14-17",
+    "resolved_question_id": "KICE-2022-수능-Q14-17-Q17",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 112,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 459,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅳ. 기술.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/CB.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 1,
+    "answer_record_id": "CB-answer_check-20260910-01",
+    "answer_record_line": 264,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 260,
+        "record_id": "CB-blind-20260910-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 264,
+        "record_id": "CB-answer_check-20260910-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 268,
+        "record_id": "CB-independent_code-20260910-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 272,
+        "record_id": "CB-sdss_compare-20260910-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "GK",
+    "passage_group": "G039",
+    "passage_id": "KICE-2010-6월_모평-Q20-22-S009~011",
+    "question_id": "KICE-2010-6월_모평-Q20-22-S009~011-Q20",
+    "resolved_passage_id": "KICE-2010-6월_모평-Q20-22",
+    "resolved_question_id": "KICE-2010-6월_모평-Q20-22-Q20",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 2,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 6,
+      "source_container": "고3 기출/2027 고3 국어 독서_미니모의고사.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/GK.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "GK-answer_check-20260915-01",
+    "answer_record_line": 787,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 781,
+        "record_id": "GK-blind-20260914-02"
+      },
+      {
+        "stage": "answer_check",
+        "line": 787,
+        "record_id": "GK-answer_check-20260915-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 790,
+        "record_id": "GK-independent_code-20260915-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 793,
+        "record_id": "GK-sdss_compare-20260915-01"
+      },
+      {
+        "stage": "induction",
+        "line": 799,
+        "record_id": "GK-induction-20260915-anchor-01"
+      },
+      {
+        "stage": "depth_backfill",
+        "line": 926,
+        "record_id": "GK-depth_backfill-20260915-audit12-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "GL",
+    "passage_group": "G039",
+    "passage_id": "KICE-2010-6월_모평-Q20-22-S009~011",
+    "question_id": "KICE-2010-6월_모평-Q20-22-S009~011-Q21",
+    "resolved_passage_id": "KICE-2010-6월_모평-Q20-22",
+    "resolved_question_id": "KICE-2010-6월_모평-Q20-22-Q21",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 2,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 7,
+      "source_container": "고3 기출/2027 고3 국어 독서_미니모의고사.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/GL.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 1,
+    "answer_record_id": "GL-answer_check-20260915-01",
+    "answer_record_line": 788,
+    "analysis_records": [
+      {
+        "stage": "hold",
+        "line": 782,
+        "record_id": "GL-hold-20260914-source-missing-02"
+      },
+      {
+        "stage": "blind",
+        "line": 784,
+        "record_id": "GL-blind-20260914-02"
+      },
+      {
+        "stage": "answer_check",
+        "line": 788,
+        "record_id": "GL-answer_check-20260915-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 791,
+        "record_id": "GL-independent_code-20260915-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 794,
+        "record_id": "GL-sdss_compare-20260915-01"
+      }
+    ],
+    "diagram_read": true,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "GM",
+    "passage_group": "G039",
+    "passage_id": "KICE-2010-6월_모평-Q20-22-S009~011",
+    "question_id": "KICE-2010-6월_모평-Q20-22-S009~011-Q22",
+    "resolved_passage_id": "KICE-2010-6월_모평-Q20-22",
+    "resolved_question_id": "KICE-2010-6월_모평-Q20-22-Q22",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 2,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 8,
+      "source_container": "고3 기출/2027 고3 국어 독서_미니모의고사.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/GM.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "GM-answer_check-20260915-01",
+    "answer_record_line": 789,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 783,
+        "record_id": "GM-blind-20260914-02"
+      },
+      {
+        "stage": "answer_check",
+        "line": 789,
+        "record_id": "GM-answer_check-20260915-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 792,
+        "record_id": "GM-independent_code-20260915-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 795,
+        "record_id": "GM-sdss_compare-20260915-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "OX",
+    "passage_group": "G103",
+    "passage_id": "KICE-2018-수능-Q16-19-S033~036",
+    "question_id": "KICE-2018-수능-Q16-19-S033~036-Q16",
+    "resolved_passage_id": "KICE-2018-수능-Q16-19",
+    "resolved_question_id": "KICE-2018-수능-Q16-19-Q16",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 65,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 227,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/OX.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "OX-answer_check-20260917-01",
+    "answer_record_line": 1778,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 1774,
+        "record_id": "OX-blind-20260917-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 1778,
+        "record_id": "OX-answer_check-20260917-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 1782,
+        "record_id": "OX-independent_code-20260917-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 1786,
+        "record_id": "OX-sdss_compare-20260917-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "OY",
+    "passage_group": "G103",
+    "passage_id": "KICE-2018-수능-Q16-19-S033~036",
+    "question_id": "KICE-2018-수능-Q16-19-S033~036-Q17",
+    "resolved_passage_id": "KICE-2018-수능-Q16-19",
+    "resolved_question_id": "KICE-2018-수능-Q16-19-Q17",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 65,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 228,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/OY.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "OY-answer_check-20260917-01",
+    "answer_record_line": 1779,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 1775,
+        "record_id": "OY-blind-20260917-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 1779,
+        "record_id": "OY-answer_check-20260917-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 1783,
+        "record_id": "OY-independent_code-20260917-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 1787,
+        "record_id": "OY-sdss_compare-20260917-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "OZ",
+    "passage_group": "G103",
+    "passage_id": "KICE-2018-수능-Q16-19-S033~036",
+    "question_id": "KICE-2018-수능-Q16-19-S033~036-Q18",
+    "resolved_passage_id": "KICE-2018-수능-Q16-19",
+    "resolved_question_id": "KICE-2018-수능-Q16-19-Q18",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 65,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 229,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/OZ.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "OZ-answer_check-20260917-01",
+    "answer_record_line": 1780,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 1776,
+        "record_id": "OZ-blind-20260917-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 1780,
+        "record_id": "OZ-answer_check-20260917-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 1784,
+        "record_id": "OZ-independent_code-20260917-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 1788,
+        "record_id": "OZ-sdss_compare-20260917-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "PA",
+    "passage_group": "G103",
+    "passage_id": "KICE-2018-수능-Q16-19-S033~036",
+    "question_id": "KICE-2018-수능-Q16-19-S033~036-Q19",
+    "resolved_passage_id": "KICE-2018-수능-Q16-19",
+    "resolved_question_id": "KICE-2018-수능-Q16-19-Q19",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 65,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 230,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/PA.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "PA-answer_check-20260917-01",
+    "answer_record_line": 1781,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 1777,
+        "record_id": "PA-blind-20260917-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 1781,
+        "record_id": "PA-answer_check-20260917-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 1785,
+        "record_id": "PA-independent_code-20260917-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 1789,
+        "record_id": "PA-sdss_compare-20260917-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "ZD",
+    "passage_group": "G160",
+    "passage_id": "KICE-2025-6월_모평-Q01-03-S180~182",
+    "question_id": "KICE-2025-6월_모평-Q01-03-S180~182-Q01",
+    "resolved_passage_id": "KICE-2026-6월_모평-Q01-03",
+    "resolved_question_id": "KICE-2026-6월_모평-Q01-03-Q01",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 142,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 589,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "identity_correction": "원장 2620~2622행의 2026학년도6월 후속 대조를 승계. 저장소 원 식별자와 정답 필드는 변경하지 않음.",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/ZD.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 4,
+    "answer_record_id": "ZD-answer_check-20260920-02",
+    "answer_record_line": 2620,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 2549,
+        "record_id": "ZD-blind-20260920-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 2552,
+        "record_id": "ZD-answer_check-20260920-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 2620,
+        "record_id": "ZD-answer_check-20260920-02"
+      },
+      {
+        "stage": "independent_code",
+        "line": 2624,
+        "record_id": "ZD-independent_code-20260920-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 2627,
+        "record_id": "ZD-sdss_compare-20260920-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "ZE",
+    "passage_group": "G160",
+    "passage_id": "KICE-2025-6월_모평-Q01-03-S180~182",
+    "question_id": "KICE-2025-6월_모평-Q01-03-S180~182-Q02",
+    "resolved_passage_id": "KICE-2026-6월_모평-Q01-03",
+    "resolved_question_id": "KICE-2026-6월_모평-Q01-03-Q02",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 142,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 590,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "identity_correction": "원장 2620~2622행의 2026학년도6월 후속 대조를 승계. 저장소 원 식별자와 정답 필드는 변경하지 않음.",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/ZE.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "ZE-answer_check-20260920-02",
+    "answer_record_line": 2621,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 2550,
+        "record_id": "ZE-blind-20260920-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 2553,
+        "record_id": "ZE-answer_check-20260920-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 2621,
+        "record_id": "ZE-answer_check-20260920-02"
+      },
+      {
+        "stage": "independent_code",
+        "line": 2625,
+        "record_id": "ZE-independent_code-20260920-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 2628,
+        "record_id": "ZE-sdss_compare-20260920-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "ZF",
+    "passage_group": "G160",
+    "passage_id": "KICE-2025-6월_모평-Q01-03-S180~182",
+    "question_id": "KICE-2025-6월_모평-Q01-03-S180~182-Q03",
+    "resolved_passage_id": "KICE-2026-6월_모평-Q01-03",
+    "resolved_question_id": "KICE-2026-6월_모평-Q01-03-Q03",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/kice_passages.jsonl",
+      "passage_line": 142,
+      "passage_field": "passage_text",
+      "question_file": "data/kice_questions.jsonl",
+      "question_line": 591,
+      "source_container": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+      "source_markdown": "고3 기출/hwpx_텍스트_연도별.md",
+      "level": "정본 JSONL/편집 HWPX 연결 전사 대조; 원 배포 지면 신규 전수 대조 아님",
+      "identity_correction": "원장 2620~2622행의 2026학년도6월 후속 대조를 승계. 저장소 원 식별자와 정답 필드는 변경하지 않음.",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/ZF.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "ZF-answer_check-20260920-02",
+    "answer_record_line": 2622,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 2551,
+        "record_id": "ZF-blind-20260920-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 2554,
+        "record_id": "ZF-answer_check-20260920-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 2622,
+        "record_id": "ZF-answer_check-20260920-02"
+      },
+      {
+        "stage": "independent_code",
+        "line": 2626,
+        "record_id": "ZF-independent_code-20260920-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 2629,
+        "record_id": "ZF-sdss_compare-20260920-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AJP",
+    "passage_group": "G222",
+    "passage_id": "LEET-2022-odd-Q01-03",
+    "question_id": "LEET-2022-odd-Q01",
+    "resolved_passage_id": "LEET-2022-odd-Q01-03",
+    "resolved_question_id": "LEET-2022-odd-Q01-03-Q01",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "passage_line": 10,
+      "passage_field": "본문",
+      "question_file": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "question_line": null,
+      "source_markdown": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "level": "공식 검수 전사",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AJP.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "AJP-answer_check-20260922-01",
+    "answer_record_line": 3300,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 3297,
+        "record_id": "AJP-blind-20260922-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 3300,
+        "record_id": "AJP-answer_check-20260922-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 3303,
+        "record_id": "AJP-independent_code-20260922-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 3306,
+        "record_id": "AJP-sdss_compare-20260922-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AJQ",
+    "passage_group": "G222",
+    "passage_id": "LEET-2022-odd-Q01-03",
+    "question_id": "LEET-2022-odd-Q02",
+    "resolved_passage_id": "LEET-2022-odd-Q01-03",
+    "resolved_question_id": "LEET-2022-odd-Q01-03-Q02",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "passage_line": 10,
+      "passage_field": "본문",
+      "question_file": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "question_line": null,
+      "source_markdown": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "level": "공식 검수 전사",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AJQ.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "AJQ-answer_check-20260922-01",
+    "answer_record_line": 3301,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 3298,
+        "record_id": "AJQ-blind-20260922-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 3301,
+        "record_id": "AJQ-answer_check-20260922-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 3304,
+        "record_id": "AJQ-independent_code-20260922-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 3307,
+        "record_id": "AJQ-sdss_compare-20260922-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AJR",
+    "passage_group": "G222",
+    "passage_id": "LEET-2022-odd-Q01-03",
+    "question_id": "LEET-2022-odd-Q03",
+    "resolved_passage_id": "LEET-2022-odd-Q01-03",
+    "resolved_question_id": "LEET-2022-odd-Q01-03-Q03",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "passage_line": 10,
+      "passage_field": "본문",
+      "question_file": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "question_line": null,
+      "source_markdown": "자료/LEET_언어이해/전사_검수완료/2022/q01-03.md",
+      "level": "공식 검수 전사",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AJR.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "AJR-answer_check-20260922-01",
+    "answer_record_line": 3302,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 3299,
+        "record_id": "AJR-blind-20260922-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 3302,
+        "record_id": "AJR-answer_check-20260922-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 3305,
+        "record_id": "AJR-independent_code-20260922-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 3308,
+        "record_id": "AJR-sdss_compare-20260922-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "ANV",
+    "passage_group": "G260",
+    "passage_id": "LEET-2011-odd-Q24-26",
+    "question_id": "LEET-2011-odd-Q24",
+    "resolved_passage_id": "LEET-2011-odd-Q24-26",
+    "resolved_question_id": "LEET-2011-odd-Q24-26-Q24",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "passage_line": 364,
+      "passage_field": "본문",
+      "question_file": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "question_line": null,
+      "source_markdown": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "level": "기존 공식 HWP 추출 텍스트; 이번 지면 재검수 없음",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/ANV.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "ANV-answer_check-20260927-01",
+    "answer_record_line": 3802,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 3799,
+        "record_id": "ANV-blind-20260927-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 3802,
+        "record_id": "ANV-answer_check-20260927-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 3805,
+        "record_id": "ANV-independent_code-20260927-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 3808,
+        "record_id": "ANV-sdss_compare-20260927-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "ANW",
+    "passage_group": "G260",
+    "passage_id": "LEET-2011-odd-Q24-26",
+    "question_id": "LEET-2011-odd-Q25",
+    "resolved_passage_id": "LEET-2011-odd-Q24-26",
+    "resolved_question_id": "LEET-2011-odd-Q24-26-Q25",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "passage_line": 364,
+      "passage_field": "본문",
+      "question_file": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "question_line": null,
+      "source_markdown": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "level": "기존 공식 HWP 추출 텍스트; 이번 지면 재검수 없음",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/ANW.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "ANW-answer_check-20260927-01",
+    "answer_record_line": 3803,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 3800,
+        "record_id": "ANW-blind-20260927-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 3803,
+        "record_id": "ANW-answer_check-20260927-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 3806,
+        "record_id": "ANW-independent_code-20260927-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 3809,
+        "record_id": "ANW-sdss_compare-20260927-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "ANX",
+    "passage_group": "G260",
+    "passage_id": "LEET-2011-odd-Q24-26",
+    "question_id": "LEET-2011-odd-Q26",
+    "resolved_passage_id": "LEET-2011-odd-Q24-26",
+    "resolved_question_id": "LEET-2011-odd-Q24-26-Q26",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "passage_line": 364,
+      "passage_field": "본문",
+      "question_file": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "question_line": null,
+      "source_markdown": "자료/LEET_언어이해/텍스트/2011/2011_question_odd.md",
+      "level": "기존 공식 HWP 추출 텍스트; 이번 지면 재검수 없음",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/ANX.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "ANX-answer_check-20260927-01",
+    "answer_record_line": 3804,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 3801,
+        "record_id": "ANX-blind-20260927-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 3804,
+        "record_id": "ANX-answer_check-20260927-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 3807,
+        "record_id": "ANX-independent_code-20260927-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 3810,
+        "record_id": "ANX-sdss_compare-20260927-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AQN",
+    "passage_group": "G284",
+    "passage_id": "MEET-2006-Q05-07",
+    "question_id": "MEET-2006-Q05",
+    "resolved_passage_id": "MEET-2006-Q05-07",
+    "resolved_question_id": "MEET-2006-Q05-07-Q05",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/meet_passages.jsonl",
+      "passage_line": 36,
+      "passage_field": "context_markdown",
+      "question_file": "data/meet_questions.jsonl",
+      "question_line": 105,
+      "source_markdown": "자료/MEET_언어추론/전사_검수완료/2006/q05-07.md",
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_040_3x.png",
+          "sha256": "2a5e5a80155bee6823735963512a178004cf599fafec1a30979ac0f2c7e80b03"
+        }
+      ],
+      "level": "공식 지면 검수 완료 정본 전사 재사용; 이번에는 전사 텍스트 연결 대조",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AQN.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 3,
+    "answer_record_id": "AQN-answer_check-20260927-01",
+    "answer_record_line": 4120,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 4117,
+        "record_id": "AQN-blind-20260927-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 4120,
+        "record_id": "AQN-answer_check-20260927-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 4123,
+        "record_id": "AQN-independent_code-20260927-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 4126,
+        "record_id": "AQN-sdss_compare-20260927-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AQO",
+    "passage_group": "G284",
+    "passage_id": "MEET-2006-Q05-07",
+    "question_id": "MEET-2006-Q06",
+    "resolved_passage_id": "MEET-2006-Q05-07",
+    "resolved_question_id": "MEET-2006-Q05-07-Q06",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/meet_passages.jsonl",
+      "passage_line": 36,
+      "passage_field": "context_markdown",
+      "question_file": "data/meet_questions.jsonl",
+      "question_line": 106,
+      "source_markdown": "자료/MEET_언어추론/전사_검수완료/2006/q05-07.md",
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_040_3x.png",
+          "sha256": "2a5e5a80155bee6823735963512a178004cf599fafec1a30979ac0f2c7e80b03"
+        }
+      ],
+      "level": "공식 지면 검수 완료 정본 전사 재사용; 이번에는 전사 텍스트 연결 대조",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AQO.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 2,
+    "answer_record_id": "AQO-answer_check-20260927-01",
+    "answer_record_line": 4121,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 4118,
+        "record_id": "AQO-blind-20260927-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 4121,
+        "record_id": "AQO-answer_check-20260927-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 4124,
+        "record_id": "AQO-independent_code-20260927-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 4127,
+        "record_id": "AQO-sdss_compare-20260927-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AQP",
+    "passage_group": "G284",
+    "passage_id": "MEET-2006-Q05-07",
+    "question_id": "MEET-2006-Q07",
+    "resolved_passage_id": "MEET-2006-Q05-07",
+    "resolved_question_id": "MEET-2006-Q05-07-Q07",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/meet_passages.jsonl",
+      "passage_line": 36,
+      "passage_field": "context_markdown",
+      "question_file": "data/meet_questions.jsonl",
+      "question_line": 107,
+      "source_markdown": "자료/MEET_언어추론/전사_검수완료/2006/q05-07.md",
+      "official_pages": [
+        {
+          "display_page": 2,
+          "file": "자료/MEET_언어추론/페이지/2006/official_page_040_3x.png",
+          "sha256": "2a5e5a80155bee6823735963512a178004cf599fafec1a30979ac0f2c7e80b03"
+        }
+      ],
+      "level": "공식 지면 검수 완료 정본 전사 재사용; 이번에는 전사 텍스트 연결 대조",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AQP.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 1,
+    "answer_record_id": "AQP-answer_check-20260927-01",
+    "answer_record_line": 4122,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 4119,
+        "record_id": "AQP-blind-20260927-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 4122,
+        "record_id": "AQP-answer_check-20260927-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 4125,
+        "record_id": "AQP-independent_code-20260927-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 4128,
+        "record_id": "AQP-sdss_compare-20260927-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AVS",
+    "passage_group": "G329",
+    "passage_id": "MEET-2012-Q20-22",
+    "question_id": "MEET-2012-Q20",
+    "resolved_passage_id": "MEET-2012-Q20-22",
+    "resolved_question_id": "MEET-2012-Q20-22-Q20",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/meet_passages.jsonl",
+      "passage_line": 119,
+      "passage_field": "context_markdown",
+      "question_file": "data/meet_questions.jsonl",
+      "question_line": 360,
+      "source_markdown": "자료/MEET_언어추론/전사_검수완료/2012/q20-22.md",
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_144_3x.png",
+          "sha256": "15ec840db57bc12dcaaad0e175eba8a6658a1958642fb555991cbda4287d47f8"
+        },
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_145_3x.png",
+          "sha256": "a022676aa45ced6ce2383c97040b4e3c1a780f3e18ef798722ae5aaeb4ba4695"
+        }
+      ],
+      "level": "공식 지면 검수 완료 정본 전사 재사용; 이번에는 전사 텍스트 연결 대조",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AVS.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 5,
+    "answer_record_id": "AVS-answer_check-20260928-01",
+    "answer_record_line": 4731,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 4728,
+        "record_id": "AVS-blind-20260928-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 4731,
+        "record_id": "AVS-answer_check-20260928-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 4734,
+        "record_id": "AVS-independent_code-20260928-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 4737,
+        "record_id": "AVS-sdss_compare-20260928-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AVT",
+    "passage_group": "G329",
+    "passage_id": "MEET-2012-Q20-22",
+    "question_id": "MEET-2012-Q21",
+    "resolved_passage_id": "MEET-2012-Q20-22",
+    "resolved_question_id": "MEET-2012-Q20-22-Q21",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/meet_passages.jsonl",
+      "passage_line": 119,
+      "passage_field": "context_markdown",
+      "question_file": "data/meet_questions.jsonl",
+      "question_line": 361,
+      "source_markdown": "자료/MEET_언어추론/전사_검수완료/2012/q20-22.md",
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_144_3x.png",
+          "sha256": "15ec840db57bc12dcaaad0e175eba8a6658a1958642fb555991cbda4287d47f8"
+        },
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_145_3x.png",
+          "sha256": "a022676aa45ced6ce2383c97040b4e3c1a780f3e18ef798722ae5aaeb4ba4695"
+        }
+      ],
+      "level": "공식 지면 검수 완료 정본 전사 재사용; 이번에는 전사 텍스트 연결 대조",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AVT.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 1,
+    "answer_record_id": "AVT-answer_check-20260928-01",
+    "answer_record_line": 4732,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 4729,
+        "record_id": "AVT-blind-20260928-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 4732,
+        "record_id": "AVT-answer_check-20260928-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 4735,
+        "record_id": "AVT-independent_code-20260928-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 4738,
+        "record_id": "AVT-sdss_compare-20260928-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  },
+  {
+    "case": "AVU",
+    "passage_group": "G329",
+    "passage_id": "MEET-2012-Q20-22",
+    "question_id": "MEET-2012-Q22",
+    "resolved_passage_id": "MEET-2012-Q20-22",
+    "resolved_question_id": "MEET-2012-Q20-22-Q22",
+    "full_passage_read": true,
+    "full_stem_and_all_choices_read": true,
+    "choice_count": 5,
+    "source": {
+      "passage_file": "data/meet_passages.jsonl",
+      "passage_line": 119,
+      "passage_field": "context_markdown",
+      "question_file": "data/meet_questions.jsonl",
+      "question_line": 362,
+      "source_markdown": "자료/MEET_언어추론/전사_검수완료/2012/q20-22.md",
+      "official_pages": [
+        {
+          "display_page": 9,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_144_3x.png",
+          "sha256": "15ec840db57bc12dcaaad0e175eba8a6658a1958642fb555991cbda4287d47f8"
+        },
+        {
+          "display_page": 10,
+          "file": "자료/MEET_언어추론/페이지/2012/official_page_145_3x.png",
+          "sha256": "a022676aa45ced6ce2383c97040b4e3c1a780f3e18ef798722ae5aaeb4ba4695"
+        }
+      ],
+      "level": "공식 지면 검수 완료 정본 전사 재사용; 이번에는 전사 텍스트 연결 대조",
+      "blind_source": "data/기본기_연구/prepared_backlog/blind_sources/AVU.json",
+      "passage_parity_normalized": true,
+      "question_parity_normalized": true
+    },
+    "official_answer_reused": 1,
+    "answer_record_id": "AVU-answer_check-20260928-01",
+    "answer_record_line": 4733,
+    "analysis_records": [
+      {
+        "stage": "blind",
+        "line": 4730,
+        "record_id": "AVU-blind-20260928-01"
+      },
+      {
+        "stage": "answer_check",
+        "line": 4733,
+        "record_id": "AVU-answer_check-20260928-01"
+      },
+      {
+        "stage": "independent_code",
+        "line": 4736,
+        "record_id": "AVU-independent_code-20260928-01"
+      },
+      {
+        "stage": "sdss_compare",
+        "line": 4739,
+        "record_id": "AVU-sdss_compare-20260928-01"
+      }
+    ],
+    "diagram_read": false,
+    "verification_limit": "원문 배포본 전수 재검증·재풀이는 하지 않았으며 기존 검증 범위를 승계"
+  }
+]

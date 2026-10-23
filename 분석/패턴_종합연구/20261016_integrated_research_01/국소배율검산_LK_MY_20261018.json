@@ -1,0 +1,12 @@
+{
+  "scope": "LK/MY명시모형과신규변형의국소산술검산.원자료전수재검증아님",
+  "LK_original_luminosity_ratio": "100",
+  "LK_E232_radius_only_ratio": "10000",
+  "LK_grade_route": "절대등급차5→약100; E232의10000과불일치",
+  "LK_E234_recovered_absolute_grades": {
+    "A": -1,
+    "B": -6
+  },
+  "MY_speed2_energy_ratio": 4,
+  "MY_original_wrong_option": 5
+}

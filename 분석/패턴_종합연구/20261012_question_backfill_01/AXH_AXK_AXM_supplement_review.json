@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AXH": [
+      {
+        "line": 4916,
+        "record_id": "AXH-independent_code-20260928-01",
+        "case": "AXH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            45
+          ],
+          "auxiliary": [
+            87,
+            49
+          ],
+          "surface": [
+            5,
+            57
+          ],
+          "decisive_operation": "직전 범죄율 상태와 이동 방향을 입력으로 포함하여 곡선의 가지를 선택하고 α/β 문턱의 전이 방향을 대응한다.",
+          "scope": "④ 정답 결정은45의 상태·방향 대응,①②③의 변화 크기87 및 증감49는 보조",
+          "competing_codes": [
+            {
+              "code": 49,
+              "rejection": "제재 강화→범죄 감소라는 같은 방향만으로는 α와β 중 어느 문턱인지 결정할 수 없다."
+            },
+            {
+              "code": 87,
+              "rejection": "급변과 완만 구간을 판독하지만④의 문턱 교환은 기울기 크기만으로 구별되지 않는다."
+            },
+            {
+              "code": 46,
+              "rejection": "제재의 사회적 인과 기제를 복원할 필요 없이 주어진 곡선 모형을 적용한다."
+            },
+            {
+              "code": 43,
+              "rejection": "다른 조건 동일은 전제이나 경쟁효과를 분리·추정하는 문항이 아니다."
+            }
+          ],
+          "confidence": 0.93,
+          "passage_group": "G342",
+          "sdss_seen": false,
+          "original_judgment_preserved": true,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AXK": [
+      {
+        "line": 4930,
+        "record_id": "AXK-independent_code-20260928-01",
+        "case": "AXK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G343",
+          "primary": [
+            88
+          ],
+          "auxiliary": [
+            15,
+            40,
+            12
+          ],
+          "surface": [
+            79,
+            83
+          ],
+          "decisive_operation": "사회 전체를 평가 범위로 고정하고 가해자의 쾌락과 피해자의 고통을 비교하여 순결과를 판단한다. 쾌락 자체의 가치와 행위의 정당성을 분리한다.",
+          "competing_codes": [
+            {
+              "code": 78,
+              "rejection": "행위 동기가 아니라 전체 결과의 비교로⑤를 정한다."
+            },
+            {
+              "code": 22,
+              "rejection": "쾌락의 내재적 가치가 행위 전체의 옳음으로 상속되지 않는다."
+            },
+            {
+              "code": 41,
+              "rejection": "개인의 이익을 전체 이익으로 옮기는②에 관련되나 합성 오류만으로⑤의 조건부 크기 비교를 대신하지 못함."
+            },
+            {
+              "code": 63,
+              "rejection": "보기 비판에 대한 응답 형식이지만 핵심은 주어진 평가기준 적용. 별도 증거의 지지강도 변화는 아님."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.88,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AXM": [
+      {
+        "line": 4943,
+        "record_id": "AXM-independent_code-20260928-01",
+        "case": "AXM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G344",
+          "primary": [
+            49
+          ],
+          "auxiliary": [
+            88,
+            46
+          ],
+          "surface": [
+            25,
+            77
+          ],
+          "decisive_operation": "일부 유형 심사 생략→입증 부담 감소→전체 집행 비용 절약의 방향을 확인하고④의 증가를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 88,
+              "rejection": "비용-오류 절충은 배경이나④는 절충 최적점 비교 아닌 비용 증감 역전이다."
+            },
+            {
+              "code": 25,
+              "rejection": "두 유형 분류만 알아도 비용 방향을 따로 확인해야 한다."
+            },
+            {
+              "code": 43,
+              "rejection": "비교 실험의 다른 변수 통제는 없다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "AXH_visual": {
+    "source_graph": "data/기본기_연구/prepared_backlog/blind_sources/G342_visual01.tif",
+    "display_graph": "분석/패턴_종합연구/20261012_question_backfill_01/AXH_visual01.png",
+    "official_choices": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_003.png",
+    "method": "주 에이전트 도식 및 공식 선택지 직접 판독. 새 폴더 파생source에④α·⑤β보다 복원.",
+    "observations": [
+      "그림2 x축은 제재 강도,y축은 범죄율이다.",
+      "α는 왼쪽 경계,β는 오른쪽 경계이며α<β이다.",
+      "고범죄 가지에서 제재를 강화하면F를 거쳐β에서 저범죄로 급락한다.",
+      "저범죄 가지에서 제재를 약화하면G를 거쳐α에서 고범죄로 급증한다.",
+      "공식 선택지④의 주어는α,⑤의 비교 기준은β보다이다."
+    ],
+    "history": "기존 hold→공식렌더 경로 이탈·helper답태그노출→유효풀이 기록의 strict blind 제외를 그대로 보존."
+  },
+  "AXK_view": "G343_visual01.md의 사디스트 쾌락·가학 행위를 비판하는 보기 전체를 직접 확인. 제시된 윤리 이론의 평가 기준만 분석."
+}

@@ -1,0 +1,270 @@
+{
+  "requested_model": "GPT-6.1 Sol",
+  "requested_effort": "xhigh",
+  "runtime_identity_verified": false,
+  "runtime_note": "이번 실행은 주 세션에서만 수행. 외부 모델 호출·subagent·cx1m 호출 없음. 요청 모델·effort의 API 실행 식별값은 직접 검증하지 못함.",
+  "preloaded": [
+    "사용자 제공 AGENTS.md 지침 전체",
+    "사용자 최신 독립 검증 1단계 지시",
+    "시스템·개발자 지침·스킬 목록·환경 정보"
+  ],
+  "preloaded_impact": "연구 절차·G095 노출 이력·hold ID·기존 코드북 식별자만 제공됨. 기존 패턴 정의·적용 결과·정답은 제공되지 않음.",
+  "events": [
+    {
+      "scope": "pwd 및 rg --files",
+      "mode": "경로명 열거",
+      "content_exposure": "파일명만. 첫 검색은 출력 일부가 잘림. 문서 본문 미열람."
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/independent_validation_inputs.md",
+      "mode": "기계적 필터",
+      "content_exposure": "ID G095, 표 헤더(시점·필요 입력·제공·분리 기준), 행·열 수만. 본문 값 출력 없음."
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/management_metadata.json",
+      "mode": "기계적 구조 검사",
+      "content_exposure": "최상위 키와 배열 길이·레코드 키만. 노출 기록 및 패턴 값 미출력."
+    },
+    {
+      "path": "분석/패턴_종합연구/20261010_codebook_v0_2_01/input_inventory.json",
+      "mode": "기계적 구조 검사",
+      "content_exposure": "최상위 타입 list만."
+    },
+    {
+      "path": "분석/패턴_종합연구/20261009_pilot_01/sample_manifest.json",
+      "mode": "구조 검사 및 허용 필드 분리",
+      "content_exposure": "최상위·표본 레코드 키, 고정 검증 표본 6개의 ID·문항 ID·출처 경로만."
+    },
+    {
+      "paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/JN.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/JO.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NK.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NL.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NM.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NN.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/NO.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/RV.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/RW.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/RX.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/RY.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/YR.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/YS.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/YT.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/YU.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/AYE.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/AYF.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/AYG.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/ATN.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/ATO.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/ATP.json"
+      ],
+      "mode": "기계적 파싱·허용 필드 복사",
+      "content_exposure": "준비 단계에서는 6개 대표 blind 파일 키만 출력. 실제 본문 열람은 이후 events에 기록."
+    },
+    {
+      "scope": "preservation_baseline.json에 열거한 파일",
+      "mode": "바이트 해시만 계산",
+      "content_exposure": "기존 보고·코드북 등을 hash 함수로 읽었으나 본문을 모델에 출력·해석하지 않음."
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/JN.json",
+      "viewed_copy": "sources/JN.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:44:29.263811+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/JO.json",
+      "viewed_copy": "sources/JO.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:44:29.269279+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NK.json",
+      "viewed_copy": "sources/NK.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:44:29.366021+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NL.json",
+      "viewed_copy": "sources/NL.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:44:29.371004+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NM.json",
+      "viewed_copy": "sources/NM.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:44:29.378945+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NN.json",
+      "viewed_copy": "sources/NN.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:44:29.383472+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/NO.json",
+      "viewed_copy": "sources/NO.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:44:29.387705+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RV.json",
+      "viewed_copy": "sources/RV.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.215225+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RW.json",
+      "viewed_copy": "sources/RW.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.219826+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RX.json",
+      "viewed_copy": "sources/RX.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.224849+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/RY.json",
+      "viewed_copy": "sources/RY.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.229594+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YR.json",
+      "viewed_copy": "sources/YR.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.326694+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YS.json",
+      "viewed_copy": "sources/YS.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.330706+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YT.json",
+      "viewed_copy": "sources/YT.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.334654+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/YU.json",
+      "viewed_copy": "sources/YU.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:48:24.342296+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/AYE.json",
+      "viewed_copy": "sources/AYE.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:53:51.485093+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/AYF.json",
+      "viewed_copy": "sources/AYF.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:53:51.490051+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/AYG.json",
+      "viewed_copy": "sources/AYG.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:53:51.494967+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ATN.json",
+      "viewed_copy": "sources/ATN.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:53:51.591250+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ATO.json",
+      "viewed_copy": "sources/ATO.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:53:51.595997+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/ATP.json",
+      "viewed_copy": "sources/ATP.json",
+      "mode": "모델에 본문 출력",
+      "scope": "지문 전체(그룹 첫 문항), 문항 발문 및 5선지 전체",
+      "timestamp": "2026-10-10T08:53:51.601135+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual01.md",
+      "viewed_copy": "sources/G350_visual01.md",
+      "mode": "모델에 보충자료 본문 출력",
+      "scope": "필수 그림의 blind 원문 보충",
+      "timestamp": "2026-10-10T08:53:51.625379+00:00"
+    },
+    {
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual02.md",
+      "viewed_copy": "sources/G350_visual02.md",
+      "mode": "모델에 보충자료 본문 출력",
+      "scope": "필수 그림의 blind 원문 보충",
+      "timestamp": "2026-10-10T08:53:51.650955+00:00"
+    },
+    {
+      "paths": [
+        "자료/평가원_국어",
+        "자료/평가원_독서_시각자료_원본",
+        "data/기출_MD_정본"
+      ],
+      "mode": "rg --files 및 경로명 검사",
+      "scope": "RX의 누락 B열 원문 위치 탐색",
+      "content_exposure": "원문·정답표 파일명만. 정답표 본문 미열람."
+    },
+    {
+      "paths": [
+        "data/기출_MD_정본/연도별/2019/6월_모평/독서/Q35-38.md",
+        "data/기출_MD_정본/연도별/2019/6월_모평/독서/Q35-38-S084-087.md"
+      ],
+      "mode": "기계적 구조 필터",
+      "scope": "줄 수·제목 수준·숫자 식별·원본 HWP 파일명만 출력",
+      "content_exposure": "문서의 정답·해설 및 기존 분석 값 출력 없음."
+    },
+    {
+      "path": "data/기출_MD_정본/연도별/2019/6월_모평/독서/Q35-38-S084-087.md",
+      "mode": "문항 부분만 모델 출력",
+      "scope": "A와 B라는 발문부터 다음 문항 전까지·금지 문자열 직전에서 중단",
+      "content_exposure": "RX 발문·보기·A열 5선지·문항 식별 숫자 087. B열 누락 확인. 정답·해설 출력 없음."
+    },
+    {
+      "scope": "저장소 전체 PDF/HWP 경로 열거 및 두 /tmp PDF 존재 여부",
+      "mode": "파일명·존재 여부만",
+      "content_exposure": "정답표 경로명 일부 보였으나 정답표를 열지 않음. /tmp 후보 PDF 2개 모두 없음."
+    },
+    {
+      "scope": "새 실행 폴더의 analysis 6파일·분리한 원문 사본·직접 작성한 스크립트",
+      "mode": "독립 판단 기록 및 연결 산출",
+      "content_exposure": "자신의 독립 풀이와 원문만. 기존 보고·코드북·정답 대조 없음."
+    }
+  ],
+  "guarantee": "모델 세션에 표시된 자료와 코드로만 처리한 자료를 구분. 숨은 자동 파일 삽입 여부 및 사전학습 기출 기억은 완전히 검증할 수 없음.",
+  "chronology_note": "사례 본문 열람에는 실제 시각을 남겼다. 초기 기계적 조회 및 RX 진단 조회는 최종 정리에 추가하여 사건 배열은 정확한 전체 시간순 로그가 아니다. 실행한 명령의 필터·출력 범위를 기록한 수동 열람 원장이다.",
+  "completed_at_utc": "2026-10-10T09:04:58.923444+00:00"
+}

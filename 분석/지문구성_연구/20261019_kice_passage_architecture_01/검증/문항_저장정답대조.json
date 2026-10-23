@@ -1,0 +1,326 @@
+[
+  {
+    "sample_id": "PA01",
+    "question": 15,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA01",
+    "question": 16,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA02",
+    "question": 37,
+    "initial_choice": 1,
+    "stored_answer": "①",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA02",
+    "question": 40,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA03",
+    "question": 14,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA03",
+    "question": 16,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA04",
+    "question": 47,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA04",
+    "question": 49,
+    "initial_choice": null,
+    "stored_answer": "①",
+    "official_answer_verified_field": true,
+    "matches": null,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA05",
+    "question": 18,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA05",
+    "question": 20,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA06",
+    "question": 43,
+    "initial_choice": 3,
+    "stored_answer": "③",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA06",
+    "question": 44,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA07",
+    "question": 22,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA07",
+    "question": 23,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA08",
+    "question": 23,
+    "initial_choice": 3,
+    "stored_answer": "③",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA08",
+    "question": 24,
+    "initial_choice": null,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": null,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA09",
+    "question": 17,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA09",
+    "question": 19,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA10",
+    "question": 28,
+    "initial_choice": 1,
+    "stored_answer": "①",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA10",
+    "question": 29,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA11",
+    "question": 19,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA11",
+    "question": 20,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA12",
+    "question": 18,
+    "initial_choice": 1,
+    "stored_answer": "①",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA12",
+    "question": 20,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA13",
+    "question": 28,
+    "initial_choice": 3,
+    "stored_answer": "③",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA13",
+    "question": 29,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA14",
+    "question": 25,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA14",
+    "question": 26,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA15",
+    "question": 39,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA15",
+    "question": 41,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA16",
+    "question": 15,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA16",
+    "question": 17,
+    "initial_choice": null,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": null,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA17",
+    "question": 14,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA17",
+    "question": 15,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA18",
+    "question": 9,
+    "initial_choice": 1,
+    "stored_answer": "①",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA18",
+    "question": 10,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  }
+]

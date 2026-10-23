@@ -1,0 +1,72 @@
+{
+  "scope": "정의식의 유한 산술 검산. 실제 광원·보험·열기관 실험이나 원문 물리 검증 아님. 일반식 증명은 사례집69·70에 별도 서술.",
+  "NF": [
+    {
+      "N_ratio": "1",
+      "q_ratio": "4/5",
+      "output_ratio": "4/5",
+      "output_nA": "80"
+    },
+    {
+      "N_ratio": "5/4",
+      "q_ratio": "4/5",
+      "output_ratio": "1",
+      "output_nA": "100"
+    },
+    {
+      "N_ratio": "3/2",
+      "q_ratio": "4/5",
+      "output_ratio": "6/5",
+      "output_nA": "120"
+    },
+    {
+      "N_ratio": "11/10",
+      "q_ratio": "4/5",
+      "output_ratio": "22/25",
+      "output_nA": "88"
+    }
+  ],
+  "NW_positive_amount_option_truth_vectors": {
+    "original": [
+      false,
+      false,
+      false,
+      false,
+      true
+    ],
+    "E247": [
+      true,
+      false,
+      false,
+      false,
+      true
+    ],
+    "E248": [
+      false,
+      false,
+      false,
+      false,
+      false
+    ],
+    "E249": [
+      false,
+      false,
+      true,
+      false,
+      true
+    ]
+  },
+  "OH": {
+    "comparison": "A>0, B=k*A*eta, eta<1 -> B/A<k",
+    "variable_efficiency_example": [
+      "eta=0.3 -> B/A=0.3k",
+      "eta=0.6 -> B/A=0.6k"
+    ],
+    "counterfactual_eta_one_true_options": [
+      1,
+      2
+    ],
+    "inverse_unit_check": "A/B와k는 다른 단위. A/B>1/k는 B>0에서 성립."
+  },
+  "errors": []
+}

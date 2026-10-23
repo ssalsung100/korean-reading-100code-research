@@ -1,0 +1,172 @@
+{
+  "at": "2026-10-21T06:34:16.950788+00:00",
+  "status": "통과",
+  "checks": {
+    "산출물_00": {
+      "pass": true,
+      "detail": [
+        "00_README.md"
+      ]
+    },
+    "산출물_01": {
+      "pass": true,
+      "detail": [
+        "01_기존연구와_부족한부분.md"
+      ]
+    },
+    "산출물_02": {
+      "pass": true,
+      "detail": [
+        "02_평가원지문_표본목록.jsonl"
+      ]
+    },
+    "산출물_03": {
+      "pass": true,
+      "detail": [
+        "03_지문별_심층분석"
+      ]
+    },
+    "산출물_04": {
+      "pass": true,
+      "detail": [
+        "04_문단의존관계_연구.md"
+      ]
+    },
+    "산출물_05": {
+      "pass": true,
+      "detail": [
+        "05_설명구조_유형과경계.md"
+      ]
+    },
+    "산출물_06": {
+      "pass": true,
+      "detail": [
+        "06_지문구성원리_후보.md"
+      ]
+    },
+    "산출물_07": {
+      "pass": true,
+      "detail": [
+        "07_빈곤측정지문_원인진단.md"
+      ]
+    },
+    "산출물_08": {
+      "pass": true,
+      "detail": [
+        "08_새로운지문_구성안3종.md"
+      ]
+    },
+    "산출물_09": {
+      "pass": true,
+      "detail": [
+        "09_시험집필_새지문.md"
+      ]
+    },
+    "산출물_10": {
+      "pass": true,
+      "detail": [
+        "10_기존지문과_새지문비교.md"
+      ]
+    },
+    "산출물_11": {
+      "pass": true,
+      "detail": [
+        "11_지문집필_실행기준_v0_1.md"
+      ]
+    },
+    "산출물_12": {
+      "pass": true,
+      "detail": [
+        "12_100코드와_연결.md"
+      ]
+    },
+    "산출물_13": {
+      "pass": true,
+      "detail": [
+        "13_독립표본_검증과_미해결.md"
+      ]
+    },
+    "산출물_14": {
+      "pass": true,
+      "detail": [
+        "14_다음지문제작_입력카드.md"
+      ]
+    },
+    "표본_범위": {
+      "pass": true,
+      "detail": {
+        "total": 22,
+        "derive": 18,
+        "heldout": 4
+      }
+    },
+    "선택22_전사사본과출처": {
+      "pass": true,
+      "detail": {
+        "mismatch": [],
+        "scope": "선택한 22개 사본의 내용 비교. 공식 PDF 전수 대조 또는 전체 원장 해시 검증 아님."
+      }
+    },
+    "지문_문항_저장순서": {
+      "pass": true,
+      "detail": {
+        "errors": [],
+        "scope": "기록 순서 검사. 무노출 증명 아님. PA02 문항 동시 노출 예외 별도 기록."
+      }
+    },
+    "보류표본_후보고정뒤기록": {
+      "pass": true,
+      "detail": {
+        "freeze_raw_line": 40,
+        "heldout_raw_lines": [
+          41,
+          42,
+          43,
+          44
+        ],
+        "scope": "제목·첫 문장 표집 노출 및 과거 노출 가능성은 별개"
+      }
+    },
+    "선택문항_최초기록": {
+      "pass": true,
+      "detail": {
+        "total": 44,
+        "initial_number_matches": 41,
+        "initial_deferred": 3,
+        "scope": "저장소 답 필드 대조. 독립 정답률·모든 선지 전수 판정 아님."
+      }
+    },
+    "사후선택표_별도보존": {
+      "pass": true,
+      "detail": {
+        "recovered": 2,
+        "remaining_semantic_hold": "PA04-49",
+        "initial_records_rewritten": false
+      }
+    },
+    "문서_로컬링크": {
+      "pass": true,
+      "detail": {
+        "count": 130,
+        "broken": []
+      }
+    },
+    "신규폴더_JSON형식": {
+      "pass": true,
+      "detail": []
+    },
+    "시제품_검산결과": {
+      "pass": true,
+      "detail": "수치와 명시 모형의 관계만 검사. 실제 정책 효과·독자 이해·평가원 동등 품질 검증 아님."
+    }
+  },
+  "errors": [],
+  "raw_records_at_validation": 58,
+  "not_validated": [
+    "학생 이해·독해 난도",
+    "평가원 동등 품질",
+    "전 표본 공식 PDF 문장별 대조",
+    "PA04-49 의미 판정",
+    "기존 자산의 전수 불변 해시 감사"
+  ]
+}

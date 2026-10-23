@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "ANJ": [
+      {
+        "line": 3749,
+        "record_id": "ANJ-independent_code-20260927-01",
+        "case": "ANJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:17:29.815849+00:00",
+        "payload": {
+          "passage_group": "G256",
+          "primary": [
+            {
+              "code": 46,
+              "reason": "법적 책임 명확화→결과 예측→활동 범위 확장 경로를 재진술"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "scope": "③",
+              "reason": "관료제의 자체 행정 필요와 자본가의 경제 필요를 구별"
+            },
+            {
+              "code": 56,
+              "reason": "경제 활동 확대를 법의 수단으로 설명"
+            }
+          ],
+          "surface": [
+            {
+              "code": 80,
+              "reason": "예측이라는 인식 행위가 있지만 정답은 그 제도적 효과 연결"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 44,
+              "refutation": "법이 경제활동을 촉진하는 수단이지만 자본가의 의도·목적만으로 결과 경로를 대체하지 못함.46와 중첩은 인정"
+            },
+            {
+              "code": 45,
+              "refutation": "입출력 대응보다 법적 안정이 활동을 촉진하는 이유가 제시됨; 함수 표상 필수 아님"
+            },
+            {
+              "code": 19,
+              "refutation": "기존 결함의 특정 보충 여부를 확인하지 않아도④ 경로를 직접 읽을 수 있음"
+            }
+          ],
+          "counterfactual_probe": "①의 유연성을 엄격한 선례 구속이 제공하는 예측가능성으로 바꾸면 본문에 부합. 불문법이라는 소재에 흔한 유연성 속성을 붙이는 상식 보완을 경계.",
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "ANK": [
+      {
+        "line": 3750,
+        "record_id": "ANK-independent_code-20260927-01",
+        "case": "ANK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:17:30.096349+00:00",
+        "payload": {
+          "passage_group": "G256",
+          "primary": [
+            {
+              "code": 42,
+              "reason": "법의 독자적 논리 체계에서 외부 종교·윤리 요구를 분리하는 경계를 보존하는 작업 대표"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "근대법에 속하는 특징과 속하지 않는 특징 대조"
+            },
+            {
+              "code": 5,
+              "reason": "윤리 요구에서 점차 벗어나는 변화의 방향"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "윤리 규범 소재지만 당위 추론이 아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 13,
+              "refutation": "독자적 법 논리와 모든 윤리 내용의 일치가 절대 불가능하다는 배타 명제를 세우면 과도. 외부 요구에 대한 추론 의존을 벗어났다는 문맥만 적용"
+            },
+            {
+              "code": 23,
+              "refutation": "영국도 예측가능성을 가진다는 공통점은① 수용에 유효하지만 정답②의 결정 연산은 분리 방향"
+            },
+            {
+              "code": 16,
+              "refutation": "근대법의 특징 묶음 확인으로 기술 가능하나 개념의 완전한 정의를 분석하는 단계는 없음"
+            }
+          ],
+          "counterfactual_probe": "②를 종교·윤리 요구에서 독립한 추론 체계로 고치면 적절.①은 영국과 공유되더라도 근대법 특징이라는 지위가 소멸하지 않음.",
+          "boundary_status": "42/17 분리 경계와 특징 귀속의 국소 중첩,42 유일주 미확정",
+          "confidence": 0.89,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "ANM": [
+      {
+        "line": 3765,
+        "record_id": "ANM-independent_code-20260927-01",
+        "case": "ANM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:23:23.767081+00:00",
+        "payload": {
+          "passage_group": "G257",
+          "primary": [
+            {
+              "code": 10,
+              "reason": "직접 공시를 읽고 의존했다는 이력 입증을 필수 요건으로 추가한⑤ 배제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 46,
+              "reason": "공시→주가→투자결정→손실의 간접 경로"
+            },
+            {
+              "code": 60,
+              "reason": "경제 이론을 손실 추정의 합리적 근거로 사용하는 판결 논증"
+            },
+            {
+              "code": 2,
+              "reason": "추정 근거와 직접 증명 요구의 강도 구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 93,
+              "reason": "정보 전달 소재이지만 직접 읽음의 필수성을 묻는 것이 핵심"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 20,
+              "refutation": "직접 의존 증거 외 추정 경로가 있지만 동등한 충분 증명 둘을 본문이 나열한 것은 아님"
+            },
+            {
+              "code": 19,
+              "refutation": "경제학이 입증 어려움을 해결하는 전체 구조에 유효하나⑤는 추가 증명 요건을 요구하는지 판별해야 함"
+            },
+            {
+              "code": 43,
+              "refutation": "손실의 순수 효과를 계산하기 위한 변인 통제 실험을 문항에서 실시하지 않음"
+            }
+          ],
+          "counterfactual_probe": "⑤의 입증되어야 한다를 직접 입증하지 않아도 주가 매개를 통해 추정할 수 있다로 바꾸면 판결 논리와 부합.",
+          "boundary_status": "10 요건 추가 오류,46 경로,60 추정 근거의 층위 분리",
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

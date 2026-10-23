@@ -1,0 +1,91 @@
+{
+  "completed_first_pass_groups": 495,
+  "pending_groups": [],
+  "held_groups": [
+    {
+      "unique_group": "U0024",
+      "exam_family": "KICE",
+      "operational_groups": [
+        "G024"
+      ],
+      "analysis_ids": [
+        "PREP:DR",
+        "PREP:DS",
+        "PREP:DT",
+        "PREP:DU",
+        "독립풀이_03:A",
+        "code_reviews_02.jsonl:18"
+      ],
+      "stored_passage_ids": [
+        "KICE-2024-수능-Q04-07-S122~125"
+      ],
+      "unique_questions": [
+        "U0024-Q01",
+        "U0024-Q02",
+        "U0024-Q03",
+        "U0024-Q04"
+      ],
+      "completed_question_count": 2,
+      "status": "기존 보류 승계",
+      "source_paths": [
+        "data/kice_questions.jsonl",
+        "data/기본기_연구/prepared_backlog/blind_sources/DR.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/DS.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/DT.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/DU.json",
+        "data/기본기_연구/독립풀이_03/packets/A.md"
+      ],
+      "extraction_status": "기존 보류 승계"
+    },
+    {
+      "unique_group": "U0331",
+      "exam_family": "LEET",
+      "operational_groups": [
+        "G370"
+      ],
+      "analysis_ids": [
+        "PREP:BAP",
+        "PREP:BAQ",
+        "PREP:BAR",
+        "PREP:BAS"
+      ],
+      "stored_passage_ids": [
+        "LEET-2017-odd-Q07-10"
+      ],
+      "unique_questions": [
+        "U0331-Q01",
+        "U0331-Q02",
+        "U0331-Q03",
+        "U0331-Q04"
+      ],
+      "completed_question_count": 0,
+      "status": "기존 보류 승계",
+      "source_paths": [
+        "data/기본기_연구/prepared_backlog/blind_sources/BAP.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/BAQ.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/BAR.json",
+        "data/기본기_연구/prepared_backlog/blind_sources/BAS.json"
+      ],
+      "extraction_status": "기존 보류 승계"
+    }
+  ],
+  "extracted_scenes": 616,
+  "extracted_unique_questions": 590,
+  "by_exam": {
+    "KICE": {
+      "processed_groups": 182,
+      "scene_questions": 240,
+      "uses": 246
+    },
+    "LEET": {
+      "processed_groups": 201,
+      "scene_questions": 220,
+      "uses": 240
+    },
+    "MEET": {
+      "processed_groups": 112,
+      "scene_questions": 130,
+      "uses": 130
+    }
+  }
+}

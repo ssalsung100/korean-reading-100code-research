@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AQH": [
+      {
+        "line": 4093,
+        "record_id": "AQH-independent_code-20260927-01",
+        "case": "AQH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G282",
+          "primary": [
+            80
+          ],
+          "auxiliary": [
+            98
+          ],
+          "surface": [
+            78,
+            51
+          ],
+          "decisive_operation": "인식 주체 나가 책에서 확인한 대상은 그림의 출전이다. 이를 욕망의 근원 인식으로 교체한 것을 판별한다.",
+          "competing_codes": [
+            {
+              "code": 78,
+              "rebuttal": "돈에 대한 욕망과 행동 동기는 다른 선지의 내용이지만 정답은 나가 무엇을 발견했는지에 관한 인식 내용 오류다."
+            },
+            {
+              "code": 51,
+              "rebuttal": "뿌리는 근원을 뜻하지만 실제 원인을 인과적으로 설명하거나 비교하는 과업이 아니다."
+            },
+            {
+              "code": 100,
+              "rebuttal": "뿌리의 비유를 풀어도 발견 대상 교체 오류가 남으므로 비유 해독만으로 충분하지 않다."
+            }
+          ],
+          "boundary_note": "80은 주체-인식내용 귀속, 98은 그림의 출전/욕망의 근원의 수식 관계를 붙잡는 보조 표현이며 동일 오류를 중복 계수하지 않는다.",
+          "confidence": 0.89,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AQI": [
+      {
+        "line": 4094,
+        "record_id": "AQI-independent_code-20260927-01",
+        "case": "AQI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G282",
+          "primary": [
+            10
+          ],
+          "auxiliary": [
+            36
+          ],
+          "surface": [
+            3,
+            83
+          ],
+          "decisive_operation": "긍정적 의미를 갖는 그림이면 정면 저항이 있어야 한다는 필수성의 추가를 판별한다. 사랑의 그림 등 비저항적 긍정 가능성이 이 독점을 막는다.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rebuttal": "비로소에 시간 함의가 있으나 문제는 사건 시간 순서보다 긍정성의 성립 요건을 배타적으로 제한한 점이다."
+            },
+            {
+              "code": 2,
+              "rebuttal": "가능/필연 강도 설명도 가능하지만 무엇이 필수인지 특정된 조건 구조여서 10이 더 직접적이다."
+            },
+            {
+              "code": 12,
+              "rebuttal": "P→R로 같은 명제를 적을 수 있다. 방향 적용과 결과에 필수 요건을 덧붙이는 검토의 강조 차이이며 전역 분리 근거가 아니다."
+            },
+            {
+              "code": 83,
+              "rebuttal": "가치가 판단 내용이지만 사실에서 당위를 도출하는 오류는 아니다."
+            }
+          ],
+          "boundary_note": "사랑의 그림의 긍정성은 평가어로 명시되지 않아 반례의 해석적 강도는 조건 부당 강화 판단보다 낮다. 36의 보조 확신도는 0.78로 제한한다.",
+          "confidence": 0.9,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AQJ": [
+      {
+        "line": 4095,
+        "record_id": "AQJ-independent_code-20260927-01",
+        "case": "AQJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G282",
+          "primary": [
+            78
+          ],
+          "auxiliary": [
+            100
+          ],
+          "surface": [
+            44,
+            83
+          ],
+          "decisive_operation": "감금과 죽음의 위험을 감수한 거부·창작의 능동적 의미를 복원하여 소극적 도피라는 동기 귀속을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 100,
+              "rebuttal": "피·비상의 상징은 해석 근거이므로 보조다. 이미 기꺼이 감금과 동족 살해 거부라는 행동만으로 도피에 지나지 않는다는 한정을 반박할 수 있다."
+            },
+            {
+              "code": 44,
+              "rebuttal": "권력의 수단으로서 예술은 ④의 내용이며 정답 ⑤는 그가 행한 창작의 의미·태도 귀속을 묻는다."
+            },
+            {
+              "code": 83,
+              "rebuttal": "숭고함이라는 가치 함의가 있으나 가치 판단 일반으로는 능동적 저항/수동적 도피의 오류를 특정하지 못한다."
+            }
+          ],
+          "boundary_note": "상징 해석과 행위 의미 복원이 겹친다. 주/보조는 최소 반박 근거를 기준으로 한 국소 우선순위다.",
+          "confidence": 0.88,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AQK": [
+      {
+        "line": 4107,
+        "record_id": "AQK-independent_code-20260927-01",
+        "case": "AQK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G283",
+          "primary": [
+            78
+          ],
+          "auxiliary": [
+            3
+          ],
+          "surface": [
+            93
+          ],
+          "decisive_operation": "지시받아 이번 역할을 준비했다는 행동의 계기에서 평소 기자직 동경이라는 지속적 동기를 부당하게 추론했는지 확인한다.",
+          "competing_codes": [
+            {
+              "code": 80,
+              "rebuttal": "동경은 정신적 태도지만 지식·믿음의 내용보다 행동 이유에 무근거 동기를 부가한 점이 직접적이다. 정신 태도의 넓은 분류에서는 중첩 가능하다."
+            },
+            {
+              "code": 3,
+              "rebuttal": "평소/오늘의 시간 차이는 보조다. 단순히 시점만 바꾸어도 기자직 동경이라는 내용 근거 부재가 남는다."
+            },
+            {
+              "code": 93,
+              "rebuttal": "언론과 보도는 소재이며 전달자-수신자 경로를 복원해야 정답이 갈리는 문항은 아니다."
+            }
+          ],
+          "boundary_note": "명시 동기가 없다고 반대 동기가 확정되는 것은 아니다. ④는 동경하지 않았다는 반대 사실이 아니라 추론 근거 부재로 배제한다.",
+          "confidence": 0.9,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "AQI_기존한계": "독립판정은 사랑의 그림의 긍정성이 명시 평가어는 아니라서 보조 반례 확신을0.78로제한했다.이번도⑤의비로소라는필수성근거부족을우선하고비저항적긍정반례는해석적보조로남긴다.현행유보승계.",
+  "범위": "꿈/현실/책속이야기와치료극의역할/환자본인의경험을구별.문학의정신적비상이나역할대사를실제물리·법적사실로새확정하지않음."
+}

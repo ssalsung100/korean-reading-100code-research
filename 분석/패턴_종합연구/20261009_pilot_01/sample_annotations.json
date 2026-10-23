@@ -1,0 +1,105 @@
+{
+  "manifest_sha256": "569a08db645c9236d9ef4ce54b4a34b86c5aee1a5fc5d91f5894ddba4bfccac5",
+  "immutable_selection": true,
+  "sample_count_change": false,
+  "identity_corrections": [
+    {
+      "group": "G160",
+      "legacy_year": 2025,
+      "resolved_year": 2026,
+      "evidence": "data/기본기_연구/astra_handoff_queue.jsonl:2620-2622",
+      "note": "동일 사례를 유지하고 표시 연도만 후속 기록에 따라 해석. 원 sample_manifest·canonical·sealed 필드는 수정하지 않음"
+    }
+  ],
+  "alias_cluster_review": [
+    {
+      "groups": [
+        "G160",
+        "G162"
+      ],
+      "same_passage": false,
+      "evidence": "발견용 ZD와 좌표 충돌 별칭 ZJ의 본문 문자열 동일성만 기계 비교: false. ZJ 본문은 모델에 출력·분석하지 않음.",
+      "note": "표본 고정 당시의 alias_groups는 실제 중복 확정이 아니라 보수적인 분할 금지 집합이다. 이 집합 전체를 검증용에서 배제하여 혼입 방지."
+    }
+  ],
+  "validation_contamination": [
+    {
+      "group": "G095",
+      "case": "NM",
+      "question": "2017학년도 수능 18번",
+      "exposed": "기존 절차·연구03 요약표에 있던 legacy K의 정답⑤·주 코드 #2·간단 상태",
+      "source": "분석/기본기_연구/코드심층_03_독립풀이_증거와경쟁.md:37",
+      "scope": "검증 원문·전체 선지·상세 해설은 열람하지 않음. 검증용 내용 무노출이라고 주장할 수 없음.",
+      "action": "공통 표본 재추첨 없음. G095는 이 실행 주체의 독립 검증에 부적격 표시. 다음 검증에서 다른 미노출 독자/세션에 분리하고 요약 노출 이력도 제공."
+    }
+  ],
+  "runtime": {
+    "model": "GPT-6 기반 Codex (런타임 지시에서 확인)",
+    "exact_model_id": null,
+    "effort": null,
+    "usage": null,
+    "other_models_called": false
+  },
+  "discovery_topics": {
+    "G001": {
+      "topic": "입증 책임과 공해 소송",
+      "domain": "법",
+      "resolved_exam": "2014학년도 6월 A형"
+    },
+    "G002": {
+      "topic": "슈퍼문·이심률·조차",
+      "domain": "천문 과학",
+      "resolved_exam": "2015학년도 수능 B형"
+    },
+    "G004": {
+      "topic": "믿음의 정도와 조건화",
+      "domain": "인식론",
+      "resolved_exam": "2020학년도 수능"
+    },
+    "G010": {
+      "topic": "베카리아의 형벌론",
+      "domain": "법·사회사상",
+      "resolved_exam": "2022학년도 6월"
+    },
+    "G014": {
+      "topic": "차량 주변 영상의 왜곡 보정과 시점 변환",
+      "domain": "기술",
+      "resolved_exam": "2022학년도 수능"
+    },
+    "G039": {
+      "topic": "귀의 소리와 청력 측정",
+      "domain": "생리 과학·측정 기술",
+      "resolved_exam": "2010학년도 6월"
+    },
+    "G103": {
+      "topic": "아리스토텔레스 목적론에 대한 비판과 재평가",
+      "domain": "철학",
+      "resolved_exam": "2018학년도 수능"
+    },
+    "G160": {
+      "topic": "동형이의어의 의미 확정",
+      "domain": "독서론·언어",
+      "resolved_exam": "2026학년도 6월(기존 후속 정정 승계)"
+    },
+    "G222": {
+      "topic": "부랑인 정책의 법제·명분·운영",
+      "domain": "사회·법제사",
+      "resolved_exam": "2022학년도 LEET"
+    },
+    "G260": {
+      "topic": "프랑스 제3공화국의 대의제와 국가 확대",
+      "domain": "정치사",
+      "resolved_exam": "2011학년도 LEET"
+    },
+    "G284": {
+      "topic": "최승로의 광종 평가",
+      "domain": "역사 사료·통치 비판",
+      "resolved_exam": "2006학년도 MEET"
+    },
+    "G329": {
+      "topic": "서하진 「추일 서정」",
+      "domain": "문학·서사",
+      "resolved_exam": "2012학년도 MEET"
+    }
+  }
+}

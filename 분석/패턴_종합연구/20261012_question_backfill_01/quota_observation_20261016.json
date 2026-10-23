@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-10-15T19:39:02.495863+00:00",
+  "quota_status": "partial",
+  "primary_used_percent": null,
+  "primary_remaining_percent": null,
+  "weekly_used_percent": 76,
+  "weekly_remaining_percent": 24,
+  "source": "scripts/codex_quota",
+  "runtime_emergency_observed": false,
+  "interpretation": "primary 미확인. 주간 잔여24%. 신규 의미 단계 중단 조건 미관측."
+}

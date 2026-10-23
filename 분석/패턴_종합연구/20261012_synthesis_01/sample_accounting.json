@@ -1,0 +1,37 @@
+{
+  "scope": "기존 목적 표본만; 새 코퍼스 재분류 아님",
+  "by_original_split_and_exam": {
+    "discovery": {
+      "KICE": {
+        "passages": 8,
+        "questions": 27
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 6
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 6
+      }
+    },
+    "validation": {
+      "KICE": {
+        "passages": 4,
+        "questions": 15
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 3
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 3
+      }
+    }
+  },
+  "unique_passages": 18,
+  "unique_questions": 60,
+  "independent_analysis_runs_are_not_new_cases": true,
+  "corpus_prevalence": null
+}

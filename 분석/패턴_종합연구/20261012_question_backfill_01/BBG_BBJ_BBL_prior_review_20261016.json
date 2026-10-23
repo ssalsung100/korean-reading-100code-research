@@ -1,0 +1,165 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BBG": [
+      {
+        "line": 5375,
+        "record_id": "BBG-independent_code-20261001-01",
+        "case": "BBG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            69,
+            12,
+            44
+          ],
+          "surface": [
+            46,
+            91
+          ],
+          "decisive_operation": "서로다른현의외부음에대한선택적공명이라는실험요건을추출해선지실험에서충족되는지확인한다.",
+          "evidence": [
+            "공명실험에서영감→현같은기관찾기",
+            "크기다른코르티막대가특정단음에선택적반응"
+          ],
+          "competing_codes": [
+            {
+              "code": 69,
+              "rebuttal": "실험과기관의대응은실험요건을정하는보조이나정답선택은이미제시된실험들의구조가그요건을충족하는지검사한다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "진동이발생한다는일반인과만보면여러선지가맞아보인다.외부음과복수현의선택반응이라는구조가필요하다."
+            },
+            {
+              "code": 43,
+              "rebuttal": "변수통제설계의타당성을평가하기보다코르티막대에영감을준공명구조를찾는문항이다."
+            }
+          ],
+          "boundary_note": "물리적실험소재유사성과설명모형의관계대응을구분.⑤같은현진동실험도곧바로대응하지않음.",
+          "confidence": 0.95,
+          "passage_group": "G375",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true,
+          "official_diagram_verified": true
+        }
+      }
+    ],
+    "BBJ": [
+      {
+        "line": 5389,
+        "record_id": "BBJ-independent_code-20261002-01",
+        "case": "BBJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G376",
+          "primary": [
+            {
+              "code": 46,
+              "name": "인과관계",
+              "reason": "암흑 에너지→팽창 가속→냉각의 경로를 적용하여 ㄱ을 선택하고 밀도·물질량 증가의 잘못된 연결을 배제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 49,
+              "reason": "팽창과 냉각의 증감 방향 적용;46의 경로 서술과 국소 중첩"
+            },
+            {
+              "code": 84,
+              "reason": "ㄴ 공간 부피 확대와 질량/부피인 밀도의 방향 구별"
+            },
+            {
+              "code": 86,
+              "reason": "ㄷ 전체 질량과 밀도·공간 크기를 구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 87,
+              "reason": "가속적이라는 문구는 있으나 변화율 정량식·곡선 부재. 수학적 가속 확정 코드는 보류"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 85,
+              "reason": "합이 고정된 비중 경쟁을 푸는 문제가 아님. 70/20 퍼센트는 배경."
+            },
+            {
+              "code": 91,
+              "reason": "정성적 방향을 정확한 비례법칙으로 승격할 근거 없음."
+            },
+            {
+              "code": 43,
+              "reason": "변수 통제 실험이나 동일 조건 비교 설계가 주어지지 않음."
+            }
+          ],
+          "boundary_note": "방향만으로 읽으면49, 매개 경로 복원이 필요하면46. 이 사례는 두 행동이 겹쳐 유일 주 코드의 강한 배타성은 주장하지 않는다. ㄱ 가속적 감소의 엄밀성은 미해결로 유지.",
+          "confidence": 0.8,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BBL": [
+      {
+        "line": 5401,
+        "record_id": "BBL-independent_code-20261002-01",
+        "case": "BBL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G377",
+          "primary": [
+            {
+              "code": 75,
+              "reason": "글쓴이와 탈산업사회론자의 주장 귀속을 분리하고 글쓴이④를 확인"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 15,
+              "reason": "지식의 공통성은 시대 구별 기준이 될 수 없으며 정보 기술 혁명과 구별;①③⑤ 배제"
+            },
+            {
+              "code": 46,
+              "reason": "④ 세계 체제 내 위치→국가별 직업/고용 구조라는 설명 연결"
+            }
+          ],
+          "surface": [
+            {
+              "code": 5,
+              "reason": "경제 구조 변화 소재이지만 변화 유무 자체가 정답 쟁점 아님"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 74,
+              "reason": "견해 귀속의 동일 연구군으로 중첩 가능하나, 새 관측의 대체 가설 판별 행동은 없음. 번호상 억지 구별 아님."
+            },
+            {
+              "code": 63,
+              "reason": "새 증거로 주장을 강화하는 BBM과 달리 여기서는 이미 서술된 견해 확인."
+            },
+            {
+              "code": 4,
+              "reason": "모든 사회 동일 경로 가정이 배경이지만④의 재진술과 주체 귀속을 양화만으로 설명하지 못함."
+            }
+          ],
+          "boundary_note": "정답④ 직접 재진술 경로에는46이 전면화되고 오답 귀속 경로에는75가 전면화.75를 유일 정답 연산으로 고정하지 않는다.",
+          "confidence": 0.89,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.BBJ기존가속감소의엄밀성유보승계.",
+  "반모형": "이번충분성점검용가상함수a(t)=exp(t),T(t)=exp(-t):a쌍미분양수,T일미분음수,T쌍미분양수.팽창이빨라져도온도감소속도크기는줄수있다.본문의실제우주식이라는주장아님.방향정보만으로곡률·변화율전이가보장되지않음을보이는수학반모형."
+}

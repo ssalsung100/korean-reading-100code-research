@@ -1,0 +1,22 @@
+{
+  "status": "최종 저장·연결·범위 검사 통과",
+  "completed_first_pass_groups": 495,
+  "eligible_questions": 1667,
+  "scene_questions": 590,
+  "scenes": 616,
+  "unextracted_questions": 1077,
+  "multiple_scene_questions": 25,
+  "held_groups": 2,
+  "held_questions": 8,
+  "depth_followup_questions": 32,
+  "depth_overlap_extracted": 21,
+  "depth_overlap_unextracted": 11,
+  "judge_candidates": 95,
+  "pending_raw": 0,
+  "old489scenes_bytes_preserved": true,
+  "old400groups_not_reprocessed": true,
+  "old_candidate_definitions_bytes_preserved": true,
+  "sdss_meaning_supplements_checked": true,
+  "semantic_validity_globally_completed": false,
+  "validation_scope": "ID·집계·범위·추가 근거raw·이전 저장바이트·후보 정의 보존. 원문 의미의 전수 재검증 및 난도 검증 아님."
+}

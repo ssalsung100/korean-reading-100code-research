@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BDI": [
+      {
+        "line": 5629,
+        "record_id": "BDI-independent_code-20261002-01",
+        "case": "BDI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:00:16.628709+09:00",
+        "payload": {
+          "passage_group": "G393",
+          "primary_codes": [
+            44
+          ],
+          "auxiliary_codes": [
+            2,
+            4,
+            5
+          ],
+          "surface_codes": [
+            74
+          ],
+          "decisive_operation": "사실/의견 구분이 참된 객관성을 보장하는 목적에서는 한계가 있지만 객관적으로 보이게 하는 수단으로 계속 활용되는 역할을 구별한다.",
+          "competitor_refutations": [
+            {
+              "code": 2,
+              "reason": "객관성 보장 가능성과 가치 전면 상실의 강도 차이는 중요하지만 서로 다른 목적에의 사용을44가 더 직접적으로 복원한다."
+            },
+            {
+              "code": 4,
+              "reason": "모든 취재 기준 가치가 사라졌다는 과잉 범위가 문제. 다만 단순 일부/전체 대상수보다 기준의 기능 범위를 넓힌 판단이다."
+            },
+            {
+              "code": 74,
+              "reason": "무지·전통·전략의 대안 설명은3문단 구조와④판단에 적용.정답①은 기준의 지속 기능에서 반증된다."
+            }
+          ],
+          "boundary_note": "주44는 남아 있는 수단 기능을 가리킨다. 전략적 효용이 윤리적/인식론적 가치와 항상 같다는 일반화는 금지.",
+          "confidence": 0.88,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDK": [
+      {
+        "line": 5631,
+        "record_id": "BDK-independent_code-20261002-01",
+        "case": "BDK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:00:16.629944+09:00",
+        "payload": {
+          "passage_group": "G393",
+          "primary_codes": [
+            37
+          ],
+          "auxiliary_codes": [
+            10,
+            17,
+            18
+          ],
+          "surface_codes": [
+            93
+          ],
+          "decisive_operation": "일관성 위반의 요건인 동일 사안·평가 주체·상반된 판단을 대조하여 서로 다른 후보의 의혹 발언만으로는 요건이 충족되지 않음을 확인한다.",
+          "competitor_refutations": [
+            {
+              "code": 18,
+              "reason": "모순·상반됨이 있어야 한다는 내용이 핵심이나ⓑ는 언론 자신의 같은 명제를 긍정/부정한 사례가 아님.18은 검사할 요건이지 실제 성립한 관계가 아니다."
+            },
+            {
+              "code": 17,
+              "reason": "후보들의 발언과 언론의 평가를 구분하는 귀속 판독이 필요하다.37의 사례요건 적용에 내장된 역할 구별이다."
+            },
+            {
+              "code": 93,
+              "reason": "발신자·메시지 확인은 보조 구조이나 의사소통의 성공 여부가 아니라 보도 오류 유형의 요건 일치가 정답 기준이다."
+            }
+          ],
+          "boundary_note": "두 진술의 주체나 대상이 다르면 언뜻 상반돼도 일관성 위반으로 확정할 수 없다.⑤는 기사의 근거 제시 범위와 현실 검증 가능성을 분리.",
+          "confidence": 0.88,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDL": [
+      {
+        "line": 5642,
+        "record_id": "BDL-independent_code-20261002-01",
+        "case": "BDL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:03:36.505862+09:00",
+        "payload": {
+          "passage_group": "G394",
+          "primary_codes": [
+            45
+          ],
+          "auxiliary_codes": [
+            17,
+            46,
+            10
+          ],
+          "surface_codes": [
+            49
+          ],
+          "decisive_operation": "아로마타제의 입력은 남성 호르몬,산출은 여성 호르몬임을 고정해 효소가 입력물질 합성에 필요하다는②를 반증한다.",
+          "competitor_refutations": [
+            {
+              "code": 17,
+              "reason": "합성 장소와 전환 물질의 역할을 구별하는 귀속 판독으로45와 공유.정답 입력/산출 뒤바꿈을45가 구체적으로 표시."
+            },
+            {
+              "code": 10,
+              "reason": "필요하다는 결론은 강하지만 단지 필요성 증거 없음보다 실제 반대 방향 전환이라는 양성 근거가 결정적이다."
+            },
+            {
+              "code": 46,
+              "reason": "생식샘 조절 인과가 배경이나 효소의 입력/산출을 확인하면②를 직접 배제할 수 있다.③은간접조절 경로에46필요."
+            }
+          ],
+          "boundary_note": "효소 작용의 필요성 일반론이 아니라 어떤 산출에 필요한가를 보존한다.",
+          "confidence": 0.92,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.BDI기준보장/지속활용과BDK기사내무근거/원리적검증불가능의기존한계승계.생리학서술은본문내부의경로독해."
+}

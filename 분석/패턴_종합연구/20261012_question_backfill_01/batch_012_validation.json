@@ -1,0 +1,9 @@
+{
+  "reviewed_questions": 480,
+  "scenes": 757,
+  "mechanical_errors": [],
+  "protected_input_changes": [],
+  "protection_checked": false,
+  "interpretation": "현행 amendment 적용 문항·장면에서 각 증거가 지정한 파일의 구간·해시·선지수·ID를 검사. 의미 타당성은 별도 직접 표본 감사.",
+  "pass_mechanical": true
+}

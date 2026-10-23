@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ASP": [
+      {
+        "line": 4368,
+        "record_id": "ASP-independent_code-20260927-01",
+        "case": "ASP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G302",
+          "primary": [
+            23
+          ],
+          "auxiliary": [
+            75,
+            79
+          ],
+          "surface": [
+            5
+          ],
+          "decisive_operation": "상대별로 규범의 수용을 확인하여 공유하는 비공격·비명예추구만 추출한다.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "rebuttal": "주체별 규범 귀속은 필수이지만 최종은 그 공통부분 추출로23과 중첩된다."
+            },
+            {
+              "code": 79,
+              "rebuttal": "당위가 내용이나 모든 당위를 둘이 공유하는 것은 아니다."
+            },
+            {
+              "code": 5,
+              "rebuttal": "덕의 지속/상황 변화는 입장의 차이를 설명하며 공통점의 직접 대표는 아니다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASR": [
+      {
+        "line": 4370,
+        "record_id": "ASR-independent_code-20260927-01",
+        "case": "ASR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G302",
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            78,
+            79
+          ],
+          "surface": [
+            80
+          ],
+          "decisive_operation": "나의 인물 평가를 직무에 대한 지식 부족이 아닌 역할 수행의 회피로 고정해 가까운 묘사를 선택한다.",
+          "competing_codes": [
+            {
+              "code": 78,
+              "rebuttal": "행동·태도 설명은 내용상 핵심이며75의 평가 주체 귀속과 중첩된다."
+            },
+            {
+              "code": 80,
+              "rebuttal": "알고 있는지와 행동하는지는 다르다.③은 지식 부재라는 잘못된 이유를 붙인다."
+            },
+            {
+              "code": 79,
+              "rebuttal": "마땅한 직무가 평가 기준이나 정답은 그 규범에 비추어 양성이 실제 어떤 태도인지 묘사한다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASS": [
+      {
+        "line": 4381,
+        "record_id": "ASS-independent_code-20260927-01",
+        "case": "ASS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G303",
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            14,
+            12
+          ],
+          "surface": [
+            79
+          ],
+          "decisive_operation": "온건 결정론의 원인·비강제 선택·자유의 양립을 보존하여 일부 행동에 책임을 물을 수 있다는 입장과 연결한다.",
+          "competing_codes": [
+            {
+              "code": 14,
+              "rebuttal": "원인과 자유의 양립은 내용 핵심이며75의 견해 귀속과 중첩된다."
+            },
+            {
+              "code": 13,
+              "rebuttal": "원인이 있다고 모두 강제는 아니라는 말은 원인과 강제가 배타라는 뜻이 아니다."
+            },
+            {
+              "code": 79,
+              "rebuttal": "책임 가능성이 내용이지만 특정 행동의 당위·금지 판단을 직접 적용하지 않는다."
+            }
+          ],
+          "boundary_note": "자유의지와 책임의 쌍조건 전체를 새로 도출하지 않는다.",
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "ASP는양쪽의실제수용근거를확인. ASS는본문이설정한입장관계를복원하며자유의지/책임의새로운필요충분정의나외부형이상학적해결을확정하지않음."
+}

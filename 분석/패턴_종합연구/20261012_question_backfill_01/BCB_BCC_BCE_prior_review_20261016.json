@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BCB": [
+      {
+        "line": 5469,
+        "record_id": "BCB-independent_code-20261002-01",
+        "case": "BCB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G382",
+          "primary": [
+            {
+              "code": 97,
+              "reason": "㉠이 직전 팔자 발언을 무책임한 말로 나무라는 의도를 복원"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 96,
+              "reason": "일상어/속담의 뜻을 상황에 맞게 풀어 질책의 내용 대응"
+            },
+            {
+              "code": 93,
+              "reason": "윤서기-처녀 간 발화 맥락과 응답 관계 보존"
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "선지들이 속담 형식이지만 비유 이미지 자체의 공통점 분석이 주가 아님"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 63,
+              "reason": "발언을 나무라지만 주장 근거의 지지 강도를 평가하는 논증 과제 아님."
+            },
+            {
+              "code": 1,
+              "reason": "말이 많다는②⑤의 발화량은 원문 질책 대상 아님."
+            },
+            {
+              "code": 12,
+              "reason": "③ 호혜 조건은 후보 속담의 내용이며 원발화에 없는 조건을 추가하므로 배제."
+            }
+          ],
+          "boundary_note": "97은 맥락상 발화 기능,96은 일상어 의미 풀이의 넓은 범주.국소 상하위 중첩으로 보며 번호별 본질 경계 강제 안 함.",
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BCC": [
+      {
+        "line": 5470,
+        "record_id": "BCC-independent_code-20261002-01",
+        "case": "BCC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G382",
+          "primary": [
+            {
+              "code": 80,
+              "reason": "인물의 꿈/공포 내용과 독자의 그 진술에 대한 신뢰 판단 층위를 분리"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "누가 무엇을 꿈꾸고 인식하는지 및 엄니의 지시 범위를 보존"
+            },
+            {
+              "code": 78,
+              "reason": "꿈·손가락 공포가 인물 행동/동기를 드러내는 맥락"
+            }
+          ],
+          "surface": [
+            {
+              "code": 63,
+              "reason": "③ 비판적 거리라는 표현은 있으나 실제 주장 평가 행위가 텍스트에 성립하는지 별도 확인 필요"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 81,
+              "reason": "꿈이 현실에서 일어났는가라는 존재 판단과 꿈을 꾸었다는 말이 믿을 만한가는 다름.후자가 정답 오류."
+            },
+            {
+              "code": 18,
+              "reason": "비현실적 꿈이 등장한다고 서술 내부 명제 모순이나 거짓말이 입증되는 것은 아님."
+            },
+            {
+              "code": 100,
+              "reason": "상징/과장된 이미지가 있지만③은 이미지 함축보다 인물-독자 신뢰 관계를 무근거 생성."
+            }
+          ],
+          "boundary_note": "80의 인식 층위를 꿈의 내용/꿈을 꿨다는 진술/독자의 신뢰로 나누어야 함.② 엄니 호칭 및⑤ 죄의식 해석 강도는 유보.",
+          "confidence": 0.88,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BCE": [
+      {
+        "line": 5482,
+        "record_id": "BCE-independent_code-20261002-01",
+        "case": "BCE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G383",
+          "primary": [
+            {
+              "code": 15,
+              "reason": "통신 주파수 대역의 선택 근거를 물 형성물질 관련 대역에서생명체 주성분 원소로 바꾼③ 배제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "특정 H/OH 물 관련 대역과 주성분 원소의 범주 구별"
+            },
+            {
+              "code": 60,
+              "reason": "SETI 후보선정 계획을 뒷받침하는 가정과 관측 기준 연결"
+            },
+            {
+              "code": 2,
+              "reason": "④ 가능성과 단조적 사후확률 확정을 구분"
+            }
+          ],
+          "surface": [
+            {
+              "code": 93,
+              "reason": "통신 자체가 소재이나 발신자/수신자 교환이③ 핵심 아님"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 58,
+              "reason": "복수 주장의 공통전제를 추출하는 과제 아님."
+            },
+            {
+              "code": 98,
+              "reason": "자신의 주성분 원소라는 수식 관계가 있으나 원문에 없는 선택 기준 추가가 먼저.국소 중첩 가능성만 유지."
+            },
+            {
+              "code": 49,
+              "reason": "④의 세기-가능성 관계는 타당선지 강도 유보이며③의 주 결정 연산은 아님."
+            }
+          ],
+          "boundary_note": "④는 조건부 탐사 가정으로 읽었으며 신호 강도 증가→인공 발신 사후확률 증가라는 일반 법칙은 독립 증명되지 않음.",
+          "confidence": 0.87,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체원문·5선지·기존풀이·독립판정직접확인.BCC②엄니호칭과⑤죄의식의해석강도,BCE④신호강도/사후확률단조성의기존유보승계.본문의질병인식과옛탐사계획을현행의학·천문사실로확정하지않음."
+}

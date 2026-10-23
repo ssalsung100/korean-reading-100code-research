@@ -1,0 +1,198 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BIW": [
+      {
+        "line": 6286,
+        "record_id": "BIW-independent_code-20261003-01",
+        "case": "BIW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:06:49.269867+00:00",
+        "payload": {
+          "passage_group": "G442",
+          "sdss_seen": false,
+          "general_task": "신호경로의병적변화와조절방향추론",
+          "decisive_relation": "Wnt불활성이원인인경우그작용을회복하는방향은β카테닌증가",
+          "primary": {
+            "code": 49,
+            "scope": "②",
+            "reason": "Wnt작용과β카테닌농도·뼈형성의방향을연결한다."
+          },
+          "auxiliary": [
+            {
+              "code": 59,
+              "scope": "②",
+              "reason": "본문의문제원인을완화하는대책방향을추론."
+            },
+            {
+              "code": 46,
+              "scope": "③④⑤",
+              "reason": "APC복합체·인산화·분해의경로위치를보존."
+            },
+            {
+              "code": 50,
+              "scope": "④⑤",
+              "reason": "복합체결함이나인산화불가가분해경로를막는다."
+            },
+            {
+              "code": 52,
+              "scope": "⑤",
+              "reason": "β카테닌감소경로의억제는농도상승및복제유지쪽이다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 54,
+              "reason": "실제약물의모든효능을충분보장하는일반명제가아니라본문기전상방향이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 19,
+              "verdict": "②보조가능",
+              "refutation": "부족한신호의보완이라는표상은가능하지만정확한정답은어느단백질농도가어느방향으로변하는지로판정한다."
+            },
+            {
+              "code": 20,
+              "verdict": "주기각",
+              "refutation": "여러치료수단을대체가능성으로비교하는문항은아니다."
+            },
+            {
+              "code": 43,
+              "verdict": "주기각",
+              "refutation": "실험변수통제설계를평가하는것이아니라주어진경로에서개입방향을추론한다."
+            }
+          ],
+          "counterfactual": "APC결함을고치는수리작용이따로주어졌다면④농도회복가능성을검토할수있지만Wnt추가에는그런기능이명시되지않았다.정상물질이라는말로복구효과를추가하지않는다.",
+          "unresolved": "정상범위회복과과도한활성의위험은다르며②를현실투약의무제한활성권고로확장하지않는다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BIX": [
+      {
+        "line": 6297,
+        "record_id": "BIX-independent_code-20261003-01",
+        "case": "BIX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:11:46.521429+00:00",
+        "payload": {
+          "passage_group": "G443",
+          "sdss_seen": false,
+          "general_task": "차별금지정당성과보호정도의명시관계확인",
+          "decisive_relation": "인권취지부합없음→정당성없음의대우를적용",
+          "primary": {
+            "code": 10,
+            "scope": "①",
+            "reason": "인권보호취지부합은정당한차별금지법규의필요조건이다."
+          },
+          "auxiliary": [
+            {
+              "code": 12,
+              "scope": "①",
+              "reason": "¬인권부합→¬정당의대우 정당→인권부합으로같은관계를표현."
+            },
+            {
+              "code": 1,
+              "scope": "⑤",
+              "reason": "보호정도의약함과보호의부재를구분."
+            },
+            {
+              "code": 39,
+              "scope": "②④",
+              "reason": "장애속성·차별사유에따른보호효과차이를보존."
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "정당성이라는규범주제가있지만원문밖규범평가보다주어진필요조건과정도관계를읽는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 11,
+              "verdict": "기각",
+              "refutation": "인권보호취지를갖추면모든법규가정당하다는역방향근거는없다."
+            },
+            {
+              "code": 2,
+              "verdict": "보조",
+              "refutation": "정당성보장강도는관여하지만정답직접근거는조건의필요관계."
+            },
+            {
+              "code": 54,
+              "verdict": "기각",
+              "refutation": "인권취지나정책목적하나가정당성을충분히결정한다고하지않는다."
+            }
+          ],
+          "counterfactual": "①를인권취지를지니면정당하다고뒤집으면다른제약조건이남아본문만으로성립하지않는다.필요조건의방향이핵심이다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BIZ": [
+      {
+        "line": 6299,
+        "record_id": "BIZ-independent_code-20261003-01",
+        "case": "BIZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:13:01.120340+00:00",
+        "payload": {
+          "passage_group": "G443",
+          "sdss_seen": false,
+          "general_task": "지정된규범입장을세연령차등사례에적용",
+          "decisive_relation": "연령차별금지를정당하지않다고보는㉠에맞춰사례의차별금지위반여부를판정",
+          "primary": {
+            "code": 75,
+            "scope": "ㄱㄴㄷ",
+            "reason": "본문의조건부입법가능성설명과별도의㉠반대견해를구분해지정견해만적용한다."
+          },
+          "auxiliary": [
+            {
+              "code": 37,
+              "reason": "세사례가모두연령기준고용차등이라는적용범주에속함을확인."
+            },
+            {
+              "code": 79,
+              "reason": "차등금지의정당성부정이라는규범관계를사례에적용."
+            },
+            {
+              "code": 64,
+              "reason": "필자전체설명이나현실법이아닌㉠의주장범위로한정."
+            }
+          ],
+          "surface": [
+            {
+              "code": 86,
+              "reason": "연령숫자가등장하지만연령차이의계산이나집단수량비교를하지않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 12,
+              "verdict": "보조",
+              "refutation": "연령차등이면㉠은금지정당성을인정하지않는다는조건으로형식화할수있으나먼저어느입장인지귀속해야한다."
+            },
+            {
+              "code": 63,
+              "verdict": "주기각",
+              "refutation": "㉠주장이옳은지비판하거나증거로강화하는과제는아니다."
+            },
+            {
+              "code": 83,
+              "verdict": "배경",
+              "refutation": "노동능력변화라는사실에서규범결론을내리는㉠의논증이배경이지만그당위도출의타당성을심사하는발문은아니다."
+            }
+          ],
+          "counterfactual": "발문이본문전체취지에비추어라고바뀌면인권취지·정책목적·영업제한조건을함께검토해야한다.현재㉠을지정한발문이적용범위를좁힌다.",
+          "confidence": 0.97
+        }
+      }
+    ]
+  },
+  "보기": "G443_visual01.md의ㄱ특정연령우대·ㄴ계약정년45·ㄷ50초과직책배제 전체 확인."
+}

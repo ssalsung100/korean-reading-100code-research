@@ -1,0 +1,277 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BHP": [
+      {
+        "line": 6136,
+        "record_id": "BHP-independent_code-20261003-01",
+        "case": "BHP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T15:40:49.134564+00:00",
+        "payload": {
+          "passage_group": "G431",
+          "sdss_seen": false,
+          "general_task": "지정된 이론으로 기업 상태를 평가",
+          "decisive_relation": "부채의 비용과 편익이 가치에 주는 영향을 유지하고 투자 필요를 부채 우위로 바꾸지 않음",
+          "primary": {
+            "code": 88,
+            "scope": "③및②⑤",
+            "reason": "상충이론의 핵심은 감세 편익과 파산비용의 비교이며 양쪽이 기업가치에 영향을 준다."
+          },
+          "auxiliary": [
+            {
+              "code": 46,
+              "scope": "③",
+              "reason": "부채 사용→편익/비용→가치라는 영향 경로."
+            },
+            {
+              "code": 1,
+              "scope": "②",
+              "reason": "편익이 비용보다 작음과 편익 자체 부재·미미함은 다르다."
+            },
+            {
+              "code": 98,
+              "scope": "①⑤",
+              "reason": "상충이론의 예측을 조달순서이론의 예측과 바꾸지 않는다."
+            },
+            {
+              "code": 2,
+              "scope": "③④",
+              "reason": "영향 존재와 정확한 고수익·낮은 위험 보장을 구분한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 84,
+              "reason": "자기자본 대비 타인자본 비율이 높다는 조건을 읽지만 분수 계산 자체는 하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 74,
+              "verdict": "배경 보조",
+              "refutation": "다른 이론을 섞은 선지를 배제하는 데 유효하나 지정된 하나의 비용·편익 판단을 직접 적용하는 과제다."
+            },
+            {
+              "code": 54,
+              "verdict": "주 기각",
+              "refutation": "영향이 있다는 판단을 가치의 정확한 수준이 충분히 결정된다는 판단으로 강화할 수 없다."
+            },
+            {
+              "code": 59,
+              "verdict": "주 기각",
+              "refutation": "투자자금 필요라는 문제가 있어도 구체적 최선 조달안을 확정할 수익·비용 함수는 주어지지 않았다."
+            }
+          ],
+          "falsification_attempt": "편익3,비용5처럼 편익이 양수여도 비용이 클 수 있다는 구성 예는②의 편익 부재 해석을 반박한다.숫자는 논리 반례용이며 B기업의 실제 수치가 아니다.",
+          "unresolved": "현재 부채가 최적보다 얼마나 높은지와 가치변화 크기는 미확정.③의 영향 존재만 확정한다.",
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BHQ": [
+      {
+        "line": 6148,
+        "record_id": "BHQ-independent_code-20261003-01",
+        "case": "BHQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T15:48:47.910612+00:00",
+        "payload": {
+          "passage_group": "G432",
+          "sdss_seen": false,
+          "general_task": "필자가 인정한 기여와 한계의 범위 확인",
+          "decisive_relation": "엄밀성이 좋은 결과의 충분 보장인가에 대한 부정",
+          "primary": {
+            "code": 2,
+            "scope": "④",
+            "reason": "자유 확보에 기여한다는 평가와 결과 합당성의 필연 보장은 강도가 다르다."
+          },
+          "auxiliary": [
+            {
+              "code": 75,
+              "scope": "②⑤",
+              "reason": "개방성 옹호자의 주장을 필자에게 옮기지 않는다."
+            },
+            {
+              "code": 28,
+              "scope": "마지막문단",
+              "reason": "유연성 부족·부당한 법 옹호 가능성을 인정하면서 엄밀성 기여를 긍정한다."
+            },
+            {
+              "code": 54,
+              "scope": "④",
+              "reason": "엄밀성이라는 원인이 합당한 결과를 충분히 결정한다는 강한 연결을 부정한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "법의 규범 주제이나 이 문항의 직접 판단은 글쓴이 평가의 강도와 귀속이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 19,
+              "verdict": "국소 배경",
+              "refutation": "흠결 보완이 등장하지만④는 보완 수단을 찾는 것이 아니라 엄밀성의 한계를 판별한다."
+            },
+            {
+              "code": 63,
+              "verdict": "주 기각",
+              "refutation": "새 사례로 필자의 주장을 평가하지 않고 필자가 이미 인정한 한계를 확인한다."
+            },
+            {
+              "code": 44,
+              "verdict": "보조",
+              "refutation": "자유 확보 수단이라는 관계는 있으나 그 수단이 모든 합당 결과를 보장하는지의 강도 차이가 직접적이다."
+            }
+          ],
+          "counterfactual": "필자가 엄밀한 적용은 언제나 합당한 결과를 낳는다고 했다면④는 틀린다.원문은 부당한 법상태 옹호 가능성을 명시하여 그 전면 보장을 차단한다.",
+          "confidence": 0.97
+        }
+      }
+    ],
+    "BHS": [
+      {
+        "line": 6150,
+        "record_id": "BHS-independent_code-20261003-01",
+        "case": "BHS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T15:50:10.580730+00:00",
+        "payload": {
+          "passage_group": "G432",
+          "sdss_seen": false,
+          "general_task": "규범 명제의 함의·부정·양립 관계 대조",
+          "decisive_relation": "명령과 소극허용의 부정관계에서 비명령이면 소극허용이라는 귀결 확인",
+          "primary": {
+            "code": 18,
+            "scope": "④",
+            "reason": "명령과 소극허용은 동시에 참일 수도 동시에 거짓일 수도 없는 부정관계다.단순한 양립불가보다 강한 배중성을 보존해야 한다."
+          },
+          "auxiliary": [
+            {
+              "code": 12,
+              "reason": "명령→적극허용,금지→소극허용의 함의를 전파."
+            },
+            {
+              "code": 33,
+              "scope": "④",
+              "reason": "명령=비소극허용의 부정에서 이중부정을 제거해 소극허용을 도출."
+            },
+            {
+              "code": 14,
+              "scope": "③⑤",
+              "reason": "적극허용과 소극허용은 함께 참인 자유상태가 가능."
+            },
+            {
+              "code": 79,
+              "reason": "명령·금지·허용을 서로 다른 규범 양상으로 정확히 표상."
+            }
+          ],
+          "surface": [
+            {
+              "code": 2,
+              "reason": "할 수 있다는 표현이 현실 능력·개연성이 아니라 규범적 허용을 뜻함.일반 양상만으로 분석하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 13,
+              "verdict": "불충분한대체",
+              "refutation": "단순 양립불가만으로는 둘다거짓을 배제하지 못해¬명령→소극허용을 도출할 수 없다."
+            },
+            {
+              "code": 11,
+              "verdict": "국소동치표현",
+              "refutation": "명령↔¬소극허용이라는 동치로도 표현할 수 있다.18과 다른 필수행동으로 중복계수하지 않는다."
+            },
+            {
+              "code": 26,
+              "verdict": "넓은표상후보",
+              "refutation": "두 대립 항이 있다는 것만으로 정확한 배타성과 포괄성이 보장되지는 않는다.원문 부정관계가 핵심 근거다."
+            }
+          ],
+          "countermodel": "단순양립불가의 반모형 O=false,N=false는13과 양립하지만[A]의 O=¬N과 양립하지 않는다.이에 따라④후반 오류를 판별하는 데18의 포괄성이 필요하다.",
+          "source_restoration": {
+            "source": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2012/page_009.png",
+            "supplement": "data/기본기_연구/prepared_backlog/blind_sources/BHS_range_restoration.md",
+            "verified_by_primary_visual_read": true,
+            "timing": "전체blind와공식답대조후,SDSS공개전",
+            "finding": "[A]는19세기 분석법학의 연구성과 문단 시작부터 네 양상이 모든 경우를 포괄한다는 문장까지.최초 추정범위와 일치.",
+            "original_blind_preserved": true
+          },
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BHT": [
+      {
+        "line": 6161,
+        "record_id": "BHT-independent_code-20261003-01",
+        "case": "BHT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T15:55:36.188450+00:00",
+        "payload": {
+          "passage_group": "G433",
+          "sdss_seen": false,
+          "general_task": "사회적 대상과 개인 내면화의 위치·시점 구분",
+          "decisive_relation": "대상의 선재 위치를 사회에서 개인 내부로 옮긴 오류",
+          "primary": {
+            "code": 42,
+            "scope": "②",
+            "reason": "개인 내부와 사회적 관계의 영역을 구분해야 한다."
+          },
+          "auxiliary": [
+            {
+              "code": 3,
+              "scope": "②⑤",
+              "reason": "사회적 존재와 상호작용이 먼저이고 개인 내부 습득이 이후임을 유지."
+            },
+            {
+              "code": 80,
+              "scope": "전체",
+              "reason": "인식 대상과 개인의 표상·내면화 결과를 분리."
+            },
+            {
+              "code": 2,
+              "scope": "④",
+              "reason": "잠재 수준의 미래 실제 수준 전환 가능성과 무조건 보장을 구분."
+            }
+          ],
+          "surface": [
+            {
+              "code": 6,
+              "scope": "②",
+              "reason": "선재한다는 어휘만으로 선천성/후천성의 일반 이론을 확정하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 98,
+              "verdict": "국소 중첩",
+              "refutation": "존재 장소를 무엇에 귀속하는지 복원하면42 오류도 함께 고쳐진다.독립 필수 연산으로 중복 계수하지 않는다."
+            },
+            {
+              "code": 81,
+              "verdict": "배경",
+              "refutation": "사회적 선재를 말하지만 외부 대상 실재의 철학적 증명을 새로 요구하지 않는다."
+            },
+            {
+              "code": 46,
+              "verdict": "보조",
+              "refutation": "인지 발달의 원인 경로가 배경이지만②의 결정 오류는 대상의 위치와 선후다."
+            }
+          ],
+          "counterfactual": "②개인의 내면을 사회적 관계로 바꾸면 선재성 진술이 본문에 맞는다.학습 이전이라는 말만 지우면 잘못된 위치 귀속이 남는다.",
+          "confidence": 0.98
+        }
+      }
+    ]
+  },
+  "보기": "G431_visual01.md 전체 확인",
+  "BHS복원": "기존 BHS_range_restoration.md 및 공식2012 홀수형9쪽 직접 대조.[A]는 규범 양상 관계를 설명하는 한 문단 전체. 최초 blind 범위 유보는 독립판정 단계에서 이미 해소됨. 이번 최초 해소로 계수하지 않음."
+}

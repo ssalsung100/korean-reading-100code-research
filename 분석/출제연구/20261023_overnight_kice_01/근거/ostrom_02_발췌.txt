@@ -1,0 +1,44 @@
+409
+case studies on common-pool resource systems around the world. Carefully 
+designed experimental studies in the lab have enabled us to test precise 
+combinations of structural variables to find that isolated, anonymous indi-
+viduals overharvest from common-pool resources. Simply allowing commu-
+nication, or “cheap talk,” enables participants to reduce overharvesting and 
+increase joint payoffs, contrary to game-theoretical predictions. Large studies 
+of irrigation systems in Nepal and forests around the world challenge the 
+presumption that governments always do a better job than users in organizing 
+and protecting important resources.
+Currently, many scholars are undertaking new theoretical efforts. A core ef-
+fort is developing a more general theory of individual choice that recognizes 
+the central role of trust in coping with social dilemmas. Over time, a clear 
+set of findings from the microsituational level has emerged regarding 
+structural factors affecting the likelihood of increased cooperation. Due 
+to the complexity of broader field settings, one needs to develop more 
+configural approaches to the study of factors that enhance or detract from 
+the emergence and robustness of self-organized efforts within multilevel, 
+polycentric systems. Further, the application of empirical studies to the policy 
+world leads one to stress the importance of fitting institutional rules to a 
+specific social-ecological setting. “One-size-fits-all” policies are not effective.
+1. The Earlier World View of Simple Systems
+In the mid-twentieth century, the dominant scholarly effort was to try to fit 
+the world into simple models and to criticize institutional arrangements that 
+did not fit. I will briefly review the basic assumptions that were made at that 
+time but have been challenged by scholars around the world, including the 
+work of Herbert Simon (1955) and Vincent Ostrom (2008).
+A. Two Optimal Organizational Forms
+The market was seen as the optimal institution for the production and 
+exchange of private goods. For nonprivate goods, on the other hand, one 
+needed “the” government to impose rules and taxes to force self-interested 
+individuals to contribute necessary resources and refrain from self-seeking 
+activities. Without a hierarchical government to induce compliance, self-
+seeking citizens and officials would fail to generate efficient levels of public 
+goods, such as peace and security, at multiple scales (Hobbes [1651] 1960; 
+W. Wilson 1885). A single governmental unit, for example, was strongly 
+recommended to reduce the “chaotic” structure of metropolitan governance, 
+increase efficiency, limit conflict among governmental units, and best serve a 
+homogeneous view of the public (Anderson and Weidner 1950; Gulick 1957; 
+Friesema 1966). This dichotomous view of the world explained patterns of 
+interaction and outcomes related to markets for the production and exchange 
+of strictly private goods (Alchian 1950), but it has not adequately accounted 
+for internal dynamics within private firms (Williamson 1975, 1986). Nor does 
+it adequately deal with the wide diversity of institutional arrangements that 

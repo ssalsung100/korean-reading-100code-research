@@ -1,0 +1,74 @@
+[
+  {
+    "sample_id": "PA19",
+    "question": 6,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA19",
+    "question": 7,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA20",
+    "question": 8,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA20",
+    "question": 9,
+    "initial_choice": 1,
+    "stored_answer": "①",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA21",
+    "question": 9,
+    "initial_choice": 4,
+    "stored_answer": "④",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA21",
+    "question": 10,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA22",
+    "question": 11,
+    "initial_choice": 5,
+    "stored_answer": "⑤",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  },
+  {
+    "sample_id": "PA22",
+    "question": 12,
+    "initial_choice": 2,
+    "stored_answer": "②",
+    "official_answer_verified_field": true,
+    "matches": true,
+    "verification_scope": "저장소 정답 필드 대조. 공식 정답 PDF 신규 전수 확인 아님. strict blind 성과 아님"
+  }
+]

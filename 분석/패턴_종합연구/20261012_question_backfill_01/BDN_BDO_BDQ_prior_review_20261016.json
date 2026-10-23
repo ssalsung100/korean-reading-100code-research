@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BDN": [
+      {
+        "line": 5644,
+        "record_id": "BDN-independent_code-20261002-01",
+        "case": "BDN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:03:36.507033+09:00",
+        "payload": {
+          "passage_group": "G394",
+          "primary_codes": [
+            46
+          ],
+          "auxiliary_codes": [
+            19,
+            50,
+            44
+          ],
+          "surface_codes": [
+            49,
+            52
+          ],
+          "decisive_operation": "난소의 남성호르몬 과다·여성호르몬 작용 부족 경로를 복원하여 부족한 작용 보완과 상위과다 신호 억제를 후보로 고른다.",
+          "competitor_refutations": [
+            {
+              "code": 19,
+              "reason": "ㄱ은 부족한 여성호르몬 작용 보완.하지만 되먹임 다른 경로가 있어 보충=전체기능개선이라는 충분성은 자동 성립하지 않는다."
+            },
+            {
+              "code": 52,
+              "reason": "ㄷ의 과다 신호 억제는 억제를 억제해촉진하는 이중부호와 다르다.경로부호를 실제로 적어야52를 붙일 수 있다.보조 후보로 남기되 필수성은 부정."
+            },
+            {
+              "code": 49,
+              "reason": "ㄱㄴㄷ의 국소증감만 합치면 난소와지방세포·뇌하수체 경로를 섞는다.46의 장소별경로 복원이 선행한다."
+            }
+          ],
+          "boundary_note": "주46은 국소 인과 경로 판단.후속 전신 순효과 유보를 포함한다.의약적 사용 권고나 실제 치료효과 단정이 아니라 시험 내 인과관계 연구다.",
+          "confidence": 0.78,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDO": [
+      {
+        "line": 5655,
+        "record_id": "BDO-independent_code-20261002-01",
+        "case": "BDO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:06:46.913705+09:00",
+        "payload": {
+          "passage_group": "G395",
+          "primary_codes": [
+            11
+          ],
+          "auxiliary_codes": [
+            16,
+            12,
+            17
+          ],
+          "surface_codes": [
+            1
+          ],
+          "decisive_operation": "확장된 속박 개념 아래 속박 부재이면 자유,자유이면 속박 부재라는 양방향 관계를 고정하여③을 수용한다.",
+          "competitor_refutations": [
+            {
+              "code": 12,
+              "reason": "두 방향 조건문이 실제로 제시되어11로 묶을 근거가 있다.단방향에서 역을 임의 도출한 것이 아님."
+            },
+            {
+              "code": 16,
+              "reason": "글쓴이의 자유 설명을 정의로 읽는 관점이11과 국소 중첩하며21 정의는필충도 동일근거 후보.번호를 별도추론으로 세지 않음."
+            },
+            {
+              "code": 17,
+              "reason": "적극/소극의 명칭이 자유와속박에서 다른기준임을 구별하는 것은②⑤배제에필요.③의긍정결정은양방향설명으로가능."
+            }
+          ],
+          "boundary_note": "자유/속박 양방향은 본문이 제한한 주체에게 중요한 실현가능 욕구의 범위 안에서 적용한다.",
+          "confidence": 0.91,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDQ": [
+      {
+        "line": 5657,
+        "record_id": "BDQ-independent_code-20261002-01",
+        "case": "BDQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:06:46.914956+09:00",
+        "payload": {
+          "passage_group": "G395",
+          "primary_codes": [
+            64
+          ],
+          "auxiliary_codes": [
+            2,
+            10,
+            17
+          ],
+          "surface_codes": [
+            86
+          ],
+          "decisive_operation": "자유 논의의 영역을 자연적으로 실현 가능한 인간 행위에 제한하고 현재 숙련·자연적 능력 범위를 구분한다.",
+          "competitor_refutations": [
+            {
+              "code": 2,
+              "reason": "할수있음의가능성이핵심이지만현재할수없음과자연법칙상실현불가능을같은강도로취급하면BDP와충돌한다."
+            },
+            {
+              "code": 10,
+              "reason": "더많은것을할능력을자유의필수조건으로붙인④는근거없는추가요건이다.논의영역64를고정한뒤부가요건을배제한다."
+            },
+            {
+              "code": 86,
+              "reason": "훨씬더많다는표현은있지만수량계산이아니라자유인정에불필요한과잉능력조건을추가한것이다."
+            }
+          ],
+          "boundary_note": "BDQ⑤ 할수있는것의범위는지금보유한기술이아닌자연적실현가능성.다른단위의가능성을혼합하지않는다.",
+          "confidence": 0.91,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.BDN국소직접효과/전신순효과·BDQ현재숙련/자연적가능성의기존미해결범위승계."
+}

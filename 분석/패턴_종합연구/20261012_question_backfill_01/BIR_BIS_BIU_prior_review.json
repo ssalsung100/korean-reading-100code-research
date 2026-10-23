@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BIR": [
+      {
+        "line": 6271,
+        "record_id": "BIR-independent_code-20261003-01",
+        "case": "BIR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T16:58:49.123325+00:00",
+        "payload": {
+          "passage_group": "G441",
+          "sdss_seen": false,
+          "general_task": "대립견해가공유하는주장찾기",
+          "decisive_relation": "감각의개념성논쟁과판단의개념성합의를분리",
+          "primary": {
+            "code": 23,
+            "scope": "②",
+            "reason": "두견해의공통내용이판단과정의개념성이라는교집합임을확인한다."
+          },
+          "auxiliary": [
+            {
+              "code": 75,
+              "reason": "비개념/개념주의의주장을각각보존."
+            },
+            {
+              "code": 80,
+              "reason": "감각경험과인식판단의단위를구분."
+            },
+            {
+              "code": 17,
+              "scope": "④",
+              "reason": "감각에대한오류논의와판단·추론무오류를바꾸지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "scope": "③",
+              "reason": "감각선행은한견해만의관계이며문항전체의공통판정이아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 39,
+              "verdict": "국소중첩",
+              "refutation": "공통점비교라는행동은23과겹친다.번호차이만으로별개필수연산으로세지않는다."
+            },
+            {
+              "code": 74,
+              "verdict": "통합군보조",
+              "refutation": "경쟁견해지만새관측예측을산출하지않고공통명제를대조한다."
+            },
+            {
+              "code": 18,
+              "verdict": "주기각",
+              "refutation": "대립한다고모든주장이모순되는것은아니다.공통요소를찾는것이핵심이다."
+            }
+          ],
+          "counterfactual": "②의판단과정을감각경험으로바꾸면두견해의핵심쟁점이되어공통명제가아니다.대상의단어하나가판정을바꾼다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BIS": [
+      {
+        "line": 6272,
+        "record_id": "BIS-independent_code-20261003-01",
+        "case": "BIS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T16:59:22.782519+00:00",
+        "payload": {
+          "passage_group": "G441",
+          "sdss_seen": false,
+          "general_task": "지정견해로새사례의인식조건설명",
+          "decisive_relation": "해석되지않은감각경험을개념적사람인지의선행필요조건으로적용",
+          "primary": {
+            "code": 10,
+            "scope": "③",
+            "reason": "비개념주의가제시한판단전감각의필요성을그림인지에적용한다."
+          },
+          "auxiliary": [
+            {
+              "code": 80,
+              "reason": "감각내용과사람이라는개념적판단을구분."
+            },
+            {
+              "code": 75,
+              "reason": "그림의원래개념주의해석을지정된비개념주의와혼합하지않음."
+            },
+            {
+              "code": 3,
+              "reason": "감각선행→판단후행순서를유지."
+            },
+            {
+              "code": 17,
+              "scope": "⑤",
+              "reason": "물감이감각되는것과물감이라고판단하는것은다르다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "그림의사람이상징적으로그려졌다는미술표현자체를해석하는문항이아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 12,
+              "verdict": "국소중첩",
+              "refutation": "사람인지가있으면선행감각이있다는조건문으로도표현된다.10과별개논리식으로분리하지않는다."
+            },
+            {
+              "code": 63,
+              "verdict": "주기각",
+              "refutation": "이사례가실제로어느이론을더강화하는지평가하기보다지정이론의설명을선택한다."
+            },
+            {
+              "code": 95,
+              "verdict": "넓은표현중첩",
+              "refutation": "판단에감각존재가필요하다는표현은가능하지만여기서는무해석감각이라는정확한조건이핵심.일반존재추론으로축약하지않는다."
+            }
+          ],
+          "counterfactual": "⑤의재료구성에대한개념적깨달음이없어도비개념적감각에서사람인지로갈수있다는본문설명이성립한다.재료판단을추가필수조건으로만들수없다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BIU": [
+      {
+        "line": 6284,
+        "record_id": "BIU-independent_code-20261003-01",
+        "case": "BIU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:05:32.112259+00:00",
+        "payload": {
+          "passage_group": "G442",
+          "sdss_seen": false,
+          "general_task": "세포공급과분화과정의기원·정체성확인",
+          "decisive_relation": "소낭줄기세포의분화산물이융모상피를이룬다는과정대응",
+          "primary": {
+            "code": 45,
+            "scope": "④",
+            "reason": "줄기세포분열→이동하는후손→상피분화→융모구성이라는입출력경로를보존한다."
+          },
+          "auxiliary": [
+            {
+              "code": 98,
+              "scope": "②③",
+              "reason": "Wnt분비/반응주체및원줄기세포/후손세포의행위를바꾸지않는다."
+            },
+            {
+              "code": 17,
+              "scope": "②",
+              "reason": "세포의발생기원과분화후유형을구분."
+            },
+            {
+              "code": 49,
+              "scope": "①",
+              "reason": "융모는표면적을늘리는방향이며반비례가아니다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 40,
+              "reason": "융모의구성요소가상피라는부분관계가있으나생성과분화경로까지설명하지는않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 3,
+              "verdict": "보조",
+              "refutation": "순서는중요하지만전후관계만으로각세포의정체성과작용을복원할수없다."
+            },
+            {
+              "code": 42,
+              "verdict": "보조",
+              "refutation": "소낭/융모의공간위치는필요하나단순위치이동과분화를구별해야한다."
+            },
+            {
+              "code": 46,
+              "verdict": "국소중첩",
+              "refutation": "공급원과분화원인을잇는인과관점도가능하며45와배타적으로나누지않는다."
+            }
+          ],
+          "counterfactual": "②가줄기세포의분열로생긴세포가상피로분화하며융모로이동한다고서술하면본문과맞는다.단순히위치명만뒤집으면분화정체성오류가남는다.",
+          "confidence": 0.97
+        }
+      }
+    ]
+  },
+  "BIU도식": "G442_visual01.jpg 직접 판독.소낭 바닥의 판네스세포와 인접 성체장줄기세포,위쪽 융모의 상피층을 확인.정확한 세포 이동 속도나 분화 경계의 수치 정보는 없음."
+}

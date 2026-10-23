@@ -1,0 +1,464 @@
+[
+  {
+    "case_id": "AA",
+    "question_id": "KICE-2014-6월_모평A-Q28-29-Q28",
+    "answer": 1,
+    "before_answer_events": [],
+    "after_answer_events": [
+      "E044"
+    ],
+    "status": "정답 장면 누락 보완"
+  },
+  {
+    "case_id": "AB",
+    "question_id": "KICE-2014-6월_모평A-Q28-29-Q29",
+    "answer": 4,
+    "before_answer_events": [
+      "E003"
+    ],
+    "after_answer_events": [
+      "E003"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AC",
+    "question_id": "KICE-2015-수능B-Q25-26-Q25",
+    "answer": 2,
+    "before_answer_events": [
+      "E004"
+    ],
+    "after_answer_events": [
+      "E004"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AD",
+    "question_id": "KICE-2015-수능B-Q25-26-Q26",
+    "answer": 4,
+    "before_answer_events": [
+      "E005"
+    ],
+    "after_answer_events": [
+      "E005"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AF",
+    "question_id": "KICE-2020-수능-Q16-20-Q16",
+    "answer": 2,
+    "before_answer_events": [
+      "E006"
+    ],
+    "after_answer_events": [
+      "E006"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AG",
+    "question_id": "KICE-2020-수능-Q16-20-Q17",
+    "answer": 2,
+    "before_answer_events": [
+      "E007"
+    ],
+    "after_answer_events": [
+      "E007"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AH",
+    "question_id": "KICE-2020-수능-Q16-20-Q18",
+    "answer": 4,
+    "before_answer_events": [],
+    "after_answer_events": [
+      "E045"
+    ],
+    "status": "정답 장면 누락 보완"
+  },
+  {
+    "case_id": "AI",
+    "question_id": "KICE-2020-수능-Q16-20-Q19",
+    "answer": 5,
+    "before_answer_events": [
+      "E009"
+    ],
+    "after_answer_events": [
+      "E009"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AJ",
+    "question_id": "KICE-2020-수능-Q16-20-Q20",
+    "answer": 2,
+    "before_answer_events": [
+      "E010"
+    ],
+    "after_answer_events": [
+      "E010"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "BI",
+    "question_id": "KICE-2022-6월_모평-Q10-13-Q10",
+    "answer": 3,
+    "before_answer_events": [
+      "E011"
+    ],
+    "after_answer_events": [
+      "E011"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "BJ",
+    "question_id": "KICE-2022-6월_모평-Q10-13-Q11",
+    "answer": 5,
+    "before_answer_events": [
+      "E012"
+    ],
+    "after_answer_events": [
+      "E012"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "BK",
+    "question_id": "KICE-2022-6월_모평-Q10-13-Q12",
+    "answer": 4,
+    "before_answer_events": [
+      "E013"
+    ],
+    "after_answer_events": [
+      "E013"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "BL",
+    "question_id": "KICE-2022-6월_모평-Q10-13-Q13",
+    "answer": 2,
+    "before_answer_events": [
+      "E015"
+    ],
+    "after_answer_events": [
+      "E015"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "BY",
+    "question_id": "KICE-2022-수능-Q14-17-Q14",
+    "answer": 4,
+    "before_answer_events": [
+      "E016"
+    ],
+    "after_answer_events": [
+      "E016"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "BZ",
+    "question_id": "KICE-2022-수능-Q14-17-Q15",
+    "answer": 2,
+    "before_answer_events": [
+      "E017"
+    ],
+    "after_answer_events": [
+      "E017"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "CA",
+    "question_id": "KICE-2022-수능-Q14-17-Q16",
+    "answer": 4,
+    "before_answer_events": [
+      "E018"
+    ],
+    "after_answer_events": [
+      "E018"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "CB",
+    "question_id": "KICE-2022-수능-Q14-17-Q17",
+    "answer": 1,
+    "before_answer_events": [
+      "E019"
+    ],
+    "after_answer_events": [
+      "E019"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "GK",
+    "question_id": "KICE-2010-6월_모평-Q20-22-Q20",
+    "answer": 2,
+    "before_answer_events": [
+      "E020"
+    ],
+    "after_answer_events": [
+      "E020"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "GL",
+    "question_id": "KICE-2010-6월_모평-Q20-22-Q21",
+    "answer": 1,
+    "before_answer_events": [
+      "E021"
+    ],
+    "after_answer_events": [
+      "E021"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "GM",
+    "question_id": "KICE-2010-6월_모평-Q20-22-Q22",
+    "answer": 5,
+    "before_answer_events": [
+      "E022"
+    ],
+    "after_answer_events": [
+      "E022"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "OX",
+    "question_id": "KICE-2018-수능-Q16-19-Q16",
+    "answer": 5,
+    "before_answer_events": [
+      "E023"
+    ],
+    "after_answer_events": [
+      "E023"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "OY",
+    "question_id": "KICE-2018-수능-Q16-19-Q17",
+    "answer": 3,
+    "before_answer_events": [
+      "E024"
+    ],
+    "after_answer_events": [
+      "E024"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "OZ",
+    "question_id": "KICE-2018-수능-Q16-19-Q18",
+    "answer": 2,
+    "before_answer_events": [
+      "E025"
+    ],
+    "after_answer_events": [
+      "E025"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "PA",
+    "question_id": "KICE-2018-수능-Q16-19-Q19",
+    "answer": 3,
+    "before_answer_events": [
+      "E026"
+    ],
+    "after_answer_events": [
+      "E026"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "ZD",
+    "question_id": "KICE-2026-6월_모평-Q01-03-Q01",
+    "answer": 4,
+    "before_answer_events": [
+      "E027"
+    ],
+    "after_answer_events": [
+      "E027"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "ZE",
+    "question_id": "KICE-2026-6월_모평-Q01-03-Q02",
+    "answer": 5,
+    "before_answer_events": [
+      "E028"
+    ],
+    "after_answer_events": [
+      "E028"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "ZF",
+    "question_id": "KICE-2026-6월_모평-Q01-03-Q03",
+    "answer": 3,
+    "before_answer_events": [
+      "E029"
+    ],
+    "after_answer_events": [
+      "E029"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AJP",
+    "question_id": "LEET-2022-odd-Q01-03-Q01",
+    "answer": 3,
+    "before_answer_events": [],
+    "after_answer_events": [
+      "E046"
+    ],
+    "status": "정답 장면 누락 보완"
+  },
+  {
+    "case_id": "AJQ",
+    "question_id": "LEET-2022-odd-Q01-03-Q02",
+    "answer": 5,
+    "before_answer_events": [
+      "E033"
+    ],
+    "after_answer_events": [
+      "E033"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AJR",
+    "question_id": "LEET-2022-odd-Q01-03-Q03",
+    "answer": 5,
+    "before_answer_events": [
+      "E034"
+    ],
+    "after_answer_events": [
+      "E034"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "ANV",
+    "question_id": "LEET-2011-odd-Q24-26-Q24",
+    "answer": 5,
+    "before_answer_events": [
+      "E035"
+    ],
+    "after_answer_events": [
+      "E035"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "ANW",
+    "question_id": "LEET-2011-odd-Q24-26-Q25",
+    "answer": 3,
+    "before_answer_events": [
+      "E036"
+    ],
+    "after_answer_events": [
+      "E036"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "ANX",
+    "question_id": "LEET-2011-odd-Q24-26-Q26",
+    "answer": 3,
+    "before_answer_events": [
+      "E037"
+    ],
+    "after_answer_events": [
+      "E037"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AQN",
+    "question_id": "MEET-2006-Q05-07-Q05",
+    "answer": 3,
+    "before_answer_events": [
+      "E038"
+    ],
+    "after_answer_events": [
+      "E038"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AQO",
+    "question_id": "MEET-2006-Q05-07-Q06",
+    "answer": 2,
+    "before_answer_events": [
+      "E039"
+    ],
+    "after_answer_events": [
+      "E039"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AQP",
+    "question_id": "MEET-2006-Q05-07-Q07",
+    "answer": 1,
+    "before_answer_events": [
+      "E040"
+    ],
+    "after_answer_events": [
+      "E040"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AVS",
+    "question_id": "MEET-2012-Q20-22-Q20",
+    "answer": 5,
+    "before_answer_events": [
+      "E041"
+    ],
+    "after_answer_events": [
+      "E041"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AVT",
+    "question_id": "MEET-2012-Q20-22-Q21",
+    "answer": 1,
+    "before_answer_events": [
+      "E042"
+    ],
+    "after_answer_events": [
+      "E042"
+    ],
+    "status": "기존 정답 장면 있음"
+  },
+  {
+    "case_id": "AVU",
+    "question_id": "MEET-2012-Q20-22-Q22",
+    "answer": 1,
+    "before_answer_events": [
+      "E043"
+    ],
+    "after_answer_events": [
+      "E043"
+    ],
+    "status": "기존 정답 장면 있음"
+  }
+]

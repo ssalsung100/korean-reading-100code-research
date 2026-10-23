@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BDR": [
+      {
+        "line": 5669,
+        "record_id": "BDR-independent_code-20261002-01",
+        "case": "BDR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:11:27.929961+09:00",
+        "payload": {
+          "passage_group": "G396",
+          "primary_codes": [
+            3
+          ],
+          "auxiliary_codes": [
+            2,
+            17,
+            10
+          ],
+          "surface_codes": [
+            5
+          ],
+          "decisive_operation": "응집 전 리폴딩과 응집 후의 비가역 경향,세포 내 도움과 실험 조건을 구별해④의 시간·조건 전이를 반증한다.",
+          "competitor_refutations": [
+            {
+              "code": 2,
+              "reason": "대부분 비가역을 모든경우 절대불가능으로 확대하지 않는다.④를 배제해도 BDT의실험적회복과 양립 가능해야 함."
+            },
+            {
+              "code": 17,
+              "reason": "세포 내/시험관,응집 전/후의 대상 상태 귀속이3과 중첩한다."
+            },
+            {
+              "code": 5,
+              "reason": "구조변화는소재이지만변화가있다는사실보다언제어떤조건으로돌아가는지의제약이정답핵심."
+            }
+          ],
+          "boundary_note": "리폴딩이세포안에서응집전에일어난다는설명을모든실험회복의불가능성으로전칭화하지않음.",
+          "confidence": 0.9,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDT": [
+      {
+        "line": 5671,
+        "record_id": "BDT-independent_code-20261002-01",
+        "case": "BDT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:11:27.931125+09:00",
+        "payload": {
+          "passage_group": "G396",
+          "primary_codes": [
+            46
+          ],
+          "auxiliary_codes": [
+            43,
+            17,
+            10
+          ],
+          "surface_codes": [
+            69
+          ],
+          "decisive_operation": "동일50도에서 A단독과 혼합의 차이로 B의보호역할을추론하고,세제처리/제거후기능회복을응집기전의차단과연결한다.",
+          "competitor_refutations": [
+            {
+              "code": 43,
+              "reason": "온도50도및농도효과무시조건이비교근거다.다만첨가B와세제라는개입이서로다른실험이므로하나의동일원인으로섞지않는다."
+            },
+            {
+              "code": 17,
+              "reason": "③의A/B작용주체/표적교환을잡는직접역할판독.정답④에는분자사이상호작용기전이필요."
+            },
+            {
+              "code": 10,
+              "reason": "최종A가정상기능하려면정상구조가필요하므로⑤리폴딩부정을배제.원리상의모든기능발현경로를독립과학사실로일반화하지않음."
+            }
+          ],
+          "boundary_note": "B가샤페론과같이A응집을막는다는기능유추69는가능하나정답④의세제작용을샤페론과동일기전이라할근거는없다.",
+          "confidence": 0.9,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDU": [
+      {
+        "line": 5682,
+        "record_id": "BDU-independent_code-20261002-01",
+        "case": "BDU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T06:14:49.816649+09:00",
+        "payload": {
+          "passage_group": "G397",
+          "primary_codes": [
+            8
+          ],
+          "auxiliary_codes": [
+            44,
+            75,
+            17
+          ],
+          "surface_codes": [
+            86
+          ],
+          "decisive_operation": "수신·처세의 실제 효용을 중시하고 이론적 고원함은 한계로 본 평가의 방향을 복원해①의 우선순위 역전을 배제한다.",
+          "competitor_refutations": [
+            {
+              "code": 44,
+              "reason": "수신·양생 목적의 효용이 비교의 내용이지만 정답은 그 내용과 이론체계의 우선순위를 바꾼 것이다."
+            },
+            {
+              "code": 75,
+              "reason": "주석가들에게 어떤 평가를 귀속할지의 관점으로8과 국소 중첩한다.여러인물의상이한찬반입장을새로비교하는것은아님."
+            },
+            {
+              "code": 86,
+              "reason": "보다라는형식만으로양적비교는아니다.수치량대소대신해석관심의우위가문제."
+            }
+          ],
+          "boundary_note": "⑤는경향적종합으로수용하며개별비판존재와의양립범위를유지한다.",
+          "confidence": 0.9,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·실험보기·5선지·기존풀이·독립판정직접확인.응집전후/세포내외조건과B/세제의별도실험경로구별.BDU⑤종합경향/전칭은폐의기존한계승계."
+}

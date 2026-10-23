@@ -1,0 +1,20 @@
+{
+  "scope": "기출수치가아닌본문하한조건점검용가상모형",
+  "playback_rate": 1,
+  "block_sizes": [
+    1,
+    2
+  ],
+  "channel_rates": [
+    2,
+    4
+  ],
+  "periods": [
+    0.5,
+    0.5
+  ],
+  "check": "두채널모두재생률의2배이상이지만블록크기두배에서주기두배가아니라같은주기가된다.",
+  "equal_rate_formula": "T2/T1=(D2/D1)*(r1/r2). r1=r2일때2배.",
+  "official_answer_preserved": 5,
+  "inherited_hold": true
+}

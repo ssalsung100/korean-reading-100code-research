@@ -1,0 +1,118 @@
+{
+  "scope": "이번34문항 기존incremental검사 결과와 마지막 저장점·미저장 노출 상태 확인. 전수해시·의미 재처리 없음.",
+  "reviewed_questions": 790,
+  "new_scene_count": 1238,
+  "added_questions": 34,
+  "added_scenes": 58,
+  "author_checks": [
+    {
+      "file": "author_019m_validation.json",
+      "questions": 4,
+      "scenes": 8,
+      "options": 20,
+      "pass": true
+    },
+    {
+      "file": "author_020a_recover_validation.json",
+      "questions": 3,
+      "scenes": 5,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020b_validation.json",
+      "questions": 3,
+      "scenes": 5,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020c_validation.json",
+      "questions": 3,
+      "scenes": 6,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020d_validation.json",
+      "questions": 3,
+      "scenes": 5,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020e_validation.json",
+      "questions": 3,
+      "scenes": 4,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020f_validation.json",
+      "questions": 3,
+      "scenes": 6,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020g_validation.json",
+      "questions": 3,
+      "scenes": 5,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020h_validation.json",
+      "questions": 3,
+      "scenes": 5,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020i_validation.json",
+      "questions": 3,
+      "scenes": 4,
+      "options": 15,
+      "pass": true
+    },
+    {
+      "file": "author_020j_validation.json",
+      "questions": 3,
+      "scenes": 5,
+      "options": 15,
+      "pass": true
+    }
+  ],
+  "last_audited_batch": 19,
+  "next_audit_at": 800,
+  "read_but_not_saved": [
+    {
+      "order": 791,
+      "unique_question": "U0450-Q01",
+      "case_ids": [
+        "BOF"
+      ],
+      "read": "전체 원문·발문·5선지·기존 blind/answer_check/independent_code 열람",
+      "saved": false
+    },
+    {
+      "order": 792,
+      "unique_question": "U0450-Q03",
+      "case_ids": [
+        "BOH"
+      ],
+      "read": "전체 보기·표 추출·5선지·기존 hold/blind/answer_check/independent_code 및 공식 BOH_official_table_crop.png 직접 열람",
+      "saved": false
+    },
+    {
+      "order": 793,
+      "unique_question": "U0451-Q01",
+      "case_ids": [
+        "BOI"
+      ],
+      "read": "전체 원문·발문·5선지·기존 blind/answer_check/independent_code 열람",
+      "saved": false
+    }
+  ],
+  "pass": true
+}

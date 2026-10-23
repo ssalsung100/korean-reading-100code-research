@@ -1,0 +1,193 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AYY": [
+      {
+        "line": 5114,
+        "record_id": "AYY-independent_code-20260928-01",
+        "case": "AYY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:05:11.901597+09:00",
+        "payload": {
+          "passage_group": "G356",
+          "primary": [
+            45,
+            39
+          ],
+          "auxiliary": [
+            5,
+            42,
+            12
+          ],
+          "surface": [
+            40,
+            46
+          ],
+          "decisive_operation": "동일한 피드백 구조에서 내부루프의 상태유지와 외부루프의 상태변경을 입력·스위치·출력 경로별로 비교한다.",
+          "competing_codes": [
+            {
+              "code": 5,
+              "rejection": "유지와변경이기능차이지만 그 단어만으로 어느루프인지 알 수 없어 경로를 추적해야 한다."
+            },
+            {
+              "code": 42,
+              "rejection": "점선안팎의위치는루프 구분에보조. 내부/외부 자체가기능을보장하지않음."
+            },
+            {
+              "code": 40,
+              "rejection": "한전체의부분들이지만 부분전체 성질전이를 다루지 않는다."
+            },
+            {
+              "code": 49,
+              "rejection": "값이반전되지만 일반 증감방향이아닌 이진함수변환이다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.92,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZB": [
+      {
+        "line": 5127,
+        "record_id": "AZB-independent_code-20260928-01",
+        "case": "AZB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:07:21.101910+09:00",
+        "payload": {
+          "passage_group": "G357",
+          "primary": [
+            88,
+            63
+          ],
+          "auxiliary": [
+            15,
+            39,
+            2
+          ],
+          "surface": [
+            79,
+            46
+          ],
+          "decisive_operation": "근로자 권리와 기업이익의 형량에서 일방구조조정이라는 사실이 어느쪽 무게를 키우는지 판정한다. 약화방향이지 최종무효의 확정이 아니다.",
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "주어진 사실이 유효성을 약화하는지 평가하므로88의형량방향과 상위행동이 겹친다."
+            },
+            {
+              "code": 46,
+              "rejection": "퇴직경위가불이익을키우는연결은있지만 효과발생량을구하거나기제를검증하는문항아님."
+            },
+            {
+              "code": 10,
+              "rejection": "단일사실을무효필요충분조건으로만들지않는다.종합고려중어느방향인가가질문."
+            },
+            {
+              "code": 2,
+              "rejection": "부정적영향을반드시무효로강화하지않는제한에필요."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.92,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZC": [
+      {
+        "line": 5128,
+        "record_id": "AZC-independent_code-20260928-01",
+        "case": "AZC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:07:21.203555+09:00",
+        "payload": {
+          "passage_group": "G357",
+          "primary": [
+            75,
+            10
+          ],
+          "auxiliary": [
+            15,
+            43,
+            2
+          ],
+          "surface": [
+            79,
+            88
+          ],
+          "decisive_operation": "㉠의 보상필수와㉡의 불균형만으로무효불가·자기결정제약검토를 구분하고 계약자유의 논거를 잘못 귀속한①을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 10,
+              "rejection": "보상필수/불필수는 두입장의 실제경계여서 주기여."
+            },
+            {
+              "code": 43,
+              "rejection": "㉡에서자기결정능력제약을추가로고려하는조건통제는보조이지실험설계는아님."
+            },
+            {
+              "code": 88,
+              "rejection": "두권리균형은배경이나차이는대가가유효성필수인지와형식합의존중의범위."
+            },
+            {
+              "code": 58,
+              "rejection": "권리조화를공유해도보상필수성의결론은다르므로공통전제로동일입장이라고볼수없음."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.92,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZD": [
+      {
+        "line": 5139,
+        "record_id": "AZD-independent_code-20260928-01",
+        "case": "AZD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:09:18.744573+09:00",
+        "payload": {
+          "passage_group": "G358",
+          "primary": [
+            75,
+            81
+          ],
+          "auxiliary": [
+            22,
+            16
+          ],
+          "surface": [
+            25,
+            80
+          ],
+          "decisive_operation": "원형의 실재를 승인하는지 부정하는지를 입장별로 고정하고 유형론의 존재론적 전제를 개체군론에 옮긴④를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 25,
+              "rejection": "분류가 소재이나④는 실제유물의유형배정이아니라유형실재여부에관한입장판정."
+            },
+            {
+              "code": 80,
+              "rejection": "유형이관찰추론의도구라는인식론도배경이나정답은원형실재부정81이직접근거."
+            },
+            {
+              "code": 16,
+              "rejection": "선택의정의⑤는개념확인에필요하지만④핵심은아님."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "AYY": "앞문항에서직접판독한G356_visual01.png의두인버터내부루프와B·C입력의조합외부루프를다시경로별대조. 피드백이라는명칭만으로되먹임고리후보에배정하지않음."
+}

@@ -1,0 +1,9 @@
+{
+  "data/기본기_연구/astra_handoff_queue.jsonl": "74b1e630ddb3808a1fc25d5d047514b8558ddd8f271d1d41a5d629fd568b4195",
+  "data/기본기_연구/astra_handoff_processed.jsonl": "c49e67a393b517671b94b6e0267689f8250fe55f6d4f2cd38e0cd954ef311818",
+  "data/기본기_연구/prepared_backlog/manifest.jsonl": "29bbdf41af019151d0342a846b3cfa48cec22142f41f24f5d895c4b8e4392e48",
+  "data/기본기_연구/meta_state.json": "2ac212abe6f83b7d2e97f9b2ef0b706bca92bd8bda7dfafb1a2482044be480fc",
+  "data/기본기_연구/research_data_index_enriched_v2.json": "5bda68f7de147006c5ed87096a66439a4f120b0d106ebdb3f03a89035b34b414",
+  "data/sdss_100codes_catalog.json": "9c06ace329c7bebdcc972ff0e9250d8cce6431eeb80675610f311a8e7c1e0715",
+  "data/기본기_연구/코드군_통합가설_v1.json": "74b7a726f09b907ce4872b432237cd673cbea1c832828715e359a5fcbe0c0e19"
+}

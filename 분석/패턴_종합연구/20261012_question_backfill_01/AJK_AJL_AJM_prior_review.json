@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-15",
+  "purpose": "기존 독립 판정 중 관련 경계·변형근거 선택 활용",
+  "records": {
+    "AJK": [
+      {
+        "line": 3270,
+        "case": "AJK",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G220",
+          "primary": [],
+          "primary_candidates": [
+            80,
+            75,
+            17
+          ],
+          "working_representative": 80,
+          "auxiliary": [
+            46,
+            77
+          ],
+          "surface": [
+            63
+          ],
+          "judgment_reason": "허명두는상대가본피해원인을이해·인정하면서실리선택을고수한다.인식차와선택차를혼동한③.인식80·견해관계75·내용귀속17중첩.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "verdict": "후보",
+              "reason": "두인물의공통원인인식과상반선택을분리"
+            },
+            {
+              "code": 17,
+              "verdict": "후보",
+              "reason": "허명두에게없는원인해석차를귀속"
+            },
+            {
+              "code": 46,
+              "verdict": "보조",
+              "reason": "외부자본→관광지화→안정상실의공유된원인경로복원"
+            },
+            {
+              "code": 77,
+              "verdict": "특정선지 보조",
+              "reason": "④과거실리승리경험의일반화는있지만③정답오류는다름"
+            }
+          ],
+          "minimal_change_test": "허명두가주민방황원인을다른요인으로돌렸다는서술이추가되면③을검토가능.현재는온씨주장옳음을명시적으로인정.",
+          "sdss_seen": false,
+          "confidence": 0.96,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AJK-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T03:19:30.881709+00:00"
+      }
+    ],
+    "AJL": [
+      {
+        "line": 3287,
+        "case": "AJL",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G221",
+          "primary": [],
+          "primary_candidates": [
+            39,
+            96,
+            17
+          ],
+          "working_representative": 39,
+          "auxiliary": [
+            80,
+            3
+          ],
+          "surface": [
+            100
+          ],
+          "judgment_reason": "대구문장과감사잠깐/원한대대의대조가고충을드러냄.형식비교39·언어표현96·정서효과귀속17이함께작동.",
+          "competing_codes": [
+            {
+              "code": 96,
+              "verdict": "후보",
+              "reason": "평행구조와반대내용의문맥기능을판독"
+            },
+            {
+              "code": 17,
+              "verdict": "후보",
+              "reason": "해당표현에어사고충이라는효과를귀속"
+            },
+            {
+              "code": 100,
+              "verdict": "특정오답",
+              "reason": "백룡비유는연의움직임이지자연현상변화아님"
+            },
+            {
+              "code": 3,
+              "verdict": "보조",
+              "reason": "잠깐/대대의시간차가대조내용을형성하나사건선후판정아님"
+            }
+          ],
+          "minimal_change_test": "감사와원한의기간을동일하게바꾸면②의해당대조근거가약해짐.대구유무와고충이라는효과모두확인해야함.",
+          "sdss_seen": false,
+          "confidence": 0.94,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AJL-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T03:26:09.826248+00:00"
+      }
+    ],
+    "AJM": [
+      {
+        "line": 3288,
+        "case": "AJM",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G221",
+          "primary": [],
+          "primary_candidates": [
+            64,
+            17,
+            46
+          ],
+          "working_representative": 64,
+          "auxiliary": [
+            97,
+            80
+          ],
+          "surface": [
+            3
+          ],
+          "judgment_reason": "취향을전해듣고준비한술을옛인연으로알아본결과라함.없는관계추가64·인식근거귀속17·원인교환46중첩.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "후보",
+              "reason": "태수가알게된경로를전해들음에서옛교분으로교환"
+            },
+            {
+              "code": 46,
+              "verdict": "후보",
+              "reason": "좋은술준비의원인을없는옛인연으로바꿈"
+            },
+            {
+              "code": 97,
+              "verdict": "보조",
+              "reason": "너언제날알더냐는뜻밖배려의질문이지옛만남확인아님"
+            },
+            {
+              "code": 3,
+              "verdict": "표면",
+              "reason": "옛이라는시간어가있어도선후보다사실관계자체의추가가문제"
+            }
+          ],
+          "minimal_change_test": "옛인연이있었다를취향을전해들었다로바꾸면원문경로복원.좋은대접받았다는사실만으로과거교분추론불가.",
+          "sdss_seen": false,
+          "confidence": 0.95,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AJM-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T03:26:09.826906+00:00"
+      }
+    ]
+  }
+}

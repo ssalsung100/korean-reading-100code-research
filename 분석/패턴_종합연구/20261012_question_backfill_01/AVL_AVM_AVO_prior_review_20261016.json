@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AVL": [
+      {
+        "line": 4694,
+        "record_id": "AVL-independent_code-20260928-01",
+        "case": "AVL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            44,
+            37
+          ],
+          "auxiliary": [
+            14,
+            59,
+            40
+          ],
+          "surface": [
+            42,
+            100
+          ],
+          "decisive_operation": "경치감상 목적에 각구조요소의기능을대응하고 창호를차단우선수단으로바꾼①을거부.",
+          "competitor_refutations": [
+            {
+              "code": 42,
+              "reason": "내외경계의존재만으로외부차단우선을판정할수없다."
+            },
+            {
+              "code": 59,
+              "reason": "③긴초석은높이차해결의유효경로이나정답①은감상목적과창호기능의관계다."
+            },
+            {
+              "code": 40,
+              "reason": "삼부분통합은④확인경로이며정답의목적평가와구분한다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G326",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AVM": [
+      {
+        "line": 4705,
+        "record_id": "AVM-independent_code-20260928-01",
+        "case": "AVM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            60,
+            39
+          ],
+          "auxiliary": [
+            69,
+            64
+          ],
+          "surface": [
+            23,
+            100
+          ],
+          "decisive_operation": "글이 여러 작품의 공통 형상·실존 의미를 연결하는지 매체 차이를 대비하는지 전개 기능을 판정한다.",
+          "competitor_refutations": [
+            {
+              "code": 23,
+              "reason": "공통성은내용근거지만문항은그연결방식의설명을평가한다."
+            },
+            {
+              "code": 100,
+              "reason": "비유존재만으로글이매체차이를비교한다는④를정당화할수없다."
+            },
+            {
+              "code": 75,
+              "reason": "사진가와조각가가서로반박하는경쟁입장은아니다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G327",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AVO": [
+      {
+        "line": 4707,
+        "record_id": "AVO-independent_code-20260928-01",
+        "case": "AVO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            100,
+            69
+          ],
+          "auxiliary": [
+            64,
+            17
+          ],
+          "surface": [
+            2,
+            81
+          ],
+          "decisive_operation": "본문이 제공한 비의 하강/고독한 죽음 관계를 새의 하강/운명 수용에 대응한다.",
+          "competitor_refutations": [
+            {
+              "code": 79,
+              "reason": "미래를위해노력하라는당위는본문이주지않은⑤의덧붙임이다."
+            },
+            {
+              "code": 78,
+              "reason": "진로탐색·타인유대욕망을아무근거없이시에부여하면문맥을벗어난다."
+            },
+            {
+              "code": 2,
+              "reason": "죽음의필연성은내용이지만정답선택은두상징의관계대응이다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G327",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.",
+  "시각": "G326_visual02정자사진직접확인:석재기단·목조본체·기와지붕,연못쪽긴초석2개,창호. G327_visual01사진:전면나무·사람·뒤나무와젖은길.02조각:가늘고긴인물들사이간격과다른방향.모두기존제공이미지의사후재확인으로신규복원아님."
+}

@@ -1,0 +1,35 @@
+{
+  "added_groups_this_continuation": 150,
+  "added_scenes_this_continuation": 162,
+  "total_groups": 260,
+  "total_scenes": 335,
+  "pending_groups": 235,
+  "judge_candidates": 70,
+  "passage_candidates": 8,
+  "item_candidates": 7,
+  "unclassified_pending": 8,
+  "unclassified_reclassified": 8,
+  "last_group": "U0099",
+  "next_group": "U0373",
+  "next_operational_group": [
+    "G412"
+  ],
+  "next_cases": [
+    {
+      "case": "BFN",
+      "source": "data/기본기_연구/prepared_backlog/blind_sources/BFN.json"
+    },
+    {
+      "case": "BFO",
+      "source": "data/기본기_연구/prepared_backlog/blind_sources/BFO.json"
+    },
+    {
+      "case": "BFP",
+      "source": "data/기본기_연구/prepared_backlog/blind_sources/BFP.json"
+    }
+  ],
+  "new_blind_solutions": 0,
+  "other_models_called": false,
+  "git_push": false,
+  "semantic_validity_globally_completed": false
+}

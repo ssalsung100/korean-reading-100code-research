@@ -1,0 +1,157 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BRZ": [
+      {
+        "line": 7405,
+        "record_id": "BRZ-independent_code-20261005-01",
+        "case": "BRZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:33:39.950237+00:00",
+        "payload": {
+          "passage_group": "G524",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 16,
+              "reason": "가치의식/위협의식두축으로정의된네상태의내포를보존한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 23,
+              "reason": "②의동시요건을또는으로바꾼오류를판정한다."
+            },
+            {
+              "code": 25,
+              "reason": "2×2상태분류와총체화시변형명칭을대응한다."
+            },
+            {
+              "code": 39,
+              "reason": "③의개인/공중두경험차원을확인한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 90,
+              "reason": "조합표로표현할수있어도확률이나경우수계산은필요없다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 30,
+              "rejection": "②가합집합으로바꾸지만원문정의는교집합이다.합집합은잘못된선지의표상이지허용된정의아님."
+            },
+            {
+              "code": 11,
+              "rejection": "정의의필요충분표상은16과국소중첩한다.별개독립행동으로강제분리하지않는다."
+            },
+            {
+              "code": 80,
+              "rejection": "인식의유무가축이지만누가무엇을알게되는지과정추적보다정의조건대응이중심이다."
+            }
+          ],
+          "confidence": 0.96,
+          "scope_limit": "③직접확인은개인/공중차원재진술이고②④⑤구별에는정의조건분석이필요하다.문항전체와선택답범위를구분."
+        }
+      }
+    ],
+    "BSB": [
+      {
+        "line": 7419,
+        "record_id": "BSB-independent_code-20261005-01",
+        "case": "BSB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:37:22.464567+00:00",
+        "payload": {
+          "passage_group": "G525",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 46,
+              "reason": "동일한섭섭함의원인을친구의홀대에서제자도움으로바꾼선지를배제한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 78,
+              "reason": "도장방주인의흥정·반환동기를함께보존한다."
+            },
+            {
+              "code": 80,
+              "reason": "물건의가치를아는인물과모르는인물의정보차이를유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 88,
+              "reason": "흥정가격은있지만④결정은손익계산이아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "성격평가의새근거강도가아니라명시된감정원인의귀속대조다."
+            },
+            {
+              "code": 93,
+              "rejection": "선물의마음전달실패는배경이나④의직접오류는제자에게잘못원인을옮긴것이다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BSC": [
+      {
+        "line": 7420,
+        "record_id": "BSC-independent_code-20261005-01",
+        "case": "BSC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:37:35.972144+00:00",
+        "payload": {
+          "passage_group": "G525",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 78,
+              "reason": "스승작품을갈지못하는행동을존중이라는동기로설명하고자기기술자신감귀속을배제한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 97,
+              "reason": "㉢㉤의발화를서운함·위로라는맥락적의도로해석한다."
+            },
+            {
+              "code": 39,
+              "reason": "자기솜씨라면가능함과스승작품이라불가능함을비교한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 12,
+              "reason": "조건문형식은있지만가정의결과만산출하는문제가아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 86,
+              "rejection": "기술수준의높낮이를측정하거나서열화하는근거가없다."
+            },
+            {
+              "code": 65,
+              "rejection": "오독된자신감귀속이있어도그를논박하기위해왜곡한주장을공격하는논증은없다."
+            }
+          ],
+          "confidence": 0.95
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "BRZ의조건축은가치·위협의주관적인식이며실제가치의존재·위협의객관적유무와다르다. 소설인물의마음을낱말하나로정하지않고서술근거와행위맥락을함께사용한다."
+}

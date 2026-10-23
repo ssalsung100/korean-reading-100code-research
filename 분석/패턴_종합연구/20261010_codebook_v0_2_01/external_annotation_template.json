@@ -1,0 +1,34 @@
+{
+  "template_only": true,
+  "sample_split": "external",
+  "event_id": "후속작업에서_지정",
+  "case_id": "후속작업에서_지정",
+  "passage_id": "정본_동일성_확인후_지정",
+  "question_id": "후속작업에서_지정",
+  "exam_family": "other",
+  "source_status": "정본 미확보; 미검증",
+  "codebook_version": "0.2",
+  "freeze_manifest_sha256": "독립 검증 시작 때 기록",
+  "judgments_reused": [],
+  "initial_judgment_record": null,
+  "relations": [
+    {
+      "pattern_id": null,
+      "pattern_relation": ["unconfirmed"],
+      "decision": "unconfirmed",
+      "subtype_ids": [],
+      "choice_ids": [],
+      "basis": "자료와 최소 근거를 확보한 후 작성한다. 빈 템플릿은 적용 사례가 아니다.",
+      "new_evidence": {
+        "canonical_checked": false,
+        "minimum_evidence_met": false,
+        "references": [],
+        "reasoning": ""
+      },
+      "alternative_solution": null,
+      "counter_evidence": [],
+      "necessity_claim": "미확인"
+    }
+  ],
+  "revision_history": []
+}

@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BGM": [
+      {
+        "line": 6006,
+        "record_id": "BGM-independent_code-20261002-r3-01",
+        "case": "BGM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:51:47.145410+09:00",
+        "payload": {
+          "passage_group": "G421",
+          "general_task": "지역발전 개념의 연대기 사례 적용",
+          "decisive_relation": "제도·물리기반·사회적주체의 분류와 행위주체·시점을 결합",
+          "primary": [
+            15
+          ],
+          "auxiliary": [
+            17,
+            3,
+            37
+          ],
+          "surface": [
+            46,
+            93
+          ],
+          "code_rationale": {
+            "15": "법/통신망/산학연을정의의구성요건에대응",
+            "17": "정부지원과민간유치의행위주체유지",
+            "3": "1960최초구상/1980이후시행의시점분리"
+          },
+          "competing_codes": [
+            {
+              "code": 37,
+              "rebuttal": "일반작업은사례찾기지만실제결정에정의상분류기준이필요."
+            },
+            {
+              "code": 46,
+              "rebuttal": "지원효과는기재된사실로주어지고새인과기제를복원하지않음."
+            },
+            {
+              "code": 93,
+              "rebuttal": "통신망소재와참여자연계가있어도메시지전달의부호화/수신이문항핵심은아님."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BGO": [
+      {
+        "line": 6017,
+        "record_id": "BGO-independent_code-20261002-r3-01",
+        "case": "BGO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:54:18.212470+09:00",
+        "payload": {
+          "passage_group": "G422",
+          "general_task": "두 이론의 유효범위 내용확인",
+          "decisive_relation": "속도가 낮다는 조건에서 계산값의 근사적 일치를 적용",
+          "primary": [
+            12
+          ],
+          "auxiliary": [
+            86,
+            17
+          ],
+          "surface": [
+            92,
+            46
+          ],
+          "code_rationale": {
+            "12": "저속조건이면두예측이실용적으로일치",
+            "86": "거의차이없음의양적비교",
+            "17": "수식자체의동일함과예측값근사를구별"
+          },
+          "competing_codes": [
+            {
+              "code": 92,
+              "rebuttal": "실제속도공식을계산하지않고본문조건에적용."
+            },
+            {
+              "code": 11,
+              "rebuttal": "저속일때근사유효라는방향이지그때에만동일하다는필충은주어지지않음."
+            },
+            {
+              "code": 46,
+              "rebuttal": "상대론적효과의인과기제를복원하는문제가아님."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BGQ": [
+      {
+        "line": 6019,
+        "record_id": "BGQ-independent_code-20261002-r3-01",
+        "case": "BGQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:54:18.450681+09:00",
+        "payload": {
+          "passage_group": "G422",
+          "general_task": "이론간 관계의 사례 대응",
+          "decisive_relation": "제한조건 아래 유효한 옛이론의 포섭을 접경적 상보와 구별",
+          "primary": [
+            69
+          ],
+          "auxiliary": [
+            12,
+            39
+          ],
+          "surface": [
+            19,
+            40
+          ],
+          "code_rationale": {
+            "69": "상대론/고전의관계구조를뉴턴/갈릴레오에대응",
+            "12": "작은낙하구간이라는유효조건",
+            "39": "포함관계와별도영역접경관계를비교"
+          },
+          "competing_codes": [
+            {
+              "code": 37,
+              "rebuttal": "관계형사례찾기로도표현가능.같은행동의상위과제라배타경계안만듦."
+            },
+            {
+              "code": 19,
+              "rebuttal": "공백을다른영역이보완하는②보다한이론이다른이론의유효영역을포섭하는①이맞음."
+            },
+            {
+              "code": 40,
+              "rebuttal": "옛법칙의영역이부분이기는하나핵심은두관계형의구조대응이지구성요소열거가아님."
+            }
+          ],
+          "confidence": 0.98,
+          "sdss_disclosed": false,
+          "unresolved": "수식전사누락한계는문장근거의범위로유지."
+        }
+      }
+    ]
+  },
+  "BGO": "동일문항BASIC-C04-LEET-2011-odd-Q15의code_reviews_01.jsonl10행을직접읽고별도연결. 고유문항1회계수.",
+  "BGQ": "공식2011홀수형7쪽17번에서s=(1/2)gt²와s,t,g·③g를직접확인. 문장근거의포섭판단과수식복원후사후확인을구별.",
+  "BGM": "G421_visual01.md의연도·주체·활동전체직접확인."
+}

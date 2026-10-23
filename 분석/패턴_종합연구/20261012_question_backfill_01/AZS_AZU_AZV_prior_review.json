@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AZS": [
+      {
+        "line": 5200,
+        "record_id": "AZS-independent_code-20260928-01",
+        "case": "AZS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:21:10.623912+09:00",
+        "payload": {
+          "passage_group": "G362",
+          "primary": [
+            59,
+            15
+          ],
+          "auxiliary": [
+            10,
+            75,
+            43
+          ],
+          "surface": [
+            80,
+            79
+          ],
+          "decisive_operation": "편견·무지 없는 이상적 선택자를 기준으로 세워 임의욕구도선이되는 문제를 해결한다.",
+          "competing_codes": [
+            {
+              "code": 43,
+              "rejection": "편견/무지를배제하는조건은있지만실험의인과식별작업은아님."
+            },
+            {
+              "code": 10,
+              "rejection": "욕구주체필요성은기존공유조건이지이번가정이새로부정하는대상이아니다."
+            },
+            {
+              "code": 75,
+              "rejection": "⑤입장오귀속배제에필요하지만④직접선택은문제와해결기준대응."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.92,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZU": [
+      {
+        "line": 5212,
+        "record_id": "AZU-independent_code-20260928-01",
+        "case": "AZU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:23:25.328406+09:00",
+        "payload": {
+          "passage_group": "G363",
+          "primary": [
+            46,
+            12
+          ],
+          "auxiliary": [
+            49,
+            86,
+            43
+          ],
+          "surface": [
+            54,
+            45
+          ],
+          "decisive_operation": "척색의 제거·이동·Shh농도 변화가 전사인자와 분화에 미치는 순차경로를 역치 조건에 적용한다.",
+          "competing_codes": [
+            {
+              "code": 49,
+              "rejection": "거리-농도방향은한단계이며분화세포선택에는역치조건12가추가필요."
+            },
+            {
+              "code": 43,
+              "rejection": "실험에서다른외부공급이없다는제시모형조건을유지하나인과효과추정설계평가는아님."
+            },
+            {
+              "code": 86,
+              "rejection": "운동/사이신경역치순서비교는ㄹ보조.수치크기계산불필요."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZV": [
+      {
+        "line": 5213,
+        "record_id": "AZV-independent_code-20260928-01",
+        "case": "AZV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:23:25.429419+09:00",
+        "payload": {
+          "passage_group": "G363",
+          "primary": [
+            46,
+            10
+          ],
+          "auxiliary": [
+            12,
+            49,
+            43
+          ],
+          "surface": [
+            74,
+            54
+          ],
+          "decisive_operation": "관찰된 앞쪽전달을 구현할 매개체의 선행존재를 복구하고 수용체 비대칭분포가 농도구배의 결과라는①의 방향역전을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 74,
+              "rejection": "대안가설두개가제시되지만어느쪽이더옳은지증거로선택하는문항은아니다."
+            },
+            {
+              "code": 43,
+              "rejection": "④는거리만고정해도방향이달라다른농도라는통제불충분검사."
+            },
+            {
+              "code": 49,
+              "rejection": "소낭일부전달로거리증가시양감소하는③배제보조."
+            },
+            {
+              "code": 10,
+              "rejection": "⑤의매개전달기능발현을필요근거로복구하되수용체와소낭둘다동시필수로강화하지않음."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "G363_visual": "G363_visual01~03.jpg 세 그림과visual04.md의ㄱ~ㄹ전체직접확인. 그림1은척색근처바닥판,멀수록신경/운동/사이/지붕판. 그림2-1은합성점앞쪽에만Wg,2-2는단순확산의대칭예상. 실제농도수치는추정하지않음."
+}

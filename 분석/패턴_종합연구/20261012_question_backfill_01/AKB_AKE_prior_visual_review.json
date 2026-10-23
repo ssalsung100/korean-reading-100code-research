@@ -1,0 +1,119 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AKB": [
+      {
+        "line": 3356,
+        "record_id": "AKB-independent_code-20260926-01",
+        "case": "AKB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T12:21:02.001216+00:00",
+        "payload": {
+          "primary": [
+            17
+          ],
+          "primary_candidates": [
+            17,
+            62
+          ],
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            1,
+            62
+          ],
+          "surface": [
+            75
+          ],
+          "judgment_reason": "파시즘과 계급 사이의 상대적 독립 관계를 계급들 사이의 대립 없음으로 바꾼①은 관계의 두 항과 부정 대상을 바꾼다. 대립은 제3세력 등장의 전제로 남아 있으므로 대상 관계 귀속17을 작업 대표로 둔다.",
+          "competing_codes": [
+            {
+              "code": 62,
+              "verdict": "보조·주 후보",
+              "reason": "계급에 종속되지 않는다는 관계의 부정과 계급 대립 부정이 다름을 읽는다.17과 같은 오류 위치를 두 수준에서 기술하므로 유일 주 미확정."
+            },
+            {
+              "code": 1,
+              "verdict": "보조",
+              "reason": "대립 있음/없음의 반전이 최종 판정에 나타난다. 무엇의 대립인지 명시하지 않은 유무 분석만으로는 상대적 자유와의 혼동 설명이 부족."
+            },
+            {
+              "code": 75,
+              "verdict": "표면",
+              "reason": "여러 마르크스주의 해석의 경쟁은 본문 배경. 누가 우월한지를 평가하지 않아 주 코드로 삼지 않음."
+            },
+            {
+              "code": 4,
+              "verdict": "주 기각",
+              "reason": "①의 일부 해석이라는 양화가 틀린 것이 아니라 그 일부 해석에 부여한 부인 내용이 틀림."
+            }
+          ],
+          "minimal_change_test": "①의 계급 간 대립을 부인한다를 어느 한 계급의 절대 우위를 부인한다로 바꾸면 제3세력 해석과 양립한다. 대립 유무와 우위 유무는 다른 술어.",
+          "confidence": 0.93,
+          "passage_group": "G226",
+          "sdss_seen": false,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AKE": [
+      {
+        "line": 3370,
+        "record_id": "AKE-independent_code-20260926-01",
+        "case": "AKE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T12:25:50.299674+00:00",
+        "payload": {
+          "primary": [
+            10
+          ],
+          "auxiliary": [
+            17
+          ],
+          "surface": [
+            3,
+            96
+          ],
+          "judgment_reason": "계층법은 사전 개수 지정이라는 선행 요건 없이 수행 가능하다는 직접 설명을④가 보존한다. 필요 요건의 부재를 읽는10을 작업 대표로 기록하되 직접 재진술96과 독립 연산으로 중복 계수하지 않는다.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "보조",
+              "reason": "개수 사전 지정은 분할법의 요건이고 계층법에는 요구되지 않음을 기법별로 귀속."
+            },
+            {
+              "code": 3,
+              "verdict": "표면",
+              "reason": "미리라는 시간 표현이 있으나 개수 결정 시점의 순서 추론보다 사전 결정 필요 여부가 핵심."
+            },
+            {
+              "code": 96,
+              "verdict": "재진술 후보",
+              "reason": "본문 문장을 직접 보존하는 읽기다.10과 별도 연산으로 셈하지 않으며 유일 주에 대한 일반 기준은 아직 부족."
+            },
+            {
+              "code": 9,
+              "verdict": "⑤·도식 보조",
+              "reason": "수평선 높이와 추상화 수준은⑤ 오답 판정에 쓰이며④ 직접 확인의 주가 아님."
+            }
+          ],
+          "minimal_change_test": "④를 개수를 미리 정해야 한다로 바꾸면 요건의 긍정/부정이 달라져 오답.미리라는 말만 바꾸는 선후 문제로 축소하지 않는다.",
+          "confidence": 0.9,
+          "passage_group": "G227",
+          "sdss_seen": false,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "AKE_visual": {
+    "image": "data/기본기_연구/prepared_backlog/blind_sources/G227_figure2.png",
+    "method": "주 에이전트 직접 판독",
+    "observations": [
+      "계통도의 잎은 아래에 2,5,1,4,3,6 순서이다.",
+      "아래쪽 수평선은 작은 부분 집단들을, 중간선은 더 큰 묶음들을, 최상단 수평선은 전체를 하나로 묶은 수준을 나타낸다.",
+      "수평선 하강은 기존 결합을 풀어 더 세분한 집단을 보게 한다. 정확 거리 수치나 계통도 높이의 물리 단위는 제시되지 않았다."
+    ]
+  }
+}

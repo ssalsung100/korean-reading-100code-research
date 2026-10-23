@@ -1,0 +1,13 @@
+{
+  "batch": 10,
+  "groups": 40,
+  "scenes": 40,
+  "evidence_links_checked": 40,
+  "source_hash_changed": 0,
+  "raw_payload_changed": 0,
+  "duplicate_event_ids": 0,
+  "hold_extraction": 0,
+  "full_input_hash_scan_performed": false,
+  "semantic_validation_completed": false,
+  "meaning": "저장·근거 연결 검사만 통과. 의미 판정은 실제 장면·경계 주석을 따른다."
+}

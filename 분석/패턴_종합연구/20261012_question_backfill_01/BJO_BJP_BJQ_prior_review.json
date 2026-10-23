@@ -1,0 +1,199 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BJO": [
+      {
+        "line": 6369,
+        "record_id": "BJO-independent_code-20261003-01",
+        "case": "BJO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:57:41.131809+00:00",
+        "payload": {
+          "passage_group": "G448",
+          "sdss_seen": false,
+          "general_task": "존재세계가더낫다는평가의가치비교근거선택",
+          "decisive_relation": "큰쾌락이작은고통을상쇄하고넘을수있다는비교가능성",
+          "primary": {
+            "code": 88,
+            "scope": "②",
+            "reason": "서로다른양의좋음과나쁨을종합했을때을의존재삶이더유리할수있다는근거를고른다."
+          },
+          "auxiliary": [
+            {
+              "code": 60,
+              "reason": "을에게세계1이더좋다는결론을정당화할전제선별."
+            },
+            {
+              "code": 62,
+              "scope": "①③④⑤",
+              "reason": "각선지의평가방향이보기의결론을지지하는지검사."
+            },
+            {
+              "code": 2,
+              "scope": "②",
+              "reason": "쾌락이고통을능가할수있다는가능성이지모든사람의삶이무조건더좋다는주장은아님."
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "엄청난·약간이라는정성크기가주어지나정확한효용수치를계산하지않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 86,
+              "verdict": "강한보조중첩",
+              "refutation": "크기대소가필요하지만여기서는단순두수비교가아니라상쇄가능한좋음·나쁨의종합평가라는기능이중심."
+            },
+            {
+              "code": 63,
+              "verdict": "전체논박보조",
+              "refutation": "베나타를약화하는반론이지만문항직접과제는제시된반론의근거를고르는것이다."
+            },
+            {
+              "code": 54,
+              "verdict": "기각",
+              "refutation": "정성적인많은쾌락만으로모든출산정당성이충분결정된다는일반명제를도출하지않는다."
+            }
+          ],
+          "counterfactual": "어떤작은고통도아무리큰쾌락보다우선한다고고정하면을의존재세계우위근거가성립하지않는다.②는그비교불가능성/절대우위를거부하는역할이다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BJP": [
+      {
+        "line": 6384,
+        "record_id": "BJP-independent_code-20261003-01",
+        "case": "BJP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T18:04:32.780402+00:00",
+        "payload": {
+          "passage_group": "G449",
+          "sdss_seen": false,
+          "general_task": "이론비판이해결하려는설명문제복원",
+          "decisive_relation": "외부구매만예측하는생산비용모형이기업내부조달의존재를설명하지못함",
+          "primary": {
+            "code": 59,
+            "scope": "④",
+            "reason": "기존이론의설명공백과거래비용이라는보완설명을연결해핵심문제를고른다."
+          },
+          "auxiliary": [
+            {
+              "code": 56,
+              "reason": "설명대상은왜활동이기업안/밖에나뉘는가이다."
+            },
+            {
+              "code": 42,
+              "scope": "④",
+              "reason": "기업경계내권위조정과밖시장조정을구분."
+            },
+            {
+              "code": 75,
+              "reason": "신고전파·코즈의문제설정차이를귀속."
+            }
+          ],
+          "surface": [
+            {
+              "code": 88,
+              "reason": "생산비용과거래비용비교가배경이나수량의최적해를계산하는발문은아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 19,
+              "verdict": "강한보조중첩",
+              "refutation": "설명부족을거래비용으로보완하는관계와겹친다.59와전역배타경계를강제하지않는다."
+            },
+            {
+              "code": 78,
+              "verdict": "보조",
+              "refutation": "기업의선택이유를묻지만주어진개인의욕구만추정하는것보다이론이해결하는설명대상을복원한다."
+            },
+            {
+              "code": 63,
+              "verdict": "배경",
+              "refutation": "비판행위가있지만새자료의강약을평가하는것은아니다."
+            }
+          ],
+          "counterfactual": "본문이주로종업원의이익불일치와위임문제를비판했다면③이핵심의문이될수있다.현재비판은생산비용만으로는기업존재가설명되지않는다는점에집중한다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BJQ": [
+      {
+        "line": 6385,
+        "record_id": "BJQ-independent_code-20261003-01",
+        "case": "BJQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T18:05:08.094615+00:00",
+        "payload": {
+          "passage_group": "G449",
+          "sdss_seen": false,
+          "general_task": "거래비용정의와완화수단관계확인",
+          "decisive_relation": "계약안전장치가거래이행의어려움을완화할수있음",
+          "primary": {
+            "code": 59,
+            "scope": "③",
+            "reason": "거래의어려움을계약제도로줄이는문제-대응관계이다."
+          },
+          "auxiliary": [
+            {
+              "code": 16,
+              "scope": "④",
+              "reason": "거래비용은시장거래어려움이라는정의범위를보존."
+            },
+            {
+              "code": 17,
+              "scope": "②④",
+              "reason": "현물/계약거래와기업내부조직비용을구분."
+            },
+            {
+              "code": 2,
+              "scope": "③",
+              "reason": "줄일수있다는완화가능성을완전제거로강화하지않음."
+            },
+            {
+              "code": 49,
+              "scope": "⑤",
+              "reason": "불확실성감소의비용완화방향을거꾸로읽지않음."
+            }
+          ],
+          "surface": [
+            {
+              "code": 91,
+              "scope": "①",
+              "reason": "거래량과반비례라는수리관계는근거없음."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 19,
+              "verdict": "국소중첩",
+              "refutation": "불완전계약의빈틈을장치로보완한다는표현과겹치나모든비용을보충으로만환원하지않는다."
+            },
+            {
+              "code": 50,
+              "verdict": "보조가능",
+              "refutation": "기회주의경로를차단하는효과는가능하지만거래비용에는탐색·협상등다른요소도있다."
+            },
+            {
+              "code": 54,
+              "verdict": "기각",
+              "refutation": "계약제도발전이모든이행문제를완전히해결한다는보장은없다."
+            }
+          ],
+          "counterfactual": "시간차없는현물거래에서도상대방탐색이나가격흥정이어려울수있다.계약특수불확실성의부재를거래비용전체0으로확대할수없다.",
+          "confidence": 0.98
+        }
+      }
+    ]
+  },
+  "자료": "G448_visual02 전체 확인. G449 말미 윌리엄슨의 기업 이론 누락은 기존 BJR_source_restoration.md 승계.",
+  "한계": "가치 비교에 임의 수치를 넣지 않음. 계약 안전장치는 일부 어려움 완화 가능성이며 비용 전체의 엄격 감소·소멸 보장 아님."
+}

@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "APO": [
+      {
+        "line": 4003,
+        "record_id": "APO-independent_code-20260927-01",
+        "case": "APO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:32:15.938104+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 2,
+              "reason": "제약가능한자유를절대적자유로강화"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 18,
+              "reason": "절대적자유와공익상제한허용을동일기준에서묶은충돌"
+            },
+            {
+              "code": 75,
+              "reason": "세견해의논거귀속유지"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "법적당위소재가있어도현재법의위헌성판정아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 24,
+              "refutation": "절대자유에예외가있다고원문에없는원칙/예외를만들면왜곡"
+            },
+            {
+              "code": 63,
+              "refutation": "주장의강약을독자가평가하는것보다정확한요약여부검사"
+            },
+            {
+              "code": 17,
+              "refutation": "논거의견해귀속으로중첩하나③은다른견해를가져온것보다강도를변형"
+            }
+          ],
+          "counterfactual_probe": "③절대적자유이지만을공중도덕등의구속을받으므로로고치면합헌론과일치.",
+          "confidence": 0.97,
+          "passage_group": "G275",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APP": [
+      {
+        "line": 4014,
+        "record_id": "APP-independent_code-20260927-01",
+        "case": "APP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:35:52.835640+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 64,
+              "reason": "행위의비집착과속박해소논의를인식론적기준전면부정으로확대하지않음"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 2,
+              "reason": "기준을세울수없다는불가능성강도추가"
+            },
+            {
+              "code": 16,
+              "reason": "속박과자유의문맥뜻복원"
+            }
+          ],
+          "surface": [
+            {
+              "code": 80,
+              "reason": "판단기준은④에등장하지만본문전체문제가객관성불가능론은아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 77,
+              "refutation": "변화사례에서전칭상대주의를일반화하는것은선지의추가이지원문이수행한논증아님"
+            },
+            {
+              "code": 75,
+              "refutation": "다른사상가와입장대조없음"
+            },
+            {
+              "code": 5,
+              "refutation": "세계가변화한다는것만으로판단기준불가능을도출할수없음"
+            }
+          ],
+          "counterfactual_probe": "④를고정된쓸모기준만으로안전을보장받지못한다로좁히면나무/거위사례와맞음.모든객관기준부정으로확대하면별도근거필요.",
+          "confidence": 0.96,
+          "passage_group": "G276",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APQ": [
+      {
+        "line": 4015,
+        "record_id": "APQ-independent_code-20260927-01",
+        "case": "APQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:35:52.836283+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 37,
+              "reason": "외물에집착하지않는응대의취지를진술사례에적용"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 5,
+              "reason": "때로위아래·조건에따라변화"
+            },
+            {
+              "code": 80,
+              "reason": "생사·대상을바라보는비집착태도"
+            },
+            {
+              "code": 16,
+              "reason": "고정기준회피와무조건겸양을구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "scope": "ㄴㅁ",
+              "reason": "물·거울비유는있지만그기능적뜻을적용해야함"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 8,
+              "refutation": "아래위중항상아래를우선하는처세서열이아님"
+            },
+            {
+              "code": 79,
+              "refutation": "예를좋아한다는일반덕목과본문의비속박취지를동일시하지않음"
+            },
+            {
+              "code": 69,
+              "refutation": "물/거울의구조유사성은보조이나새결론의유비논증보다주어진취지에맞는지판정"
+            }
+          ],
+          "counterfactual_probe": "ㄷ아래에처함을때에따라위아래를가리지않고조화로수정하면부합.ㄱ은틀린덕목이라는평가가아니라해당취지의직접근거부족.",
+          "confidence": 0.95,
+          "passage_group": "G276",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "APO는견해의정확한요약이며현행위헌판정이아님.APP/APQ는본문의비집착적응대에한정하고장자전체사상의객관성부정이나윤리규칙을외부에서보충하지않음.",
+  "APQ_표현": "ㄷ에항상이라는단어가직접있다고하지않는다.아래에처하는방식을대처원칙으로택한진술과본문의때에따른상하변화를대조한다.ㄱ의예를좋아함자체가잘못된덕목이라는평가아님."
+}

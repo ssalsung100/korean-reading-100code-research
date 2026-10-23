@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "ALK": [
+      {
+        "line": 3515,
+        "record_id": "ALK-independent_code-20260927-01",
+        "case": "ALK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:09:36.224976+00:00",
+        "payload": {
+          "primary": [
+            40
+          ],
+          "primary_candidates": [
+            40,
+            16
+          ],
+          "working_primary": 40,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            75
+          ],
+          "surface": [
+            42
+          ],
+          "judgment_reason": "⑤는 법정립의 작동 안에 자기보존 반복이 내재한다는 구성 관계를 재진술한다.장소 안팎이 아니라 두 폭력 개념의 기능적 포함이다.",
+          "competing_codes": [
+            {
+              "code": 16,
+              "verdict": "공동 후보",
+              "reason": "데리다의 정립 개념 자체에 반복 보존이 포함된다는 개념 분석으로도 같은 판단."
+            },
+            {
+              "code": 12,
+              "verdict": "주 보류",
+              "reason": "정립이면 보존 요구가 있다는 함의 표현 가능하나 두 사건 집합의 포함과 기능 구성의 내재성을 동일시하지 않는다."
+            },
+            {
+              "code": 42,
+              "verdict": "표면",
+              "reason": "내재라는 말만으로 공간 경계 판정으로 만들지 않음."
+            }
+          ],
+          "minimal_change_test": "⑤의 포함되어를 완전히 별개로 존재로 바꾸면 오류.정립적 폭력의 모든 개별 사례가 보존적 폭력 집합의 원소라는 별도 명제를 추가하지 않는다.",
+          "confidence": 0.94,
+          "passage_group": "G238",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "ALM": [
+      {
+        "line": 3517,
+        "record_id": "ALM-independent_code-20260927-01",
+        "case": "ALM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:09:36.226481+00:00",
+        "payload": {
+          "primary": [
+            75
+          ],
+          "primary_candidates": [
+            75,
+            39
+          ],
+          "working_primary": 75,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            16
+          ],
+          "surface": [
+            79,
+            3
+          ],
+          "judgment_reason": "B의 순환 단절을 위한 신적 폭력 지지와 벤야민의 지지를 같은 주장으로 대응시킨다.데리다의 구분 비판과 섞지 않는다.",
+          "competing_codes": [
+            {
+              "code": 39,
+              "verdict": "공동 후보",
+              "reason": "보기 주장과 기존 입장의 공통점을 비교하는 행동으로75와 중첩."
+            },
+            {
+              "code": 79,
+              "verdict": "소재",
+              "reason": "지지해야 한다는 규범 주장은 비교되는 내용이지만 새로운 당위 도출 자체가 과제는 아님."
+            },
+            {
+              "code": 3,
+              "verdict": "②오답",
+              "reason": "법언어행위 이후의 구별을 처음부터라고 바꾸는② 배제에 필요하나③직접판정은입장일치."
+            }
+          ],
+          "minimal_change_test": "③의 벤야민을 데리다로 바꾸면 구분과 지지의 유보 때문에 틀림.지지라는 평가 태도를 단순 언급으로 약화하면 원문의 대립을 놓침.",
+          "confidence": 0.97,
+          "passage_group": "G238",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "AMZ": [
+      {
+        "line": 3699,
+        "record_id": "AMZ-independent_code-20260927-01",
+        "case": "AMZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T01:59:55.380082+00:00",
+        "payload": {
+          "passage_group": "G252",
+          "primary": [
+            {
+              "code": 15,
+              "reason": "형식과 내용 중 어느 조건이 구속력·소권 판단의 기준인지 확인"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 10,
+              "scope": "②",
+              "reason": "형식 없는 합의만으로 불충분하므로 추가 요건을 복원"
+            },
+            {
+              "code": 23,
+              "scope": "⑤",
+              "reason": "판단 기준의 내용 차이와 기준 제공이라는 공통 기능을 구분"
+            },
+            {
+              "code": 3,
+              "scope": "③",
+              "reason": "19세기에도 준수 원칙이 유지되는지 시기 연결"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "규범 명제이나 당위 여부 자체가 오류 축은 아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 17,
+              "refutation": "내용/형식 속성의 귀속 교환으로 기술 가능하지만 단순 대상 이름 교환을 넘어 법적 판단에 투입되는 조건이 바뀐다. 15와 국소 중첩 가능성 유지"
+            },
+            {
+              "code": 21,
+              "refutation": "원문은 개념의 완전 정의가 아니라 소권 성립의 부족 조건을 말하므로 필요충분 정의로 강화 불가"
+            },
+            {
+              "code": 12,
+              "refutation": "②의 함축 방향 해석에는 유효하나 정답①을 가르는 중심은 어느 조건을 썼는지이며 조건문 일반만으로는 부족"
+            },
+            {
+              "code": 75,
+              "refutation": "견해 대립을 외워도 ⑤의 기능상 공통점을 배제하면 실패. 대립 자체가 아니라 각 기준의 역할을 유지해야 함"
+            }
+          ],
+          "counterfactual_probe": "①의 내용을 형식으로 바꾸면 ㉠의 원칙에 가까워지며 ⑤는 그대로 참이다. 단 형식만 갖추면 어떤 합의든 소권 성립한다고 추가하면 본문 이상의 충분성 강화다.",
+          "boundary_status": "15/17의 국소 중첩 및 15를 필요충분조건과 일괄 동일시할 수 없는 점 보존",
+          "confidence": 0.93,
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

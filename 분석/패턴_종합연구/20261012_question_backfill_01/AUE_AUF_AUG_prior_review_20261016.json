@@ -1,0 +1,137 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AUE": [
+      {
+        "line": 4545,
+        "record_id": "AUE-independent_code-20260928-01",
+        "case": "AUE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            10
+          ],
+          "auxiliary": [
+            63,
+            23,
+            2,
+            83
+          ],
+          "surface": [
+            77,
+            79
+          ],
+          "decisive_operation": "사실 차이의 실제 존재와 도덕적 관련성이라는 두 요구를 각각 확인하도록 대응한다. 가능성 인정과 무조건 정당화를 구별한다.",
+          "competitor_refutations": [
+            {
+              "code": 83,
+              "reason": "사실/가치 구분만으로 전면 단절을 선언한③이 틀린다. 구분은 필요하나 연결 조건 검증이 결정 연산이다."
+            },
+            {
+              "code": 77,
+              "reason": "여러 사례에서 일반 결론을 귀납하는 것이 아니라 주어진 정당화의 두 요건을 검사한다."
+            },
+            {
+              "code": 73,
+              "reason": "사실 전제를 즉시 거짓이라고 부정하지 않고 검증을 요구한다."
+            },
+            {
+              "code": 63,
+              "reason": "주장의 정당화 검토라는 전체 과제이나 구체 작업은 두 요건 확인이므로 보조로 둔다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G315",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUF": [
+      {
+        "line": 4556,
+        "record_id": "AUF-independent_code-20260928-01",
+        "case": "AUF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            17,
+            39
+          ],
+          "auxiliary": [
+            44,
+            46
+          ],
+          "surface": [
+            3,
+            25
+          ],
+          "decisive_operation": "종병/화원/문인의 목적·활동과 감상/창작을 같은 비교 축으로 나누어 진술 귀속을 확인한다.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "등장 시기는 이론 계승의 충분 근거가 아니며①은 본문에 없는 계보를 부가한다."
+            },
+            {
+              "code": 25,
+              "reason": "화원/문인 분류는 재료이나 정답은 종병의 활동과 목표 대응이다."
+            },
+            {
+              "code": 79,
+              "reason": "종교 구원·충효라는 규범 소재만으로 규범 적용 문항이 되지 않는다."
+            }
+          ],
+          "confidence": 0.95,
+          "passage_group": "G316",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUG": [
+      {
+        "line": 4557,
+        "record_id": "AUG-independent_code-20260928-01",
+        "case": "AUG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            10,
+            100,
+            79
+          ],
+          "surface": [
+            19,
+            69
+          ],
+          "decisive_operation": "경물에 지조·충절 같은 사회 가치를 투영했다는 관계가③에 있는지 확인한다.",
+          "competitor_refutations": [
+            {
+              "code": 100,
+              "reason": "여러 선지 모두 비유가 있어 비유 존재만으로 답을 구별하지 못한다. 사회 가치 투영이라는 선택 요건이 추가된다."
+            },
+            {
+              "code": 19,
+              "reason": "사회 자아를 보완한다는㉠의 배경은 있으나 실제 선택은 구체 표현의 요건 확인이다."
+            },
+            {
+              "code": 69,
+              "reason": "두 현상에서 새 결론을 옮기는 추론이 아니라 주어진 관점의 사례 판정이다."
+            }
+          ],
+          "confidence": 0.94,
+          "passage_group": "G316",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정직접확인.검증가능성/검증완료와상황적배경/직접선택요건을구별."
+}

@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AXU": [
+      {
+        "line": 4971,
+        "record_id": "AXU-independent_code-20260928-01",
+        "case": "AXU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G346",
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            15,
+            13
+          ],
+          "surface": [
+            79,
+            3
+          ],
+          "decisive_operation": "글쓴이가 승인한 이질성 공존과 비판한 보편적 환원 원리를 분리하여 ㄱㄴ은 전자,ㄷ은 후자로 귀속한다.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rejection": "지금 같이 존재라는 동시성 자체보다 이질적 시간의 환원 가능성에 대한 입장이 결정적."
+            },
+            {
+              "code": 4,
+              "rejection": "모두/일부 범위 계산을 요구하지 않는다."
+            },
+            {
+              "code": 63,
+              "rejection": "새 증거로 주장을 평가하지 않고 기존 주장의 정확한 재진술을 확인한다."
+            },
+            {
+              "code": 9,
+              "rejection": "서열화 비판은 배경이나 ㄷ의 오류는 보편척도로 치환하는 원리 재도입이다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.89,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AXV": [
+      {
+        "line": 4998,
+        "record_id": "AXV-independent_code-20260928-01",
+        "case": "AXV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:39:58.064230+09:00",
+        "payload": {
+          "passage_group": "G347",
+          "primary": [
+            75,
+            15
+          ],
+          "auxiliary": [
+            12,
+            59
+          ],
+          "surface": [
+            79
+          ],
+          "decisive_operation": "내심과 표시가 불일치한 경우 무엇을 법적 효과의 기준으로 삼는지를 주체별로 고정한다. 내심 우선이면 잘못된 표시 자체에 구속되지 않으므로 표시 일치의 법적 부담을 의사주의에 붙인②를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 13,
+              "rejection": "②와 내심 우선은 긴장하나 단순 명시모순보다 불일치 시 채택기준에 따른 부담 귀속이 필요."
+            },
+            {
+              "code": 59,
+              "rejection": "④는 표시주의 등장 문제/해결 구조이므로 보조. 정답②의 결정은 관점별 기준귀속."
+            },
+            {
+              "code": 2,
+              "rejection": "부담을 규범적 필요성으로 읽을 수 있으나 가능/필연 강도 교체가 주된 오류는 아니다."
+            },
+            {
+              "code": 80,
+              "rejection": "내심이라는 인식소재보다 법적 효과 기준의 경쟁이 직접 판정근거."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AXX": [
+      {
+        "line": 5000,
+        "record_id": "AXX-independent_code-20260928-01",
+        "case": "AXX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:39:58.298042+09:00",
+        "payload": {
+          "passage_group": "G347",
+          "primary": [
+            75,
+            15
+          ],
+          "auxiliary": [
+            12,
+            64
+          ],
+          "surface": [
+            84,
+            79
+          ],
+          "decisive_operation": "A·D의 내심,B·C의 표시,E의 당사자 동의 절대화를 각각 판정기준에 대응시킨다. E의 법 규정 유무와 무관함은 법 승인 기반의 급진적 관점을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 84,
+              "rejection": "평/m²의 다른 단가는 의사-표시 불일치의 재료일 뿐3.3배를 계산하지 않아도 모든 선지 귀속 가능."
+            },
+            {
+              "code": 10,
+              "rejection": "법적 승인과 책임의 관계는 쓰지만 여러 필요조건 완비를 검사하는 문제는 아니다."
+            },
+            {
+              "code": 64,
+              "rejection": "E가 법규의 고려를 배제한 점은 유효 보조이나 경쟁관점별 기준 대응과 국소적으로 겹침."
+            },
+            {
+              "code": 44,
+              "rejection": "갑을의 목표 실현 수단을 설계하는 문제가 아니라 표시/내심/법의 기준 차이를 판정한다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.94,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "views": "G346_visual02.md와G347_visual02.md 전체 직접 열람. G347_emphasis_restored.md의 기존 강조구 복원·출처도 확인. 실제 계약법 자문 아닌 제시문 내부 경쟁 관점 분석."
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/pattern_cards.md",
+    "sha256": "808c967963fae3b8a282c8e659f4f3618a0ce84134035a481f0c28a1f5baedef",
+    "use": "표본 manifest는 식별·분할 메타데이터만, 나머지는 발견용 분석"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/pilot_events.jsonl",
+    "sha256": "5b7e23578f1a2f4ddb6ae6c543ee1ab6145ca2b413e5895990436b36e95feb46",
+    "use": "표본 manifest는 식별·분할 메타데이터만, 나머지는 발견용 분석"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/pilot_counts.json",
+    "sha256": "23a7e295acdcdb0566eb6ef734be4d3b46c0ea9226647275c7e360bb1be8dc50",
+    "use": "표본 manifest는 식별·분할 메타데이터만, 나머지는 발견용 분석"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/sample_manifest.json",
+    "sha256": "569a08db645c9236d9ef4ce54b4a34b86c5aee1a5fc5d91f5894ddba4bfccac5",
+    "use": "표본 manifest는 식별·분할 메타데이터만, 나머지는 발견용 분석"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/README.md",
+    "sha256": "4ffee87a5f8a1b00365e20030022d6ecd4eb5f1680e67824105c31e0e0539489",
+    "use": "발견용 분석·정정·활용 명세 재사용"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/01_수정_판정장면과_변경기록.md",
+    "sha256": "8bcc0987ee9cb362c4aab08fc3e84562e50057a39b7096ce3c7ab5a3c474b1af",
+    "use": "발견용 분석·정정·활용 명세 재사용"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/02_패턴별_활용_매트릭스.md",
+    "sha256": "493e4452ab42ebcff081bda61d5d6922ada05602a6cd65cb5986b6e886aef46f",
+    "use": "발견용 분석·정정·활용 명세 재사용"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/03_대표와_경계_사례.md",
+    "sha256": "f09a894207064389286f26e02efc7355507f4abe42669c479cbfd23ebf75d544",
+    "use": "발견용 분석·정정·활용 명세 재사용"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/revised_events.jsonl",
+    "sha256": "eb2731fac8f8504bb81630171af9481c74eabfd98fb2ab74905fba6d3d1f6a37",
+    "use": "발견용 분석·정정·활용 명세 재사용"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/citation_audit.jsonl",
+    "sha256": "34098750c959dbd1d40e4605417ca259f2cafee816a4975207b8a3604bb03b3a",
+    "use": "발견용 분석·정정·활용 명세 재사용"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261010_application_01/boundary_links.json",
+    "sha256": "1c8ca37c36e0bdbeebb8e87c045039ac479012f92749f50b3552ff397f1358ac",
+    "use": "발견용 분석·정정·활용 명세 재사용"
+  },
+  {
+    "path": "분석/패턴_종합연구/20261009_pilot_01/sample_annotations.json",
+    "sha256": "cea9798b34cf6f2852ff4a9fe426251a12301444edc7d7dd9159bd1ea1acfc19",
+    "use": "관리 메타데이터 출력 중 G095 기존 정답·코드 재노출 발생; 값 없는 관리 파일로 분리"
+  }
+]

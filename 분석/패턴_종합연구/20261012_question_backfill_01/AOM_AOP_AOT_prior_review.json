@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AOM": [
+      {
+        "line": 3883,
+        "record_id": "AOM-independent_code-20260927-01",
+        "case": "AOM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:57:13.779958+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 5,
+              "reason": "고전관계의유지가아닌법/선관계전환"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 8,
+              "reason": "선에따른법에서법에따른선으로규정의우선방향변화"
+            },
+            {
+              "code": 81,
+              "reason": "존재본질근거와선험실천이성근거구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "이전/이후가있지만시간만맞춰도근거전도를놓칠수있음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 19,
+              "refutation": "자연법위기에대한해결기획이라는구조가있으나전통의내용단순보충이아님"
+            },
+            {
+              "code": 75,
+              "refutation": "들뢰즈의칸트해석을귀속하되정답은옛근거연속성단정"
+            },
+            {
+              "code": 26,
+              "refutation": "법/선을서로배타적존재로만드는것아니며정당화관계방향변화"
+            }
+          ],
+          "counterfactual_probe": "①전통을연장한을기존관계를재규정한으로고치면참.새근거가같은문제를다룬다고옛이론을그대로잇는것아님.",
+          "confidence": 0.94,
+          "passage_group": "G266",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOP": [
+      {
+        "line": 3894,
+        "record_id": "AOP-independent_code-20260927-01",
+        "case": "AOP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:00:28.961319+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 4,
+              "reason": "투자자범위를광범위에서일부특정집단으로한정"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "대출채무자신용과증권투자자성향을구별"
+            },
+            {
+              "code": 46,
+              "scope": "②③④",
+              "reason": "증권화·과신·차입·거품·연쇄위기경로"
+            }
+          ],
+          "surface": [
+            {
+              "code": 41,
+              "scope": "②",
+              "reason": "개별위험감소처럼보이는것을전체위험감소로합성하지않음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 1,
+              "refutation": "규모가작다는채권양과투자자분포범위는다름.정답은해당집단한정"
+            },
+            {
+              "code": 43,
+              "refutation": "위기원인논쟁있어도①배제에통제실험분석은필요없음"
+            },
+            {
+              "code": 74,
+              "refutation": "경쟁설설명은⑤배경이고①은광범보유명시로직접판정"
+            }
+          ],
+          "counterfactual_probe": "①의일부에한정을다양한광범위투자자로바꾸면참.작은원대출규모에서좁은투자자범위를추론하지않음.",
+          "confidence": 0.96,
+          "passage_group": "G267",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOT": [
+      {
+        "line": 3907,
+        "record_id": "AOT-independent_code-20260927-01",
+        "case": "AOT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:03:46.096068+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 37,
+              "reason": "임파워먼트논의의조건에원조사례를적용"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 15,
+              "reason": "현지문화·자생역량·선별지원기준"
+            },
+            {
+              "code": 44,
+              "reason": "지역역량강화라는목적과원조수단의적합성"
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "수확량증대는효율성한축일뿐유일판정기준아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 59,
+              "refutation": "빈곤해결책이라는넓은기능만으로①도맞다고하면구체원조기준을놓침"
+            },
+            {
+              "code": 75,
+              "refutation": "저자의더근본적인구조비판이아니라㉠의소개된논의를기준으로해야함"
+            },
+            {
+              "code": 10,
+              "refutation": "현지주식은절대로바꾸면안된다는필요조건을새로만들지않음.제시된①은적합성근거가가장약함"
+            }
+          ],
+          "counterfactual_probe": "①에현지의자발적선택과문화적적합성검토·자생재배역량교육을추가하면㉠에가까워진다.밀이라는품종자체가금지대상아님.",
+          "confidence": 0.95,
+          "passage_group": "G268",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

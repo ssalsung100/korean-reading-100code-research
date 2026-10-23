@@ -1,0 +1,44 @@
+{
+  "scope": "선택된가상모형의수식·수치확인. 원문관측값이나실제세계검증아님.",
+  "AXB": {
+    "recomputed": [
+      {
+        "state": "before",
+        "mass_scaled": 6108.599999999999,
+        "normalized_C": 0.34321865293762444,
+        "Cm_scaled": 280539.0,
+        "outer_density": 4.334016393442623,
+        "anticrust_thickness": 1
+      },
+      {
+        "state": "after",
+        "mass_scaled": 6108.6,
+        "normalized_C": 0.36967231964374087,
+        "Cm_scaled": 253948.01922000002,
+        "outer_density": 4.682868804664723,
+        "anticrust_thickness": 0.9000000000000004
+      }
+    ],
+    "pass": true,
+    "limit": "균일층·밀도고정·핵내경계변경이라는구성가정. 실제수성구조의확정아님."
+  },
+  "AXY": {
+    "common_k_ratio": 2.875,
+    "independent_k_min": 1.4375,
+    "independent_k_max": 5.75,
+    "pass": true
+  },
+  "AYN": {
+    "D_mean": 0.81,
+    "first_E": 0.30000000000000004,
+    "second_E": -0.12,
+    "first_D_above_mean": true,
+    "first_E_positive": true,
+    "pass": true
+  },
+  "AYX": {
+    "formula": "B_next=1-int(B_current==C); A_after=int(B_next==C)",
+    "checked_states": 4,
+    "pass": true
+  }
+}

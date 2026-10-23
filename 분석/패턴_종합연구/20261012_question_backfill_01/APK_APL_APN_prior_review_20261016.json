@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "APK": [
+      {
+        "line": 3985,
+        "record_id": "APK-independent_code-20260927-01",
+        "case": "APK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:26:12.322006+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 17,
+              "reason": "국가독자성·세계관과국경개념을구별"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 64,
+              "reason": "서술된성립배경의범위확인"
+            },
+            {
+              "code": 3,
+              "reason": "명청교체와계승발전의역사맥락"
+            }
+          ],
+          "surface": [
+            {
+              "code": 42,
+              "reason": "중국밖의화가능이라는표현이국경선변화뜻은아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 46,
+              "refutation": "배경원인을묻지만④에대한인과설명이제시되지않음"
+            },
+            {
+              "code": 19,
+              "refutation": "중화공석의대위보완과국경개념변화는동치아님"
+            },
+            {
+              "code": 5,
+              "refutation": "관점변화가있다는것을어떤종류의변화든있음으로일반화하지않음"
+            }
+          ],
+          "counterfactual_probe": "④국경관념을천하관념으로바꾸면직접배경.개별국가의독립인식이지영토경계설정이주제가아님.",
+          "confidence": 0.95,
+          "passage_group": "G274",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APL": [
+      {
+        "line": 3986,
+        "record_id": "APL-independent_code-20260927-01",
+        "case": "APL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:26:12.322718+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 77,
+              "reason": "특수한과거성패에서현재추이를일반법칙으로확장하는문제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 83,
+              "reason": "도덕평가와역사사실을분리해읽음"
+            },
+            {
+              "code": 63,
+              "reason": "편견적역사서술의신뢰성을검토"
+            },
+            {
+              "code": 46,
+              "reason": "선악·지모가성패를필연결정한다는인과서술비판"
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "과거/현재대조는있으나핵심은전이가능성"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 74,
+              "refutation": "두가설의차별예측을검증하는실험이아님"
+            },
+            {
+              "code": 18,
+              "refutation": "선속악등을논리모순이라고배제하면기록의일면성비판을놓침"
+            },
+            {
+              "code": 80,
+              "refutation": "독자의태도문항이지만구체오독은시세특수성을무시한법칙적전망"
+            }
+          ],
+          "counterfactual_probe": "②를과거성패의원인과특수여건을다시검토한다로바꾸면⑤와가까워짐.과거사실로부터어떠한정보도배울수없다는강한회의는도출안함.",
+          "confidence": 0.95,
+          "passage_group": "G274",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APN": [
+      {
+        "line": 4002,
+        "record_id": "APN-independent_code-20260927-01",
+        "case": "APN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:32:15.937643+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 16,
+              "reason": "후견적간섭의자기보호·타인권리비침해조건을복원"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 37,
+              "reason": "정의에사례적용"
+            },
+            {
+              "code": 17,
+              "reason": "보호대상자신/타인의귀속"
+            },
+            {
+              "code": 79,
+              "reason": "행위제한의정당화준거구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 44,
+              "reason": "안전이라는목적만공유해서는구분못함"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 46,
+              "refutation": "실제피해인과를새로검증하기보다명시사례의보호대상구조판정"
+            },
+            {
+              "code": 23,
+              "refutation": "국가개입이라는공통점만으로모두후견이라하면정의요건누락"
+            },
+            {
+              "code": 15,
+              "refutation": "판단준거명칭으로16/37과중첩가능하며독립필수연산으로중복계수안함"
+            }
+          ],
+          "counterfactual_probe": "③을안전모를떨어뜨려타인을해치는행위제한으로바꾸면자기보호만의준거를벗어난다.현실외부비용전체를부정하는판정아님.",
+          "confidence": 0.96,
+          "passage_group": "G275",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "APL_표현강도": "②가필연적법칙을명시했다고추가하지않는다. 결과 중심의 편견적 기록에서 특수 여건 검토 없이 현실 추이를 전망하는 태도라는 문맥으로 판정한다. 역사에서 아무것도 배울 수 없다는 회의론 아님.",
+  "APN_범위": "선지가 제시한 보호 대상·판단 준거 구조만 비교한다.현실의 모든 외부비용이나 현재 처벌 규정·정당성을 판정하지 않는다."
+}

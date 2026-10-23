@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ATQ": [
+      {
+        "line": 4490,
+        "record_id": "ATQ-independent_code-20260928-01",
+        "case": "ATQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G311",
+          "primary": [
+            39
+          ],
+          "auxiliary": [
+            80,
+            17
+          ],
+          "surface": [
+            44
+          ],
+          "decisive_operation": "두 해석의 인식 대상·방법·목표를 같은 축에서 비교하여 실제 의사 확인을 문헌학에 귀속한다.",
+          "competing_codes": [
+            {
+              "code": 80,
+              "rebuttal": "무엇을 인식하는가가 핵심 내용이지만 두 해석 방식의 대비 과업과 중첩된다."
+            },
+            {
+              "code": 44,
+              "rebuttal": "③ 수단/목표 구별은 유효한 오답 경로이나 실제/이념 의사라는 대상 차이를 먼저 유지해야 한다."
+            },
+            {
+              "code": 100,
+              "rebuttal": "④의 은유는 선지가 부가한 대상이며 본문 해석 방법의 근거가 아니다."
+            }
+          ],
+          "confidence": 0.97,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATS": [
+      {
+        "line": 4492,
+        "record_id": "ATS-independent_code-20260928-01",
+        "case": "ATS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G311",
+          "primary": [
+            10
+          ],
+          "auxiliary": [
+            17,
+            60,
+            24
+          ],
+          "surface": [
+            79
+          ],
+          "decisive_operation": "체계적 해석으로 특정 조항의 적용 요건을 확정하고 그 요건에 들지 않는 대상에 대한 적용 제외를 설명한다.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "rebuttal": "특정 조항/법체계 전체의 범위 구별은② 배제의 핵심이며10과 다른 선택 경로다."
+            },
+            {
+              "code": 24,
+              "rebuttal": "다른 일반 규정의 적용 가능성은 특별규정의 예외를 새로 만든다는 뜻은 아니며 적용 규범의 범위를 구별한다."
+            },
+            {
+              "code": 79,
+              "rebuttal": "법 규범이 소재이지만 개인 행위의 당위보다 조항 해석과 적용 요건의 범위를 묻는다."
+            }
+          ],
+          "boundary_note": "현행법 전반의 처벌 여부를 판단하지 않고 지문에 제시된 결정의 논리를 복원한다.",
+          "confidence": 0.97,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATT": [
+      {
+        "line": 4503,
+        "record_id": "ATT-independent_code-20260928-01",
+        "case": "ATT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            16
+          ],
+          "auxiliary": [
+            46,
+            12
+          ],
+          "surface": [
+            5,
+            40
+          ],
+          "decisive_operation": "관측 현상과 임계 자기장의 정의를 복원하고 역방향 외부 조건에서 군집 전환이라는 설명을 결합한다.",
+          "code_evidence": {
+            "16": "효과가 관찰되는 자기장이 임계 자기장이라는 명명·정의",
+            "46": "외부 자기장 변화→자속 변화→유도 전류 및 군집 전이",
+            "12": "초기 정렬 반대 방향이라는 조건을 유지"
+          },
+          "competitor_refutations": [
+            {
+              "code": 45,
+              "reason": "입력 변화에 따른 출력값 계산·함수 합성이 결정 경로는 아니다."
+            },
+            {
+              "code": 49,
+              "reason": "상관 길이라는 용어는 공변 관계 검증을 요구하지 않는다."
+            },
+            {
+              "code": 40,
+              "reason": "군집/개별 대비는 오답① 제거 근거지만 정답⑤의 임계 정의를 대체하지 않는다."
+            },
+            {
+              "code": 21,
+              "reason": "관측값 명명은 16과 중복 가능; 필요충분의 양방향 추론이 별도 수행되지 않아 이중 주코드로 세지 않는다."
+            }
+          ],
+          "confidence": 0.91,
+          "passage_group": "G312",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체본문·5선지·최초풀이·독립판정직접확인.ATS는기출의과거결정논리분석으로현행법판단아님.ATT관측조건·정의결합과통계상관검증구별."
+}

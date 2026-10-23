@@ -1,0 +1,95 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AXR": [
+      {
+        "line": 4958,
+        "record_id": "AXR-independent_code-20260928-01",
+        "case": "AXR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G345",
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            40,
+            10,
+            56,
+            75
+          ],
+          "surface": [
+            80
+          ],
+          "decisive_operation": "구조를 파악하는 것과 그 구조의 선택 이유까지 설명하는 완전 이해를 구별한다. 이유를 모르는 사실에서 구조 자체 파악 실패를 도출할 수 없다.",
+          "competing_codes": [
+            {
+              "code": 10,
+              "rejection": "완전 이해에 제목 정보가 필요하다는 보조 관계이지 모든 부분 이해에 필요하다고 바꾸면⑤ 오류."
+            },
+            {
+              "code": 56,
+              "rejection": "5음 사용 이유의 설명 공백이 중요하므로 보조이나 음악구조 파악과의 대상 차이를 먼저 보존해야 함."
+            },
+            {
+              "code": 75,
+              "rejection": "㉠~㉢ 귀속은 필요하나 단순 입장 이름 대응으로⑤의 이해 범위 이동을 해결 못함."
+            },
+            {
+              "code": 18,
+              "rejection": "완전 이해 실패와 부분 구조 이해 성공은 모순이 아니다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AXS": [
+      {
+        "line": 4969,
+        "record_id": "AXS-independent_code-20260928-01",
+        "case": "AXS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G346",
+          "primary": [
+            16
+          ],
+          "auxiliary": [
+            39,
+            75
+          ],
+          "surface": [
+            3,
+            9
+          ],
+          "decisive_operation": "공간의 시간화라는 개념을 서로 다른 지역을 동일한 진보축 위에 놓는 행위로 풀어②에 대응한다.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rejection": "시간 단어가 핵심이지만 사건의 선후를 새로 추론하지 않는다."
+            },
+            {
+              "code": 9,
+              "rejection": "위계화는 역사주의의 내용. 정답은 공간→시간 비교라는 정의 재진술이다."
+            },
+            {
+              "code": 46,
+              "rejection": "주변화와 사명론의 원인 연결은 오답 배제에 관련하나② 직접 결정에는 정의 적용이면 충분."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.89,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "AXR_view": "G345_visual01.md 전체 직접 열람. 슈만의 곡명 착각, 다섯 음의 식별과 그 사용 이유의 이해 부족을 구별. 원본·기존 풀이 불변."
+}

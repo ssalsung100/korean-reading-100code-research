@@ -1,0 +1,42 @@
+410
+humans craft to govern, provide, and manage public goods and common-
+pool resources. 
+B. Two Types of Goods
+In his classic definitional essay, Paul Samuelson (1954) divided goods 
+into two types. Pure private goods are both excludable (individual A can be 
+excluded from consuming private goods unless paid for) and rivalrous 
+(whatever individual A consumes, no one else can consume). Public goods 
+are both nonexcludable (impossible to keep those who have not paid for a 
+good from consuming it) and nonrivalrous (whatever individual A consumes 
+does not limit the consumption by others). This basic division was consistent 
+with the dichotomy of the institutional world into private property exchanges 
+in a market setting and government-owned property organized by a public 
+hierarchy. The people of the world were viewed primarily as consumers or 
+voters.
+C. One Model of the Individual
+The assumption that all individuals are fully rational was generally accepted 
+in mainstream economics and game theory. Fully rational individuals are 
+presumed to know (1) all possible strategies available in a particular situation, 
+(2) which outcomes are linked to each strategy given the likely behavior of 
+others in a situation, and (3) a rank order for each of these outcomes in 
+terms of the individual’s own preferences as measured by utility. The rational 
+strategy for such an individual in every situation is to maximize expected 
+utility. While utility was originally conceived of as a way of combining a diver-
+sity of external values on a single internal scale, in practice, it has come to 
+be equated with one externalized unit of measure – such as expected profits. 
+This model of the individual has fruitfully generated useful and empirically 
+validated predictions about the results of exchange transactions related to 
+goods with specific attributes in a competitive market but not in a diversity 
+of social dilemmas. I will return to a discussion of the theory of individual 
+behavior in section 7A.
+2. Early Efforts to Develop a Fuller Understanding of 
+Complex Human Systems
+The mid-twentieth-century world views of simple systems have slowly been 
+transformed as a result of extensive empirical research and the development 
+of a framework consistent with game-theoretical models for the analysis of a 
+broad array of questions.
+A. Studying Polycentric Public Industries
+Undertaking empirical studies of how citizens, local public entrepreneurs, 
+and public officials engage in diverse ways of providing, producing, and 
+managing public service industries and common-property regimes at 
+multiple scales has generated substantial knowledge that is not explained 

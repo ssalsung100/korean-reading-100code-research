@@ -1,0 +1,52 @@
+420
+internal use patterns, (4) Exclusion – the right to decide who will have access, 
+withdrawal, or management rights, and (5) Alienation – the right to lease or 
+sell any of the other four rights. Conceiving of property-rights bundles is now 
+widely accepted by scholars who have studied diverse property-rights systems 
+around the world (Brunckhorst 2000; Degnbol and McCay 2007; Paavola and 
+Adger 2005; Trawick 2001; J. Wilson et al. 1994).
+D. Linking the Internal Parts of an Action Situation to External Rules
+Actors who have specific property rights to a resource also face more fun-
+damental rules that affect the structure of the action situations they are in. 
+In our meta-analysis, we found an incredible array of specific rules used in 
+different settings (e.g., who could withdraw how many resource units at what 
+location and time, what information was required of all users, what costs 
+and benefits were attached to which actions, etc.). As we attempted to find a 
+consistent way of coding and analyzing this rich diversity of specific rules de-
+scribed by case authors, we turned again to the IAD framework. Since we had 
+identified seven working parts of a game or action situation itself, it seemed 
+reasonable to think of seven broad types of rules operating as external vari-
+ables affecting the individual working parts of action situations (see Figure 
+4). The seven types of rules are:
+	
+1.	Boundary rules that specify how actors were to be chosen to enter or 
+	
+	
+leave these positions;
+	
+2.	Position rules that specify a set of positions and how many actors hold 
+	
+	
+each one;
+	
+3.	Choice rules that specify which actions are assigned to an actor in a position; 
+	
+4.	Information rules that specify channels of communication among actors 
+	
+	
+and what information must, may, or must not be shared;
+	
+5.	Scope rules that specify the outcomes that could be affected;
+	
+6.	Aggregation rules (such as majority or unanimity rules) that specify how 
+	
+	
+the decisions of actors at a node were to be mapped to intermediate or 
+	
+	
+final outcomes; and
+	
+7.	Payoff rules that specify how benefits and costs were to be distributed to 
+	
+	
+actors in positions (Crawford and Ostrom 2005).

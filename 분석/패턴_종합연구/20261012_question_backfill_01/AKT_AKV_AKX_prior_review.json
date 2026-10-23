@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AKT": [
+      {
+        "line": 3439,
+        "record_id": "AKT-independent_code-20260927-01",
+        "case": "AKT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T15:49:19.198755+00:00",
+        "payload": {
+          "primary": [
+            44
+          ],
+          "primary_candidates": [
+            44,
+            78
+          ],
+          "representative_primary": 44,
+          "primary_uniqueness": "미확정: 도덕적 결과라는 목적 복원과 그 목적에 따른 행위 설명이 국소 중첩",
+          "auxiliary": [
+            70
+          ],
+          "surface": [
+            79,
+            93
+          ],
+          "decisive_evidence": "2문단의 도덕적 권리를 지지하는 판사, 다른 합법적인 법해석, 법적 권리가 부정되는 것처럼 판결. ③은 그 행위를 법을 위한 충실성이라고 바꾼다.",
+          "operation": "합법적 해석은 도덕적 권리 실현의 수단이다. 수단의 법적 외관을 행위 목적의 법적 충실성으로 대체한 오류를 찾는다.",
+          "competing_codes": [
+            {
+              "code": 78,
+              "verdict": "유효한 공동 후보",
+              "reason": "판사가 무엇을 지지하여 그 행위를 택하는가를 복원하면 동일하게 ③을 배제한다. 목적-행위 연결과44의 수단-목적을 본 사례로 분리할 수 없다."
+            },
+            {
+              "code": 70,
+              "verdict": "보조",
+              "reason": "법 적용/불적용 각각의 의무 위반이 우회 선택의 배경이다. 그러나 이 대립을 삭제하고 도덕적 권리를 위해 해석을 만든다는 문장만 남겨도③ 배제 가능하다."
+            },
+            {
+              "code": 79,
+              "verdict": "소재·다른 선지",
+              "reason": "법과 양심의 의무는 등장하나③의 직접 오류는 의무 규칙 적용보다 실제 행위 목적의 교체다."
+            },
+            {
+              "code": 93,
+              "verdict": "표면",
+              "reason": "법적 권리를 다르게 표명한다는 의사소통 구조는 있으나③은 전달 내용의 진위보다 무엇을 위해 행동하는지를 묻는다."
+            }
+          ],
+          "deletion_test": "법을 위해를 도덕적 권리를 지키기 위해로 바꾸면 오류 중심이 해소된다. 합법적이라는 형식을 지워도 목적 오독은 남는다.",
+          "boundary_decision": "44/78 유일성 보류. 법 소재를79로 일괄 분류하지 않는다.",
+          "confidence": 0.91,
+          "passage_group": "G232",
+          "sdss_exposed": false,
+          "all_group_answer_check_complete": true,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AKV": [
+      {
+        "line": 3441,
+        "record_id": "AKV-independent_code-20260927-01",
+        "case": "AKV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T15:49:19.200380+00:00",
+        "payload": {
+          "primary": [
+            79
+          ],
+          "primary_candidates": [
+            79,
+            10
+          ],
+          "representative_primary": 79,
+          "primary_uniqueness": "미확정: 진솔함의 규범 요구와 남용 저지의 필수 요건이⑤에서 함께 훼손됨",
+          "auxiliary": [
+            75,
+            93
+          ],
+          "surface": [
+            3
+          ],
+          "decisive_evidence": "보기는 진솔함을 권력 남용 저지의 필수불가결한 요소라 하고 실제 과정을 사실대로 말하지 않는 문구를 비판한다.⑤는 타당한 결과를 조건으로 거짓 수긍을 귀속한다.",
+          "operation": "비판론자의 진솔함 요구를 유지하여 결과 타당성만으로 은폐 허용을 도출하는 선지를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 10,
+              "verdict": "유효 공동 후보",
+              "reason": "진솔함 없이는 남용 저지의 필수 요소가 빠진다. 다만⑤가 남용이 전혀 없다고 직접 단정하는 것은 아니므로 기계적 대우만으로 풀이를 대체하지 않으며 규범적 수긍 여부를 함께 본다."
+            },
+            {
+              "code": 75,
+              "verdict": "보조",
+              "reason": "세 입장을 구별해 비판론자에게 판단을 귀속하는 작업이 필요하지만, 입장 표지만으로 왜⑤가 틀리는지 설명되지 않는다."
+            },
+            {
+              "code": 93,
+              "verdict": "보조",
+              "reason": "고상한 거짓말이 실제 과정을 숨기는 표명임을 알아야④와⑤의 평가 대상을 고정한다."
+            },
+            {
+              "code": 3,
+              "verdict": "특정 선지 표면",
+              "reason": "④의 결과 선선택/해석 후개발에는 선후가 있지만⑤의 잘못된 수긍은 선후 역전이 없어도 배제된다."
+            }
+          ],
+          "deletion_test": "⑤의 법 왜곡·정체 없음 이유를 지워도 타당한 결과이면 거짓을 수긍한다는 귀속은 비판론자의 요구와 맞지 않는다. 타당한 결과라도 거짓을 비판한다고 고치면 핵심 오류가 해소된다.",
+          "boundary_decision": "79/10의 근거-평가 연결을 보존하며 필수 요소라는 말만으로 모든 규범 문항을10으로 환원하지 않는다.",
+          "confidence": 0.93,
+          "passage_group": "G232",
+          "sdss_exposed": false,
+          "all_group_answer_check_complete": true,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AKX": [
+      {
+        "line": 3454,
+        "record_id": "AKX-independent_code-20260927-01",
+        "case": "AKX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T15:54:38.549845+00:00",
+        "payload": {
+          "primary": [
+            12
+          ],
+          "primary_candidates": [
+            12,
+            15
+          ],
+          "working_primary": 12,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            16,
+            75
+          ],
+          "surface": [
+            10
+          ],
+          "judgment_reason": "커루더스는 고차원적 의식을 감응력 판정 기준으로 둔다.그 기준에 따른 고차원적 의식→감응력 인정의 방향을 대우로 적용하면 감응력 없는 존재를 고차원적 의식 없다고 보는④가 맞는다.수동 현상 의식의 존재는 별개이다.",
+          "competing_codes": [
+            {
+              "code": 15,
+              "verdict": "공동 주 후보",
+              "reason": "고차원적 의식을 기준으로 삼는다는 문구에서 판정 함의를 복원한다.12의 적용에 필요한 조건 관계 자체가 기준의 해석에서 나온다."
+            },
+            {
+              "code": 10,
+              "verdict": "표면·관계 기술 가능",
+              "reason": "감응력이 고차원적 의식의 필요조건이라는 동일 함의를 표현할 수 있지만 실제 풀이 행동은 비감응에서 고차원 부재로 진행한다."
+            },
+            {
+              "code": 16,
+              "verdict": "보조",
+              "reason": "현상적 의식과 감응력의 비동일성을 이해해야 수동 의식 존재와 고차원 부재가 양립함을 안다."
+            },
+            {
+              "code": 75,
+              "verdict": "보조",
+              "reason": "⑤의 필자 주장을 싱어에게 옮기지 않도록 입장을 구분한다.④ 직접 판단은 커루더스 기준 적용이다."
+            }
+          ],
+          "minimal_change_test": "고차원적 의식이 감응력에 도움이 될 수 있다고만 바꾼다면④ 대우 도출은 성립하지 않는다.고차원적 의식을 단지 필요조건으로만 둔다면 비감응에서 고차원 부재도 나오지 않으므로 기준 문구의 충분 방향을 별도로 명시해야 한다.",
+          "boundary_decision": "기준이라는 말마다 자동으로필충을 부여하지 않는다. 본문이 동물·영유아를 그 기준으로 포함/배제하는 적용을 함께 주어 판정 관계가 확인되는 범위로 한정.12/15 우선성 미확정.",
+          "confidence": 0.91,
+          "passage_group": "G233",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  }
+}

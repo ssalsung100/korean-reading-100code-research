@@ -1,0 +1,47 @@
+{
+  "status": "기출 관측값 아닌 가상 동심 구형 층 모형",
+  "purpose": "AXB의 세 관측 변화·M/R 고정을 모두 만족해도 반지각 두께 증가가 유일하게 강제되는지 검사",
+  "R": 10.0,
+  "component_densities": {
+    "base": 3.0,
+    "anticrust": 6.0,
+    "liquid": 7.0,
+    "solid": 9.0
+  },
+  "crust_thickness": 0.5,
+  "assumptions": "각 층은 균일밀도, 지각·반지각 제외 맨틀은 같은3. 밀도값과 지각 두께는 전후 고정. 액체/고체 핵의 경계는 달라질 수 있음. 외곽은 핵 밖 전체.",
+  "formulas": {
+    "mass": "M=(4pi/3)sum(rho_i*(r_out^3-r_in^3))",
+    "moment": "C=(8pi/15)sum(rho_i*(r_out^5-r_in^5))",
+    "normalized": "C/(M*R^2)"
+  },
+  "before": {
+    "core_radius": 8,
+    "anticrust_thickness": 1,
+    "solid_core_radius": 5.894450397824618,
+    "M_div_4pi_over3": 6108.6,
+    "normalized_C": 0.34321865293762444,
+    "Cm_div_8pi_over15": 280539.0,
+    "outer_mean_density": 4.334016393442623,
+    "anticrust_volume_fraction": 0.444672131147541
+  },
+  "after": {
+    "core_radius": 8.5,
+    "anticrust_thickness": 0.9,
+    "solid_core_radius": 1.1083388295027041,
+    "M_div_4pi_over3": 6108.6,
+    "normalized_C": 0.36967231964374087,
+    "Cm_div_8pi_over15": 253948.01922000002,
+    "outer_mean_density": 4.682868804664723,
+    "anticrust_volume_fraction": 0.5609562682215745
+  },
+  "checks": {
+    "M_fixed": true,
+    "R_fixed": true,
+    "normalized_C_increases": true,
+    "Cm_decreases": true,
+    "outer_density_increases": true,
+    "anticrust_thickness_decreases": true
+  },
+  "conclusion": "성분 밀도를 유지해도 핵·외곽의 부피비와 고체/액체 핵 경계가 함께 바뀌면 외곽 평균 밀도 증가와 반지각 두께 감소가 양립한다. 공식③의 의도된 국소 보완과 세 측정조건의 유일한 전역 역산은 구별해야 한다."
+}

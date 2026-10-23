@@ -1,0 +1,65 @@
+{
+  "run_id": "20261012_question_backfill_01",
+  "date": "2026-10-15",
+  "status": "진행 중",
+  "scope": "기존 1차 탐색 미추출 1077문항의 사후 심층 보완",
+  "target_count": 1077,
+  "reviewed_questions": 240,
+  "new_scene_count": 326,
+  "by_exam": {
+    "KICE": {
+      "target": 496,
+      "reviewed": 240,
+      "deeply_extracted": 240,
+      "scenes": 326,
+      "unresolved_questions": 13,
+      "remaining": 256
+    },
+    "LEET": {
+      "target": 379,
+      "reviewed": 0,
+      "deeply_extracted": 0,
+      "scenes": 0,
+      "unresolved_questions": 0,
+      "remaining": 379
+    },
+    "MEET": {
+      "target": 202,
+      "reviewed": 0,
+      "deeply_extracted": 0,
+      "scenes": 0,
+      "unresolved_questions": 0,
+      "remaining": 202
+    }
+  },
+  "next_question": "U0103-Q03",
+  "next_case_ids": [
+    "PD"
+  ],
+  "next_order": 241,
+  "completed_batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "batch_size": 40,
+  "other_models_called": true,
+  "delegation": {
+    "model": "gpt-6-luna",
+    "scope": "사용자 후속 지시로 허용된 기존 풀이 경로 검색만",
+    "semantic_judgment_delegated": false
+  },
+  "git_push": false,
+  "frozen_assets_written": false,
+  "holds_preserved": [
+    "G024",
+    "G370"
+  ],
+  "quota_status": "runtime에 구체 잔여치 미노출·추정하지 않음",
+  "first_batch_semantic_sample_audit": "semantic_sample_audits.jsonl",
+  "resume_command": "python3 backfill_io.py packet <next_order> 5",
+  "provenance_limit": "기존 source 텍스트와 정답대조 raw에 대한 사후 분석. 공식 시험지 이미지 독립 전수 대조 아님."
+}

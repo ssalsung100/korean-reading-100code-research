@@ -1,0 +1,104 @@
+{
+  "version": "C-draft",
+  "candidates": [
+    {
+      "candidate_id": "N01",
+      "name_and_status": "N01 정의의 관계 보존 / 반복 후보",
+      "input_and_operation": "정의의 역할·대상 수·동시성·방식에 사례의 항을 대입",
+      "evidence_and_conclusion": "JO①의 관찰자 운동, JO④의 동시 집단 조건 결손; RY②의 방식별 구성",
+      "applicable_if": "정의에 판별 조건이 있고 사례의 대응 항을 확인할 수 있음",
+      "do_not_apply_or_resplit_if": "소재 이름만 같거나 추가 실제 반응을 보장할 때 제외. JN④는 불필요 필요조건 부과라는 N09도 필요",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N02",
+      "name_and_status": "N02 정의 정당화의 순환 / 단일 문항·노출 제한",
+      "input_and_operation": "각 설명이 의존하는 개념을 연결하고 시작 개념 재사용을 확인",
+      "evidence_and_conclusion": "NL④의 분석 명제→동의성→필연성→분석 명제",
+      "applicable_if": "본문이 정당화 의존을 명시함",
+      "do_not_apply_or_resplit_if": "기전의 시간 순서·상호 관련성만으로 순환이라고 하지 않음. 외부 철학의 참거짓으로 일반화 금지",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N03",
+      "name_and_status": "N03 결합 전제 실패의 비식별 / 단일 지문·노출 제한",
+      "input_and_operation": "예측에 사용한 H·B·C를 분해하고 실패와 양립하는 수정 경로를 남김",
+      "evidence_and_conclusion": "NM①·⑤: 실패 원인 H 단정 불가, 다른 조건 수정으로 유지 가능",
+      "applicable_if": "결합 입력과 대안 수정 가능성이 제시됨",
+      "do_not_apply_or_resplit_if": "배경이 고정·입증되어 특정 가설만 시험된 경우 자동 유보 금지. 필요 전제 회수 P04와 분리",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N04",
+      "name_and_status": "N04 내용과 논증 역할 / 상위 반복·하위 분리",
+      "input_and_operation": "목표 주장→실제 전제→후보의 내용→지지/반박/제안 기능을 연결",
+      "evidence_and_conclusion": "GK, NN, AYF, AYG, ATO",
+      "applicable_if": "발문이 증거·비판·대안 등의 역할을 요구하거나 그 역할이 선택지를 가름",
+      "do_not_apply_or_resplit_if": "내용 일치만 묻는데 불필요한 논증 기능 요구 금지. 세 하위형의 교육 전이 미검증",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N05",
+      "name_and_status": "N05 조건부 분모 / P03 잠정 하위형",
+      "input_and_operation": "실제 상태 집합을 고정하고 그 내부의 성공·오류 비율을 비교",
+      "evidence_and_conclusion": "RX의 민감도·특이도",
+      "applicable_if": "조건 집합과 분모가 정의되고 건수 비교 시 분모가 고정됨",
+      "do_not_apply_or_resplit_if": "다른 집단의 절대 건수만으로 비율 비교 금지. 신호색 자체는 비율의 분모가 아님",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N06",
+      "name_and_status": "N06 목적에서 오류 우선순위 / 잠정 확장",
+      "input_and_operation": "검사 후 경로를 그려 오류마다 놓치는 대상·추가 절차를 비교",
+      "evidence_and_conclusion": "RY④의 선별→확인",
+      "applicable_if": "목적과 후속 절차가 주어짐; 본문 범위의 정성 판단",
+      "do_not_apply_or_resplit_if": "모든 검사에 민감도 우선 일반화 금지. 비용·유병률·임계값 없는 수치 최적화 금지",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N07",
+      "name_and_status": "N07 전수 모형의 역상 / 단일 지문",
+      "input_and_operation": "가능 입력 전부와 출력을 확인한 뒤 관측 출력에 맞는 행을 모음",
+      "evidence_and_conclusion": "YT: 집단3/4 확정, 집단1/2 효능감 유보",
+      "applicable_if": "모형 완결·보기 부합·빠진 원인 없음이 보장됨",
+      "do_not_apply_or_resplit_if": "일반 A→B를 역으로 뒤집기 금지. 입력이 하나 남지 않아도 공통 성분은 확정 가능",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N08",
+      "name_and_status": "N08 단조성 허가 점검 / 이종 하위 반복",
+      "input_and_operation": "양의 순서에서 성과 순서로 갈 때 추가 관계가 있는지 확인",
+      "evidence_and_conclusion": "BJ⑤의 충분 문턱, AYE⑤·AYG④의 조건 수와 효율",
+      "applicable_if": "선지가 증가·비례·항상 개선을 주장하고 원문 허용 관계를 검사할 수 있음",
+      "do_not_apply_or_resplit_if": "비단조 가능→항상 악화 금지. 문턱 이후와 제약 상호작용의 기전은 분리",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N09",
+      "name_and_status": "N09 범위·강도 보존 / 상위 반복",
+      "input_and_operation": "주체·영역을 고정하고 가능/필요·일부/전체·약함/없음의 변경을 찾음",
+      "evidence_and_conclusion": "AA②, JN④, RV③·RW④, BK②, ATN③",
+      "applicable_if": "원문 양태·범위 또는 반례 상태가 확인됨",
+      "do_not_apply_or_resplit_if": "강한 표현이라는 이유만으로 오답 처리 금지. 본문이 전체/필요를 허가하면 인정",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N10",
+      "name_and_status": "N10 추가 성분의 근거 / 잠정 상위 가족",
+      "input_and_operation": "관찰된 행동과 선지가 더한 동기·감정·평가 성분을 나누고 각각 근거 확인",
+      "evidence_and_conclusion": "ATN③, AVT①, AQP①",
+      "applicable_if": "추가한 성분과 원문 확인 범위를 특정할 수 있음",
+      "do_not_apply_or_resplit_if": "본문 부재→현실 부재로 확대 금지. 문학 관점 추정과 역사적 동기 판단의 동일성 유보",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    },
+    {
+      "candidate_id": "N11",
+      "name_and_status": "N11 표현의 지시 대상 / 단일 문항 중심",
+      "input_and_operation": "화자·시점·정책을 고정해 동일 어휘의 지시 연결을 복원",
+      "evidence_and_conclusion": "ATP의 ㉠=㉢=㉤, ㉡·㉣의 새 방안 문제",
+      "applicable_if": "앞뒤 지칭·비교·회고의 연결 근거가 있음",
+      "do_not_apply_or_resplit_if": "같은 뜻→같은 대상, 다른 평가→다른 대상 금지. 집단 구성원 동일성 S06과 자동 통합 금지",
+      "status_scope": "잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님."
+    }
+  ]
+}

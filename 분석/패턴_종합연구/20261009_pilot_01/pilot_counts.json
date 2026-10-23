@@ -1,0 +1,172 @@
+{
+  "discovery_passages": 12,
+  "discovery_questions": 39,
+  "events": 43,
+  "unclassified_events": 12,
+  "classified_unique_questions": 29,
+  "patterns": {
+    "P01": {
+      "evidence_events": 6,
+      "observed_passages": 6,
+      "utilized_passages": 6,
+      "utilized_questions": 6,
+      "source_questions": 6,
+      "structure_only_events": [],
+      "event_ids": [
+        "E007",
+        "E011",
+        "E016",
+        "E033",
+        "E036",
+        "E040"
+      ]
+    },
+    "P02": {
+      "evidence_events": 3,
+      "observed_passages": 2,
+      "utilized_passages": 2,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E003",
+        "E025",
+        "E026"
+      ]
+    },
+    "P03": {
+      "evidence_events": 3,
+      "observed_passages": 2,
+      "utilized_passages": 2,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E004",
+        "E005",
+        "E018"
+      ]
+    },
+    "P04": {
+      "evidence_events": 3,
+      "observed_passages": 3,
+      "utilized_passages": 3,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E002",
+        "E013",
+        "E022"
+      ]
+    },
+    "P05": {
+      "evidence_events": 5,
+      "observed_passages": 4,
+      "utilized_passages": 4,
+      "utilized_questions": 4,
+      "source_questions": 5,
+      "structure_only_events": [
+        "E028"
+      ],
+      "event_ids": [
+        "E010",
+        "E015",
+        "E019",
+        "E028",
+        "E030"
+      ]
+    },
+    "P06": {
+      "evidence_events": 2,
+      "observed_passages": 2,
+      "utilized_passages": 2,
+      "utilized_questions": 2,
+      "source_questions": 2,
+      "structure_only_events": [],
+      "event_ids": [
+        "E037",
+        "E039"
+      ]
+    },
+    "P07": {
+      "evidence_events": 3,
+      "observed_passages": 3,
+      "utilized_passages": 3,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E017",
+        "E021",
+        "E035"
+      ]
+    },
+    "S01": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E009"
+      ]
+    },
+    "S02": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E020"
+      ]
+    },
+    "S03": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E023"
+      ]
+    },
+    "S04": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E029"
+      ]
+    },
+    "S05": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E031"
+      ]
+    },
+    "S06": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E038"
+      ]
+    }
+  }
+}

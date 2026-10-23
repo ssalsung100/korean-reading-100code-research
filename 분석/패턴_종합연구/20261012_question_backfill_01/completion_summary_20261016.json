@@ -1,0 +1,68 @@
+{
+  "status": "대상1077문항 사후 심층 추출·27묶음 감사·전수 기계검증 완료; 의미 유보93문항 보존",
+  "scope": "기존 1차 탐색 미추출 1077문항의 사후 심층 보완",
+  "completed_at": "2026-10-16T05:09:49.643810+09:00",
+  "by_exam": {
+    "KICE": {
+      "target": 496,
+      "reviewed": 496,
+      "deeply_extracted": 496,
+      "scenes": 788,
+      "unresolved_questions": 20,
+      "remaining": 0
+    },
+    "LEET": {
+      "target": 379,
+      "reviewed": 379,
+      "deeply_extracted": 379,
+      "scenes": 580,
+      "unresolved_questions": 32,
+      "remaining": 0
+    },
+    "MEET": {
+      "target": 202,
+      "reviewed": 202,
+      "deeply_extracted": 202,
+      "scenes": 218,
+      "unresolved_questions": 41,
+      "remaining": 0
+    }
+  },
+  "session_added": {
+    "questions": 287,
+    "scenes": 348
+  },
+  "total": {
+    "questions": 1077,
+    "scenes": 1586,
+    "options": 5385,
+    "unresolved_questions": 93
+  },
+  "audits": {
+    "batches": 27,
+    "sample_questions": 376,
+    "sample_scenes": 620
+  },
+  "validation": {
+    "mechanical_errors": 0,
+    "protected_files_checked": 9811,
+    "protected_changes": 0,
+    "supplement_references_checked": 962,
+    "unique_supplement_files": 506,
+    "pending_backfill_raw": 0
+  },
+  "new_candidates_this_session": [
+    "BFP016",
+    "BFP017"
+  ],
+  "latest_development": "QBF01-DEV114",
+  "latest_scene_amendment": "QBF01-AMD057",
+  "latest_question_amendment": "QBF01-QAMD009",
+  "final_handoff": "session_handoff_20261016_01.json",
+  "followup_priorities": "followup_priorities_20261016.json",
+  "all_unresolved": "unresolved_review_queue_20261016.jsonl",
+  "new_blind_questions": 0,
+  "current_session_other_models_called": false,
+  "git_push": false,
+  "limits": "미추출대상전건의사후보완완료.100코드최종확정·의미유보전부해소·공식이미지독립전수검수완료를뜻하지않음."
+}

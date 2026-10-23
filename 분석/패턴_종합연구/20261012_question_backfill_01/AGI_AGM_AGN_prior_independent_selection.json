@@ -1,0 +1,139 @@
+{
+  "AGI": [
+    {
+      "line": 2936,
+      "record_id": "AGI-independent_code-20260920-01",
+      "case": "AGI",
+      "stage": "independent_code",
+      "status": "done",
+      "timestamp": "2026-09-20T04:29:34.851636+00:00",
+      "payload": {
+        "passage_group": "G199",
+        "logic_without_codes_fixed": "이신론·자연학은기존믿음을기각하고자유로운삶의토대를주는근거이며윤리학은행복실현방안을제시한다. 서로다른설명의논증상역할을대응.",
+        "primary": [
+          60
+        ],
+        "auxiliary": [
+          44,
+          17
+        ],
+        "surface": [
+          81,
+          46
+        ],
+        "evidence": [
+          "원자우연성·신비개입으로잘못된믿음에서벗어남,이를토대로윤리학전개·행복방안."
+        ],
+        "competing_codes": [
+          {
+            "code": 44,
+            "reason": "행복이라는목적과각학설의기여를수단/목적으로도기술가능. 그러나㉠㉡의근거제공과㉢의방안제시라는논증역할차이를60으로대표. 전역배타성유보."
+          },
+          {
+            "code": 46,
+            "reason": "믿음이심리적두려움에영향준다는맥락은있지만정답은세학설이글에서담당하는근거/방법역할의대응이다. 새로운인과경로추론은없음."
+          },
+          {
+            "code": 81,
+            "reason": "신·영혼·우주의존재방식이소재지만존재론학설의옳고그름을묻지않는다. 내용소재와논증구조를분리."
+          }
+        ],
+        "falsification_probe": "이신론을신운행믿음의근거로바꾸면같은신이라는주제를유지해도그믿음을해소하려는실제논증방향이뒤집힌다.",
+        "confidence": 0.97,
+        "sdss_seen": false,
+        "quota_status": "unavailable"
+      }
+    }
+  ],
+  "AGM": [
+    {
+      "line": 2957,
+      "record_id": "AGM-independent_code-20260920-01",
+      "case": "AGM",
+      "stage": "independent_code",
+      "status": "done",
+      "timestamp": "2026-09-20T04:36:28.644632+00:00",
+      "payload": {
+        "passage_group": "G200",
+        "logic_without_codes_fixed": "세포핵DNA정보에따라생산된미토대사필요단백질의사용처는미토내부다.④는필요한수송을미토→세포질방향으로역전한다.",
+        "primary": [],
+        "primary_candidates": [
+          45,
+          17
+        ],
+        "working_representative": 45,
+        "auxiliary": [
+          42,
+          10
+        ],
+        "auxiliary_scope": "42는막안팎방향,10은③기존미토이분분열이유일생성원천이라는필요조건확인.",
+        "evidence": [
+          "마지막문단미토대사단백질은세포핵DNA로부터합성. 새미토는기존미토의이분분열로만생성."
+        ],
+        "competing_codes": [
+          {
+            "code": 17,
+            "reason": "생산정보출처와사용처를서로다른장소에귀속하는행동은45의전달대응과국소중첩해후보유지."
+          },
+          {
+            "code": 40,
+            "reason": "부분기관구조를알아야하지만틀린것은부분/전체성질전이가아니라물질이동방향이다."
+          },
+          {
+            "code": 46,
+            "reason": "단백질이대사에필요하다는작용관계는배경. 특정생산기구·수송메커니즘을추가추론하지않고본문의출처/용도대응만따름."
+          }
+        ],
+        "scope_limit": "정보출처가단백질의정확한합성소기관위치와동일하다고단정하지않음. 원문밖번역·수송기구세부는추가하지않는다.",
+        "confidence": 0.96,
+        "sdss_seen": false,
+        "quota_status": "unavailable"
+      }
+    }
+  ],
+  "AGN": [
+    {
+      "line": 2958,
+      "record_id": "AGN-independent_code-20260920-01",
+      "case": "AGN",
+      "stage": "independent_code",
+      "status": "done",
+      "timestamp": "2026-09-20T04:36:49.915209+00:00",
+      "payload": {
+        "passage_group": "G200",
+        "logic_without_codes_fixed": "일반내부공생·미토기능은이미알려졌지만독자DNA등독립생명체기원을지지하는근거는나중에확인됐다. 알려진배경과이론수용을바꾼증거를구별해⑤선택.",
+        "primary": [],
+        "primary_candidates": [
+          63,
+          56
+        ],
+        "working_representative": 63,
+        "auxiliary": [
+          3,
+          17
+        ],
+        "evidence": [
+          "4문단기능·구조·내부공생사례기지,별도DNA·자체리보솜발견후이론부각."
+        ],
+        "competing_codes": [
+          {
+            "code": 56,
+            "reason": "수용지연의이유를설명하는행동과증거의가설지지역할평가63이국소결합해유일주유보."
+          },
+          {
+            "code": 74,
+            "reason": "전통유전학과새이론이배경에있지만서로다른예측을동일실험자료로비교하는작업은없다. 새증거의특정기원설지지역할에초점."
+          },
+          {
+            "code": 1,
+            "reason": "근거정보유무가관련되나무엇이이미알려졌고무엇이기원을뒷받침하는지구분해야한다. 모든생물정보부재라는양질요약으로는③과⑤를구별못함."
+          }
+        ],
+        "falsification_probe": "내부공생이가능하다는일반사례를더제공해도특정미토콘드리아의박테리아기원이직접확인되는것과동일하지않다. 일반가능성과특정기원증거의층위분리.",
+        "confidence": 0.96,
+        "sdss_seen": false,
+        "quota_status": "unavailable"
+      }
+    }
+  ]
+}

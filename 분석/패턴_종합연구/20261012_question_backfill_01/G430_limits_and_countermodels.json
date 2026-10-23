@@ -1,0 +1,28 @@
+{
+  "status": "사후 개념 구별을 위한 가상 모형; 실제 생리 수치·약물 효과 아님",
+  "BHK": {
+    "source_visual": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2012/page_007.png",
+    "choice3_verified": "지방세포가 다른 부위보다 더 잘 축적되는",
+    "choice5_verified": "비례한다",
+    "fat_vs_cells": "지방량을 세포수×평균 저장량으로 단순화하면 100×2=200,150×1=150도 가능. 지방량이 많은 쪽의 세포수가 더 많을 필요는 없다.",
+    "monotonic_vs_proportional": "양의 x에서 v=x²는 크기 증가에 따라 빨라지지만 v/x 일정은 아니다. 본문이 이 함수를 실제 주장한다는 뜻은 아님."
+  },
+  "BHM": {
+    "balance": "Δ지방량은 기간 동안 저장 유입에서 자극 분해와 기초 분해를 뺀 순량에 의존한다.",
+    "toy_before": {
+      "storage": 8,
+      "stimulated_breakdown": 5,
+      "basal_breakdown": 5,
+      "net": -2
+    },
+    "toy_after": {
+      "storage": 8.5,
+      "stimulated_breakdown": 4.5,
+      "basal_breakdown": 5,
+      "net": -1
+    },
+    "implication": "기초 분해 고정 아래 저장 증가·자극 분해 감소여도 순변화가 덜 음수일 뿐 여전히 감소할 수 있다. 무투여 대비 증가 방향과 투여 전후 절대 증가를 구별한다.",
+    "sufficient_bridge": "투여 전 관련 저장·분해가 균형이며 같은 기간의 다른 유입·유출 변화가 없고 투여가 본문의 성별 특성 방향으로 작용한다고 가정하면 정성 증감 예측을 연결할 수 있다. 균형은 충분한 추가 조건의 하나이지 유일한 필요조건이 아니다.",
+    "official": 1
+  }
+}

@@ -1,0 +1,1520 @@
+{
+  "scope": "target orders 81-160; paths and existence only; linked restoration/follow-up history was not revalidated",
+  "items": [
+    {
+      "order": 81,
+      "unique_question": "U0037-Q04",
+      "analysis_ids": [
+        "PREP:GC",
+        "code_reviews_01.jsonl:17"
+      ],
+      "existing_individual_solutions": [
+        {
+          "analysis_id": "code_reviews_01.jsonl:17",
+          "path": "data/기본기_연구/code_reviews_01.jsonl",
+          "line": 17,
+          "exists": true
+        },
+        {
+          "analysis_id": "code_reviews_01.jsonl:17",
+          "path": "data/kice_questions.jsonl",
+          "exists": true
+        }
+      ],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 648,
+          "stored_question_id": "KICE-2026-수능-Q04-09-S075~080-Q07"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 82,
+      "unique_question": "U0037-Q05",
+      "analysis_ids": [
+        "PREP:GD"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 649,
+          "stored_question_id": "KICE-2026-수능-Q04-09-S075~080-Q08"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 83,
+      "unique_question": "U0037-Q06",
+      "analysis_ids": [
+        "PREP:GE"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 650,
+          "stored_question_id": "KICE-2026-수능-Q04-09-S075~080-Q09"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 84,
+      "unique_question": "U0038-Q01",
+      "analysis_ids": [
+        "PREP:GF"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 1,
+          "stored_question_id": "KICE-2010-9월_모평-Q13-17-S001~005-Q13"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 85,
+      "unique_question": "U0038-Q02",
+      "analysis_ids": [
+        "PREP:GG"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 2,
+          "stored_question_id": "KICE-2010-9월_모평-Q13-17-S001~005-Q14"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 86,
+      "unique_question": "U0038-Q04",
+      "analysis_ids": [
+        "PREP:GI"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 4,
+          "stored_question_id": "KICE-2010-9월_모평-Q13-17-S001~005-Q16"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 87,
+      "unique_question": "U0039-Q02",
+      "analysis_ids": [
+        "PREP:GL"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 7,
+          "stored_question_id": "KICE-2010-6월_모평-Q20-22-S009~011-Q21"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GL_device_figure.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GL_formula_supplement.md",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 88,
+      "unique_question": "U0040-Q01",
+      "analysis_ids": [
+        "PREP:GN"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 9,
+          "stored_question_id": "KICE-2010-6월_모평-Q36-37-S012~013-Q36"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GN_A_range_supplement.md",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GN_graph_figure.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GN_graph_figure_provenance.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 89,
+      "unique_question": "U0041-Q01",
+      "analysis_ids": [
+        "PREP:GP"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 11,
+          "stored_question_id": "KICE-2010-6월_모평-Q47-50-S014~017-Q47"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 90,
+      "unique_question": "U0041-Q02",
+      "analysis_ids": [
+        "PREP:GQ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 12,
+          "stored_question_id": "KICE-2010-6월_모평-Q47-50-S014~017-Q48"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GQ_choices_supplement.md",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 91,
+      "unique_question": "U0041-Q03",
+      "analysis_ids": [
+        "PREP:GR"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 13,
+          "stored_question_id": "KICE-2010-6월_모평-Q47-50-S014~017-Q49"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 92,
+      "unique_question": "U0042-Q01",
+      "analysis_ids": [
+        "PREP:GT"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 15,
+          "stored_question_id": "KICE-2011-수능-Q44-46-S006~008-Q44"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 93,
+      "unique_question": "U0042-Q03",
+      "analysis_ids": [
+        "PREP:GV"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 17,
+          "stored_question_id": "KICE-2011-수능-Q44-46-S006~008-Q46"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GV_graph_figure.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GV_graph_figure_provenance.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 94,
+      "unique_question": "U0043-Q01",
+      "analysis_ids": [
+        "PREP:GW"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 18,
+          "stored_question_id": "KICE-2011-수능-Q32-36-S010~014-Q32"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 95,
+      "unique_question": "U0043-Q03",
+      "analysis_ids": [
+        "PREP:GY"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 20,
+          "stored_question_id": "KICE-2011-수능-Q32-36-S010~014-Q34"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 96,
+      "unique_question": "U0043-Q04",
+      "analysis_ids": [
+        "PREP:GZ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 21,
+          "stored_question_id": "KICE-2011-수능-Q32-36-S010~014-Q35"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GZ_astronomy_figure.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GZ_choices_figure.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GZ_choices_supplement.md",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/GZ_figure_provenance.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 97,
+      "unique_question": "U0043-Q05",
+      "analysis_ids": [
+        "PREP:HA"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 22,
+          "stored_question_id": "KICE-2011-수능-Q32-36-S010~014-Q36"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 98,
+      "unique_question": "U0044-Q02",
+      "analysis_ids": [
+        "PREP:HC"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 24,
+          "stored_question_id": "KICE-2011-9월_모평-Q48-50-S015~017-Q49"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 99,
+      "unique_question": "U0044-Q03",
+      "analysis_ids": [
+        "PREP:HD"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 25,
+          "stored_question_id": "KICE-2011-9월_모평-Q48-50-S015~017-Q50"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/HD_graph_figure.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/HD_graph_figure_provenance.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 100,
+      "unique_question": "U0045-Q02",
+      "analysis_ids": [
+        "PREP:HF"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 27,
+          "stored_question_id": "KICE-2012-수능-Q17-20-S055~058-Q18"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 101,
+      "unique_question": "U0045-Q03",
+      "analysis_ids": [
+        "PREP:HG"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 29,
+          "stored_question_id": "KICE-2012-수능-Q17-20-S055~058-Q20"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 102,
+      "unique_question": "U0046-Q01",
+      "analysis_ids": [
+        "PREP:HH"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 30,
+          "stored_question_id": "KICE-2012-수능-Q29-30-S153~154-Q29"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 103,
+      "unique_question": "U0047-Q01",
+      "analysis_ids": [
+        "PREP:HJ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 661,
+          "stored_question_id": "KICE-2026-수능-Q10-13-S021~024-Q10"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 104,
+      "unique_question": "U0047-Q03",
+      "analysis_ids": [
+        "PREP:HL"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 663,
+          "stored_question_id": "KICE-2026-수능-Q10-13-S021~024-Q12"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 105,
+      "unique_question": "U0047-Q04",
+      "analysis_ids": [
+        "PREP:HM"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 664,
+          "stored_question_id": "KICE-2026-수능-Q10-13-S021~024-Q13"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 106,
+      "unique_question": "U0048-Q01",
+      "analysis_ids": [
+        "PREP:HN"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 43,
+          "stored_question_id": "KICE-2012-수능-Q43-46-S041~044-Q43"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 107,
+      "unique_question": "U0048-Q03",
+      "analysis_ids": [
+        "PREP:HP"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 45,
+          "stored_question_id": "KICE-2012-수능-Q43-46-S041~044-Q45"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 108,
+      "unique_question": "U0048-Q04",
+      "analysis_ids": [
+        "PREP:HQ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 46,
+          "stored_question_id": "KICE-2012-수능-Q43-46-S041~044-Q46"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/HQ_table.png",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 109,
+      "unique_question": "U0049-Q01",
+      "analysis_ids": [
+        "PREP:HR"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 39,
+          "stored_question_id": "KICE-2012-수능-Q47-50-S035~038-Q47"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 110,
+      "unique_question": "U0049-Q03",
+      "analysis_ids": [
+        "PREP:HT"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 41,
+          "stored_question_id": "KICE-2012-수능-Q47-50-S035~038-Q49"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 111,
+      "unique_question": "U0049-Q04",
+      "analysis_ids": [
+        "PREP:HU"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 42,
+          "stored_question_id": "KICE-2012-수능-Q47-50-S035~038-Q50"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 112,
+      "unique_question": "U0050-Q01",
+      "analysis_ids": [
+        "PREP:HV"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 64,
+          "stored_question_id": "KICE-2013-6월_모평-Q44-46-S044~046-Q44"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 113,
+      "unique_question": "U0050-Q02",
+      "analysis_ids": [
+        "PREP:HW"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 65,
+          "stored_question_id": "KICE-2013-6월_모평-Q44-46-S044~046-Q45"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/HW_paths_supplement.md",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 114,
+      "unique_question": "U0051-Q01",
+      "analysis_ids": [
+        "PREP:HY"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 51,
+          "stored_question_id": "KICE-2013-6월_모평-Q47-50-S149~152-Q47"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 115,
+      "unique_question": "U0051-Q04",
+      "analysis_ids": [
+        "PREP:IB"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 54,
+          "stored_question_id": "KICE-2013-6월_모평-Q47-50-S149~152-Q50"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 116,
+      "unique_question": "U0052-Q01",
+      "analysis_ids": [
+        "PREP:IC"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 67,
+          "stored_question_id": "KICE-2013-9월_모평-Q17-19-S088~090-Q17"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 117,
+      "unique_question": "U0052-Q03",
+      "analysis_ids": [
+        "PREP:IE"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 69,
+          "stored_question_id": "KICE-2013-9월_모평-Q17-19-S088~090-Q19"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 118,
+      "unique_question": "U0053-Q01",
+      "analysis_ids": [
+        "PREP:IF"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 74,
+          "stored_question_id": "KICE-2013-9월_모평-Q40-43-S015~018-Q40"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 119,
+      "unique_question": "U0053-Q02",
+      "analysis_ids": [
+        "PREP:IG"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 75,
+          "stored_question_id": "KICE-2013-9월_모평-Q40-43-S015~018-Q41"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 120,
+      "unique_question": "U0053-Q04",
+      "analysis_ids": [
+        "PREP:II"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 77,
+          "stored_question_id": "KICE-2013-9월_모평-Q40-43-S015~018-Q43"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 121,
+      "unique_question": "U0054-Q02",
+      "analysis_ids": [
+        "PREP:IK"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 56,
+          "stored_question_id": "KICE-2013-9월_모평-Q44-46-S032~034-Q45"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/IK_choice_table_supplement.md",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 122,
+      "unique_question": "U0054-Q03",
+      "analysis_ids": [
+        "PREP:IL"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 57,
+          "stored_question_id": "KICE-2013-9월_모평-Q44-46-S032~034-Q46"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 123,
+      "unique_question": "U0055-Q01",
+      "analysis_ids": [
+        "PREP:IM"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 58,
+          "stored_question_id": "KICE-2013-수능-Q29-31-S059~061-Q29"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 124,
+      "unique_question": "U0055-Q02",
+      "analysis_ids": [
+        "PREP:IN"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 59,
+          "stored_question_id": "KICE-2013-수능-Q29-31-S059~061-Q30"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 125,
+      "unique_question": "U0056-Q01",
+      "analysis_ids": [
+        "PREP:IP"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 103,
+          "stored_question_id": "KICE-2014-6월_모평A-Q19-21-S033~035-Q19"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 126,
+      "unique_question": "U0056-Q02",
+      "analysis_ids": [
+        "PREP:IQ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 104,
+          "stored_question_id": "KICE-2014-6월_모평A-Q19-21-S033~035-Q20"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 127,
+      "unique_question": "U0057-Q03",
+      "analysis_ids": [
+        "PREP:IU"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 641,
+          "stored_question_id": "KICE-2026-수능-Q01-03-S174~176-Q03"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 128,
+      "unique_question": "U0058-Q01",
+      "analysis_ids": [
+        "PREP:IV"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 635,
+          "stored_question_id": "KICE-2026-수능-Q14-17-S096~099-Q14"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 129,
+      "unique_question": "U0058-Q03",
+      "analysis_ids": [
+        "PREP:IX"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 637,
+          "stored_question_id": "KICE-2026-수능-Q14-17-S096~099-Q16"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/IX_activity_table_supplement.md",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 130,
+      "unique_question": "U0058-Q04",
+      "analysis_ids": [
+        "PREP:IY"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 638,
+          "stored_question_id": "KICE-2026-수능-Q14-17-S096~099-Q17"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 131,
+      "unique_question": "U0060-Q01",
+      "analysis_ids": [
+        "PREP:JC"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 78,
+          "stored_question_id": "KICE-2014-9월_모평B-Q17-20-S051~054-Q17"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 132,
+      "unique_question": "U0060-Q02",
+      "analysis_ids": [
+        "PREP:JD"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 79,
+          "stored_question_id": "KICE-2014-9월_모평B-Q17-20-S051~054-Q18"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/JD_supplement.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 133,
+      "unique_question": "U0060-Q04",
+      "analysis_ids": [
+        "PREP:JF"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 81,
+          "stored_question_id": "KICE-2014-9월_모평B-Q17-20-S051~054-Q20"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 134,
+      "unique_question": "U0061-Q01",
+      "analysis_ids": [
+        "PREP:JG"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 82,
+          "stored_question_id": "KICE-2014-수능B-Q19-21-S120~122-Q19"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 135,
+      "unique_question": "U0061-Q02",
+      "analysis_ids": [
+        "PREP:JH"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 83,
+          "stored_question_id": "KICE-2014-수능B-Q19-21-S120~122-Q20"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 136,
+      "unique_question": "U0062-Q01",
+      "analysis_ids": [
+        "PREP:JJ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 85,
+          "stored_question_id": "KICE-2014-6월_모평B-Q17-20-S170~173-Q17"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 137,
+      "unique_question": "U0062-Q03",
+      "analysis_ids": [
+        "PREP:JL",
+        "독립풀이_04:Y"
+      ],
+      "existing_individual_solutions": [
+        {
+          "analysis_id": "독립풀이_04:Y",
+          "path": "data/기본기_연구/독립풀이_04/packets/Y.md",
+          "exists": true
+        },
+        {
+          "analysis_id": "독립풀이_04:Y",
+          "path": "data/기본기_연구/독립풀이_04/Y_01_최초풀이.md",
+          "exists": true
+        },
+        {
+          "analysis_id": "독립풀이_04:Y",
+          "path": "data/기본기_연구/독립풀이_04/Y_02_정답대조와_독립코드.md",
+          "exists": true
+        },
+        {
+          "analysis_id": "독립풀이_04:Y",
+          "path": "data/기본기_연구/독립풀이_04/Y_03_SDSS대조.md",
+          "exists": true
+        }
+      ],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 87,
+          "stored_question_id": "KICE-2014-6월_모평B-Q17-20-S170~173-Q19"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 138,
+      "unique_question": "U0063-Q02",
+      "analysis_ids": [
+        "PREP:JO"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 92,
+          "stored_question_id": "KICE-2014-6월_모평B-Q28-29-S007~008-Q29"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 139,
+      "unique_question": "U0064-Q02",
+      "analysis_ids": [
+        "PREP:JQ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 94,
+          "stored_question_id": "KICE-2014-수능B-Q26-27-S019~020-Q27"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/JQ_supplement.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 140,
+      "unique_question": "U0065-Q02",
+      "analysis_ids": [
+        "PREP:JS"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 96,
+          "stored_question_id": "KICE-2014-9월_모평B-Q28-29-S030~031-Q29"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/JS_supplement.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 141,
+      "unique_question": "U0066-Q01",
+      "analysis_ids": [
+        "PREP:JT"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 97,
+          "stored_question_id": "KICE-2014-9월_모평A-Q16-18-S094~096-Q16"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 142,
+      "unique_question": "U0066-Q02",
+      "analysis_ids": [
+        "PREP:JU"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 98,
+          "stored_question_id": "KICE-2014-9월_모평A-Q16-18-S094~096-Q17"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 143,
+      "unique_question": "U0067-Q01",
+      "analysis_ids": [
+        "PREP:JW"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 100,
+          "stored_question_id": "KICE-2014-수능A-Q28-30-S030~032-Q28"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 144,
+      "unique_question": "U0067-Q03",
+      "analysis_ids": [
+        "PREP:JY"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 102,
+          "stored_question_id": "KICE-2014-수능A-Q28-30-S030~032-Q30"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/JY_supplement.json",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/JY_table_supplement.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 145,
+      "unique_question": "U0068-Q01",
+      "analysis_ids": [
+        "PREP:JZ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 106,
+          "stored_question_id": "KICE-2014-9월_모평A-Q19-21-S055~057-Q19"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 146,
+      "unique_question": "U0068-Q03",
+      "analysis_ids": [
+        "PREP:KB"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 108,
+          "stored_question_id": "KICE-2014-9월_모평A-Q19-21-S055~057-Q21"
+        }
+      ],
+      "choice_figure_table_supplements": [
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choices_supplement.json",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_1.bmp",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_1.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_2.bmp",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_2.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_3.bmp",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_3.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_4.bmp",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_4.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_5.bmp",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_choice_5.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_image14.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_image15.png",
+          "exists": true,
+          "matched_case_filename": true
+        },
+        {
+          "path": "data/기본기_연구/prepared_backlog/blind_sources/KB_supplement.json",
+          "exists": true,
+          "matched_case_filename": true
+        }
+      ]
+    },
+    {
+      "order": 147,
+      "unique_question": "U0069-Q02",
+      "analysis_ids": [
+        "PREP:KD"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 113,
+          "stored_question_id": "KICE-2014-수능B-Q28-30-S038~040-Q29"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 148,
+      "unique_question": "U0069-Q03",
+      "analysis_ids": [
+        "PREP:KE"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 114,
+          "stored_question_id": "KICE-2014-수능B-Q28-30-S038~040-Q30"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 149,
+      "unique_question": "U0070-Q01",
+      "analysis_ids": [
+        "PREP:KF"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 35,
+          "stored_question_id": "KICE-2012-수능-Q21-24-S009~012-Q21"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 150,
+      "unique_question": "U0070-Q02",
+      "analysis_ids": [
+        "PREP:KG"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 36,
+          "stored_question_id": "KICE-2012-수능-Q21-24-S009~012-Q22"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 151,
+      "unique_question": "U0070-Q04",
+      "analysis_ids": [
+        "PREP:KI"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 38,
+          "stored_question_id": "KICE-2012-수능-Q21-24-S009~012-Q24"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 152,
+      "unique_question": "U0071-Q01",
+      "analysis_ids": [
+        "PREP:KJ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 47,
+          "stored_question_id": "KICE-2013-수능-Q21-24-S079~082-Q21"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 153,
+      "unique_question": "U0071-Q02",
+      "analysis_ids": [
+        "PREP:KK"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 48,
+          "stored_question_id": "KICE-2013-수능-Q21-24-S079~082-Q22"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 154,
+      "unique_question": "U0071-Q04",
+      "analysis_ids": [
+        "PREP:KM"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 50,
+          "stored_question_id": "KICE-2013-수능-Q21-24-S079~082-Q24"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 155,
+      "unique_question": "U0072-Q01",
+      "analysis_ids": [
+        "PREP:KN"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 61,
+          "stored_question_id": "KICE-2013-6월_모평-Q23-25-S097~099-Q23"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 156,
+      "unique_question": "U0072-Q03",
+      "analysis_ids": [
+        "PREP:KP"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 63,
+          "stored_question_id": "KICE-2013-6월_모평-Q23-25-S097~099-Q25"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 157,
+      "unique_question": "U0073-Q01",
+      "analysis_ids": [
+        "PREP:KQ"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 70,
+          "stored_question_id": "KICE-2013-수능-Q25-28-S011~014-Q25"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 158,
+      "unique_question": "U0073-Q02",
+      "analysis_ids": [
+        "PREP:KR"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 71,
+          "stored_question_id": "KICE-2013-수능-Q25-28-S011~014-Q26"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 159,
+      "unique_question": "U0073-Q04",
+      "analysis_ids": [
+        "PREP:KT"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 73,
+          "stored_question_id": "KICE-2013-수능-Q25-28-S011~014-Q28"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    },
+    {
+      "order": 160,
+      "unique_question": "U0074-Q01",
+      "analysis_ids": [
+        "PREP:KU"
+      ],
+      "existing_individual_solutions": [],
+      "question_source_locations": [
+        {
+          "path": "data/kice_questions.jsonl",
+          "line": 109,
+          "stored_question_id": "KICE-2014-수능A-Q19-21-S035~037-Q19"
+        }
+      ],
+      "choice_figure_table_supplements": []
+    }
+  ]
+}

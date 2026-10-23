@@ -1,0 +1,1126 @@
+{
+  "status": "pass",
+  "date": "2026-10-18",
+  "checkpoint": "IR01-checkpoint-20261018-78-v1-readiness",
+  "scope": "새112후보 처리표·63원리 상태 및 새76~78 비교의 파일/참조/계수만 국소 확인; 기존 원장 전수 정합성·해시 재검증 아님",
+  "counts": {
+    "casebooks": 78,
+    "source_directly_compared_questions": 132,
+    "source_directly_compared_passage_groups": 102,
+    "compared_existing_scene_records": 191,
+    "metadata_only_questions": 1,
+    "metadata_only_scene_records": 2,
+    "provisional_principle_records": 63,
+    "integration_decision_records": 96,
+    "production_effect_records": 300,
+    "development_records_used": 38,
+    "development_records_all_referenced_scenes_compared": 36,
+    "development_records_partially_compared": 1,
+    "new_blind_questions": 0,
+    "development_semantic_records_used": 37,
+    "development_metadata_records_linked": 1,
+    "standalone_researcher_reviews": 40,
+    "creation_prototypes": 3,
+    "prototype_questions": 4
+  },
+  "candidate_classifications": {
+    "A": 12,
+    "C": 58,
+    "D": 25,
+    "B": 17
+  },
+  "principle_statuses": {
+    "잠정 안정화": 26,
+    "단독 잠정 후보": 29,
+    "추가 비교 필요": 5,
+    "재분류 검토": 3
+  },
+  "new_source_checks": {
+    "cases": [
+      "QZ",
+      "SH",
+      "AGT",
+      "BFV"
+    ],
+    "questions": 4,
+    "existing_scenes": 8,
+    "all_options_saved": true,
+    "source_unresolved_preserved": true,
+    "source_links_exist": true
+  },
+  "local_math_artifacts": [
+    "국소반모형검산_BFV_20261018.json"
+  ],
+  "errors": [],
+  "full_hash_revalidation": false,
+  "old_original_records_modified": false,
+  "previous_checkpoint_verification": {
+    "status": "정상",
+    "checkpoint": "IR01-checkpoint-20261018-75",
+    "scope": "사례집69~75의 새 원문·전체 선지·원유보·기존 OH수식보완·SC정돈표·QR조합 및 현행 출처/DEV/누계 연결만 국소 확인. 원래 완료 원장 전수 검사 아님.",
+    "counts": {
+      "casebooks": 75,
+      "source_directly_compared_questions": 128,
+      "source_directly_compared_passage_groups": 98,
+      "compared_existing_scene_records": 183,
+      "metadata_only_questions": 1,
+      "metadata_only_scene_records": 2,
+      "provisional_principle_records": 62,
+      "integration_decision_records": 93,
+      "production_effect_records": 285,
+      "development_records_used": 35,
+      "development_records_all_referenced_scenes_compared": 34,
+      "development_records_partially_compared": 0,
+      "new_blind_questions": 0,
+      "development_semantic_records_used": 34,
+      "development_metadata_records_linked": 1,
+      "standalone_researcher_reviews": 37,
+      "creation_prototypes": 3,
+      "prototype_questions": 4
+    },
+    "new_source_checks": [
+      {
+        "case": "NF",
+        "casebook": 69,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "NW",
+        "casebook": 70,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "OH",
+        "casebook": 70,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "NL",
+        "casebook": 71,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "NY",
+        "casebook": 72,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "PB",
+        "casebook": 73,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "OP",
+        "casebook": 73,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "PR",
+        "casebook": 74,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "QR",
+        "casebook": 75,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      },
+      {
+        "case": "SC",
+        "casebook": 75,
+        "all_choices_in_both_documents": true,
+        "original_unresolved_preserved": true,
+        "official_answer_link_matches_current": true,
+        "new_blind": false
+      }
+    ],
+    "local_math_artifacts": [
+      "국소계산검산_NF_NW_OH_20261018.json",
+      "국소조합표검산_QR_SC_20261018.json"
+    ],
+    "source_scope_notes": [
+      "QR의2n과SC의음의지수는원배포시각확인성과로주장하지않음",
+      "OH는기존B/A로컬보완을승계;원문추정복원아님",
+      "SC펌프구성그림은현재문항근거아니며신규검증하지않음"
+    ],
+    "errors": [],
+    "full_hash_revalidation": false,
+    "old_original_records_modified": false,
+    "previous_checkpoint_verification": {
+      "status": "정상",
+      "checkpoint": "IR01-checkpoint-20261018-71",
+      "scope": "69~71의 새 원문·전체 선지·OH기존 수식보완·원유보·DEV연결·현행 수량만 국소 확인. 원장 전수 검사 아님.",
+      "counts": {
+        "casebooks": 71,
+        "source_directly_compared_questions": 122,
+        "source_directly_compared_passage_groups": 94,
+        "compared_existing_scene_records": 169,
+        "metadata_only_questions": 1,
+        "metadata_only_scene_records": 2,
+        "provisional_principle_records": 61,
+        "integration_decision_records": 87,
+        "production_effect_records": 259,
+        "development_records_used": 33,
+        "development_records_all_referenced_scenes_compared": 32,
+        "development_records_partially_compared": 0,
+        "new_blind_questions": 0,
+        "development_semantic_records_used": 32,
+        "development_metadata_records_linked": 1,
+        "standalone_researcher_reviews": 33,
+        "creation_prototypes": 3,
+        "prototype_questions": 4
+      },
+      "new_source_checks": [
+        {
+          "case": "NF",
+          "full_choices_in_review": true,
+          "source_supplement": null,
+          "original_unresolved_preserved": true
+        },
+        {
+          "case": "NW",
+          "full_choices_in_review": true,
+          "source_supplement": null,
+          "original_unresolved_preserved": true
+        },
+        {
+          "case": "OH",
+          "full_choices_in_review": true,
+          "source_supplement": "OH_canonical_source_supplement.json",
+          "original_unresolved_preserved": true
+        },
+        {
+          "case": "NL",
+          "full_choices_in_review": true,
+          "source_supplement": null,
+          "original_unresolved_preserved": true
+        }
+      ],
+      "local_math_artifact": "국소계산검산_NF_NW_OH_20261018.json",
+      "errors": [],
+      "full_hash_revalidation": false,
+      "old_original_records_modified": false,
+      "previous_checkpoint_verification": {
+        "status": "정상",
+        "checkpoint": "IR01-checkpoint-20261018-68",
+        "scope": "67~68신규3문항6장면의원문·전체선지·정돈표·그림·원유보·최초단계이력과고유수량국소검증.전체원장재검증아님.",
+        "counts": {
+          "casebooks": 68,
+          "source_directly_compared_questions": 119,
+          "source_directly_compared_passage_groups": 91,
+          "compared_existing_scene_records": 163,
+          "metadata_only_questions": 1,
+          "metadata_only_scene_records": 2,
+          "provisional_principle_records": 61,
+          "integration_decision_records": 84,
+          "production_effect_records": 241,
+          "development_records_used": 32,
+          "development_records_all_referenced_scenes_compared": 31,
+          "development_records_partially_compared": 0,
+          "new_blind_questions": 0,
+          "development_semantic_records_used": 31,
+          "development_metadata_records_linked": 1,
+          "standalone_researcher_reviews": 30,
+          "creation_prototypes": 3,
+          "prototype_questions": 4
+        },
+        "new_source_checks": [
+          {
+            "case": "LK",
+            "full_source_and_choices_preserved": true,
+            "table_or_visual_directly_verified": true,
+            "original_unresolved_preserved": true
+          },
+          {
+            "case": "MY",
+            "full_source_and_choices_preserved": true,
+            "table_or_visual_directly_verified": false,
+            "original_unresolved_preserved": true
+          },
+          {
+            "case": "MX",
+            "full_source_and_choices_preserved": true,
+            "table_or_visual_directly_verified": true,
+            "original_unresolved_preserved": true
+          }
+        ],
+        "local_math_artifact": "국소배율검산_LK_MY_20261018.json",
+        "errors": [],
+        "full_hash_revalidation": false,
+        "old_original_records_modified": false,
+        "previous_checkpoint_verification": {
+          "status": "정상",
+          "checkpoint": "IR01-checkpoint-20261018-66",
+          "scope": "MS신규1문항의원문·전선지·링크·원유보승계·DEV부분진행과고유수량국소검증",
+          "counts": {
+            "casebooks": 66,
+            "source_directly_compared_questions": 116,
+            "source_directly_compared_passage_groups": 88,
+            "compared_existing_scene_records": 157,
+            "metadata_only_questions": 1,
+            "metadata_only_scene_records": 2,
+            "provisional_principle_records": 61,
+            "integration_decision_records": 82,
+            "production_effect_records": 231,
+            "development_records_used": 32,
+            "development_records_all_referenced_scenes_compared": 30,
+            "development_records_partially_compared": 1,
+            "new_blind_questions": 0,
+            "development_semantic_records_used": 31,
+            "development_metadata_records_linked": 1,
+            "standalone_researcher_reviews": 28,
+            "creation_prototypes": 3,
+            "prototype_questions": 4
+          },
+          "new_source_checks": [
+            {
+              "case": "MS",
+              "full_source_and_choices_preserved": true,
+              "original_unresolved_preserved": true,
+              "first_judgment_date_not_invented": true
+            }
+          ],
+          "errors": [],
+          "full_hash_revalidation": false,
+          "old_original_records_modified": false,
+          "previous_checkpoint_verification": {
+            "status": "정상",
+            "checkpoint": "IR01-checkpoint-20261018-65",
+            "scope": "사례집65신규2문항4장면의출처·전체선지·유보·원답정정이력승계·현행고유수량국소검증",
+            "counts": {
+              "casebooks": 65,
+              "source_directly_compared_questions": 115,
+              "source_directly_compared_passage_groups": 87,
+              "compared_existing_scene_records": 156,
+              "metadata_only_questions": 1,
+              "metadata_only_scene_records": 2,
+              "provisional_principle_records": 60,
+              "integration_decision_records": 81,
+              "production_effect_records": 228,
+              "development_records_used": 31,
+              "development_records_all_referenced_scenes_compared": 30,
+              "development_records_partially_compared": 0,
+              "new_blind_questions": 0,
+              "development_semantic_records_used": 30,
+              "development_metadata_records_linked": 1,
+              "standalone_researcher_reviews": 27,
+              "creation_prototypes": 3,
+              "prototype_questions": 4
+            },
+            "new_source_checks": [
+              {
+                "case": "MB",
+                "full_source_and_choices_preserved": true,
+                "original_unresolved_preserved": true
+              },
+              {
+                "case": "MJ",
+                "full_source_and_choices_preserved": true,
+                "original_unresolved_preserved": true
+              }
+            ],
+            "errors": [],
+            "full_hash_revalidation": false,
+            "old_original_records_modified": false,
+            "previous_checkpoint_verification": {
+              "status": "정상",
+              "checkpoint": "IR01-checkpoint-20261018-64-T003",
+              "scope": "시제품03규약·전선지·3변형유일성국소검산및현행등록수량.기출전수재검증없음.",
+              "counts": {
+                "casebooks": 64,
+                "source_directly_compared_questions": 113,
+                "source_directly_compared_passage_groups": 85,
+                "compared_existing_scene_records": 152,
+                "metadata_only_questions": 1,
+                "metadata_only_scene_records": 2,
+                "provisional_principle_records": 59,
+                "integration_decision_records": 79,
+                "production_effect_records": 220,
+                "development_records_used": 30,
+                "development_records_all_referenced_scenes_compared": 29,
+                "development_records_partially_compared": 0,
+                "new_blind_questions": 0,
+                "development_semantic_records_used": 29,
+                "development_metadata_records_linked": 1,
+                "standalone_researcher_reviews": 26,
+                "creation_prototypes": 3,
+                "prototype_questions": 4
+              },
+              "prototype_check": {
+                "id": "IR-T003",
+                "base_answer": [
+                  4
+                ],
+                "mutation_answers": [
+                  [],
+                  [
+                    2
+                  ],
+                  [
+                    3,
+                    4
+                  ]
+                ],
+                "artifact": "국소상태검산_IR-T003_20261018.json",
+                "reviewed_by_researcher": false
+              },
+              "count_correction": {
+                "date": "2026-10-18",
+                "stage": "64-T003",
+                "field": "source_directly_compared_passage_groups",
+                "before": 86,
+                "after": 85,
+                "reason": "KF U0070은이미비교한KG와동일지문군.62지점의84는83이며문항·장면수는변경없음.현행source_registry의고유그룹으로산출.",
+                "no_source_reanalysis": true
+              },
+              "errors": [],
+              "full_hash_revalidation": false,
+              "old_original_records_modified": false,
+              "previous_checkpoint_verification": {
+                "status": "정상",
+                "checkpoint": "IR01-checkpoint-20261018-64",
+                "scope": "63~64신규3문항의원문·전선지·링크·원유보및사례/DEV수량국소검증",
+                "counts": {
+                  "casebooks": 64,
+                  "source_directly_compared_questions": 113,
+                  "source_directly_compared_passage_groups": 86,
+                  "compared_existing_scene_records": 152,
+                  "metadata_only_questions": 1,
+                  "metadata_only_scene_records": 2,
+                  "provisional_principle_records": 59,
+                  "integration_decision_records": 79,
+                  "production_effect_records": 217,
+                  "development_records_used": 30,
+                  "development_records_all_referenced_scenes_compared": 29,
+                  "development_records_partially_compared": 0,
+                  "new_blind_questions": 0,
+                  "development_semantic_records_used": 29,
+                  "development_metadata_records_linked": 1,
+                  "standalone_researcher_reviews": 26,
+                  "creation_prototypes": 2,
+                  "prototype_questions": 3
+                },
+                "new_source_checks": [
+                  {
+                    "case": "MF",
+                    "full_source_and_choices_present": true,
+                    "original_unresolved_preserved": true
+                  },
+                  {
+                    "case": "MM",
+                    "full_source_and_choices_present": true,
+                    "original_unresolved_preserved": true
+                  },
+                  {
+                    "case": "MO",
+                    "full_source_and_choices_present": true,
+                    "original_unresolved_preserved": true
+                  }
+                ],
+                "errors": [],
+                "researcher_status": "미검토",
+                "full_hash_revalidation": false,
+                "old_original_records_modified": false,
+                "previous_checkpoint_verification": {
+                  "status": "정상",
+                  "checkpoint": "IR01-checkpoint-20261018-62",
+                  "scope": "61~62신규3문항의원문·전체선지·11개그림링크·원유보승계·KB변형구간모형및현행수량국소검증",
+                  "counts": {
+                    "casebooks": 62,
+                    "source_directly_compared_questions": 110,
+                    "source_directly_compared_passage_groups": 84,
+                    "compared_existing_scene_records": 149,
+                    "metadata_only_questions": 1,
+                    "metadata_only_scene_records": 2,
+                    "provisional_principle_records": 59,
+                    "integration_decision_records": 76,
+                    "production_effect_records": 207,
+                    "development_records_used": 29,
+                    "development_records_all_referenced_scenes_compared": 28,
+                    "development_records_partially_compared": 0,
+                    "new_blind_questions": 0,
+                    "development_semantic_records_used": 28,
+                    "development_metadata_records_linked": 1,
+                    "standalone_researcher_reviews": 24,
+                    "creation_prototypes": 2,
+                    "prototype_questions": 3
+                  },
+                  "new_source_checks": [
+                    {
+                      "case": "KB",
+                      "full_choices_or_five_visuals_present": true,
+                      "original_unresolved_preserved": true,
+                      "visual_directly_read": true
+                    },
+                    {
+                      "case": "KP",
+                      "full_choices_or_five_visuals_present": true,
+                      "original_unresolved_preserved": true,
+                      "visual_directly_read": true
+                    },
+                    {
+                      "case": "KF",
+                      "full_choices_or_five_visuals_present": true,
+                      "original_unresolved_preserved": true,
+                      "visual_directly_read": false
+                    }
+                  ],
+                  "errors": [],
+                  "researcher_status": "미검토",
+                  "full_hash_revalidation": false,
+                  "old_original_records_modified": false,
+                  "previous_checkpoint_verification": {
+                    "status": "정상",
+                    "checkpoint": "IR01-checkpoint-20261018-60",
+                    "scope": "사례집60 두신규문항의선지·도표링크·원유보및신규경로변형계산국소검증.이전검증은이력승계.",
+                    "counts": {
+                      "casebooks": 60,
+                      "source_directly_compared_questions": 107,
+                      "source_directly_compared_passage_groups": 81,
+                      "compared_existing_scene_records": 145,
+                      "metadata_only_questions": 1,
+                      "metadata_only_scene_records": 2,
+                      "provisional_principle_records": 59,
+                      "integration_decision_records": 74,
+                      "production_effect_records": 197,
+                      "development_records_used": 28,
+                      "development_records_all_referenced_scenes_compared": 27,
+                      "development_records_partially_compared": 0,
+                      "new_blind_questions": 0,
+                      "development_semantic_records_used": 27,
+                      "development_metadata_records_linked": 1,
+                      "standalone_researcher_reviews": 22,
+                      "creation_prototypes": 2,
+                      "prototype_questions": 3
+                    },
+                    "new_source_checks": [
+                      {
+                        "case": "HP",
+                        "all_choices_preserved_with_table_normalization": true,
+                        "original_unresolved_preserved": true,
+                        "visual_directly_read": true
+                      },
+                      {
+                        "case": "HW",
+                        "all_choices_preserved_with_table_normalization": true,
+                        "original_unresolved_preserved": true,
+                        "visual_directly_read": true
+                      }
+                    ],
+                    "errors": [],
+                    "researcher_status": "미검토",
+                    "full_hash_revalidation": false,
+                    "old_original_records_modified": false,
+                    "previous_checkpoint_verification": {
+                      "status": "정상",
+                      "checkpoint": "IR01-checkpoint-20261018-59",
+                      "scope": "58·59신규3문항의발문·선지·정돈표·이미지링크·원유보승계와현행관리수량.전체해시나원배포PDF재검증아님.",
+                      "counts": {
+                        "casebooks": 59,
+                        "source_directly_compared_questions": 105,
+                        "source_directly_compared_passage_groups": 79,
+                        "compared_existing_scene_records": 142,
+                        "metadata_only_questions": 1,
+                        "metadata_only_scene_records": 2,
+                        "provisional_principle_records": 59,
+                        "integration_decision_records": 72,
+                        "production_effect_records": 191,
+                        "development_records_used": 27,
+                        "development_records_all_referenced_scenes_compared": 26,
+                        "development_records_partially_compared": 0,
+                        "new_blind_questions": 0,
+                        "development_semantic_records_used": 26,
+                        "development_metadata_records_linked": 1,
+                        "standalone_researcher_reviews": 21,
+                        "creation_prototypes": 2,
+                        "prototype_questions": 3
+                      },
+                      "new_source_checks": [
+                        {
+                          "case": "HD",
+                          "stem_and_choices_preserved_with_declared_normalization": true,
+                          "visual_directly_read": true,
+                          "original_unresolved_preserved": true
+                        },
+                        {
+                          "case": "GV",
+                          "stem_and_choices_preserved_with_declared_normalization": true,
+                          "visual_directly_read": true,
+                          "original_unresolved_preserved": true
+                        },
+                        {
+                          "case": "HL",
+                          "stem_and_choices_preserved_with_declared_normalization": true,
+                          "visual_directly_read": true,
+                          "original_unresolved_preserved": true
+                        }
+                      ],
+                      "errors": [],
+                      "researcher_status": "미검토",
+                      "full_hash_revalidation": false,
+                      "old_original_records_modified": false,
+                      "previous_checkpoint_verification": {
+                        "status": "정상",
+                        "checkpoint": "IR01-checkpoint-20261018-57",
+                        "scope": "56·57 신규두문항의발문·전체선지·링크및저장수량만확인.이전검사범위는이력승계.",
+                        "counts": {
+                          "casebooks": 57,
+                          "source_directly_compared_questions": 102,
+                          "source_directly_compared_passage_groups": 76,
+                          "compared_existing_scene_records": 138,
+                          "metadata_only_questions": 1,
+                          "metadata_only_scene_records": 2,
+                          "provisional_principle_records": 59,
+                          "integration_decision_records": 70,
+                          "production_effect_records": 183,
+                          "development_records_used": 26,
+                          "development_records_all_referenced_scenes_compared": 25,
+                          "development_records_partially_compared": 0,
+                          "new_blind_questions": 0,
+                          "development_semantic_records_used": 25,
+                          "development_metadata_records_linked": 1,
+                          "standalone_researcher_reviews": 19,
+                          "creation_prototypes": 2,
+                          "prototype_questions": 3
+                        },
+                        "errors": [],
+                        "researcher_status": "미검토",
+                        "full_hash_revalidation": false,
+                        "old_original_records_modified": false,
+                        "previous_checkpoint_verification": {
+                          "status": "정상",
+                          "checkpoint": "IR01-checkpoint-20261018-55",
+                          "scope": "54~55 신규3문항의 전체발문·선지·링크와현행ID·관리수량만확인.이전범위검사는기록승계.",
+                          "counts": {
+                            "casebooks": 55,
+                            "source_directly_compared_questions": 100,
+                            "source_directly_compared_passage_groups": 75,
+                            "compared_existing_scene_records": 136,
+                            "metadata_only_questions": 1,
+                            "metadata_only_scene_records": 2,
+                            "provisional_principle_records": 58,
+                            "integration_decision_records": 68,
+                            "production_effect_records": 175,
+                            "development_records_used": 25,
+                            "development_records_all_referenced_scenes_compared": 24,
+                            "development_records_partially_compared": 0,
+                            "new_blind_questions": 0,
+                            "development_semantic_records_used": 24,
+                            "development_metadata_records_linked": 1,
+                            "standalone_researcher_reviews": 17,
+                            "creation_prototypes": 2,
+                            "prototype_questions": 3
+                          },
+                          "source_registration_rows": 101,
+                          "source_checks": [
+                            {
+                              "case": "FO",
+                              "stem_and_choices_present": true
+                            },
+                            {
+                              "case": "FQ",
+                              "stem_and_choices_present": true
+                            },
+                            {
+                              "case": "FR",
+                              "stem_and_choices_present": true
+                            }
+                          ],
+                          "errors": [],
+                          "researcher_status": "미검토",
+                          "full_hash_revalidation": false,
+                          "old_original_records_modified": false,
+                          "previous_checkpoint_verification": {
+                            "status": "정상",
+                            "checkpoint": "IR01-checkpoint-20261018-53",
+                            "scope": "신규52·53 두 문항·검토문서·시제품02의 선택지·표전사·링크와 계산/관계 검산만 확인.43~51의 완료 검사 범위는 이전기록 승계.",
+                            "counts": {
+                              "casebooks": 53,
+                              "source_directly_compared_questions": 97,
+                              "source_directly_compared_passage_groups": 75,
+                              "compared_existing_scene_records": 132,
+                              "metadata_only_questions": 1,
+                              "metadata_only_scene_records": 2,
+                              "provisional_principle_records": 57,
+                              "integration_decision_records": 65,
+                              "production_effect_records": 166,
+                              "development_records_used": 24,
+                              "development_records_all_referenced_scenes_compared": 23,
+                              "development_records_partially_compared": 0,
+                              "new_blind_questions": 0,
+                              "development_semantic_records_used": 23,
+                              "development_metadata_records_linked": 1,
+                              "standalone_researcher_reviews": 15,
+                              "creation_prototypes": 2,
+                              "prototype_questions": 3
+                            },
+                            "new_markdown_files_checked": [
+                              "사례집_52_지표선택과보정방향.md",
+                              "연구자검토_52_같은숫자와다른계산.md",
+                              "사례집_53_반증시도와평가대상.md",
+                              "연구자검토_53_검사의성과와가설의실패.md",
+                              "창작시제품_02_부호의두방향과검사.md"
+                            ],
+                            "JY_table_source_limit": "로컬HWPX셀대조·원배포PDF시각대조아님",
+                            "self_checks": [
+                              "국소계산검산_JY_20261018.json",
+                              "국소논리검산_IR-T002_20261018.json"
+                            ],
+                            "researcher_status": "미검토",
+                            "full_hash_revalidation": false,
+                            "old_original_records_modified": false,
+                            "errors": [],
+                            "previous_checkpoint_verification": {
+                              "status": "정상",
+                              "checkpoint": "IR01-checkpoint-20261018-51",
+                              "scope": "신규43~51의12문항·18개문서·중간재개기록의 원문 연결·선지·선택인용·링크와 현행 관리 수량만 국소 확인. 원장 전수 해시·의미 재인증·연구자 승인 아님.",
+                              "counts": {
+                                "casebooks": 51,
+                                "source_directly_compared_questions": 95,
+                                "source_directly_compared_passage_groups": 73,
+                                "compared_existing_scene_records": 129,
+                                "metadata_only_questions": 1,
+                                "metadata_only_scene_records": 2,
+                                "provisional_principle_records": 56,
+                                "integration_decision_records": 63,
+                                "production_effect_records": 154,
+                                "development_records_used": 23,
+                                "development_records_all_referenced_scenes_compared": 22,
+                                "development_records_partially_compared": 0,
+                                "new_blind_questions": 0,
+                                "development_semantic_records_used": 22,
+                                "development_metadata_records_linked": 1,
+                                "standalone_researcher_reviews": 13,
+                                "creation_prototypes": 1,
+                                "prototype_questions": 2
+                              },
+                              "source_registration_rows": 96,
+                              "new_source_checks": [
+                                {
+                                  "case": "BDK",
+                                  "question": "U0354-Q03",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "BDF",
+                                  "question": "U0352-Q03",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "BCY",
+                                  "question": "U0350-Q02",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "BDQ",
+                                  "question": "U0356-Q03",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "BDY",
+                                  "question": "U0359-Q02",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "HF",
+                                  "question": "U0045-Q02",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "HG",
+                                  "question": "U0045-Q03",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "HU",
+                                  "question": "U0049-Q04",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "ET",
+                                  "question": "U0030-Q04",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "EY",
+                                  "question": "U0031-Q05",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "FT",
+                                  "question": "U0035-Q06",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                },
+                                {
+                                  "case": "FY",
+                                  "question": "U0036-Q05",
+                                  "stem_and_all_choices_present": true,
+                                  "original_unresolved_preserved": true,
+                                  "event_ids_linked": true
+                                }
+                              ],
+                              "new_markdown_files_checked": [
+                                "사례집_43_상반발언과일관성.md",
+                                "연구자검토_43_보도평가의조건.md",
+                                "사례집_44_공통지향과목표차이.md",
+                                "연구자검토_44_완전을향한다는말.md",
+                                "사례집_45_조건제시와정보노출.md",
+                                "연구자검토_45_선별의반응고리.md",
+                                "사례집_46_가능범위와현재결핍.md",
+                                "연구자검토_46_할수있다는말의범위.md",
+                                "사례집_47_의식적동화와저항효과.md",
+                                "연구자검토_47_의도와효과의공존.md",
+                                "사례집_48_유의미성기준과자기적용.md",
+                                "연구자검토_48_틀린말과뜻없는말.md",
+                                "사례집_49_말의뜻과행위실현.md",
+                                "연구자검토_49_못한다는말속의행위.md",
+                                "사례집_50_은폐대상과전달행위.md",
+                                "연구자검토_50_같이일어남과바꿔쓰기.md",
+                                "사례집_51_정착과태도성분.md",
+                                "연구자검토_51_굳어짐과높여받듦.md",
+                                "재개기록_20261018_사례집51.md"
+                              ],
+                              "markdown_links_checked": 39,
+                              "selected_existing_evidence_quotes_checked": 35,
+                              "visual_directly_reviewed": "HU_measurement.png의 측정 밑줄",
+                              "researcher_status": "미검토",
+                              "full_hash_revalidation": false,
+                              "old_original_records_modified": false,
+                              "errors": [],
+                              "previous_checkpoint_verification": {
+                                "status": "정상",
+                                "checkpoint": "IR01-checkpoint-20261018-42",
+                                "scope": "2026-10-18 신규 7문항·사례집39~42·별도 검토4개·시제품1개의 저장·출처·선택 인용과 현행 구조화 파일 ID/관리 누계 확인. 원장 전수 해시·의미 감사·외부 독립 검토·연구자 승인 아님.",
+                                "structured_files": [
+                                  "principles_current.jsonl",
+                                  "integration_decisions.jsonl",
+                                  "production_effects.jsonl",
+                                  "source_registry.jsonl",
+                                  "production_prototypes.jsonl",
+                                  "checkpoint.json",
+                                  "coverage_remaining.json"
+                                ],
+                                "counts": {
+                                  "casebooks": 42,
+                                  "source_directly_compared_questions": 83,
+                                  "source_directly_compared_passage_groups": 64,
+                                  "compared_existing_scene_records": 117,
+                                  "provisional_principle_records": 53,
+                                  "integration_decision_records": 54,
+                                  "production_effect_records": 118
+                                },
+                                "source_registration_rows": 84,
+                                "new_source_checks": [
+                                  {
+                                    "case": "BRM",
+                                    "question": "U0480-Q02",
+                                    "all_choices_exactly_present": true,
+                                    "original_unresolved_preserved": true,
+                                    "official_answer_source": "기존 answer_check 승계; 새 정답표 검수 아님"
+                                  },
+                                  {
+                                    "case": "BEH",
+                                    "question": "U0362-Q02",
+                                    "all_choices_exactly_present": true,
+                                    "original_unresolved_preserved": true,
+                                    "official_answer_source": "기존 answer_check 승계; 새 정답표 검수 아님"
+                                  },
+                                  {
+                                    "case": "BEI",
+                                    "question": "U0362-Q03",
+                                    "all_choices_exactly_present": true,
+                                    "original_unresolved_preserved": true,
+                                    "official_answer_source": "기존 answer_check 승계; 새 정답표 검수 아님"
+                                  },
+                                  {
+                                    "case": "BCU",
+                                    "question": "U0349-Q01",
+                                    "all_choices_exactly_present": true,
+                                    "original_unresolved_preserved": true,
+                                    "official_answer_source": "기존 answer_check 승계; 새 정답표 검수 아님"
+                                  },
+                                  {
+                                    "case": "BDI",
+                                    "question": "U0354-Q01",
+                                    "all_choices_exactly_present": true,
+                                    "original_unresolved_preserved": true,
+                                    "official_answer_source": "기존 answer_check 승계; 새 정답표 검수 아님"
+                                  },
+                                  {
+                                    "case": "BDD",
+                                    "question": "U0352-Q01",
+                                    "all_choices_exactly_present": true,
+                                    "original_unresolved_preserved": true,
+                                    "official_answer_source": "기존 answer_check 승계; 새 정답표 검수 아님"
+                                  },
+                                  {
+                                    "case": "W",
+                                    "question": "U0477-Q02",
+                                    "all_choices_exactly_present": true,
+                                    "original_unresolved_preserved": true,
+                                    "official_answer_source": "기존 answer_check 승계; 새 정답표 검수 아님"
+                                  }
+                                ],
+                                "new_markdown_files_checked": [
+                                  "사례집_39_결과발생과목적귀속.md",
+                                  "사례집_40_비판방향과보존대상.md",
+                                  "사례집_41_객관적인상과기준기능.md",
+                                  "사례집_42_정당화의존재와효력.md",
+                                  "연구자검토_39_결과와목적.md",
+                                  "연구자검토_40_김부식평가.md",
+                                  "연구자검토_41_객관성과활용.md",
+                                  "연구자검토_42_정당화와순서.md",
+                                  "창작시제품_01_기록공개와선별.md",
+                                  "재개기록_20261018_사례집42.md"
+                                ],
+                                "markdown_links_checked": 29,
+                                "selected_quotes_checked": 10,
+                                "researcher_status": "미검토",
+                                "prototype_self_checked_answers": [
+                                  4,
+                                  3
+                                ],
+                                "prototype_external_validation": false,
+                                "full_hash_revalidation": false,
+                                "old_original_records_modified": false,
+                                "errors": [],
+                                "previous_checkpoint_verification": {
+                                  "status": "국소 복구 완료·다음 의미 비교 진행 전",
+                                  "checkpoint": "IR01-checkpoint-20261018-recovery38",
+                                  "scope": "현행 통합 폴더 등록 출처와 실제 저장 수량의 국소 복구. 기존 전수 감사 결과 재인증 아님",
+                                  "counts": {
+                                    "casebooks": 38,
+                                    "source_directly_compared_questions": 76,
+                                    "source_directly_compared_passage_groups": 59,
+                                    "compared_existing_scene_records": 110,
+                                    "metadata_only_questions": 1,
+                                    "metadata_only_scene_records": 2,
+                                    "provisional_principle_records": 51,
+                                    "integration_decision_records": 49,
+                                    "production_effect_records": 100,
+                                    "development_records_used": 20,
+                                    "development_records_all_referenced_scenes_compared": 18,
+                                    "development_records_partially_compared": 2,
+                                    "new_blind_questions": 0
+                                  },
+                                  "errors": [],
+                                  "previous_checkpoint_verification": {
+                                    "status": "정상",
+                                    "checkpoint": "IR01-checkpoint-20261016-05",
+                                    "scope": "새 통합 산출물의 파싱·참조·ID 범위 및 선택 인용 확인. 원본 전수 해시·의미 감사·연구자 승인 아님",
+                                    "structured_files": [
+                                      "checkpoint.json",
+                                      "coverage_remaining.json",
+                                      "integration_decisions.jsonl",
+                                      "principles_current.jsonl",
+                                      "production_effects.jsonl",
+                                      "source_registry.jsonl",
+                                      "validation_report.json"
+                                    ],
+                                    "markdown_links_checked": 269,
+                                    "casebooks": 30,
+                                    "source_directly_compared_questions": 63,
+                                    "source_directly_compared_passage_groups": 51,
+                                    "compared_existing_scene_records": 97,
+                                    "provisional_principle_records": 44,
+                                    "integration_decision_records": 38,
+                                    "production_effect_records": 72,
+                                    "development_records_used": 18,
+                                    "development_records_all_referenced_scenes_compared": 16,
+                                    "development_records_partially_compared": 2,
+                                    "metadata_only_questions": 1,
+                                    "remaining_questions": 1604,
+                                    "remaining_scene_records": 2105,
+                                    "exam_family": {
+                                      "KICE": 18,
+                                      "LEET": 30,
+                                      "MEET": 15
+                                    },
+                                    "new_casebooks_28_to_30_key_quotes_checked": 18,
+                                    "quotation_check_scope": "새 사례집 선택 핵심인용18개를 공백 정규화하여 원문·사례집 양쪽에 대조. 전 문장 교열 아님.",
+                                    "visuals_directly_reviewed_this_checkpoint": [
+                                      "data/기본기_연구/prepared_backlog/blind_sources/G326_visual01.jpeg",
+                                      "data/기본기_연구/prepared_backlog/blind_sources/G326_visual02.jpeg"
+                                    ],
+                                    "table_directly_reviewed_this_checkpoint": "data/기본기_연구/prepared_backlog/blind_sources/G313_visual01.md",
+                                    "DEV101_current_amendments_preserved": [
+                                      "QBF01-AMD051",
+                                      "QBF01-AMD052",
+                                      "QBF01-AMD053",
+                                      "QBF01-AMD054"
+                                    ],
+                                    "all_registered_backfill_unresolved_preserved": true,
+                                    "errors": [],
+                                    "previous_checkpoint_verification": {
+                                      "status": "정상",
+                                      "checkpoint": "IR01-checkpoint-20261016-04",
+                                      "scope": "새 통합 산출물의 파싱·참조·ID 범위 보수성 및 선택 인용 확인. 원본 전수 해시·의미 감사·연구자 승인 아님",
+                                      "structured_files": [
+                                        "checkpoint.json",
+                                        "coverage_remaining.json",
+                                        "integration_decisions.jsonl",
+                                        "principles_current.jsonl",
+                                        "production_effects.jsonl",
+                                        "source_registry.jsonl",
+                                        "validation_report.json"
+                                      ],
+                                      "markdown_links_checked": 238,
+                                      "casebooks": 27,
+                                      "source_directly_compared_questions": 59,
+                                      "source_directly_compared_passage_groups": 48,
+                                      "compared_existing_scene_records": 93,
+                                      "provisional_principle_records": 40,
+                                      "integration_decision_records": 34,
+                                      "production_effect_records": 62,
+                                      "development_records_all_referenced_scenes_compared": 15,
+                                      "metadata_only_questions": 1,
+                                      "remaining_questions": 1608,
+                                      "remaining_scene_records": 2109,
+                                      "exam_family": {
+                                        "KICE": 18,
+                                        "LEET": 30,
+                                        "MEET": 11
+                                      },
+                                      "new_casebooks_26_to_27_key_quotes_checked": 15,
+                                      "new_visual_pages_reviewed": 0,
+                                      "ASN_unresolved_preserved": true,
+                                      "errors": [],
+                                      "previous_checkpoint_verification": {
+                                        "status": "정상",
+                                        "checkpoint": "IR01-checkpoint-20261016-03",
+                                        "scope": "새 통합 산출물의 파싱·참조·ID 범위 보수성 검사. 원본 전수 해시·의미 감사·연구자 승인 아님",
+                                        "structured_files": [
+                                          "checkpoint.json",
+                                          "coverage_remaining.json",
+                                          "integration_decisions.jsonl",
+                                          "principles_current.jsonl",
+                                          "production_effects.jsonl",
+                                          "source_registry.jsonl",
+                                          "validation_report.json"
+                                        ],
+                                        "markdown_links_checked": 225,
+                                        "casebooks": 25,
+                                        "source_directly_compared_questions": 56,
+                                        "source_directly_compared_passage_groups": 45,
+                                        "compared_existing_scene_records": 90,
+                                        "provisional_principle_records": 38,
+                                        "integration_decision_records": 32,
+                                        "production_effect_records": 54,
+                                        "development_records_all_referenced_scenes_compared": 14,
+                                        "metadata_only_questions": 1,
+                                        "remaining_questions": 1611,
+                                        "remaining_scene_records": 2112,
+                                        "exam_family": {
+                                          "KICE": 18,
+                                          "LEET": 30,
+                                          "MEET": 8
+                                        },
+                                        "errors": [],
+                                        "new_casebooks_17_to_25_key_quotes_checked": 34,
+                                        "quotation_check_scope": "본문·발문·선지의 선택 핵심인용34개를 공백 정규화하여 대조. RS의ⓐ위치표지복원 후재확인. 모든문장전수교열은아님",
+                                        "visuals_directly_reviewed_this_checkpoint": [
+                                          "data/기본기_연구/prepared_backlog/blind_sources/G335_visual01.png",
+                                          "data/기본기_연구/prepared_backlog/blind_sources/G335_visual02.png",
+                                          "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_004.png"
+                                        ],
+                                        "previous_checkpoint_verification": {
+                                          "status": "정상",
+                                          "checkpoint": "IR01-checkpoint-20261016-02",
+                                          "scope": "새 통합본의 파싱·참조·범위 확인 및 선택 산술/유한모형 검산. 원본 전수 해시·의미 감사·연구자 승인 아님",
+                                          "structured_files": [
+                                            "checkpoint.json",
+                                            "coverage_remaining.json",
+                                            "integration_decisions.jsonl",
+                                            "principles_current.jsonl",
+                                            "production_effects.jsonl",
+                                            "source_registry.jsonl",
+                                            "validation_report.json"
+                                          ],
+                                          "markdown_links_checked": 156,
+                                          "source_directly_compared_questions": 42,
+                                          "source_directly_compared_scene_records": 65,
+                                          "source_directly_compared_groups": 35,
+                                          "metadata_only_questions": 1,
+                                          "remaining_questions": 1625,
+                                          "remaining_scene_records": 2137,
+                                          "new_casebooks_12_to_16_key_quotes_checked": 16,
+                                          "BJE_current_model_minimal_test_sets": [
+                                            [
+                                              2
+                                            ],
+                                            [
+                                              3
+                                            ]
+                                          ],
+                                          "BJE_scope": "오류없는현재그림의경로후보라는모형내검산·생화학실험검증아님",
+                                          "errors": []
+                                        }
+                                      },
+                                      "confidence_stage_check": "AQM 최초0.85/후속 코드판정0.82, ASN 최초0.89/후속0.9. 원 raw의 최초 기록과 현행 보조 파일의 코드판정 레코드에서 단계별 확인."
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

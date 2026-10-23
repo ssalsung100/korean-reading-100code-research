@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AYQ": [
+      {
+        "line": 5073,
+        "record_id": "AYQ-independent_code-20260928-01",
+        "case": "AYQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:54:57.615738+09:00",
+        "payload": {
+          "passage_group": "G353",
+          "primary": [
+            15,
+            25
+          ],
+          "auxiliary": [
+            10,
+            12,
+            39
+          ],
+          "surface": [
+            75,
+            59
+          ],
+          "decisive_operation": "권한·선거제·기율의 조건 묶음을 각 제도와 대응한다. 한 속성만 일치하는 미국식 후보를 다른 두 속성으로 반박한다.",
+          "competing_codes": [
+            {
+              "code": 10,
+              "rejection": "여러 진단 조건을 함께 확인하는 단계에 유효; 각 특성을 모든 현실국가에 필수인 보편명제로 올리지는 않는다."
+            },
+            {
+              "code": 75,
+              "rejection": "서로 다른 학자 주장 비교가 아니라 제도유형의 분류기준 적용."
+            },
+            {
+              "code": 59,
+              "rejection": "교착 해소 목적은 공통이라 그것만으로㉮의 제도유형을 구별하지 못한다."
+            },
+            {
+              "code": 69,
+              "rejection": "부분적으로 닮았다는 유추보다 주어진 명시 조건 묶음의 일치 판정이다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYR": [
+      {
+        "line": 5084,
+        "record_id": "AYR-independent_code-20260928-01",
+        "case": "AYR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:56:59.767066+09:00",
+        "payload": {
+          "passage_group": "G354",
+          "primary": [
+            78
+          ],
+          "auxiliary": [
+            44,
+            80
+          ],
+          "surface": [
+            13,
+            79
+          ],
+          "decisive_operation": "동일한 가혹 행위에 붙은 행위자의 동기를 특권방어에서 신참의 적응을 돕는 선의로 바꿔 읽은①을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 44,
+              "rejection": "행위목적 교환을 명명하는 유효 보조로78과 국소중첩."
+            },
+            {
+              "code": 80,
+              "rejection": "행위자의 내면 추론에 관련되나 명시 동기를 확인하는 구체작업이78."
+            },
+            {
+              "code": 13,
+              "rejection": "무고함과 가해함은 다른 관계에서 동시에 성립하므로⑤를 모순으로 배제하지 않는다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.89,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYS": [
+      {
+        "line": 5085,
+        "record_id": "AYS-independent_code-20260928-01",
+        "case": "AYS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:56:59.867442+09:00",
+        "payload": {
+          "passage_group": "G354",
+          "primary": [
+            80,
+            59
+          ],
+          "auxiliary": [
+            64,
+            2
+          ],
+          "surface": [
+            79,
+            75
+          ],
+          "decisive_operation": "회색지대 개념이 요구하는 인식적 태도=통념 비판과 인간성 성찰을 확정적 책임배분·단죄와 구분한다.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "rejection": "레비의 입장 확인이지만 경쟁주체 혼합보다 개념의 인식적 목적을 특정하는 작업."
+            },
+            {
+              "code": 63,
+              "rejection": "개념을 외부 증거로 평가하지 않고 지문에서 명시한 의의 확인."
+            },
+            {
+              "code": 44,
+              "rejection": "성찰 유도라는 목적을 기술할 수 있으나 방법의 효율성보다 인식태도 내용이 특수성."
+            },
+            {
+              "code": 2,
+              "rejection": "확답보다 되묻기라는 강도 차이에 보조로 유효."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.89,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "AYQ_repair": "공식2015렌더7쪽에서표의유지·축소가참조하는A국초기상태를직접복원. 표만의기존보충과구별."
+}

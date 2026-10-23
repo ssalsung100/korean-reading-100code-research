@@ -1,0 +1,25 @@
+{
+  "date": "2026-10-15",
+  "method": "주 에이전트가 기존 이미지5개 직접 열람.사후 보완이며 신규blind 아님.",
+  "AGT": {
+    "image": "data/기본기_연구/prepared_backlog/blind_sources/assets/G201_Q16_figure.png",
+    "observations": [
+      "머리·목·어깨·팔·손·몸통·다리 연결점으로 골격이 구성된다.",
+      "얼굴에는 눈·입 등 표정 변화를 구분할 세부점이 없다.원RGB영상 정보와 골격 출력의 표현 항목을 구별한다."
+    ]
+  },
+  "AFO": {
+    "images": [
+      "data/기본기_연구/prepared_backlog/blind_sources/AFO_graph_abc_supplement_20260920.png",
+      "data/기본기_연구/prepared_backlog/blind_sources/AFO_scope_[가]_start_v2_20260920.png",
+      "data/기본기_연구/prepared_backlog/blind_sources/AFO_scope_[가]_continuation_end_v2_20260920.png",
+      "data/기본기_연구/prepared_backlog/blind_sources/AFO_graph_matching_choices_v2_20260920.png"
+    ],
+    "observations": [
+      "a는 하락 후 기존 수준 복귀,b는 상승 후 일부 하락하되 기존보다 높은 수준,c는 상승 후 기존 수준 복귀.",
+      "[가]는 그런데 단기에는 물가의 경직성으로 인해로 시작하여 환율로 수렴된다로 끝난다.㉠실질 통화량·㉡시장 금리·㉢환율 모두 포함된다.",
+      "공식 선택표 행은 a/c/b,b/a/c,b/c/a,c/a/b,c/b/a 순서로 기존 JSON과 일치한다.",
+      "곡선의 정확한 시간·크기·수렴 시점 동일성은 추정하지 않는다."
+    ]
+  }
+}

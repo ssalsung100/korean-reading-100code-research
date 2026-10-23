@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BTE": [
+      {
+        "line": 7552,
+        "record_id": "BTE-independent_code-20261005-01",
+        "case": "BTE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:33:13.551123+00:00",
+        "payload": {
+          "passage_group": "G534",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 3,
+              "reason": "로마법연구의태도를12세기·16세기이후등시점에맞춰귀속한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 5,
+              "reason": "절대권위에서역사적·비판적접근으로바뀌면서연구전통은유지됨을확인한다."
+            },
+            {
+              "code": 40,
+              "reason": "학설휘찬이로마법대전의부분이라는관계를보존한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 75,
+              "reason": "사상가차이는있으나①은시대적태도재진술이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "자료의신뢰성을현재외부증거로평가하는것이아니다."
+            },
+            {
+              "code": 13,
+              "rejection": "비판적활용과원칙수용은양립하므로둘을배타화하지않는다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BTF": [
+      {
+        "line": 7553,
+        "record_id": "BTF-independent_code-20261005-01",
+        "case": "BTF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:33:29.481761+00:00",
+        "payload": {
+          "passage_group": "G534",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 75,
+              "cluster": "C074_075",
+              "reason": "㉠의C우선과㉡의제3자효력제한을각입장에귀속한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "소송당사자A/C와제3자B의효력범위를분리한다."
+            },
+            {
+              "code": 9,
+              "reason": "원래A>B>C와판결C>A라는우선관계를유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 66,
+              "reason": "순서연결추론이등장하지만③의오류는반대입장근거의귀속교환이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 18,
+              "rejection": "전체순위모순을해결하는것은후속라이프니츠논의이며[가]입장귀속과구별한다."
+            },
+            {
+              "code": 63,
+              "rejection": "어느법률견해가더타당한지외부근거로우열판정하지않는다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BTI": [
+      {
+        "line": 7566,
+        "record_id": "BTI-independent_code-20261005-01",
+        "case": "BTI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:42:05.103451+00:00",
+        "payload": {
+          "passage_group": "G535",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 60,
+              "reason": "명확성원칙비판을위해실제로제시된난점과본문에없는필수조건을구별한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 10,
+              "reason": "전문가구성이없으면자의해석탈피가어렵다는①의필수연결을검증한다."
+            },
+            {
+              "code": 19,
+              "reason": "전문가해석은후속보충방안으로제시되지만그것의필수성을본문은확정하지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 63,
+              "reason": "비판논거라는과제형태이나실제작업은근거내용적합성대조다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 13,
+              "rejection": "구성적해석과규칙적제한은양립하며구성이곧자의성이라는배타구조가아니다."
+            },
+            {
+              "code": 73,
+              "rejection": "전문가해석의가능성자체를거짓으로증명하는것이아니라①의강한관계를근거없다고판정한다."
+            }
+          ],
+          "confidence": 0.95
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·기존 최초풀이·정답대조·독립판정 직접 확인.",
+  "BTI_강도보완": "기존 blind의 유일 필수조건이라는 요약은①의 벗어나기 어렵다보다 강하다. 이번에는 전문가의 의미 구성이 없으면 자의성 탈피가 어렵다는 조건부 곤란 관계 자체의 근거가 부족하다고 기록한다. 엄밀한 필요조건 또는 전문가만이 유일한 해결책이라고 선지가 명시했다고 하지 않는다. 공식①·원raw·기존코드10 연결 이력은 보존한다.",
+  "범위": "고대 저당관계와 법 해석은 제시문 논증만 판독. 실제 법체계의 결론·현행 판례·모든 전문가 해석의 가치를 새로 확정하지 않음."
+}

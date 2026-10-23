@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ATU": [
+      {
+        "line": 4504,
+        "record_id": "ATU-independent_code-20260928-01",
+        "case": "ATU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46
+          ],
+          "auxiliary": [
+            17,
+            18
+          ],
+          "surface": [
+            49,
+            40,
+            5
+          ],
+          "decisive_operation": "통계 특성이 거시적 특징에 의존한다는 관계에서 주체·대상·조건을 보존하고, 척도가 사라진다는 조건과 척도 의존을 대조한다.",
+          "code_evidence": {
+            "46": "의존 관계의 방향과 조건 복원",
+            "17": "통계 특성/거시 특성/상관 길이 척도의 역할 교체",
+            "18": "특정 척도 소실과 그 척도 의존의 충돌"
+          },
+          "competitor_refutations": [
+            {
+              "code": 49,
+              "reason": "상관 길이는 이름일 뿐 두 변수의 증감 상관을 구하는 문항이 아니다."
+            },
+            {
+              "code": 12,
+              "reason": "①⑤를 단순 조건문 대우로 정당화할 수 없다. 주 결정은②의 의존 구조 왜곡이다."
+            },
+            {
+              "code": 86,
+              "reason": "길이나 질서도의 수치 크기를 비교하지 않는다."
+            },
+            {
+              "code": 77,
+              "reason": "서로 다른 물리계 일반화는③의 근거이며 정답②를 고르는 핵심은 아니다."
+            }
+          ],
+          "unresolved": "①의 질서도는 질적 상태 변화로 수용,⑤는 규칙·주기/척도의 대비로 수용한 한계. 엄밀 연역으로 과장 금지.",
+          "confidence": 0.87,
+          "passage_group": "G312",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATW": [
+      {
+        "line": 4516,
+        "record_id": "ATW-independent_code-20260928-01",
+        "case": "ATW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46
+          ],
+          "auxiliary": [
+            45,
+            17,
+            50
+          ],
+          "surface": [
+            52
+          ],
+          "decisive_operation": "세포별 효소→산물→기능을 연결한 뒤 억제의 효과를 끝까지 추적한다. 위 점막의 COX1 억제→프로스타글란딘 감소→보호 약화.",
+          "competitor_refutations": [
+            {
+              "code": 52,
+              "reason": "정답은 보호 촉진 경로를 억제하므로 보호 약화다. 억제의 억제로 최종 촉진되는 경로는 이 정답이 아니다."
+            },
+            {
+              "code": 16,
+              "reason": "정의 회수보다 다단계 작용 경로와 세포별 대상 보존이 필요하다."
+            },
+            {
+              "code": 43,
+              "reason": "실험 집단 비교에서 타변수 통제를 요구하지 않는다."
+            }
+          ],
+          "boundary_note": "45는 경로의 단계 합성,46은 방향 추적이라는 관점 차이가 커 이번 사례만으로 분리 확정하지 않는다. 50은 효소 억제로 하류 산물 감소하는 개입 경로 보조.",
+          "confidence": 0.94,
+          "passage_group": "G313",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATY": [
+      {
+        "line": 4518,
+        "record_id": "ATY-independent_code-20260928-01",
+        "case": "ATY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            44
+          ],
+          "auxiliary": [
+            37,
+            17,
+            19
+          ],
+          "surface": [
+            46,
+            50
+          ],
+          "decisive_operation": "두 질환의 치료·예방 목적과 수술 전후 위험을 각각 대응시켜 같은 계열 약물이면 중복이라는 결론을 거부한다.",
+          "code_evidence": {
+            "44": "동맥경화 예방/관절염 진통의 목적에 다른 사용을 배정",
+            "37": "진료 기록의 병력·수술 조건에 본문 적용",
+            "17": "공통 COX 억제 범주와 동일 임상 역할을 혼동하지 않음",
+            "19": "④ 회복되지 않는 지혈 작용을 정상 혈소판 보충으로 보완하는 오답 제거 경로"
+          },
+          "competitor_refutations": [
+            {
+              "code": 23,
+              "reason": "효소 억제 공통점만으로 두 목적의 동시 충족이나 완전 대체는 보장되지 않는다."
+            },
+            {
+              "code": 20,
+              "reason": "복수 약물이 한 목적을 충분히 실현한다는 조건은 입증되지 않아 대체 가능으로 처리할 수 없다."
+            },
+            {
+              "code": 19,
+              "reason": "④의 보충은 국소 제거 근거이며 정답①의 목적 차이를 대체하지 않는다."
+            },
+            {
+              "code": 63,
+              "reason": "의사 조치 타당성 평가지만 논증 강화·약화 자료를 새로 제시하는 과제는 아니다."
+            }
+          ],
+          "confidence": 0.93,
+          "passage_group": "G313",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·진료기록표·최초풀이·독립판정직접확인.ATU①⑤의기존함축한계현행유보승계.ATW/ATY는기출내부의가상사례독해이며의학사실의현행검증·진료권고아님."
+}

@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AUA": [
+      {
+        "line": 4531,
+        "record_id": "AUA-independent_code-20260928-01",
+        "case": "AUA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            10,
+            99
+          ],
+          "surface": [
+            100,
+            69
+          ],
+          "decisive_operation": "ⓐ의 이러한 관념을 죽음과 재생으로 복원하고 사례의 죽음→새 생명 관계 충족 여부를 검사한다.",
+          "competitor_refutations": [
+            {
+              "code": 100,
+              "reason": "신화·상징 소재 자체가 비유 해석을 결정 연산으로 만들지 않는다. 정해진 관계의 사례를 찾는다."
+            },
+            {
+              "code": 69,
+              "reason": "두 대상의 구조에서 새 결론을 전이하기보다 제시된 관념의 충족 사례를 고른다. 역할 대응을 넓게 쓰면 중첩 가능하나 별도 주코드 근거는 약하다."
+            },
+            {
+              "code": 23,
+              "reason": "죽음과 식물이라는 두 소재의 동시 존재만으로 부족하다. 죽음으로부터 재생한다는 연결이 필요하다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G314",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUB": [
+      {
+        "line": 4532,
+        "record_id": "AUB-independent_code-20260928-01",
+        "case": "AUB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            60
+          ],
+          "auxiliary": [
+            16,
+            10,
+            5
+          ],
+          "surface": [
+            100,
+            69
+          ],
+          "decisive_operation": "주기적 갱신이라는 주장을 뒷받침할 반복·귀환 관계를 가진 구절㉢㉣을 고른다. 일회적 창조만 있는㉠㉡은 그 근거가 부족하다.",
+          "competitor_refutations": [
+            {
+              "code": 100,
+              "reason": "표현의 비유적 의미가 재료지만 선택 기준은 갱신을 뒷받침하는 관계다."
+            },
+            {
+              "code": 63,
+              "reason": "새 사실이 가설 확률을 올리는 강화보다 이미 제시된 설명의 근거 구절을 선별한다."
+            },
+            {
+              "code": 3,
+              "reason": "단순 선후만으로는 주기적 되돌아옴이 보장되지 않는다."
+            },
+            {
+              "code": 69,
+              "reason": "인간과 식물의 유사성은㉣에서 쓰이나㉢의 귀환도 함께 선별하는 공통 기준은 주기성이다."
+            }
+          ],
+          "confidence": 0.94,
+          "passage_group": "G314",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUC": [
+      {
+        "line": 4543,
+        "record_id": "AUC-independent_code-20260928-01",
+        "case": "AUC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            27,
+            12
+          ],
+          "auxiliary": [
+            16,
+            65,
+            10
+          ],
+          "surface": [
+            83,
+            77
+          ],
+          "decisive_operation": "정의 동일/외연 동일을 구별하고 정의를 찾는 해석에서만 무어 비판이 성립한다는 적용 조건을 보존한다.",
+          "competitor_refutations": [
+            {
+              "code": 83,
+              "reason": "사실/가치는 소재이며 정답②는 정의 해석이라는 성립 범위를 묻는다."
+            },
+            {
+              "code": 65,
+              "reason": "자연주의자의 의도를 정의 탐색으로 오해한 것은 본문 비판의 근거이나 정답은 그 해석일 때의 조건부 인정이다."
+            },
+            {
+              "code": 10,
+              "reason": "⑤의 과학적 참 이외 관련성 요건 누락은 유효 제거 경로지만②의 직접 경로를 대신하지 않는다."
+            }
+          ],
+          "confidence": 0.95,
+          "passage_group": "G315",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체원문·5선지·기존풀이·독립판정직접확인.신화소재공통성/관계충족,일회생성/순환,정의동일/외연동일과조건부비판구별."
+}

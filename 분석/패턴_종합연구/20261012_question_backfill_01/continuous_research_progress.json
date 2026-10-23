@@ -1,0 +1,21 @@
+{
+  "status": "대상1077문항 사후 심층 추출·27묶음 감사·전수 기계검증 완료; 의미 유보93문항 보존",
+  "start_reviewed": 790,
+  "start_scenes": 1238,
+  "current_reviewed": 1077,
+  "current_scenes": 1586,
+  "added_questions": 287,
+  "added_scenes": 348,
+  "last_saved_author": "author_027l.py",
+  "next_order": null,
+  "next_question": null,
+  "next_cases": [],
+  "next_sample_audit_at": null,
+  "read_but_not_saved": [],
+  "other_models_called": false,
+  "pending_backfill_raw": 0,
+  "final_validation": "validation_report.json",
+  "final_integrity": "final_integrity_20261016.json",
+  "unresolved_questions": 93,
+  "followup_priorities": "followup_priorities_20261016.json"
+}

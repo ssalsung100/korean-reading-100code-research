@@ -1,0 +1,76 @@
+[
+  {
+    "case": "AXY",
+    "question": "U0309-Q01",
+    "derived_source": "AXY_source_with_restored_formula.json",
+    "original_source_path": "data/기본기_연구/prepared_backlog/blind_sources/AXY.json",
+    "original_sha256": "77c9cfb983e0bc7ebd2bc5239cad0555d78cf3bd081a24bc87d4bc661423ab09",
+    "repair_date": "2026-10-15",
+    "method": "주 에이전트가 공식 HWP 페이지 렌더를 직접 보고 누락 기호·분수만 복원",
+    "evidence_paths": [
+      "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_014.png",
+      "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_015.png"
+    ],
+    "changes": [
+      {
+        "old": "빛의 속도()",
+        "new": "빛의 속도(c)"
+      },
+      {
+        "old": "주파수()",
+        "new": "주파수(f)"
+      },
+      {
+        "old": "파장()",
+        "new": "파장(λ)"
+      },
+      {
+        "old": "수치()",
+        "new": "수치(c＝fλ)"
+      },
+      {
+        "old": "파장의 ～ 정도인데",
+        "new": "파장의 1/2～1/4 정도인데"
+      }
+    ],
+    "original_unchanged": true,
+    "scope": "기존 최초풀이의 결손 이력은 보존. 이번 사후 파생본 보강이며 신규 blind 아님."
+  },
+  {
+    "case": "AYA",
+    "question": "U0309-Q03",
+    "derived_source": "AYA_source_with_restored_formula.json",
+    "original_source_path": "data/기본기_연구/prepared_backlog/blind_sources/AYA.json",
+    "original_sha256": "b41fb4f758e6d803b77c4105666f9a33c0e04ec2604aad5268e52240d8d2bb0e",
+    "repair_date": "2026-10-15",
+    "method": "주 에이전트가 공식 HWP 페이지 렌더를 직접 보고 누락 기호·분수만 복원",
+    "evidence_paths": [
+      "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_014.png",
+      "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2014/page_015.png"
+    ],
+    "changes": [
+      {
+        "old": "빛의 속도()",
+        "new": "빛의 속도(c)"
+      },
+      {
+        "old": "주파수()",
+        "new": "주파수(f)"
+      },
+      {
+        "old": "파장()",
+        "new": "파장(λ)"
+      },
+      {
+        "old": "수치()",
+        "new": "수치(c＝fλ)"
+      },
+      {
+        "old": "파장의 ～ 정도인데",
+        "new": "파장의 1/2～1/4 정도인데"
+      }
+    ],
+    "original_unchanged": true,
+    "scope": "기존 최초풀이의 결손 이력은 보존. 이번 사후 파생본 보강이며 신규 blind 아님."
+  }
+]

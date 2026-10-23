@@ -1,0 +1,223 @@
+[
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/JN.json",
+    "sha256": "0c1560f42da81f849739720abd38b202e0f432381f4f29ad0d45c5a4e2310321",
+    "copy": "sources/JN.json",
+    "copy_sha256": "071951f66a974b0ff706d02b99e9125b57915f37a194beb567811dd299a418c1",
+    "case_id": "JN",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/JO.json",
+    "sha256": "303ba44b047d291aab5aacba358f65b13cf4d6cf5ef225e62ae2fd00d5c775f4",
+    "copy": "sources/JO.json",
+    "copy_sha256": "405ceaa5b1b4b5ebd02ffaf0a82a7d7ae1eee3ecae456a4bdc4dd52969210b38",
+    "case_id": "JO",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NK.json",
+    "sha256": "fd624a37f7b6033349a9688a23b46887a131231e30d3b8b10c4321a721d20230",
+    "copy": "sources/NK.json",
+    "copy_sha256": "efddee011b6395edff120a2d063d9e16185fb70138dba45607e2eb92cdf08188",
+    "case_id": "NK",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NL.json",
+    "sha256": "13db663503ce637af63527c7e05030b1cc71a0879792e946d3900d8b1a8a5a18",
+    "copy": "sources/NL.json",
+    "copy_sha256": "d364116d387712a78e212e19998aafde53d9dd5893061fbe892bf7f48c2812bb",
+    "case_id": "NL",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NM.json",
+    "sha256": "73da536e8efecb147cc63abf53f5fffc08a20df9546a6bd80b66dd4996412375",
+    "copy": "sources/NM.json",
+    "copy_sha256": "c7fb0dd7d1cf9592dcac2e0d1d33ed68e1ab6e89600e3504aee5c6a3423d6da1",
+    "case_id": "NM",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NN.json",
+    "sha256": "22af361949d93246b5cf83639f7b093eaf5a5b3ac982ce7f8b7ab8809e74c2ab",
+    "copy": "sources/NN.json",
+    "copy_sha256": "84207da8d2ac9431f1c3056995d5fe6bcbf76d67d4a52144d1ef9c9072748312",
+    "case_id": "NN",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/NO.json",
+    "sha256": "5fae703f23010303abbb74b42e56ad47e9df5df38ce0a45913231821d949514e",
+    "copy": "sources/NO.json",
+    "copy_sha256": "302064337be37a864a06661a6275e7d1cde16e1f9f05b474a00e45c3b813ecc0",
+    "case_id": "NO",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RV.json",
+    "sha256": "434e62a0089e11971dfbbd0be907f7c374197c0687d6945e94aef9e67c8bd8d8",
+    "copy": "sources/RV.json",
+    "copy_sha256": "caa729bfb0813eb19fa058603f72bac3fa0203e9f96af67bcb77f0ac8c5fb46a",
+    "case_id": "RV",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RW.json",
+    "sha256": "a2094074edb360d5b7babeeb684b9442eeabf2a63d15b0282a85cc78945f9654",
+    "copy": "sources/RW.json",
+    "copy_sha256": "2a8b9fdee9e6434109164df51d5e36e7b4e280f3d4f4e14e8826597b901fd67f",
+    "case_id": "RW",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RX.json",
+    "sha256": "31e2cf62bdf544ebe57c0379fb87c4b651142424a2532f229a93ef4f99d469dd",
+    "copy": "sources/RX.json",
+    "copy_sha256": "495e39d4f94173b8c581b68131cfb2c8536c9e403541bfc976a28f3b0d402111",
+    "case_id": "RX",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/RY.json",
+    "sha256": "ff87147b1ef3776dea7ea192cd68acfc80fb4de1060d2b4d1e565a95d952d641",
+    "copy": "sources/RY.json",
+    "copy_sha256": "0419c005f6a57279566c8f1bd0b89207ed2180372fe35af0405d0b452ab2e72a",
+    "case_id": "RY",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YR.json",
+    "sha256": "eac85daddbacc74a88f99307fbb093917ead21a5ddbecb3805f1dbc554472d9e",
+    "copy": "sources/YR.json",
+    "copy_sha256": "c151ce1e8788934525c900267c688b08678724e91a178016def2ee14a4fb2b1e",
+    "case_id": "YR",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YS.json",
+    "sha256": "c8cd93970dfae2f50c29501c696cff31292e878a26909215dd2a14db817097e0",
+    "copy": "sources/YS.json",
+    "copy_sha256": "51abf03c440b2af49e865f1b3c4f382e4b5329ef96ae76caf3590212cbc9efbe",
+    "case_id": "YS",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YT.json",
+    "sha256": "26297936ae87cc8b8f30901d7ca1cd10d7327ebca1b4e030e4faf4c7fb31c187",
+    "copy": "sources/YT.json",
+    "copy_sha256": "90070aa325a8b0235df82b318aa4ebeda8d451ecd28ff2dbb2a43112b0b0d4cc",
+    "case_id": "YT",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/YU.json",
+    "sha256": "0d3b116316eddb4b7b9d3c61c63d76f5a4ddfddb5bbcb2b29650d344e7cc2d8b",
+    "copy": "sources/YU.json",
+    "copy_sha256": "1e6fee219539710dada681ae60b4b7e96df6a8b43b72df8f1fe6b541cc662021",
+    "case_id": "YU",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AYE.json",
+    "sha256": "4db57331f87abf16900e127896bdca6720d4258ee75737f0b0bc2b416e532b54",
+    "copy": "sources/AYE.json",
+    "copy_sha256": "377030e043f6ab2ed50d4123f3a7cdc2ff724775a373a413f06b446dad8767da",
+    "case_id": "AYE",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AYF.json",
+    "sha256": "7b4df01c625e9de9eff8860e887e8028b7be43bf1b5e52bb20aabcb3e5fcb5a9",
+    "copy": "sources/AYF.json",
+    "copy_sha256": "64f3713c82e892e7237e409d3144613f767a585ba61fd4de966c6d3ec96c5e98",
+    "case_id": "AYF",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/AYG.json",
+    "sha256": "4f4fa0b96e55fad944e86090a53841f4b61b2123aed83587cb3d5113c149624a",
+    "copy": "sources/AYG.json",
+    "copy_sha256": "43953b58e615cdd382a55d848f9730c1a321652d3af0907bca3f5342189ab4eb",
+    "case_id": "AYG",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ATN.json",
+    "sha256": "6d1b01b14f616edb7a1e294a953a4350bceec63e26b77f545a4215b8c6b8dd7c",
+    "copy": "sources/ATN.json",
+    "copy_sha256": "97bf7f3a85c3f8bcdfd8bfbe21d3c732867b9025b4f5b9d11baf77b7f6a54d32",
+    "case_id": "ATN",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ATO.json",
+    "sha256": "ba190f7b0287e49a7ebd35e829d16bbc992fc7f829f5f9dc1829d4ec62fcd9b7",
+    "copy": "sources/ATO.json",
+    "copy_sha256": "aade6f6dabf767d5f6cb9cc0ad8021c30b65a5d7df2456ef60d4fa1efa2ca617",
+    "case_id": "ATO",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/ATP.json",
+    "sha256": "0cc62dc68399b22b89cc3aaaf4d77fa21fdfb8d9b3add309ac27e8ab905a1f53",
+    "copy": "sources/ATP.json",
+    "copy_sha256": "388b05f5767d615bdd0391c24591480741a68e9be83b57fd7363a8a6b2d1f9b8",
+    "case_id": "ATP",
+    "scope": "지문·발문·전체 선지·필수 시각자료 경로",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual01.md",
+    "sha256": "61d83bb45e1c5a26174ef47184a2f3e4e3f1fc1d9352056babcbd0664af87a3d",
+    "copy": "sources/G350_visual01.md",
+    "copy_sha256": "61d83bb45e1c5a26174ef47184a2f3e4e3f1fc1d9352056babcbd0664af87a3d",
+    "scope": "LEET 원문 시각자료 보충",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G350_visual02.md",
+    "sha256": "1fbd5609ce8118293534a68563c30bc62cb5e44ea63d1270029b07df38bff9a4",
+    "copy": "sources/G350_visual02.md",
+    "copy_sha256": "1fbd5609ce8118293534a68563c30bc62cb5e44ea63d1270029b07df38bff9a4",
+    "scope": "LEET 원문 시각자료 보충",
+    "model_content_viewed": true
+  },
+  {
+    "path": "data/기출_MD_정본/연도별/2019/6월_모평/독서/Q35-38.md",
+    "sha256": "b7759da9a0c3a1a74f6d81817b9dd6e2753b6630517bc4559092d1acfeca42ad",
+    "scope": "RX 누락 B열 진단: 구조만",
+    "model_content_viewed": false,
+    "copied": false,
+    "role": "출처 결손 진단·추가 독립 정답 정보 아님"
+  },
+  {
+    "path": "data/기출_MD_정본/연도별/2019/6월_모평/독서/Q35-38-S084-087.md",
+    "sha256": "b7759da9a0c3a1a74f6d81817b9dd6e2753b6630517bc4559092d1acfeca42ad",
+    "scope": "RX 누락 B열 진단: 구조만 및 RX 문항 부분",
+    "model_content_viewed": true,
+    "copied": false,
+    "role": "출처 결손 진단·추가 독립 정답 정보 아님"
+  }
+]

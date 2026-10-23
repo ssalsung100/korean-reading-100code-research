@@ -1,0 +1,20 @@
+{
+  "raw_question_reviews.jsonl": "307bac05a48fc084ad49ace03ea4d2bbf978b6c3c8d65f1fbf6747fe9314dccd",
+  "current_question_reviews.jsonl": "34906f5abd3137c518610d6ab8450b2e59521bb657948bd3c3974bd06709ebf1",
+  "question_amendments.jsonl": "ec16a51d620978f65fea2945806c673f4f44aadac5b2497f6b364b37cec92f45",
+  "scene_amendments.jsonl": "9cf89c0c60acac91f2860204c3a68d64710eaa26aefbb5d063432f65a3268a79",
+  "pattern_development.jsonl": "01c7bfa434429a8e6e21d6d44db957e6c2fc7546da2091731d365862aefa435a",
+  "new_pattern_candidates.jsonl": "4f53ed7565e2f3f5f511b79812ecc01d02a6e99ce564e797e4da1943c9f66747",
+  "semantic_sample_audits.jsonl": "72360066fd9ab1477328bd24936b5f87b7980e4558b0a9506a5e1a03bc3d1e6d",
+  "audit_amendments.jsonl": "819d31c34d4da39de3e1c682cc2f8f7c3afe4710ae023a98bea1680772d379b7",
+  "current_semantic_sample_audits.json": "be999a2c04e00d5b63ecfa6e17d723ab659913fc0674f4b3387819150929a7d9",
+  "source_overrides.json": "cc6ecc6a17c2104544174ce35323044dc4851fdc9b4b92683e0a5f3ec199be07",
+  "checkpoint.json": "43d71cdab3f7121568a5e1a9c599bdcd6d652a46b2675bd349bbb7340012594b",
+  "continuous_research_progress.json": "1e59b2a4157f7b74ba0abeae6ffa339c99294734543948875596b0715e747b08",
+  "session_handoff_20261016_01.json": "55abf856910737607caddc5614fdf92cfea161c5de3555aee2c3208dd1cdfd89",
+  "completion_summary_20261016.json": "6f6ffbeceb29c3bc6d2ce3c8702aa5b841f1d0b9f4cc2cb31cc0771d92874261",
+  "validation_report.json": "49275dc6e3edf118dce1593fcd5b56e52df2945979007cf6940e2f86163992d4",
+  "final_integrity_20261016.json": "e2db48a9bb7dfc8d86112364252d5eba45dcdb73ca8949902a9d778efd05b1bf",
+  "unresolved_review_queue_20261016.jsonl": "8f7696f120085e941ceeb5b6f85a1fece6ab83ac16c7794b9e033302acac3c2c",
+  "followup_priorities_20261016.json": "faa7ca489f96f77d77d1dc28219a46a330a56eee7dcf28c912bca305df0ca857"
+}

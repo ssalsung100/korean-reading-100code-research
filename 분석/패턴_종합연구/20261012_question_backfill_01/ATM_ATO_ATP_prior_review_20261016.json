@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ATM": [
+      {
+        "line": 4463,
+        "record_id": "ATM-independent_code-20260928-01",
+        "case": "ATM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G309",
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            79,
+            78,
+            17
+          ],
+          "surface": [
+            88
+          ],
+          "decisive_operation": "침해된 정당한 자기 권리의 관철이라는 요건을 사례에 적용하여 이미 가진 채무 의무의 회피를 제외한다.",
+          "competing_codes": [
+            {
+              "code": 79,
+              "rebuttal": "권리와 의무의 방향이 핵심 내용이며37의 사례 대응과 중첩된다."
+            },
+            {
+              "code": 78,
+              "rebuttal": "행동의 목적이 권리 관철인지 의무 회피인지 구별하는 보조다."
+            },
+            {
+              "code": 88,
+              "rebuttal": "소액 사건에도 투쟁할 수 있다는⑤는 금전 이익만으로 행동을 평가하지 않는다는 근거다."
+            }
+          ],
+          "boundary_note": "채무자가 입증을 요구할 일반적 절차상 권리 자체를 부정하는 것으로 확대하지 않는다. 이미 돈을 빌렸다는 선지 설정과 필자 개념의 대응만 판단한다.",
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATO": [
+      {
+        "line": 4475,
+        "record_id": "ATO-independent_code-20260928-01",
+        "case": "ATO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G310",
+          "primary": [
+            59
+          ],
+          "auxiliary": [
+            44,
+            75
+          ],
+          "surface": [
+            49
+          ],
+          "decisive_operation": "호전의 대체 재원 마련이라는 문제에 장부 누락 토지를 찾아 세입을 늘리는 제안을 연결한다.",
+          "competing_codes": [
+            {
+              "code": 44,
+              "rebuttal": "토지조사→세수 확대라는 수단/목적은59의 대안 구조와 중첩된다."
+            },
+            {
+              "code": 75,
+              "rebuttal": "누가 반대하고 무엇을 제안했는지 귀속은 필요하지만 최종은 실제 대책의 내용 대응이다."
+            },
+            {
+              "code": 49,
+              "rebuttal": "세입 증가라는 방향은 있지만 자료의 단순 증감 관계 적용으로는 청묘법 비판/대안의 기능 차이를 가리지 못한다."
+            }
+          ],
+          "confidence": 0.97,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATP": [
+      {
+        "line": 4476,
+        "record_id": "ATP-independent_code-20260928-01",
+        "case": "ATP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G310",
+          "primary": [
+            99
+          ],
+          "auxiliary": [
+            3,
+            17,
+            39
+          ],
+          "surface": [
+            1
+          ],
+          "decisive_operation": "같은 폐단이라는 표현의 선행 내용과 시점을 추적하여 기존 군역 문제와 새 제도 부작용을 구별한다.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rebuttal": "기존/향후의 시간 차이는 지시 대상 구별의 핵심 근거이며99와 중첩된다."
+            },
+            {
+              "code": 1,
+              "rebuttal": "작은/큰은 발화자의 평가 강도지만 지칭 내용이 무엇인지가 먼저다."
+            },
+            {
+              "code": 39,
+              "rebuttal": "두 표현이 같은 대상인지 비교하는 과업으로99의 대용표현 해소와 겹친다."
+            }
+          ],
+          "confidence": 0.98,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정직접검토.ATM은선지의주어진사실과필자개념의대응이며실제채무자의입증요구권전반을부정하지않음."
+}

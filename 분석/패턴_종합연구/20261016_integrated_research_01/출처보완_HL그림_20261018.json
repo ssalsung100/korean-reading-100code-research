@@ -1,0 +1,19 @@
+{
+  "record_id": "IR-SR-HL-20261018",
+  "date": "2026-10-18",
+  "case": "HL",
+  "original_review_id": "QBF01-U0047-Q03-review",
+  "original_uncertainty_preserved": "최초blind에서그림미확인·추가배치조건유보",
+  "current_observation": "HL_gripper.png직접판독:위고정부의두띠가안으로휘어중앙물체를잡음.점선에는a/b·온도표식없음.",
+  "provenance_path": "data/기본기_연구/prepared_backlog/sealed/G047_visual_provenance.json",
+  "catalog_id": "KICE-HWPX-2027_고3_국어_독서__._과학-image6",
+  "source_asset": "자료/평가원_독서_시각자료_원본/2027_고3_국어_독서__._과학/image6.png",
+  "read_asset": "data/기본기_연구/prepared_backlog/blind_sources/HL_gripper.png",
+  "prior_direct_visual_record": "HL-sdss_compare-20260915-01",
+  "prior_record_path": "data/기본기_연구/astra_handoff_queue.jsonl",
+  "prior_record_line": 922,
+  "prior_scope": "교재추출이미지사후직접판독이미존재.최초blind미열람불변.사이트태그를정답판정근거로재사용하지않음.",
+  "resolution_scope": "현행그림미제공이라는시제는갱신.그림에서추가수치·온도대응확인안됨.원배포PDF직접검증유보는유지.원유보93문항누계를소급감소시키지않음.",
+  "old_sources_modified": false,
+  "full_hash_revalidation": false
+}

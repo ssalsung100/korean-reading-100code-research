@@ -1,0 +1,193 @@
+{
+  "scope": "orders 14-80, non-prepared linked solutions or multiple analysis links; path/line existence only",
+  "items": [
+    {
+      "order": 21,
+      "unique_question": "U0015-Q03",
+      "stored_question_ids": [
+        "KICE-2023-6월_모평-Q10-13-S051~054-Q12"
+      ],
+      "analysis_ids": [
+        "PREP:CE",
+        "code_reviews_02.jsonl:12"
+      ],
+      "existing_solutions": [
+        {
+          "analysis_id": "code_reviews_02.jsonl:12",
+          "path": "data/기본기_연구/code_reviews_02.jsonl",
+          "line": 12,
+          "exists": true,
+          "source_status": "complete",
+          "source_missing_marker": null
+        }
+      ],
+      "original_raw_locations": [
+        {
+          "record_id": "CE-blind-20260910-01",
+          "stage": "blind",
+          "line": 280,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "CE-answer_check-20260910-01",
+          "stage": "answer_check",
+          "line": 286,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "CE-independent_code-20260910-01",
+          "stage": "independent_code",
+          "line": 290,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "CE-sdss_compare-20260910-01",
+          "stage": "sdss_compare",
+          "line": 294,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        }
+      ]
+    },
+    {
+      "order": 28,
+      "unique_question": "U0018-Q02",
+      "stored_question_ids": [
+        "KICE-2023-9월_모평-Q10-13-S091~094-Q11"
+      ],
+      "analysis_ids": [
+        "PREP:CR",
+        "code_reviews_01.jsonl:2"
+      ],
+      "existing_solutions": [
+        {
+          "analysis_id": "code_reviews_01.jsonl:2",
+          "path": "data/기본기_연구/code_reviews_01.jsonl",
+          "line": 2,
+          "exists": true,
+          "source_status": null,
+          "source_missing_marker": null
+        }
+      ],
+      "original_raw_locations": [
+        {
+          "record_id": "CR-blind-20260911-01",
+          "stage": "blind",
+          "line": 343,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "CR-answer_check-20260911-01",
+          "stage": "answer_check",
+          "line": 348,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "CR-independent_code-20260911-01",
+          "stage": "independent_code",
+          "line": 352,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "CR-sdss_compare-20260911-01",
+          "stage": "sdss_compare",
+          "line": 356,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        }
+      ]
+    },
+    {
+      "order": 44,
+      "unique_question": "U0027-Q01",
+      "stored_question_ids": [
+        "KICE-2025-수능-Q01-03-S183~185-Q01"
+      ],
+      "analysis_ids": [
+        "PREP:ED",
+        "code_reviews_01.jsonl:18"
+      ],
+      "existing_solutions": [
+        {
+          "analysis_id": "code_reviews_01.jsonl:18",
+          "path": "data/기본기_연구/code_reviews_01.jsonl",
+          "line": 18,
+          "exists": true,
+          "source_status": null,
+          "source_missing_marker": null
+        }
+      ],
+      "original_raw_locations": [
+        {
+          "record_id": "ED-blind-20260913-01",
+          "stage": "blind",
+          "line": 510,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "ED-answer_check-20260913-01",
+          "stage": "answer_check",
+          "line": 516,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "ED-independent_code-20260913-01",
+          "stage": "independent_code",
+          "line": 519,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "ED-sdss_compare-20260913-01",
+          "stage": "sdss_compare",
+          "line": 522,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        }
+      ]
+    },
+    {
+      "order": 51,
+      "unique_question": "U0029-Q02",
+      "stored_question_ids": [
+        "KICE-2025-수능-Q10-13-S005~008-Q11"
+      ],
+      "analysis_ids": [
+        "PREP:EN",
+        "code_reviews_02.jsonl:7"
+      ],
+      "existing_solutions": [
+        {
+          "analysis_id": "code_reviews_02.jsonl:7",
+          "path": "data/기본기_연구/code_reviews_02.jsonl",
+          "line": 7,
+          "exists": true,
+          "source_status": "complete",
+          "source_missing_marker": null
+        }
+      ],
+      "original_raw_locations": [
+        {
+          "record_id": "EN-blind-20260913-02",
+          "stage": "blind",
+          "line": 554,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "EN-answer_check-20260913-02",
+          "stage": "answer_check",
+          "line": 559,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "EN-independent_code-20260913-02",
+          "stage": "independent_code",
+          "line": 563,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        },
+        {
+          "record_id": "EN-sdss_compare-20260913-02",
+          "stage": "sdss_compare",
+          "line": 567,
+          "path": "data/기본기_연구/astra_handoff_queue.jsonl"
+        }
+      ]
+    }
+  ]
+}

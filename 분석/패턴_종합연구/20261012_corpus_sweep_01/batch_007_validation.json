@@ -1,0 +1,9 @@
+{
+  "status": "배치 연결 기계 검사 통과",
+  "groups": 30,
+  "scenes": 30,
+  "source_sha_mismatches": 0,
+  "semantic_validity_completed": false,
+  "protected_archive_hashes_rechecked_this_batch": false,
+  "next_group": "U0373"
+}

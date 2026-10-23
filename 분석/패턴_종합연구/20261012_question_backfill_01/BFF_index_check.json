@@ -1,0 +1,15 @@
+{
+  "parliament_denominator": 0.3600000000000001,
+  "parliament_index": 2.7777777777777772,
+  "unknown_votes_sum": 0.1,
+  "unknown_square_sum_bounds": [
+    0.003333333333333334,
+    0.010000000000000002
+  ],
+  "electoral_index_bounds": [
+    3.3333333333333335,
+    3.409090909090909
+  ],
+  "scope": "보기의6당득표전체를선거지수에포함. 해산3당을빼거나.9로재정규화하지않음.",
+  "official_answer": 3
+}

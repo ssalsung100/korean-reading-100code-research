@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "W": [
+      {
+        "line": 16,
+        "record_id": "W-independent_code-20260908-01",
+        "case": "W",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-08",
+        "payload": {
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 62,
+              "scope": "① 정답 결정",
+              "operation": "근거를 인정해도 결론의 추가 효력이 확보되는지 점검",
+              "reason": "미적 즐거움에 관한 경험적 예측과 그 예측에 동의하지 않는 사람에 대한 판단의 구속력 사이에 충분한 정당화가 없다."
+            }
+          ],
+          "secondary": [
+            {
+              "code": 63,
+              "scope": "타당한 비판 선택",
+              "reason": "상위 과제 유형"
+            },
+            {
+              "code": 60,
+              "scope": "정답과 오답의 비교",
+              "reason": "느낌 보고, 경험적 예측, 평가의 차등이라는 논증 단계 유지"
+            }
+          ],
+          "surface": [
+            {
+              "code": 2,
+              "scope": "예측은 틀릴 수 있다는 ⑤ 관련 설명",
+              "reason": "예측의 가변성은 원문이 이미 인정하며 정답의 비판은 예측 확률 자체가 아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 73,
+              "similarity": "이론의 비판이므로 전제 공격처럼 보임",
+              "rejection": "①은 실제로 타인도 즐길 것이라는 경험적 예측의 진위를 부정하지 않음",
+              "tracked": "전제의 진릿값과 결론의 효력",
+              "promotion_condition": "예측을 뒷받침한 경험적 관측 자체가 틀렸음을 입증할 때"
+            },
+            {
+              "code": 65,
+              "similarity": "②·③은 루이스를 단순 주관주의로 읽으면 그럴듯함",
+              "rejection": "정답①은 루이스의 예측 이해를 유지한 채 빠진 근거를 물으며 왜곡된 입장을 공격하지 않음",
+              "tracked": "공격 대상의 원입장 일치 여부",
+              "promotion_condition": "루이스가 모든 미적 판단을 단순 느낌 보고로만 본다고 바꿔 비판할 때"
+            },
+            {
+              "code": 36,
+              "similarity": "동의하지 않는 사람이 위반 사례처럼 보임",
+              "rejection": "본문은 모든 사람이 반드시 동의한다는 보편명제를 주지 않았으며 예측 오류도 인정함",
+              "tracked": "명시적 보편명제와 직접 위반",
+              "promotion_condition": "아름다운 작품이면 모든 사람이 예외 없이 즐거워한다고 확정하고 불쾌 사례를 제시할 때"
+            },
+            {
+              "code": 19,
+              "similarity": "정당화의 부족을 지적함",
+              "rejection": "구체 보완 수단이나 새 전제를 공급하는 것이 아니라 충분성의 결핍을 드러냄",
+              "tracked": "연결의 결핍 지적과 실제 보충",
+              "promotion_condition": "예측 신뢰성에서 미적 권위를 정당화할 추가 원리를 제시하고 효과를 물을 때"
+            }
+          ],
+          "confidence": "높음(#62 연산), 중간(구속력의 규범적 해석 범위)",
+          "merge_decision": "#62와 #63은 구체 연산과 상위 평가 과제로 겹침. #73·#65와 실질 동치를 확정하지 않음."
+        }
+      }
+    ],
+    "BRI": [
+      {
+        "line": 7325,
+        "record_id": "BRI-independent_code-20261005-01",
+        "case": "BRI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T05:59:28.838523+00:00",
+        "payload": {
+          "passage_group": "G517",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 100,
+              "reason": "등 뒤라는 공간 비유를 보이지 않는 구조의 일상 구속이라는 추상 의미로 복원한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 2,
+              "reason": "조정 가능성의 극단적 제한을 절대적 저항 불가로 강화하지 않는다."
+            },
+            {
+              "code": 46,
+              "reason": "기술·사회구조가 일상에 작용하는 방향을 문맥 근거로 삼는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 42,
+              "reason": "등 뒤라는 위치가 있으나 실제 내부/외부 공간 소속 문제는 아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 99,
+              "rejection": "특정 앞말을 지시하는 대용표현 찾기에 그치지 않고 구속이 작동하는 양식을 비유로 해석해야 한다."
+            },
+            {
+              "code": 80,
+              "rejection": "감지 여부가 의미 일부지만 주된 요구는 표현의 함축 복원이다."
+            },
+            {
+              "code": 54,
+              "rejection": "구조의 제약을 모든 행위를 충분하게 결정하는 단일 원인으로 확대하면 자율의 제한적 여지를 지운다."
+            }
+          ],
+          "confidence": 0.95
+        }
+      }
+    ],
+    "X": [
+      {
+        "line": 20,
+        "record_id": "X-independent_code-20260908-01",
+        "case": "X",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-08",
+        "payload": {
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 75,
+              "cluster": "C074_075",
+              "scope": "문항 전체 및 ④ 결정",
+              "operation": "인물별 해석 관점과 사례의 대응",
+              "reason": "포이케르트의 저항 범위를 유지해 하위문화 사례의 의미를 도출한다. 다섯 인물의 관점에 다른 인물의 설명을 옮기지 않는다."
+            }
+          ],
+          "secondary": [
+            {
+              "code": 15,
+              "scope": "④",
+              "reason": "정치적 저항에 포함시키는 판단 기준을 사적 몰입·일탈까지 유지"
+            }
+          ],
+          "surface": [
+            {
+              "code": 46,
+              "scope": "③·⑤와 P4",
+              "reason": "구조에서 행위로, 행위에서 구조로의 설명 방향을 보존"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 74,
+              "similarity": "종속과 자율의 대안적 해석 및 사례 관측",
+              "rejection": "통합군 원번호의 배타적 기각 아님. 특정 관측이 한 이론을 탈락시키는 문항이 아니라 논자별 관점 적용",
+              "tracked": "해석 귀속과 상반 예측 판별",
+              "promotion_condition": "하우젠과 브라우닝의 배타적인 명시적 예측을 별도 관측에 대응할 때"
+            },
+            {
+              "code": 65,
+              "similarity": "오답들이 다른 논자의 설명을 잘못 귀속",
+              "rejection": "그 오귀속을 공격의 근거로 쓰는 논증은 없음",
+              "tracked": "오귀속 뒤의 공격 행위",
+              "promotion_condition": "왜곡한 주장을 대상으로 역사학자의 견해를 비판하는 진술을 평가할 때"
+            },
+            {
+              "code": 36,
+              "similarity": "강압 체제의 저항 사례가 제시됨",
+              "rejection": "하우젠의 장기적 종속 증대는 자율 행동이 하나도 없다는 보편명제가 아니며 후반은 양쪽의 동시성도 인정",
+              "tracked": "경향과 예외 불허 명제의 강도",
+              "promotion_condition": "전체주의에서는 어떠한 자율 행동도 불가능하다는 명제를 저항 사례로 깨뜨릴 때"
+            },
+            {
+              "code": 46,
+              "similarity": "구조와 행위의 양방향 작용",
+              "rejection": "③·⑤의 오귀속 검토에 관련되나 ④를 선택하는 결정 관계는 저항 범위와 논자 대응",
+              "tracked": "원인·결과 방향과 해당 주체",
+              "promotion_condition": "같은 행위를 원인과 결과에 바꾸어 놓은 것이 정답의 핵심 오류일 때"
+            }
+          ],
+          "confidence": "높음(④), 중간(⑤ 배제의 강도)",
+          "merge_decision": "C074_075의 견해 귀속 하위 구조 유지. 본문의 복합 관점을 선지의 단방향 해석과 곧바로 모순이라고 하지 않는다."
+        }
+      }
+    ],
+    "BRM": [
+      {
+        "line": 7344,
+        "record_id": "BRM-independent_code-20261005-01",
+        "case": "BRM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:12:13.503125+00:00",
+        "payload": {
+          "passage_group": "G519",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 78,
+              "reason": "이타적도움의동기와행위뒤만족감을분리해행위의이기성귀속을판정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 62,
+              "reason": "만족감발생→만족감목적이라는추론의충분성을부정한다."
+            },
+            {
+              "code": 46,
+              "reason": "행위→만족의결과방향을유지한다."
+            },
+            {
+              "code": 75,
+              "cluster": "C074_075",
+              "reason": "심리적이기주의와그비판자의입장을혼동하지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 49,
+              "reason": "동시발생도언급되지만결정적쟁점은목적·동기의귀속이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 55,
+              "rejection": "잘못된원인연결로기술가능하나실제요구는어떤목적으로행위했는가의행위설명이다.배타경계로보지않는다."
+            },
+            {
+              "code": 73,
+              "rejection": "첫논증의욕구전제공격은③과관련되지만①의결정은이타적동기와행위평가의연결이다."
+            },
+            {
+              "code": 36,
+              "rejection": "의무감행위가욕구설명의반례지만이문항의①판정을단독설명하지못한다."
+            }
+          ],
+          "confidence": 0.94
+        }
+      }
+    ]
+  },
+  "별도판정": {
+    "case_id": "BASIC-C02-MEET-2012-Q27",
+    "code_number": 2,
+    "exam_family": "MEET",
+    "year": 2012,
+    "question_number": 27,
+    "local_question_id": "MEET-2012-Q27",
+    "passage_id": "MEET-2012-Q26-28",
+    "source_path": "자료/MEET_언어추론/전사_검수완료/2012/q26-28.md",
+    "official_answer": "①",
+    "official_answer_source": "자료/MEET_언어추론/공식_정답표_원본/2012_통합_정답표.pdf",
+    "site_code_label": "양상",
+    "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%8B%AC%EB%A6%AC%EC%A0%81+%EC%9D%B4%EA%B8%B0%EC%A3%BC%EC%9D%98%EC%99%80+%EC%9C%A4%EB%A6%AC%EC%A0%81+%EC%9D%B4%EA%B8%B0%EC%A3%BC%EC%9D%98",
+    "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%EC%83%81",
+    "passage_structure_codes": [
+      83,
+      55,
+      78,
+      4
+    ],
+    "primary_solution_codes": [
+      55,
+      78
+    ],
+    "support_codes": [
+      2,
+      4
+    ],
+    "evidence": [
+      {
+        "location": "본문3문단",
+        "quote": "만족감 때문에 그 일을 했다는 사실을 입증하지 않는다",
+        "source_path": "자료/MEET_언어추론/전사_검수완료/2012/q26-28.md",
+        "source_record_id": "MEET-2012-Q27",
+        "quote_normalization": "whitespace_only"
+      },
+      {
+        "location": "같은 문단",
+        "quote": "기분이 좋아지는 것은 부수적인 산물",
+        "source_path": "자료/MEET_언어추론/전사_검수완료/2012/q26-28.md",
+        "source_record_id": "MEET-2012-Q27",
+        "quote_normalization": "whitespace_only"
+      }
+    ],
+    "reasoning_steps": [
+      "발문의 주체는 심리적 이기주의 자체가 아니라 그 논증을 비판하는 사람이다.",
+      "비판자는 도움의 결과로 얻는 만족을 도움의 이기적 동기와 동일시하지 않는다.",
+      "①은 동기가 이타적임을 인정하면서도 행위는 이기적이라고 단정하여 비판자의 구별을 훼손한다."
+    ],
+    "distractor_operations": [
+      "① 이타적 동기와 이기적 행위의 귀속을 잘못 결합.",
+      "② 참: 자기 욕구 실행만을 이유로 칭찬을 배제한 논증을 거부.",
+      "③ 참: 하고 싶지 않아도 의무로 행동하는 반례.",
+      "④ 참: 만족이라는 결과를 동기로 소급하지 않음.",
+      "⑤ 참: 도움 뒤 만족의 발생 방향 유지."
+    ],
+    "nearest_code_boundary": "가능성은 ③ 반례 이해에만 보조한다. 직접 정답은 #78 행위설명과 #55 결과로부터 동기 날조 차단으로 결정된다.",
+    "site_tag_verdict": "주 코드 기각",
+    "review_status": "single_analyst_reviewed",
+    "site_original_codes": [
+      "양상"
+    ],
+    "site_candidate_id": "CAND-3a0bb0c521629238",
+    "site_snapshot": {
+      "fetched_at": "2026-09-03T11:19:36+09:00",
+      "catalog_path": "data/sdss_100codes_catalog.json",
+      "raw_path": "data/sdss_code_search_raw/002_양상.html",
+      "current_site_rechecked": false
+    },
+    "site_tag_relation_scope": {
+      "location": "참인 선지③ 및 지문의 반례",
+      "interpretation": "정답①의 직접 판단은 #55/#78",
+      "site_intended_scope_confirmed": false
+    },
+    "site_untagged_supplement": false,
+    "passage_source_path": "자료/MEET_언어추론/전사_검수완료/2012/q26-28.md",
+    "question_source_path": "자료/MEET_언어추론/전사_검수완료/2012/q26-28.md",
+    "independent_review": {
+      "date": "2026-09-07",
+      "reviewer": "conditions_synthesis",
+      "status": "second_analyst_source_reviewed",
+      "blind": false,
+      "scope": "지문·발문·보기(해당 시)·전체 선지 및 기존 분석 재검토",
+      "finding": "논증 지지자와 비판자의 발화 관점을 구분하고 ①~⑤를 다시 대조했다. 정답①의 결정은 이타적 동기/행위 귀속이며 #2는 ③의 비욕구적 의무 행위 가능성에 해당한다.",
+      "original_review_status_preserved": true,
+      "official_answer_file_reopened": false
+    }
+  },
+  "검토": "전체원문·5선지·기존풀이·독립판정과W/X반영MD직접확인.BRM별도55/78중심판정과prepared78중심판정병존·고유1회.",
+  "출처형식": "W/X의MD패킷을기존파서로읽은본문·발문·선지그대로JSON파생본에정규화.문자열동일성검사통과.원MD불변·원문복원아님.",
+  "유보": "W구속력은규범적정당화문제,BRI감지불가는숨은작용의은유,X⑤는귀속근거부족이지양방향관점과의논리모순이아님."
+}

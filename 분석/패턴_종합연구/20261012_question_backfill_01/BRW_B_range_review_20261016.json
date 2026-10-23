@@ -1,0 +1,22 @@
+{
+  "case": "BRW",
+  "date": "2026-10-16",
+  "stage": "사후 원문 범위 확인",
+  "official_page_image": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_004.png",
+  "official_hwp": "자료/LEET_언어이해/원본/2009예비/2009예비_question_odd_2009법학적성시험_예비_언어이해(홀).hwp",
+  "source_hashes": {
+    "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2009예비/page_004.png": "1edabc9b0aaea4e7bbd4205b85912f3eb3ba8069a14b7876b522b084224afc76",
+    "자료/LEET_언어이해/원본/2009예비/2009예비_question_odd_2009법학적성시험_예비_언어이해(홀).hwp": "f872ee7acd4604e615529003dd9de3dbb33aed29d3d133cd1a55cda485a9c1d0"
+  },
+  "direct_visual_seen": true,
+  "range_B": {
+    "start": "이 영화는 호쾌한 장면 연출을 극도로 억제함으로써",
+    "end": "심안으로 읽어야 할 일종의 텍스트인 것이다.",
+    "scope": "공식4쪽 오른쪽 단 상단의 마지막 감상 관점 문단 전체",
+    "boundary_basis": "[B] 글자 위치가 아니라 위아래 괄호 꼭짓점 직접 확인"
+  },
+  "original_blind_preserved": true,
+  "original_limit": "기존 BRW blind는[B]시각경계 미보존이며 마지막문단을근거로판단했음",
+  "current_resolution": "이번사후직접확인으로그문단전체가[B]임을확인.최초단계에소급하지않음.원문텍스트/기본기raw변경없음.",
+  "answer_sdss_exposure": "기존정답·풀이·독립판정을이미본사후분석.이번확인은새blind성과아님."
+}

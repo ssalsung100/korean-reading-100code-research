@@ -1,0 +1,35 @@
+{
+  "scope": "보고별 유일성 위반 증인과 E164·165·166 확인; 빈 반례 집합을 전체 성질 증명으로 해석하지 않음. 자연어 의미의 독립 검증 아님.",
+  "reports": {
+    "가": {
+      "단일성": true,
+      "복원성": false
+    },
+    "나": {
+      "단일성": false,
+      "복원성": false
+    },
+    "다": {
+      "단일성": false,
+      "복원성": true
+    }
+  },
+  "variants": [
+    {
+      "effect": "E164",
+      "report_violation_witness": {
+        "단일성": false,
+        "복원성": false
+      }
+    },
+    {
+      "effect": "E165",
+      "report_violation_witness": {
+        "단일성": false,
+        "복원성": false
+      }
+    }
+  ],
+  "E166_violations_preserved": true,
+  "self_checked_answer": 4
+}

@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AWE": [
+      {
+        "line": 4787,
+        "record_id": "AWE-independent_code-20260928-01",
+        "case": "AWE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            1,
+            17
+          ],
+          "auxiliary": [
+            2,
+            19
+          ],
+          "surface": [
+            92,
+            43
+          ],
+          "decisive_operation": "사회경제적배경에따른약간의차이를무관이라는완전부정으로교체한②를배제.",
+          "competitor_refutations": [
+            {
+              "code": 43,
+              "reason": "식별문제통제는주요본문내용이나②는배경차이의존재판정이다."
+            },
+            {
+              "code": 92,
+              "reason": "P-A=C계산은①확인이고정답오류는양적차이/무차이구분."
+            },
+            {
+              "code": 19,
+              "reason": "우회방법의존재는완전해결을뜻하지않으나정답②직접경로는아님."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G333",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWF": [
+      {
+        "line": 4788,
+        "record_id": "AWF-independent_code-20260928-01",
+        "case": "AWF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            43,
+            53
+          ],
+          "auxiliary": [
+            46,
+            2,
+            39
+          ],
+          "surface": [
+            74,
+            63
+          ],
+          "decisive_operation": "연령·코호트고정여부와각효과의예상방향을대조하여관찰결과를설명할기간효과를가능한추론으로선별.",
+          "competitor_refutations": [
+            {
+              "code": 74,
+              "reason": "세효과는상호배타가설이아니라동시에합성될수있다."
+            },
+            {
+              "code": 54,
+              "reason": "기간효과가결과를유일하게결정했다는강한결론은식별문제와충돌한다."
+            },
+            {
+              "code": 77,
+              "reason": "표본일부의일반화보다고정변수·예상방향의비교가중요하다."
+            }
+          ],
+          "confidence": 0.95,
+          "passage_group": "G333",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWI": [
+      {
+        "line": 4801,
+        "record_id": "AWI-independent_code-20260928-01",
+        "case": "AWI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            88,
+            46
+          ],
+          "auxiliary": [
+            17,
+            53,
+            87
+          ],
+          "surface": [
+            85,
+            43
+          ],
+          "decisive_operation": "무질서감소편익과국가침해비용의상충에서여건별최적개입방향을판정하고사회별가능집합을구별.",
+          "competitor_refutations": [
+            {
+              "code": 85,
+              "reason": "총비용은고정된합을서로빼앗는양이아니라최소화목표다.등비용선의합일정과선택결과구분."
+            },
+            {
+              "code": 43,
+              "reason": "조건별비교는필요하지만순수통제실험설계가아니라제약하최적선택."
+            },
+            {
+              "code": 86,
+              "reason": "절대비용과사회내효율순위의범위를먼저구분해야한다."
+            }
+          ],
+          "confidence": 0.95,
+          "passage_group": "G334",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "AWE_legacy": {
+    "path": "data/기본기_연구/code_reviews_02.jsonl",
+    "line": 14,
+    "record": {
+      "case_id": "BASIC-C46-LEET-2023-Q13",
+      "code_number": 46,
+      "exam_family": "LEET",
+      "year": 2023,
+      "question_number": 13,
+      "local_question_id": "LEET-2023-odd-Q13",
+      "passage_id": "LEET-2023-odd-Q13-15",
+      "source_path": "자료/LEET_언어이해/전사_검수완료/2023/q13-15.md",
+      "official_answer": "②",
+      "official_answer_source": "자료/LEET_언어이해/원본/2023/2023_answer_언어이해정답.pdf",
+      "site_code_label": "인과관계",
+      "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%84%B8%EB%8C%80+%EC%97%B0%EA%B5%AC",
+      "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84",
+      "source_status": "complete",
+      "passage_structure_codes": [
+        46,
+        62,
+        4
+      ],
+      "primary_solution_codes": [
+        62,
+        4
+      ],
+      "support_codes": [
+        46
+      ],
+      "evidence": [
+        {
+          "location": "본문",
+          "quote": "성별, 거주지별, 교육 수준별로 약간의 차이"
+        },
+        {
+          "location": "②",
+          "quote": "사회경제적 배경과는 무관"
+        }
+      ],
+      "reasoning_steps": [
+        "본문은 배경별 차이를 인정한다.",
+        "②는 그 차이를 무관하다고 부정해 일치하지 않는다."
+      ],
+      "distractor_operations": [
+        "②는 조건부 차이를 배경 무관이라는 전면 부정으로 바꾼다."
+      ],
+      "nearest_code_boundary": "인과는 지문 구조에 있으나 직접 정답은 관계 부정·범위 확대다.",
+      "site_tag_verdict": "주 코드 기각",
+      "review_status": "single_analyst_reviewed"
+    }
+  },
+  "AWI_visual": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G334_visual01.png",
+    "method": "주 에이전트 공식 페이지 직접 판독",
+    "observations": [
+      "가로축은 독재로 인한 사회적 비용, 세로축은 무질서로 인한 사회적 비용이다.",
+      "사적 질서→민사소송→정부 규제→국유화 순서가 우하향 곡선 위에 표시된다.",
+      "A는 실선,B는 점선이며 각각 기울기-1인 등비용선과 접한다.",
+      "본문 사례는 같은 정도 개입 증가의 무질서 감소 효과 차이이다. 언론 감시로 독재 비용 함수가 바뀔 때의 별도 그래프는 없다."
+    ],
+    "limit": "그림의 제도 순서와 서로 다른 비용 함수에서의 절대 가로좌표 비교는 구별해야 한다."
+  }
+}

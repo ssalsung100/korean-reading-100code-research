@@ -1,0 +1,65 @@
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0002-Q02", "analysis_ids": ["PREP:AD", "code_reviews_02.jsonl:2"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0003-Q01", "analysis_ids": ["PREP:AE", "독립풀이_03:G"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0004-Q04", "analysis_ids": ["PREP:AI", "code_reviews_01.jsonl:9"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0009-Q01", "analysis_ids": ["PREP:BE", "code_reviews_02.jsonl:13"]}
+{"relation": "동일 지문에 대한 복수 운영 그룹", "unique_group": "U0013", "operational_groups": ["G013", "G059"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0015-Q01", "analysis_ids": ["PREP:CC", "code_reviews_01.jsonl:13"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0015-Q03", "analysis_ids": ["PREP:CE", "code_reviews_02.jsonl:12"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0015-Q04", "analysis_ids": ["PREP:CF", "code_reviews_02.jsonl:17"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0016-Q02", "analysis_ids": ["PREP:CH", "code_reviews_02.jsonl:1"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0016-Q03", "analysis_ids": ["PREP:CI", "code_reviews_02.jsonl:6"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0017-Q04", "analysis_ids": ["PREP:CN", "독립풀이_04:N"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0018-Q02", "analysis_ids": ["PREP:CR", "code_reviews_01.jsonl:2"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0019-Q02", "analysis_ids": ["PREP:CV", "code_reviews_02.jsonl:8"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0024-Q01", "analysis_ids": ["PREP:DR", "code_reviews_02.jsonl:18"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0024-Q03", "analysis_ids": ["PREP:DT", "독립풀이_03:A"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0025-Q03", "analysis_ids": ["PREP:DX", "code_reviews_01.jsonl:1"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0027-Q01", "analysis_ids": ["PREP:ED", "code_reviews_01.jsonl:18"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0029-Q02", "analysis_ids": ["PREP:EN", "code_reviews_02.jsonl:7"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0031-Q03", "analysis_ids": ["PREP:EW", "독립풀이_03:B"]}
+{"relation": "동일 지문에 대한 복수 운영 그룹", "unique_group": "U0031", "operational_groups": ["G031", "G520"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0037-Q04", "analysis_ids": ["PREP:GC", "code_reviews_01.jsonl:17"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0040-Q02", "analysis_ids": ["PREP:GO", "독립풀이_03:J"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0057-Q01", "analysis_ids": ["PREP:IS", "code_reviews_01.jsonl:12"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0058-Q02", "analysis_ids": ["PREP:IW", "독립풀이_04:O"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0062-Q03", "analysis_ids": ["PREP:JL", "독립풀이_04:Y"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0071-Q03", "analysis_ids": ["PREP:KL", "독립풀이_04:M"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0094-Q03", "analysis_ids": ["PREP:NM", "독립풀이_03:K"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0102-Q03", "analysis_ids": ["PREP:OZ", "독립풀이_04:P"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0125-Q05", "analysis_ids": ["PREP:UW", "독립풀이_03:L"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0150-Q03", "analysis_ids": ["PREP:ACM", "독립풀이_04:Q"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0186-Q01", "analysis_ids": ["PREP:AJY", "code_reviews_02.jsonl:9"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0186-Q03", "analysis_ids": ["PREP:AKA", "code_reviews_02.jsonl:19"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0188-Q02", "analysis_ids": ["PREP:AKF", "code_reviews_01.jsonl:3"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0188-Q03", "analysis_ids": ["PREP:AKG", "code_reviews_01.jsonl:14"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0193-Q02", "analysis_ids": ["PREP:AKU", "code_reviews_01.jsonl:19"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0220-Q03", "analysis_ids": ["PREP:ANU", "독립풀이_04:S"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0230-Q01", "analysis_ids": ["PREP:AOU", "code_reviews_02.jsonl:5"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0232-Q02", "analysis_ids": ["PREP:APB", "code_reviews_02.jsonl:16"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0240-Q01", "analysis_ids": ["PREP:APY", "code_reviews_01.jsonl:16"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0240-Q02", "analysis_ids": ["PREP:APZ", "code_reviews_01.jsonl:20"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0242-Q02", "analysis_ids": ["PREP:AQF", "code_reviews_01.jsonl:21"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0266-Q02", "analysis_ids": ["PREP:ASZ", "code_reviews_02.jsonl:20"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0267-Q02", "analysis_ids": ["PREP:ATC", "code_reviews_02.jsonl:11"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0280-Q03", "analysis_ids": ["PREP:AUQ", "독립풀이_03:E"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0291-Q02", "analysis_ids": ["PREP:AVW", "code_reviews_02.jsonl:21"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0294-Q01", "analysis_ids": ["PREP:AWE", "code_reviews_02.jsonl:14"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0294-Q03", "analysis_ids": ["PREP:AWG", "code_reviews_02.jsonl:3"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0312-Q04", "analysis_ids": ["PREP:AYK", "독립풀이_04:T"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0320-Q03", "analysis_ids": ["PREP:AZI", "독립풀이_04:U"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0337-Q03", "analysis_ids": ["PREP:BBK", "독립풀이_03:I"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0344-Q01", "analysis_ids": ["PREP:BCD", "code_reviews_01.jsonl:5"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0344-Q03", "analysis_ids": ["PREP:BCF", "code_reviews_01.jsonl:15"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0350-Q03", "analysis_ids": ["PREP:BCZ", "code_reviews_02.jsonl:10"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0357-Q02", "analysis_ids": ["PREP:BDS", "code_reviews_02.jsonl:15"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0358-Q02", "analysis_ids": ["PREP:BDV", "독립풀이_03:F"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0383-Q01", "analysis_ids": ["PREP:BGO", "code_reviews_01.jsonl:10"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0394-Q03", "analysis_ids": ["PREP:BHV", "code_reviews_02.jsonl:4"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0433-Q02", "analysis_ids": ["PREP:BMH", "code_reviews_01.jsonl:8"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0461-Q01", "analysis_ids": ["PREP:BPL", "code_reviews_01.jsonl:6"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0463-Q02", "analysis_ids": ["PREP:BPS", "code_reviews_01.jsonl:7"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0480-Q01", "analysis_ids": ["PREP:BRL", "code_reviews_01.jsonl:11"]}
+{"relation": "동일 원문 문항의 반복 분석/수록", "unique_question": "U0480-Q02", "analysis_ids": ["PREP:BRM", "code_reviews_01.jsonl:4"]}
+{"relation": "작업용 표지 차이의 동일 지문·문항", "analysis_id": "독립풀이_03:C", "old_group": "U0498", "new_group": "U0451", "old_question": "U0498-Q01", "new_question": "U0451-Q03", "verification": "본문 차이는 작업용 P1 표지·문항 범위·읽기 지시문뿐. 이를 제거하면 본문·발문·5선지 일치. 시험·연도·형·번호도 같음.", "source_paths": ["data/기본기_연구/독립풀이_03/packets/C.md", "data/기본기_연구/prepared_backlog/blind_sources/BOK.json"]}
+{"relation": "작업용 표지 차이의 동일 지문·문항", "analysis_id": "독립풀이_03:D", "old_group": "U0499", "new_group": "U0468", "old_question": "U0499-Q01", "new_question": "U0468-Q01", "verification": "본문 차이는 작업용 P1 표지·문항 범위·읽기 지시문뿐. 이를 제거하면 본문·발문·5선지 일치. 시험·연도·형·번호도 같음.", "source_paths": ["data/기본기_연구/독립풀이_03/packets/D.md", "data/기본기_연구/prepared_backlog/blind_sources/BQG.json"]}
+{"relation": "작업용 표지 차이의 동일 지문·문항", "analysis_id": "독립풀이_03:H", "old_group": "U0500", "new_group": "U0301", "old_question": "U0500-Q01", "new_question": "U0301-Q02", "verification": "본문 차이는 작업용 P1 표지·문항 범위·읽기 지시문뿐. 이를 제거하면 본문·발문·5선지 일치. 시험·연도·형·번호도 같음.", "source_paths": ["data/기본기_연구/독립풀이_03/packets/H.md", "data/기본기_연구/prepared_backlog/blind_sources/AXA.json"]}

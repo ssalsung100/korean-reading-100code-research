@@ -1,0 +1,152 @@
+{
+  "date": "2026-10-15",
+  "status": "미완료 연구의 중간 인계 저장",
+  "stop_reason": "단일 응답의 컨텍스트·출력 작업 예산에 따른 인계. 문항·배치 완료를 연구 종료로 취급하지 않음. quota 잔여치는 미노출이며 경고를 새로 관측하지 않았음.",
+  "authoritative_checkpoint": "checkpoint.json",
+  "session_start": {
+    "reviewed_questions": 500,
+    "new_scenes": 797,
+    "next_order": 501,
+    "next_question": "U0187-Q01",
+    "last_saved_author": "author_013d.py"
+  },
+  "session_completed": {
+    "orders": [
+      501,
+      543
+    ],
+    "exam_family": "LEET",
+    "questions_added": 43,
+    "scenes_added": 73,
+    "all_option_rows_checked": 215,
+    "new_unresolved_questions": [
+      "U0191-Q01",
+      "U0194-Q02",
+      "U0222-Q03"
+    ]
+  },
+  "current": {
+    "reviewed_questions": 543,
+    "target_questions": 1077,
+    "scenes": 870,
+    "remaining_questions": 534,
+    "by_exam": {
+      "KICE": {
+        "target": 496,
+        "reviewed": 496,
+        "deeply_extracted": 496,
+        "scenes": 788,
+        "unresolved_questions": 20,
+        "remaining": 0
+      },
+      "LEET": {
+        "target": 379,
+        "reviewed": 47,
+        "deeply_extracted": 47,
+        "scenes": 82,
+        "unresolved_questions": 4,
+        "remaining": 332
+      },
+      "MEET": {
+        "target": 202,
+        "reviewed": 0,
+        "deeply_extracted": 0,
+        "scenes": 0,
+        "unresolved_questions": 0,
+        "remaining": 202
+      }
+    }
+  },
+  "last_saved_author": "author_014h.py",
+  "last_saved_question": "U0225-Q01",
+  "last_saved_case": "AOH",
+  "last_saved_audit": "audit_013.py",
+  "audited_batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+  ],
+  "batch_13_audit": {
+    "sample_questions": 12,
+    "sample_scenes": 22,
+    "sample_options": 60,
+    "scene_amendments": [
+      "QBF01-AMD032",
+      "QBF01-AMD033",
+      "QBF01-AMD034",
+      "QBF01-AMD035",
+      "QBF01-AMD036",
+      "QBF01-AMD037"
+    ],
+    "question_amendments": [
+      "QBF01-QAMD005"
+    ],
+    "developments": [
+      "QBF01-DEV044",
+      "QBF01-DEV045",
+      "QBF01-DEV046",
+      "QBF01-DEV047"
+    ]
+  },
+  "active_batch": {
+    "number": 14,
+    "saved_questions": 23,
+    "next_sample_audit_at_reviewed_questions": 560,
+    "semantic_sample_audit_complete": false
+  },
+  "new_candidate": {
+    "id": "BFP013",
+    "evidence_event_id": "QBF01-U0220-Q02-S01",
+    "status": "단일 실제 문항 ANT에 근거한 잠정 후보",
+    "distinction": "개별 찬반 이유의 가중치 비교와 그 비교의 결정상 사용을 배제하는 상위 근거 구별. 명령의 외부성·강도어만으로 배제성 판정 금지.",
+    "next_check": "560문항 경계 감사에서 규칙우선순위·채택근거·논거결론위계와 경계 재검토. 새 실제 사례 없으면 단일 문항 후보로 유지."
+  },
+  "important_limits": [
+    "AKN④ 인간성 핵심 공유→도덕적 고려의 규범 전제는 문두 맥락에서 복원.㉠의 역명제로 형식 증명하지 않음. 공식② 유지.",
+    "AKX④ H→S가 필요한데 배제 사례는 ¬H→¬S만 확인. 기준 문구의 충분 방향 해석과 직접 사례 입증 구별. 공식④ 유지.",
+    "AOA② 실제 향리 등용 존재의 명시성에 관한 최초 유보 유지. 다른 출신 발탁·향리 승진 가능성만으로 직접 존재 증명하지 않음. 공식④ 유지.",
+    "이번에 추가한3문항을 포함해 현행24문항 유보. 진행을 차단하는 미해결 오류 없음.",
+    "ANM③ 가격 상승은 특정 매도자 손실의 반사실 해석이며 모든 합병 가격 법칙 아님.",
+    "ANN② 단기 반영 지연은 상시 일치 판본을 약화하지만 장기 근사 판본 전체 반증은 아님.",
+    "AOH 정기성은60개월/10회의 산술만이 아니라 정기 평가와 지속·명문화의 본문 설명에 근거."
+  ],
+  "source_and_save_checks": {
+    "scope": "author별 신규 문항 근거 구간·파일 해시·선지수·참조 및 현재 세션43개 신규 raw 저장 범위 확인만. 기존 보호 자산 전수 해시 반복 없음.",
+    "last_validation": "author_014h_validation.json",
+    "raw_duplicates_in_new_span": 0,
+    "read_but_not_saved": [],
+    "authored_but_not_saved": []
+  },
+  "execution_note": "author_014c 첫 문항 append 이전에 인용 어미 불일치를 검증기가 차단. 저장0건을 확인한 뒤 실제 원문 어미로 수정하여3문항 저장 완료. 이후 기존 인용 preflight를 새 author에만 사용. 모든 기존 author/audit 무작정 재실행 금지.",
+  "next": {
+    "order": 544,
+    "unique_question": "U0225-Q03",
+    "case_ids": [
+      "AOJ"
+    ],
+    "source_read_in_this_session": false,
+    "suggested_author": "author_014i.py",
+    "resume_command": "python3 분석/패턴_종합연구/20261012_question_backfill_01/backfill_io.py packet 544 2"
+  },
+  "constraints_preserved": {
+    "output_only_in_backfill_folder": true,
+    "KICE_reanalysis": false,
+    "frozen_assets_written": false,
+    "other_models_called_in_this_session": false,
+    "git_push": false,
+    "holds": [
+      "G024",
+      "G370"
+    ]
+  }
+}

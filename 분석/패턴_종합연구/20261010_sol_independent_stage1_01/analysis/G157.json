@@ -1,0 +1,317 @@
+{
+  "passage_group": "G157",
+  "passage_analysis": {
+    "organization": "공포 소구 정의→재니스의 실험 발견→레벤달의 기존 연구 비판과 두 반응 분리→위티의 두 요인 정의 및 사례→요인 조합에 따른 반응을 통합한 결론으로 전개한다. 연구들을 선행 연구의 한계와 후속 종합 관계로 연결한다.",
+    "evidence": {
+      "G157-E1": "수용자에게 공포 소구를 세 가지 수준으로 달리 제시하는 실험을 한 결과, 중간 수준의 공포 소구가 가장 큰 설득 효과를 보인다는 것을 발견하였다.",
+      "G157-E2": "재니스의 연구가 인간의 감정적 측면에만 ㉠ 치우쳤다고 비판하며, 공포 소구의 효과는 수용자의 감정적 반응만이 아니라 인지적 반응과도 관련된다고 하였다.",
+      "G157-E3": "후자가 작동하면 수용자들은 공포 소구의 권고를 따르게 되지만, 전자가 작동하면 공포 소구로 인한 두려움의 감정을 통제하기 위해 오히려 공포 소구에 담긴 위험을 무시하려는 반응을 보이게 된다고 하였다.",
+      "G157-E4": "위험을 자신이 ㉢ 겪을 수 있는 것이고 그 위험의 정도가 크다고 느끼면, 그 공포 소구는 위협의 수준이 높다.",
+      "G157-E5": "공포 소구에 담긴 권고를 이행하면 자신의 위험을 예방할 수 있고 자신에게 그 권고를 이행할 능력이 있다고 느끼면, 효능감의 수준이 높다.",
+      "G157-E6": "위협과 효능감의 수준이 모두 높을 때에는 위험 통제 반응이 작동하고, 위협의 수준은 높지만 효능감의 수준이 낮을 때에는 공포 통제 반응이 작동한다.",
+      "G157-E7": "위협의 수준이 낮으면, 수용자는 그 위협이 자신에게 아무 영향을 ㉤ 주지 않는다고 느껴 효능감의 수준에 관계없이 공포 소구에 대한 반응이 없게 된다.",
+      "G157-E8": "이렇게 정리된 결론은 그간의 공포 소구 이론을 통합한 결과라는 점에서 후속 연구의 중요한 디딤돌이 되었다.",
+      "G157-E9": "그는 감정적 반응을 ‘공포 통제 반응’, 인지적 반응을 ‘위험 통제 반응’이라 ㉡ 불렀다.",
+      "G157-E10": "회원들에게 ‘모임에 꼭 참석해 주세요. 불참 시 회원 자격이 사라집니다.’라는 안내문을 ㉣ 보냈다고 하자."
+    },
+    "features_present_but_not_required": [
+      "동호회 예시는 정의를 구체화하지만 YT의 집단 판별에서 동호회 가입·출석 사례를 다시 계산하지 않는다.",
+      "중간 공포 수준의 최대 효과가 제시되지만 YT는 위티의 이진 요인 조합을 사용하며 재니스의 3수준 결과를 적용하지 않는다."
+    ],
+    "passage_question_links": {
+      "YR": "내용 관계를 글의 전개 설명으로 압축.",
+      "YS": "연구자별 주장과 조건-반응 관계를 보존.",
+      "YT": "위티의 네 조건 조합과 관찰된 반응을 역으로 연결.",
+      "YU": "다섯 표시어의 문맥 기능과 교체 표현의 결합을 확인."
+    },
+    "transfer_limit": "위티의 모형에 부합한다는 보기 조건과 높음/낮음의 전수 조합 덕분에 반응에서 조건을 좁힐 수 있다. 일반적 심리 현상에 같은 역추론을 자동 적용하지 않는다."
+  },
+  "questions": [
+    {
+      "case_id": "YR",
+      "independent_answer": 2,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G157-E1",
+        "G157-E2",
+        "G157-E8"
+      ],
+      "question_design": "개별 사실의 참거짓이 아니라 지문 전체가 연구들을 연결하는 방식에 맞는 설명을 선택한다.",
+      "reasoning_steps": [
+        "재니스의 발견을 레벤달이 비판·확장하고 위티가 선행 연구를 종합한다. ②의 선행 연구와 연결하여 설명한다가 전체 조직을 보존한다.",
+        "후속 연구의 디딤돌이라는 마지막 문장은 남겨진 구체적 과제의 제시와 다르다. 비판이 나온다는 사실만으로 전체를 난관 극복담으로 바꾸지 않는다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "미제시",
+          "evidence_ids": [
+            "G157-E1"
+          ],
+          "specific_reason": "1950년대라는 시기는 있지만 사회적 배경을 분석하는 설명은 없다."
+        },
+        {
+          "option": 2,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E2",
+            "G157-E8"
+          ],
+          "specific_reason": "후속 연구가 앞선 연구의 한계를 지적하고 종합하는 연결이 명시된다."
+        },
+        {
+          "option": 3,
+          "statement_status": "대상 불일치",
+          "evidence_ids": [
+            "G157-E2"
+          ],
+          "specific_reason": "감정 중심 연구의 한계를 비판하지, 연구들을 분류하는 기준의 문제를 검토하지 않는다."
+        },
+        {
+          "option": 4,
+          "statement_status": "미제시",
+          "evidence_ids": [
+            "G157-E8"
+          ],
+          "specific_reason": "후속 연구의 의의를 말하지만 남은 연구 과제를 특정해 제시하지 않는다."
+        },
+        {
+          "option": 5,
+          "statement_status": "전체 설명 부적합",
+          "evidence_ids": [
+            "G157-E1",
+            "G157-E2",
+            "G157-E8"
+          ],
+          "specific_reason": "연구 비판·진전은 있으나 연구자들이 봉착한 난관과 극복 과정을 중심으로 조직한 글은 아니다."
+        }
+      ],
+      "repeatable_action": "내용이 등장한 사실과 글 전체의 조직 기능을 구분하고 연결 동사의 목적을 확인한다.",
+      "applicable_when": "전개 방식 문항에서 여러 설명이 부분적으로 관련되어 보일 때.",
+      "do_not_apply_when": "비판·연도·후속이라는 낱말 하나만으로 전체 전개 방식을 결정할 때.",
+      "alternative_routes": [
+        "세 연구 사이를 발견→비판·확장→종합으로 압축해 ②와 대조.",
+        "각 선지가 요구하는 사회배경·분류기준·남은과제·난관 서술이 실제 존재하는지 검사."
+      ],
+      "production_implications": "강의에서는 각 문단의 내용 이름 뒤에 앞 문단과 맺는 관계 동사를 붙인다. 창작 지문은 단순 연구자 열거와 연구의 수정·통합을 구별하여 설계할 수 있다.",
+      "historical_exposure": "사용자 고지상 과거 노출 없음",
+      "current_session_answer_or_pattern_exposure": false
+    },
+    {
+      "case_id": "YS",
+      "independent_answer": 4,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G157-E1",
+        "G157-E2",
+        "G157-E3",
+        "G157-E4",
+        "G157-E5",
+        "G157-E7"
+      ],
+      "question_design": "연구자별 관점과 두 요인의 성립 조건·반응 결과를 선지에 대입한다.",
+      "reasoning_steps": [
+        "위티에서 위협이 낮으면 효능감과 관계없이 무반응이다. 위험을 느끼지 않아야 권고를 따른다는 ④는 낮은 위협의 결과를 반대로 제시한다.",
+        "⑤는 위협과 효능감을 별도 기준으로 정의한 모형을 반영한다. 수용자의 실제 심리 요인들이 현실에서 전혀 영향을 주고받지 않는다는 외부 결론까지 확대하지 않는다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E1"
+          ],
+          "specific_reason": "공포 소구 수준을 세 가지로 달리하고 설득 효과를 확인했다."
+        },
+        {
+          "option": 2,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E2"
+          ],
+          "specific_reason": "레벤달은 기존 감정 중심 설명에 인지적 반응도 포함해야 한다고 본다."
+        },
+        {
+          "option": 3,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E3"
+          ],
+          "specific_reason": "권고 따르기와 연결된 것은 위험 통제이며 공포 통제는 위험 무시이다."
+        },
+        {
+          "option": 4,
+          "statement_status": "반박",
+          "evidence_ids": [
+            "G157-E7"
+          ],
+          "specific_reason": "위험이 영향을 주지 않는다고 느끼는 낮은 위협은 권고 수행이 아니라 무반응을 낳는다."
+        },
+        {
+          "option": 5,
+          "statement_status": "지지·모형 한정",
+          "evidence_ids": [
+            "G157-E4",
+            "G157-E5"
+          ],
+          "specific_reason": "위협은 위험 가능성·크기, 효능감은 예방 가능성·실행 능력으로 각각 정의된다. 효능감의 높낮음으로 위협 정의를 바꾸지 않는다."
+        }
+      ],
+      "repeatable_action": "주체별 주장과 조건-결과의 방향을 함께 보존한다.",
+      "applicable_when": "서로 다른 학자·단계의 정의가 비교되어 있고 선지가 조건이나 결과를 바꿀 때.",
+      "do_not_apply_when": "두려움이 줄었다는 말만으로 공포 소구의 설득 성공이라고 하거나 이론의 독립 요인 설정을 현실의 인과 독립 입증으로 볼 때.",
+      "alternative_routes": [
+        "낮은 위협→무반응 문장과 ④의 권고 따르기를 직접 대조.",
+        "연구자별 효과·반응·요인 정의 표를 만들어 모든 선지 검사."
+      ],
+      "production_implications": "교재는 위험 통제와 공포 통제를 감정의 크기가 아닌 실제 행동 결과로 구분한다. 창작 오답은 낮은 위협과 낮은 효능감을 서로 바꾸거나 결과를 반전하는 방식으로 구성할 수 있다.",
+      "historical_exposure": "사용자 고지상 과거 노출 없음",
+      "current_session_answer_or_pattern_exposure": false
+    },
+    {
+      "case_id": "YT",
+      "independent_answer": 5,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G157-E6",
+        "G157-E7"
+      ],
+      "question_design": "네 요인 조합을 모두 제시한 모형과 부합한다는 실험 조건 아래 관찰 결과에서 가능한 조건을 역으로 좁힌다.",
+      "reasoning_steps": [
+        "높은 위협/높은 효능감=위험 통제, 높은 위협/낮은 효능감=공포 통제, 낮은 위협/효능감 어느 쪽=무반응이다.",
+        "따라서 집단3=(높음,높음), 집단4=(높음,낮음)이다. 두 집단의 효능감이 같다는 ⑤는 반박된다. 집단1·2는 위협이 낮지만 어느 집단이 어느 효능감인지는 정해지지 않는다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E6",
+            "G157-E7"
+          ],
+          "specific_reason": "이 모형에서 무반응을 낳는 두 조건은 모두 낮은 위협이다."
+        },
+        {
+          "option": 2,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E6"
+          ],
+          "specific_reason": "위험 통제인 집단3은 효능감이 높다."
+        },
+        {
+          "option": 3,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E6"
+          ],
+          "specific_reason": "공포 통제인 집단4는 위협 높음·효능감 낮음이므로 두 수준이 다르다."
+        },
+        {
+          "option": 4,
+          "statement_status": "지지",
+          "evidence_ids": [
+            "G157-E6",
+            "G157-E7"
+          ],
+          "specific_reason": "집단2는 낮은 위협, 집단4는 높은 위협이다."
+        },
+        {
+          "option": 5,
+          "statement_status": "반박",
+          "evidence_ids": [
+            "G157-E6"
+          ],
+          "specific_reason": "집단3 효능감은 높고 집단4 효능감은 낮다."
+        }
+      ],
+      "repeatable_action": "전수 조건표의 출력에서 역으로 가능한 입력을 찾되 출력이 같은 입력들은 미확정으로 남긴다.",
+      "applicable_when": "조건 조합이 모두 나열되고 실제 반응이 그 규칙과 부합한다는 조건이 명시될 때.",
+      "do_not_apply_when": "일반 조건문에서 결과만 보고 원인을 단정하거나 집단1·2의 효능감 순서를 임의로 붙일 때.",
+      "alternative_routes": [
+        "집단3·4를 직접 정의에서 복원해 ⑤를 반박.",
+        "높음/낮음 2×2표를 먼저 완성하고 관찰 반응을 표에 배치."
+      ],
+      "production_implications": "강의는 역추론 전에 모든 경우가 포함되어 있는지 확인하게 한다. 창작에서는 같은 출력을 가진 두 입력을 남겨 결정 가능한 값과 결정 불가능한 값을 함께 묻는 원리를 활용할 수 있다.",
+      "historical_exposure": "사용자 고지상 과거 노출 없음",
+      "current_session_answer_or_pattern_exposure": false
+    },
+    {
+      "case_id": "YU",
+      "independent_answer": 5,
+      "confidence": "높음",
+      "answer_status": "독립 선택·공식 미대조",
+      "hold_reason": null,
+      "passage_features_used": [
+        "G157-E2",
+        "G157-E4",
+        "G157-E7",
+        "G157-E9",
+        "G157-E10"
+      ],
+      "question_design": "각 어휘가 현재 문장 안에서 맡는 뜻·목적어·평가 방향을 교체 표현에 대입한다.",
+      "reasoning_steps": [
+        "위협이 아무 영향을 주지 않는다는 것은 중립적인 영향의 부재이다. 기여하지는 보탬이 됨이라는 평가와 다른 결합을 요구하므로 ⑤가 부적절하다.",
+        "치우침/편향, 이름을 부름/명명, 겪음/경험, 안내문 보냄/발송은 해당 문맥의 기능을 보존한다."
+      ],
+      "option_judgments": [
+        {
+          "option": 1,
+          "statement_status": "적합",
+          "evidence_ids": [
+            "G157-E2"
+          ],
+          "specific_reason": "감정 측면에 치우쳤다는 비판은 감정 쪽으로 편향되었다는 표현과 맞는다."
+        },
+        {
+          "option": 2,
+          "statement_status": "적합",
+          "evidence_ids": [
+            "G157-E9"
+          ],
+          "specific_reason": "반응에 이름을 붙이는 행위이므로 명명이 맞다."
+        },
+        {
+          "option": 3,
+          "statement_status": "적합",
+          "evidence_ids": [
+            "G157-E4"
+          ],
+          "specific_reason": "해로운 위험을 겪는 가능성은 문맥상 경험할 가능성과 대응한다."
+        },
+        {
+          "option": 4,
+          "statement_status": "적합",
+          "evidence_ids": [
+            "G157-E10"
+          ],
+          "specific_reason": "안내문을 회원들에게 보내는 것은 발송으로 바꿀 수 있다."
+        },
+        {
+          "option": 5,
+          "statement_status": "부적합",
+          "evidence_ids": [
+            "G157-E7"
+          ],
+          "specific_reason": "아무 영향을 주지 않는다는 중립 영향의 부재를 긍정적 보탬을 뜻하는 기여로 바꾸면 의미가 달라진다. 영향을 기여하지라는 목적어 결합도 부자연스럽다."
+        }
+      ],
+      "repeatable_action": "문맥의 의미·평가 어조·논항 결합을 동시에 보존하는 교체인지 확인한다.",
+      "applicable_when": "주어진 문장에서 어휘를 그대로 교체하는 유형일 때.",
+      "do_not_apply_when": "관련성이 있다는 이유만으로 영향과 기여를 유의어로 처리하거나 한 문맥의 경험/겪음 호환을 모든 문맥에 확대할 때.",
+      "alternative_routes": [
+        "⑤의 영향/기여 의미 차이로 직접 판단.",
+        "각 표시어를 원문에 실제 교체해 목적어·조사와 평가 어조를 검토."
+      ],
+      "production_implications": "NO와 함께 내용 논증과 별개로 문맥 어휘 행동을 기록할 근거가 생겼다. 강의·교재는 유의어 암기보다 문장에 넣어 의미와 결합을 확인하게 한다. 창작에서는 문맥상 호환과 사전적 관련성을 구별하는 오답을 만들 수 있다.",
+      "historical_exposure": "사용자 고지상 과거 노출 없음",
+      "current_session_answer_or_pattern_exposure": false
+    }
+  ]
+}

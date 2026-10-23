@@ -1,0 +1,58 @@
+{
+  "scope": "출처 연결·고유 집계·표본 분할·파일 보존의 기계 점검. 의미 자동 검증 아님.",
+  "checks": {
+    "manifest_immutable": true,
+    "split_12_6": true,
+    "case_split_disjoint": true,
+    "identity_family_split_disjoint": true,
+    "held_groups_excluded": true,
+    "all_discovery_cases_have_events": true,
+    "no_validation_event": true,
+    "all_39_sources_normalized_parity": true,
+    "two_visuals_read": true,
+    "event_ids_unique": true,
+    "all_11_requested_dimensions_present": true,
+    "exact_quote_and_choice_offsets": true,
+    "existing_analysis_record_refs": true,
+    "P01_unique_count": true,
+    "P02_unique_count": true,
+    "P03_unique_count": true,
+    "P04_unique_count": true,
+    "P05_unique_count": true,
+    "P06_unique_count": true,
+    "P07_unique_count": true,
+    "S01_unique_count": true,
+    "S02_unique_count": true,
+    "S03_unique_count": true,
+    "S04_unique_count": true,
+    "S05_unique_count": true,
+    "S06_unique_count": true,
+    "7_repeated_6_singletons": true,
+    "structure_only_not_counted_as_use": true,
+    "G160_resolved_identity_preserved": true,
+    "contamination_explicitly_recorded": true,
+    "all_protected_baseline_files_unchanged": true
+  },
+  "all_mechanical_checks_pass": true,
+  "protected_files": {
+    "data/기본기_연구/astra_handoff_queue.jsonl": true,
+    "data/기본기_연구/astra_handoff_processed.jsonl": true,
+    "data/기본기_연구/prepared_backlog/manifest.jsonl": true,
+    "data/기본기_연구/meta_state.json": true,
+    "data/기본기_연구/research_data_index_enriched_v2.json": true,
+    "data/sdss_100codes_catalog.json": true,
+    "data/기본기_연구/코드군_통합가설_v1.json": true
+  },
+  "manual_limitations": [
+    "G095 한 문항의 과거 요약 우발 노출로 독립 검증 제한",
+    "검증용 적용 및 제2 의미 검토 미수행",
+    "GL 수식 원배포본 미검증 유지"
+  ],
+  "totals": {
+    "discovery_passages": 12,
+    "discovery_questions": 39,
+    "events": 43,
+    "unclassified_events": 12,
+    "classified_unique_questions": 29
+  }
+}

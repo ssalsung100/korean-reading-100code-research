@@ -1,0 +1,190 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AWR": [
+      {
+        "line": 4841,
+        "record_id": "AWR-independent_code-20260928-01",
+        "case": "AWR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46,
+            3
+          ],
+          "auxiliary": [
+            45,
+            49
+          ],
+          "surface": [
+            87,
+            91
+          ],
+          "decisive_operation": "햇빛의일주기와프레온수송·축적의수십년지연을각그래프의변화형태에대응.",
+          "competitor_refutations": [
+            {
+              "code": 87,
+              "reason": "기울기수치가아니라변화시작의지연과일중최대시점이결정."
+            },
+            {
+              "code": 49,
+              "reason": "오존감소방향만으로는A/B를구별못하고시간지연이필요."
+            },
+            {
+              "code": 91,
+              "reason": "배출시작부터오존이선형반비례로감소한다는가정은본문과다르다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G337",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWU": [
+      {
+        "line": 4857,
+        "record_id": "AWU-independent_code-20260928-01",
+        "case": "AWU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            59,
+            17
+          ],
+          "auxiliary": [
+            46,
+            19
+          ],
+          "surface": [
+            88,
+            70
+          ],
+          "decisive_operation": "불균형의발생지역·조정수단을맞추고외부노동유입을지역내재배치로교환한⑤를제외.",
+          "competitor_refutations": [
+            {
+              "code": 19,
+              "reason": "노동이동이라는명칭만으로보완요건충족아님.어느지역의노동이움직이는지필수."
+            },
+            {
+              "code": 3,
+              "reason": "자본유입의과열시기와유입중단후위기를구분하지만⑤직접오류는공간적출발지다."
+            },
+            {
+              "code": 88,
+              "reason": "개별정책비용편익을계산하기보다본문원인에맞는해결인지판정."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G338",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWV": [
+      {
+        "line": 4858,
+        "record_id": "AWV-independent_code-20260928-01",
+        "case": "AWV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            12,
+            19
+          ],
+          "auxiliary": [
+            39,
+            17,
+            10
+          ],
+          "surface": [
+            88,
+            25
+          ],
+          "decisive_operation": "비대칭충격이있어도노동이동으로보완가능하고대칭충격이면서로다른정책필요가적다는조건분기를적용.",
+          "competitor_refutations": [
+            {
+              "code": 10,
+              "reason": "노동이동을모든경우필수요건으로만들면AC②의오류를범한다."
+            },
+            {
+              "code": 11,
+              "reason": "같은통화사용과최적조건충족은동치가아니다."
+            },
+            {
+              "code": 88,
+              "reason": "비용편익모델의내용이지만보기는충격과대체수단의조건검사로판정한다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G338",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "AWR_visual": {
+    "method": "원본TIFF를 보완 폴더 PNG로 무손실 형식 변환해6개 직접 열람. 원본 불변. 기존 MD의 행별 순서와 visual_supplements 순서를 함께 사용.",
+    "mapping": [
+      {
+        "label": "가",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/G337_visual02.tif",
+        "display": "분석/패턴_종합연구/20261012_question_backfill_01/AWR_visual02.png",
+        "observation": "아침 낮음→낮 최대→저녁 낮음"
+      },
+      {
+        "label": "A",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/G337_visual03.tif",
+        "display": "분석/패턴_종합연구/20261012_question_backfill_01/AWR_visual03.png",
+        "observation": "초기 평탄부 뒤1970년 무렵부터 감소"
+      },
+      {
+        "label": "나",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/G337_visual04.tif",
+        "display": "분석/패턴_종합연구/20261012_question_backfill_01/AWR_visual04.png",
+        "observation": "아침부터 저녁까지 증가"
+      },
+      {
+        "label": "B",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/G337_visual05.tif",
+        "display": "분석/패턴_종합연구/20261012_question_backfill_01/AWR_visual05.png",
+        "observation": "제시 구간에서 평탄 지연 없이 지속 감소"
+      },
+      {
+        "label": "다",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/G337_visual06.tif",
+        "display": "분석/패턴_종합연구/20261012_question_backfill_01/AWR_visual06.png",
+        "observation": "낮 최소의 U형"
+      },
+      {
+        "label": "C",
+        "source": "data/기본기_연구/prepared_backlog/blind_sources/G337_visual07.tif",
+        "display": "분석/패턴_종합연구/20261012_question_backfill_01/AWR_visual07.png",
+        "observation": "초기 평탄부 뒤1970년 무렵부터 증가"
+      }
+    ],
+    "limits": [
+      "그래프에서 정확 시각·농도·변화율을 읽지 않음.",
+      "B의 미표시 시작 연도를1920년대로 단정하지 않음."
+    ]
+  },
+  "AWV_view": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G338_visual01.md",
+    "method": "기존 보기 전사 전체 직접 열람",
+    "conditions": {
+      "A": "x통화·목재·실업",
+      "B": "y통화·자동차·인플레이션",
+      "C": "z통화·목재·실업",
+      "D": "z통화·자동차·인플레이션",
+      "labor_mobility": "A-B만 가능",
+      "finance_fiscal": "통합 없음",
+      "price_wage": "경직성 있음"
+    }
+  }
+}

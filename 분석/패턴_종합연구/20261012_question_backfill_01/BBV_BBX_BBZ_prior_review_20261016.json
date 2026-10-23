@@ -1,0 +1,170 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BBV": [
+      {
+        "line": 5442,
+        "record_id": "BBV-independent_code-20261002-01",
+        "case": "BBV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G380",
+          "primary": [
+            {
+              "code": 100,
+              "reason": "눈/물소리가 각각 고향의 그리움을 환기하는 문맥상 상징·함축을 해석"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 23,
+              "reason": "해석한 두 의미의 공통 요소인 고향 그리움을 확인"
+            },
+            {
+              "code": 39,
+              "reason": "표면 감각과 정서 이미지가 아니라 함축 대상을 비교축으로 고정"
+            }
+          ],
+          "surface": [
+            {
+              "code": 7,
+              "reason": "눈의 시각·물소리의 청각이라는 감각 차이는 답을 가르는 차이가 아님"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 69,
+              "reason": "새 속성을 다른 작품으로 추론하는 유추가 아니라 각 문맥에서 독립 해석 후 유사성 확인."
+            },
+            {
+              "code": 58,
+              "reason": "고향 그리움은 두 논증의 전제가 아니라 정서 의미의 공통점."
+            },
+            {
+              "code": 99,
+              "reason": "표현이 앞의 명사를 대용하는 지시어 복원 문제가 아님."
+            }
+          ],
+          "boundary_note": "100은 문맥 의미 복원,23/39는 복원된 의미 비교.함축이 이미 명시된 직접 비교라면23이 주가 될 수 있어 주 우선순위는 해석 필요량에 의존.",
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BBX": [
+      {
+        "line": 5455,
+        "record_id": "BBX-independent_code-20261002-01",
+        "case": "BBX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G381",
+          "primary": [
+            {
+              "code": 75,
+              "reason": "두 입장의 중심 문제·기본 선택 단위·변화 양상을 축별로 귀속하고 생성/소멸이라는 잘못된 대립을 배제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 64,
+              "reason": "(가)의 핵심 논의 대상은 적응이며 종 생성 전용 이론으로 축소 불가"
+            },
+            {
+              "code": 24,
+              "reason": "기본 선택단위와 상위선택 예외를 함께 보존"
+            },
+            {
+              "code": 63,
+              "reason": "⑤ 중간 화석의 상대적 지지/약화 역할"
+            }
+          ],
+          "surface": [
+            {
+              "code": 26,
+              "reason": "생성/소멸 이항대립은 정답②가 덧씌운 오류"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 74,
+              "reason": "75와 같은 연구군으로 내용 중첩 가능.주 행동은 새 관측 판별보다 입장 내용 보존이므로 별도 본질 구별 아님."
+            },
+            {
+              "code": 36,
+              "reason": "⑤의 약화를 단일 화석에 의한 완전 반증으로 승격하지 않음."
+            },
+            {
+              "code": 3,
+              "reason": "연속/불연속은④ 국소 내용이며 정답②의 주제 왜곡 자체는 시간 순서 오류 아님."
+            }
+          ],
+          "boundary_note": "63은⑤에 국소 적용,75/64는② 정답 결정.사이트 태그 범위를 문항 전체와 정답으로 분리할 필요.",
+          "confidence": 0.93,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BBZ": [
+      {
+        "line": 5457,
+        "record_id": "BBZ-independent_code-20261002-01",
+        "case": "BBZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02",
+        "payload": {
+          "passage_group": "G381",
+          "primary": [
+            {
+              "code": 17,
+              "reason": "특성의 보유 단위를 개체에서 집단/종 수준으로 올바르게 구별"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 46,
+              "reason": "지리적 분포 범위→격변시 멸종 저항이라는 작용"
+            },
+            {
+              "code": 37,
+              "reason": "종 수준의 특성과 멸종/분화 유리함이라는 요건에 부합하는 사례 검사"
+            },
+            {
+              "code": 64,
+              "reason": "밑줄㉡의 논의 범위를(나)전체 정체 주장으로 넓히지 않음"
+            }
+          ],
+          "surface": [
+            {
+              "code": 9,
+              "reason": "상위 수준이라는 말은 우열 서열이 아니라 분류/선택 단위의 차이"
+            }
+          ],
+          "competitors_rejected": [
+            {
+              "code": 41,
+              "reason": "개체 성질을 전체로 부당하게 옮기는 결합 오류가 아니라 집단에만 성립하는 분포 특성을 확인."
+            },
+            {
+              "code": 77,
+              "reason": "여러 사례에서 새 일반 명제를 귀납하는 작업 아님."
+            },
+            {
+              "code": 5,
+              "reason": "④의 장기 정체는 원문 타당 내용이어도㉡ 사례가 아니므로 지속만으로 판별 불가."
+            }
+          ],
+          "boundary_note": "①의 개체군이 종 전체와 반드시 같은 외연이라는 주장은 하지 않음.개별 개체를 넘는 분포와 멸종저항 축을 공유한다는 국소 적합성.",
+          "confidence": 0.89,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.BBZ개체군/종외연의기존범위유보승계.BBX강화약화는상대지지로한정."
+}

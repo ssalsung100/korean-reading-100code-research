@@ -1,0 +1,12 @@
+{
+  "scope": "이번 작성 또는 감사 배치만 인용·근거 연결 검사; 보호 원장 전수 검사 없음",
+  "case_ids": [
+    "ALU",
+    "ALY"
+  ],
+  "questions": 2,
+  "scenes": 3,
+  "options": 10,
+  "errors": [],
+  "pass": true
+}

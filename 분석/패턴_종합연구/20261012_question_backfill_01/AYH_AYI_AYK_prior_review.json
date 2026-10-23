@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AYH": [
+      {
+        "line": 5038,
+        "record_id": "AYH-independent_code-20260928-01",
+        "case": "AYH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:48:07.248392+09:00",
+        "payload": {
+          "passage_group": "G351",
+          "primary": [
+            40,
+            58
+          ],
+          "auxiliary": [
+            15,
+            75
+          ],
+          "surface": [
+            46,
+            79
+          ],
+          "decisive_operation": "예술사를보편정신사의일부로두고영역들을같은발전법칙으로설명하므로다른영역역사와의연계를수용한다.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "rejection": "헤겔입장귀속은발문기능이며경쟁주체혼합을바로잡아야하는문제는아님."
+            },
+            {
+              "code": 15,
+              "rejection": "④미의평가기준교환에는필요하지만③의직접근거는역사영역들의공통법칙."
+            },
+            {
+              "code": 46,
+              "rejection": "정신발전이변천을추동한다고하지만특정인과연쇄를복원하지않는다."
+            },
+            {
+              "code": 41,
+              "rejection": "영역의부분전체관계가있으나부분성질의전체전이가정답오류는아니다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYI": [
+      {
+        "line": 5039,
+        "record_id": "AYI-independent_code-20260928-01",
+        "case": "AYI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:48:07.341455+09:00",
+        "payload": {
+          "passage_group": "G351",
+          "primary": [
+            15,
+            25
+          ],
+          "auxiliary": [
+            17,
+            24,
+            96
+          ],
+          "surface": [
+            3,
+            75
+          ],
+          "decisive_operation": "시대가속하는문명단계와그단계의전형장르를교차하고,일반유파명고전주의를고전단계의동의어로읽지않는다.존재와전형성도구별.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rejection": "시대순서만알아서는어떤장르가전형인지결정불가."
+            },
+            {
+              "code": 24,
+              "rejection": "전형아닌장르도공존가능하다는제한에유효하지만예외가곧금지라는규칙은없다."
+            },
+            {
+              "code": 96,
+              "rejection": "일반용법과특수용법구별은④판정의중요보조이나③의직접근거는시대장르대응."
+            },
+            {
+              "code": 75,
+              "rejection": "다른학자와의경쟁이없고헤겔분류기준을적용한다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYK": [
+      {
+        "line": 5041,
+        "record_id": "AYK-independent_code-20260928-01",
+        "case": "AYK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:48:07.541594+09:00",
+        "payload": {
+          "passage_group": "G351",
+          "primary": [
+            9,
+            75
+          ],
+          "auxiliary": [
+            39,
+            15
+          ],
+          "surface": [
+            83,
+            3
+          ],
+          "decisive_operation": "지역문화와정신발전단계의대응에서서열적가치를읽는다.유럽을마지막완성으로두므로지역중립적분류가아니다.",
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "평가발문이지만새외부증거가주장을강화약화하는구조는아니다."
+            },
+            {
+              "code": 83,
+              "rejection": "지역적서술에서가치함의를추론하되완성/미성숙이라는가치서열이원문에주어져있음."
+            },
+            {
+              "code": 3,
+              "rejection": "시대가뒤라는사실만으로우월을도출하지않고최종완성이라는평가를함께사용한다."
+            },
+            {
+              "code": 58,
+              "rejection": "정신사와예술사의공통법칙은①~④배경이지만⑤의핵심은그법칙에지역을서열적으로배치한함의."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "alternate": "AYK와동일문항인T의최초풀이·정답대조MD를모두직접읽음. 두 기록의매력적오답AYK①/T②는각각보존. 고유문항계수1회."
+}

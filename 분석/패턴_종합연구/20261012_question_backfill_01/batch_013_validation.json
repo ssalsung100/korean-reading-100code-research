@@ -1,0 +1,22 @@
+{
+  "scope": "이번 작성 문항만 검사; 보호 원장 전수 검증 없음",
+  "case_ids": [
+    "AKH",
+    "AKN",
+    "AKP",
+    "AKQ",
+    "AKV",
+    "AKX",
+    "ALB",
+    "ALF",
+    "ALH",
+    "ALI",
+    "ALK",
+    "AMZ"
+  ],
+  "questions": 12,
+  "scenes": 22,
+  "options": 60,
+  "errors": [],
+  "pass": true
+}

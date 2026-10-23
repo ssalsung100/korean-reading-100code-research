@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BSE": [
+      {
+        "line": 7432,
+        "record_id": "BSE-independent_code-20261005-01",
+        "case": "BSE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:40:24.233768+00:00",
+        "payload": {
+          "passage_group": "G526",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 56,
+              "reason": "세문헌이극전개에서제공하는정보와기능을구별한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "문헌단위와그안의발언주체단위를분리한다."
+            },
+            {
+              "code": 75,
+              "reason": "한명회와신숙주의대립견해를각문헌전체평가로옮기지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "날짜확인은있으나⑤오류는시간순서교환이아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "사료의역사적신뢰도강화/약화를평가하지않고작품속기능을묻는다."
+            },
+            {
+              "code": 41,
+              "rejection": "인물발언을문헌전체입장으로확대하는관점에서17과중첩가능하나명시적모든부분의속성합성은없다."
+            }
+          ],
+          "confidence": 0.94
+        }
+      }
+    ],
+    "BSG": [
+      {
+        "line": 7434,
+        "record_id": "BSG-independent_code-20261005-01",
+        "case": "BSG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:40:44.927109+00:00",
+        "payload": {
+          "passage_group": "G526",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 78,
+              "reason": "세조가웃음을견디지못하는감정·처벌동기를권력통제의한계에서복원한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 75,
+              "reason": "노산군의무욕설명과세조의위협해석을구별한다."
+            },
+            {
+              "code": 42,
+              "reason": "외적왕관상실과내적정신자유를분리한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "한태양비유가권력독점을드러내지만㉠의동기판정은다스릴수없다는직접말에서도가능하다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 18,
+              "rejection": "두왕의정치적양립불가를형식논리모순으로입증하는과제는아니다."
+            },
+            {
+              "code": 63,
+              "rejection": "실제복위가설의증거강도를따지지않고세조가받아들인이유를해석한다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BSH": [
+      {
+        "line": 7445,
+        "record_id": "BSH-independent_code-20261005-01",
+        "case": "BSH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T06:43:19.843541+00:00",
+        "payload": {
+          "passage_group": "G527",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 5,
+              "reason": "외견상이성우세의지속속에서도중간도전과논거재해석·강화라는변화를유지한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 60,
+              "reason": "반대노선등장→그근거현상재평가→이성강화라는전개를요약한다."
+            },
+            {
+              "code": 75,
+              "reason": "감성강조와최종이성주의의평가기준차이를귀속한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 82,
+              "reason": "대립과전환이있다고중립적종합이라고확정할수없다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 77,
+              "rejection": "첫문단성급한일반화비판은배경이지만문항은전체과정의재구성이다."
+            },
+            {
+              "code": 68,
+              "rejection": "반대근거재해석이재반론과유사하지만단순반박효과계산보다고대/근대평가전환의서술을유지해야한다."
+            }
+          ],
+          "confidence": 0.95
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·기존 최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "BSE/BSG는극안의역할놀이·독회·발언기능을분석하며문헌실제역사성이나세조의실제심리를외부검증한것이아님. BSH도본문의근대철학전개도식에한정."
+}

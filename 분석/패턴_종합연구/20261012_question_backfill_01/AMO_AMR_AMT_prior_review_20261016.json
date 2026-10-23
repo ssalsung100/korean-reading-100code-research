@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AMO": [
+      {
+        "line": 3653,
+        "record_id": "AMO-independent_code-20260927-01",
+        "case": "AMO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:40:41.543535+00:00",
+        "payload": {
+          "primary": [
+            17
+          ],
+          "primary_candidates": [
+            17,
+            75
+          ],
+          "working_primary": 17,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            19,
+            63
+          ],
+          "surface": [
+            3
+          ],
+          "judgment_reason": "보완받은대상은베르니케모형이고전체주의는기능분리설명에한계있는반박대상이다.④는그귀속을바꿈.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "verdict": "공동 후보",
+              "reason": "이론사이의수용·반박·보완입장을유지."
+            },
+            {
+              "code": 19,
+              "verdict": "보조",
+              "reason": "기존모형의한계를보완하는구조이나정답은그대상명칭교환."
+            },
+            {
+              "code": 3,
+              "verdict": "표면",
+              "reason": "나중등장이직전이론계승을뜻하지않음."
+            }
+          ],
+          "minimal_change_test": "④의전체주의를베르니케모형으로고치면명시문장과일치.",
+          "confidence": 0.97,
+          "passage_group": "G248",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "AMR": [
+      {
+        "line": 3664,
+        "record_id": "AMR-independent_code-20260927-01",
+        "case": "AMR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:42:38.571693+00:00",
+        "payload": {
+          "primary": [
+            39
+          ],
+          "primary_candidates": [
+            39,
+            69
+          ],
+          "working_primary": 39,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            17
+          ],
+          "surface": [
+            91
+          ],
+          "judgment_reason": "인간망의편지전달한단계와웹망의클릭한단계를동일역할로대응시킨다.",
+          "competing_codes": [
+            {
+              "code": 69,
+              "verdict": "공동 후보",
+              "reason": "서로다른영역의구조적유사성으로방법대응을읽음."
+            },
+            {
+              "code": 17,
+              "verdict": "보조",
+              "reason": "사람/문서노드와전달/클릭간선을역할별로귀속."
+            },
+            {
+              "code": 91,
+              "verdict": "⑤오답",
+              "reason": "규모와거리의정비례부정은⑤검사이지②직접관계아님."
+            }
+          ],
+          "minimal_change_test": "②의편지전달을편지를받는사람으로바꾸면노드를클릭간선에잘못대응하는오류가됨.",
+          "confidence": 0.97,
+          "passage_group": "G249",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "AMT": [
+      {
+        "line": 3673,
+        "record_id": "AMT-independent_code-20260927-01",
+        "case": "AMT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:44:49.829233+00:00",
+        "payload": {
+          "primary": [
+            23
+          ],
+          "primary_candidates": [
+            23,
+            19,
+            14
+          ],
+          "working_primary": 23,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            3,
+            39
+          ],
+          "surface": [
+            82
+          ],
+          "judgment_reason": "한국의 신사회운동에 미완 근대의 완성과 근대 한계 극복이라는 두 과제를 함께 귀속한다.완성과 극복은서로다른측면이므로양립한다.",
+          "competing_codes": [
+            {
+              "code": 19,
+              "verdict": "공동 후보",
+              "reason": "구운동의미완목표를신운동이보완한다는관계가완성부분을지지."
+            },
+            {
+              "code": 14,
+              "verdict": "공동 후보",
+              "reason": "완성/극복및신/구운동을배타적으로보지않음."
+            },
+            {
+              "code": 82,
+              "verdict": "표면",
+              "reason": "두과제결합이있어도정반합변증법구조를추가할근거없음."
+            }
+          ],
+          "minimal_change_test": "②의함께를완성만또는극복만으로바꾸면원문이요구한한측면이누락된다.",
+          "confidence": 0.96,
+          "passage_group": "G250",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "AMO는제시문의모형관계이며현행신경과학의전수검증아님.AMR의기능대응은중간사람수와링크횟수의정확한계수단위까지같다는뜻아님.",
+  "AMT_③": "원선지에는물질적가치만이라는배타한정이없다.이번에는그한정을추가하여반박하지않고,본문이결합한완성/극복을더직접포괄하는②가가장가깝다는비교로기록.공식답및최초기록불변."
+}

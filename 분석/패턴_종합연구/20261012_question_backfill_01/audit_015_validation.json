@@ -1,0 +1,28 @@
+{
+  "scope": "이번 작성 문항만 검사; 보호 원장 전수 검증 없음",
+  "case_ids": [
+    "AXB",
+    "AXG",
+    "AXH",
+    "AXP",
+    "AXR",
+    "AXY",
+    "AYE",
+    "AYF",
+    "AYI",
+    "AYK",
+    "AYM",
+    "AYN",
+    "AYQ",
+    "AYW",
+    "AYX",
+    "AYY",
+    "AZB",
+    "AZC"
+  ],
+  "questions": 18,
+  "scenes": 29,
+  "options": 90,
+  "errors": [],
+  "pass": true
+}

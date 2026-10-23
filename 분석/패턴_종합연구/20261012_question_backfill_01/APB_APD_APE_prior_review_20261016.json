@@ -1,0 +1,223 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "APB": [
+      {
+        "line": 3944,
+        "record_id": "APB-independent_code-20260927-01",
+        "case": "APB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:14:46.748732+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 46,
+              "reason": "원인과결과의방향및직접/매개경로를도식에대응"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 45,
+              "reason": "각노드의들어오는/나가는연결로역할식별"
+            },
+            {
+              "code": 17,
+              "reason": "노드명과화살표역할귀속"
+            },
+            {
+              "code": 3,
+              "reason": "골극성장뒤협착이라는순서"
+            }
+          ],
+          "surface": [
+            {
+              "code": 40,
+              "reason": "척추구성요소소재지만배열은해부학부분위치아닌인과관계"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 50,
+              "refutation": "추간공협착으로신경이눌리지만그래프는정보/인과전달중단을분석하는문항아님"
+            },
+            {
+              "code": 47,
+              "refutation": "공통원인분기가있어도전체판정에는합류와우회직접경로모두필요"
+            },
+            {
+              "code": 49,
+              "refutation": "단순증감방향보다중간원인의위치와직접경로유무가핵심"
+            }
+          ],
+          "counterfactual_probe": "B의직접신경근증화살표를삭제하면A/B의초기원인둘을구별하는단서가약해진다.C/D교체는골극→협착방향을뒤집음.",
+          "confidence": 0.97,
+          "passage_group": "G271",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APD": [
+      {
+        "line": 3956,
+        "record_id": "APD-independent_code-20260927-01",
+        "case": "APD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:18:46.787503+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 100,
+              "reason": "초상화라는확장표현을대상자체주목의기능으로해석"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "문맥상의초상화뜻을장르명과구별"
+            },
+            {
+              "code": 80,
+              "reason": "친숙함을벗어난대상인식"
+            }
+          ],
+          "surface": [
+            {
+              "code": 40,
+              "reason": "배경/주대상구성비중을설명한것아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 69,
+              "refutation": "두영역대응으로새결론을추론하는논증보다표현의문맥적뜻풀이"
+            },
+            {
+              "code": 97,
+              "refutation": "글쓴이표현의도와관련되지만발화행위기능이아닌어휘확장뜻"
+            },
+            {
+              "code": 44,
+              "refutation": "대상확인도구로그림을사용한다는④는실재에대한새주목과다름"
+            }
+          ],
+          "counterfactual_probe": "초상화를대상자체가고유한존재로말하게하는그림으로풀면과일/풍경에도적용.인물이나배경생략조건을넣으면원문범위를좁힘.",
+          "confidence": 0.94,
+          "passage_group": "G272",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APE": [
+      {
+        "line": 3957,
+        "record_id": "APE-independent_code-20260927-01",
+        "case": "APE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:18:46.788133+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 73,
+              "reason": "전통의자연충실관점을중립적절대기준으로삼는전제를문제삼음"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 63,
+              "reason": "명칭오용비판의근거를약화"
+            },
+            {
+              "code": 75,
+              "reason": "새사실주의의입장에서반론구성"
+            },
+            {
+              "code": 80,
+              "reason": "동일변형을이탈/실재접근으로보는관점차이"
+            }
+          ],
+          "surface": [
+            {
+              "code": 82,
+              "reason": "전통/새예술의대립이있어도필연적정반합을도출하지않음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 62,
+              "refutation": "변형→실재이탈연결의필연성부정으로도기술가능.73과국소중첩보존"
+            },
+            {
+              "code": 36,
+              "refutation": "하나의작품반례를제시하지않고판정기준자체를상대화"
+            },
+            {
+              "code": 65,
+              "refutation": "반박대상입장을왜곡해공격하는것이아니라그기준의기획적성격을드러냄"
+            }
+          ],
+          "counterfactual_probe": "보이는그대로의재현만이유일한실재접근이라는전제가없으면변형을이탈이라부를근거가약해짐.②는그독점성을흔드나모든변형의가치까지증명안함.",
+          "confidence": 0.95,
+          "passage_group": "G272",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인. APB공식2005문제지인쇄7쪽도판직접확인·별도16행읽음.",
+  "APB_별도기록": {
+    "path": "data/기본기_연구/code_reviews_02.jsonl",
+    "line": 16,
+    "record": {
+      "case_id": "BASIC-C46-MEET-2005-Q20",
+      "code_number": 46,
+      "exam_family": "MEET",
+      "year": 2005,
+      "question_number": 20,
+      "local_question_id": "MEET-2005-Q20",
+      "passage_id": "MEET-2005-Q19-20",
+      "source_path": "자료/MEET_언어추론/전사_검수완료/2005/q19-20.md",
+      "official_answer": "②",
+      "official_answer_source": "자료/MEET_언어추론/공식_정답표_원본/2005_언어추론_정답표.hwp",
+      "site_code_label": "인과관계",
+      "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%9A%94%ED%86%B5%EC%9D%98+%EC%9B%90%EC%9D%B8%EA%B3%BC+%EC%B9%98%EB%A3%8C",
+      "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84",
+      "source_status": "complete",
+      "passage_structure_codes": [
+        46,
+        40
+      ],
+      "primary_solution_codes": [
+        46
+      ],
+      "support_codes": [
+        40
+      ],
+      "evidence": [
+        {
+          "location": "(가)",
+          "quote": "골극이 성장하게 된다"
+        },
+        {
+          "location": "(가)",
+          "quote": "추간공이 좁아져서 신경근이 눌리게"
+        }
+      ],
+      "reasoning_steps": [
+        "A는 추간판 변성, B는 탈출, C는 골극 성장, D는 추간공 협착이다.",
+        "탈출에서 신경근증으로 가는 직접 경로도 보존한다.",
+        "②가 모든 노드와 화살표 방향에 맞다."
+      ],
+      "distractor_operations": [
+        "①·③~⑤는 여러 노드와 화살표의 위치를 교환한다."
+      ],
+      "nearest_code_boundary": "하나의 오류만 있다는 규칙이 아니라 도식 전체의 직접·간접 인과 경로를 읽는다.",
+      "site_tag_verdict": "주 코드 수용",
+      "review_status": "single_analyst_reviewed"
+    }
+  },
+  "APB_출처": "APB_official_graph_review_20261016.json에노드·직접/간접경로·공식이미지해시저장.첫blind문자도식·글자없는PNG의한계를소급삭제하지않음.",
+  "범위": "APB는기출의인과표상과도판매핑이며현행요통치료조언아님.예술이론은제시문에서정한새사실주의의목표와반론만복원."
+}

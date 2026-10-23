@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ASB": [
+      {
+        "line": 4300,
+        "record_id": "ASB-independent_code-20260927-01",
+        "case": "ASB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G297",
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            10,
+            78,
+            44
+          ],
+          "surface": [
+            1
+          ],
+          "decisive_operation": "육체적 쾌락 자체를 확고하게 선택·과도 추구한다는 요건을 사례에 적용하며 평판을 위한 소비와 제한 의지의 실패를 제외한다.",
+          "competing_codes": [
+            {
+              "code": 10,
+              "rebuttal": "필수 요건 누락으로①③④를 배제하는 경로와37의 사례 확인 과업은 같은 행동의 관점 차이다."
+            },
+            {
+              "code": 44,
+              "rebuttal": "③의 외모 소비는 명예를 위한 수단임을 밝혀 제외하는 국소 단계다."
+            },
+            {
+              "code": 1,
+              "rebuttal": "지출액이나 행동량이 많다는 사실만으로 무절제를 판정하면 대상·판단 요건이 빠진다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASD": [
+      {
+        "line": 4312,
+        "record_id": "ASD-independent_code-20260927-01",
+        "case": "ASD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G298",
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            17,
+            18
+          ],
+          "surface": [
+            40
+          ],
+          "decisive_operation": "세 학자의 주장 주체를 유지하고 퀴비에의 부정 명제를 긍정으로 바꾼 오류와 라마르크 주장을 조프루아에게 옮긴 오류를 각각 확인한다.",
+          "competing_codes": [
+            {
+              "code": 40,
+              "rebuttal": "부분/전체는 퀴비에 이론의 내용이지만①의 두 오류는 진술의 극성과 주체 귀속이다."
+            },
+            {
+              "code": 18,
+              "rebuttal": "퀴비에 발화의 반대 진술에 적용되나 두번째 주체 교환은 모순 일반보다 견해 귀속 문제다."
+            },
+            {
+              "code": 65,
+              "rebuttal": "견해 왜곡이라는 넓은 오류 기술로 가능하나 실제 상대 주장을 공격하는 논증보다 대화 속 견해 재현의 정확성이 과업이다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASF": [
+      {
+        "line": 4314,
+        "record_id": "ASF-independent_code-20260927-01",
+        "case": "ASF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G298",
+          "primary": [
+            39
+          ],
+          "auxiliary": [
+            25,
+            5
+          ],
+          "surface": [
+            69,
+            75
+          ],
+          "decisive_operation": "역사적 이론과 선지가 제시한 현대 관점의 비교 축을 고정해 부분 공통점 유무를 판단하고 분류 기준이 반대인①을 제외한다.",
+          "competing_codes": [
+            {
+              "code": 69,
+              "rebuttal": "서로 다른 이론을 대응하지만 새 영역에 속성을 이전하기보다 주어진 공통 측면의 타당성을 직접 비교한다. 구조 대응 수준에서는 중첩 가능."
+            },
+            {
+              "code": 25,
+              "rebuttal": "①은 분류 기준 비교이나 다른 선지는 물질·기원·구조를 비교한다. 전체 과업39 안의 국소 내용이다."
+            },
+            {
+              "code": 2,
+              "rebuttal": "부합하는 측면이라는 약한 주장을 전체 동일성으로 강화하지 않아야 하나 가능/필연 강도 자체를 주로 판정하는 문항은 아니다."
+            }
+          ],
+          "boundary_note": "현대 과학의 모든 세부를 검증한 것이 아니라 선지가 제공한 현대 관점과 본문 이론의 관계를 판정했다.",
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "ASB_유보": "②의 확고한 이성적 선택은 직접 발언으로 제시되지 않고 스릴 자체를 철회 없이 사랑하는 태도에서 읽은 문항 내 해석이다. 기존 blind의 uncertainty를 현행 유보로 승계. 지속·강도가 높다는 것만으로 이성적 선택임을 일반 보장하지 않음.",
+  "ASD_ASF": "세이론및선지가제공한현대관점의관계만대조.실제현대생물학의모든세부를외부검증하거나역사적이론과완전히동일하다고하지않음."
+}

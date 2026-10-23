@@ -1,0 +1,131 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AUJ": [
+      {
+        "line": 4571,
+        "record_id": "AUJ-independent_code-20260928-01",
+        "case": "AUJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            99
+          ],
+          "auxiliary": [
+            46,
+            80
+          ],
+          "surface": [
+            3,
+            94
+          ],
+          "decisive_operation": "다섯 그것의 지시 대상을 고정하고 직접 만남㉠→착각 깨짐→불편이라는 연결을 선택한다.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "ⓐ 직전에 있는 어구를 고르는 근접 시간 순서 문제가 아니다."
+            },
+            {
+              "code": 94,
+              "reason": "착각에서 벗어남이라는 부재만으로 어느 지시 대상이 직접 계기인지 정할 수 없다."
+            },
+            {
+              "code": 46,
+              "reason": "계기 연결은 필요하지만 같은 표면어들의 상이한 지시 대상을 먼저 복원해야 한다."
+            }
+          ],
+          "confidence": 0.96,
+          "passage_group": "G317",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUK": [
+      {
+        "line": 4572,
+        "record_id": "AUK-independent_code-20260928-01",
+        "case": "AUK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46
+          ],
+          "auxiliary": [
+            5,
+            60,
+            69
+          ],
+          "surface": [
+            19,
+            52
+          ],
+          "decisive_operation": "작은 교정→안심→반복 복귀→악 지속의 경로를 유지하고 이를 광범위 변화로 연결한②를 배제한다.",
+          "competitor_refutations": [
+            {
+              "code": 19,
+              "reason": "작은 교정을 하면 충분히 문제가 해결된다는 도식이 오히려 비판된다. 부족을 보충해 최종 해결했다고 읽을 수 없다."
+            },
+            {
+              "code": 52,
+              "reason": "억제 두 번의 부호 합성보다 교정의 크기·복귀 동기가 매개되므로 단순 이중 억제로 환원하지 않는다."
+            },
+            {
+              "code": 77,
+              "reason": "현대 사회 일반화는 과제 틀이지만 선택지 오류를 가르는 근거는 교정 효과의 방향이다."
+            }
+          ],
+          "confidence": 0.95,
+          "passage_group": "G317",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUL": [
+      {
+        "line": 4583,
+        "record_id": "AUL-independent_code-20260928-01",
+        "case": "AUL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            60,
+            59
+          ],
+          "auxiliary": [
+            16,
+            19
+          ],
+          "surface": [
+            44,
+            81
+          ],
+          "decisive_operation": "정의 한계·탐구 필요·왜곡 진단·회복 주장을 묶어 글 전체 논지를 확인한다.",
+          "competitor_refutations": [
+            {
+              "code": 44,
+              "reason": "수단이라는 정의는 첫 문제제기일 뿐 최종 주장을 대표하지 않는다."
+            },
+            {
+              "code": 75,
+              "reason": "두 정의를 서로 경쟁하는 입장으로 논쟁시키지 않는다. 모두 본질 설명에 불충분하다."
+            },
+            {
+              "code": 91,
+              "reason": "자연 에너지 획득과 본질 드러남 사이 비례 관계는 없으며③의 무근거 부가다."
+            }
+          ],
+          "confidence": 0.96,
+          "passage_group": "G318",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체원문·5선지·기존풀이·독립판정직접확인.반복대용어지칭·작은교정의역설적유지경로·통념정의의공통한계구별."
+}

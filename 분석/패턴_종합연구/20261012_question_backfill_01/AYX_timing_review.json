@@ -1,0 +1,37 @@
+{
+  "definitions": "B_t=현재저장출력,C_t=외부입력,A_t=F(B_t,C_t). 이번예의F는같으면1인XNOR. 한클록뒤B_(t+1)=NOT A_t.",
+  "rows": [
+    {
+      "B_t": 0,
+      "C_t": 0,
+      "A_t": 1,
+      "B_next": 0,
+      "A_after_feedback_with_C_held": 1
+    },
+    {
+      "B_t": 0,
+      "C_t": 1,
+      "A_t": 0,
+      "B_next": 1,
+      "A_after_feedback_with_C_held": 1
+    },
+    {
+      "B_t": 1,
+      "C_t": 0,
+      "A_t": 0,
+      "B_next": 1,
+      "A_after_feedback_with_C_held": 0
+    },
+    {
+      "B_t": 1,
+      "C_t": 1,
+      "A_t": 1,
+      "B_next": 0,
+      "A_after_feedback_with_C_held": 0
+    }
+  ],
+  "finding": "C=1일때안정된조합출력A_t는B_t와같다. C=0이면A_t는B_t와반대. 반전관계는B_next와직전A_t사이이며항상동시값반대가아님.",
+  "official_answer_preserved": 3,
+  "model_limit": "본문이서술한일련의스위치동작을하나의상태전이로취급. 실제회로전파지연·레이스의하드웨어검증은아님.",
+  "original_preserved": true
+}

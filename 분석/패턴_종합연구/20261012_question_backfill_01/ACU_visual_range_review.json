@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-15",
+  "method": "기존 공식PDF 실제 렌더 crop을 주 에이전트가 직접 열람한 사후 범위 확인",
+  "image": "data/기본기_연구/prepared_backlog/blind_sources/ACU_A_range_official_crop_20260920.png",
+  "scope_start": "수빈은 SF가 등장하기 이전에도 인간은 허구적 이야기를 통해,",
+  "scope_end": "SF의 역할이 더욱 중요해졌다고 수빈은 주장한다.",
+  "observation": "실제 왼쪽[A]대괄호가(나)마지막 문단 전체의 첫줄부터 끝줄까지 감싼다.위쪽 이전 문단의 끝은 범위 밖.",
+  "history": "재조판PNG·부유표만으로 범위를 확정하지 않았던 세 hold와 공식crop 뒤 유효 최초⑤를 보존.이번에는 최종 승인된 실제crop만 범위 근거로 사용.",
+  "metadata_limit": "최초 기록의 당시2027연도연결불일치 유보는 이력으로 남는다.현행target manifest의stored_question_ids는2026-9월_모평이다.이번 작업에서 원정본 식별자나 기존 원장을 수정·재검증하지 않음.",
+  "current_manifest_ids": [
+    "KICE-2026-9월_모평-Q04-09-S019~024-Q06"
+  ]
+}

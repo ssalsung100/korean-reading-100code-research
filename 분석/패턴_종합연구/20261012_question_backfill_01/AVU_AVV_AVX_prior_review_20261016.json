@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AVU": [
+      {
+        "line": 4736,
+        "record_id": "AVU-independent_code-20260928-01",
+        "case": "AVU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            44,
+            100
+          ],
+          "auxiliary": [
+            46,
+            17
+          ],
+          "surface": [
+            42,
+            94
+          ],
+          "decisive_operation": "방을잠그는행동의목적이아버지에게돌아가려는욕망억제임을확인하고화해촉진기능으로바꾼①을배제.",
+          "competitor_refutations": [
+            {
+              "code": 42,
+              "reason": "내외공간자체보다인물이왜방을잠그는지의목적을봐야한다."
+            },
+            {
+              "code": 94,
+              "reason": "결핍만으로방의상징을고정할수없고구체단절행동이근거다."
+            },
+            {
+              "code": 3,
+              "reason": "방이과거에있다는사실보다현재갈등과연결되는기능이핵심이다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G329",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AVV": [
+      {
+        "line": 4747,
+        "record_id": "AVV-independent_code-20260928-01",
+        "case": "AVV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            16,
+            39
+          ],
+          "auxiliary": [
+            17,
+            5
+          ],
+          "surface": [
+            46,
+            45
+          ],
+          "decisive_operation": "동일사진의두표현과워터마크특성을대조해변환손실·저장형식·연산량진술을판정한다.",
+          "competitor_refutations": [
+            {
+              "code": 45,
+              "reason": "변환은재료이나구체함수값계산은없다."
+            },
+            {
+              "code": 46,
+              "reason": "원본훼손기제보다영역별특성대조가선택핵심이다."
+            },
+            {
+              "code": 4,
+              "reason": "모든태그가보존된다는양화결론은제시되지않음."
+            }
+          ],
+          "unresolved": "③주파수영역잡음의의미는추가성분해석이며본문직접정의아님.",
+          "confidence": 0.94,
+          "passage_group": "G330",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AVX": [
+      {
+        "line": 4749,
+        "record_id": "AVX-independent_code-20260928-01",
+        "case": "AVX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46,
+            40
+          ],
+          "auxiliary": [
+            37,
+            17,
+            10
+          ],
+          "surface": [
+            49,
+            15
+          ],
+          "decisive_operation": "주파수삽입→전체화소분산→일부절단뒤잔존정보에서추출이라는경로를사진에적용한다.",
+          "competitor_refutations": [
+            {
+              "code": 49,
+              "reason": "질감복잡도방향만으로는압축삭제와부분절단차이를판정못함."
+            },
+            {
+              "code": 15,
+              "reason": "비가시성과강인성은평가기준이나각선지의다른훼손경로를추적해야한다."
+            },
+            {
+              "code": 10,
+              "reason": "고주파성분많음이압축후복원의충분조건인것처럼추론하면⑤오류.보조조건검사로남김."
+            }
+          ],
+          "confidence": 0.96,
+          "passage_group": "G330",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정직접확인.",
+  "시각": "G330_visual01직접확인:A모자와배경의중간변화,B깃털의복잡한밝기변화,C매끈한어깨영역.기존제공이미지재확인.",
+  "유보": "AVV③주파수잡음은본문직접정의가아닌원본대비추가성분이라는해석.기존독립unresolved승계."
+}

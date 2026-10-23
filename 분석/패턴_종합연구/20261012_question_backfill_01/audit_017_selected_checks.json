@@ -1,0 +1,49 @@
+{
+  "scope": "17배치 표본의 수치·명제 관계 점검. 실제 관측 자료를 새로 생성한 것이 아님.",
+  "BFF": {
+    "parliament": "25/9",
+    "unknown_share_sum": 0.1,
+    "unknown_square_upper": 0.01,
+    "electoral_lower": "10/3",
+    "comparison": "10/3>25/9",
+    "context_limit": "보기의 내각 구성 관심은 의도된 참여 가능성 조건으로 해석하며 일반 충분조건으로 확정하지 않음."
+  },
+  "BFK": {
+    "pipe_length": 9,
+    "ruler_length": 10,
+    "pitch": "초기 기장관>중국음=밀랍관"
+  },
+  "BFX": {
+    "distances": "AB4/8,AC3/8,AD2/8,BC7/8,BD6/8,CD3/8",
+    "merged": "AD-C3/8<AD-B5/8<BC7/8",
+    "choice": 4
+  },
+  "BHF": {
+    "direct_equal": [
+      1,
+      1
+    ],
+    "directional_distinct": [
+      2,
+      0
+    ],
+    "official": 2,
+    "hold": true
+  },
+  "BHM": {
+    "net_before": -2,
+    "net_after": -1.0,
+    "rate_improves": true,
+    "absolute_amount_increase_guaranteed": false
+  },
+  "BHS": {
+    "permitted_states": 3,
+    "not_command_implies_passive_permission": true,
+    "restoration": "이전 독립판정에서 이미 범위 복원; 이번 공식9쪽 재확인"
+  },
+  "record_corrections": [
+    "AMD046 기존 연결 제거의 적용 확인",
+    "AMD047 단일 후보 연결 추가"
+  ],
+  "pass": true
+}

@@ -1,0 +1,72 @@
+"""입력별 대응표를 보완하는 명시적 두 후보 사이의 관계. 하위 범위를 소실하지 않는다."""
+from pathlib import Path
+import json
+O=Path(__file__).resolve().parent
+text='''ACT-I|P05.lexical_comparison|동일 원리|NO YU AJ BL CB|문맥의 논항·방향·평가 성분을 유지한 치환.
+ASK-F|ACT-I|별개의 원리|NO YU|같은 사건의 문항 요구층과 수행층이다. 경쟁하는 두 풀이가 아니다.
+R01|N01|동일 원리|JO JN|정의의 역할·대상 수·동시성 보존.
+R01|ACT-A의 정의대입 부분|동일 원리|JO RY|ACT-A 전체의 비용 비교까지 동일하다고 하지 않음.
+ACT-A|P01|부분 중첩|JO RY AG|이미 주어진 귀속 회수와 새 사례의 역할 대응을 분리.
+R02|N02|동일 원리|NL|정당화 의존의 시작 개념 재사용.
+N02|P07|별개의 원리|NL RW GL|정의 의존과 사건 선후의 간선 의미가 다름.
+N02|N03|별개의 원리|NL NM|정당화 순환과 결합 전제 실패는 다른 입력과 결론을 가짐.
+R03|N03|동일 원리|NM|결합 입력 실패에서 단일 전제를 확정하지 않음.
+N03|P04|부분 중첩|NM AA GM|필요 입력의 확인을 공유하나 실패 원인의 비식별·수정 허용은 별도.
+ACT-C|N02 및 N03|부분 중첩|NL NM AYE|의존 입력 확인의 상위 질문만 공통. NL/NM 분기 보존.
+R04|ACT-G|부분 중첩|NN AYF AYG ATO|논증 역할 질문은 공유하나 목표·기능·허용 추론이 다름.
+S02|N04|하위 유형|GK|관측의 경쟁 설명 판별은 논증 역할 가족의 관측형.
+S02|R04의 AYF 가상사례 부분|부분 중첩|GK AYF|공통 양립/판별 역할은 같으나 관측과 가상 반례의 근거 종류가 다름.
+ASK-C|ACT-G|별개의 원리|NN AYF AYG|문항 요구와 학생의 역할 검사는 층이 달라 중복 발견으로 세지 않음.
+R05|P01 및 P02 및 P04 및 P07|부분 중첩|RV RW RY|신호 해독 경로의 구성 연산들이지만 하나의 원자 연산은 아님.
+R06|N05|동일 원리|RX|조건 집합과 분모 고정.
+N05|P03|하위 유형|RX CA|비교 조건 고정의 조건부 비율형. CA 상대비와 동일 계산 아님.
+ACT-E|P02 및 N05|부분 중첩|RV RX RY|현실/판정 분류와 분모 연산의 복합 후보.
+R07|N06|동일 원리|RY|검사 목적과 오류별 후속 경로의 연결.
+N06|P06|근거 부족|RY ANX AQO|상위 목적-수단 연결은 공유하나 동일 하위 연산·교육 전이는 미확보.
+R08의 YT 부분|ACT-D|동일 원리|YT|전수 모형의 역상에서 공통 성분만 확정.
+ACT-D|N07|동일 원리|YT|단일 지문 근거를 두 발견으로 세지 않음.
+N07|S04|부분 중첩|YT ZF|후보 집합 표현을 공유하나 역상 계산과 유보 원인 구별은 다름.
+N07|S01|부분 중첩|YT AI|입출력 비단사성에 대한 경계는 공유하나 개인별 조건화와 단일 모형 역상은 다름.
+R09|N08의 제약체계 부분|동일 원리|AYE AYG|일부 최적 조건 결손 영역에서 조건수-효율 단조 보장 부정.
+R09|P03|부분 중첩|AYE AC|비교 허가를 검사하는 단계는 공통이나 긍정 방향 전파의 직접 사례는 아님.
+R10|P03의 최소 비교근거 검사|하위 유형|AYF|부분 순서에 없는 A/B 비교를 만들지 않음.
+ACT-H|P03 및 N07 및 N08|부분 중첩|JO YT AYF RX|다양한 미확정 이유를 포함하므로 하나의 비교 연산으로 환원 불가.
+R11a|N09의 정도범위 부분|하위 유형|ATN BK|일부 감소·약함에서 완전 소멸·없음으로의 확대.
+R11b|N10|하위 유형|ATN AVT AQP|추가 성분 근거 가족의 동기 분기. 감정·평가와 동일 절차 주장은 유보.
+R11a|R11b|별개의 원리|ATN|범위와 동기의 서로 독립적인 근거 결손.
+N10|P01|부분 중첩|ATN AVT AQP AG|귀속 대상 확인은 공통이나 없는 성분을 만드는 오류와 이미 있는 술어 교환은 다름.
+ACT-B|P04 및 N09 및 N03|부분 중첩|JN NM RV ATN|필요·가능·전체 범위라는 상위 질문 아래 오류 방향을 분리.
+R12|N11|동일 원리|ATP|뜻을 유지한 반복 어휘의 지시 대상 복원.
+N11|P07|부분 중첩|ATP ANV|시점 배치는 수단이고 지시 복원은 별도 목표.
+N11|S06|부분 중첩|ATP AQN|표현의 지시 근거와 집단 연속성 증거는 다름.
+N11|P05|별개의 원리|ATP NO|무엇을 가리키는가와 어떤 뜻으로 쓰였는가를 구별.
+ACT-F|P01 및 P02 및 P07 및 N11|부분 중첩|NK YS ATN ATO ATP|한 표의 네 열은 서로 다른 연산을 담는다.
+S05|P02|하위 유형|AJP AB|현재 AJP의 규정 존재/이행만 하위형으로 연결. 규범 효력 해석 일반 통합은 유보.
+ASK-E|S03|하위 유형|YR OX|전개 기능 대응을 요구하는 문항 구현. 분석 단위가 다름을 유지.
+ACT-J의 YR 부분|S03|동일 원리|YR OX|복합 선지 동작과 문단 기능의 대응.
+ACT-J 전체|S03|부분 중첩|YR AYG|AYG의 증거 기능은 전개 동작과 다름.
+TXT-A|N01 및 P04|별개의 원리|JN JO RV RY|분류-조건-사례라는 지문 조직이 정의 적용·조건 검사의 입력을 제공. 층이 다름.
+TXT-B|P07 및 N05 및 N06|별개의 원리|RV RW RX RY|장치 설명의 층 이동을 각 문항의 연산으로 분기. 층이 다름.
+TXT-C|S03 및 P02 및 N02 및 N03|별개의 원리|NK NL NM YR AYE|논쟁의 조직과 그 안의 국소 추론을 동일 후보로 세지 않음.
+TXT-D|ACT-F 및 N11|별개의 원리|ATN ATO ATP|다중 발화의 지문 배치와 귀속·지시 복원의 수행은 층이 다름.
+ASK-A|P01 및 N01 및 N11|부분 중첩|JO RW RY ATP|닮은 표현 조작을 역할 교환·조건 삭제·지시 이동으로 원자 분해.
+ASK-B|N01 및 N03 및 N07|부분 중첩|JO NM RY YT|순방향 대입·실패 해석·역상 요구를 하나의 적용 연산으로 합치지 않음.
+ASK-D|P01 및 P02 및 N09 및 N10|근거 부족|JN NK NL ATN ATO|내용 재서술은 너무 넓어 하나의 수행 원리라고 할 근거가 부족. 실제 변경 요소를 따로 기록.''' 
+edges=[]
+for i,line in enumerate(text.splitlines(),1):
+ a,b,r,cs,reason=line.split('|')
+ edges.append({'relation_id':f'C-REL-{i:02d}','from':a,'to':b,'relation':r,'case_ids':cs.split(),'scope_and_reason':reason,'is_current_synthesis':True,'independent_replication_claim':False})
+(O/'relation_edges.jsonl').write_text(''.join(json.dumps(x,ensure_ascii=False)+'\n' for x in edges))
+md=['# 두 후보 사이의 명시적 관계','','[입력별 대응표](01_후보대응표.md)의 ‘대응’ 열에는 새 보존 위치와 비교 대상이 함께 들어 있다. 이 표는 실제 관계를 판정한 두 쪽과 하위 범위를 명시한다. 지문/문항/풀이 층의 ‘별개’는 같은 층의 경쟁 이론이라는 뜻이 아니라 서로 대체 불가능한 분석 단위라는 뜻이다. 복합 대상으로 묶은 행은 구성 관계를 설명하며 각 구성원이 서로 동일하다는 뜻이 아니다.','','|후보 A|비교 대상 B|관계|사례|판단 범위|','|---|---|---|---|---|']
+for e in edges:md.append('|'+ '|'.join([e['from'],e['to'],e['relation'],' · '.join(e['case_ids']),e['scope_and_reason']])+'|')
+(O/'01b_후보간_관계명세.md').write_text('\n'.join(md)+'\n')
+new=[]
+for line in (O/'03_패턴계층과_적용조건.md').read_text().splitlines():
+ if line.startswith('|N'):
+  parts=line.strip('|').split('|')
+  if len(parts)==5:
+   label,operation,evidence,yes,no=parts
+   new.append({'candidate_id':label.split()[0],'name_and_status':label,'input_and_operation':operation,'evidence_and_conclusion':evidence,'applicable_if':yes,'do_not_apply_or_resplit_if':no,'status_scope':'잠정 보존·기존 상위형 포함. 확정된 새 100코드 아님.'})
+assert len(new)==11
+(O/'new_candidate_registry.json').write_text(json.dumps({'version':'C-draft','candidates':new},ensure_ascii=False,indent=2)+'\n')
+print('후보 간 관계',len(edges),'건, 잠정 후보',len(new),'건')

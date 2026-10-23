@@ -1,0 +1,27 @@
+{
+  "start_reviewed": 573,
+  "start_scenes": 922,
+  "current_reviewed": 618,
+  "current_scenes": 986,
+  "new_questions": 45,
+  "new_scenes": 64,
+  "remaining": 459,
+  "unresolved": 28,
+  "last_saved_author": "author_016f.py",
+  "last_audit": "audit_015.py",
+  "active_batch": 16,
+  "active_batch_questions": 18,
+  "next": {
+    "order": 619,
+    "unique_question": "U0328-Q01",
+    "case_ids": [
+      "BAF"
+    ],
+    "read_but_not_saved": false,
+    "suggested_author": "author_016g.py",
+    "resume_command": "python3 분석/패턴_종합연구/20261012_question_backfill_01/backfill_io.py packet 619 2"
+  },
+  "next_audit_at": 640,
+  "status": "중간인계저장·전체연구진행중",
+  "handoff": "session_handoff_20261015_03.json"
+}

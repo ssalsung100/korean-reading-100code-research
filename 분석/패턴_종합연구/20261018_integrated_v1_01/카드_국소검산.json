@@ -1,0 +1,270 @@
+{
+  "scope": "가상 설계의 명시 수치·규약 검산. 완성 문항/실제 사실/교육 효과 검증 아님",
+  "C01": {
+    "T6_W6_allowed_inputs": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        1,
+        4,
+        1
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        3,
+        0,
+        3
+      ]
+    ],
+    "with_Z4": [
+      [
+        2,
+        2,
+        2
+      ]
+    ],
+    "with_D0": [
+      [
+        0,
+        6,
+        0
+      ],
+      [
+        1,
+        4,
+        1
+      ],
+      [
+        2,
+        2,
+        2
+      ],
+      [
+        3,
+        0,
+        3
+      ]
+    ],
+    "domain": "0이상 정수; T=0 평균 제외"
+  },
+  "C02": {
+    "baseline_final": 90,
+    "modified_final": 97,
+    "modified_second_inflow13_final": 101,
+    "comparison_gain": 7,
+    "absolute_change": -3,
+    "intermediate_stocks": [
+      98,
+      90,
+      99,
+      97,
+      99,
+      101
+    ],
+    "unit": "L"
+  },
+  "C03": {
+    "scope": "현재 유예 시각의 규약만. 사전 연장 뒤 새 시각의 결과는 포함 안 함",
+    "truth_table": [
+      {
+        "L": false,
+        "X": false,
+        "U": false,
+        "E": false,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": false,
+        "X": false,
+        "U": false,
+        "E": true,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": false,
+        "X": false,
+        "U": true,
+        "E": false,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": false,
+        "X": false,
+        "U": true,
+        "E": true,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": false,
+        "X": true,
+        "U": false,
+        "E": false,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": false,
+        "X": true,
+        "U": false,
+        "E": true,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": false,
+        "X": true,
+        "U": true,
+        "E": false,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": false,
+        "X": true,
+        "U": true,
+        "E": true,
+        "C": false,
+        "F": false,
+        "A": false
+      },
+      {
+        "L": true,
+        "X": false,
+        "U": false,
+        "E": false,
+        "C": true,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": false,
+        "U": false,
+        "E": true,
+        "C": true,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": false,
+        "U": true,
+        "E": false,
+        "C": true,
+        "F": true,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": false,
+        "U": true,
+        "E": true,
+        "C": true,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": true,
+        "U": false,
+        "E": false,
+        "C": false,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": true,
+        "U": false,
+        "E": true,
+        "C": false,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": true,
+        "U": true,
+        "E": false,
+        "C": false,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": true,
+        "U": true,
+        "E": true,
+        "C": false,
+        "F": false,
+        "A": true
+      }
+    ],
+    "base_case_U_unknown": [
+      {
+        "L": true,
+        "X": false,
+        "U": false,
+        "E": true,
+        "C": true,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": false,
+        "U": true,
+        "E": true,
+        "C": true,
+        "F": false,
+        "A": true
+      }
+    ],
+    "without_E_U_unknown": [
+      {
+        "L": true,
+        "X": false,
+        "U": false,
+        "E": false,
+        "C": true,
+        "F": false,
+        "A": true
+      },
+      {
+        "L": true,
+        "X": false,
+        "U": true,
+        "E": false,
+        "C": true,
+        "F": true,
+        "A": true
+      }
+    ]
+  },
+  "C04": {
+    "check_type": "명제 역할의 수동 대조",
+    "P": "특정 작성자",
+    "Q": "분류표 신뢰",
+    "T": "시대",
+    "finding": "P←Q←P에서 B→T가 추가되어도 T→P의 충분 관계는 주어지지 않는다. 독립C→P가 명시될 때만 별도 정당화 경로가 생긴다.",
+    "not_claimed": "실제 유물 진위, 외부 검사 신뢰, 완성 선지 유일성 미검증"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BSW": [
+      {
+        "line": 7508,
+        "record_id": "BSW-independent_code-20261005-01",
+        "case": "BSW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:16:39.735121+00:00",
+        "payload": {
+          "passage_group": "G532",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 80,
+              "reason": "상황과다른인물의반응이누구의인식에의해제시되는지확인한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 93,
+              "reason": "일인칭서술자가독자에게전하는범위와타인의내면불투명성을구별한다."
+            },
+            {
+              "code": 56,
+              "reason": "내면고백이서술방식의핵심기능임을파악한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "과거회상은있으나시간재배열이인과성강화의핵심은아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 5,
+              "rejection": "반응변화만으로성격자체가바뀌었다고할수없다."
+            },
+            {
+              "code": 100,
+              "rejection": "비유가다수있어도①의서술시점은비유해독없이확인가능하다."
+            }
+          ],
+          "confidence": 0.95
+        }
+      }
+    ],
+    "BSX": [
+      {
+        "line": 7509,
+        "record_id": "BSX-independent_code-20261005-01",
+        "case": "BSX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:16:55.806225+00:00",
+        "payload": {
+          "passage_group": "G532",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 100,
+              "reason": "곪은영혼등비유의원관념을자기표절·기만이라는문맥에맞춘다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 64,
+              "reason": "개인적죄를사회현실비판이라는미제시범위로옮기지않는다."
+            },
+            {
+              "code": 78,
+              "reason": "자기변명과처벌받고싶은동기를유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 63,
+              "reason": "도덕적평가가있지만새근거의강화/약화문제가아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 99,
+              "rejection": "앞말을지시하는것만이아니라비유의구체의미를복원한다."
+            },
+            {
+              "code": 83,
+              "rejection": "가치판단과사실을구분하기보다그가죄책감을느끼는내용을정확히귀속한다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BSZ": [
+      {
+        "line": 7511,
+        "record_id": "BSZ-independent_code-20261005-01",
+        "case": "BSZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:17:38.326013+00:00",
+        "payload": {
+          "passage_group": "G532",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 16,
+              "reason": "일반문화의축적과개별예술작품의창조성이라는개념차이를지운궤변을판정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "문화일반의관계를예술작품표절정당화영역에옮기지않는다."
+            },
+            {
+              "code": 62,
+              "reason": "이전요소를차용한다는사실에서작품절취가정당하다는결론은따라오지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 69,
+              "reason": "음악기원과문학작품의비교가있지만그유사성은본문이문제삼는것이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 77,
+              "rejection": "창조는모두축적이라는일반화도있지만④는문화/예술의내포차이삭제를직접지적한다."
+            },
+            {
+              "code": 65,
+              "rejection": "상대주장의왜곡보다는자기행위정당화를위한범주동일시가핵심이다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "일인칭 화자가 아르판의 내면을 확정하지 못한다는 한계와 자기기만을 알고 있다는 진술을 함께 보존. 작품 속 문화/예술 구별을 모든 예술의 보편 이론이나 현행 표절 법규로 확대하지 않는다. BSX⑤는 화자의 문맥상 평가이다."
+}

@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AOB": [
+      {
+        "line": 3831,
+        "record_id": "AOB-independent_code-20260927-01",
+        "case": "AOB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:40:31.622757+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 69,
+              "reason": "직접 규정 없는 상전 모해를 국가에 대한 반역 조문에 대응시켜 적용"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 60,
+              "reason": "실제 절차가 전제하는 적용 원칙을 역으로 복원"
+            },
+            {
+              "code": 19,
+              "reason": "직접 규정의 공백을 유사 조문으로 보충"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "형률 소재 자체가 정답의 당위 추론은 아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 12,
+              "refutation": "기존 규칙의 조건 적용은 후속이지만 직접 조문이 없는데 적용 가능한 이유가 유추"
+            },
+            {
+              "code": 8,
+              "refutation": "두 법의 경중 우선순위를 정한 동시 성립 사안으로 주어지지 않음"
+            },
+            {
+              "code": 24,
+              "refutation": "기존 원칙에 대한 예외를 신설하지 않고 유사 규정을 끌어옴"
+            }
+          ],
+          "counterfactual_probe": "상전모해의직접조문이주어져그대로적용했다면①의유추전제는필수아님.현재는규정공백과유사조문선택이명시됨.",
+          "confidence": 0.96,
+          "passage_group": "G262",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOD": [
+      {
+        "line": 3833,
+        "record_id": "AOD-independent_code-20260927-01",
+        "case": "AOD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:40:31.624064+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 80,
+              "reason": "판결 과정의 발언·선택에서 임금의 태도와 판단을 귀속"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 75,
+              "reason": "사형 찬성/반대 신료들의 의견과 채택 주체 구별"
+            },
+            {
+              "code": 4,
+              "reason": "다수 지지와 소수 반대의 범위 구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "사형의 옳고그름을 현대 규범으로 평가하는 질문 아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 63,
+              "refutation": "왕의 입장이 좋은지 비판하는 것이 아니라 기록으로부터 태도를 도출할 수 있는지 확인"
+            },
+            {
+              "code": 78,
+              "refutation": "정당성강화 동기추정은①에 유효하지만③은 실제 수용행위 부재와 반대입장 고수로 배제"
+            },
+            {
+              "code": 2,
+              "refutation": "반드시소수무시라는필연적성격도출이아님.해당판결에서소수수용설명근거없음"
+            }
+          ],
+          "counterfactual_probe": "소수의 감형 반론을 받아 사형을 철회했다면③은 강해지지만 실제로는 견지했다.의논을 들음과 의견을 채택함은 다름.",
+          "confidence": 0.95,
+          "passage_group": "G262",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOE": [
+      {
+        "line": 3845,
+        "record_id": "AOE-independent_code-20260927-01",
+        "case": "AOE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:44:39.516471+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 5,
+              "reason": "본성의온전한유지와이탈을구별"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 3,
+              "reason": "미발/이발시점별심의역할"
+            },
+            {
+              "code": 16,
+              "reason": "성/정·체/용개념대응"
+            }
+          ],
+          "surface": [
+            {
+              "code": 81,
+              "reason": "본체론소재지만정답은미발상태의유지판정"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 40,
+              "refutation": "심이성정을겸하지만공간적부분의구성이핵심아님"
+            },
+            {
+              "code": 49,
+              "refutation": "질적상태유지/이탈이지증감변수상관을새로계산하지않음"
+            },
+            {
+              "code": 13,
+              "refutation": "성/정은구별되지만나뉠수없다고명시되어배타적독립실체로해석불가"
+            }
+          ],
+          "counterfactual_probe": "④벗어나있다를온전하게유지된다로고치면직접부합.기질지성과천명지성을별도로존재하는두본성으로나누지않음.",
+          "confidence": 0.95,
+          "passage_group": "G263",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

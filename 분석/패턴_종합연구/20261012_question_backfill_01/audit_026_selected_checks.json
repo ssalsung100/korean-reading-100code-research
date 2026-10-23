@@ -1,0 +1,53 @@
+{
+  "sample_case_ids": [
+    "AVL",
+    "AVR",
+    "AVV",
+    "AVX",
+    "AWD",
+    "BAT",
+    "BAX",
+    "BBC",
+    "BBJ",
+    "BBN",
+    "BBO",
+    "BBQ",
+    "BBX",
+    "BBZ",
+    "BCC",
+    "BCE",
+    "BCF",
+    "BCI",
+    "BCJ"
+  ],
+  "sample_questions": 19,
+  "sample_scenes": 21,
+  "sample_options": 95,
+  "amendments": [
+    "QBF01-QAMD009",
+    "QBF01-AMD055",
+    "QBF01-AMD056",
+    "QBF01-AMD057"
+  ],
+  "holds_preserved": [
+    "AVV",
+    "BAT",
+    "BBC",
+    "BBJ",
+    "BBZ",
+    "BCC",
+    "BCE",
+    "BCF"
+  ],
+  "BCF_source_review": "BCF_official_source_review_20261016.json",
+  "BCF_semantic_resolved": false,
+  "BCF_initial_preserved": {
+    "answer": 3,
+    "confidence": 0.86,
+    "official": 2
+  },
+  "BBJ_countermodel": "a=exp(t),T=exp(-t):a이차미분>0,T일차미분<0,T이차미분>0.가상반모형이며실제우주식아님.",
+  "visuals": "G326정자,G327사진/조각,G328투영2도판,G330질감,G332흑백회화직접재확인.색상판독은본문서술과구별.",
+  "checks": "중심/형상·변환/추가정보·대상/매개·관점귀속·복수요건·가속강도·조건부확률방향·상징/문자·전칭추가금지검토.",
+  "pass": true
+}

@@ -1,0 +1,172 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "APF": [
+      {
+        "line": 3968,
+        "record_id": "APF-independent_code-20260927-01",
+        "case": "APF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:22:22.548722+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 75,
+              "reason": "경제주체별정책입장과논거를귀속"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 46,
+              "reason": "관세→곡가→임금→이윤/수출경로"
+            },
+            {
+              "code": 44,
+              "reason": "제조업확장을위한무역정책수단"
+            },
+            {
+              "code": 8,
+              "scope": "⑤",
+              "reason": "언급된국방논거에서경제보다우선이라는추가서열배제"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "정책의공정함에대한독자의평가는묻지않음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 74,
+              "refutation": "예측차이를검증하는관측자료없이입장과논거대응을묻는다"
+            },
+            {
+              "code": 86,
+              "refutation": "임금·가격상승이있어도노동자의실질이득크기를계산할근거없음"
+            },
+            {
+              "code": 17,
+              "refutation": "귀속행동으로75와중첩가능하나경제주체의정책견해라는범위가작업대표75의이유"
+            }
+          ],
+          "counterfactual_probe": "⑤경제적차원보다를국방차원에서도로고치면명시논거와부합.목적존재와목적서열별개.",
+          "confidence": 0.96,
+          "passage_group": "G273",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APG": [
+      {
+        "line": 3969,
+        "record_id": "APG-independent_code-20260927-01",
+        "case": "APG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:22:22.549310+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 39,
+              "reason": "같은지주집단의경제적역할평가를두이론에서대조"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 75,
+              "reason": "각학자의논지귀속"
+            },
+            {
+              "code": 46,
+              "reason": "지주수요→상공업대소득집중→생산왜곡경로"
+            }
+          ],
+          "surface": [
+            {
+              "code": 60,
+              "reason": "발문은논지전개지만②는평가내용의대비를제시"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 77,
+              "refutation": "여러실례에서일반법칙을귀납한자료없음"
+            },
+            {
+              "code": 66,
+              "refutation": "형식삼단논법의타당성검사가아님"
+            },
+            {
+              "code": 44,
+              "refutation": "목적/수단은⑤오류에기여하지만②의직접판정은동일대상평가대조"
+            }
+          ],
+          "counterfactual_probe": "맬서스의지주구매력→상공업수요연결을삭제하면긍정평가기반이약해짐.리카도의지주집중비판을공업투자기여로고치면입장을뒤집음.",
+          "confidence": 0.95,
+          "passage_group": "G273",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "API": [
+      {
+        "line": 3983,
+        "record_id": "API-independent_code-20260927-01",
+        "case": "API",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:26:12.320695+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 15,
+              "reason": "중국중심틀의유지/거부라는분류기준적용"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 25,
+              "reason": "인용문들을두관점으로분류"
+            },
+            {
+              "code": 75,
+              "reason": "노론대위와이익독립국가관점구별"
+            },
+            {
+              "code": 80,
+              "reason": "중심·내외의관점상대성"
+            }
+          ],
+          "surface": [
+            {
+              "code": 42,
+              "reason": "내외단어보다중심독점의인식기준이핵심"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 3,
+              "refutation": "인용문의연대순서를묻지않음"
+            },
+            {
+              "code": 26,
+              "refutation": "문화차이를전부소거하는배타해체가아니라세계관분류"
+            },
+            {
+              "code": 17,
+              "refutation": "조선/중국이름만으로는④와다른선지구분안됨.중국규범의독점인지확인"
+            }
+          ],
+          "counterfactual_probe": "④의중국옷·말을보편유교예악과각나라독자성으로고치면중국중심규범색채약화.중국밖에서중화가능하다는한점만으로이익과동일시못함.",
+          "confidence": 0.96,
+          "passage_group": "G274",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "정책·역사관의 내용과 근거를 제시문 내부에서 대응한다. 특정 무역정책의 현재 효과·당위나 역사 인물의 전체 사상을 외부적으로 확정하지 않음."
+}

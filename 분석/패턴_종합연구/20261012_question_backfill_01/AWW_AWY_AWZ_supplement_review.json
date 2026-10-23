@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AWW": [
+      {
+        "line": 4869,
+        "record_id": "AWW-independent_code-20260928-01",
+        "case": "AWW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            12,
+            17
+          ],
+          "auxiliary": [
+            99,
+            100
+          ],
+          "surface": [
+            3,
+            78
+          ],
+          "decisive_operation": "㉠가정의내용을앞문장성공·후환종결에연결하고실패로치환한선지를배제.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "끝이라는시간어만으로죽음이라는종결내용을추가하지않는다."
+            },
+            {
+              "code": 100,
+              "reason": "비유풀이도있지만정답①은조건내용의성공/실패교환이다."
+            },
+            {
+              "code": 78,
+              "reason": "인물전체욕망을알아도해당조건문의정확범위를복원해야한다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G339",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWY": [
+      {
+        "line": 4871,
+        "record_id": "AWY-independent_code-20260928-01",
+        "case": "AWY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            78,
+            37
+          ],
+          "auxiliary": [
+            46,
+            79,
+            17
+          ],
+          "surface": [
+            63,
+            60
+          ],
+          "decisive_operation": "자기성격·판단·책임이라는보기틀에주인공의야망과최종선택을대응.",
+          "competitor_refutations": [
+            {
+              "code": 79,
+              "reason": "도덕의무인지여부는핵심근거지만도덕규범의옳고그름을새로판정하지않는다."
+            },
+            {
+              "code": 46,
+              "reason": "부인의영향이라는원인이있어도책임이외부로전부이전된다는결론은아니다."
+            },
+            {
+              "code": 63,
+              "reason": "비극이론을반박·강화하는자료가아니라제시장면을이론에적용한다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G339",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWZ": [
+      {
+        "line": 4883,
+        "record_id": "AWZ-independent_code-20260928-01",
+        "case": "AWZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            40,
+            17
+          ],
+          "auxiliary": [
+            16,
+            39
+          ],
+          "surface": [
+            86,
+            41
+          ],
+          "decisive_operation": "외곽층평균과하위층각각의밀도를구분하고층별성분을도식에귀속.",
+          "competitor_refutations": [
+            {
+              "code": 41,
+              "reason": "부분→전체의결합오류가아니라전체평균→부분상속이라는반대방향이다.같은부분전체군으로만보존."
+            },
+            {
+              "code": 86,
+              "reason": "밀도크기비교전에평균의대상범위를고정해야함."
+            },
+            {
+              "code": 49,
+              "reason": "밀도와층두께의방향관계는있으나②는평균귀속오류."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G340",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "AWY_view": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G339_visual01.md",
+    "method": "기존 보기 전사 전체 직접 열람",
+    "criteria": [
+      "성격·행동의 결함이 비극적 운명을 초래",
+      "외적 적대뿐 아니라 내적 갈등을 겪음",
+      "스스로 판단해 파국으로 가는 길을 선택하고 책임짐"
+    ]
+  },
+  "AWZ_visual": {
+    "source": "data/기본기_연구/prepared_backlog/blind_sources/G340_visual01.tif",
+    "display": "분석/패턴_종합연구/20261012_question_backfill_01/AWZ_visual01.png",
+    "method": "원TIFF를 새 폴더에 무손실PNG로 변환해 주 에이전트 직접 열람",
+    "observations": [
+      "바깥부터ㄱ지각,ㄴ맨틀,ㄷ반지각,ㄹ액체핵,ㅁ고체핵으로 본문 성분·층위와 대응된다.",
+      "410km 외곽층 표시는ㄱㄴㄷ을 포함하는 바깥 층까지이다.",
+      "2030km 핵 반경은ㄹㅁ의 영역이다.",
+      "반지각 띠는 하부 맨틀 위치의 별도 회색 띠로 나타나며 지각과 구분된다."
+    ],
+    "limit": "도식의 실제 픽셀 비율로 개별 층 밀도·정확 두께를 역산하지 않음."
+  }
+}

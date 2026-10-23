@@ -1,0 +1,254 @@
+{"scene_id": "JN-option-1", "case_id": "JN", "evidence_id": "G064-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "두 눈이 있더라도 시야가 거의 겹치지 않는 동물은 양안 대신 단안 단서를 활용한다."}
+{"scene_id": "JN-option-2", "case_id": "JN", "evidence_id": "G064-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "한 눈으로 확보하는 단서와 경험의 추론만으로 입체 지각이 가능하다."}
+{"scene_id": "JN-option-3", "case_id": "JN", "evidence_id": "G064-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "유사한 상과 시차가 함께 제시된다. 비슷함은 동일함을 뜻하지 않는다."}
+{"scene_id": "JN-option-4", "case_id": "JN", "evidence_id": "G064-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "직선 원근을 단안 단서로 명시하므로 두 눈 조합을 필요 조건으로 부과할 수 없다."}
+{"scene_id": "JN-option-4", "case_id": "JN", "evidence_id": "G064-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "직선 원근을 단안 단서로 명시하므로 두 눈 조합을 필요 조건으로 부과할 수 없다."}
+{"scene_id": "JN-option-5", "case_id": "JN", "evidence_id": "G064-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "새의 머리 운동과 기차 탑승 모두 관찰자가 움직이고 대상은 정지한다."}
+{"scene_id": "JN-option-5", "case_id": "JN", "evidence_id": "G064-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "새의 머리 운동과 기차 탑승 모두 관찰자가 움직이고 대상은 정지한다."}
+{"scene_id": "JN-decision", "case_id": "JN", "evidence_id": "G064-E1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JN-decision", "case_id": "JN", "evidence_id": "G064-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JN-decision", "case_id": "JN", "evidence_id": "G064-E4", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JN-decision", "case_id": "JN", "evidence_id": "G064-E8", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JN-decision", "case_id": "JN", "evidence_id": "G064-E9", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JO-option-1", "case_id": "JO", "evidence_id": "G064-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "관찰자 이동+정지 대상이라는 조건이 일치한다. 입체 지각 목적이라면이라는 단서 때문에 실제 동물의 의도를 추가로 단정하지 않는다."}
+{"scene_id": "JO-option-2", "case_id": "JO", "evidence_id": "G064-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "눈이 좌우에 있으면 양안 활용이 어려운 조건이다. 그 조건을 양안 단서 확보의 근거로 뒤집었다."}
+{"scene_id": "JO-option-3", "case_id": "JO", "evidence_id": "G064-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "멀수록 천천히 움직여 보이는 방향을 빠르게로 반전했다."}
+{"scene_id": "JO-option-4", "case_id": "JO", "evidence_id": "G064-E5", "relation": "선지 지지·반박·미확정의 근거", "reason": "시간에 따른 한 공의 크기 변화는 같은 면에 동시에 분포한 여러 대상의 크기 차이가 아니다."}
+{"scene_id": "JO-option-5", "case_id": "JO", "evidence_id": "G064-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "상대 크기는 단안 단서이므로 한 눈 가림만으로 도망 반응이 없어질 것이라고 보장할 수 없다."}
+{"scene_id": "JO-option-5", "case_id": "JO", "evidence_id": "G064-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "상대 크기는 단안 단서이므로 한 눈 가림만으로 도망 반응이 없어질 것이라고 보장할 수 없다."}
+{"scene_id": "JO-decision", "case_id": "JO", "evidence_id": "G064-E3", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JO-decision", "case_id": "JO", "evidence_id": "G064-E5", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JO-decision", "case_id": "JO", "evidence_id": "G064-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JO-decision", "case_id": "JO", "evidence_id": "G064-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "JO-decision", "case_id": "JO", "evidence_id": "G064-E8", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NK-option-1", "case_id": "NK", "evidence_id": "G095-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠은 누적을 인정하고 ㉡은 단순 개별 누적을 부정한다."}
+{"scene_id": "NK-option-1", "case_id": "NK", "evidence_id": "G095-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠은 누적을 인정하고 ㉡은 단순 개별 누적을 부정한다."}
+{"scene_id": "NK-option-2", "case_id": "NK", "evidence_id": "G095-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠의 가설 시험과 ㉡의 전체 지식 시험 모두 관찰·실험의 경험을 필요로 한다."}
+{"scene_id": "NK-option-2", "case_id": "NK", "evidence_id": "G095-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠의 가설 시험과 ㉡의 전체 지식 시험 모두 관찰·실험의 경험을 필요로 한다."}
+{"scene_id": "NK-option-3", "case_id": "NK", "evidence_id": "G095-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠은 경험 무관 지식을 인정하고 ㉡은 중심 지식도 경험과 무관하지 않다고 본다."}
+{"scene_id": "NK-option-4", "case_id": "NK", "evidence_id": "G095-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠은 가설로부터 도출을 제시한다. ㉡은 가설만으로 부족하며 기존 지식과 조건을 합쳐야 한다고 본다."}
+{"scene_id": "NK-option-4", "case_id": "NK", "evidence_id": "G095-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠은 가설로부터 도출을 제시한다. ㉡은 가설만으로 부족하며 기존 지식과 조건을 합쳐야 한다고 본다."}
+{"scene_id": "NK-option-5", "case_id": "NK", "evidence_id": "G095-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠은 종류를 나누고 ㉡은 중심·주변의 명확한 종류 구분을 부정한다."}
+{"scene_id": "NK-option-5", "case_id": "NK", "evidence_id": "G095-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠은 종류를 나누고 ㉡은 중심·주변의 명확한 종류 구분을 부정한다."}
+{"scene_id": "NK-decision", "case_id": "NK", "evidence_id": "G095-E1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NK-decision", "case_id": "NK", "evidence_id": "G095-E3", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NK-decision", "case_id": "NK", "evidence_id": "G095-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NK-decision", "case_id": "NK", "evidence_id": "G095-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NL-option-1", "case_id": "NL", "evidence_id": "G095-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "포퍼의 기준은 틀리지 않는 한이다. 맞을 경우를 더 우선한다고 비교할 근거가 없다."}
+{"scene_id": "NL-option-2", "case_id": "NL", "evidence_id": "G095-E12", "relation": "선지 지지·반박·미확정의 근거", "reason": "총각 조사는 경험 조사이며, 본문은 동의 표현을 통한 동어 반복 환원을 설명한다."}
+{"scene_id": "NL-option-3", "case_id": "NL", "evidence_id": "G095-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "콰인은 경험과 먼 정도가 달라도 근본적으로 다른 종류로 나누지 않는다."}
+{"scene_id": "NL-option-3", "case_id": "NL", "evidence_id": "G095-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "콰인은 경험과 먼 정도가 달라도 근본적으로 다른 종류로 나누지 않는다."}
+{"scene_id": "NL-option-4", "case_id": "NL", "evidence_id": "G095-E5", "relation": "선지 지지·반박·미확정의 근거", "reason": "분석 명제→동의 표현→필연성→분석 명제의 의존 순환을 보존한다."}
+{"scene_id": "NL-option-4", "case_id": "NL", "evidence_id": "G095-E12", "relation": "선지 지지·반박·미확정의 근거", "reason": "분석 명제→동의 표현→필연성→분석 명제의 의존 순환을 보존한다."}
+{"scene_id": "NL-option-4", "case_id": "NL", "evidence_id": "G095-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "분석 명제→동의 표현→필연성→분석 명제의 의존 순환을 보존한다."}
+{"scene_id": "NL-option-5", "case_id": "NL", "evidence_id": "G095-E12", "relation": "선지 지지·반박·미확정의 근거", "reason": "본문의 동의 표현·진릿값 보존 조건과 반대로 의미도 다르고 진릿값도 바뀌는 표현을 제시한다. 동어 반복의 충분조건이 아니다."}
+{"scene_id": "NL-option-5", "case_id": "NL", "evidence_id": "G095-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "본문의 동의 표현·진릿값 보존 조건과 반대로 의미도 다르고 진릿값도 바뀌는 표현을 제시한다. 동어 반복의 충분조건이 아니다."}
+{"scene_id": "NL-decision", "case_id": "NL", "evidence_id": "G095-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NL-decision", "case_id": "NL", "evidence_id": "G095-E5", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NL-decision", "case_id": "NL", "evidence_id": "G095-E12", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NL-decision", "case_id": "NL", "evidence_id": "G095-E13", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NM-option-1", "case_id": "NM", "evidence_id": "G095-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "결합 입력의 도출 실패이므로 ⓐ만 원인이라고 확정할 수 없다."}
+{"scene_id": "NM-option-2", "case_id": "NM", "evidence_id": "G095-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "수정 위치는 원칙적으로 열려 있으며 실용적 필요가 선택에 관여한다."}
+{"scene_id": "NM-option-2", "case_id": "NM", "evidence_id": "G095-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "수정 위치는 원칙적으로 열려 있으며 실용적 필요가 선택에 관여한다."}
+{"scene_id": "NM-option-3", "case_id": "NM", "evidence_id": "G095-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "ⓐ와 배경 지식·조건을 포함하는 ⓒ를 결합하면 ⓑ를 논리적으로 도출한다. 집합이 중첩된다고 도출 자체가 부정되지는 않는다."}
+{"scene_id": "NM-option-4", "case_id": "NM", "evidence_id": "G095-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "관찰되는 팽창 예측의 실패는 경험과 직접 만나는 주변부의 충돌에 해당한다."}
+{"scene_id": "NM-option-4", "case_id": "NM", "evidence_id": "G095-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "관찰되는 팽창 예측의 실패는 경험과 직접 만나는 주변부의 충돌에 해당한다."}
+{"scene_id": "NM-option-5", "case_id": "NM", "evidence_id": "G095-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "다른 지식·조건을 조정해 실용적으로 필요한 가설을 받아들일 수 있다는 설명과 정면으로 충돌한다."}
+{"scene_id": "NM-decision", "case_id": "NM", "evidence_id": "G095-E3", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NM-decision", "case_id": "NM", "evidence_id": "G095-E4", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NM-decision", "case_id": "NM", "evidence_id": "G095-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NM-decision", "case_id": "NM", "evidence_id": "G095-E8", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NM-decision", "case_id": "NM", "evidence_id": "G095-E9", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NN-option-1", "case_id": "NN", "evidence_id": "G095-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "총체주의 자신의 예측 실패-가설 단정 불가 설명에 동의한다."}
+{"scene_id": "NN-option-2", "case_id": "NN", "evidence_id": "G095-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "중심부라도 경험과 무관하지 않다는 본문의 입장에 동의한다."}
+{"scene_id": "NN-option-3", "case_id": "NN", "evidence_id": "G095-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "총체주의는 중심부도 수정 가능하다고 하므로 주변부 한정이라는 비판 대상이 없다."}
+{"scene_id": "NN-option-4", "case_id": "NN", "evidence_id": "G095-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "수정 파급의 비대칭은 본문 설명과 양립한다. 종류 구분 부정이나 전체 시험을 반박하지 않는다."}
+{"scene_id": "NN-option-5", "case_id": "NN", "evidence_id": "G095-E10", "relation": "선지 지지·반박·미확정의 근거", "reason": "경계가 불명확해도 다른 종류인 중심 지식이 있다는 주장은 분석 명제 구분을 회복시켜 콰인의 핵심 주장과 충돌한다."}
+{"scene_id": "NN-option-5", "case_id": "NN", "evidence_id": "G095-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "경계가 불명확해도 다른 종류인 중심 지식이 있다는 주장은 분석 명제 구분을 회복시켜 콰인의 핵심 주장과 충돌한다."}
+{"scene_id": "NN-decision", "case_id": "NN", "evidence_id": "G095-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NN-decision", "case_id": "NN", "evidence_id": "G095-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NN-decision", "case_id": "NN", "evidence_id": "G095-E10", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "NO-option-1", "case_id": "NO", "evidence_id": "G095-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "잇따른다는 연속하여 뒤따름이며 결론에 이르는 동작을 나타내지 않는다."}
+{"scene_id": "NO-option-2", "case_id": "NO", "evidence_id": "G095-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "결론을 목적지로 삼아 이른다는 의미·결합이 유지된다."}
+{"scene_id": "NO-option-3", "case_id": "NO", "evidence_id": "G095-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "봉착은 곤란 등에 맞닥뜨리는 문맥이며 제시된 결론 도출 기능과 다르다."}
+{"scene_id": "NO-option-4", "case_id": "NO", "evidence_id": "G095-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "회귀는 앞선 위치로 돌아가는 방향을 추가한다. 본문은 새 결론 도출이다."}
+{"scene_id": "NO-option-5", "case_id": "NO", "evidence_id": "G095-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "기인은 결론을 원인으로 삼는 방향이 되어 결론에 이른다는 결과 도출과 다르다."}
+{"scene_id": "NO-decision", "case_id": "NO", "evidence_id": "G095-E11", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RV-option-1", "case_id": "RV", "evidence_id": "G119-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "첫 패드는 시료를 흡수하고 마지막 패드는 여분 시료를 흡수한다. 위치는 다르지만 흡수라는 공통 기능이 있다."}
+{"scene_id": "RV-option-2", "case_id": "RV", "evidence_id": "G119-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "검출 목표는 특이 항체와 결합하는 대상으로서 항원의 역할이다."}
+{"scene_id": "RV-option-2", "case_id": "RV", "evidence_id": "G119-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "검출 목표는 특이 항체와 결합하는 대상으로서 항원의 역할이다."}
+{"scene_id": "RV-option-3", "case_id": "RV", "evidence_id": "G119-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "검사선 부재와 정상 진행 표준선은 독립적으로 판독한다. 경쟁 방식의 정상 검사로 직접 반례를 만들 수 있다."}
+{"scene_id": "RV-option-3", "case_id": "RV", "evidence_id": "G119-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "검사선 부재와 정상 진행 표준선은 독립적으로 판독한다. 경쟁 방식의 정상 검사로 직접 반례를 만들 수 있다."}
+{"scene_id": "RV-option-4", "case_id": "RV", "evidence_id": "G119-E5", "relation": "선지 지지·반박·미확정의 근거", "reason": "본문의 시각 확인은 표지 물질의 발색에 의존한다. 이를 제거하면 본문에 제시된 시각 신호가 없어진다."}
+{"scene_id": "RV-option-5", "case_id": "RV", "evidence_id": "G119-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "경쟁 방식에서는 목표 부재 때 표지 복합체의 결합이 가능하다. 직접 방식에도 현실의 위양성이 있을 수 있다."}
+{"scene_id": "RV-option-5", "case_id": "RV", "evidence_id": "G119-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "경쟁 방식에서는 목표 부재 때 표지 복합체의 결합이 가능하다. 직접 방식에도 현실의 위양성이 있을 수 있다."}
+{"scene_id": "RV-option-5", "case_id": "RV", "evidence_id": "G119-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "경쟁 방식에서는 목표 부재 때 표지 복합체의 결합이 가능하다. 직접 방식에도 현실의 위양성이 있을 수 있다."}
+{"scene_id": "RV-decision", "case_id": "RV", "evidence_id": "G119-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RV-decision", "case_id": "RV", "evidence_id": "G119-E4", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RV-decision", "case_id": "RV", "evidence_id": "G119-E5", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RV-decision", "case_id": "RV", "evidence_id": "G119-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RV-decision", "case_id": "RV", "evidence_id": "G119-E9", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RV-decision", "case_id": "RV", "evidence_id": "G119-E11", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RW-option-1", "case_id": "RW", "evidence_id": "G119-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "직접 방식의 첫 항원-항체 결합은 검사선 이전에 일어난다. 경쟁 방식의 결합 패드 복합체에는 항체가 없다."}
+{"scene_id": "RW-option-1", "case_id": "RW", "evidence_id": "G119-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "직접 방식의 첫 항원-항체 결합은 검사선 이전에 일어난다. 경쟁 방식의 결합 패드 복합체에는 항체가 없다."}
+{"scene_id": "RW-option-2", "case_id": "RW", "evidence_id": "G119-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "직접 검출은 검사선의 고정 항체와 목표 성분 결합을 포함한다."}
+{"scene_id": "RW-option-3", "case_id": "RW", "evidence_id": "G119-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "검사선이 표준선보다 먼저라는 공간 순서는 두 방식의 공통 구조이다."}
+{"scene_id": "RW-option-4", "case_id": "RW", "evidence_id": "G119-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "경쟁 방식의 검사선 무색은 반응막의 모든 선이 무색임을 뜻하지 않는다. 정상 진행 표준선은 남는다."}
+{"scene_id": "RW-option-4", "case_id": "RW", "evidence_id": "G119-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "경쟁 방식의 검사선 무색은 반응막의 모든 선이 무색임을 뜻하지 않는다. 정상 진행 표준선은 남는다."}
+{"scene_id": "RW-option-5", "case_id": "RW", "evidence_id": "G119-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "직접 방식에서는 표지에 붙은 항체가 항원과 반응한다. 경쟁 방식에서는 표지에 붙은 목표와 시료 목표가 경쟁한다. 표지 자체와의 항원-항체 반응이라는 공통 진술은 잘못이다."}
+{"scene_id": "RW-option-5", "case_id": "RW", "evidence_id": "G119-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "직접 방식에서는 표지에 붙은 항체가 항원과 반응한다. 경쟁 방식에서는 표지에 붙은 목표와 시료 목표가 경쟁한다. 표지 자체와의 항원-항체 반응이라는 공통 진술은 잘못이다."}
+{"scene_id": "RW-option-5", "case_id": "RW", "evidence_id": "G119-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "직접 방식에서는 표지에 붙은 항체가 항원과 반응한다. 경쟁 방식에서는 표지에 붙은 목표와 시료 목표가 경쟁한다. 표지 자체와의 항원-항체 반응이라는 공통 진술은 잘못이다."}
+{"scene_id": "RW-decision", "case_id": "RW", "evidence_id": "G119-E3", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RW-decision", "case_id": "RW", "evidence_id": "G119-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RW-decision", "case_id": "RW", "evidence_id": "G119-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RW-decision", "case_id": "RW", "evidence_id": "G119-E8", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RX-option-1", "case_id": "RX", "evidence_id": "G119-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "①에 보이는 A=진양성은 적을수록 민감도가 높다는 방향과 맞지 않는다. B는 확인 불가."}
+{"scene_id": "RX-option-2", "case_id": "RX", "evidence_id": "G119-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "②도 A=진양성이다. B 누락 때문에 전체 조합은 읽지 못했다."}
+{"scene_id": "RX-option-3", "case_id": "RX", "evidence_id": "G119-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "③의 A=위양성은 실제 부재 집단의 오류이며 민감도의 분모에 포함되지 않는다."}
+{"scene_id": "RX-option-3", "case_id": "RX", "evidence_id": "G119-E14", "relation": "선지 지지·반박·미확정의 근거", "reason": "③의 A=위양성은 실제 부재 집단의 오류이며 민감도의 분모에 포함되지 않는다."}
+{"scene_id": "RX-option-4", "case_id": "RX", "evidence_id": "G119-E12", "relation": "선지 지지·반박·미확정의 근거", "reason": "④의 A=위음성은 맞지만 B가 진음성인지 확인할 자료가 없다."}
+{"scene_id": "RX-option-4", "case_id": "RX", "evidence_id": "G119-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "④의 A=위음성은 맞지만 B가 진음성인지 확인할 자료가 없다."}
+{"scene_id": "RX-option-5", "case_id": "RX", "evidence_id": "G119-E12", "relation": "선지 지지·반박·미확정의 근거", "reason": "⑤의 A=위음성도 맞으므로 ④와의 번호 결정이 불가능하다."}
+{"scene_id": "RX-option-5", "case_id": "RX", "evidence_id": "G119-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "⑤의 A=위음성도 맞으므로 ④와의 번호 결정이 불가능하다."}
+{"scene_id": "RX-decision", "case_id": "RX", "evidence_id": "G119-E11", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RX-decision", "case_id": "RX", "evidence_id": "G119-E12", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RX-decision", "case_id": "RX", "evidence_id": "G119-E13", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RX-decision", "case_id": "RX", "evidence_id": "G119-E14", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RY-option-1", "case_id": "RY", "evidence_id": "G119-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "균에 특이적으로 결합하는 항체를 만드는 기술이 직접 방식 제작의 전제가 된다."}
+{"scene_id": "RY-option-1", "case_id": "RY", "evidence_id": "G119-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "균에 특이적으로 결합하는 항체를 만드는 기술이 직접 방식 제작의 전제가 된다."}
+{"scene_id": "RY-option-2", "case_id": "RY", "evidence_id": "G119-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "세균 검출의 직접 방식은 표지에 항체가 붙은 복합체이다. 균 자체가 붙은 형태는 경쟁 방식의 설명이다."}
+{"scene_id": "RY-option-2", "case_id": "RY", "evidence_id": "G119-E10", "relation": "선지 지지·반박·미확정의 근거", "reason": "세균 검출의 직접 방식은 표지에 항체가 붙은 복합체이다. 균 자체가 붙은 형태는 경쟁 방식의 설명이다."}
+{"scene_id": "RY-option-3", "case_id": "RY", "evidence_id": "G119-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "LFIA는 액상 시료의 목표 성분을 검출하므로 음식물 검사를 위해 액상 시료가 필요하다."}
+{"scene_id": "RY-option-4", "case_id": "RY", "evidence_id": "G119-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "감염 속도가 빠르고 의심 시료를 선별해 재검사하므로 실제 오염의 놓침을 줄이는 민감도를 우선한다. 모든 상황에서 특이도보다 수치가 반드시 커야 한다는 일반 법칙은 아니다."}
+{"scene_id": "RY-option-4", "case_id": "RY", "evidence_id": "G119-E16", "relation": "선지 지지·반박·미확정의 근거", "reason": "감염 속도가 빠르고 의심 시료를 선별해 재검사하므로 실제 오염의 놓침을 줄이는 민감도를 우선한다. 모든 상황에서 특이도보다 수치가 반드시 커야 한다는 일반 법칙은 아니다."}
+{"scene_id": "RY-option-5", "case_id": "RY", "evidence_id": "G119-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "키트의 양성에 실제 목표 부재인 위양성이 포함될 수 있어 후속 확인에서 검출되지 않을 수 있다."}
+{"scene_id": "RY-decision", "case_id": "RY", "evidence_id": "G119-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RY-decision", "case_id": "RY", "evidence_id": "G119-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RY-decision", "case_id": "RY", "evidence_id": "G119-E10", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RY-decision", "case_id": "RY", "evidence_id": "G119-E11", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RY-decision", "case_id": "RY", "evidence_id": "G119-E13", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "RY-decision", "case_id": "RY", "evidence_id": "G119-E16", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YR-option-1", "case_id": "YR", "evidence_id": "G157-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "1950년대라는 시기는 있지만 사회적 배경을 분석하는 설명은 없다."}
+{"scene_id": "YR-option-2", "case_id": "YR", "evidence_id": "G157-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "후속 연구가 앞선 연구의 한계를 지적하고 종합하는 연결이 명시된다."}
+{"scene_id": "YR-option-2", "case_id": "YR", "evidence_id": "G157-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "후속 연구가 앞선 연구의 한계를 지적하고 종합하는 연결이 명시된다."}
+{"scene_id": "YR-option-3", "case_id": "YR", "evidence_id": "G157-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "감정 중심 연구의 한계를 비판하지, 연구들을 분류하는 기준의 문제를 검토하지 않는다."}
+{"scene_id": "YR-option-4", "case_id": "YR", "evidence_id": "G157-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "후속 연구의 의의를 말하지만 남은 연구 과제를 특정해 제시하지 않는다."}
+{"scene_id": "YR-option-5", "case_id": "YR", "evidence_id": "G157-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "연구 비판·진전은 있으나 연구자들이 봉착한 난관과 극복 과정을 중심으로 조직한 글은 아니다."}
+{"scene_id": "YR-option-5", "case_id": "YR", "evidence_id": "G157-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "연구 비판·진전은 있으나 연구자들이 봉착한 난관과 극복 과정을 중심으로 조직한 글은 아니다."}
+{"scene_id": "YR-option-5", "case_id": "YR", "evidence_id": "G157-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "연구 비판·진전은 있으나 연구자들이 봉착한 난관과 극복 과정을 중심으로 조직한 글은 아니다."}
+{"scene_id": "YR-decision", "case_id": "YR", "evidence_id": "G157-E1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YR-decision", "case_id": "YR", "evidence_id": "G157-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YR-decision", "case_id": "YR", "evidence_id": "G157-E8", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YS-option-1", "case_id": "YS", "evidence_id": "G157-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "공포 소구 수준을 세 가지로 달리하고 설득 효과를 확인했다."}
+{"scene_id": "YS-option-2", "case_id": "YS", "evidence_id": "G157-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "레벤달은 기존 감정 중심 설명에 인지적 반응도 포함해야 한다고 본다."}
+{"scene_id": "YS-option-3", "case_id": "YS", "evidence_id": "G157-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "권고 따르기와 연결된 것은 위험 통제이며 공포 통제는 위험 무시이다."}
+{"scene_id": "YS-option-4", "case_id": "YS", "evidence_id": "G157-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "위험이 영향을 주지 않는다고 느끼는 낮은 위협은 권고 수행이 아니라 무반응을 낳는다."}
+{"scene_id": "YS-option-5", "case_id": "YS", "evidence_id": "G157-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "위협은 위험 가능성·크기, 효능감은 예방 가능성·실행 능력으로 각각 정의된다. 효능감의 높낮음으로 위협 정의를 바꾸지 않는다."}
+{"scene_id": "YS-option-5", "case_id": "YS", "evidence_id": "G157-E5", "relation": "선지 지지·반박·미확정의 근거", "reason": "위협은 위험 가능성·크기, 효능감은 예방 가능성·실행 능력으로 각각 정의된다. 효능감의 높낮음으로 위협 정의를 바꾸지 않는다."}
+{"scene_id": "YS-decision", "case_id": "YS", "evidence_id": "G157-E1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YS-decision", "case_id": "YS", "evidence_id": "G157-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YS-decision", "case_id": "YS", "evidence_id": "G157-E3", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YS-decision", "case_id": "YS", "evidence_id": "G157-E4", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YS-decision", "case_id": "YS", "evidence_id": "G157-E5", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YS-decision", "case_id": "YS", "evidence_id": "G157-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YT-option-1", "case_id": "YT", "evidence_id": "G157-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "이 모형에서 무반응을 낳는 두 조건은 모두 낮은 위협이다."}
+{"scene_id": "YT-option-1", "case_id": "YT", "evidence_id": "G157-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "이 모형에서 무반응을 낳는 두 조건은 모두 낮은 위협이다."}
+{"scene_id": "YT-option-2", "case_id": "YT", "evidence_id": "G157-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "위험 통제인 집단3은 효능감이 높다."}
+{"scene_id": "YT-option-3", "case_id": "YT", "evidence_id": "G157-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "공포 통제인 집단4는 위협 높음·효능감 낮음이므로 두 수준이 다르다."}
+{"scene_id": "YT-option-4", "case_id": "YT", "evidence_id": "G157-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "집단2는 낮은 위협, 집단4는 높은 위협이다."}
+{"scene_id": "YT-option-4", "case_id": "YT", "evidence_id": "G157-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "집단2는 낮은 위협, 집단4는 높은 위협이다."}
+{"scene_id": "YT-option-5", "case_id": "YT", "evidence_id": "G157-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "집단3 효능감은 높고 집단4 효능감은 낮다."}
+{"scene_id": "YT-decision", "case_id": "YT", "evidence_id": "G157-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YT-decision", "case_id": "YT", "evidence_id": "G157-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YU-option-1", "case_id": "YU", "evidence_id": "G157-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "감정 측면에 치우쳤다는 비판은 감정 쪽으로 편향되었다는 표현과 맞는다."}
+{"scene_id": "YU-option-2", "case_id": "YU", "evidence_id": "G157-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "반응에 이름을 붙이는 행위이므로 명명이 맞다."}
+{"scene_id": "YU-option-3", "case_id": "YU", "evidence_id": "G157-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "해로운 위험을 겪는 가능성은 문맥상 경험할 가능성과 대응한다."}
+{"scene_id": "YU-option-4", "case_id": "YU", "evidence_id": "G157-E10", "relation": "선지 지지·반박·미확정의 근거", "reason": "안내문을 회원들에게 보내는 것은 발송으로 바꿀 수 있다."}
+{"scene_id": "YU-option-5", "case_id": "YU", "evidence_id": "G157-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "아무 영향을 주지 않는다는 중립 영향의 부재를 긍정적 보탬을 뜻하는 기여로 바꾸면 의미가 달라진다. 영향을 기여하지라는 목적어 결합도 부자연스럽다."}
+{"scene_id": "YU-decision", "case_id": "YU", "evidence_id": "G157-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YU-decision", "case_id": "YU", "evidence_id": "G157-E4", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YU-decision", "case_id": "YU", "evidence_id": "G157-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YU-decision", "case_id": "YU", "evidence_id": "G157-E9", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "YU-decision", "case_id": "YU", "evidence_id": "G157-E10", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYE-option-1", "case_id": "AYE", "evidence_id": "G350-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "조건 하나가 충족되지 않은 제약 아래 나머지 최적 조건만 만족시켜도 가능한 최선의 차선 상태가 보장되지 않는다."}
+{"scene_id": "AYE-option-2", "case_id": "AYE", "evidence_id": "G350-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "전체 제약이 남으므로 기존 일부 조건을 유지할지 새 조건으로 재구성할지 검토해야 한다."}
+{"scene_id": "AYE-option-2", "case_id": "AYE", "evidence_id": "G350-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "전체 제약이 남으므로 기존 일부 조건을 유지할지 새 조건으로 재구성할지 검토해야 한다."}
+{"scene_id": "AYE-option-3", "case_id": "AYE", "evidence_id": "G350-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "왜곡 시정 중 다른 왜곡이 생길 수 있어 전체 개선과 일부 부문 악화가 양립한다."}
+{"scene_id": "AYE-option-4", "case_id": "AYE", "evidence_id": "G350-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "왜곡의 이동과 상품-여가 상호 영향은 독립적인 부문의 단순 합이 아님을 보여 준다."}
+{"scene_id": "AYE-option-4", "case_id": "AYE", "evidence_id": "G350-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "왜곡의 이동과 상품-여가 상호 영향은 독립적인 부문의 단순 합이 아님을 보여 준다."}
+{"scene_id": "AYE-option-5", "case_id": "AYE", "evidence_id": "G350-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "일부 결함이 남은 상황에서 제거되는 결함 수와 효율의 비례 상승은 보장되지 않는다."}
+{"scene_id": "AYE-decision", "case_id": "AYE", "evidence_id": "G350-E1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYE-decision", "case_id": "AYE", "evidence_id": "G350-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYE-decision", "case_id": "AYE", "evidence_id": "G350-E3", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYF-option-1", "case_id": "AYF", "evidence_id": "G350-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "전후 모두 C에서 수입해 공급원 변화가 없다."}
+{"scene_id": "AYF-option-2", "case_id": "AYF", "evidence_id": "G350-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "최저비용 비동맹 C→비용이 더 높은 동맹 B로 이동해 효율 감소의 무역전환을 이룬다."}
+{"scene_id": "AYF-option-3", "case_id": "AYF", "evidence_id": "G350-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "A·B가 C보다 비싸다는 사실만으로 A와 B 중 어느 쪽이 더 비싼지 알 수 없다. A 자체생산→B 수입의 효율 저하를 입증하지 못한다."}
+{"scene_id": "AYF-option-3", "case_id": "AYF", "evidence_id": "G350-E10", "relation": "선지 지지·반박·미확정의 근거", "reason": "A·B가 C보다 비싸다는 사실만으로 A와 B 중 어느 쪽이 더 비싼지 알 수 없다. A 자체생산→B 수입의 효율 저하를 입증하지 못한다."}
+{"scene_id": "AYF-option-4", "case_id": "AYF", "evidence_id": "G350-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "전후 모두 최저비용 B에서 수입하므로 비용 증가 전환이 없다."}
+{"scene_id": "AYF-option-5", "case_id": "AYF", "evidence_id": "G350-E10", "relation": "선지 지지·반박·미확정의 근거", "reason": "최저비용 A가 공급원이 되므로 B의 높은 비용 생산을 더 낮은 비용 공급원으로 대체하는 효율 증대이다."}
+{"scene_id": "AYF-decision", "case_id": "AYF", "evidence_id": "G350-E4", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYF-decision", "case_id": "AYF", "evidence_id": "G350-E5", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYF-decision", "case_id": "AYF", "evidence_id": "G350-E10", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYG-option-1", "case_id": "AYG", "evidence_id": "G350-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "핸더슨은 여가 영향을 제외해 상품 상대가격을 보존하는 직접세 ㉰를 단일상품 간접세 ㉯보다 낫게 본다."}
+{"scene_id": "AYG-option-1", "case_id": "AYG", "evidence_id": "G350-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "핸더슨은 여가 영향을 제외해 상품 상대가격을 보존하는 직접세 ㉰를 단일상품 간접세 ㉯보다 낫게 본다."}
+{"scene_id": "AYG-option-1", "case_id": "AYG", "evidence_id": "G350-V1", "relation": "선지 지지·반박·미확정의 근거", "reason": "핸더슨은 여가 영향을 제외해 상품 상대가격을 보존하는 직접세 ㉰를 단일상품 간접세 ㉯보다 낫게 본다."}
+{"scene_id": "AYG-option-2", "case_id": "AYG", "evidence_id": "G350-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "전부 충족한 ㉮와 일부만 충족한 ㉰의 차이는 부분 조건의 개수와 전체 효율이 단조 관계가 아니라는 주장에 대한 증거가 아니다. 리틀의 직접 비교는 ㉯/㉰ 우열 불가이다."}
+{"scene_id": "AYG-option-2", "case_id": "AYG", "evidence_id": "G350-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "전부 충족한 ㉮와 일부만 충족한 ㉰의 차이는 부분 조건의 개수와 전체 효율이 단조 관계가 아니라는 주장에 대한 증거가 아니다. 리틀의 직접 비교는 ㉯/㉰ 우열 불가이다."}
+{"scene_id": "AYG-option-2", "case_id": "AYG", "evidence_id": "G350-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "전부 충족한 ㉮와 일부만 충족한 ㉰의 차이는 부분 조건의 개수와 전체 효율이 단조 관계가 아니라는 주장에 대한 증거가 아니다. 리틀의 직접 비교는 ㉯/㉰ 우열 불가이다."}
+{"scene_id": "AYG-option-2", "case_id": "AYG", "evidence_id": "G350-V1", "relation": "선지 지지·반박·미확정의 근거", "reason": "전부 충족한 ㉮와 일부만 충족한 ㉰의 차이는 부분 조건의 개수와 전체 효율이 단조 관계가 아니라는 주장에 대한 증거가 아니다. 리틀의 직접 비교는 ㉯/㉰ 우열 불가이다."}
+{"scene_id": "AYG-option-3", "case_id": "AYG", "evidence_id": "G350-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉯는 상품 간 관계, ㉰는 여가-상품 관계를 깨뜨려 둘의 효율 우열을 확정할 수 없다는 비판이 성립한다."}
+{"scene_id": "AYG-option-3", "case_id": "AYG", "evidence_id": "G350-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉯는 상품 간 관계, ㉰는 여가-상품 관계를 깨뜨려 둘의 효율 우열을 확정할 수 없다는 비판이 성립한다."}
+{"scene_id": "AYG-option-3", "case_id": "AYG", "evidence_id": "G350-V1", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉯는 상품 간 관계, ㉰는 여가-상품 관계를 깨뜨려 둘의 효율 우열을 확정할 수 없다는 비판이 성립한다."}
+{"scene_id": "AYG-option-4", "case_id": "AYG", "evidence_id": "G350-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "부분 조건 성립 수가 0인 ㉱가 1인 ㉰보다 나을 수 있다는 사례는 더 많은 조건이 전체 효율을 보장하지 않는다는 주장을 지지한다."}
+{"scene_id": "AYG-option-4", "case_id": "AYG", "evidence_id": "G350-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "부분 조건 성립 수가 0인 ㉱가 1인 ㉰보다 나을 수 있다는 사례는 더 많은 조건이 전체 효율을 보장하지 않는다는 주장을 지지한다."}
+{"scene_id": "AYG-option-4", "case_id": "AYG", "evidence_id": "G350-V1", "relation": "선지 지지·반박·미확정의 근거", "reason": "부분 조건 성립 수가 0인 ㉱가 1인 ㉰보다 나을 수 있다는 사례는 더 많은 조건이 전체 효율을 보장하지 않는다는 주장을 지지한다."}
+{"scene_id": "AYG-option-5", "case_id": "AYG", "evidence_id": "G350-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉱의 차등 간접세가 정해진 보완·경쟁 조건 아래 직접세 ㉰를 개선할 수 있어 간접세 우위의 사례가 될 수 있다."}
+{"scene_id": "AYG-option-5", "case_id": "AYG", "evidence_id": "G350-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉱의 차등 간접세가 정해진 보완·경쟁 조건 아래 직접세 ㉰를 개선할 수 있어 간접세 우위의 사례가 될 수 있다."}
+{"scene_id": "AYG-option-5", "case_id": "AYG", "evidence_id": "G350-V1", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉱의 차등 간접세가 정해진 보완·경쟁 조건 아래 직접세 ㉰를 개선할 수 있어 간접세 우위의 사례가 될 수 있다."}
+{"scene_id": "AYG-decision", "case_id": "AYG", "evidence_id": "G350-E1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYG-decision", "case_id": "AYG", "evidence_id": "G350-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYG-decision", "case_id": "AYG", "evidence_id": "G350-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYG-decision", "case_id": "AYG", "evidence_id": "G350-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYG-decision", "case_id": "AYG", "evidence_id": "G350-E8", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYG-decision", "case_id": "AYG", "evidence_id": "G350-V1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "AYG-decision", "case_id": "AYG", "evidence_id": "G350-V2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATN-option-1", "case_id": "ATN", "evidence_id": "G310-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "왕은 유생까지 고르게 부담시키려 하며 서민에게도 의견을 물었다."}
+{"scene_id": "ATN-option-1", "case_id": "ATN", "evidence_id": "G310-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "왕은 유생까지 고르게 부담시키려 하며 서민에게도 의견을 물었다."}
+{"scene_id": "ATN-option-1", "case_id": "ATN", "evidence_id": "G310-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "왕은 유생까지 고르게 부담시키려 하며 서민에게도 의견을 물었다."}
+{"scene_id": "ATN-option-2", "case_id": "ATN", "evidence_id": "G310-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "신하들이 제시한 안에 호포가 있었고 다수 유생·신료는 호전에 반대했다."}
+{"scene_id": "ATN-option-2", "case_id": "ATN", "evidence_id": "G310-E5", "relation": "선지 지지·반박·미확정의 근거", "reason": "신하들이 제시한 안에 호포가 있었고 다수 유생·신료는 호전에 반대했다."}
+{"scene_id": "ATN-option-2", "case_id": "ATN", "evidence_id": "G310-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "신하들이 제시한 안에 호포가 있었고 다수 유생·신료는 호전에 반대했다."}
+{"scene_id": "ATN-option-3", "case_id": "ATN", "evidence_id": "G310-E4", "relation": "선지 지지·반박·미확정의 근거", "reason": "감축 한 필과 납부 편의 찬성만으로 군포 무부담 기대 및 그 찬성 동기를 확정할 수 없다. 원래 군포 총량을 외부 역사 지식으로 채우지 않는다."}
+{"scene_id": "ATN-option-3", "case_id": "ATN", "evidence_id": "G310-E8", "relation": "선지 지지·반박·미확정의 근거", "reason": "감축 한 필과 납부 편의 찬성만으로 군포 무부담 기대 및 그 찬성 동기를 확정할 수 없다. 원래 군포 총량을 외부 역사 지식으로 채우지 않는다."}
+{"scene_id": "ATN-option-4", "case_id": "ATN", "evidence_id": "G310-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "왕이 유생의 명분 문란 우려를 인용해 답하므로 같은 호전 부담이 신분 질서를 흔든다는 반대가 확인된다."}
+{"scene_id": "ATN-option-5", "case_id": "ATN", "evidence_id": "G310-E12", "relation": "선지 지지·반박·미확정의 근거", "reason": "사관은 왕실 사적 비용 관청을 없애 사심 없음을 보여야 했다는 평가를 한다."}
+{"scene_id": "ATN-decision", "case_id": "ATN", "evidence_id": "G310-E2", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATN-decision", "case_id": "ATN", "evidence_id": "G310-E3", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATN-decision", "case_id": "ATN", "evidence_id": "G310-E4", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATN-decision", "case_id": "ATN", "evidence_id": "G310-E8", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATN-decision", "case_id": "ATN", "evidence_id": "G310-E12", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATO-option-1", "case_id": "ATO", "evidence_id": "G310-E2", "relation": "선지 지지·반박·미확정의 근거", "reason": "왕이 호포를 호전으로 바꾸려 했지만 반대자가 동전 대신 포로 거두자고 제안한 것은 아니다."}
+{"scene_id": "ATO-option-2", "case_id": "ATO", "evidence_id": "G310-E7", "relation": "선지 지지·반박·미확정의 근거", "reason": "대장에서 빠진 토지를 찾아내는 것은 토지 조사로 세원 누락을 메우는 대안이다."}
+{"scene_id": "ATO-option-3", "case_id": "ATO", "evidence_id": "G310-E3", "relation": "선지 지지·반박·미확정의 근거", "reason": "주인·노비의 고른 부담은 왕의 방안을 둘러싼 논쟁이며 반대자의 포 징수 대안으로 제시되지 않았다."}
+{"scene_id": "ATO-option-3", "case_id": "ATO", "evidence_id": "G310-E13", "relation": "선지 지지·반박·미확정의 근거", "reason": "주인·노비의 고른 부담은 왕의 방안을 둘러싼 논쟁이며 반대자의 포 징수 대안으로 제시되지 않았다."}
+{"scene_id": "ATO-option-4", "case_id": "ATO", "evidence_id": "G310-E9", "relation": "선지 지지·반박·미확정의 근거", "reason": "어염세를 줄이는 것이 아니라 그 수입으로 감축되는 베를 충당하자는 제안이다."}
+{"scene_id": "ATO-option-5", "case_id": "ATO", "evidence_id": "G310-E10", "relation": "선지 지지·반박·미확정의 근거", "reason": "청묘법은 호전의 더 큰 폐단을 예측하는 비유 근거이지 수정 시행할 정책 대안이 아니다."}
+{"scene_id": "ATO-decision", "case_id": "ATO", "evidence_id": "G310-E7", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATO-decision", "case_id": "ATO", "evidence_id": "G310-E9", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATO-decision", "case_id": "ATO", "evidence_id": "G310-E10", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATP-option-1", "case_id": "ATP", "evidence_id": "G310-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠과 ㉢은 기존 양민 군역의 부담을 가리킨다. 작다는 평가는 반대자의 비교일 뿐 지시 대상은 같다."}
+{"scene_id": "ATP-option-1", "case_id": "ATP", "evidence_id": "G310-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠과 ㉢은 기존 양민 군역의 부담을 가리킨다. 작다는 평가는 반대자의 비교일 뿐 지시 대상은 같다."}
+{"scene_id": "ATP-option-1", "case_id": "ATP", "evidence_id": "G310-E14", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉠과 ㉢은 기존 양민 군역의 부담을 가리킨다. 작다는 평가는 반대자의 비교일 뿐 지시 대상은 같다."}
+{"scene_id": "ATP-option-2", "case_id": "ATP", "evidence_id": "G310-E5", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉡은 새 과세 방안의 폐단이고 ㉣과 연결되지만 기존 군역인 ㉢까지 포함하는 범주라고 볼 근거가 없다."}
+{"scene_id": "ATP-option-2", "case_id": "ATP", "evidence_id": "G310-E14", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉡은 새 과세 방안의 폐단이고 ㉣과 연결되지만 기존 군역인 ㉢까지 포함하는 범주라고 볼 근거가 없다."}
+{"scene_id": "ATP-option-3", "case_id": "ATP", "evidence_id": "G310-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "작은 폐단은 새 토지 과세의 집중이 아니라 기존 양인 군역이다."}
+{"scene_id": "ATP-option-3", "case_id": "ATP", "evidence_id": "G310-E14", "relation": "선지 지지·반박·미확정의 근거", "reason": "작은 폐단은 새 토지 과세의 집중이 아니라 기존 양인 군역이다."}
+{"scene_id": "ATP-option-4", "case_id": "ATP", "evidence_id": "G310-E6", "relation": "선지 지지·반박·미확정의 근거", "reason": "큰 폐단은 앞으로 호전이 만들 부담이다. 기존 군역의 불균등과 대상·시점이 다르다."}
+{"scene_id": "ATP-option-4", "case_id": "ATP", "evidence_id": "G310-E14", "relation": "선지 지지·반박·미확정의 근거", "reason": "큰 폐단은 앞으로 호전이 만들 부담이다. 기존 군역의 불균등과 대상·시점이 다르다."}
+{"scene_id": "ATP-option-5", "case_id": "ATP", "evidence_id": "G310-E11", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉤은 회고문에서 왕이 처음 대책을 물은 기존 폐단을 가리키므로 향후 호전 폐단 ㉣과 같지 않다."}
+{"scene_id": "ATP-option-5", "case_id": "ATP", "evidence_id": "G310-E1", "relation": "선지 지지·반박·미확정의 근거", "reason": "㉤은 회고문에서 왕이 처음 대책을 물은 기존 폐단을 가리키므로 향후 호전 폐단 ㉣과 같지 않다."}
+{"scene_id": "ATP-decision", "case_id": "ATP", "evidence_id": "G310-E1", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATP-decision", "case_id": "ATP", "evidence_id": "G310-E5", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATP-decision", "case_id": "ATP", "evidence_id": "G310-E6", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATP-decision", "case_id": "ATP", "evidence_id": "G310-E11", "relation": "전체 풀이에 실제 활용"}
+{"scene_id": "ATP-decision", "case_id": "ATP", "evidence_id": "G310-E14", "relation": "전체 풀이에 실제 활용"}

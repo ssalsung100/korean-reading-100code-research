@@ -1,0 +1,28 @@
+{
+  "scope": "이번 작성 문항만 검사; 보호 원장 전수 검증 없음",
+  "case_ids": [
+    "AZH",
+    "AZO",
+    "AZP",
+    "AZS",
+    "AZU",
+    "AZV",
+    "AZZ",
+    "BAB",
+    "BAF",
+    "BAG",
+    "BAI",
+    "BAK",
+    "BAL",
+    "BEM",
+    "BEO",
+    "BET",
+    "BEX",
+    "BFE"
+  ],
+  "questions": 18,
+  "scenes": 27,
+  "options": 90,
+  "errors": [],
+  "pass": true
+}

@@ -1,0 +1,109 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AOG": [
+      {
+        "line": 3847,
+        "record_id": "AOG-independent_code-20260927-01",
+        "case": "AOG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:44:39.517331+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 64,
+              "reason": "글의문제는천리합일·도덕사회이며위상역전은제시되지않은과제"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 44,
+              "reason": "궁극적인격완성·도덕사회목적과수양방법연결"
+            },
+            {
+              "code": 80,
+              "reason": "주희에게실제제시된문제의식을귀속"
+            }
+          ],
+          "surface": [
+            {
+              "code": 82,
+              "reason": "천리와인도를대립시켜위상을전복하는변증법전개없음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 9,
+              "refutation": "선지에위상이라는말이있지만위계단계를비교하는문항아니고주장되지않은과제추가"
+            },
+            {
+              "code": 75,
+              "refutation": "복수사상가경쟁견해비교없음"
+            },
+            {
+              "code": 79,
+              "refutation": "도덕적삶과주체적삶의일반가치우열을평가하는것아님"
+            }
+          ],
+          "counterfactual_probe": "④위상을바꾸어를천리에따라인격을완성하는으로바꾸면문제의식에가까움.현대적주체성목표를원문밖에서추가하지않음.",
+          "confidence": 0.95,
+          "passage_group": "G263",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOH": [
+      {
+        "line": 3858,
+        "record_id": "AOH-independent_code-20260927-01",
+        "case": "AOH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:47:50.174565+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 17,
+              "reason": "시기별 평가 주체·기준·방법의 귀속 대조"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 3,
+              "reason": "태조~성종의시기대응"
+            },
+            {
+              "code": 15,
+              "reason": "덕행·실적·정기고과평가기준구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "평가횟수수치가있지만계산문제아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 5,
+              "refutation": "변화의흐름도도움되지만⑤는성종규정직접확인으로충분"
+            },
+            {
+              "code": 43,
+              "refutation": "공정한평가제도소재가있어도변인통제실험을분석하지않음"
+            },
+            {
+              "code": 45,
+              "refutation": "등급→처분함수적용이아닌제도특징대응을묻는다"
+            }
+          ],
+          "counterfactual_probe": "③의수령들간을관찰사등평가주체로수정하면상호평가라는오류는없어지지만세종기준의나머지정확성은따로확인해야함.한참인성분이전체참을보장하지않음.",
+          "confidence": 0.95,
+          "passage_group": "G264",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

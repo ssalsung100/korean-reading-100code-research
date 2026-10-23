@@ -1,0 +1,20 @@
+{
+  "operation": "주 에이전트의 직접 열람을 위한 BMP→PNG 무손실 형식 변환.픽셀 변경 없음.단일 문항 자산의 선택적 출처 대조.",
+  "original_supplement": "data/기본기_연구/prepared_backlog/blind_sources/YM_verified_diagram_supplement_20260919.json",
+  "supplement_sha256": "17aaca7f0274e82ed4603f07e35b4e0b08b92875a6b4763fc4dd41f8d146d648",
+  "source_path": "고3 기출/2027 고3 국어 독서_Ⅰ. 인문, 독서.hwpx",
+  "canonical_recorded_sha256": "42be085121b4e1584d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+  "canonical_actual_sha256": "42be085121b4e158e4d29430cc0a8ff1605dc144e2255e9df2bbf08552f47d44",
+  "extracted_path": "data/기본기_연구/prepared_backlog/blind_sources/YM_verified_diagram_image7_20260919.bmp",
+  "extracted_recorded_sha256": "1c1a75b3133139d0a906910e54316bf0639bc4d6c673e2b6c1fca3d4a7aeb710",
+  "extracted_actual_sha256": "1c1a75b3133139d0a906910e54316bf0639bc4d6c673e2b6c1fca3d4a7aeb710",
+  "embedded_asset_exact_match": true,
+  "png_path": "분석/패턴_종합연구/20261012_question_backfill_01/YM_diagram_for_review.png",
+  "png_sha256": "19a6732e6d18ea2a5ba9c4eb9a31bd262fb122fe6e84b881009c1f30441fed14",
+  "pixel_equal": true,
+  "prior_metadata_status": "기존 보충파일 hash 문자열과 이번 실제 hash는 별도 보존.원본은 수정하지 않음.",
+  "primary_visual_observations": [
+    "위㉠독서를하고싶은마음→오른쪽아래㉡독서행위→왼쪽아래㉢독서의즐거움과유익함→위㉠의순환을직접확인.",
+    "표지는역할명과화살표만판독.새blind가아닌사후원도식확인."
+  ]
+}

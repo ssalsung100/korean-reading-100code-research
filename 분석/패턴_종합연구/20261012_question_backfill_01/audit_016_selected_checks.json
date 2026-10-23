@@ -1,0 +1,49 @@
+{
+  "scope": "선택한새분석의수치·구조검산. 실제측정아님.",
+  "BAK": {
+    "base_shift": 2,
+    "g": [
+      500,
+      496
+    ],
+    "n": [
+      502,
+      494
+    ],
+    "d": [
+      null,
+      496
+    ],
+    "answer": 1
+  },
+  "BAL": {
+    "resonant_photon_momentum_Li_over_Rb": 1.164179104477612,
+    "same_speed_atom_momentum_Li_over_Rb": 0.08119808119808121,
+    "limit": "정지공명표의대응비율. 실제레이저설정파장의독립측정아님. 종간냉각비교는동등한운동·보정조건."
+  },
+  "BEM": {
+    "block_sizes": [
+      1,
+      2
+    ],
+    "channel_rates": [
+      2,
+      4
+    ],
+    "periods": [
+      0.5,
+      0.5
+    ],
+    "both_at_least_twice_playback": true,
+    "double_period": false,
+    "inherited_hold": true
+  },
+  "BFP006": {
+    "NL": "분석명제→동의성→필연성→분석명제",
+    "BEX": "개념확실성→신실재→개념확실성",
+    "shared_operation": "정당화의독립근거확보전원점회귀검사",
+    "distinct_unique_questions": 2,
+    "KICE_anchor_recounted": false
+  },
+  "pass": true
+}

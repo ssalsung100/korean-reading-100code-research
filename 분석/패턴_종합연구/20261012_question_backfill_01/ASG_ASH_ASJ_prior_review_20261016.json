@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ASG": [
+      {
+        "line": 4326,
+        "record_id": "ASG-independent_code-20260927-01",
+        "case": "ASG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G299",
+          "primary": [
+            10
+          ],
+          "auxiliary": [
+            80,
+            78
+          ],
+          "surface": [
+            81
+          ],
+          "decisive_operation": "작품의 정체성을 성립시키는 의미 부여·의도라는 요건을 무관하다고 지운 선지를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 80,
+              "rebuttal": "관람자 해석은 근거이나 주된 오류는 작품 성립의 의도·의미 요건 제거다."
+            },
+            {
+              "code": 78,
+              "rebuttal": "제작 의도가 내용에 있으나 작가의 실제 심리 원인을 새로 추정하는 과업은 아니다."
+            },
+            {
+              "code": 81,
+              "rebuttal": "물리대상/예술 정체성 구별은 지문 전체의 내용이며①의 필요 요건 삭제를10이 특정한다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASH": [
+      {
+        "line": 4327,
+        "record_id": "ASH-independent_code-20260927-01",
+        "case": "ASH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G299",
+          "primary": [
+            39
+          ],
+          "auxiliary": [
+            75,
+            83
+          ],
+          "surface": [
+            69
+          ],
+          "decisive_operation": "두 견해가 예술의 가치를 어디에 두는지 같은 축에서 비교하여 원형/구현 의미의 차이를 보존한다.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "rebuttal": "견해의 주체 귀속과39 비교는 이 사례에서 중첩된다."
+            },
+            {
+              "code": 69,
+              "rebuttal": "유사성을 통해 속성이나 관계를 옮기는 것이 아니라 두 관점의 차이를 직접 확인한다."
+            },
+            {
+              "code": 83,
+              "rebuttal": "가치가 비교 내용이지만 사실에서 가치로의 도출 타당성을 묻지는 않는다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASJ": [
+      {
+        "line": 4339,
+        "record_id": "ASJ-independent_code-20260927-01",
+        "case": "ASJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G300",
+          "primary": [
+            3
+          ],
+          "auxiliary": [
+            17,
+            98
+          ],
+          "surface": [
+            92
+          ],
+          "decisive_operation": "암석 형성·모행성 이탈·지구 도달의 서로 다른 시점을 고정해 한 연대를 다른 구간의 길이로 바꾼 오류를 찾는다.",
+          "competing_codes": [
+            {
+              "code": 98,
+              "rebuttal": "무엇의 연대인가라는 수식 관계가 중요하지만 시간 구간의 시작·끝을3으로 구체화한다."
+            },
+            {
+              "code": 92,
+              "rebuttal": "10억년 수치가 있어도 계산 오류가 아니라 측정하는 기간의 교체다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "동위원소 생성 경로는 자료의 기원 설명이며 정답은 연대 지표의 시간적 대상 차이다."
+            }
+          ],
+          "confidence": 0.97,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기·5선지·최초풀이·정답대조·독립판정 직접 확인.G299_visual01.jpeg전시사진직접재확인.",
+  "ASJ_②유보": "금성에서파편이탈이쉽지않다는정보는후보가능성을낮추는근거이지논리적불가능의증명은아니다.기존blind가구별한추측의강도를현행유보로승계.공식⑤유지.",
+  "범위": "운석·생명흔적은해당자료의연구서술만분석하며현대우주생물학의확정사실로승격하지않음.예술의의미해석도사진만으로작가심리전체를판독한것이아님."
+}

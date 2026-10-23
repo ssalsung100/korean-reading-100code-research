@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AMI": [
+      {
+        "line": 3626,
+        "record_id": "AMI-independent_code-20260927-01",
+        "case": "AMI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:33:43.690870+00:00",
+        "payload": {
+          "primary": [
+            60
+          ],
+          "primary_candidates": [
+            60,
+            63
+          ],
+          "working_primary": 60,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            74,
+            75
+          ],
+          "surface": [
+            3
+          ],
+          "judgment_reason": "단락 사이의 비판·옹호 방향을 맞춘다.마흐의대안설명은절대공간논증을제약하며뉴턴의발전이아님.",
+          "competing_codes": [
+            {
+              "code": 63,
+              "verdict": "공동 후보",
+              "reason": "각단락이앞선입장을강화/약화하는방향판정."
+            },
+            {
+              "code": 74,
+              "verdict": "보조",
+              "reason": "같은회전현상을절대공간/우주물질로설명하는경쟁가설구조."
+            },
+            {
+              "code": 3,
+              "verdict": "표면",
+              "reason": "뒤시대라는이유로앞이론의발전이라고볼수없음."
+            }
+          ],
+          "minimal_change_test": "③의 (다)가발전됨을(다)의필요성을문제삼음으로고치면방향이맞음.",
+          "confidence": 0.97,
+          "passage_group": "G246",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "AMJ": [
+      {
+        "line": 3627,
+        "record_id": "AMJ-independent_code-20260927-01",
+        "case": "AMJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:33:43.691887+00:00",
+        "payload": {
+          "primary": [
+            46
+          ],
+          "primary_candidates": [
+            46,
+            39
+          ],
+          "working_primary": 46,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            12,
+            2
+          ],
+          "surface": [
+            1
+          ],
+          "judgment_reason": "비관성효과의미약함과어지럼부재를연결하고금붕어상태와대응.절대공간가정이내부검출조건을바꾸지않음.",
+          "competing_codes": [
+            {
+              "code": 39,
+              "verdict": "공동 후보",
+              "reason": "선실금붕어와지구인관찰의대응을확인."
+            },
+            {
+              "code": 12,
+              "verdict": "보조",
+              "reason": "관성계면내부정지/운동차이를검출못한다는조건을ㄹ에도유지."
+            },
+            {
+              "code": 1,
+              "verdict": "보조",
+              "reason": "가속효과가작다는것을가속없음으로바꾸지않음."
+            }
+          ],
+          "minimal_change_test": "지구가속효과가매우큼으로바꾸면ㄴ의설명이유지되지않는다.절대공간유무만바꾸어ㄹ을참으로만들수없음.",
+          "confidence": 0.95,
+          "passage_group": "G246",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "AMM": [
+      {
+        "line": 3639,
+        "record_id": "AMM-independent_code-20260927-01",
+        "case": "AMM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:36:02.014370+00:00",
+        "payload": {
+          "primary": [
+            69
+          ],
+          "primary_candidates": [
+            69,
+            64,
+            44
+          ],
+          "working_primary": 69,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            2
+          ],
+          "surface": [
+            100
+          ],
+          "judgment_reason": "언어의 구조적 규칙을 연구하는 방법을 DNA의 규칙성 해독에 적용했다는 분야간 방법 전이를③으로 요약.",
+          "competing_codes": [
+            {
+              "code": 64,
+              "verdict": "공동 후보",
+              "reason": "여러단락의핵심인방법적용의범위를요약하며③은명시내용의재진술로도선택가능."
+            },
+            {
+              "code": 44,
+              "verdict": "공동 후보",
+              "reason": "언어학적방법을해독의수단으로사용한구조."
+            },
+            {
+              "code": 100,
+              "verdict": "표면",
+              "reason": "단어·문장비유는이해를돕지만요정의상징을푸는것이정답과제는아님."
+            }
+          ],
+          "minimal_change_test": "언어와DNA의비유문구를없애도실제연구방법응용문장은③을지지한다.69를미지의생물학적성질을언어유사성만으로증명하는유추로과장하지않는다.",
+          "confidence": 0.93,
+          "passage_group": "G247",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "물리·생물학의 현행 학설을 새로 검증한 것이 아니라 제시문의 설명·논증 관계를 판독. AMM의잡동사니DNA등당시서술을현대생물학의확정된분류로승격하지않음. 기존공동주후보·strictblind이력불변."
+}

@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AZX": [
+      {
+        "line": 5225,
+        "record_id": "AZX-independent_code-20260928-01",
+        "case": "AZX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:25:28.494148+09:00",
+        "payload": {
+          "passage_group": "G364",
+          "primary": [
+            25,
+            22
+          ],
+          "auxiliary": [
+            15,
+            39
+          ],
+          "surface": [
+            84,
+            59
+          ],
+          "decisive_operation": "유권자범위확장·전문가충원·공공자원과점·개방경선·온라인연계를 실제 속성으로 구별한다.",
+          "competing_codes": [
+            {
+              "code": 84,
+              "rejection": "보조금50%·의석30%는진입장벽의방향을보여주나실제배분액계산이필요하지않다."
+            },
+            {
+              "code": 59,
+              "rejection": "모두위기대응이라는공통목적만으로정당유형을구별하지못한다."
+            },
+            {
+              "code": 39,
+              "rejection": "두유사전략차이비교는25분류를수행하기위한보조."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZY": [
+      {
+        "line": 5226,
+        "record_id": "AZY-independent_code-20260928-01",
+        "case": "AZY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:25:28.599903+09:00",
+        "payload": {
+          "passage_group": "G364",
+          "primary": [
+            75,
+            15
+          ],
+          "auxiliary": [
+            12,
+            44
+          ],
+          "surface": [
+            79,
+            63
+          ],
+          "decisive_operation": "당원중심조직적대표를복원하려는입장의평가기준을유지하여당원강화를해악으로그린①을배제한다.",
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "비판처럼보이는선지를평가하나새증거로주장을약화하는것이아닌기존입장일치판정."
+            },
+            {
+              "code": 44,
+              "rejection": "조직복원수단과계층대표목적의대응이보조로기여."
+            },
+            {
+              "code": 58,
+              "rejection": "기성정당이라는공통범주가카르텔의배제전략과대중정당의대표성목표를같게만들지않음."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZZ": [
+      {
+        "line": 5241,
+        "record_id": "AZZ-independent_code-20261001-01",
+        "case": "AZZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01T19:58:34.013068+09:00",
+        "payload": {
+          "primary": [
+            2
+          ],
+          "auxiliary": [
+            12,
+            24
+          ],
+          "surface": [
+            9,
+            79
+          ],
+          "primary_reason": "정답②의 대상이 될 수 있다는 가능성 주장을 평가한다. 최하위 법원 판결도 특별사정 아래 배상 대상일 수 있다는 열린 경로가 있으면 충분하며, 모든 판결의 배상을 보장할 필요는 없다.",
+          "code_free_logic_anchor": "최하위 판결도 확정 가능하고, 특별사정이면 불복 미경유에도 배상 청구 가능성이 남음.",
+          "evidence": [
+            {
+              "location": "정답②",
+              "text": "최하위 등급의 법원이 한 판결도 국가배상 책임의 대상이 될 수 있다.",
+              "operation": "동일 대상군에 대한 배상 가능성과 무조건 배상 보장을 구별"
+            },
+            {
+              "location": "3문단·5문단",
+              "text": "불복하지 않아 확정 / 법관 귀책 등 특별사정이면 예외 허용",
+              "operation": "가능한 성립 경로를 본문 조건으로 구성"
+            }
+          ],
+          "auxiliary_roles": {
+            "12": "확정 및 특별사정 아래 책임 인정 가능성이 남는 경로 복원",
+            "24": "불복 미경유의 일반 제한을 뚫는 명시 예외를 보존"
+          },
+          "surface_reason": {
+            "9": "법원 등급이 등장하지만 상급에 속성을 상속하거나 순위로 배상 여부를 정하지 않는다.",
+            "79": "법적 책임 소재이나 당위 원리 자체의 타당성 평가가 아니다."
+          },
+          "competing_codes": [
+            {
+              "code": 12,
+              "verdict": "보조 유지; 주 우선순위는 중간 확신",
+              "refutation": "조건 복원은 가능성의 근거를 만든다. 실제 선택지의 단정 강도 판별을 지우고 조건문만 기록하면 될 수 있다와 반드시 배상한다의 차이를 놓친다."
+            },
+            {
+              "code": 4,
+              "verdict": "주 배제",
+              "refutation": "정답은 모든 최하위 판결이라는 수량 범위를 주장하지 않는다. ①의 나라 범위 오류에는 국소 관련되나 정답 직접 경로의 중심은 아니다."
+            },
+            {
+              "code": 9,
+              "verdict": "표면",
+              "refutation": "최하위라는 순위만으로 책임을 배제하거나 상급 판결의 성질을 하급에 이전하지 않는다."
+            },
+            {
+              "code": 24,
+              "verdict": "보조 유지",
+              "refutation": "예외의 존재만으로 모든 최하위 판결의 배상이 보장되지는 않으며, 가능성으로 제한한 결론을 별도로 보존해야 한다."
+            }
+          ],
+          "decision_path_limit": "①③④⑤를 사실 대응으로 제거하는 대체 풀이도 가능하다. #2를 모든 가능한 풀이의 유일 필수 코드로 주장하지 않는다.",
+          "merge_or_split": "#2와 #12/#24는 본 사례에서 결론 강도와 이를 뒷받침하는 조건 층위로 연결된다. 전역 통합 근거는 아님.",
+          "revision_trigger": "같은 대상·조건을 고정해 가능을 반드시로 바꾸어도 실제 판정이 달라지지 않거나 공식 원문에 가능성 근거가 없으면 주 코드 우선순위 재검토.",
+          "confidence": 0.82,
+          "passage_group": "G365",
+          "sdss_seen": false,
+          "prior_project_judgment_seen": false,
+          "all_group_answer_check_completed": true,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "G364": "G364_visual01.mdㄱㄴㄷ전체직접확인. 보조금50%우선배분과수혜자30%의석기준의역할을구분. 실제정당별배분액계산은요구되지않음."
+}

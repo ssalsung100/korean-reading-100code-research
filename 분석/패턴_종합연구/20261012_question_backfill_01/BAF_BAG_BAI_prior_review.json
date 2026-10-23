@@ -1,0 +1,153 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BAF": [
+      {
+        "line": 5267,
+        "record_id": "BAF-independent_code-20261001-01",
+        "case": "BAF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            3,
+            16,
+            39
+          ],
+          "surface": [
+            5,
+            46
+          ],
+          "decisive_operation": "초기 계산·독해도 숙련의 한 내용임을 유지하여 시기별 속성을 귀속한다. 숙련 내용의 변화에서 초기 미숙련 선호를 도출한③을 배제한다.",
+          "evidence": [
+            "2문단 초기/후기 숙련 내용 구분",
+            "3문단 숙련 수요 증가 방향은 세기 내내 유지"
+          ],
+          "competing_codes": [
+            {
+              "code": 5,
+              "rebuttal": "수요 방향은 지속되고 숙련 내용은 변화한다. 단일 지속/변화 이분만으로는 어느 속성이 변하는지 분리하지 못한다."
+            },
+            {
+              "code": 3,
+              "rebuttal": "초기와 후기의 시점 보존은 보조이나 결정적 오류는 초기 능력을 미숙련으로 분류한 범주 전환이다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "교육과 성장 인과는①의 근거지만 오답③ 결정은 숙련 수요의 대상·내용 확인이다."
+            }
+          ],
+          "boundary_note": "17/16/39는 이 사례에서 요건·속성 귀속이 겹친다. 번호별 배타적 연산으로 중복 계수하지 않는다.",
+          "confidence": 0.89,
+          "passage_group": "G367",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BAG": [
+      {
+        "line": 5268,
+        "record_id": "BAG-independent_code-20261001-01",
+        "case": "BAG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            49
+          ],
+          "auxiliary": [
+            46,
+            87,
+            39
+          ],
+          "surface": [
+            100
+          ],
+          "decisive_operation": "공급과 수요의 증가율을 비교하여 프리미엄과 불평등의 변화 방향을 적용한다.⑤가 방향을 역전한다.",
+          "evidence": [
+            "3문단 교육이 기술보다 빠름→공급 상대 확대→프리미엄 축소",
+            "역사 연구: 교육 임금 격차가 불평등의 큰 부분 설명"
+          ],
+          "competing_codes": [
+            {
+              "code": 87,
+              "rebuttal": "증가율 비교는 입력 조건이지만 미분이나 기울기 계산이 결정적이지 않다. 주로 올리는 것은 유보한다."
+            },
+            {
+              "code": 86,
+              "rebuttal": "수준의 크기 비교가 아니라 증가 속도 및 결과 방향이다. 절대 공급량 초과로 바꾸지 않는다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "공급→임금 격차라는 경로는 보조로 보존하나 이 문항에서 새 중간 기제를 복원할 필요 없이 주어진 방향을 적용한다."
+            },
+            {
+              "code": 100,
+              "rebuttal": "경주 비유를 알아보는 것보다 그 비유가 가리키는 두 증가 속도의 관계를 적용하는 일이 필요하다."
+            }
+          ],
+          "boundary_note": "49는 통계적 공변에 한정하지 않는 원표 용례 유지.46과 배타적이지 않으며 직접 방향 적용/기제 복원의 작업 우선순위로 구분.",
+          "confidence": 0.93,
+          "passage_group": "G367",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BAI": [
+      {
+        "line": 5287,
+        "record_id": "BAI-independent_code-20261001-01",
+        "case": "BAI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            59,
+            2
+          ],
+          "surface": [
+            46,
+            80
+          ],
+          "decisive_operation": "방법의 성질과 작용 대상을 정확히 대응하여②의 선택적 흡수 이용을 확인한다.",
+          "evidence": [
+            "선택적 흡수로 개별 제어 불가를 해결",
+            "오답① 감지량,③ 냉각 대상 교환,④ 근접/도달 차이"
+          ],
+          "competing_codes": [
+            {
+              "code": 59,
+              "rebuttal": "개별 원자 제어 문제의 해결 방식은②의 맥락이지만 문제와 해결 전 과정을 새로 구성할 필요 없이 명시된 성질 확인으로 선택 가능하다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "기제 설명은 본문 핵심이지만② 직접 확인에 흡수부터 방출까지 인과 연쇄 복원은 필요 없다."
+            },
+            {
+              "code": 80,
+              "rebuttal": "관측자 관련 도플러 효과는 소재다.②에서는 해석 주체의 관점 변화 판정이 없다."
+            }
+          ],
+          "boundary_note": "직접 확인 경로와 오답 분석 경로 분리.17을 모든 과학 내용 확인의 유일 코드로 일반화하지 않는다.",
+          "confidence": 0.86,
+          "passage_group": "G368",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true,
+          "source_repair_provenance_preserved": true
+        }
+      }
+    ]
+  },
+  "BAI": "기존공식렌더13~14쪽 직접 확인. 누락 수치·에너지 기호·④0K는 BAI_source_with_restored_symbols.json에만 복원. 최초hold와복원후blind는별도이력으로보존."
+}

@@ -1,0 +1,176 @@
+{
+  "discovery": [
+    {
+      "passage_group": "G001",
+      "case_ids": [
+        "AA",
+        "AB"
+      ]
+    },
+    {
+      "passage_group": "G002",
+      "case_ids": [
+        "AC",
+        "AD"
+      ]
+    },
+    {
+      "passage_group": "G004",
+      "case_ids": [
+        "AF",
+        "AG",
+        "AH",
+        "AI",
+        "AJ"
+      ]
+    },
+    {
+      "passage_group": "G010",
+      "case_ids": [
+        "BI",
+        "BJ",
+        "BK",
+        "BL"
+      ]
+    },
+    {
+      "passage_group": "G014",
+      "case_ids": [
+        "BY",
+        "BZ",
+        "CA",
+        "CB"
+      ]
+    },
+    {
+      "passage_group": "G039",
+      "case_ids": [
+        "GK",
+        "GL",
+        "GM"
+      ]
+    },
+    {
+      "passage_group": "G103",
+      "case_ids": [
+        "OX",
+        "OY",
+        "OZ",
+        "PA"
+      ]
+    },
+    {
+      "passage_group": "G160",
+      "case_ids": [
+        "ZD",
+        "ZE",
+        "ZF"
+      ]
+    },
+    {
+      "passage_group": "G222",
+      "case_ids": [
+        "AJP",
+        "AJQ",
+        "AJR"
+      ]
+    },
+    {
+      "passage_group": "G260",
+      "case_ids": [
+        "ANV",
+        "ANW",
+        "ANX"
+      ]
+    },
+    {
+      "passage_group": "G284",
+      "case_ids": [
+        "AQN",
+        "AQO",
+        "AQP"
+      ]
+    },
+    {
+      "passage_group": "G329",
+      "case_ids": [
+        "AVS",
+        "AVT",
+        "AVU"
+      ]
+    }
+  ],
+  "validation_metadata_only": [
+    {
+      "passage_group": "G064",
+      "case_ids": [
+        "JN",
+        "JO"
+      ]
+    },
+    {
+      "passage_group": "G095",
+      "case_ids": [
+        "NK",
+        "NL",
+        "NM",
+        "NN",
+        "NO"
+      ]
+    },
+    {
+      "passage_group": "G119",
+      "case_ids": [
+        "RV",
+        "RW",
+        "RX",
+        "RY"
+      ]
+    },
+    {
+      "passage_group": "G157",
+      "case_ids": [
+        "YR",
+        "YS",
+        "YT",
+        "YU"
+      ]
+    },
+    {
+      "passage_group": "G350",
+      "case_ids": [
+        "AYE",
+        "AYF",
+        "AYG"
+      ]
+    },
+    {
+      "passage_group": "G310",
+      "case_ids": [
+        "ATN",
+        "ATO",
+        "ATP"
+      ]
+    }
+  ],
+  "holds_preserved": [
+    "G024",
+    "G370"
+  ],
+  "validation_content_applied": false,
+  "new_passages_created": false,
+  "other_models_called": false,
+  "exposure_history": [
+    {
+      "group": "G095",
+      "case": "NM",
+      "prior_exposure": "기존 정답·코드 요약 노출 이력 승계; 값은 이 파일에 포함하지 않음",
+      "current_incident": "sample_annotations.json의 노출 이력 필드에 포함된 정답·코드 값이 메타데이터 확인 출력에서 재노출됨. 이번 범위 위반으로 기록.",
+      "source": "../20261009_pilot_01/sample_annotations.json#/validation_contamination/0",
+      "restriction": "현재 실행 주체는 G095의 미노출 독립 검토자로 사용할 수 없음. 미노출 독자 배정은 후속 작업의 별도 절차.",
+      "validation_body_opened": false
+    }
+  ],
+  "other_validation_groups": "이번 실행의 출력에서 내용·정답·예상 패턴을 확인하지 않음. 과거 학습 노출 부재까지 보증하지 않음",
+  "guard": "다음 독립 검토자에게 원 sample_annotations.json을 그대로 전달하지 않고 이 값 제거본을 제공한다."
+}

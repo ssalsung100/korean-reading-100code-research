@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AZE": [
+      {
+        "line": 5140,
+        "record_id": "AZE-independent_code-20260928-01",
+        "case": "AZE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:09:18.851694+09:00",
+        "payload": {
+          "passage_group": "G358",
+          "primary": [
+            14,
+            44
+          ],
+          "auxiliary": [
+            59,
+            2,
+            10
+          ],
+          "surface": [
+            75,
+            25
+          ],
+          "decisive_operation": "대립하는 이론들이 실제 연구에서는 서로 다른 목적에 맞는 수단으로 병용될 수 있음을 확인한다.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "rejection": "입장차이만보면배타성을오해하므로단순주체귀속보다실제방법의병용가능14가특수성."
+            },
+            {
+              "code": 10,
+              "rejection": "⑤유용성을필수선택으로바꾸는오답에유효하지만②의직접근거는혼용가능."
+            },
+            {
+              "code": 19,
+              "rejection": "부족을다른방법으로보완한다는일반뜻으로관련있으나명시된공통논증구조없이19를확정하지않음."
+            },
+            {
+              "code": 58,
+              "rejection": "혼용한다고본질존재의전제를공유하는것은아니다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZG": [
+      {
+        "line": 5153,
+        "record_id": "AZG-independent_code-20260928-01",
+        "case": "AZG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:12:40.806225+09:00",
+        "payload": {
+          "passage_group": "G359",
+          "primary": [
+            86,
+            15
+          ],
+          "auxiliary": [
+            9,
+            39
+          ],
+          "surface": [
+            79,
+            2
+          ],
+          "decisive_operation": "사전제한 수단들의 강도에서 가장 강함을 최소한으로 바꾼 정도의 역전을 확인한다.",
+          "competing_codes": [
+            {
+              "code": 2,
+              "rejection": "가능/필연이 아닌 제한강도의 대소라 양상만으로 설명하지 않음."
+            },
+            {
+              "code": 9,
+              "rejection": "수단간 강도서열로 표현 가능하나 위계구조 자체를 추론하는 것은 아님."
+            },
+            {
+              "code": 75,
+              "rejection": "법률입장들이 있으나③는명시된수단강도의단순대조로 판정 가능."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZH": [
+      {
+        "line": 5154,
+        "record_id": "AZH-independent_code-20260928-01",
+        "case": "AZH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:12:40.939396+09:00",
+        "payload": {
+          "passage_group": "G359",
+          "primary": [
+            59,
+            3
+          ],
+          "auxiliary": [
+            10,
+            2,
+            63
+          ],
+          "surface": [
+            75,
+            79
+          ],
+          "decisive_operation": "현실적예단입증→입증완화→침해예방 수단의 기능변화를 보고③단계의 후퇴라는 평가를 기각한다.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rejection": "판결의시간순서만이아니라 예방수단추가의기능을읽어야후퇴여부판정가능."
+            },
+            {
+              "code": 10,
+              "rejection": "㉡의입증책임완화는실제예단입증이라는요건을제거한변화.②확인 보조."
+            },
+            {
+              "code": 63,
+              "rejection": "후퇴평가를판정하나외부새증거로이론을평가하는형식은아님."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  }
+}

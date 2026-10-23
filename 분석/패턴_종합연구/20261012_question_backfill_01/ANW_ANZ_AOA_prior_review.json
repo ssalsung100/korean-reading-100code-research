@@ -1,0 +1,162 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "ANW": [
+      {
+        "line": 3806,
+        "record_id": "ANW-independent_code-20260927-01",
+        "case": "ANW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:34:07.476300+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 17,
+              "reason": "특수이익 대표 기능의 행정부 귀속을 보존"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 40,
+              "reason": "입법부/행정부의 국가기관 구성 구별"
+            },
+            {
+              "code": 5,
+              "reason": "의회의 절대성 약화와 행정부 대표성 확대"
+            }
+          ],
+          "surface": [
+            {
+              "code": 75,
+              "reason": "두 기관은 견해 논쟁 주체라기보다 기능 분담 대상"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 26,
+              "refutation": "입법과행정의 모든 속성이 배타적인 것이 아니라 대표 기능의 중심 변화"
+            },
+            {
+              "code": 44,
+              "refutation": "특수 이익 대표라는 기능 자체는 맞고 담당 기관이 다름"
+            },
+            {
+              "code": 46,
+              "refutation": "노동정당 성장의 인과 배경은 있으나③을 고치려면 기관 귀속을 바꿔야 함"
+            }
+          ],
+          "counterfactual_probe": "③의 의회주의를 행정부의 위원회로 바꾸면 참. 같은 대표라는 단어로 기관을 합치지 않는다.",
+          "confidence": 0.96,
+          "passage_group": "G260",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "ANZ": [
+      {
+        "line": 3819,
+        "record_id": "ANZ-independent_code-20260927-01",
+        "case": "ANZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:37:25.909008+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 37,
+              "reason": "㉠의 인재 등용 취지를 상소문 사례에 대응"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 15,
+              "reason": "문지가 아닌 재덕을 등용 기준으로 삼음"
+            },
+            {
+              "code": 64,
+              "reason": "등용과족보·부세·군역영역구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "차별완화규범소재는선지공통으로구별력없음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 69,
+              "refutation": "상소문변형적용이라는유사성은있지만별도영역에서유비논거를세우는것보다같은정책취지보존"
+            },
+            {
+              "code": 23,
+              "refutation": "차별완화라는공통점만으로③④⑤를고르면논의제도가달라짐"
+            },
+            {
+              "code": 10,
+              "refutation": "가문이낮아야등용해야한다는요건아님.낮은가문이어도뛰어난사람을배제하지말라는뜻"
+            }
+          ],
+          "counterfactual_probe": "③의족보기재를관직등용으로바꾸고재덕기준을명시하면취지에가까워짐.추상적평등보다적용제도와기준이중요.",
+          "confidence": 0.96,
+          "passage_group": "G261",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOA": [
+      {
+        "line": 3820,
+        "record_id": "AOA-independent_code-20260927-01",
+        "case": "AOA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:37:25.909565+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 5,
+              "reason": "향리 지위의 지속 상승이라는 변화 방향을 원문 후세 차단과 대조"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 3,
+              "reason": "옛날의재덕등용과후세문지차단시기구별"
+            },
+            {
+              "code": 80,
+              "reason": "저자의존중평가와실제사회적지위구별"
+            }
+          ],
+          "surface": [
+            {
+              "code": 9,
+              "reason": "신분위계소재가있으나④는위계자체보다시대변화단정"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 4,
+              "refutation": "향리모두의상승처럼읽을수있지만명시범위보다근거없는점진상승방향이직접오류"
+            },
+            {
+              "code": 46,
+              "refutation": "문지의차단효과는설명근거이나새인과경로추론은필수아님"
+            },
+            {
+              "code": 79,
+              "refutation": "향리를존중해야한다는당위가실제신분상승사실을보장하지않음"
+            }
+          ],
+          "counterfactual_probe": "④를후세에문지때문에진출이제한되었다로바꾸면부합.덕의귀함과관작의높음을동일시하지않음.",
+          "boundary_status": "②에대한명시적사례근거한계와④오류확신은분리보존",
+          "confidence": 0.94,
+          "passage_group": "G261",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2026-10-15",
+  "AIC_visual": {
+    "method": "주 에이전트 기존 공식PDFcrop 직접 열람",
+    "image": "data/기본기_연구/prepared_backlog/blind_sources/AIC_AB_scope_official_pdf.png",
+    "observations": [
+      "[A]는 그대는 죽기로써 간하다로 시작하여 죄스럽고 민망하기 측량없노라로 끝나는 제원들의 발화 전체.",
+      "[B]는 인명이오면 재천이옵거늘로 시작하여 부디 명심하소서로 끝나는 태보의 발화 전체.",
+      "[A]뒤 위로·이송 서술과[B]뒤 정배 명령은 각 대괄호 밖이다."
+    ],
+    "limit": "정답표셀 신규 시각대조 아님.기존 범위누락hold 보존."
+  },
+  "prior_independent": {
+    "AIA": [
+      {
+        "line": 3133,
+        "case": "AIA",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G211",
+          "primary": [],
+          "primary_candidates": [
+            17,
+            96
+          ],
+          "working_representative": 17,
+          "auxiliary": [
+            3,
+            2,
+            44
+          ],
+          "surface": [
+            46
+          ],
+          "judgment_reason": "정답②의 지각 주체·대상·후속 깨어남을 원문에 맞춘다. 사건 귀속17과 명시서술의 의미 일치96이 같은 판정. 오답③의 선후와④ 의도/실행·목적은 별도로 보존.",
+          "competing_codes": [
+            {
+              "code": 96,
+              "verdict": "후보",
+              "reason": "학발의관 이들을 본 뒤 놀라 깨어남이라는 문맥 재진술 확인"
+            },
+            {
+              "code": 3,
+              "verdict": "특정 오답 보조",
+              "reason": "초종례 후 집으로 옮김을 역순으로 바꾼③"
+            },
+            {
+              "code": 2,
+              "verdict": "특정 오답 보조",
+              "reason": "이름을 묻고자함을 실제 물음으로 바꾼④은 의도와 실현의 차이"
+            },
+            {
+              "code": 44,
+              "verdict": "특정 오답 보조",
+              "reason": "④은 노래를 들은 뒤 이름을 물으려함을 노래내용을 알기 위한 질문으로 목적도 교환"
+            }
+          ],
+          "minimal_change_test": "②의 본 대상을 다른 인물로 바꾸면17/96의 일치가 함께 깨진다.③만 고친다고②의 판정근거가 변하지 않아 선지별 연산을 분리한다.",
+          "sdss_seen": false,
+          "confidence": 0.94,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AIA-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T02:45:50.200737+00:00"
+      }
+    ],
+    "AIC": [
+      {
+        "line": 3135,
+        "case": "AIC",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G211",
+          "primary": [],
+          "primary_candidates": [
+            39,
+            17
+          ],
+          "working_representative": 39,
+          "auxiliary": [
+            80,
+            5
+          ],
+          "surface": [
+            46,
+            63
+          ],
+          "judgment_reason": "[A] 제원의 평가와[B] 태보의 직접 다짐에서 같은 강직함을 확인한다. 발화 간 성격대응39와 각발화에 성격속성을 귀속17이 같은 최소확인에 겹친다.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "후보",
+              "reason": "죽기를각오한간언과뜻불변을 태보의강직함에 각각귀속"
+            },
+            {
+              "code": 80,
+              "verdict": "보조",
+              "reason": "죽음에도뜻을유지하는태도를 판독하나 다른인물의평가와 직접발화대응까지 확인"
+            },
+            {
+              "code": 46,
+              "verdict": "특정오답 기각",
+              "reason": "② 제원의위로가생존도모결심의원인이라는연결은없음"
+            },
+            {
+              "code": 63,
+              "verdict": "표면",
+              "reason": "칭송이라는긍정평가가논증을강화하는증거평가과제라는뜻은아님"
+            }
+          ],
+          "minimal_change_test": "[B]가간언을후회하고뜻을포기하는말이라면[A]의강직함이[B]에서확인된다는③은깨진다.반복속성의확인이지위로로태도가변했다는인과아님.",
+          "sdss_seen": false,
+          "confidence": 0.96,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AIC-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T02:45:50.202311+00:00"
+      }
+    ],
+    "AIF": [
+      {
+        "line": 3119,
+        "case": "AIF",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G212",
+          "primary": [
+            39
+          ],
+          "auxiliary": [
+            17,
+            5
+          ],
+          "surface": [
+            23,
+            42
+          ],
+          "judgment_reason": "공간별로 노동·놀이의 존재를 맞추어 (가)의 공존과 (나)의 노동만 남음을 대조한다. 작품별 귀속17과 (나)의 전후 변화5를 근거로 비교39를 수행한다.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "보조 후보",
+              "reason": "각 공간에 속성을 맞춘다는 기술도 가능.39가 독점적이라고 단정하지 않되 두 공간의 관계 비교를 작업 대표로 채택"
+            },
+            {
+              "code": 5,
+              "verdict": "보조",
+              "reason": "골목의 처음 놀이와 끝 노동의 변화가 후반 속성을 지지"
+            },
+            {
+              "code": 23,
+              "verdict": "주 기각",
+              "reason": "(가) 안의 노동·놀이 공존이 있으나 정답 전체는 두 공간의 공통점 확인이 아니라 차이 비교"
+            },
+            {
+              "code": 42,
+              "verdict": "표면",
+              "reason": "공간 소재이나 경계의 안팎 이동이 정답의 핵심이 아님"
+            }
+          ],
+          "minimal_change_test": "(나) 끝에 놀이도 지속된다는 근거가 추가되면④의 노동만이 깨진다. (가)가 낯선 곳이라는③은 고향이라는 귀속 하나로 기각 가능.",
+          "sdss_seen": false,
+          "confidence": 0.94,
+          "quota_status": "unavailable"
+        },
+        "record_id": "AIF-independent_code-20260921-01",
+        "status": "done",
+        "timestamp": "2026-09-21T02:38:30.837526+00:00"
+      }
+    ]
+  }
+}

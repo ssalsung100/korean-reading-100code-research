@@ -1,0 +1,163 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "ANS": [
+      {
+        "line": 3791,
+        "record_id": "ANS-independent_code-20260927-01",
+        "case": "ANS",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:30:19.464527+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 13,
+              "reason": "역설의 권위근거와 합리성 양립불가에③의양립기술을대조"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "명령과같은행위가아닌 명령때문인행위라는정의 유지"
+            },
+            {
+              "code": 60,
+              "reason": "행위결과보다 행위근거의추론구조를 대조"
+            }
+          ],
+          "surface": [
+            {
+              "code": 18,
+              "reason": "역설은구조상모순을 말하나 두개념 전체의양립관계가 질문범위"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 79,
+              "refutation": "정당한 명령을 따라야 한다는 규범판정이 아닌 역설의 함축 확인"
+            },
+            {
+              "code": 75,
+              "refutation": "라즈의반박입장을역설에섞으면③을오판.주체귀속이중요하나양립내용을써야함"
+            },
+            {
+              "code": 33,
+              "refutation": "권위불복종을반대행동으로오독하는것은단순이중부정식이아닌 근거/내용 층위차이"
+            }
+          ],
+          "counterfactual_probe": "⑤의좋겠다고보고를명령이있기때문에로바꾸면권위에따르는행위가된다.같은행동이어도근거를바꾸면범주가달라짐.",
+          "boundary_status": "13/18 국소중첩,16 근거정의보존이선행",
+          "confidence": 0.96,
+          "passage_group": "G259",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "ANT": [
+      {
+        "line": 3792,
+        "record_id": "ANT-independent_code-20260927-01",
+        "case": "ANT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:30:19.465207+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 16,
+              "reason": "배제적근거를개별가치판단보다상위에서그판단을배제하는근거로해석"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 37,
+              "reason": "정의에사례대입"
+            },
+            {
+              "code": 9,
+              "reason": "보통근거/상위근거의층위구별"
+            },
+            {
+              "code": 60,
+              "reason": "근거간저울질과저울제거의추론구조차이"
+            }
+          ],
+          "surface": [
+            {
+              "code": 88,
+              "reason": "저울비유지만비용편익수치계산은하지않음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 8,
+              "refutation": "어떤실질근거가더중요한지우선순위를매기는것과근거비교자체를배제하는것은다름"
+            },
+            {
+              "code": 79,
+              "refutation": "약속·법·양심모두규범소재여서규범여부만으로④를가를수없음"
+            },
+            {
+              "code": 78,
+              "refutation": "행위이유를넓게기술가능하나이유의심리적동기보다추론층위가핵심"
+            }
+          ],
+          "counterfactual_probe": "④를양심적검토결과와무관하게지도자의지시를따른다로바꾸면배제적근거에가깝다.절대로라는강도어만으로배제성을정하지않음.",
+          "boundary_status": "9/8 위계와가중치우선순위 구별;16/37정의/적용은연속단계",
+          "confidence": 0.96,
+          "passage_group": "G259",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "ANV": [
+      {
+        "line": 3805,
+        "record_id": "ANV-independent_code-20260927-01",
+        "case": "ANV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:34:07.475762+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 3,
+              "reason": "초기 부조와 이후 복지의 시간 귀속 교환"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 5,
+              "reason": "소극적 중재에서 적극적 사회관리로 변화"
+            }
+          ],
+          "surface": [
+            {
+              "code": 59,
+              "reason": "정책 해결책 소재"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 17,
+              "refutation": "정책의 대상 귀속이라기보다 동일 국가의 시기별 역할이 바뀐 것.3과 중첩 가능"
+            },
+            {
+              "code": 19,
+              "refutation": "복지가 부조의 부족을 보완하는 구조는 있으나⑤ 오류는 이전 정책을 이후 대표책으로 옮김"
+            },
+            {
+              "code": 2,
+              "refutation": "가능/필연 강도보다 시기와 정책 대응이 직접 근거"
+            }
+          ],
+          "counterfactual_probe": "⑤의 복지국가 개념 확립 이후를 제3공화국 초기로 고치면 본문과 맞음. 부조가 이후 전혀 없었다는 결론은 도출하지 않음.",
+          "confidence": 0.96,
+          "passage_group": "G260",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

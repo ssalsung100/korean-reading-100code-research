@@ -1,0 +1,3278 @@
+[
+  {
+    "pattern": "가중상쇄",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0467-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "가중재계산",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0019-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "값대상수분리",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0428-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "강도보존",
+    "unique_passages": 29,
+    "unique_questions": 29,
+    "actual_solution_uses": 29,
+    "actual_solution_question_count": 29,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 8,
+        "questions": 8,
+        "uses": 8
+      },
+      "LEET": {
+        "passages": 11,
+        "questions": 11,
+        "uses": 11
+      },
+      "MEET": {
+        "passages": 10,
+        "questions": 10,
+        "uses": 10
+      }
+    },
+    "evidence_event_ids": [
+      "U0004-S02",
+      "U0010-S01",
+      "U0011-S02",
+      "U0022-S02",
+      "U0184-S01",
+      "U0200-S01",
+      "U0231-S01",
+      "U0232-S01",
+      "U0235-S01",
+      "U0042-S01",
+      "U0220-S01",
+      "U0244-S01",
+      "U0225-S01",
+      "U0304-S01",
+      "U0271-S01",
+      "U0274-S01",
+      "U0096-S01",
+      "U0381-S01",
+      "U0344-S01",
+      "U0477-S01",
+      "U0478-S01",
+      "U0130-S01",
+      "U0136-S01",
+      "U0428-S02",
+      "U0451-S01",
+      "U0455-S01",
+      "U0485-S02",
+      "U0493-S01",
+      "U0495-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "격차개별증감",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0135-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "경로길이분리",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0168-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "경로의존",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0303-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "계기목적분리",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0137-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "계산설명방향",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0242-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "공간기준",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0207-S02",
+      "U0291-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "공격대상변형",
+    "unique_passages": 6,
+    "unique_questions": 6,
+    "actual_solution_uses": 6,
+    "actual_solution_question_count": 6,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0204-S02",
+      "U0264-S02",
+      "U0377-S01",
+      "U0125-S01",
+      "U0407-S01",
+      "U0161-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "공통차별근거",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0205-S02",
+      "U0215-S01",
+      "U0349-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "관계귀속",
+    "unique_passages": 65,
+    "unique_questions": 66,
+    "actual_solution_uses": 66,
+    "actual_solution_question_count": 66,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 26,
+        "questions": 27,
+        "uses": 27
+      },
+      "LEET": {
+        "passages": 25,
+        "questions": 25,
+        "uses": 25
+      },
+      "MEET": {
+        "passages": 14,
+        "questions": 14,
+        "uses": 14
+      }
+    },
+    "evidence_event_ids": [
+      "U0004-S01",
+      "U0005-S01",
+      "U0006-S03",
+      "U0008-S02",
+      "U0017-S03",
+      "U0019-S01",
+      "U0020-S03",
+      "U0022-S01",
+      "U0022-S03",
+      "U0184-S02",
+      "U0187-S02",
+      "U0203-S02",
+      "U0206-S02",
+      "U0028-S01",
+      "U0030-S01",
+      "U0037-S01",
+      "U0237-S01",
+      "U0219-S01",
+      "U0043-S01",
+      "U0044-S01",
+      "U0222-S01",
+      "U0246-S01",
+      "U0227-S01",
+      "U0248-S02",
+      "U0250-S01",
+      "U0300-S01",
+      "U0061-S01",
+      "U0062-S02",
+      "U0273-S01",
+      "U0319-S01",
+      "U0281-S01",
+      "U0285-S01",
+      "U0290-S01",
+      "U0093-S01",
+      "U0373-S02",
+      "U0339-S01",
+      "U0342-S01",
+      "U0382-S01",
+      "U0385-S01",
+      "U0390-S01",
+      "U0117-S01",
+      "U0391-S01",
+      "U0358-S01",
+      "U0124-S02",
+      "U0398-S01",
+      "U0362-S01",
+      "U0405-S01",
+      "U0133-S01",
+      "U0138-S01",
+      "U0141-S01",
+      "U0415-S01",
+      "U0416-S01",
+      "U0420-S01",
+      "U0421-S01",
+      "U0153-S01",
+      "U0156-S01",
+      "U0158-S01",
+      "U0436-S01",
+      "U0167-S01",
+      "U0450-S01",
+      "U0452-S01",
+      "U0181-S01",
+      "U0465-S01",
+      "U0472-S01",
+      "U0486-S01",
+      "U0488-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "관계전이",
+    "unique_passages": 4,
+    "unique_questions": 4,
+    "actual_solution_uses": 4,
+    "actual_solution_question_count": 4,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0332-S01",
+      "U0126-S01",
+      "U0159-S02",
+      "U0494-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "관측동등",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0066-S01",
+      "U0139-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "관측합성",
+    "unique_passages": 5,
+    "unique_questions": 5,
+    "actual_solution_uses": 5,
+    "actual_solution_question_count": 5,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0294-S01",
+      "U0055-S01",
+      "U0094-S01",
+      "U0163-S02",
+      "U0464-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "관측확장",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0210-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "규범현실",
+    "unique_passages": 10,
+    "unique_questions": 10,
+    "actual_solution_uses": 10,
+    "actual_solution_question_count": 10,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "LEET": {
+        "passages": 5,
+        "questions": 5,
+        "uses": 5
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0189-S01",
+      "U0190-S02",
+      "U0295-S01",
+      "U0257-S01",
+      "U0322-S01",
+      "U0085-S01",
+      "U0480-S01",
+      "U0165-S01",
+      "U0171-S01",
+      "U0483-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "규칙우선순위",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0375-S01",
+      "U0494-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "근거망복원",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0336-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "기능유추",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0336-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "기원변형",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0069-S01",
+      "U0275-S01",
+      "U0366-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "기준내부검사",
+    "unique_passages": 20,
+    "unique_questions": 20,
+    "actual_solution_uses": 20,
+    "actual_solution_question_count": 20,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 9,
+        "questions": 9,
+        "uses": 9
+      },
+      "LEET": {
+        "passages": 10,
+        "questions": 10,
+        "uses": 10
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0012-S01",
+      "U0214-S01",
+      "U0227-S02",
+      "U0304-S02",
+      "U0307-S01",
+      "U0308-S01",
+      "U0330-S01",
+      "U0334-S01",
+      "U0100-S02",
+      "U0103-S02",
+      "U0108-S02",
+      "U0384-S01",
+      "U0127-S01",
+      "U0132-S01",
+      "U0145-S01",
+      "U0427-S01",
+      "U0160-S01",
+      "U0165-S02",
+      "U0460-S02",
+      "U0497-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "기준초과량",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0151-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "논거결론위계",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0270-S01",
+      "U0077-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "논증용어동일성",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0058-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "누락연결전제",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0348-S01",
+      "U0161-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "단계구분",
+    "unique_passages": 28,
+    "unique_questions": 30,
+    "actual_solution_uses": 30,
+    "actual_solution_question_count": 30,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 14,
+        "questions": 15,
+        "uses": 15
+      },
+      "LEET": {
+        "passages": 8,
+        "questions": 8,
+        "uses": 8
+      },
+      "MEET": {
+        "passages": 6,
+        "questions": 7,
+        "uses": 7
+      }
+    },
+    "evidence_event_ids": [
+      "U0008-S01",
+      "U0009-S01",
+      "U0009-S02",
+      "U0014-S01",
+      "U0015-S03",
+      "U0023-S02",
+      "U0186-S01",
+      "U0201-S01",
+      "U0201-S02",
+      "U0029-S01",
+      "U0224-S01",
+      "U0051-S02",
+      "U0052-S01",
+      "U0056-S01",
+      "U0277-S01",
+      "U0287-S01",
+      "U0288-S01",
+      "U0092-S01",
+      "U0371-S01",
+      "U0099-S01",
+      "U0100-S01",
+      "U0340-S01",
+      "U0379-S01",
+      "U0355-S01",
+      "U0396-S01",
+      "U0144-S01",
+      "U0148-S01",
+      "U0430-S01",
+      "U0453-S02",
+      "U0462-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "대립가능성",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0076-S01",
+      "U0087-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "대상인식방식",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0012-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "대책목표",
+    "unique_passages": 17,
+    "unique_questions": 17,
+    "actual_solution_uses": 17,
+    "actual_solution_question_count": 17,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 7,
+        "questions": 7,
+        "uses": 7
+      },
+      "LEET": {
+        "passages": 6,
+        "questions": 6,
+        "uses": 6
+      },
+      "MEET": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      }
+    },
+    "evidence_event_ids": [
+      "U0005-S02",
+      "U0025-S01",
+      "U0028-S02",
+      "U0221-S01",
+      "U0245-S01",
+      "U0268-S01",
+      "U0101-S01",
+      "U0341-S01",
+      "U0479-S01",
+      "U0410-S01",
+      "U0417-S01",
+      "U0425-S01",
+      "U0157-S02",
+      "U0437-S01",
+      "U0172-S01",
+      "U0469-S01",
+      "U0471-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "되먹임고리",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0298-S01",
+      "U0255-S01",
+      "U0149-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "목적정보선별",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0027-S01",
+      "U0399-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "문맥조작화",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0216-S01",
+      "U0248-S01",
+      "U0060-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "미확정유지",
+    "unique_passages": 5,
+    "unique_questions": 5,
+    "actual_solution_uses": 5,
+    "actual_solution_question_count": 5,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0011-S03",
+      "U0253-S01",
+      "U0380-S01",
+      "U0445-S01",
+      "U0458-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "반박표적",
+    "unique_passages": 11,
+    "unique_questions": 11,
+    "actual_solution_uses": 11,
+    "actual_solution_question_count": 11,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 6,
+        "questions": 6,
+        "uses": 6
+      },
+      "LEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0017-S02",
+      "U0020-S02",
+      "U0183-S02",
+      "U0202-S01",
+      "U0031-S02",
+      "U0033-S02",
+      "U0036-S02",
+      "U0194-S02",
+      "U0263-S01",
+      "U0315-S01",
+      "U0103-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "반사실유사성",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0110-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "범위이동",
+    "unique_passages": 39,
+    "unique_questions": 39,
+    "actual_solution_uses": 39,
+    "actual_solution_question_count": 39,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 19,
+        "questions": 19,
+        "uses": 19
+      },
+      "LEET": {
+        "passages": 17,
+        "questions": 17,
+        "uses": 17
+      },
+      "MEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      }
+    },
+    "evidence_event_ids": [
+      "U0001-S01",
+      "U0005-S03",
+      "U0010-S02",
+      "U0011-S01",
+      "U0013-S01",
+      "U0015-S01",
+      "U0021-S01",
+      "U0185-S01",
+      "U0033-S01",
+      "U0038-S01",
+      "U0195-S01",
+      "U0241-S01",
+      "U0048-S01",
+      "U0260-S01",
+      "U0063-S01",
+      "U0074-S01",
+      "U0075-S01",
+      "U0324-S01",
+      "U0083-S01",
+      "U0326-S01",
+      "U0368-S01",
+      "U0370-S01",
+      "U0333-S01",
+      "U0097-S01",
+      "U0378-S01",
+      "U0109-S01",
+      "U0114-S01",
+      "U0121-S01",
+      "U0404-S01",
+      "U0409-S01",
+      "U0411-S01",
+      "U0412-S01",
+      "U0413-S01",
+      "U0432-S01",
+      "U0443-S01",
+      "U0445-S02",
+      "U0447-S02",
+      "U0179-S01",
+      "U0474-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "병렬경로",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0007-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "병치인과분리",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0169-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "복수문턱",
+    "unique_passages": 15,
+    "unique_questions": 15,
+    "actual_solution_uses": 15,
+    "actual_solution_question_count": 15,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 6,
+        "questions": 6,
+        "uses": 6
+      },
+      "LEET": {
+        "passages": 7,
+        "questions": 7,
+        "uses": 7
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0006-S02",
+      "U0021-S02",
+      "U0084-S01",
+      "U0376-S02",
+      "U0116-S01",
+      "U0356-S01",
+      "U0359-S01",
+      "U0123-S01",
+      "U0418-S01",
+      "U0155-S02",
+      "U0435-S01",
+      "U0448-S02",
+      "U0466-S01",
+      "U0470-S01",
+      "U0476-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "부분전체",
+    "unique_passages": 6,
+    "unique_questions": 6,
+    "actual_solution_uses": 6,
+    "actual_solution_question_count": 6,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0007-S03",
+      "U0202-S02",
+      "U0054-S01",
+      "U0073-S01",
+      "U0439-S01",
+      "U0457-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "분기망라",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0264-S01",
+      "U0107-S01",
+      "U0440-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "분류기준",
+    "unique_passages": 17,
+    "unique_questions": 17,
+    "actual_solution_uses": 17,
+    "actual_solution_question_count": 17,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "LEET": {
+        "passages": 8,
+        "questions": 8,
+        "uses": 8
+      },
+      "MEET": {
+        "passages": 5,
+        "questions": 5,
+        "uses": 5
+      }
+    },
+    "evidence_event_ids": [
+      "U0198-S01",
+      "U0226-S01",
+      "U0254-S01",
+      "U0081-S01",
+      "U0282-S01",
+      "U0329-S01",
+      "U0289-S01",
+      "U0353-S01",
+      "U0354-S01",
+      "U0393-S01",
+      "U0124-S01",
+      "U0143-S01",
+      "U0146-S01",
+      "U0422-S01",
+      "U0444-S01",
+      "U0460-S01",
+      "U0491-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "비교변인",
+    "unique_passages": 8,
+    "unique_questions": 8,
+    "actual_solution_uses": 8,
+    "actual_solution_question_count": 8,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 5,
+        "questions": 5,
+        "uses": 5
+      },
+      "MEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      }
+    },
+    "evidence_event_ids": [
+      "U0230-S01",
+      "U0249-S02",
+      "U0266-S01",
+      "U0311-S01",
+      "U0314-S01",
+      "U0394-S01",
+      "U0395-S01",
+      "U0446-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "비교축",
+    "unique_passages": 27,
+    "unique_questions": 27,
+    "actual_solution_uses": 27,
+    "actual_solution_question_count": 27,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 9,
+        "questions": 9,
+        "uses": 9
+      },
+      "LEET": {
+        "passages": 11,
+        "questions": 11,
+        "uses": 11
+      },
+      "MEET": {
+        "passages": 7,
+        "questions": 7,
+        "uses": 7
+      }
+    },
+    "evidence_event_ids": [
+      "U0007-S01",
+      "U0199-S01",
+      "U0233-S01",
+      "U0247-S01",
+      "U0049-S01",
+      "U0229-S02",
+      "U0251-S01",
+      "U0053-S01",
+      "U0259-S01",
+      "U0312-S01",
+      "U0316-S01",
+      "U0279-S01",
+      "U0086-S01",
+      "U0367-S01",
+      "U0293-S01",
+      "U0337-S02",
+      "U0102-S02",
+      "U0118-S01",
+      "U0392-S01",
+      "U0119-S01",
+      "U0131-S01",
+      "U0150-S01",
+      "U0431-S01",
+      "U0433-S01",
+      "U0468-S01",
+      "U0489-S01",
+      "U0490-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "비율기준",
+    "unique_passages": 4,
+    "unique_questions": 5,
+    "actual_solution_uses": 5,
+    "actual_solution_question_count": 5,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 3,
+        "questions": 4,
+        "uses": 4
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0018-S01",
+      "U0018-S02",
+      "U0112-S01",
+      "U0155-S01",
+      "U0438-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "사건서술시간분리",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0343-S01",
+      "U0152-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "상대비율",
+    "unique_passages": 6,
+    "unique_questions": 6,
+    "actual_solution_uses": 6,
+    "actual_solution_question_count": 6,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 5,
+        "questions": 5,
+        "uses": 5
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0013-S03",
+      "U0014-S02",
+      "U0032-S02",
+      "U0296-S01",
+      "U0101-S02",
+      "U0120-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "상태이동",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0026-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "설명보완",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0217-S01",
+      "U0351-S01",
+      "U0484-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "설명수준",
+    "unique_passages": 5,
+    "unique_questions": 5,
+    "actual_solution_uses": 5,
+    "actual_solution_question_count": 5,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0204-S01",
+      "U0206-S01",
+      "U0039-S01",
+      "U0386-S01",
+      "U0482-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "설명해상도",
+    "unique_passages": 5,
+    "unique_questions": 5,
+    "actual_solution_uses": 5,
+    "actual_solution_question_count": 5,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0249-S01",
+      "U0057-S02",
+      "U0299-S01",
+      "U0323-S01",
+      "U0397-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "속성분리",
+    "unique_passages": 72,
+    "unique_questions": 72,
+    "actual_solution_uses": 72,
+    "actual_solution_question_count": 72,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 22,
+        "questions": 22,
+        "uses": 22
+      },
+      "LEET": {
+        "passages": 31,
+        "questions": 31,
+        "uses": 31
+      },
+      "MEET": {
+        "passages": 19,
+        "questions": 19,
+        "uses": 19
+      }
+    },
+    "evidence_event_ids": [
+      "U0001-S02",
+      "U0008-S03",
+      "U0009-S03",
+      "U0012-S03",
+      "U0183-S01",
+      "U0186-S02",
+      "U0190-S01",
+      "U0200-S02",
+      "U0034-S01",
+      "U0035-S01",
+      "U0036-S01",
+      "U0191-S01",
+      "U0193-S01",
+      "U0197-S02",
+      "U0208-S01",
+      "U0209-S01",
+      "U0211-S01",
+      "U0212-S01",
+      "U0236-S01",
+      "U0218-S01",
+      "U0243-S01",
+      "U0045-S01",
+      "U0223-S01",
+      "U0051-S01",
+      "U0229-S01",
+      "U0253-S02",
+      "U0297-S01",
+      "U0059-S01",
+      "U0258-S01",
+      "U0302-S01",
+      "U0305-S01",
+      "U0065-S01",
+      "U0310-S01",
+      "U0272-S01",
+      "U0317-S01",
+      "U0278-S01",
+      "U0080-S01",
+      "U0325-S01",
+      "U0283-S01",
+      "U0363-S01",
+      "U0292-S01",
+      "U0095-S01",
+      "U0369-S01",
+      "U0373-S01",
+      "U0337-S01",
+      "U0102-S01",
+      "U0108-S01",
+      "U0346-S01",
+      "U0347-S01",
+      "U0111-S02",
+      "U0115-S01",
+      "U0352-S01",
+      "U0122-S01",
+      "U0360-S01",
+      "U0361-S01",
+      "U0400-S01",
+      "U0401-S01",
+      "U0142-S01",
+      "U0419-S01",
+      "U0147-S01",
+      "U0426-S01",
+      "U0432-S02",
+      "U0434-S01",
+      "U0164-S01",
+      "U0442-S01",
+      "U0447-S01",
+      "U0448-S01",
+      "U0176-S01",
+      "U0456-S01",
+      "U0463-S01",
+      "U0475-S01",
+      "U0481-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "수단목적층위",
+    "unique_passages": 7,
+    "unique_questions": 7,
+    "actual_solution_uses": 7,
+    "actual_solution_question_count": 7,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0187-S01",
+      "U0189-S02",
+      "U0205-S01",
+      "U0269-S01",
+      "U0321-S01",
+      "U0129-S01",
+      "U0487-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "수용자투사",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0327-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "수치표상",
+    "unique_passages": 9,
+    "unique_questions": 9,
+    "actual_solution_uses": 9,
+    "actual_solution_question_count": 9,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 7,
+        "questions": 7,
+        "uses": 7
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0032-S01",
+      "U0067-S01",
+      "U0068-S01",
+      "U0078-S01",
+      "U0079-S01",
+      "U0286-S01",
+      "U0089-S01",
+      "U0090-S01",
+      "U0467-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "순변화",
+    "unique_passages": 5,
+    "unique_questions": 5,
+    "actual_solution_uses": 5,
+    "actual_solution_question_count": 5,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0234-S01",
+      "U0046-S01",
+      "U0091-S01",
+      "U0374-S02",
+      "U0443-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "시작점누락검사",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0406-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "실행조건",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0270-S02",
+      "U0388-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "어휘행동",
+    "unique_passages": 5,
+    "unique_questions": 5,
+    "actual_solution_uses": 5,
+    "actual_solution_question_count": 5,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0004-S03",
+      "U0038-S02",
+      "U0173-S01",
+      "U0449-S01",
+      "U0472-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "요건순서",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0057-S01",
+      "U0372-S01",
+      "U0163-S03"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "이론부분유지",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0098-S01",
+      "U0105-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "일방변경안정성",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0350-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "잔여량역산",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0313-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "잠정분류",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0025-S02",
+      "U0188-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "전개대상",
+    "unique_passages": 7,
+    "unique_questions": 7,
+    "actual_solution_uses": 7,
+    "actual_solution_question_count": 7,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      }
+    },
+    "evidence_event_ids": [
+      "U0017-S01",
+      "U0020-S01",
+      "U0203-S01",
+      "U0262-S01",
+      "U0265-S01",
+      "U0082-S01",
+      "U0128-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "전달관문",
+    "unique_passages": 15,
+    "unique_questions": 15,
+    "actual_solution_uses": 15,
+    "actual_solution_question_count": 15,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 8,
+        "questions": 8,
+        "uses": 8
+      },
+      "LEET": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "MEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      }
+    },
+    "evidence_event_ids": [
+      "U0003-S01",
+      "U0015-S02",
+      "U0023-S01",
+      "U0188-S02",
+      "U0039-S02",
+      "U0209-S02",
+      "U0240-S01",
+      "U0309-S01",
+      "U0070-S01",
+      "U0284-S01",
+      "U0088-S01",
+      "U0105-S02",
+      "U0387-S01",
+      "U0408-S01",
+      "U0182-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "전제포함",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0071-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "정보경로복원",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0180-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "정보신뢰",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0185-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "정의방향",
+    "unique_passages": 4,
+    "unique_questions": 4,
+    "actual_solution_uses": 4,
+    "actual_solution_question_count": 4,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0062-S01",
+      "U0154-S01",
+      "U0160-S02",
+      "U0488-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "조건부방향",
+    "unique_passages": 19,
+    "unique_questions": 20,
+    "actual_solution_uses": 20,
+    "actual_solution_question_count": 20,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 13,
+        "questions": 14,
+        "uses": 14
+      },
+      "LEET": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0002-S01",
+      "U0002-S02",
+      "U0013-S02",
+      "U0207-S01",
+      "U0026-S02",
+      "U0196-S01",
+      "U0047-S01",
+      "U0064-S01",
+      "U0072-S01",
+      "U0113-S01",
+      "U0357-S01",
+      "U0403-S01",
+      "U0134-S01",
+      "U0140-S01",
+      "U0414-S01",
+      "U0154-S02",
+      "U0157-S01",
+      "U0159-S01",
+      "U0166-S01",
+      "U0461-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "조건수렴",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0050-S01",
+      "U0445-S03",
+      "U0454-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "조정기준시점",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0104-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "좌표정렬",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0429-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "중간시점",
+    "unique_passages": 4,
+    "unique_questions": 4,
+    "actual_solution_uses": 4,
+    "actual_solution_question_count": 4,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0197-S01",
+      "U0213-S01",
+      "U0424-S01",
+      "U0454-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "지지방향",
+    "unique_passages": 13,
+    "unique_questions": 13,
+    "actual_solution_uses": 13,
+    "actual_solution_question_count": 13,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 8,
+        "questions": 8,
+        "uses": 8
+      },
+      "MEET": {
+        "passages": 5,
+        "questions": 5,
+        "uses": 5
+      }
+    },
+    "evidence_event_ids": [
+      "U0228-S01",
+      "U0252-S01",
+      "U0256-S01",
+      "U0320-S01",
+      "U0280-S01",
+      "U0328-S01",
+      "U0365-S01",
+      "U0335-S01",
+      "U0338-S01",
+      "U0402-S01",
+      "U0423-S01",
+      "U0466-S02",
+      "U0473-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "직전상태갱신",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0106-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "집계정보손실",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0376-S01",
+      "U0440-S02",
+      "U0452-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "차분통제",
+    "unique_passages": 1,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0016-S01",
+      "U0016-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "채택근거",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0238-S01",
+      "U0250-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "초기우세",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0040-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "추론규칙반례",
+    "unique_passages": 4,
+    "unique_questions": 4,
+    "actual_solution_uses": 4,
+    "actual_solution_question_count": 4,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 3,
+        "questions": 3,
+        "uses": 3
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0276-S01",
+      "U0441-S01",
+      "U0446-S02",
+      "U0464-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "측정근사조건",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0163-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "포함반례",
+    "unique_passages": 8,
+    "unique_questions": 8,
+    "actual_solution_uses": 8,
+    "actual_solution_question_count": 8,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 7,
+        "questions": 7,
+        "uses": 7
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0194-S01",
+      "U0306-S01",
+      "U0318-S01",
+      "U0374-S01",
+      "U0383-S01",
+      "U0111-S01",
+      "U0459-S01",
+      "U0496-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "표상결합",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0041-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "표현기능판독",
+    "unique_passages": 4,
+    "unique_questions": 4,
+    "actual_solution_uses": 4,
+    "actual_solution_question_count": 4,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0170-S01",
+      "U0174-S01",
+      "U0175-S01",
+      "U0177-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "표현행위",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0031-S01",
+      "U0192-S01",
+      "U0442-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "필요요건역전금지",
+    "unique_passages": 6,
+    "unique_questions": 6,
+    "actual_solution_uses": 6,
+    "actual_solution_question_count": 6,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "LEET": {
+        "passages": 4,
+        "questions": 4,
+        "uses": 4
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0389-S01",
+      "U0162-S01",
+      "U0450-S02",
+      "U0178-S01",
+      "U0453-S01",
+      "U0484-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "하한정확값",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0006-S01",
+      "U0364-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "함축기능대응",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0345-S01",
+      "U0346-S02"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "합산요건",
+    "unique_passages": 1,
+    "unique_questions": 1,
+    "actual_solution_uses": 1,
+    "actual_solution_question_count": 1,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "MEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      }
+    },
+    "evidence_event_ids": [
+      "U0267-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "행위결과분리",
+    "unique_passages": 2,
+    "unique_questions": 2,
+    "actual_solution_uses": 2,
+    "actual_solution_question_count": 2,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      },
+      "MEET": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      }
+    },
+    "evidence_event_ids": [
+      "U0485-S01",
+      "U0492-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  },
+  {
+    "pattern": "후보설명비교",
+    "unique_passages": 3,
+    "unique_questions": 3,
+    "actual_solution_uses": 3,
+    "actual_solution_question_count": 3,
+    "passage_structure_only": 0,
+    "by_exam": {
+      "KICE": {
+        "passages": 0,
+        "questions": 0,
+        "uses": 0
+      },
+      "LEET": {
+        "passages": 1,
+        "questions": 1,
+        "uses": 1
+      },
+      "MEET": {
+        "passages": 2,
+        "questions": 2,
+        "uses": 2
+      }
+    },
+    "evidence_event_ids": [
+      "U0239-S01",
+      "U0301-S01",
+      "U0261-S01"
+    ],
+    "frequency_scope": "현재 직접 추출한 근거 장면만의 하한; 미처리 코퍼스의 빈도나 대표성 추정 아님"
+  }
+]

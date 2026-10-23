@@ -1,0 +1,268 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BPQ": [
+      {
+        "line": 7114,
+        "case": "BPQ",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G501",
+          "minimal_logic_without_codes": "중종은 새 방식의 마련과 추천 폐단의 경계를 함께 말한다. 도입 지시가 모든 위험의 부정을 뜻하지 않는다.",
+          "primary": [
+            {
+              "code": 75,
+              "reason": "대화 속 인물별 찬성·반대·조건부 경계의 입장을 구분한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 14,
+              "reason": "도입 추진과 폐단 경계가 함께 성립할 수 있음을 유지한다."
+            },
+            {
+              "code": 19,
+              "reason": "천거를 기존 제도의 보완으로 도입한다는 관계를 전면 대체로 바꾸지 않는다."
+            },
+            {
+              "code": 99,
+              "reason": "김정의 사소한 폐단이 앞서 지적된 천거의 한계를 가리킴을 복원한다."
+            },
+            {
+              "code": 17,
+              "reason": "김정을 반대 집단에 잘못 넣거나 남곤의 반대를 찬성으로 옮기지 않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 63,
+              "reason": "서로 비판하지만①의 직접 행동은 중종 발언의 복합 입장 요약이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 13,
+              "rejection": "찬성하면 우려를 말할 수 없다는 배타적 분류를 적용하면 중종의 실제 발언을 잃는다."
+            },
+            {
+              "code": 20,
+              "rejection": "새 수단이 기존 수단을 완전히 불필요하게 만드는 대체 관계가 명시되지 않았다."
+            },
+            {
+              "code": 65,
+              "rejection": "선지가 왜곡한 내용은 있으나 상대 논증을 공격하는 허수아비 구조를 새로 만들어 판단하는 것은 아니다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        },
+        "record_id": "BPQ-independent_code-20261004-01",
+        "timestamp": "2026-10-03T15:25:40.695894+00:00",
+        "status": "done"
+      }
+    ],
+    "BPR": [
+      {
+        "line": 7125,
+        "case": "BPR",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G502",
+          "minimal_logic_without_codes": "상상하거나 믿는 듯 행동하는 것과 내용을 참이라고 실제로 믿는 것은 다른 능력이다. 이를 구분하면②의 어려움 비교가 성립한다.",
+          "primary": [
+            {
+              "code": 16,
+              "reason": "믿음·상상·가정적 행동과 수의적 즉각 변화의 개념 조건을 구별한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 80,
+              "reason": "참이라고 여기는 인식적 태도와 단순 표상을 구분한다."
+            },
+            {
+              "code": 2,
+              "reason": "원하는 대로 할 수 있음과 실제 믿음을 형성할 수 있음의 가능성 범위를 나눈다."
+            },
+            {
+              "code": 3,
+              "reason": "장기간의 간접 영향과 즉각적 선택을 같은 시점의 수의성으로 처리하지 않는다."
+            },
+            {
+              "code": 10,
+              "reason": "의무·책임에는 행위 선택 능력이 필요하다는⑤의 방향을 유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 78,
+              "reason": "의지와 행위가 소재이나②는 특정 행동의 실제 동기를 새로 설명하는 문제가 아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 13,
+              "rejection": "상상과 믿음이 서로 다른 개념이라고 동시에 가질 수 없는 태도로 단정하지 않는다."
+            },
+            {
+              "code": 46,
+              "rejection": "습관이 믿음에 영향을 주는 인과와 즉각적 수의성의 개념 조건을 구분한다."
+            },
+            {
+              "code": 4,
+              "rejection": "모든 믿음이 불가능하다는 전칭 논쟁을②의 상상/믿음 구별에 먼저 확정할 필요는 없다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_seen": false
+        },
+        "record_id": "BPR-independent_code-20261004-01",
+        "timestamp": "2026-10-03T15:38:04.430297+00:00",
+        "status": "done"
+      }
+    ],
+    "BPS": [
+      {
+        "line": 7126,
+        "case": "BPS",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G502",
+          "minimal_logic_without_codes": "수의적으로 가질 수 있는 믿음이 적어도 하나 있다는 주장과 모든 믿음이 수의적이라는 주장은 다르다.③은 앞의 주장을 뒤의 주장으로 강화한다.",
+          "primary": [
+            {
+              "code": 4,
+              "reason": "존재 양화를 전칭 양화로 바꾼 범위 확대다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "두 입장의 정의를 원래 양화 범위까지 보존한다."
+            },
+            {
+              "code": 34,
+              "reason": "불수의주의는 그런 믿음이 전혀 없다는 전칭 부정으로 읽는다."
+            },
+            {
+              "code": 2,
+              "reason": "수의적 형성의 가능성이라는 술어를 고정한 채 적용 대상의 수량이 바뀌었음을 구분한다."
+            },
+            {
+              "code": 80,
+              "reason": "믿음은 내용을 참이라고 여기는 태도라는 공통 전제를 유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "책임 관행은⑤에 관련되지만③의 직접 오류는 규범이 아니라 정의의 양화다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 18,
+              "rejection": "양 입장의 대립이 있어도③의 오류는 한 입장 내부의 모순 검사가 아니라 그 입장을 너무 강하게 재진술한 데 있다."
+            },
+            {
+              "code": 12,
+              "rejection": "믿음 선택 능력이 있으면 반드시 의무가 있다는 충분조건은 본문에 없다."
+            },
+            {
+              "code": 13,
+              "rejection": "정의상 서로 대립하는 입장이라는 사실로 각 입장 내부의 모든 믿음 유형이 단일해진다고 할 수 없다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        },
+        "record_id": "BPS-independent_code-20261004-01",
+        "timestamp": "2026-10-03T15:38:39.631958+00:00",
+        "status": "done"
+      }
+    ]
+  },
+  "검토": "본문·보기·발문·5선지·기존 최초풀이·정답대조·독립판정 직접 확인. BPS 별도7행 직접 확인.",
+  "BPS_별도기록": {
+    "path": "data/기본기_연구/code_reviews_01.jsonl",
+    "line": 7,
+    "record": {
+      "case_id": "BASIC-C04-LEET-2026-odd-Q14",
+      "code_number": 4,
+      "exam_family": "LEET",
+      "year": 2026,
+      "question_number": 14,
+      "local_question_id": "LEET-2026-odd-Q14",
+      "passage_id": "LEET-2026-odd-Q13-15",
+      "source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+      "official_answer": "③",
+      "official_answer_source": "자료/LEET_언어이해/원본/2026/2026_answer_2026_LEET_언어이해_정답표.pdf",
+      "site_code_label": "양화",
+      "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%9D%B8%EC%8B%9D%EC%A0%81+%EC%88%98%EC%9D%98%EC%A3%BC%EC%9D%98",
+      "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%ED%99%94",
+      "passage_structure_codes": [
+        4,
+        10,
+        80
+      ],
+      "primary_solution_codes": [
+        4
+      ],
+      "support_codes": [
+        2,
+        39
+      ],
+      "evidence": [
+        {
+          "location": "본문1문단",
+          "quote": "최소한어떤믿음은",
+          "source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+          "source_record_id": "LEET-2026-odd-Q14",
+          "quote_normalization": "whitespace_only"
+        },
+        {
+          "location": "본문1문단",
+          "quote": "그런믿음은없다는입장",
+          "source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+          "source_record_id": "LEET-2026-odd-Q14",
+          "quote_normalization": "whitespace_only"
+        }
+      ],
+      "reasoning_steps": [
+        "수의주의는 적어도 하나의 뜻대로 즉각 형성할 수 있는 믿음을 인정한다.",
+        "불수의주의는 그런 믿음의 존재 자체를 부정한다.",
+        "③은 수의주의의 존재 명제를 모든 믿음의 수의성으로 확대하므로 부적절하다."
+      ],
+      "distractor_operations": [
+        "① 참: 당위-능력 원칙과 수의주의의 연결.",
+        "② 참: 불가능한 수의적 형성 주장을 부정.",
+        "③ 일부 존재를 모든 믿음으로 전칭 확대.",
+        "④ 참: 믿음 개념의 공통 전제 유지.",
+        "⑤ 참: 책임을 묻는 관행과 선택 능력 인정의 정합성."
+      ],
+      "nearest_code_boundary": "수의적일 수 있는가는 술어 내부의 #2지만 정답의 변형 지점은 그 술어가 적용되는 믿음의 수량 범위 #4다.",
+      "site_tag_verdict": "주 코드 수용",
+      "review_status": "single_analyst_reviewed",
+      "site_original_codes": [
+        "양화"
+      ],
+      "site_candidate_id": "CAND-82fb582aed0a78e5",
+      "site_snapshot": {
+        "fetched_at": "2026-09-03T11:19:36+09:00",
+        "catalog_path": "data/sdss_100codes_catalog.json",
+        "raw_path": "data/sdss_code_search_raw/004_양화.html",
+        "current_site_rechecked": false
+      },
+      "site_tag_relation_scope": {
+        "location": "정답③(부적절 선지)",
+        "interpretation": "수의주의의 일부 믿음을 모든 믿음으로 확대",
+        "site_intended_scope_confirmed": false
+      },
+      "site_untagged_supplement": false,
+      "passage_source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+      "question_source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md"
+    }
+  },
+  "BPS_유보": "①의칸트원칙 적용은 본문이 설정한 책임 논의의 틀에서 수용된다. 수의주의의 존재 명제 정의만으로 규범 원칙의 수용까지 필연적으로 도출되지 않는다는 기존 blind/answer_check 범위 제한을 이번 현행 유보로 명시. 공식③ 불변.",
+  "노출": "모두 기존 풀이 사후 보완. BPS의 두 사례ID는 고유문항1회 계수."
+}

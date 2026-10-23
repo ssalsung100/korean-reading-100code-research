@@ -1,0 +1,166 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BFF": [
+      {
+        "line": 5850,
+        "case": "BFF",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G409",
+          "general_task": "세 산정방식의 적용·비교",
+          "decisive_relation": "동일 사례의 단순 개수·참여조건 개수·비율제곱 역수 구분",
+          "primary": [
+            {
+              "code": 92,
+              "reason": "의회 지수1/(.4²+.4²+.2²)=25/9를 구해 이항3과 비교한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 15,
+              "reason": "단순·이항의 포함 기준이 서로 다르다."
+            },
+            {
+              "code": 86,
+              "reason": "실제 정당수와 가중 지수의 크기를 비교한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 31,
+              "reason": "원소수/집합수 자체를 혼동한 문제가 아니라 개수와 비율 가중 지수의 구별이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 84,
+              "rejection": "분수식을 포함하지만 핵심은 여러 비율 제곱합의 계산과 방식별 산정이다.92의 특수 표현과 중첩 가능."
+            },
+            {
+              "code": 85,
+              "rejection": "총 득표율의 합 제약은④ 검증 보조이나 정답③에 비율 변화의 경쟁 효과를 추론할 필요가 없다."
+            },
+            {
+              "code": 90,
+              "rejection": "정당 조합수·확률을 계산하지 않는다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_disclosed": false
+        },
+        "record_id": "BFF-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:47:05.436690+09:00"
+      }
+    ],
+    "BFH": [
+      {
+        "line": 5862,
+        "case": "BFH",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G410",
+          "general_task": "이론의 설명 범위 확인",
+          "decisive_relation": "전제된 혈류의 존재와 설명 대상인 온도 유지의 구분",
+          "primary": [
+            {
+              "code": 56,
+              "reason": "이론이 무엇을 설명하는지 피설명항을 고정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "혈액 공급과 온도 조절이라는 대상 과정의 범위가 다르다."
+            },
+            {
+              "code": 46,
+              "reason": "망사 열전달의 국소 인과 기제를 복원한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 10,
+              "reason": "혈액 공급은 정상 기능의 필요 배경이지만 이론이 그 공급의 성립 기제를 설명한 것은 아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 19,
+              "rejection": "두 이론의 보완은 지문 전체 구조이며④의 오류는 설명 대상을 바꾼 것이다."
+            },
+            {
+              "code": 50,
+              "rejection": "혈류 차단이나 경로 중단 후 효과를 묻지 않는다."
+            },
+            {
+              "code": 43,
+              "rejection": "정답 판정에 실험 통제 비교가 필요하지 않다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_disclosed": false
+        },
+        "record_id": "BFH-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:50:20.675030+09:00"
+      }
+    ],
+    "BFJ": [
+      {
+        "line": 5864,
+        "case": "BFJ",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G410",
+          "general_task": "가설 검증에 관련된 실험 선택",
+          "decisive_relation": "생산 열·정소 위치 차이에서 정낭 표면 온도 예측으로 연결",
+          "primary": [
+            {
+              "code": 63,
+              "reason": "어떤 비교 관찰이 가설의 예측을 지지·반박할 정보를 줄 수 있는지 판단한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 46,
+              "reason": "생산→열→표면 전도·방출→표면 온도 경로를 복원한다."
+            },
+            {
+              "code": 43,
+              "reason": "외기·체격·대사 등 다른 변수를 통제해야 실제 인과 지지력을 평가할 수 있다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "동면·계절 전후가 비교 형식이지만 단순 시간 순서만으로 원인을 식별하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 74,
+              "rejection": "75와 통합된 경쟁군이지만 여기서는 두 가설의 상반 예측 중 하나를 고르지 않고 한 가설의 검증 관련성을 판정한다."
+            },
+            {
+              "code": 53,
+              "rejection": "관찰 차이와 원인 차이 연결에 필요하나 통제 부재 상태에서 차이만으로 원인을 확정하지 않는다."
+            },
+            {
+              "code": 36,
+              "rejection": "아직 관찰 결과가 제시되지 않아 확정 반례를 고르는 단계가 아니다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        },
+        "record_id": "BFJ-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:50:21.028704+09:00"
+      }
+    ]
+  },
+  "sources": "G409_visual01.md·G410_visual02.md전체와G410_visual01.jpg직접확인. BFF공통표적만기존XML근거로파생복원. 기관명은기출표현을보존.",
+  "BFJ": "기존answer_check의외기·연령통제유보승계. 새로실험을한것이아님."
+}

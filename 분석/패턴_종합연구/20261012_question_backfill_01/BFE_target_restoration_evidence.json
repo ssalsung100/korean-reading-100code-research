@@ -1,0 +1,39 @@
+{
+  "source": "자료/LEET_언어이해/검증/HWP_XML/2009.xml",
+  "matches": [
+    {
+      "tag": "Text",
+      "attributes": {
+        "charshape-id": "7",
+        "lang": "ko"
+      },
+      "text": "정당 수 산정"
+    },
+    {
+      "tag": "Text",
+      "attributes": {
+        "charshape-id": "5",
+        "lang": "ko"
+      },
+      "text": "까지 정당 수 산정을 위한 다양한 방식이 제시되어 왔는데, 이는 "
+    },
+    {
+      "tag": "Text",
+      "attributes": {
+        "charshape-id": "5",
+        "lang": "ko"
+      },
+      "text": "다양한 정당 수 산정 방식이 제시된 것은 복잡한 정치 현상의 실"
+    },
+    {
+      "tag": "Text",
+      "attributes": {
+        "charshape-id": "7",
+        "lang": "ko"
+      },
+      "text": "정당 수 산정"
+    }
+  ],
+  "method": "기존경계수정기록이지정한XML의실제문자열직접대조",
+  "original_unchanged": true
+}

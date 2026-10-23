@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AYM": [
+      {
+        "line": 5058,
+        "record_id": "AYM-independent_code-20260928-01",
+        "case": "AYM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:51:12.997455+09:00",
+        "payload": {
+          "passage_group": "G352",
+          "primary": [
+            77,
+            84
+          ],
+          "auxiliary": [
+            17,
+            39,
+            43
+          ],
+          "surface": [
+            41,
+            86
+          ],
+          "decisive_operation": "대형표본의낮은D/면적을전체에외삽한편향이전체와소형의D,R,S를낮추는방향을확인하되이미대형인로스에같은편향원인을귀속하지않는다.",
+          "competing_codes": [
+            {
+              "code": 41,
+              "rejection": "부분자료를전체에확대하지만부분의성질이항상전체로옮겨진다는논증보다비대표표본일반화와비율추정편향이다."
+            },
+            {
+              "code": 49,
+              "rejection": "D가줄면R,S가줄어드는방향에유효하나분모에D도포함된R의구조와편향적용범위가먼저필요."
+            },
+            {
+              "code": 86,
+              "rejection": "50%대50%등양비교는근거이지만면적91/9차이를고려하지않으면표본밀도편향을설명못함."
+            },
+            {
+              "code": 43,
+              "rejection": "C와총면적고정이라는비율변화조건은명시해야하나실험설계의원인식별은아님."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYN": [
+      {
+        "line": 5059,
+        "record_id": "AYN-independent_code-20260928-01",
+        "case": "AYN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:51:13.096362+09:00",
+        "payload": {
+          "passage_group": "G352",
+          "primary": [
+            46,
+            84
+          ],
+          "auxiliary": [
+            39,
+            2,
+            43,
+            92
+          ],
+          "surface": [
+            45
+          ],
+          "decisive_operation": "서남극의따뜻한해수유입·융해조건을높은단위면적융해량S와연결해②를지지한다.⑤는C만으로A의속도를알수없고③는시간·양상강화다.",
+          "competing_codes": [
+            {
+              "code": 84,
+              "rejection": "②는융해두께=S비교이므로주기여지만실제나눗셈계산없이해역의조건과본문높은S를연결해판정가능."
+            },
+            {
+              "code": 12,
+              "rejection": "조건적용으로쓸수있으나환경조건이융해량에영향을주는기제를살려46으로구체화."
+            },
+            {
+              "code": 43,
+              "rejection": "⑤의유입식별에서다른항변화배제가없다는제한에보조.②의직접근거는지역융해경향."
+            },
+            {
+              "code": 4,
+              "rejection": "③수년고갈은주로시간과성립강도왜곡이며대상전체양화만으로기록하지않음."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.91,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AYO": [
+      {
+        "line": 5071,
+        "record_id": "AYO-independent_code-20260928-01",
+        "case": "AYO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T13:54:57.410734+09:00",
+        "payload": {
+          "passage_group": "G353",
+          "primary": [
+            59,
+            12
+          ],
+          "auxiliary": [
+            15,
+            44
+          ],
+          "surface": [
+            75,
+            79
+          ],
+          "decisive_operation": "교착 해소 방법을 체제별 조건에 연결하고 동거정부의 총리 주도 역할을 대통령에게 옮긴⑤를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "rejection": "정치주체는 있지만 견해 귀속이 아니라 제도별 작동 방식 적용이다."
+            },
+            {
+              "code": 44,
+              "rejection": "과반 지지 확보라는 목적과 수단을 설명하는 유효 보조; 해결 구조59와 국소 중첩."
+            },
+            {
+              "code": 46,
+              "rejection": "권한분쟁의 인과 배경은 있지만⑤는 명시된 운영 원칙을 뒤집은 것만으로 배제된다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "AYN_view": "G352_visual01.md 전체 직접 열람.②의 두께 감소를 기존 풀이가 S로 읽은 이력과 순두께변화의 차이를 이번에 구별."
+}

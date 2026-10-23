@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "ALF": [
+      {
+        "line": 3490,
+        "record_id": "ALF-independent_code-20260927-01",
+        "case": "ALF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:04:49.211640+00:00",
+        "payload": {
+          "primary": [
+            15
+          ],
+          "primary_candidates": [
+            15,
+            17
+          ],
+          "working_primary": 15,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            16
+          ],
+          "surface": [
+            79,
+            83
+          ],
+          "judgment_reason": "가정·국가헌신/이익추구라는작품해석의기준을적용하여피양댁을좋은여성상으로귀속한①을배제.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "공동후보",
+              "reason": "인물특성을어느형상범주에귀속할지판단하는같은행동."
+            },
+            {
+              "code": 16,
+              "verdict": "보조",
+              "reason": "좋은여성이라는명칭의문맥상정의를확인하며일반도덕평가로바꾸지않음."
+            },
+            {
+              "code": 79,
+              "verdict": "표면",
+              "reason": "당위명령을도출하는문제가아니라작품의평가기준에따른분류."
+            }
+          ],
+          "minimal_change_test": "좋은을이익을좇는여성상으로바꾸면충돌해소.실제인물의도덕적좋고나쁨을외부에서심판하지않는다.",
+          "confidence": 0.96,
+          "passage_group": "G236",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "ALH": [
+      {
+        "line": 3502,
+        "record_id": "ALH-independent_code-20260927-01",
+        "case": "ALH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:07:17.191561+00:00",
+        "payload": {
+          "primary": [
+            16
+          ],
+          "primary_candidates": [
+            16,
+            17,
+            12
+          ],
+          "working_primary": 16,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            9
+          ],
+          "surface": [
+            80
+          ],
+          "judgment_reason": "낭만적인 것/기독교적인 것의 넓은 정의를 유지하고 기독교의 범주 포함을②로 확인한다.종교 자체와 정신철학 범주를 구별한다.",
+          "competing_codes": [
+            {
+              "code": 17,
+              "verdict": "공동 후보",
+              "reason": "명칭이 유사한 종교·철학 범주의 범위를 구별하는 같은 판단."
+            },
+            {
+              "code": 12,
+              "verdict": "공동 후보",
+              "reason": "기독교⊂기독교적인 것=낭만적인 것이라는 포함 적용으로②를 표현 가능."
+            },
+            {
+              "code": 9,
+              "verdict": "보조",
+              "reason": "③④⑤의 완전/불완전·최고 단계 혼동을 배제한다.②는 불완전해도 포함됨."
+            }
+          ],
+          "minimal_change_test": "②의 속한다를 가장 완전한 전형이다로 바꾸면 포함은 맞아도 단계 서열이 틀려진다.",
+          "confidence": 0.96,
+          "passage_group": "G237",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "ALI": [
+      {
+        "line": 3503,
+        "record_id": "ALI-independent_code-20260927-01",
+        "case": "ALI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:07:17.192571+00:00",
+        "payload": {
+          "primary": [
+            80
+          ],
+          "primary_candidates": [
+            80,
+            39
+          ],
+          "working_primary": 80,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            16
+          ],
+          "surface": [
+            46
+          ],
+          "judgment_reason": "절대자의 이성적 구조와 인간의 개념적 인식 형식이 호응한다는 관계를 대상/인식 방식의 대응으로 읽는다.",
+          "competing_codes": [
+            {
+              "code": 39,
+              "verdict": "공동 후보",
+              "reason": "대상 구조와 인식 방식의 두 항을 대응시키는 행동으로80과 중첩."
+            },
+            {
+              "code": 16,
+              "verdict": "보조",
+              "reason": "신을 인격체가 아닌 이성적 존재 구조로 정의한 내용을 보존한다."
+            },
+            {
+              "code": 46,
+              "verdict": "주 기각",
+              "reason": "대상의 구조가 심리 과정을 물리적으로 발생시킨다는 인과 추론이 아니라 어떤 방식이 적합한가라는 호응 관계."
+            }
+          ],
+          "minimal_change_test": "②의 존재 구조에 대응을 대상의 물리적 자극에 의해서만 발생으로 바꾸면 본문 관계와 달라진다.",
+          "confidence": 0.96,
+          "passage_group": "G237",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ATC": [
+      {
+        "line": 4422,
+        "record_id": "ATC-independent_code-20260928-01",
+        "case": "ATC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G306",
+          "primary": [
+            39
+          ],
+          "auxiliary": [
+            17,
+            45
+          ],
+          "surface": [
+            31
+          ],
+          "decisive_operation": "객관/주관 측정의 입력 지표 수와 측정 방식 수를 같은 비교 축으로 맞추고 단위 교체를 배제한다.",
+          "competing_codes": [
+            {
+              "code": 31,
+              "rebuttal": "수의 비교라는 표면은 있지만 집합의 수와 원소 수라는 정확 구조로 억지 대응하지 않는다."
+            },
+            {
+              "code": 45,
+              "rebuttal": "측정 절차의 입력과 방식은 내용상 유효하며 전체 과업은 두 절차의 비교다."
+            },
+            {
+              "code": 80,
+              "rebuttal": "주관 귀속이 인식이라는 사실보다 두 측정 설계의 지표/방식 구별이 정답을 가른다."
+            }
+          ],
+          "independence_limit": "G306 기존 소재 예시 사전 노출. 무노출 코드 성과 제외.",
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATD": [
+      {
+        "line": 4423,
+        "record_id": "ATD-independent_code-20260928-01",
+        "case": "ATD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G306",
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            80,
+            86,
+            12
+          ],
+          "surface": [
+            84,
+            46
+          ],
+          "decisive_operation": "객관 계층과 주관적 동일시의 집단·지표를 구분하고 두 하위집단의 비동일시 과반을 결합해 본문의 박탈감 해석을 적용한다.",
+          "competing_codes": [
+            {
+              "code": 84,
+              "rebuttal": "가중 비율 계산이 가능하지만 두 하위집단 모두50%미만이라는 부등식만으로 충분하다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "①은 평균소득 상승을 중산층 증가의 원인으로 새로 추정한다. 분류 입력 변화와 실제 사회 변화 원인을 같게 보지 않는다."
+            },
+            {
+              "code": 80,
+              "rebuttal": "자기 계층 인식이 핵심 내용이나 객관/주관·중간/중산·하층의 대상 구분이 선지 전체를 결정한다."
+            }
+          ],
+          "independence_limit": "기준문서의 점수표 함수/인과 예시 사전 노출을 보존.",
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ATE": [
+      {
+        "line": 4434,
+        "record_id": "ATE-independent_code-20260928-01",
+        "case": "ATE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "passage_group": "G307",
+          "primary": [
+            5
+          ],
+          "auxiliary": [
+            46,
+            64
+          ],
+          "surface": [
+            3
+          ],
+          "decisive_operation": "여러 시대의 신화 이미지 변화를 정치 상황과 연결하여 전체를 포괄하는 중심 명제를 선택한다.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rebuttal": "시간 순서는 제시 틀이며 핵심은 시기에 따른 해석 변화와 그 조건이다."
+            },
+            {
+              "code": 46,
+              "rebuttal": "정치 상황의 영향은 핵심 내용으로5와 중첩되며 변화를 단순 나열로만 읽지 않는다."
+            },
+            {
+              "code": 44,
+              "rebuttal": "선전 목적은 후반의 일부 구현이고 독재 비판까지 모두 건국 정당화 수단으로 축소할 수 없다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "별도판정": {
+    "case_id": "BASIC-C45-MEET-2009-Q30",
+    "code_number": 45,
+    "exam_family": "MEET",
+    "year": 2009,
+    "question_number": 30,
+    "local_question_id": "MEET-2009-Q30",
+    "passage_id": "MEET-2009-Q29-31",
+    "source_path": "자료/MEET_언어추론/전사_검수완료/2009/q29-31.md",
+    "official_answer": "⑤",
+    "official_answer_source": "자료/MEET_언어추론/공식_정답표_원본/2009_통합_정답표.pdf",
+    "site_code_label": "함수",
+    "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%A4%91%EC%82%B0%EC%B8%B5%EC%9D%98+%EB%B2%94%EC%A3%BC",
+    "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%ED%95%A8%EC%88%98",
+    "source_status": "complete",
+    "passage_structure_codes": [
+      45,
+      39
+    ],
+    "primary_solution_codes": [
+      45
+    ],
+    "support_codes": [
+      39
+    ],
+    "evidence": [
+      {
+        "location": "본문",
+        "quote": "점수의 합이 3 이상이면"
+      },
+      {
+        "location": "본문",
+        "quote": "두 가지 방식으로 측정"
+      }
+    ],
+    "reasoning_steps": [
+      "객관 측정은 여러 지표를 합산해 계층을 분류한다.",
+      "주관 측정은 중산층 동일시와 중간층 위치라는 두 방식을 구분한다.",
+      "⑤가 지표 수와 측정 방식 수를 바르게 비교한다."
+    ],
+    "distractor_operations": [
+      "①~④는 상층 선택 가능성, 판별 단위, 결합 결과, 개인별 잣대를 지운다."
+    ],
+    "nearest_code_boundary": "측정 절차도 입력을 분류 결과로 바꾸는 함수로 읽는다.",
+    "site_tag_verdict": "주 코드 수용",
+    "review_status": "single_analyst_reviewed"
+  },
+  "노출": "ATC/ATD 기존기준문서의동일소재사전노출로strict_blind제외.이번도사후보완.ATC별도45주/prepared39주판정병존·중복1회."
+}

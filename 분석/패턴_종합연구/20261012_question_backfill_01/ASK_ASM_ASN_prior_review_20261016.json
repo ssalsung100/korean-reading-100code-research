@@ -1,0 +1,129 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ASK": [
+      {
+        "line": 4340,
+        "record_id": "ASK-independent_code-20260927-01",
+        "case": "ASK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G300",
+          "primary": [
+            64
+          ],
+          "auxiliary": [
+            60,
+            17
+          ],
+          "surface": [
+            63
+          ],
+          "decisive_operation": "증거별로 어떤 주장을 지지하는지 연결해 화성 기원/생명 흔적이라는 지정 논의 밖의 체류기간 지표를 제외한다.",
+          "competing_codes": [
+            {
+              "code": 63,
+              "rebuttal": "기존 주장에 반대 증거를 더하는 것이 아니라 관련된 증거인지 범위를 판단한다."
+            },
+            {
+              "code": 60,
+              "rebuttal": "증거-주장 연결 구조는 유효하며64의 관련 범위 판정과 중첩된다."
+            },
+            {
+              "code": 3,
+              "rebuttal": "ⓒ가 시간 정보인 것은 내용이지만 날짜 순서를 복원해야 답이 갈리는 것은 아니다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASM": [
+      {
+        "line": 4352,
+        "record_id": "ASM-independent_code-20260927-01",
+        "case": "ASM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G301",
+          "primary": [
+            46
+          ],
+          "auxiliary": [
+            3,
+            2
+          ],
+          "surface": [
+            78
+          ],
+          "decisive_operation": "남편의 사망 사실에 부임 이후 살해와20년전 사건의 원인 연결을 근거 없이 추가한 것을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 3,
+              "rebuttal": "시점 부가는 독립 오류지만 살해 원인도 함께 추가되어46과 중첩된다."
+            },
+            {
+              "code": 78,
+              "rebuttal": "복수 동기는 연락관에게 있으나 그 동기가 이 사망을 일으킨 행동으로 실현됐다는 근거가 없다."
+            },
+            {
+              "code": 2,
+              "rebuttal": "가능한 이야기를 사실처럼 확정한 강도 문제로도 기술 가능하나 추가된 시점·인과를 구체화해야 한다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ASN": [
+      {
+        "line": 4353,
+        "record_id": "ASN-independent_code-20260927-01",
+        "case": "ASN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G301",
+          "primary": [
+            78
+          ],
+          "auxiliary": [
+            97,
+            17
+          ],
+          "surface": [
+            93
+          ],
+          "decisive_operation": "제자리걸음의 동기·태도를 주변의 상대 표정 관찰과 효과 기대 발화에 연결하여 국소 행동에 맞는 연출을 판정한다.",
+          "competing_codes": [
+            {
+              "code": 97,
+              "rebuttal": "이어지는 말의 자극 의도는 근거이나 표시 행동 자체의 심리·목적 해석을78이 포괄한다."
+            },
+            {
+              "code": 80,
+              "rebuttal": "표정을 읽는 인식 행동이 있지만 정답은 어떤 정서·동기로 그 행동을 하는지의 귀속이다."
+            },
+            {
+              "code": 93,
+              "rebuttal": "대화 장면이라는 이유만으로 전달 경로가 핵심인 것은 아니다."
+            }
+          ],
+          "boundary_note": "긴장·두려움의 가능성을 전면 부정하지 않고 공포 극복으로 주 기능을 고정한 설명의 근거 부족에 제한한다.",
+          "confidence": 0.9,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "ASK_범위": "지정한㉠의두주장을본문에서직접뒷받침한증거의역할을판정.우주체류지표가운석연구와어떤관련도없다는뜻은아님.",
+  "ASN_유보": "①의부적절성은표정관찰·효과기대라는국소행동의기능에비춘연출판정.후반술과용기진술도있어작가의두려움가능성을전면부정하지않는다.기존blinduncertainty·independent경계를현행유보로승계.공식①유지."
+}

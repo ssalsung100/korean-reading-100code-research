@@ -1,0 +1,135 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BCY": [
+      {
+        "line": 5575,
+        "record_id": "BCY-independent_code-20261002-01",
+        "case": "BCY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:38:45.866881+09:00",
+        "payload": {
+          "passage_group": "G389",
+          "primary_codes": [
+            37
+          ],
+          "auxiliary_codes": [
+            10,
+            16,
+            93
+          ],
+          "surface_codes": [
+            25
+          ],
+          "decisive_operation": "정보를 가진 쪽과 없는 쪽, 장치 제시 주체, 자발적 반응에 의한 정보 노출 여부를 정의의 요건에 맞춰 사례마다 검사한다.",
+          "competitor_refutations": [
+            {
+              "code": 10,
+              "reason": "선별 사례의 적합 요건 확인에서는37과 국소 동일 연산. 요건을 충족해야 할 사례의 누락부를 잡는 데 유효하며 별개 행동으로 중복 계산하지 않음."
+            },
+            {
+              "code": 93,
+              "reason": "ㄱㄷ의 정보 전달과ㅁ의 반응에 의한 전달을 설명하지만 행위가 정의상 선별/신호인지 가르는 구체 요건을 추가해야 한다."
+            },
+            {
+              "code": 78,
+              "reason": "ㄴ 공제에 반응해 조심할 동기를 추측할 수는 있으나 숨은 속성 노출을 뜻하지 않는다. 보기 밖 동기를 추가하여 정답으로 만들면 안 됨."
+            }
+          ],
+          "boundary_note": "ㄴ이 선별이 될 수 없는 세계를 증명한 것이 아니라 현재 제시 문장만으로 요건 충족이 확인되지 않는다는 사례 판정이다.",
+          "confidence": 0.9,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDA": [
+      {
+        "line": 5588,
+        "record_id": "BDA-independent_code-20261002-01",
+        "case": "BDA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:43:15.164276+09:00",
+        "payload": {
+          "passage_group": "G390",
+          "primary_codes": [
+            63
+          ],
+          "auxiliary_codes": [
+            75,
+            44,
+            15
+          ],
+          "surface_codes": [
+            100
+          ],
+          "decisive_operation": "이익에서 독립한 형식미라는 보기 기준을 효용 중심 기원설에 적용해 간과한 성격을 지적한다.",
+          "competitor_refutations": [
+            {
+              "code": 75,
+              "reason": "두 관점의 차이 귀속은 입력이고 비판의 타당성을 판정하는 행위가63이다. 직접 논쟁 여부만으로75를 배제하지 않는다."
+            },
+            {
+              "code": 44,
+              "reason": "번식·생존이라는 목적이 쟁점의 핵심 내용이지만 목적 달성 수단의 효과를 비교하는 것은 아니다. 목적 환원 자체가 비판 대상이다."
+            },
+            {
+              "code": 15,
+              "reason": "보기 기준에 맞는 비판을 고르는 기준 적용은63과 층위가 달라 배타적 후보가 아니다. 아름다움 유무 대신 이익 독립성을 기준으로 삼아야 한다."
+            }
+          ],
+          "boundary_note": "보기의 본질 규정으로 기원 설명을 비판하는 문항이다. 순수 형식미라는 정의가 역사적 발생의 비효용성을 연역적으로 입증한다고 확대하지 않음.",
+          "confidence": 0.89,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BDC": [
+      {
+        "line": 5590,
+        "record_id": "BDC-independent_code-20261002-01",
+        "case": "BDC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:43:15.165815+09:00",
+        "payload": {
+          "passage_group": "G390",
+          "primary_codes": [
+            96
+          ],
+          "auxiliary_codes": [
+            25,
+            38
+          ],
+          "surface_codes": [
+            39,
+            69
+          ],
+          "decisive_operation": "같은의 문맥 기능을 비교 유사성 대신 이론가 부류의 구성원 예시로 판정해 사전 풀이와 대응한다.",
+          "competitor_refutations": [
+            {
+              "code": 39,
+              "reason": "다른 것과 다르지 않다는①은 가능한 뜻이지만 이 문맥은 두 대상의 공통 속성을 비교하지 않는다."
+            },
+            {
+              "code": 69,
+              "reason": "비유나 유추는 의미의 표면 가능성일 뿐, 카밀라 파워는 예시된 실제 이론가로 제시된다."
+            },
+            {
+              "code": 38,
+              "reason": "개체가 부류에 속한다는 뜻풀이의 내용을 직접 드러낸다. 주96의 문맥 의미 판독과 동일 근거를 공유하는 국소 공동 후보."
+            }
+          ],
+          "boundary_note": "96/38/25는 어휘 판독·개체 귀속·분류 출력의 층위. 문장 끝의같다 추정 양상2와도 다름.",
+          "confidence": 0.89,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·제공사전풀이·기존판정직접확인.BCYㄴ의미제시선별반응을외부보험지식으로보완하지않는기존한계승계.BDA기원과본질의논증층위구별."
+}

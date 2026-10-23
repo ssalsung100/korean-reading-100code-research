@@ -1,0 +1,29 @@
+421
+A useful way of thinking about institutional rules is to conceptualize what 
+part of an action situation is affected by a rule (see Figure 4).
+Conceptualizing seven broad types of rules (rather than one or two) has 
+been upsetting to scholars who wanted to rely on simple models of interac-
+tions among humans. In addition to finding seven broad types of rules, how-
+ever, we also found multiple variants of each type. For example, we found 
+27 boundary rules described by case study authors as used in at least one 
+common-pool resource setting (E. Ostrom 1999: 510). Some rules specified 
+diverse forms of residence, organizational memberships, or personal attri-
+butes that are ascribed or acquired. Similarly, we found 112 different choice 
+rules that were usually composed of two parts – an allocation formula specify-
+ing where, when, or how resource units could be harvested and a specific ba-
+sis for the implementation of the formula (such as the amount of land held, 
+historical use patterns, or assignment through lottery) (ibid.: 512).
+E. Long-Surviving Resource Institutions
+After working for several years with colleagues to code cases of successful 
+and failed systems, I thought my next task would be to undertake careful 
+statistical analysis to identify which specific rules were associated with suc-
+cessful systems. I had not yet fully absorbed the incredible number and 
+diversity of rules that the team had recorded. In 1988, I spent a sabbatical 
+leave in a research group organized by Reinhard Selten at the Center for 
+Interdisciplinary Research at Bielefeld University. I struggled to find rules 
+that worked across ecological, social, and economic environments, but the 
+specific rules associated with success or failure varied extensively across sites. 
+Finally, I had to give up the idea that specific rules might be associated with 
+successful cases. 
+Figure 4. Rules as exogenous variables directly affecting the elements of an action situation. 
+Source: Adapted from E. Ostrom, 2005: 189.

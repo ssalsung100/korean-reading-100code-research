@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BEV": [
+      {
+        "line": 5808,
+        "case": "BEV",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G406",
+          "primary": [
+            {
+              "code": 60,
+              "reason": "주장·반박 근거·그 효과의 방향을 복원하여④를 고른다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "모순을 범하는 대상과 모순을 밝혀내는 방법을 구별한다."
+            },
+            {
+              "code": 76,
+              "reason": "본문의 최종 정당화 옹호에 사용된 논증 형식이다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 18,
+              "reason": "모순이 핵심 소재지만 독자가 별도의 자기모순 증명을 새로 수행하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "새 증거로 강도를 평가하는 문항이 아니라 이미 제시된 반박 관계의 방향을 확인한다."
+            },
+            {
+              "code": 80,
+              "rejection": "인식 가능성은 내용이지만 귀류법과 가류주의의 논증 역할이 결정적이다."
+            },
+            {
+              "code": 68,
+              "rejection": "부정하는 입장의 모순을 드러내는 관계로 설명 가능하나 본문의 단순 역할 대조에서 독립 재반론을 구성하지 않는다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEV-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:30:54.865452+09:00"
+      }
+    ],
+    "BEX": [
+      {
+        "line": 5810,
+        "case": "BEX",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G406",
+          "primary": [
+            {
+              "code": 15,
+              "reason": "근거가 되돌아가는가·새 근거가 무한히 필요한가·절대 근거에서 중단하는가라는 분류 기준을 적용한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 60,
+              "reason": "ㄱ·ㄴ의 근거 연결 구조를 복원해야 정의 적용이 가능하다."
+            },
+            {
+              "code": 37,
+              "reason": "구체 사례를[A]개념에 대응하는 단계로15와 중첩한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "ㄴ의 생명 존중 의무는 소재이며 문항은 규범 타당성을 독립 판정하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 76,
+              "rejection": "ㄱㄴ 자체에 부정 가정→모순으로 원명제를 증명하는 구조가 제시되지 않는다."
+            },
+            {
+              "code": 18,
+              "rejection": "순환 논증과 절차 단절은 정당화 오류지만 명제p와¬p의 동시 주장과 동일하지 않다."
+            },
+            {
+              "code": 3,
+              "rejection": "순서만 확인하면 되돌아옴과 중단을 구별할 수 없으며 근거 관계가 필요하다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEX-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:30:55.159629+09:00"
+      }
+    ],
+    "BEZ": [
+      {
+        "line": 5822,
+        "case": "BEZ",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G407",
+          "primary": [
+            {
+              "code": 78,
+              "reason": "파우스트가 욕망 대상을 얻고 놓아주며 새 목표로 나아가는 행위 태도를 해석한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "곤궁의 물질적 대상과⑤의 개인 내면/세계 내부를 구분한다."
+            },
+            {
+              "code": 12,
+              "reason": "③은 두 반응의 서술에서 적당하면 근심 탈출이라는 미제시 조건문을 만든다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "여러 의인화·비유가 있으나 정답④는 인물의 직접 진술을 해석한다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 80,
+              "rejection": "⑤의 오답에는 인식 주체 구별이 필요하지만 정답의 직접 행동은 소유·욕망의 태도다."
+            },
+            {
+              "code": 13,
+              "rejection": "쟁취 욕망과 놓아줄 수 있음은 모순·배타 관계가 아니다."
+            },
+            {
+              "code": 94,
+              "rejection": "원하는 것은 부재한다는 일반 명제를 문항이 요구하지 않으며 현재 소유의 불충분성만으로도 새 추구가 가능하다."
+            }
+          ],
+          "confidence": 0.93,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEZ-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:34:05.970651+09:00"
+      }
+    ]
+  },
+  "BEX": "G406_visual01.mdㄱㄴ전체읽음. BFP006 정의와입력·정당화방향·원점회귀를직접대조. 후보정의는수정하지않음."
+}

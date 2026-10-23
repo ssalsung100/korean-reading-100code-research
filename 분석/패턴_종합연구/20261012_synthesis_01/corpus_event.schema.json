@@ -1,0 +1,688 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:korean-pattern-synthesis:analysis-event:0.3-draft",
+  "title": "기출 판단 장면 잠정 스키마 v0.3-draft",
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "const": "0.3-draft"
+    },
+    "record_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_identity": {
+      "type": "object",
+      "properties": {
+        "case_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "passage_group": {
+          "type": "string",
+          "minLength": 1
+        },
+        "passage_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "identity_family": {
+          "type": "string",
+          "minLength": 1
+        },
+        "question_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "exam_family": {
+          "type": "string",
+          "enum": [
+            "KICE",
+            "LEET",
+            "MEET",
+            "미확인"
+          ]
+        },
+        "sample_split": {
+          "type": "string",
+          "enum": [
+            "discovery",
+            "validation",
+            "future_corpus"
+          ]
+        },
+        "choice_ids": {
+          "type": "array",
+          "items": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 5
+          }
+        }
+      },
+      "required": [
+        "case_id",
+        "passage_group",
+        "passage_id",
+        "identity_family",
+        "question_id",
+        "exam_family",
+        "sample_split",
+        "choice_ids"
+      ],
+      "additionalProperties": false
+    },
+    "analysis_condition": {
+      "type": "object",
+      "properties": {
+        "phase": {
+          "type": "string",
+          "enum": [
+            "기존개별연구",
+            "Sol독립1단계",
+            "코드북외부적용",
+            "작업C종합",
+            "후속검증"
+          ]
+        },
+        "codebook_seen_before_judgment": {
+          "type": "boolean"
+        },
+        "prior_solutions_seen_before_judgment": {
+          "type": "boolean"
+        },
+        "strict_blind_claim": {
+          "type": "boolean"
+        },
+        "historical_exposure": {
+          "type": "string",
+          "enum": [
+            "확인노출",
+            "이력미확인",
+            "해당세션미열람만확인"
+          ]
+        },
+        "history": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "stage": {
+                "type": "string",
+                "minLength": 1
+              },
+              "fact": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_path": {
+                "type": "string",
+                "minLength": 1
+              },
+              "locator": {
+                "type": "string",
+                "minLength": 1
+              },
+              "inherits_to_current": {
+                "type": "boolean"
+              }
+            },
+            "required": [
+              "stage",
+              "fact",
+              "source_path",
+              "locator",
+              "inherits_to_current"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "reasoning_is_reconstructed": {
+          "type": "boolean"
+        },
+        "student_process_observed": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "phase",
+        "codebook_seen_before_judgment",
+        "prior_solutions_seen_before_judgment",
+        "strict_blind_claim",
+        "historical_exposure",
+        "history",
+        "reasoning_is_reconstructed",
+        "student_process_observed"
+      ],
+      "additionalProperties": false
+    },
+    "source_state": {
+      "type": "object",
+      "properties": {
+        "completeness": {
+          "type": "string",
+          "enum": [
+            "판단에충분",
+            "일부결손",
+            "원문결손으로번호불가",
+            "시각전사만",
+            "보강자료사용"
+          ]
+        },
+        "supplements": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "source_limit": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "completeness",
+        "supplements",
+        "source_limit"
+      ],
+      "additionalProperties": false
+    },
+    "text_structure": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "structure_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kind": {
+            "type": "string",
+            "minLength": 1
+          },
+          "scope": {
+            "type": "string",
+            "minLength": 1
+          },
+          "claim": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "actually_used_here": {
+            "type": "boolean"
+          }
+        },
+        "required": [
+          "structure_id",
+          "kind",
+          "scope",
+          "claim",
+          "evidence_ids",
+          "actually_used_here"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "item_manipulation": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "operation_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "target": {
+            "type": "string",
+            "minLength": 1
+          },
+          "kept": {
+            "type": "string",
+            "minLength": 1
+          },
+          "changed_or_required": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "operation_id",
+          "target",
+          "kept",
+          "changed_or_required",
+          "evidence_ids"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "reasoning_steps": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "step_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "input": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "operation": {
+            "type": "string",
+            "minLength": 1
+          },
+          "edge_semantics": {
+            "type": "string",
+            "enum": [
+              "정의대입",
+              "귀속복원",
+              "정의의존",
+              "조건결합",
+              "역상",
+              "시점배치",
+              "비교",
+              "비율",
+              "논증역할",
+              "문맥치환",
+              "범위검사",
+              "근거탐색"
+            ]
+          },
+          "output": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "step_id",
+          "input",
+          "operation",
+          "edge_semantics",
+          "output",
+          "evidence_ids"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "judgment": {
+      "type": "object",
+      "properties": {
+        "content_status": {
+          "type": "string",
+          "enum": [
+            "지지",
+            "반박",
+            "근거부족",
+            "논리적미확정",
+            "자료결손",
+            "내용자체미판정"
+          ]
+        },
+        "task_role_status": {
+          "type": "string",
+          "enum": [
+            "적합",
+            "부적합",
+            "판단보류",
+            "해당없음"
+          ]
+        },
+        "stem_polarity": {
+          "type": "string",
+          "enum": [
+            "긍정선택",
+            "부정선택",
+            "짝짓기",
+            "기타"
+          ]
+        },
+        "answer_action": {
+          "type": "string",
+          "enum": [
+            "선택",
+            "비선택",
+            "번호보류",
+            "해당선지판정만"
+          ]
+        },
+        "selected_answer_in_this_record": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1,
+          "maximum": 5
+        },
+        "official_answer_reused": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1,
+          "maximum": 5
+        },
+        "answer_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "rationale": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "content_status",
+        "task_role_status",
+        "stem_polarity",
+        "answer_action",
+        "selected_answer_in_this_record",
+        "official_answer_reused",
+        "answer_reference",
+        "rationale"
+      ],
+      "additionalProperties": false
+    },
+    "pattern_links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "pattern_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "relation": {
+            "type": "string",
+            "enum": [
+              "구조존재",
+              "문항활용",
+              "풀이유용",
+              "설명만",
+              "경계",
+              "미확인",
+              "미분류"
+            ]
+          },
+          "subtype_id": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "basis": {
+            "type": "string",
+            "minLength": 1
+          },
+          "evidence_ids": {
+            "type": "array",
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          },
+          "necessary_for_all_routes": {
+            "type": "string",
+            "enum": [
+              "예",
+              "아니오",
+              "미확인"
+            ]
+          }
+        },
+        "required": [
+          "pattern_id",
+          "relation",
+          "subtype_id",
+          "basis",
+          "evidence_ids",
+          "necessary_for_all_routes"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "evidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "evidence_id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_path": {
+            "type": "string",
+            "minLength": 1
+          },
+          "source_sha256": {
+            "type": "string",
+            "pattern": "^[0-9a-f]{64}$"
+          },
+          "json_pointer": {
+            "type": "string",
+            "minLength": 1
+          },
+          "char_start": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "char_end_exclusive": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "exact_quote": {
+            "type": "string",
+            "minLength": 1
+          },
+          "verification_level": {
+            "type": "string",
+            "enum": [
+              "문자좌표재검사",
+              "기존검수승계",
+              "원지면직접확인"
+            ]
+          }
+        },
+        "required": [
+          "evidence_id",
+          "source_path",
+          "source_sha256",
+          "json_pointer",
+          "char_start",
+          "char_end_exclusive",
+          "exact_quote",
+          "verification_level"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "boundary": {
+      "type": "object",
+      "properties": {
+        "applicable_if": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "do_not_apply_if": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "counterexample_kind": {
+          "type": "string",
+          "enum": [
+            "없음",
+            "실제경계",
+            "강한기출반례",
+            "창작반모형"
+          ]
+        },
+        "counterexample": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "alternative_valid_route": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "applicable_if",
+        "do_not_apply_if",
+        "counterexample_kind",
+        "counterexample",
+        "alternative_valid_route"
+      ],
+      "additionalProperties": false
+    },
+    "uncertainty": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "kind": {
+            "type": "string",
+            "enum": [
+              "원문결손",
+              "논리적미확정",
+              "반복미검증",
+              "노출제한",
+              "원지면미대조",
+              "의미판정유보",
+              "학생효과미관찰"
+            ]
+          },
+          "note": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "required": [
+          "kind",
+          "note"
+        ],
+        "additionalProperties": false
+      }
+    },
+    "teaching_and_design": {
+      "type": "object",
+      "properties": {
+        "repeatable_action": {
+          "type": "string",
+          "minLength": 1
+        },
+        "design_constraint": {
+          "type": "string",
+          "minLength": 1
+        },
+        "student_effect_verified": {
+          "type": "boolean"
+        }
+      },
+      "required": [
+        "repeatable_action",
+        "design_constraint",
+        "student_effect_verified"
+      ],
+      "additionalProperties": false
+    },
+    "lineage": {
+      "type": "object",
+      "properties": {
+        "original_candidate_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "prior_record_refs": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "supersedes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "revision_reason": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "created_in_run": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "original_candidate_ids",
+        "prior_record_refs",
+        "supersedes",
+        "revision_reason",
+        "created_in_run"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "required": [
+    "schema_version",
+    "record_id",
+    "source_identity",
+    "analysis_condition",
+    "source_state",
+    "text_structure",
+    "item_manipulation",
+    "reasoning_steps",
+    "judgment",
+    "pattern_links",
+    "evidence",
+    "boundary",
+    "uncertainty",
+    "teaching_and_design",
+    "lineage"
+  ],
+  "additionalProperties": false
+}

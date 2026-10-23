@@ -1,0 +1,148 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BTA": [
+      {
+        "line": 7536,
+        "record_id": "BTA-independent_code-20261005-01",
+        "case": "BTA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:27:11.798633+00:00",
+        "payload": {
+          "passage_group": "G533",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 46,
+              "reason": "일제중압감→허무주의·탐구포기라는원인설명을②에대응한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 75,
+              "reason": "서구시인의절망전환을소월에게오귀속하지않는다."
+            },
+            {
+              "code": 2,
+              "reason": "본문의드문예외를고려해모든시·유일원인으로강화하지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 100,
+              "reason": "어둠·에너지비유가있어도②는명시원인설명으로결정된다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "이비평의옳음을외부작품증거로평가하지않는다."
+            },
+            {
+              "code": 79,
+              "rejection": "시인이도덕적의무를위반했는지판정하지않고비평내용을확인한다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BTB": [
+      {
+        "line": 7537,
+        "record_id": "BTB-independent_code-20261005-01",
+        "case": "BTB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:27:28.224118+00:00",
+        "payload": {
+          "passage_group": "G533",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 39,
+              "reason": "두낭만주의를위로/진실인식이라는같은비교축에서대조한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 80,
+              "reason": "감정이인식수단으로작동하는지또는몽롱함을낳는지구분한다."
+            },
+            {
+              "code": 16,
+              "reason": "밖으로향함/보려는에너지는표리일체의두표현으로유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 13,
+              "reason": "대조하지만서구에위로요소가전혀없다는배타성을본문은주장하지않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 86,
+              "rejection": "선명도라는평가가있어도정량값·비율을계산하지않는다."
+            },
+            {
+              "code": 25,
+              "rejection": "새시인을분류하는것이아니라주어진두경향의특성을비교한다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BTD": [
+      {
+        "line": 7539,
+        "record_id": "BTD-independent_code-20261005-01",
+        "case": "BTD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:28:05.724309+00:00",
+        "payload": {
+          "passage_group": "G533",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 15,
+              "reason": "필자의좋은시에대한평가기준을진실탐구의열의로고정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 80,
+              "reason": "시각적명징함과가치질서속사물의진면모인식을구별한다."
+            },
+            {
+              "code": 10,
+              "reason": "정치적반항이라는구체적구현을보편필수요건으로추가하지않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "권장되는시가있지만도덕적당위체계의적용은아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 77,
+              "rejection": "일부시의정치적답변에서모든바람직한시의정치성을일반화하면②로오독한다."
+            },
+            {
+              "code": 100,
+              "rejection": "명징한시각이미지라는표상만으로깊은진실인식을보장하지않는다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·기존 최초풀이·정답대조·독립판정 직접 확인.",
+  "범위": "필자가 소월과 한국/서구 낭만주의를 대비한 범위에 한정. 시대 중압감을 주요 원인으로 추정하는 서술의 강도,개인적 요인의 관여 가능성,드문 정치적 답변의 예외를 보존. 정치적 시의 가치를 부정하는 분석 아님."
+}

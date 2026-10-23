@@ -1,0 +1,12 @@
+{
+  "scope": "이번 작성 문항만 검사; 보호 원장 전수 검증 없음",
+  "case_ids": [
+    "AXR",
+    "AXS"
+  ],
+  "questions": 2,
+  "scenes": 3,
+  "options": 10,
+  "errors": [],
+  "pass": true
+}

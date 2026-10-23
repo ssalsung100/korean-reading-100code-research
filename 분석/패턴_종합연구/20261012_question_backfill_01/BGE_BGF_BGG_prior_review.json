@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BGE": [
+      {
+        "line": 5966,
+        "record_id": "BGE-independent_code-20261002-r3-01",
+        "case": "BGE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:39:51.015818+09:00",
+        "payload": {
+          "passage_group": "G418",
+          "general_task": "환원불성립주장약화",
+          "decisive_relation": "근사해의부정확성이라는한근거를부정하는증거",
+          "primary": [
+            63
+          ],
+          "auxiliary": [
+            73,
+            62
+          ],
+          "surface": [
+            92,
+            86
+          ],
+          "code_rationale": {
+            "63": "ㄴ은환원불성립결론의지지를낮춤",
+            "73": "근사는정확한설명예측을못한다는전제에반대",
+            "62": "근사성→설명불완전연결을약화"
+          },
+          "competing_codes": [
+            {
+              "code": 18,
+              "rebuttal": "ㄴ이한근거와충돌해도결론전체의논리적모순을증명하지않음."
+            },
+            {
+              "code": 86,
+              "rebuttal": "ㄷ의계산난이도상대비교는환원가능성과직결되지않는중립후보."
+            },
+            {
+              "code": 92,
+              "rebuttal": "근사계산을실제로수행할필요없음."
+            }
+          ],
+          "confidence": 0.97,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BGF": [
+      {
+        "line": 5967,
+        "record_id": "BGF-independent_code-20261002-r3-01",
+        "case": "BGF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:39:51.129647+09:00",
+        "payload": {
+          "passage_group": "G418",
+          "general_task": "분야관계의구조유추",
+          "decisive_relation": "불완전설명과상호발전의두관계를대응",
+          "primary": [
+            69
+          ],
+          "auxiliary": [
+            19,
+            46
+          ],
+          "surface": [
+            74,
+            82
+          ],
+          "code_rationale": {
+            "69": "물리/화학→화학/생물의역할대응",
+            "19": "설명공백을메우려는시도가도구발전을촉진",
+            "46": "환원노력의양방향발전효과"
+          },
+          "competing_codes": [
+            {
+              "code": 74,
+              "rebuttal": "경쟁가설의관측예측을비교하는것이아니라구조대응."
+            },
+            {
+              "code": 82,
+              "rebuttal": "불완전환원과발전을곧정반합이나새학문탄생으로읽을근거없음."
+            },
+            {
+              "code": 63,
+              "rebuttal": "새사례가원주장을강화하는지가아니라관계가닮았는지평가."
+            }
+          ],
+          "confidence": 0.99,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BGG": [
+      {
+        "line": 5978,
+        "record_id": "BGG-independent_code-20261002-r3-01",
+        "case": "BGG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:42:38.622734+09:00",
+        "payload": {
+          "passage_group": "G419",
+          "general_task": "글쓴이의 개혁 입장 확인",
+          "decisive_relation": "수조 권리의 분급·회수 대상을 일반 백성의 토지 소유권으로 교체",
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            4,
+            79
+          ],
+          "surface": [
+            59,
+            83
+          ],
+          "code_rationale": {
+            "17": "개혁 대상인 권리와 소유 토지를 구분",
+            "4": "직역자·불법겸병 통제를 백성 일반으로 확대",
+            "79": "사적 전수 금지와 분급 자격이라는 규범내용"
+          },
+          "competing_codes": [
+            {
+              "code": 59,
+              "rebuttal": "폐단개선 구조는 배경이며 정답은 해결대상의 부당한 교체."
+            },
+            {
+              "code": 4,
+              "rebuttal": "대상수량 확대만 아니라 권리종류도 바뀌므로17을 우선."
+            },
+            {
+              "code": 83,
+              "rebuttal": "사실에서 당위를 도출하는지를 평가하지 않는다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "G418": "공식2010홀수형12쪽의공통본문·수식·28번보기전체직접확인. 기존JSON의수식전사결손은외부지식으로고치지않고공식이미지근거연결. 두문항결정에는수식연산이아닌정확해/근사·경험자료의존이필요."
+}

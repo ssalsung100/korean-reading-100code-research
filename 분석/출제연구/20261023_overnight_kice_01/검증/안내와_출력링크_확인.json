@@ -1,0 +1,27 @@
+{
+  "시각": "2026-10-23T06:48:34.402828+09:00",
+  "로컬링크검사수": 202,
+  "깨진로컬링크": [],
+  "로컬raw건수": 92,
+  "raw중복ID": false,
+  "교사용PDF_실제외부링크": {
+    "교사용_01_지역빈곤.pdf": [
+      "https://documents1.worldbank.org/curated/en/775871468331250546/pdf/902880WP0Box380okPovertyAnalysisEng.pdf#page=69",
+      "https://worldbank.github.io/PIP-Methodology-2022-04/surveyestimates.html"
+    ],
+    "교사용_02_품질보증.pdf": [
+      "https://www.nobelprize.org/uploads/2018/06/spence-lecture.pdf"
+    ],
+    "교사용_03_공유자원.pdf": [
+      "https://dlc.dlib.indiana.edu/dlc/bitstreams/120981f9-4a44-48e2-b930-1c7e726b2eb8/download",
+      "https://www.nobelprize.org/uploads/2018/06/ostrom_lecture.pdf"
+    ],
+    "교사용_04_사회적확산.pdf": [
+      "https://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Centola-2010-Science.pdf",
+      "https://ndg.asc.upenn.edu/wp-content/uploads/2016/04/Centola-Macy-2007-AJS.pdf"
+    ]
+  },
+  "검사범위": "이번 작업 폴더 내 안내·산출물 링크와 raw ID, 변경된 교사용 PDF 링크. 기존 원장 전수 감사 아님.",
+  "링크수정후확인시각": "2026-10-23T07:18:27.023501+09:00",
+  "수정": "새 C 교사용 보존본의 상대 링크를 함께 보존한 수정전 학생용 v4로 연결. 해설 문안은 유지."
+}

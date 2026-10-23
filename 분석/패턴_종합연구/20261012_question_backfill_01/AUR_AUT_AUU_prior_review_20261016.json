@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AUR": [
+      {
+        "line": 4612,
+        "record_id": "AUR-independent_code-20260928-01",
+        "case": "AUR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            60,
+            97
+          ],
+          "auxiliary": [
+            14,
+            44
+          ],
+          "surface": [
+            63,
+            100
+          ],
+          "decisive_operation": "배우의 존칭·협조라는표면행위와독재 집착을비판하는 발화 기능을 함께 읽어 극 전체의 사회 비판 기능을 판단.",
+          "competitor_refutations": [
+            {
+              "code": 63,
+              "reason": "비판은 문학적 기능이며 새 논거의 강화효과를 고르는 과제가 아니다."
+            },
+            {
+              "code": 100,
+              "reason": "고전 인용만으로 권위 해체가 되지 않으며 패러디 형식의 효과를 문맥에서 확인해야 한다."
+            },
+            {
+              "code": 13,
+              "reason": "순응 형식과비판 기능은 상호 배타가 아니다."
+            }
+          ],
+          "confidence": 0.94,
+          "passage_group": "G320",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUT": [
+      {
+        "line": 4614,
+        "record_id": "AUT-independent_code-20260928-01",
+        "case": "AUT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            100,
+            17
+          ],
+          "auxiliary": [
+            93,
+            97,
+            23
+          ],
+          "surface": [
+            78,
+            80
+          ],
+          "decisive_operation": "아가씨와 건달들의 공연 제목과동시대 세태를 나타내는 상징 기능을 확인하고,다른 선택지의 주체·기능 확대를 배제.",
+          "competitor_refutations": [
+            {
+              "code": 23,
+              "reason": "두 설명이 모두 참이어야 하므로 보조적 연언 검사지만 특정 소재가 무엇을 나타내는지 해석이 먼저다."
+            },
+            {
+              "code": 78,
+              "reason": "독재자의 욕망과불안은①③ 판정 근거지만 정답은 사회변화 상징이다."
+            },
+            {
+              "code": 80,
+              "reason": "인물 인용=작가 생각의 귀속 오류는③ 제거 경로이며②의 이중 상징 기능을 대신하지 않는다."
+            }
+          ],
+          "confidence": 0.94,
+          "passage_group": "G320",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUU": [
+      {
+        "line": 4625,
+        "record_id": "AUU-independent_code-20260928-01",
+        "case": "AUU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            16,
+            7
+          ],
+          "auxiliary": [
+            1,
+            62,
+            17
+          ],
+          "surface": [
+            42,
+            46
+          ],
+          "decisive_operation": "경제 발전을 경로의 비연속 변경으로 정의하고 저축량 증가의 충분성을 부정한다.",
+          "competitor_refutations": [
+            {
+              "code": 42,
+              "reason": "내부/외부는④ 제거 경로이며⑤는 양적 증가와발전의 구별이다."
+            },
+            {
+              "code": 86,
+              "reason": "저축의 크기를 실제 비교·계산하지 않는다."
+            },
+            {
+              "code": 46,
+              "reason": "단순 원인 찾기보다 발전 개념을 충족하는 변화 종류를 구분해야 한다."
+            }
+          ],
+          "confidence": 0.96,
+          "passage_group": "G321",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정직접확인.존칭형식/비판기능양립,인물인용/작가사상,경제전체/발전정의범위구별."
+}

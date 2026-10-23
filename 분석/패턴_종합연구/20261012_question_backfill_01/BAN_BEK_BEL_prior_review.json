@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BAN": [
+      {
+        "line": 5303,
+        "record_id": "BAN-independent_code-20261001-01",
+        "case": "BAN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            75
+          ],
+          "auxiliary": [
+            12,
+            10,
+            56
+          ],
+          "surface": [
+            78,
+            83
+          ],
+          "decisive_operation": "원래 욕구 이론의 기준과 비판자·수정 이론의 기준을 분리한다.충족 충분성은 유지,심리 변화 필요성은 부정,가치 이유는 욕구됨으로 귀속한다.",
+          "evidence": [
+            "ㄱ 충분성 부정은 원래 이론과 다름",
+            "ㄴ 현실 구현과 느낌 구별",
+            "ㄷ 목록의 내재 가치와 욕구됨에 따른 이유 구별"
+          ],
+          "competing_codes": [
+            {
+              "code": 12,
+              "rebuttal": "ㄱ에는 충분조건 판정이 직접 필요하나 ㄴㄷ까지 통일하는 결정은 원래 이론 관점 유지다."
+            },
+            {
+              "code": 10,
+              "rebuttal": "ㄴ은 느낌의 필수성을 부정하고ㄱ도 필요조건 표현을 포함하나 모든 선택지를 필요조건 검토 하나로 환원하면ㄷ의 이유 귀속이 사라진다."
+            },
+            {
+              "code": 78,
+              "rebuttal": "욕구라는 단어가 많아도 구체 행위자의 행동을 동기에서 설명하는 문항이 아니라 이론의 판정 원리를 묻는다."
+            },
+            {
+              "code": 63,
+              "rebuttal": "비판 내용을 이론과 분리해야 하지만 새 증거가 이론을 강화하는지 평가하는 문제는 아니다."
+            }
+          ],
+          "boundary_note": "충족은 충분하다는 원이론과 합리적 충족만 인정하는 수정 이론의 전건 범위 차이를 보존한다.",
+          "confidence": 0.94,
+          "passage_group": "G369",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BEK": [
+      {
+        "line": 5756,
+        "case": "BEK",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G402",
+          "primary": [
+            {
+              "code": 44,
+              "reason": "특정한 개인정보 노출 방지 목적에 맞는 기능을 선별한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "충돌 해소·분실 방지·판독 제한이라는 해결 대상이 다르다."
+            },
+            {
+              "code": 50,
+              "reason": "작동 불능화는 정보 전달 과정 자체를 끊는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 19,
+              "reason": "각 방법이 문제를 보완하지만 목표를 구분하지 않는 보완 일반론으로는 정답을 정하지 못한다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 20,
+              "rejection": "복수 수단을 고르지만 상호대체가 논점이 아니라 지정한 문제에 대한 적합성이다."
+            },
+            {
+              "code": 2,
+              "rejection": "안전의 가능 강도를 읽을 필요는 있으나 어떤 위험을 대상으로 하는지 먼저 고정해야 한다."
+            },
+            {
+              "code": 59,
+              "rejection": "문제해결 구조와 중첩 가능. 별도 배타 경계 없이 직접 수단·목적 대응의 대표로44를 쓴다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEK-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:13:56.312615+09:00"
+      }
+    ],
+    "BEL": [
+      {
+        "line": 5757,
+        "case": "BEL",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G402",
+          "primary": [
+            {
+              "code": 15,
+              "reason": "보기의 같은 시스템·서로 다른 기술적 특성·상충이라는 요건을 각 사례에 적용한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "윤리적 가치와 기술적 특성이라는 대상 범위 구분이④와⑤를 가른다."
+            },
+            {
+              "code": 88,
+              "reason": "기능 이득과 전력 부담의 상충이 적용할 개념 내용이다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 70,
+              "reason": "모두 얻지 못하는 형상은 있으나 선택지별 딜레마 논증을 수행하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 37,
+              "rejection": "15와 공통 정의·사례 대응 행동이며 배타 반증하지 않는다. 정의의 제한 조건을 강조하는 대표로15를 택한다."
+            },
+            {
+              "code": 46,
+              "rejection": "원인·결과이면①②③도 들어오므로 인과만으로는 가치 교환 요건이 부족하다."
+            },
+            {
+              "code": 83,
+              "rejection": "④의 윤리적 가치 소재가 보기의 기술 범위에 들어감을 보장하지 않는다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEL-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:13:56.463018+09:00"
+      }
+    ]
+  },
+  "views": "G369_visual01.md와G402_visual01.md 전체 직접 열람. 대상 manifest의625→626은U0330→U0363순서이며기존선정순서를그대로소비."
+}

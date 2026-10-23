@@ -1,0 +1,421 @@
+{
+  "scope": "발견용 기존 분석 재사용",
+  "legacy_source": "../20261009_pilot_01/pilot_counts.json",
+  "counts": {
+    "P01": {
+      "evidence_events": 6,
+      "observed_passages": 6,
+      "utilized_passages": 6,
+      "utilized_questions": 6,
+      "source_questions": 6,
+      "structure_only_events": [],
+      "event_ids": [
+        "E007",
+        "E011",
+        "E016",
+        "E033",
+        "E036",
+        "E040"
+      ],
+      "utilized_events": 6,
+      "solution_helpful_events": 6,
+      "solution_helpful_questions": 6,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 3,
+          "questions": 3
+        },
+        "LEET": {
+          "passages": 2,
+          "questions": 2
+        },
+        "MEET": {
+          "passages": 1,
+          "questions": 1
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "P02": {
+      "evidence_events": 3,
+      "observed_passages": 2,
+      "utilized_passages": 2,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E003",
+        "E025",
+        "E026"
+      ],
+      "utilized_events": 3,
+      "solution_helpful_events": 3,
+      "solution_helpful_questions": 3,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 2,
+          "questions": 3
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "P03": {
+      "evidence_events": 3,
+      "observed_passages": 2,
+      "utilized_passages": 2,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E004",
+        "E005",
+        "E018"
+      ],
+      "utilized_events": 3,
+      "solution_helpful_events": 3,
+      "solution_helpful_questions": 3,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 2,
+          "questions": 3
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "P04": {
+      "evidence_events": 3,
+      "observed_passages": 3,
+      "utilized_passages": 3,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E002",
+        "E013",
+        "E022"
+      ],
+      "utilized_events": 3,
+      "solution_helpful_events": 3,
+      "solution_helpful_questions": 3,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 3,
+          "questions": 3
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "P05": {
+      "evidence_events": 5,
+      "observed_passages": 4,
+      "utilized_passages": 4,
+      "utilized_questions": 4,
+      "source_questions": 5,
+      "structure_only_events": [
+        "E028"
+      ],
+      "event_ids": [
+        "E010",
+        "E015",
+        "E019",
+        "E028",
+        "E030"
+      ],
+      "utilized_events": 4,
+      "solution_helpful_events": 4,
+      "solution_helpful_questions": 4,
+      "explanatory_events": 1,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 4,
+          "questions": 4
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "P06": {
+      "evidence_events": 2,
+      "observed_passages": 2,
+      "utilized_passages": 2,
+      "utilized_questions": 2,
+      "source_questions": 2,
+      "structure_only_events": [],
+      "event_ids": [
+        "E037",
+        "E039"
+      ],
+      "utilized_events": 2,
+      "solution_helpful_events": 2,
+      "solution_helpful_questions": 2,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 0,
+          "questions": 0
+        },
+        "LEET": {
+          "passages": 1,
+          "questions": 1
+        },
+        "MEET": {
+          "passages": 1,
+          "questions": 1
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "P07": {
+      "evidence_events": 3,
+      "observed_passages": 3,
+      "utilized_passages": 3,
+      "utilized_questions": 3,
+      "source_questions": 3,
+      "structure_only_events": [],
+      "event_ids": [
+        "E017",
+        "E021",
+        "E035"
+      ],
+      "utilized_events": 3,
+      "solution_helpful_events": 3,
+      "solution_helpful_questions": 3,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 2,
+          "questions": 2
+        },
+        "LEET": {
+          "passages": 1,
+          "questions": 1
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "S01": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E009"
+      ],
+      "utilized_events": 1,
+      "solution_helpful_events": 1,
+      "solution_helpful_questions": 1,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 1,
+          "questions": 1
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "S02": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E020"
+      ],
+      "utilized_events": 1,
+      "solution_helpful_events": 1,
+      "solution_helpful_questions": 1,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 1,
+          "questions": 1
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "S03": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E023"
+      ],
+      "utilized_events": 1,
+      "solution_helpful_events": 1,
+      "solution_helpful_questions": 1,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 1,
+          "questions": 1
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "S04": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E029"
+      ],
+      "utilized_events": 1,
+      "solution_helpful_events": 1,
+      "solution_helpful_questions": 1,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 1,
+          "questions": 1
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "S05": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E031"
+      ],
+      "utilized_events": 1,
+      "solution_helpful_events": 1,
+      "solution_helpful_questions": 1,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 0,
+          "questions": 0
+        },
+        "LEET": {
+          "passages": 1,
+          "questions": 1
+        },
+        "MEET": {
+          "passages": 0,
+          "questions": 0
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    },
+    "S06": {
+      "evidence_events": 1,
+      "observed_passages": 1,
+      "utilized_passages": 1,
+      "utilized_questions": 1,
+      "source_questions": 1,
+      "structure_only_events": [],
+      "event_ids": [
+        "E038"
+      ],
+      "utilized_events": 1,
+      "solution_helpful_events": 1,
+      "solution_helpful_questions": 1,
+      "explanatory_events": 0,
+      "by_exam_family": {
+        "KICE": {
+          "passages": 0,
+          "questions": 0
+        },
+        "LEET": {
+          "passages": 0,
+          "questions": 0
+        },
+        "MEET": {
+          "passages": 1,
+          "questions": 1
+        }
+      },
+      "counts_are": "목적 표본의 연결 근거; 원 코퍼스 발생률 아님"
+    }
+  },
+  "legacy_differences": [],
+  "application_family_matrix_matches": true,
+  "direct_utilized_unique_questions": 29,
+  "unclassified_events": 15,
+  "corpus_prevalence": null
+}

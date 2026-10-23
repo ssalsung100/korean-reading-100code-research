@@ -1,0 +1,92 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AXB": [
+      {
+        "line": 4885,
+        "record_id": "AXB-independent_code-20260928-01",
+        "case": "AXB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            45,
+            91
+          ],
+          "auxiliary": [
+            84,
+            17,
+            19
+          ],
+          "surface": [
+            86,
+            92
+          ],
+          "decisive_operation": "세관측량을각기핵반경·칭동·반지각모델요소에연결하고반비례방향을보존.",
+          "competitor_refutations": [
+            {
+              "code": 86,
+              "reason": "전체정규관성과외곽관성의값방향만비교하면칭동대상을혼동한다."
+            },
+            {
+              "code": 92,
+              "reason": "수치계산이아니라주어진고정M/R하의증감관계합성이다."
+            },
+            {
+              "code": 19,
+              "reason": "고밀도반지각은설명부족보충경로이나세가정의모델수정전체를대체하지않는다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G340",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AXC": [
+      {
+        "line": 4897,
+        "record_id": "AXC-independent_code-20260928-01",
+        "case": "AXC",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            39,
+            17
+          ],
+          "auxiliary": [
+            80,
+            15
+          ],
+          "surface": [
+            75,
+            63
+          ],
+          "decisive_operation": "각이론의평가대상·주체·의미생산과정을분리하여주장귀속확인.",
+          "competitor_refutations": [
+            {
+              "code": 75,
+              "reason": "이론간논쟁은있으나누가옳은지보다각주장의정확귀속을묻는다."
+            },
+            {
+              "code": 63,
+              "reason": "비판관계소개를새증거의강화/약화평가로바꾸지않는다."
+            },
+            {
+              "code": 79,
+              "reason": "좋고나쁨의내용이있어도새규범판단을요구하지않는다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G341",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "AXB_provenance": "기존 hold→공식 가정만 복원→blind→group answer 순서 보존. 현재 source의 복원 가정과 기존G340_visual02.md의ㄱㄴㄷ을 직접 읽음. 신규 blind 아님.",
+  "AXB_new_review": "세 측정량을 각각 모델 요소에 대응한 기존 해석은 유지하되 외곽 평균 증가에서 반지각 두께 증가의 전역 유일성은 새 가상 동심 구형 층 모형으로 검토했다. 검산은AXB_countermodel_verification.json."
+}

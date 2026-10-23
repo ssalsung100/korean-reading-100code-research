@@ -1,0 +1,149 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AWD": [
+      {
+        "line": 4776,
+        "record_id": "AWD-independent_code-20260928-01",
+        "case": "AWD",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            10,
+            23,
+            37
+          ],
+          "auxiliary": [
+            100,
+            17
+          ],
+          "surface": [
+            18,
+            14
+          ],
+          "decisive_operation": "주제의인간적온기와표현방법의역설이라는별개요건을동시에검사한다.",
+          "competitor_refutations": [
+            {
+              "code": 18,
+              "reason": "차갑고따뜻함은같은층위의논리모순이아니라촉각/정신온기의역설이다."
+            },
+            {
+              "code": 100,
+              "reason": "의인화나비유가있는것만으로ⓑ의역설요건까지충족하지않는다."
+            },
+            {
+              "code": 39,
+              "reason": "선지비교만의과제보다두선정요건의교집합확인이명시적이다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G332",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "BAT": [
+      {
+        "line": 5317,
+        "record_id": "BAT-independent_code-20261001-01",
+        "case": "BAT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            39,
+            62
+          ],
+          "surface": [
+            4,
+            19
+          ],
+          "decisive_operation": "관계의 수·범위인 다대성과 친족 역할을 모방하는 제도적 속성을 구분해 근거 없는 약화 연결을 배제한다.",
+          "evidence": [
+            "3문단 다대적 확장",
+            "4문단 역할 모방·금혼 적용으로 의사친족 설명"
+          ],
+          "competing_codes": [
+            {
+              "code": 49,
+              "rebuttal": "다대성 증가와 의사친족성 감소라는 상관이 본문에 제시되지 않는다. 주어진 방향 적용이 아니라 그런 연결의 근거 부재를 확인한다."
+            },
+            {
+              "code": 62,
+              "rebuttal": "관계 부정으로도 기술 가능하지만 전역 독립성이나 반비례 부정을 증명한 것은 아니다. 특정 선지의 연결을 지지할 근거가 없음을 기록한다."
+            },
+            {
+              "code": 4,
+              "rebuttal": "다수·세대 수가 등장하지만 모든/일부의 범위 바꾸기가②의 직접 오류는 아니다."
+            }
+          ],
+          "boundary_note": "⑤의 사람형 비성사에 대한 문장을 비성사 전체로 일반화하는 표현 범위는 별도 유보하며 답 일치로 삭제하지 않는다.",
+          "confidence": 0.88,
+          "passage_group": "G371",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BAV": [
+      {
+        "line": 5319,
+        "record_id": "BAV-independent_code-20261001-01",
+        "case": "BAV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            46
+          ],
+          "auxiliary": [
+            44,
+            19
+          ],
+          "surface": [
+            42,
+            83
+          ],
+          "decisive_operation": "새 관계망 형성→자원 접근 용이→사회적 역량 확대라는 본문 효과를 확인한다.관계 확대의 효과를 재분배나핵가족추세완화로늘리지않는다.",
+          "evidence": [
+            "4문단 사회정치적 필요에 따른 새 관계망",
+            "마지막 문장:핵가족 증가에도 사회 관계 획득 수단"
+          ],
+          "competing_codes": [
+            {
+              "code": 44,
+              "rebuttal": "사회관계 획득의 수단이라는 설명과 중첩한다.발문은 현실적 유효성을 묻고②는 결과를 서술하므로46을 작업 대표로 택하되 유일주 확정은 유보."
+            },
+            {
+              "code": 19,
+              "rebuttal": "좁은 친족을 보완하는 제도는 지문 배경이지만② 결정에 결핍과 보충의 전 구조를 재구성할 필요는 없다."
+            },
+            {
+              "code": 42,
+              "rebuttal": "가족 밖 관계로 확장한다는 경계는 소재이고 실질 판단은 그 확장의 효과다."
+            },
+            {
+              "code": 63,
+              "rebuttal": "제도의 유효성을 묻지만 새 사례나 근거가 주장을 강화하는지 검토하지 않고 이미 서술된 효과를 요약한다."
+            }
+          ],
+          "boundary_note": "개인의 접근성 증대를 사회적 재분배 성과로 바꾸면 행위자·효과 범위가 확대된다.",
+          "confidence": 0.92,
+          "passage_group": "G371",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정직접확인.",
+  "출처": "BAT/BAV기존answer_access의정본연결표시를유지.이번별도공식정답표독립확인으로격상하지않음.대상manifest순서로U0293→U0332이동하며G024/G370hold불변.",
+  "유보": "BAT⑤사람매개비성사의약한권리·의무를비성사전체로넓힌표현의기존한계승계."
+}

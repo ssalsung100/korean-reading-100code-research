@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BCL": [
+      {
+        "line": 5520,
+        "record_id": "BCL-independent_code-20261002-01",
+        "case": "BCL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:24:05.016547+09:00",
+        "payload": {
+          "passage_group": "G385",
+          "primary_codes": [
+            23
+          ],
+          "auxiliary_codes": [
+            39
+          ],
+          "surface_codes": [
+            3,
+            42
+          ],
+          "decisive_operation": "#8~#10 각각에서 비명이라는 동일 속성을 찾고 셋에 공통임을 확인한다. #6/#7의 날벌레와 기차라는 복합 주장에서는 한 요소 부재로 배제한다.",
+          "competitor_refutations": [
+            {
+              "code": 39,
+              "reason": "장면별 대조는 필수이나 공통 속성 추출을 명시하는23과 국소 동일 연산이다. 별개 필수 행동으로 중복 계수하지 않는다."
+            },
+            {
+              "code": 3,
+              "reason": "장면의 나열 순서는 고정되어 있고 과거/현재 순서 판단은④의 참을 바꾸지 않는다."
+            },
+            {
+              "code": 42,
+              "reason": "⑤의 방 안팎에는 적용되나 정답④의 공통 음성 요소 판독에는 필요하지 않다."
+            }
+          ],
+          "boundary_note": "23/39 작업대표23, 전역 통합 아님. 공통 요소가 같은 등장인물의 같은 사건이라는 뜻도 아님.",
+          "confidence": 0.88,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BCN": [
+      {
+        "line": 5522,
+        "record_id": "BCN-independent_code-20261002-01",
+        "case": "BCN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:24:05.017873+09:00",
+        "payload": {
+          "passage_group": "G385",
+          "primary_codes": [
+            17
+          ],
+          "auxiliary_codes": [
+            25,
+            44
+          ],
+          "surface_codes": [
+            40,
+            3
+          ],
+          "decisive_operation": "장면12가 속한 사건 단위를 버스 여정으로 고정하여 주 스토리의 계속인지 별도의 부수 스토리인지 판정한 뒤 제시 목적의 귀속을 검사한다.",
+          "competitor_refutations": [
+            {
+              "code": 44,
+              "reason": "남겨 둔 장면의 목적 설명이 오류라는 점은 맞으나 목적 판정의 근거는 장면이 어느 이야기인가이다. 17/25의 입력 판독 뒤의 보조."
+            },
+            {
+              "code": 25,
+              "reason": "주/부수 분류와17의 귀속 판독은 이 사례에서 겹친다. 범주표를 별도 추론으로 더 세지 않는다."
+            },
+            {
+              "code": 40,
+              "reason": "작품의 한 장면이라는 구성 사실만으로 주/부수를 판별할 수 없다. 부분의 성질을 전체에 전이하는 오류도 아니다."
+            }
+          ],
+          "boundary_note": "17/25 유일한 코드 우선성은 확정하지 않고17을 작업대표로 둔다. BCN②의 결정권 부재는 문맥적 인물 성격 암시로 한정한다.",
+          "confidence": 0.88,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BCP": [
+      {
+        "line": 5535,
+        "record_id": "BCP-independent_code-20261002-01",
+        "case": "BCP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:27:58.084450+09:00",
+        "payload": {
+          "passage_group": "G386",
+          "primary_codes": [
+            46
+          ],
+          "auxiliary_codes": [
+            69,
+            3,
+            5
+          ],
+          "surface_codes": [
+            17
+          ],
+          "decisive_operation": "엄마 항원 노출→항체 생성→태반 통과→태아 혈구 파괴의 경로를 보존하고 이전 노출이 있으면 첫 임신도 재노출이 될 수 있음을 복원한다.",
+          "competitor_refutations": [
+            {
+              "code": 69,
+              "reason": "ㄱ의 균 파괴/혈구 파괴 기능 대응은 독립 필수 하위행동이다. 그러나ㄴ 보체 증가 배제와ㄹ 이전 노출의 영향은 대응만으로 끝나지 않아 문항 전체 주46을 둔다."
+            },
+            {
+              "code": 3,
+              "reason": "임신 순번과 실제 노출 순서는 다르다. 선후 확인은 항체 생성 경로의 선행 조건이며 단순 시간 순서 암기가 아니다."
+            },
+            {
+              "code": 5,
+              "reason": "보체가 면역 반응으로 늘지 않는다는 불변성을ㄴ에 적용한다. 이 부분은 주46과 구별되는 보조 판단이다."
+            }
+          ],
+          "boundary_note": "ㄱ69와ㄴ5와ㄹ46/3은 서로 다른 하위선지에 분포. 주46이 모든 선지의 단일 연산이라고 주장하지 않는다.",
+          "confidence": 0.89,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.BCN②무권한범위와BCPㄱ기능적용범위의기존유보승계.의학가상사례는본문독해로한정."
+}

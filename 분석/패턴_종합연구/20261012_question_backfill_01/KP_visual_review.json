@@ -1,0 +1,33 @@
+{
+  "status": "이번 사후 보완에서 주 에이전트가 PNG5개 직접 열람한 관찰 기록·원문 문장 아님",
+  "source_limit": "기존 로컬 HWPX에서 복원된 이미지. 원배포 PDF와의 별도 대조는 하지 않음.",
+  "axis": "가로 시간(일출~일몰), 세로 수분 퍼텐셜(위가 높음). 0선 아래 점선은 토양 수분 퍼텐셜.",
+  "choices": [
+    {
+      "number": 1,
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_1.png",
+      "observation": "일출0, 일몰 토양 점선과 같음. 중간은 점선 아래로 내려갔다가 회복."
+    },
+    {
+      "number": 2,
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_2.png",
+      "observation": "일출·일몰 모두 토양 점선 아래. 중간 곡선도 전체가 점선 아래."
+    },
+    {
+      "number": 3,
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_3.png",
+      "observation": "일출 점선 아래, 일몰0. 말기에 토양 점선을 통과해 위로 올라감."
+    },
+    {
+      "number": 4,
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_4.png",
+      "observation": "일출·일몰 모두0. 중간에 토양 점선 아래로 내려갔다가 올라감."
+    },
+    {
+      "number": 5,
+      "path": "data/기본기_연구/prepared_backlog/blind_sources/G073_KP_choice_5.png",
+      "observation": "일출 토양 점선과 같음, 일몰 점선 아래. 중간도 점선 아래."
+    }
+  ],
+  "inference_limit": "본문의 일반적인 토양>잎 순위를 선택 조건으로 사용. 곡선의 정밀한 시간함수·낙폭·최저점 시각·밤의 평형을 도출한 기록이 아님."
+}

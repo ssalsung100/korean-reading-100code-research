@@ -1,0 +1,25 @@
+{
+  "status": "본문 모형에 대입한 사후 반례; 실제 관측값 아님",
+  "origin": 5,
+  "voter": 6,
+  "candidates": [
+    {
+      "position": 7,
+      "direct_distance": 1,
+      "directional_utility": 2
+    },
+    {
+      "position": 5,
+      "direct_distance": 1,
+      "directional_utility": 0
+    },
+    {
+      "position": 8,
+      "direct_distance": 2,
+      "directional_utility": 3
+    }
+  ],
+  "implication": "직접거리가 같아도 방향 효용이 다르고, 직접거리 증가 때 효용이 커질 수 있다. 방향 이론은 직접거리만으로 결정되지 않는다.",
+  "official_answer": 2,
+  "remaining": "②의 간 거리를 원점 거리까지 포괄하는 의도로 읽을 수 있는지의 표현 유보. 공식답으로 해소하지 않음."
+}

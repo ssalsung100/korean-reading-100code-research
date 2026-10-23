@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AUN": [
+      {
+        "line": 4585,
+        "record_id": "AUN-independent_code-20260928-01",
+        "case": "AUN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            37,
+            16
+          ],
+          "auxiliary": [
+            46,
+            17,
+            40
+          ],
+          "surface": [
+            44,
+            81
+          ],
+          "decisive_operation": "도발적 요구·부품화의 정의를 강/발전소 사례에 적용해 기능 한정을 본래 가치 증대로 바꾼③을 거부한다.",
+          "competitor_refutations": [
+            {
+              "code": 44,
+              "reason": "전력 생산 목적은 있지만 목적 달성이 자연의 본래 가치 증가를 보장하지 않는다."
+            },
+            {
+              "code": 86,
+              "reason": "가치 증대라는 말에도 불구하고 수량 비교가 아니라 존재의 부품화 여부를 판정한다."
+            },
+            {
+              "code": 3,
+              "reason": "⑤의 전후 비교는 보조 확인이며③의 본래성 평가 반전이 결정적이다."
+            },
+            {
+              "code": 69,
+              "reason": "상황은 정의의 직접 구현 사례이며 별도 유사성으로 미지 결론을 전이하는 것이 아니다."
+            }
+          ],
+          "unresolved": "⑤의 과거 무요구는 보기 전후 대비에 한정; 역사적 전칭 주장으로 만들지 않음.",
+          "confidence": 0.95,
+          "passage_group": "G318",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUO": [
+      {
+        "line": 4596,
+        "record_id": "AUO-independent_code-20260928-01",
+        "case": "AUO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            23,
+            39
+          ],
+          "auxiliary": [
+            17,
+            4
+          ],
+          "surface": [
+            75,
+            79
+          ],
+          "decisive_operation": "네 설명의 공동체 기능을 교차 확인하여 공동체 의식 공유를 공통항으로 남긴다.",
+          "competitor_refutations": [
+            {
+              "code": 75,
+              "reason": "경쟁하는 설명이지만 승패 판정이 아니라 공통 견해의 추출이다."
+            },
+            {
+              "code": 4,
+              "reason": "네 설명 모두 확인하는 범위 통제는 필요하나 본질은 동일 의미의 공통항 찾기다."
+            },
+            {
+              "code": 13,
+              "reason": "공동체 의식과 실제 불평등은 양립하므로 양립불가로 처리하면④에 끌린다."
+            }
+          ],
+          "confidence": 0.96,
+          "passage_group": "G319",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AUP": [
+      {
+        "line": 4597,
+        "record_id": "AUP-independent_code-20260928-01",
+        "case": "AUP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            17,
+            5
+          ],
+          "auxiliary": [
+            3,
+            1
+          ],
+          "surface": [
+            46,
+            25
+          ],
+          "decisive_operation": "구조는 동일하고 시신 방향·부장품만 달라졌다는 변화 항목을 정확히 보존한다.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "이전/이후 자체보다 무엇이 변하고 무엇이 동일한지의 속성 구별이 결정적이다."
+            },
+            {
+              "code": 86,
+              "reason": "부장품 양 차이는 있지만③ 오류는 양 계산이 아니라 차이 발생 항목 확대다."
+            },
+            {
+              "code": 46,
+              "reason": "정치적 불평등 원인은 재료이며③의 구조 변경을 도출할 근거는 없다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G319",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.AUN⑤과거범위유보승계.AUO공통기능과지위평등구별.AUP변경속성의범위보존."
+}

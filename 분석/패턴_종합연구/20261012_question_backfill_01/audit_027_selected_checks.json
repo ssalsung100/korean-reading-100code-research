@@ -1,0 +1,41 @@
+{
+  "sample_case_ids": [
+    "BCN",
+    "BCP",
+    "BCT",
+    "BCW",
+    "BCY",
+    "BDF",
+    "BDI",
+    "BDK",
+    "BDN",
+    "BDQ",
+    "BDU",
+    "BDV",
+    "BDY",
+    "BEB",
+    "BED",
+    "BEE",
+    "W",
+    "BRI",
+    "X",
+    "BRM"
+  ],
+  "sample_questions": 20,
+  "sample_scenes": 20,
+  "sample_options": 100,
+  "new_amendments": [],
+  "holds_in_sample": 18,
+  "new_candidates": [],
+  "checks": {
+    "BCN_BCP_BCQ": "스토리귀속·임신/노출순서·항체생성주체·기능유추범위확인.",
+    "BCT_BEE": "반박표적·약화/완전반증의효력분리.",
+    "BCW_BDF_BDI_BDK": "기획전칭·지향공통성·기준가치층위·기사내무근거범위유지.",
+    "BDN_BEB": "전신순효과와보사용의감주함축은미해결유지.",
+    "BDQ_BDU_BDY_BED": "자연적가능성·종합경향·지정관점틀·해당제도합리성의범위보존.",
+    "BDV_BRM": "별도판정·중복고유1회·BDV사후노출정정보존.",
+    "W_X": "MD파생JSON의본문/발문/선지동일성및원MD해시검사.규범구속력·귀속근거부족범위보존.",
+    "BRI": "숨은작용은유와영구인식불가능·저항절대불가구별."
+  },
+  "pass": true
+}

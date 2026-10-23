@@ -1,0 +1,20 @@
+{
+  "status": "정책 효과의 비교 기준을 보여 주는 가상 예; 실제 금융수치 아님",
+  "formula": "한도=담보가치×한도비율",
+  "before": {
+    "collateral": 100,
+    "ratio": 0.8,
+    "limit": 80
+  },
+  "after_policy": {
+    "collateral": 150,
+    "ratio": 0.6,
+    "limit": 90
+  },
+  "same_after_collateral_without_ratio_cut": {
+    "collateral": 150,
+    "ratio": 0.8,
+    "limit": 120
+  },
+  "finding": "비율 인하는 같은 담보가치에서 한도를 줄이나 담보가치가 동시에 오르면 전후 명목 한도는 증가할 수 있다.⑤의 정책은 차입 확대 경로를 약화하는 방향이지 모든 실제 차입 감소의 보장이 아니다."
+}

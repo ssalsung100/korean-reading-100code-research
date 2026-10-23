@@ -1,0 +1,136 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BCQ": [
+      {
+        "line": 5536,
+        "record_id": "BCQ-independent_code-20261002-01",
+        "case": "BCQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:27:58.084968+09:00",
+        "payload": {
+          "passage_group": "G386",
+          "primary_codes": [
+            37
+          ],
+          "auxiliary_codes": [
+            10,
+            16,
+            25
+          ],
+          "surface_codes": [
+            42,
+            78
+          ],
+          "decisive_operation": "정의에 있는 다른 개체의 이미 생성된 항체 주입이라는 요건을 각 사례에서 대조한다. 균 주입과 항체 주입을 가른다.",
+          "competitor_refutations": [
+            {
+              "code": 10,
+              "reason": "사례 부합 요건 확인이라는 점에서37과 같은 국소 연산이며 별개 단계로 중복 계수하지 않는다. 생리적 면역에 필요한 모든 조건을 묻는 문제는 아니다."
+            },
+            {
+              "code": 25,
+              "reason": "능동/수동 분류는 동일 판정의 출력이며 독립적인 추가 추론 아님."
+            },
+            {
+              "code": 78,
+              "reason": "능동/수동이라는 어휘는 개인의 의지·행위 동기를 뜻하지 않는다. 주사를 자발적으로 맞았는지는 기준을 바꾸지 않는다."
+            }
+          ],
+          "boundary_note": "37/10 국소 중첩,16 정의 독해,25 결과 분류. 외부 주입이라는42만으로는 모든 사례가 걸려 항체 생성 주체를 구별 못함.",
+          "confidence": 0.89,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BCR": [
+      {
+        "line": 5548,
+        "record_id": "BCR-independent_code-20261002-01",
+        "case": "BCR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:32:27.846901+09:00",
+        "payload": {
+          "passage_group": "G387",
+          "primary_codes": [
+            2
+          ],
+          "auxiliary_codes": [
+            16,
+            17,
+            10
+          ],
+          "surface_codes": [
+            79
+          ],
+          "decisive_operation": "가치를 지님과 실제 이익 발생을 구별하여 보호 범위를 현실화된 수익에 한정하지 않는다.",
+          "competitor_refutations": [
+            {
+              "code": 1,
+              "reason": "수익의 유무가 표면에 있지만 잠재적 가치와 실현 이익의 차이는 가치 없음/있음만으로 환원되지 않는다. 주2가 현실화 여부를 드러낸다."
+            },
+            {
+              "code": 10,
+              "reason": "실제 이익 발생을 필수로 만들 수 없다는 부가요건 검사는2와 중첩하는 보조. 독립적인 별도 조건문 추론으로 세지 않는다."
+            },
+            {
+              "code": 17,
+              "reason": "②의 주체/목적 교환,④의 권리 성격 뒤바꿈에 직접 유효하나 정답③의 잠재성 판독과 범위를 구별한다."
+            }
+          ],
+          "boundary_note": "2는 가능/필연 강도 외에 잠재 가치/현실화 판독의 국소 적용이다. 어떤 가능성만 있어도 모든 권리가 생긴다는 일반 명제 아님.",
+          "confidence": 0.87,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ],
+    "BCT": [
+      {
+        "line": 5550,
+        "record_id": "BCT-independent_code-20261002-01",
+        "case": "BCT",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T05:32:27.848288+09:00",
+        "payload": {
+          "passage_group": "G387",
+          "primary_codes": [
+            63
+          ],
+          "auxiliary_codes": [
+            73,
+            62,
+            19
+          ],
+          "surface_codes": [
+            75
+          ],
+          "decisive_operation": "반대론의 각 근거가 참인지, 충분한지, 억압 경로를 피할 수 있는지 나누어 반론의 타격 지점을 찾는다.",
+          "competitor_refutations": [
+            {
+              "code": 73,
+              "reason": "ㄱ은 우연성 전제,ㄴ은 기존 인격권 충분성 전제를 부정하므로63과 구체/상위 관계.ㄷ까지 모든 반박을 사실 전제 부정으로 동일시하면 제한 장치라는 대안 경로를 놓친다."
+            },
+            {
+              "code": 19,
+              "reason": "ㄴ 새 권리는 기존 보호의 부족을 보완한다. 특정 논거에만 적용되는 보조이고ㄱ 노력·ㄷ 권리 조정은 동일 보충 연산으로 충분히 설명되지 않는다."
+            },
+            {
+              "code": 75,
+              "reason": "찬반 주체의 입장은 입력이지만 단순 귀속 확인을 넘어 반론이 어느 근거를 약화하는지 판단해야 한다."
+            }
+          ],
+          "boundary_note": "반박의 관련성·약화와 반대 결론의 연역적 소거를 구별.ㄷ의 가능→절대 무제한 확대는 유보한다.",
+          "confidence": 0.87,
+          "sdss_seen": false,
+          "group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·조합보기·기존풀이·독립판정직접확인.BCTㄷ조정가능성과표현무제한보장의강도차이유보승계.기출제시규범의분석으로현행법률상태판정아님."
+}

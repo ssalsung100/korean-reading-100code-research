@@ -1,0 +1,161 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BEE": [
+      {
+        "line": 5725,
+        "case": "BEE",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G400",
+          "primary": [
+            {
+              "code": 63,
+              "reason": "추가 관찰과 대안이 보험 설명의 설득력을 낮추는지 판단한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 73,
+              "reason": "ㄷ은 산출 편차 충분성이라는 전제를 공격한다."
+            },
+            {
+              "code": 88,
+              "reason": "ㄹ은 생산 손실의 보험료보다 효율적인 위험 대비 대안을 제시한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 43,
+              "reason": "ㄱ의 결정적 인과 증명에는 통제가 필요하지만 발문은 비판 가능성이라 완전 통제는 요구되지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 36,
+              "rejection": "ㄱ은 보험설과 양립 가능하며 논리적 보편명제의 확정 반례로 취급하면 과강화된다."
+            },
+            {
+              "code": 74,
+              "rejection": "ㄹ의 대안과 ㄱ의 방목 관련성은 있으나 모든 항목이 두 가설의 상반 예측 비교는 아니다."
+            },
+            {
+              "code": 20,
+              "rejection": "대안 존재만이 아니라 더 높은 효율성이ㄹ의 비판 힘을 만든다. 단순 복수실현만으로는 부족하다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEE-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:00:34.435594+09:00"
+      }
+    ],
+    "BEH": [
+      {
+        "line": 5738,
+        "case": "BEH",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G401",
+          "primary": [
+            {
+              "code": 75,
+              "reason": "발언의 공격 대상과 방향으로 긍정/부정 진영을 귀속한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 63,
+              "reason": "ㄱ·ㄷ은 부정 평가의 동일시·이분법 근거를 약화한다."
+            },
+            {
+              "code": 80,
+              "reason": "필자 견해가 아니라 지정된 긍정 평가자의 입장으로 읽어야 한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 68,
+              "reason": "비판에 대한 비판이라고 모두 재반론 논증으로 형식화할 필요는 없다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 65,
+              "rejection": "ㄱ은 맥락 동일시의 부당함을 문제 삼지만 원래 주장을 허위 재현했다는 명시 근거는 부족하다."
+            },
+            {
+              "code": 73,
+              "rejection": "ㄷ의 근거 비판을 설명하지만ㄴ·ㄹ이 어느 입장에 속하는지의 방향 판정을 포괄하지 못한다."
+            },
+            {
+              "code": 26,
+              "rejection": "고유/외래 이분법은ㄷ의 국소 내용이며 전체 항목 분류는 입장 귀속이다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEH-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:04:34.336390+09:00"
+      }
+    ],
+    "BEI": [
+      {
+        "line": 5739,
+        "case": "BEI",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G401",
+          "primary": [
+            {
+              "code": 37,
+              "reason": "구체적인 왕호 보존 서술을 고유성 용인이라는 일반 평가의 사례로 대응한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 14,
+              "reason": "중국의 선례를 따르는 것과 우리 고유 명칭을 남기는 것이 양립함을 확인한다."
+            },
+            {
+              "code": 80,
+              "reason": "최치원의 삭제 태도와 김부식의 보존 태도를 구별한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 69,
+              "reason": "한서의 이민족 말 보존 사례가 본문 내 논증의 유추 근거지만 문항 수행은 평가 항목과의 대응이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 9,
+              "rejection": "신라 본기라는 제목만으로 삼국 서열을 추론할 수 없다."
+            },
+            {
+              "code": 78,
+              "rejection": "최치원의 생략 동기 추정은 인용 속 내용이며 김부식의 고유성 용인을 판정하는 중심 작업이 아니다."
+            },
+            {
+              "code": 15,
+              "rejection": "37과 적용 행동이 겹친다. 독립 경계를 강제하지 않고 사례에서 일반 평가를 찾는 방향의 대표명으로37을 사용한다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEI-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:04:34.475487+09:00"
+      }
+    ]
+  },
+  "검토": "원문·보기·5선지·기존풀이·독립판정직접확인.",
+  "정정승계": "BEE의74관련최초문구는BED5744boundary의후속통합군정정을따라읽음.63대표는약화행동의선택이며74/75배타구별아님.",
+  "유보": "BEEㄱ은다른조건이통제된결정적반증아님.기존depth과제의한계를이장면에서구체화하되해소완료로올리지않음."
+}

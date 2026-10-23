@@ -1,0 +1,43 @@
+{
+  "passage_groups": 6,
+  "questions_analyzed": 21,
+  "selected_answers": 20,
+  "held_cases": [
+    "RX"
+  ],
+  "within_session_no_answer_or_pattern_values_viewed": 21,
+  "strict_unexposed_candidates": 16,
+  "historically_exposed_cases": [
+    "NK",
+    "NL",
+    "NM",
+    "NN",
+    "NO"
+  ],
+  "strict_unexposed_selected": 15,
+  "strict_unexposed_held": 1,
+  "option_scenes": 105,
+  "holistic_scenes": 21,
+  "evidence_anchors": 75,
+  "evidence_links": 254,
+  "candidate_counts": {
+    "지문": 4,
+    "문항": 6,
+    "풀이": 10
+  },
+  "official_answers_checked": 0,
+  "codebook_comparisons": 0,
+  "all_candidates_provisional": true,
+  "blind_absolute_guarantee": false,
+  "source_completeness_issues": [
+    "RX: B열 전체 누락",
+    "G350: 시각자료 blind 전사 사용·원본 이미지 미대조·일부 텍스트 표지 누락"
+  ],
+  "holds_preserved": [
+    "G024",
+    "G370"
+  ],
+  "other_models_called": false,
+  "new_passages_created": false,
+  "git_push": false
+}

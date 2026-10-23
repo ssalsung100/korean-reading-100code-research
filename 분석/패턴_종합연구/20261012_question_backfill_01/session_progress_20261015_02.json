@@ -1,0 +1,64 @@
+{
+  "status": "진행 중·중간 인계 저장",
+  "current": {
+    "reviewed_questions": 573,
+    "target_questions": 1077,
+    "new_scenes": 922,
+    "remaining_questions": 504,
+    "by_exam": {
+      "KICE": {
+        "target": 496,
+        "reviewed": 496,
+        "deeply_extracted": 496,
+        "scenes": 788,
+        "unresolved_questions": 20,
+        "remaining": 0
+      },
+      "LEET": {
+        "target": 379,
+        "reviewed": 77,
+        "deeply_extracted": 77,
+        "scenes": 134,
+        "unresolved_questions": 6,
+        "remaining": 302
+      },
+      "MEET": {
+        "target": 202,
+        "reviewed": 0,
+        "deeply_extracted": 0,
+        "scenes": 0,
+        "unresolved_questions": 0,
+        "remaining": 202
+      }
+    },
+    "unresolved_questions": 26
+  },
+  "this_session": {
+    "orders": [
+      544,
+      573
+    ],
+    "questions_added": 30,
+    "exam": "LEET",
+    "scenes_added": 52,
+    "option_rows_checked": 150,
+    "new_raw_duplicates": 0
+  },
+  "active_batch": {
+    "number": 15,
+    "saved_questions": 13,
+    "semantic_sample_audit_complete": false,
+    "next_audit_at_reviewed_questions": 600
+  },
+  "next": {
+    "order": 574,
+    "unique_question": "U0306-Q03",
+    "case_ids": [
+      "AXR"
+    ],
+    "read_but_not_saved": false,
+    "suggested_author": "author_015f.py",
+    "resume_command": "python3 분석/패턴_종합연구/20261012_question_backfill_01/backfill_io.py packet 574 2"
+  },
+  "handoff": "session_handoff_20261015_02.json"
+}

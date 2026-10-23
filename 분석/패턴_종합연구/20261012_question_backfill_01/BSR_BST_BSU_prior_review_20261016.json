@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BSR": [
+      {
+        "line": 7522,
+        "record_id": "BSR-independent_code-20261005-01",
+        "case": "BSR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:21:53.654221+00:00",
+        "payload": {
+          "passage_group": "G530",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 64,
+              "reason": "지정구간이뒷받침하는갈등·정서·행동의범위를넘어긴박성을추가할수없음을판정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "사건의격렬함과서술의시간적긴박감을구별한다."
+            },
+            {
+              "code": 78,
+              "reason": "갈등에직접맞서기보다이사를작정하는대응태도를읽는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "과거회고는있지만구체시간속도·기한급박성은없다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 46,
+              "rejection": "이사동기의원인설명은①에실재하지만②는인과순서로증명되지않는별개속성이다."
+            },
+            {
+              "code": 100,
+              "rejection": "꿩장/내면비유는충격의근거지만긴박성까지제공하지않는다."
+            }
+          ],
+          "confidence": 0.94,
+          "scope_limit": "⑤의소극성을장면한정으로해석하며모든행동능력의부재를전칭하지않는다."
+        }
+      }
+    ],
+    "BST": [
+      {
+        "line": 7492,
+        "record_id": "BST-independent_code-20261005-01",
+        "case": "BST",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:07:41.290000+00:00",
+        "payload": {
+          "passage_group": "G531",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 16,
+              "reason": "거래비용이라는같은표면어의정보·신뢰비용과정치적통제비용을분리한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 75,
+              "reason": "비용절감/증가주장을해당이론에귀속한다."
+            },
+            {
+              "code": 49,
+              "reason": "정치비용증가→간섭감소·안정성증가의방향을유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 88,
+              "reason": "비용이소재이지만순편익의수치계산은없다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "이론의타당성을새자료로평가하지않는다."
+            },
+            {
+              "code": 13,
+              "rejection": "비용이줄고늘어나는것은서로다른비용정의라동일명제의모순이아니다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ],
+    "BSU": [
+      {
+        "line": 7493,
+        "record_id": "BSU-independent_code-20261005-01",
+        "case": "BSU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-05T07:07:59.749371+00:00",
+        "payload": {
+          "passage_group": "G531",
+          "sdss_seen": false,
+          "primary": [
+            {
+              "code": 3,
+              "reason": "위임이후확인되는배반과위임동기로이미전제된집합행동문제의시점을구별한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 60,
+              "reason": "원인전제와제도설계후결과의논증역할을구분한다."
+            },
+            {
+              "code": 75,
+              "reason": "두논리에제시된문제와해법을각각귀속한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 70,
+              "reason": "딜레마는지문소재이나⑤오류는양자선택구조의판정이아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 18,
+              "rejection": "신뢰논리비판에전제긴장이있지만⑤는사후시점오귀속으로직접배제된다."
+            },
+            {
+              "code": 43,
+              "rejection": "선호일치를다루지만실험적변수통제과제를수행하지않는다."
+            }
+          ],
+          "confidence": 0.96
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·기존 hold/blind/answer_check/independent_code 직접 확인. G530_A_official_page.png에서[A]괄호 범위를 직접 재확인.",
+  "BSR_범위": "우리네 장닭의 당당한 울음소리부터 이 사회의 한 가지 방식이야까지. 기존 원문 복원·hold·옆단25/26문항 부수노출 이력을 보존. 이번 새 범위 수정 없음.",
+  "BSU_①": "주인의 지식 부족을 대리인의 상대적 전문성 활용이라는 모형에서 이해한다. 다른 조건이 모두 변해도 부족 정도 하나로 위임량이 항상 단조 증가한다는 외부 수량 법칙으로 확대하지 않음."
+}

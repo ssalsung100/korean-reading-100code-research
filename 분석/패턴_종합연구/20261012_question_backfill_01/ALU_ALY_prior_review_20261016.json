@@ -1,0 +1,112 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ALU": [
+      {
+        "line": 3561,
+        "record_id": "ALU-independent_code-20260927-01",
+        "case": "ALU",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:20:22.538770+00:00",
+        "payload": {
+          "primary": [
+            64
+          ],
+          "primary_candidates": [
+            64,
+            60
+          ],
+          "working_primary": 64,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            17
+          ],
+          "surface": [
+            79
+          ],
+          "judgment_reason": "왕조 정통성이라는 평가 논점은 글에 없다.왕 세움은 사건이고 결미 논지는 감정 절제·인재 식별이다.",
+          "competing_codes": [
+            {
+              "code": 60,
+              "verdict": "공동 후보",
+              "reason": "사례와 결미 평가가 무엇을 뒷받침하는지 논증 구조를 복원한다."
+            },
+            {
+              "code": 17,
+              "verdict": "보조",
+              "reason": "서사 속 사건과 필자의 강조 대상을 구별."
+            },
+            {
+              "code": 79,
+              "verdict": "소재",
+              "reason": "도덕적 평가가 있어도⑤의 정통성 규범을 주장한 것은 아님."
+            }
+          ],
+          "minimal_change_test": "⑤를 사적 감정보다 능력 인정과 등용의 중요성을 강조로 고치면 실제 결미와 맞는다.",
+          "confidence": 0.96,
+          "passage_group": "G241",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ],
+    "ALY": [
+      {
+        "line": 3576,
+        "record_id": "ALY-independent_code-20260927-01",
+        "case": "ALY",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-26T16:23:37.823029+00:00",
+        "payload": {
+          "primary": [
+            16
+          ],
+          "primary_candidates": [
+            16,
+            15,
+            37
+          ],
+          "working_primary": 16,
+          "unique_primary_confirmed": false,
+          "auxiliary": [
+            17
+          ],
+          "surface": [
+            79
+          ],
+          "judgment_reason": "선아라는 정의의 초점을 자기의 선함에 두어 타인과 관계 맺는②를 구별한다.",
+          "competing_codes": [
+            {
+              "code": 15,
+              "verdict": "공동 후보",
+              "reason": "자기 선함/타인 돌봄을 사례 판정 기준으로 적용."
+            },
+            {
+              "code": 37,
+              "verdict": "공동 후보",
+              "reason": "주어진 정의에 부합하는 사례를 찾는 동일 행동의 형식."
+            },
+            {
+              "code": 79,
+              "verdict": "표면",
+              "reason": "선지들이 규범 문장이지만 옳은 규범을 새로 도출하기보다 해당 개념의 사례인가 판단."
+            }
+          ],
+          "minimal_change_test": "②의 타인별 돌봄을 자신의 악을 고치고 선을 닦음으로 바꾸면 선아 정의에 직접 맞음.인과 의의 전역적 배타성은 주장하지 않는다.",
+          "confidence": 0.94,
+          "passage_group": "G242",
+          "quota_status": "unavailable",
+          "sdss_seen": false,
+          "all_group_answer_check_complete": true
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·5선지·최초풀이·정답대조·독립판정 직접 확인.",
+  "ALU_오답필드이력": "최초 most_attractive_wrong_choice=5가선택정답과같았던기록오류와,answer_check에서실제경쟁선지①로명시한정정이력을보존.이번에는①을경쟁오답으로검토.",
+  "ALY_초점한정": "②는타인과의관계적돌봄에초점이있어인의정의에직접대응하고선아의직접예시로는덜적합하다는문맥판정.같은행위가자신을선하게하는측면도갖을가능성을전면부정하지않는다.기존인/의전역적배타성금지의scope를현행유보로명시.",
+  "이력": "과거strictblind와공동주후보미확정상태불변.이번새blind0·기존공식답⑤②유지."
+}

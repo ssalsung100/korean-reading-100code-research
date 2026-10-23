@@ -1,0 +1,46 @@
+{
+  "eligible_groups": 495,
+  "completed_first_pass_groups": 495,
+  "pending_groups": 0,
+  "eligible_questions": 1667,
+  "extracted_unique_questions": 590,
+  "extracted_scenes": 616,
+  "unextracted_questions": 1077,
+  "held_groups": 2,
+  "held_questions": 8,
+  "multiple_scene_questions": 25,
+  "extra_scenes_beyond_one_per_question": 26,
+  "judge_candidates": 95,
+  "passage_candidates": 8,
+  "item_candidates": 7,
+  "explicit_depth_followup_questions": 32,
+  "depth_followup_already_extracted": 21,
+  "depth_followup_unextracted": 11,
+  "candidate_boundary_pending": 15,
+  "continuation_added_groups": 95,
+  "continuation_added_scenes": 127,
+  "continuation_new_unique_questions": 101,
+  "by_exam": {
+    "KICE": {
+      "groups": 182,
+      "eligible_questions": 736,
+      "extracted_questions": 240,
+      "scenes": 246,
+      "unextracted_questions": 496
+    },
+    "LEET": {
+      "groups": 201,
+      "eligible_questions": 599,
+      "extracted_questions": 220,
+      "scenes": 240,
+      "unextracted_questions": 379
+    },
+    "MEET": {
+      "groups": 112,
+      "eligible_questions": 332,
+      "extracted_questions": 130,
+      "scenes": 130,
+      "unextracted_questions": 202
+    }
+  }
+}

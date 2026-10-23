@@ -1,0 +1,156 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BEM": [
+      {
+        "line": 5768,
+        "case": "BEM",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G403",
+          "primary": [
+            {
+              "code": 91,
+              "reason": "전송률 동일 조건에서 블록 크기와 반복주기의 비례관계를 적용한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 43,
+              "reason": "블록 크기 효과를 주기로 옮길 때 채널별 전송률을 고정해야 한다."
+            },
+            {
+              "code": 92,
+              "reason": "주기=블록크기/전송률 관계가 근거다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "재생 순서는 시간 소재지만 정답의 직접 연산은 크기·주기 비례다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 45,
+              "rejection": "입출력 함수라는 포괄 표현보다 동일률에서2배 관계를 좁혀 기술할 수 있다."
+            },
+            {
+              "code": 17,
+              "rejection": "①②③은 방식 속성의 혼동이지만 정답⑤는 수량 관계가 직접 근거다."
+            },
+            {
+              "code": 2,
+              "rejection": "④의 무관하게 결정 가능 여부에도 쓰이지만⑤의 동일 전송률 전제가 먼저다."
+            }
+          ],
+          "confidence": 0.87,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEM-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:18:50.475281+09:00"
+      }
+    ],
+    "BEO": [
+      {
+        "line": 5770,
+        "case": "BEO",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G403",
+          "primary": [
+            {
+              "code": 44,
+              "reason": "시간대별 대기·요청 규모·콘텐츠 요구를 만족하는 서비스 수단을 배정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 88,
+              "reason": "소수 사용자에서 고정 채널 낭비를 피하고 대기 단축 효익을 더 필요한 시간대에 둔다."
+            },
+            {
+              "code": 39,
+              "reason": "아침과 저녁의 상대 조건을 비교하여③⑤를 가른다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "대역·채널 수량이 배경이나 표의 정성 정보만으로 풀며 수치 최적화는 하지 않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 15,
+              "rejection": "조건 적용과 중첩하나 명시적 필요충분 분류표가 아니라 자원·목표 적합성 선택이다."
+            },
+            {
+              "code": 8,
+              "rejection": "심야 조건을 먼저 쓰는 전략이 효율적일 뿐 본문이 기준의 우선순위를 명시하지 않는다."
+            },
+            {
+              "code": 59,
+              "rejection": "문제해결과 수단 선택은 이 문항에서 중첩 가능하며 별도 배타 반증을 강제하지 않는다."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEO-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:18:50.772504+09:00"
+      }
+    ],
+    "BEP": [
+      {
+        "line": 5781,
+        "case": "BEP",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G404",
+          "primary": [
+            {
+              "code": 46,
+              "reason": "궁핍의 설명 원인을 사치·과세에서 잦은 재해로 치환한 오류를 본문 근거에 대조한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 1,
+              "reason": "재해로 인한 예외 지출의 부재라는 명시 정보가②를 배척하는 근거다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "재정의 갑절 증가 수치가 있으나 직접 계산은 정답 판정에 필요하지 않다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 18,
+              "rejection": "단순 모순으로 기술할 수 있으나 지출 부재를 재해 자체 전무로 바꾸면 오히려 과강화한다."
+            },
+            {
+              "code": 43,
+              "rejection": "재해·전쟁 요인 배제는 설명 배경이나 통제 실험으로 사치의 인과효과를 식별한 것은 아니다."
+            },
+            {
+              "code": 80,
+              "rejection": "필자가 파악한 시대상이라는 발문 틀보다 구체 원인 치환이 결정적이다."
+            }
+          ],
+          "confidence": 0.9,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEP-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:23:02.661509+09:00"
+      }
+    ]
+  },
+  "BEO": "G403_visual02/03.md에서시간대별세조건과전체선택행직접확인.",
+  "BEM": "기존blind와answer_check에있는동일전송률유보를승계. 새로발견한기존원장오류로기록하지않음."
+}

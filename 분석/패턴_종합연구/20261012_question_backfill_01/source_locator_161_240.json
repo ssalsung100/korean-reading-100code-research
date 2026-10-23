@@ -1,0 +1,6 @@
+{
+  "scope": "orders 161-240 where backfill_io metadata connects an existing non-prepared analysis; paths and existence only",
+  "method": "manifest_analyses review_record/solution_paths/source_path; path-valued supplement-related fields in linked analysis and blind-source metadata; same-case filename matching under blind_sources",
+  "limits": "Mechanical search is limited to those metadata fields and blind_sources filenames with the case ID prefix plus supplement/choice/figure/table/visual/image/crop/worksheet terms. It may miss assets stored elsewhere or named without those tokens; no completeness claim. Existing restoration/follow-up history was not revalidated.",
+  "items": []
+}

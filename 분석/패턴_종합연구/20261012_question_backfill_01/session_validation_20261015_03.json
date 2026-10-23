@@ -1,0 +1,38 @@
+{
+  "scope": "574~618 신규45문항의저장메타데이터·ID·전선지수와15개author의개별인용검증결과확인. 원문구간·해시는각author저장시검증했으며이단계에서보호원장전수해시를재실행하지않음.",
+  "range": [
+    574,
+    618
+  ],
+  "questions": 45,
+  "scenes": 64,
+  "options": 225,
+  "duplicate_questions": [],
+  "duplicate_scene_ids": [],
+  "author_validations": [
+    "author_015f_validation.json",
+    "author_015g_validation.json",
+    "author_015h_validation.json",
+    "author_015i_validation.json",
+    "author_015j_validation.json",
+    "author_015k_validation.json",
+    "author_015l_validation.json",
+    "author_015m_validation.json",
+    "author_015n_validation.json",
+    "author_016a_validation.json",
+    "author_016b_validation.json",
+    "author_016c_validation.json",
+    "author_016d_validation.json",
+    "author_016e_validation.json",
+    "author_016f_validation.json"
+  ],
+  "all_author_validations_passed": true,
+  "audited_batch": 15,
+  "sample": {
+    "questions": 18,
+    "scenes": 29,
+    "options": 90
+  },
+  "final_label_correction": "QBF01-QAMD006",
+  "pass": true
+}

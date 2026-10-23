@@ -1,0 +1,145 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AZO": [
+      {
+        "line": 5184,
+        "record_id": "AZO-independent_code-20260928-01",
+        "case": "AZO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:18:03.216208+09:00",
+        "payload": {
+          "passage_group": "G361",
+          "primary": [
+            75,
+            23
+          ],
+          "auxiliary": [
+            44,
+            2,
+            58
+          ],
+          "surface": [
+            79,
+            81
+          ],
+          "decisive_operation": "공유 목표·인식의 교집합과 서로 다른 실현경로를 분리한다. 공동체적삶이라는 경로를 양자공통에 포함한①을 기각한다.",
+          "competing_codes": [
+            {
+              "code": 58,
+              "rejection": "공유인식이항상후속논증의공통전제인것은아니며이문항은집합적일치여부를묻는다."
+            },
+            {
+              "code": 44,
+              "rejection": "궁극목표는같고수단이다름이①의구체근거."
+            },
+            {
+              "code": 2,
+              "rejection": "김수영의비선호를활용불가능으로강화하면③을잘못배제하므로보조."
+            },
+            {
+              "code": 13,
+              "rejection": "경로가다르다고궁극목표가모순되지는않는다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZP": [
+      {
+        "line": 5185,
+        "record_id": "AZP-independent_code-20260928-01",
+        "case": "AZP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:18:03.317640+09:00",
+        "payload": {
+          "passage_group": "G361",
+          "primary": [
+            75,
+            44
+          ],
+          "auxiliary": [
+            15,
+            63
+          ],
+          "surface": [
+            96,
+            100
+          ],
+          "decisive_operation": "시의 음향실험을 특정관념 상징으로 되돌리지 않고,김수영의 의미수용·현실참여 기준에서 그 방식의 한계를 평가한다.",
+          "competing_codes": [
+            {
+              "code": 63,
+              "rejection": "작품사례를기준에대응한평가이므로보조이나비판자료로이론자체를약화하는구조는아님."
+            },
+            {
+              "code": 100,
+              "rejection": "사바다를풍자대상과비유로읽는③은무의미시방법에없는대상을새로붙이는오류."
+            },
+            {
+              "code": 96,
+              "rejection": "일상어처럼보이는말에도현실지시를무조건부여하면소리실험을오독한다."
+            },
+            {
+              "code": 15,
+              "rejection": "평가기준적용은핵심단계이며75는그기준의귀속을유지한다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.9,
+          "quota_status": "unavailable"
+        }
+      }
+    ],
+    "AZR": [
+      {
+        "line": 5199,
+        "record_id": "AZR-independent_code-20260928-01",
+        "case": "AZR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28T14:21:10.529555+09:00",
+        "payload": {
+          "passage_group": "G362",
+          "primary": [
+            75,
+            10,
+            23
+          ],
+          "auxiliary": [
+            58,
+            81
+          ],
+          "surface": [
+            4,
+            15
+          ],
+          "decisive_operation": "두입장의 교집합인 욕구주체의 필요성을 찾고 객관속성역할의 차이를 보존한다.",
+          "competing_codes": [
+            {
+              "code": 58,
+              "rejection": "공통명제가비판근거로실제작동하므로공통전제기술도가능;23/10과국소중첩."
+            },
+            {
+              "code": 81,
+              "rejection": "주체없는선의존재여부가쟁점내용이며75는그명제귀속의형식."
+            },
+            {
+              "code": 4,
+              "rejection": "모든욕구가선이라는주장은온건이공유하지않으므로전칭차이를보조확인한다."
+            }
+          ],
+          "sdss_seen": false,
+          "confidence": 0.92,
+          "quota_status": "unavailable"
+        }
+      }
+    ]
+  },
+  "G361": "기존강조구복원공유된인식과보기시전체직접확인. AZO hold→복원blind→정답 순서 보존."
+}

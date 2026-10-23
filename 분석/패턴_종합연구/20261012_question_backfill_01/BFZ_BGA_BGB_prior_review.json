@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BFZ": [
+      {
+        "line": 5943,
+        "record_id": "BFZ-independent_code-20261002-r3-01",
+        "case": "BFZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:33:58.366622+09:00",
+        "payload": {
+          "passage_group": "G416",
+          "general_task": "세 작품 설명의 공통·차이 확인",
+          "decisive_relation": "작품별 당시 반응 서술의 존재 여부 및 시간 한정",
+          "primary": [
+            1
+          ],
+          "auxiliary": [
+            39,
+            3
+          ],
+          "surface": [
+            23,
+            80
+          ],
+          "code_rationale": {
+            "1": "㉠ 당시 반응의 서술 부재가③을 배제",
+            "39": "작품별 설명 항목 대응",
+            "3": "기존 연구의 평가 일반을 제작 당시 반응으로 옮기지 않음"
+          },
+          "competing_codes": [
+            {
+              "code": 23,
+              "rebuttal": "모든 작품에 공통인가를 집합으로 나타낼 수 있지만 판정은 국소항목의 부재로 충분."
+            },
+            {
+              "code": 80,
+              "rebuttal": "평가 내용 자체가 아니라 글에 그 시점의 반응이 언급됐는지 묻는다."
+            },
+            {
+              "code": 3,
+              "rebuttal": "당시라는 한정이 중요하나 사건의 순서를 재구성하는 문제는 아니므로 보조."
+            }
+          ],
+          "confidence": 0.94,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BGA": [
+      {
+        "line": 5944,
+        "record_id": "BGA-independent_code-20261002-r3-01",
+        "case": "BGA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:33:58.486100+09:00",
+        "payload": {
+          "passage_group": "G416",
+          "general_task": "재평가 사례의 가능한 배경 추론",
+          "decisive_relation": "교육 제한에서 묘사 능력 부족으로의 연결을 반대 증거로 차단",
+          "primary": [
+            62
+          ],
+          "auxiliary": [
+            46,
+            80
+          ],
+          "surface": [
+            78,
+            83
+          ],
+          "code_rationale": {
+            "62": "교육 배제 사실이②의 능력부족 결론을 지지하기에 부족하며 성취 증거가 반대",
+            "46": "저평가 원인으로 제시한 경로의 적정성",
+            "80": "당시 취향의 평가와 현재의 작품능력 기술을 구별"
+          },
+          "competing_codes": [
+            {
+              "code": 46,
+              "rebuttal": "인과설명 평가라는 포괄 구조지만 특정 원인 연결의 불충분성이 결정적."
+            },
+            {
+              "code": 19,
+              "rebuttal": "독학이 교육부족을 보완하는 배경은 있으나 문항은 새 해결책 제안이 아니다."
+            },
+            {
+              "code": 78,
+              "rebuttal": "⑤의 창작동기에는 적용되나 정답②의 주 관계로는 약함."
+            }
+          ],
+          "confidence": 0.89,
+          "sdss_disclosed": false,
+          "unresolved": "①③의 실제 역사적 저평가 원인을 확정하지 않고 지문내 추론 가능성으로 제한."
+        }
+      }
+    ],
+    "BGB": [
+      {
+        "line": 5954,
+        "record_id": "BGB-independent_code-20261002-r3-01",
+        "case": "BGB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:37:13.651121+09:00",
+        "payload": {
+          "passage_group": "G417",
+          "general_task": "과학기술 보도의 내용 추론",
+          "decisive_relation": "정보원 범주에 포함된 과학자에게 증폭 가능성을 적용",
+          "primary": [
+            22
+          ],
+          "auxiliary": [
+            17,
+            86,
+            2
+          ],
+          "surface": [
+            93,
+            46
+          ],
+          "code_rationale": {
+            "22": "상위 정보원에 제시된 역할을 그 구성원 과학자에 적용",
+            "17": "과학자가 전달자가 아니라 정보원으로 열거됨을 확인",
+            "86": "⑤ 상대비교→절대평가 오류",
+            "2": "증폭 가능/경향을 확정 필연으로 바꾸지 않음"
+          },
+          "competing_codes": [
+            {
+              "code": 12,
+              "rebuttal": "범주에 속하면 속성이 적용되는 조건문으로도 표현되나 이 사례의 구체 행동은 속성상속22."
+            },
+            {
+              "code": 93,
+              "rebuttal": "전체 커뮤니케이션 모형 소재이지② 판단에 채널 전체 복원이 필요한 것은 아님."
+            },
+            {
+              "code": 46,
+              "rebuttal": "증폭 기제는 배경이나 과학자라는 개체범주로의 적용이 결정적."
+            }
+          ],
+          "confidence": 0.92,
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "BGA": "G416_visual01.md전체직접확인. 앞서확인한공식2010렌더6쪽15번과같은보기. 실제저평가동기의실증과문항의문맥추론을구별한다."
+}

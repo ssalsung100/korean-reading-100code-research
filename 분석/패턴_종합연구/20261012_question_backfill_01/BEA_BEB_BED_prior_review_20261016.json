@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BEA": [
+      {
+        "line": 5711,
+        "case": "BEA",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G399",
+          "primary": [
+            {
+              "code": 46,
+              "reason": "중도리 추가의 하중 분산 효과를 확인하는 것이 정답③의 직접 연산이다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 19,
+              "reason": "서까래의 하중 한계를 중도리 추가로 보완한다."
+            },
+            {
+              "code": 40,
+              "reason": "부재별 위치·연결을 복원하여 ②④를 검증한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 44,
+              "reason": "감주 목적은 ⑤의 일부 판정에 쓰이지만 정답③의 직접 근거는 하중 분산 기능이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 50,
+              "rejection": "②에는 간접 전달 경로가 있지만 경로 차단 뒤 결과를 예측하지 않으므로 경로라는 말만으로 주 판정하지 않는다."
+            },
+            {
+              "code": 87,
+              "rejection": "①의 경사는 공간 기울기 소재일 뿐 변화율 계산은 없다."
+            },
+            {
+              "code": 88,
+              "rejection": "공간과 안정성의 장단점은 ⑤에 나타나나 비용·편익을 비교하여 최적 선택하지 않는다."
+            }
+          ],
+          "boundary_note": "46/19는 효과 추적과 한계 보완이라는 서로 다른 설명 수준으로 중첩 가능. 강제 배타화하지 않는다.",
+          "confidence": 0.91,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEA-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T08:56:27.121880+09:00"
+      }
+    ],
+    "BEB": [
+      {
+        "line": 5712,
+        "case": "BEB",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G399",
+          "primary": [
+            {
+              "code": 92,
+              "reason": "5개 지지점→4칸, 내부3개에서 1개 이상 제거→0~2개라는 개수 상한 산출."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 44,
+              "reason": "보를 기둥을 실제 대체하는 수단으로 읽어 감주량의 최소값1을 설정한다."
+            },
+            {
+              "code": 40,
+              "reason": "도리·대공·보·기둥의 지지 구조가 개수 산출의 전제다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 87,
+              "reason": "③의 지붕 경사는 공간 소재이며 정답 결정 계산은 기울기가 아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 90,
+              "rejection": "가능한 잔여 개수의 범위이지 배치 조합수나 확률을 세지 않는다."
+            },
+            {
+              "code": 31,
+              "rejection": "원소 수와 집합 수를 혼동한 문제가 아니라 기둥 수와 칸수의 구조적 대응이다."
+            },
+            {
+              "code": 10,
+              "rejection": "보 사용의 의미에 감주 조건이 필요하지만 명시된 필요조건을 독립 추론하는 구조보다 산술 상한 판정이 직접적이다."
+            }
+          ],
+          "uncertainty": "44에 의한 사용 의미 제한은 문맥적이다. 형식적 필연으로 강화하지 않는다.",
+          "confidence": 0.83,
+          "sdss_disclosed": false
+        },
+        "record_id": "BEB-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T08:56:27.271858+09:00"
+      }
+    ],
+    "BED": [
+      {
+        "line": 5724,
+        "case": "BED",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G400",
+          "primary": [
+            {
+              "code": 39,
+              "reason": "두 설명의 공유 전제를 차이로 잘못 표시한④를 비교 판정한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 75,
+              "reason": "보험·생산·공동목축·기회주의 설명의 입장별 귀속이 필요하다."
+            },
+            {
+              "code": 58,
+              "reason": "달만과 스미스의 공동 목축 규모 이점이라는 공통 전제 확인."
+            }
+          ],
+          "surface": [
+            {
+              "code": 77,
+              "reason": "⑤가 일반화 표현을 사용하지만 문맥 범위 밖 보편 명제의 타당성을 묻는 중심 과제는 아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 74,
+              "rejection": "설명 경쟁은 존재하지만 신규 관찰의 서로 다른 예측을 검사하지 않는다."
+            },
+            {
+              "code": 88,
+              "rejection": "효율성이 소재이나 비용 편익 최적 비교 계산은 없다."
+            },
+            {
+              "code": 86,
+              "rejection": "개별/목축 규모 비교는 공통 내용이며 두 견해의 차이 여부가 정답 결정 행동이다."
+            }
+          ],
+          "confidence": 0.93,
+          "sdss_disclosed": false
+        },
+        "record_id": "BED-independent_code-20261002-r2-01",
+        "status": "done",
+        "timestamp": "2026-10-02T09:00:34.283505+09:00"
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정·BED후속boundary직접확인.",
+  "미해결": "BEB보사용→실제감주라는문맥조건은엄밀필연으로확정안함.기존depth미해결승계.",
+  "후속정정": "BED5744boundary에따라74/75통합군유지.원independent의신규관찰부재반증문구는과거이력으로보존하되그것만으로74를배타기각하지않음.주39불변.",
+  "유보": "BED⑤해당제도설명태도와모든지속제도의합리성전칭을구별."
+}

@@ -1,0 +1,132 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AQV": [
+      {
+        "line": 4151,
+        "record_id": "AQV-independent_code-20260927-01",
+        "case": "AQV",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G286",
+          "primary": [
+            10
+          ],
+          "auxiliary": [
+            75,
+            80
+          ],
+          "surface": [
+            3,
+            5
+          ],
+          "decisive_operation": "판결에 의한 승격은 국가 인정이 관습의 법 지위에 구성적으로 필요하다는 입장이다. 이미 있는 법을 사후 확인한다는 견해와 구분한다.",
+          "competing_codes": [
+            {
+              "code": 80,
+              "rebuttal": "확인과 성립을 혼동하지 않는 데 필요하지만[A]는 지식 획득보다 법적 지위 성립 요건을 강조한다."
+            },
+            {
+              "code": 75,
+              "rebuttal": "두 관점을 귀속하는 과업과 중첩된다.10은 그 관점 차이의 결정 내용이며 배타적인 번호 분류는 아니다."
+            },
+            {
+              "code": 3,
+              "rebuttal": "성립 시점이 달라질 수 있지만 순서만으로 국가 인정의 구성적 지위와 단순 확인을 구별할 수 없다."
+            }
+          ],
+          "boundary_note": "[A]에 가장 가까운 견해를 고르는 과업이며③의 국가 정립 일반론 전체를[A]가 엄밀히 논리 함축한다고 주장하지 않는다.",
+          "confidence": 0.92,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AQX": [
+      {
+        "line": 4164,
+        "record_id": "AQX-independent_code-20260927-01",
+        "case": "AQX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G287",
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            5,
+            75
+          ],
+          "surface": [
+            3
+          ],
+          "decisive_operation": "대운 순환이라는 관점의 핵심 요건인 상태 반복을 만족하는 역사 서술 사례를 찾는다.",
+          "competing_codes": [
+            {
+              "code": 5,
+              "rebuttal": "반복 변화라는 내용 연산으로 중요하나 제시된 관점에 부합하는 사례를 찾는 과업37과 중첩된다. 배타 코드로 분리하지 않는다."
+            },
+            {
+              "code": 3,
+              "rebuttal": "역사의 선후 순서만 같아도 순환관이 되는 것은 아니다. 상태가 되돌아오는 관계가 필요하다."
+            },
+            {
+              "code": 69,
+              "rebuttal": "유사한 역사 사례를 비교하지만 미지의 속성을 다른 사례에서 옮기는 유추보다 명시 관점에의 대응이다."
+            }
+          ],
+          "boundary_note": "순환도 변화의 한 유형이다. 변화/불변을 단순 이분하여㉠을 불변으로 분류하지 않는다.",
+          "confidence": 0.92,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ARB": [
+      {
+        "line": 4178,
+        "record_id": "ARB-independent_code-20260927-01",
+        "case": "ARB",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G288",
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            75,
+            5
+          ],
+          "surface": [
+            3,
+            80
+          ],
+          "decisive_operation": "전성설의 기존 구조 확대라는 요건을 일지의 해석 부분에 적용하여 다른 조직의 분화·성립 설명을 제외한다.",
+          "competing_codes": [
+            {
+              "code": 5,
+              "rebuttal": "커짐과 새 조직으로의 분화라는 변화 종류 구별이 중요하지만37의 이론-사례 대조 내용으로 중첩된다."
+            },
+            {
+              "code": 74,
+              "rebuttal": "경쟁 발생 이론이 배경이지만 새로운 관찰이 어느 이론을 더 지지하는지 평가하기보다 기록자가 붙인 해석의 이론 적합성을 판정한다."
+            },
+            {
+              "code": 3,
+              "rebuttal": "관찰 날짜는 배열 표면이고 순서를 바꾸어도④ 분화 해석의 전성설 부적합은 남는다."
+            }
+          ],
+          "boundary_note": "관찰된 원시 기관 자체를 이론의 결정적 반증으로 삼지 않고 축소·접힘이라는 해석 가능성과 비교한다.",
+          "confidence": 0.95,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기/일지·5선지·최초풀이·정답대조·독립판정 직접 확인. ARB는제공된날짜별전사표를검토했으며이번공식지면이미지새확인없음.",
+  "범위": "AQV는가장가까운견해의핵심대응이며③일반론전체의엄밀함축을주장하지않음. AQX순환을불변으로분류하지않음. ARB는관찰과해석을분리하여역사적발생이론내부의부합을검사."
+}

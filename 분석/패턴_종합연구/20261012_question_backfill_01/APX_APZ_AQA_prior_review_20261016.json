@@ -1,0 +1,260 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "APX": [
+      {
+        "line": 4043,
+        "record_id": "APX-independent_code-20260927-01",
+        "case": "APX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:43:57.128404+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 63,
+              "reason": "설명성공이실재믿음을뒷받침한다는논증을약화하는자료선택"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 62,
+              "reason": "성공→참/실재연결의충분성에의문"
+            },
+            {
+              "code": 74,
+              "scope": "ㄷ",
+              "reason": "동등하게성공한대체이론의경쟁"
+            },
+            {
+              "code": 36,
+              "scope": "ㄹ",
+              "reason": "성공하지만존재자는허구인반례후보"
+            }
+          ],
+          "surface": [
+            {
+              "code": 81,
+              "reason": "존재론명제지만철학적입장자체를직관으로선택하지않음"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 73,
+              "refutation": "과학성공이라는사실을없다고부정하지않고성공에서실재로가는연결을문제삼음"
+            },
+            {
+              "code": 18,
+              "refutation": "상이한이론이동등설명한다고반드시논리모순이라는전제는없음"
+            },
+            {
+              "code": 4,
+              "refutation": "실재론을모든실패이론까지참이라는전칭명제로바꿔ㄴ을선택하면허수아비화"
+            }
+          ],
+          "counterfactual_probe": "ㄴ을실패이론많다가아니라성공이론의존재자가허구로확인됨으로바꾸면ㄹ처럼직접약화.ㄷ의동등성만으로유일선택불가이지모든이론거짓은아님.",
+          "confidence": 0.96,
+          "passage_group": "G278",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "APZ": [
+      {
+        "line": 4055,
+        "record_id": "APZ-independent_code-20260927-01",
+        "case": "APZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:48:03.755016+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 16,
+              "reason": "용어의문맥기능을정의하여서로유사한역할대응"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "reason": "행위자·관계·효과·부재라는범주구별"
+            },
+            {
+              "code": 22,
+              "reason": "사회적보증이연결망효과의일종"
+            }
+          ],
+          "surface": [
+            {
+              "code": 69,
+              "reason": "다른소재유추라기보다일반개념과적용사례의대응"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 1,
+              "refutation": "약한정도와없음구별은③배제에필요하지만정답④의역할유사성전체를대신못함"
+            },
+            {
+              "code": 40,
+              "refutation": "효과의한종류를물리적부분으로읽으면과도"
+            },
+            {
+              "code": 98,
+              "refutation": "용어문자유사성보다개념의주체/행위/효과역할확인이핵심"
+            }
+          ],
+          "counterfactual_probe": "사회적보증서는연결망효과전체와완전동의어가아니라구체적하위효과.문맥유사성을정의전체동일성으로확대하지않음.",
+          "confidence": 0.96,
+          "passage_group": "G279",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AQA": [
+      {
+        "line": 4056,
+        "record_id": "AQA-independent_code-20260927-01",
+        "case": "AQA",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T03:48:03.755656+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 20,
+              "reason": "정보제공기능이약한연결외에공개평판으로도실현"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 45,
+              "reason": "기업평판·학교전공표지→직장/지원자특성정보"
+            },
+            {
+              "code": 56,
+              "reason": "고학력집단연결망활용낮음을대체정보원으로설명"
+            }
+          ],
+          "surface": [
+            {
+              "code": 9,
+              "reason": "학교·기업서열은정보표지조건이지판독서열자체가정답아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 19,
+              "refutation": "연결망부족을더많은연결망으로보충한것아니라다른정보경로가역할대체"
+            },
+            {
+              "code": 53,
+              "refutation": "한미차이의순수원인을완전통제로입증한자료는아님.본문설명에따른기능추론"
+            },
+            {
+              "code": 75,
+              "refutation": "연구자간가치입장경쟁보다같은정보기능의수단차이"
+            }
+          ],
+          "counterfactual_probe": "공개평판이직장·지원자정보를전혀주지않으면연결망활용감소설명이약해짐.대체는정보기능범위이며관계의모든효과가동일하다는뜻아님.",
+          "confidence": 0.97,
+          "passage_group": "G279",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기·5선지·최초풀이·정답대조·독립판정 직접 확인. APZ별도20행과후속독립검토기록도직접확인.",
+  "APZ_별도기록": {
+    "path": "data/기본기_연구/code_reviews_01.jsonl",
+    "line": 20,
+    "record": {
+      "case_id": "BASIC-C12-MEET-2005-Q40",
+      "code_number": 12,
+      "exam_family": "MEET",
+      "year": 2005,
+      "question_number": 40,
+      "local_question_id": "MEET-2005-Q40",
+      "passage_id": "MEET-2005-Q39-41",
+      "source_path": "자료/MEET_언어추론/전사_검수완료/2005/q39-41.md",
+      "official_answer": "④",
+      "official_answer_source": "자료/MEET_언어추론/공식_정답표_원본/2005_언어추론_정답표.hwp",
+      "site_code_label": "조건문",
+      "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EC%82%AC%ED%9A%8C%EC%A0%81+%EC%97%B0%EA%B2%B0%EB%A7%9D+%EC%9D%B4%EB%A1%A0",
+      "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%EC%A1%B0%EA%B1%B4%EB%AC%B8",
+      "passage_structure_codes": [
+        16,
+        46,
+        42
+      ],
+      "primary_solution_codes": [
+        16,
+        37
+      ],
+      "support_codes": [
+        40
+      ],
+      "evidence": [
+        {
+          "location": "(가)2문단",
+          "quote": "연결망은 기회와 정보의 공유",
+          "source_path": "자료/MEET_언어추론/전사_검수완료/2005/q39-41.md",
+          "source_record_id": "MEET-2005-Q40",
+          "quote_normalization": "whitespace_only"
+        },
+        {
+          "location": "(나)1문단",
+          "quote": "제공함으로써 구성원들에게 도움",
+          "source_path": "자료/MEET_언어추론/전사_검수완료/2005/q39-41.md",
+          "source_record_id": "MEET-2005-Q40",
+          "quote_normalization": "whitespace_only"
+        }
+      ],
+      "reasoning_steps": [
+        "문항은 조건문의 함축 여부가 아니라 두 문맥에서 쓰인 용어의 의미 대응을 묻는다.",
+        "연결망 효과는 연결망이 구성원에게 주는 이익이고 사회적 보증서는 취업 맥락에서 제공되는 그 이익의 구체 형태다.",
+        "④가 맞다. 효과와 조건, 구성 요소를 구별해야 하지만 조건문 실행은 없다."
+      ],
+      "distractor_operations": [
+        "① 행위자 결절점과 접근 방식 직접 접촉의 범주 혼동.",
+        "② 관계 자체와 제도적 채용 경로의 범주 혼동.",
+        "③ 연결 부재와 친밀도가 낮은 연결을 동일시.",
+        "④ 참: 일반적 이익과 구체적 취업 이익 대응.",
+        "⑤ 관계적 승인 작용과 특정 사람을 동일시."
+      ],
+      "nearest_code_boundary": "사이트 #12는 본문의 요건 진술이 다른 문항으로 이동한 후보로 보인다. 추정 원인일 뿐 사이트 작성 의도는 확정할 수 없다.",
+      "site_tag_verdict": "주 코드 기각",
+      "review_status": "single_analyst_reviewed",
+      "site_original_codes": [
+        "조건문"
+      ],
+      "site_candidate_id": "CAND-d49b0ee586652d18",
+      "site_snapshot": {
+        "fetched_at": "2026-09-03T11:19:36+09:00",
+        "catalog_path": "data/sdss_100codes_catalog.json",
+        "raw_path": "data/sdss_code_search_raw/012_조건문.html",
+        "current_site_rechecked": false
+      },
+      "site_tag_relation_scope": {
+        "location": "지문 (가)의 효과 발생 조건",
+        "interpretation": "정답④ 및 조합 판정은 문맥적 의미 대응. 태그 의도 미확정",
+        "site_intended_scope_confirmed": false
+      },
+      "site_untagged_supplement": false,
+      "passage_source_path": "자료/MEET_언어추론/전사_검수완료/2005/q39-41.md",
+      "question_source_path": "자료/MEET_언어추론/전사_검수완료/2005/q39-41.md",
+      "independent_review": {
+        "date": "2026-09-07",
+        "reviewer": "conditions_synthesis",
+        "status": "second_analyst_source_reviewed",
+        "blind": false,
+        "scope": "지문·발문·보기(해당 시)·전체 선지 및 기존 분석 재검토",
+        "finding": "(가)·(나)의 열 개 밑줄 용어와 다섯 조합을 대조했다. ④는 일반적 연결망 이익과 구체적 취업 이익의 의미 대응이다. 조건문 주 코드는 기각하되 사이트 오류로 단정하지 않았다.",
+        "original_review_status_preserved": true,
+        "official_answer_file_reopened": false
+      }
+    }
+  },
+  "APZ_태그이력": "옛사이트조건문태그의주코드기각이력을승계.사이트작성의도나현재태그를새로확정하지않음.정의·문맥의미대응이라는기존독립판정과동일문항1회계수유지.",
+  "APX_범위": "설명력약화근거와논리적반증을구별.서로다른이론은자동모순아니며모든실패이론까지참이라는실재론으로바꾸지않음."
+}

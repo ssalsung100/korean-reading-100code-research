@@ -1,0 +1,171 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "ANE": [
+      {
+        "line": 3723,
+        "record_id": "ANE-independent_code-20260927-01",
+        "case": "ANE",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:09:10.675431+00:00",
+        "payload": {
+          "passage_group": "G254",
+          "primary": [
+            {
+              "code": 17,
+              "reason": "활동 순차 배열이라는 방법의 소속 전략을 보존"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 39,
+              "reason": "두 전략의 예측가능·반복적 방법 차이를 비교"
+            },
+            {
+              "code": 14,
+              "scope": "④",
+              "reason": "공식 평가와 비사전계획의 양립을 유지"
+            }
+          ],
+          "surface": [
+            {
+              "code": 3,
+              "reason": "순서 배열이 소재지만 문항 자체는 선후 추론보다 방법의 귀속 교환"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 75,
+              "refutation": "대조적인 전략이나 상반 주장 논쟁의 승패를 묻지 않음. 운영 방식의 속성 귀속"
+            },
+            {
+              "code": 45,
+              "refutation": "조건별 개발 과정은 입력/출력으로 기술 가능해도⑤ 배제에 과정 전체 실행은 필요 없음"
+            },
+            {
+              "code": 44,
+              "refutation": "가속화라는 공통 목적은 맞으므로 목적만 알아서는⑤의 잘못된 수단 소속을 가르지 못함"
+            }
+          ],
+          "counterfactual_probe": "발문의 경험을 압축으로 바꾸면⑤는 적절해진다. 단④의 공식적을 사전 계획된으로 바꾸면 경험에는 부적절. 두 형용사는 동치 아님.",
+          "boundary_status": "17/39 소속 대조 중첩,3을 표면 단어 순서만으로 주코드 승격 금지",
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "ANG": [
+      {
+        "line": 3734,
+        "record_id": "ANG-independent_code-20260927-01",
+        "case": "ANG",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:12:57.205902+00:00",
+        "payload": {
+          "passage_group": "G255",
+          "primary": [
+            {
+              "code": 16,
+              "reason": "責任性를 대표 통제·퇴출이라는 정의적 설명과 연결"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 17,
+              "scope": "④",
+              "reason": "응답성 주체가 정치 기구이며 국민은 요구 제공자라는 논항 역할 보존"
+            },
+            {
+              "code": 2,
+              "scope": "①②",
+              "reason": "절차가 갖춰짐을 실질 대표·정책 응답 보장이나 전면 부재로 강화하지 않음"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "국민을 위해 행위해야 한다는 규범 소재"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 21,
+              "refutation": "본문은 특징·요구를 서술하며 책임성의 모든 필요충분조건을 열거하지 않음"
+            },
+            {
+              "code": 75,
+              "refutation": "세 경쟁 주체의 입장을 귀속하는 문제가 아닌 세 개념 구분"
+            },
+            {
+              "code": 93,
+              "refutation": "응답이라는 단어가 있어도 메시지 전달 경로 자체를 묻지 않음"
+            },
+            {
+              "code": 98,
+              "refutation": "국민의 반응이라는 소유격 해석에 도움이 되지만 정답⑤는 책임성의 핵심 특징 대응으로 직접 확인 가능"
+            }
+          ],
+          "counterfactual_probe": "④를 국민 요구에 대한 정치 기구 성과의 부응으로 고치면 응답성과 맞음. 반응이라는 명사보다 주체·대상 방향 보존이 결정적.",
+          "boundary_status": "16/17은 정답 직접 확인과④ 오답 배제의 범위 차이",
+          "confidence": 0.96,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "ANH": [
+      {
+        "line": 3735,
+        "record_id": "ANH-independent_code-20260927-01",
+        "case": "ANH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:12:57.491071+00:00",
+        "payload": {
+          "passage_group": "G255",
+          "primary": [
+            {
+              "code": 44,
+              "reason": "갈등을 제도 안에 반영·조정하여 공고화한다는 수단-목적 연결에 정책안을 대조"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 49,
+              "reason": "균열에 조응하는 편제 촉진을 억제로 바꾼 방향 반전"
+            },
+            {
+              "code": 46,
+              "reason": "이익 반영·제도화→합리적 갈등 해결→성숙 경로"
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "정책 제안의 당위 형식"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 13,
+              "refutation": "갈등의 존재와 민주적 안정이 양립 불가라고 전제하면 오독. 갈등을 제도화함으로 공고화 가능"
+            },
+            {
+              "code": 19,
+              "refutation": "약점을 보완하는 취지는 있으나 정답은 부족 요소를 새로 찾기보다 주어진 제도화 방향과 반대인지 점검"
+            },
+            {
+              "code": 10,
+              "refutation": "반영 구조가 중요하다는 지문을 넘어 모든 개별 수단을 예외 없는 필요조건으로 격상하지 않음"
+            }
+          ],
+          "counterfactual_probe": "② 억제를 지원 또는 제도화로 바꾸면 본문과 맞는다. 갈등 해결을 갈등 표출 자체 금지로 바꾸어서는 안 된다.",
+          "boundary_status": "44/46 목적 설명과 경로 설명의 국소 중첩 유지",
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

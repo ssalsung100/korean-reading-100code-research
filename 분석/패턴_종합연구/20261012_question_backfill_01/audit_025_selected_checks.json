@@ -1,0 +1,62 @@
+{
+  "sample_case_ids": [
+    "ATC",
+    "ATD",
+    "ATJ",
+    "ATO",
+    "ATU",
+    "ATW",
+    "ATY",
+    "AUC",
+    "AUJ",
+    "AUK",
+    "AUN",
+    "AUZ",
+    "AVA",
+    "AVB",
+    "AVE",
+    "AVH",
+    "AVI",
+    "AVK"
+  ],
+  "sample_questions": 18,
+  "sample_scenes": 20,
+  "sample_options": 90,
+  "scope": "주에이전트가이번작성에서직접읽은원문과현행기록의사후감사.외부현행사실검증아님.",
+  "new_candidates": [
+    "BFP016",
+    "BFP017"
+  ],
+  "candidate_family_review": "BFP016/BFP011은평균내부성의다른방향구현으로통합검토;독립대분류확정아님.",
+  "amendments": [
+    "QBF01-AMD051",
+    "QBF01-AMD052",
+    "QBF01-AMD053",
+    "QBF01-AMD054"
+  ],
+  "failure_preserved": {
+    "case": "AVE",
+    "initial": 3,
+    "confidence": 0.91,
+    "official": 5,
+    "match": false
+  },
+  "holds_preserved": [
+    "ATU",
+    "AUN",
+    "AUZ",
+    "AVE"
+  ],
+  "checks": {
+    "ATD": "두하위집단각50%미만→전체미만.정확가중검산과필수판단분리.",
+    "ATJ": "범위·비용·교란비판과공격대상왜곡분리.",
+    "ATW_ATY": "세포별경로·촉진억제/억제억제·공통기전/목적대체구별.",
+    "AUC_AUE": "정의/외연·과학참/가치관련성·가능성/검증완료구별.",
+    "AUJ_AUK": "지시대상/인식사건·작은교정→복귀의국소경로.",
+    "AVA_AVB": "필요비교방향을동치로강화금지.공통결과를원인동일로확대금지.",
+    "AVE": "최초오답유지.상징의물리적환원과미제시후속불행을분리.",
+    "AVH_AVI": "측정개선/대상개선·표본수/채널수·역할대응/단위동일구별.",
+    "AVK": "기존펜덴티브도판직접재확인.사각본체와돔의동시요건."
+  },
+  "pass": true
+}

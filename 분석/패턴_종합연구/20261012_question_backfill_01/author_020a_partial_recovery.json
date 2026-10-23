@@ -1,0 +1,12 @@
+{
+  "partial_script": "author_020a.py",
+  "persisted_before_error": [
+    "U0435-Q01",
+    "U0435-Q02"
+  ],
+  "not_persisted": "U0436-Q01",
+  "cause": "리(理)와 기(氣)의 병기를 빠뜨린 인용 문자열. preflight 실패 뒤 실행 호출이 이어짐.",
+  "recovery_script": "author_020a_recover.py",
+  "action": "기저장 문항 재실행 없이 BMP만 append. 원스크립트 및 원raw 보존.",
+  "semantic_change": false
+}

@@ -1,0 +1,181 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "AVF": [
+      {
+        "line": 4667,
+        "record_id": "AVF-independent_code-20260928-01",
+        "case": "AVF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            69,
+            78
+          ],
+          "auxiliary": [
+            39,
+            100
+          ],
+          "surface": [
+            37,
+            17
+          ],
+          "decisive_operation": "자유로운이동욕망과현실정착의구속이라는심리관계를아내/포플라에대응한다.",
+          "competitor_refutations": [
+            {
+              "code": 100,
+              "reason": "나무라는공통비유소재만으로고르면안되고자유선망의심리관계가일치해야한다."
+            },
+            {
+              "code": 37,
+              "reason": "주어진정의의사례를찾기보다두작품인물의심리구조를비교한다. 넓게는중첩가능."
+            },
+            {
+              "code": 3,
+              "reason": "떠남·귀환의시간단계가아니라귀환선망과끝없는이동선망의차이가중요하다."
+            }
+          ],
+          "confidence": 0.95,
+          "passage_group": "G324",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AVH": [
+      {
+        "line": 4679,
+        "record_id": "AVH-independent_code-20260928-01",
+        "case": "AVH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46,
+            59
+          ],
+          "auxiliary": [
+            53,
+            2,
+            17
+          ],
+          "surface": [
+            43,
+            19
+          ],
+          "decisive_operation": "물성 차이가 분리 현상을 낳는다는 원인을 조절 가능한 차이 감소로 제거한다. 측정 절차 변경과실제 현상 개선을 나눈다.",
+          "competitor_refutations": [
+            {
+              "code": 43,
+              "reason": "실험 추정을 위한 통제가 아니라 실제 원인 차이를 조작해 현상을 줄인다."
+            },
+            {
+              "code": 19,
+              "reason": "검체 부족 보완은 측정 정확성의 문제로 분리 현상 자체와 다르다."
+            },
+            {
+              "code": 80,
+              "reason": "측정 인식과현상 구분은 유효하나 정답은 물성이라는 원인 변수 개입이다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G325",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AVI": [
+      {
+        "line": 4680,
+        "record_id": "AVI-independent_code-20260928-01",
+        "case": "AVI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            39,
+            17
+          ],
+          "auxiliary": [
+            69,
+            31
+          ],
+          "surface": [
+            38,
+            45
+          ],
+          "decisive_operation": "두 측정법의 표본 대상·크기·개수와채널·측정 수단을 같은 역할끼리 대응하여 표본 수/색 종류 교환을 찾는다.",
+          "competitor_refutations": [
+            {
+              "code": 31,
+              "reason": "수를 세는대상의 종류 구별은 핵심 보조이나 실제 값 계산이나 집합 수 산출은 없다."
+            },
+            {
+              "code": 69,
+              "reason": "관계 대응이 실제 있으므로 공동 후보. 미지 속성을 전이하기보다 이미 설명된 두 절차의 역할을 대조한다는 점에서39를 주로 둔다."
+            },
+            {
+              "code": 45,
+              "reason": "빛세기→함량비 변환은 재료이며정답은 관측값 수와색채널 수의 다른 역할이다."
+            },
+            {
+              "code": 84,
+              "reason": "함량비 계산식의 분자분모를 비교하지 않는다."
+            }
+          ],
+          "confidence": 0.96,
+          "passage_group": "G325",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AVK": [
+      {
+        "line": 4693,
+        "record_id": "AVK-independent_code-20260928-01",
+        "case": "AVK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            59,
+            44
+          ],
+          "auxiliary": [
+            19,
+            40,
+            5
+          ],
+          "surface": [
+            69,
+            16
+          ],
+          "decisive_operation": "사각 제의 공간과돔을 동시 보존하려는 목적에 펜덴티브의 연결 해결책을 대응한다.",
+          "competitor_refutations": [
+            {
+              "code": 5,
+              "reason": "형태가 바뀐다는것만으로는왜원통이부적절한지설명못하고 제의방향목적을봐야한다."
+            },
+            {
+              "code": 19,
+              "reason": "본체/상단 연결의부족보완으로실질중첩있다. 전체목표·장애·해결59와번호만으로억지분할하지않는다."
+            },
+            {
+              "code": 69,
+              "reason": "천구유사는돔선택배경이지④의기존배치회귀를판정하는핵심은아니다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G326",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·표·기존풀이·독립판정직접확인.",
+  "시각": "G326_visual01.jpeg 직접재확인:사각기둥/아치의상부와원형돔받침사이삼각구면부에펜덴티브지시.G326_visual02.jpeg는정자사진으로AVK의직접근거도판과구분.기존제공이미지재확인이며신규복원아님."
+}

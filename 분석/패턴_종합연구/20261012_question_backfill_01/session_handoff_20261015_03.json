@@ -1,0 +1,218 @@
+{
+  "date": "2026-10-15",
+  "run": "세 번째 이어서 실행",
+  "status": "진행 중·중간 인계 저장",
+  "stop_reason": "이번 응답의 컨텍스트·작성 작업 예산에 맞춘 중간 인계. 연구 또는 배치 완료를 종료 사유로 삼지 않았으며,15배치 감사 후16배치18문항을 추가 진행했다. 구체 quota 잔여치·runtime emergency 경고는 관측되지 않았고 한도값을 추정하지 않는다.",
+  "authoritative_checkpoint": "checkpoint.json",
+  "previous_session_handoff": "session_handoff_20261015_02.json",
+  "start": {
+    "reviewed_questions": 573,
+    "scenes": 922,
+    "next_order": 574,
+    "next_question": "U0306-Q03",
+    "last_saved_author": "author_015e.py"
+  },
+  "session_completed": {
+    "orders": [
+      574,
+      618
+    ],
+    "questions_added": 45,
+    "scenes_added": 64,
+    "exam": "LEET",
+    "option_rows_checked": 225,
+    "new_raw_duplicates": 0,
+    "scripts": [
+      "author_015f.py",
+      "author_015g.py",
+      "author_015h.py",
+      "author_015i.py",
+      "author_015j.py",
+      "author_015k.py",
+      "author_015l.py",
+      "author_015m.py",
+      "author_015n.py",
+      "author_016a.py",
+      "author_016b.py",
+      "author_016c.py",
+      "author_016d.py",
+      "author_016e.py",
+      "author_016f.py"
+    ]
+  },
+  "current": {
+    "reviewed_questions": 618,
+    "target_questions": 1077,
+    "new_scenes": 986,
+    "remaining_questions": 459,
+    "by_exam": {
+      "KICE": {
+        "target": 496,
+        "reviewed": 496,
+        "deeply_extracted": 496,
+        "scenes": 788,
+        "unresolved_questions": 20,
+        "remaining": 0
+      },
+      "LEET": {
+        "target": 379,
+        "reviewed": 122,
+        "deeply_extracted": 122,
+        "scenes": 198,
+        "unresolved_questions": 8,
+        "remaining": 257
+      },
+      "MEET": {
+        "target": 202,
+        "reviewed": 0,
+        "deeply_extracted": 0,
+        "scenes": 0,
+        "unresolved_questions": 0,
+        "remaining": 202
+      }
+    },
+    "unresolved_questions": 28
+  },
+  "last_saved_author": "author_016f.py",
+  "last_saved_question": "U0327-Q03",
+  "last_saved_case": "BAE",
+  "last_audit": "audit_015.py",
+  "audited_batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "audit_15": {
+    "sample_questions": 18,
+    "sample_scenes": 29,
+    "sample_options": 90,
+    "amendments": [
+      "QBF01-AMD042",
+      "QBF01-AMD043"
+    ],
+    "developments": [
+      "QBF01-DEV052",
+      "QBF01-DEV053",
+      "QBF01-DEV054",
+      "QBF01-DEV055",
+      "QBF01-DEV056"
+    ],
+    "blocking_errors": 0,
+    "verification": "audit_015_countermodel_checks.json"
+  },
+  "active_batch": {
+    "number": 16,
+    "saved_questions": 18,
+    "semantic_sample_audit_complete": false,
+    "next_audit_at_reviewed_questions": 640
+  },
+  "new_candidates": {
+    "new_ids": [],
+    "decision": "이번 새 원리·구별은 개별장면과DEV052~056에 보존. 단일 사례를 반복 후보로 승격하거나 기존95정의에 강제 배정하지 않음. BFP001~013 정의 불변."
+  },
+  "new_unresolved": [
+    {
+      "question": "U0309-Q01",
+      "case": "AXY",
+      "official_answer": 3,
+      "issue": "④의 약3배는 두 안테나의 유효길이/파장 비례계수k가 같을 때 성립. 원문1/4~1/2범위만으로독립k를배제할수없음.",
+      "verification": "AXY_antenna_ratio_verification.json",
+      "next": "동일설계계수 조건과 범위값을 후속 실제 비교문항에 대조. 공식③ 유지."
+    },
+    {
+      "question": "U0313-Q03",
+      "case": "AYN",
+      "official_answer": 2,
+      "issue": "②의두께감소속도는의도상S(바닥융해)로해석. 전체순두께의감소로확대하려면A,B,C·면적조건이추가로필요.",
+      "verification": "AYN_flux_interpretation_check.json",
+      "next": "제작문구를바닥에서녹는단위면적당두께로명료화. 실제아문센해두께증가주장아님. 공식②유지."
+    }
+  ],
+  "prior_unresolved_review": {
+    "AXB": "15배치감사에서동심층모형의질량·정규관성·외곽관성·밀도를재계산하여기존유보유지. 공식③변경없음.",
+    "AWI": "기존14배치비용축/개입량유보그대로보존. 이번전수재검증안함."
+  },
+  "source_repairs": [
+    {
+      "cases": [
+        "AXY",
+        "AYA"
+      ],
+      "files": [
+        "AXY_source_with_restored_formula.json",
+        "AYA_source_with_restored_formula.json",
+        "G348_source_repair_history.json"
+      ],
+      "repair": "c,f,λ,c=fλ 및안테나분수1/2~1/4를공식2014렌더14·15쪽에서직접확인하여파생본에복원. source_overrides.json은이두대상만추가. 원본불변."
+    },
+    {
+      "case": "AYQ",
+      "file": "AYQ_view_restored.json",
+      "repair": "기존보충은변경표만있었음. 공식2015렌더7쪽에서A국의강한입법권한·강한기율·의회단순다수·대통령결선이라는초기상태문단복원. 기존source불변·보충근거로연결."
+    },
+    {
+      "case": "AXH",
+      "file": "AXH_source_with_restored_greek.json",
+      "repair": "이전세션α·β복원파생본을감사에서그대로사용. 원본과복원·노출이력구별유지."
+    }
+  ],
+  "important_refinements": [
+    "AYX: B_next=NOT A_sampled. 피드백뒤A가재계산되므로같은시점A와B가항상반대라는강한명제는금지. C=1이면동시A=B,C=0이면A=NOT B. AYX_timing_review.json과감사검산참조.",
+    "AMD042: AXP의설명해상도연결제거. 구조식별/등장이유의과제구별은관계귀속과개별설명에보존.",
+    "AMD043: AXG의대립가능성연결제거. 물의비이력/과냉각공존사례와두명제의진리조합전체분류를구별.",
+    "QAMD006: AYN①표제의장르를빙붕규모로단순정정. 원raw·실제추론불변.",
+    "AYK/T 동일문항의기존최초풀이및정답대조MD둘을연결. 매력적오답AYK①/T②이력보존·고유1회계수.",
+    "BAB: 절차부재는규칙의적용범위밖이며,절차존재하법관귀책으로미이용한명시예외와다름. 배제사유부재를최종배상확정으로전환하지않음.",
+    "AZV: 서로다른Wg농도에서mRNA동일이보장되지않는다는말을모든mRNA가반드시상이하다고강화하지않음. 또는로제시된수용체/소낭경로를동시필수로바꾸지않음."
+  ],
+  "next": {
+    "order": 619,
+    "unique_question": "U0328-Q01",
+    "case_ids": [
+      "BAF"
+    ],
+    "read_but_not_saved": false,
+    "suggested_author": "author_016g.py",
+    "resume_command": "python3 분석/패턴_종합연구/20261012_question_backfill_01/backfill_io.py packet 619 2"
+  },
+  "save_state": {
+    "read_but_not_saved": [],
+    "authored_but_not_saved": [],
+    "last_validation": "session_validation_20261015_03.json",
+    "original_new_author_validation": "author_016f_validation.json",
+    "verification_scope": "각새author의원문구간·참조·선지수검증및새45문항ID·계수확인. 전체보호원장SHA검사없음.",
+    "execution_note": "author_015f첫preflight에서인용한곳의어순불일치를저장전에수정. 같은파일의문맥조작화연결도정의불일치로저장전에제거. 그외새author와audit는저장1회. yield된저장프로세스는poll후확인했으며재실행없음."
+  },
+  "next_audit_focus": [
+    "16배치640경계에서AZH의입증완화/무입증,AZO/AZP의실험유효성/실천한계,AZU/AZV의역치·방향·대안가설,AZZ/BAB의가능경로·규칙범위밖/예외를표본에포함.",
+    "이번새후보강제배정없음. 기준내부검사·범위이동·관계귀속의연결이너무넓지않은지실제D/E와후속사례를대조.",
+    "LEET잔여257문항후MEET202문항으로진행. KICE재분석금지."
+  ],
+  "constraints": {
+    "results_only_in_backfill_folder": true,
+    "KICE_reanalysis": false,
+    "original_assets_changed": false,
+    "frozen_616_scenes_changed": false,
+    "original_95_definitions_changed": false,
+    "processed_CURRENT_changed": false,
+    "other_models_called": false,
+    "automatic_git_push": false,
+    "holds_preserved": [
+      "G024",
+      "G370"
+    ]
+  },
+  "legacy_metadata_note": "checkpoint의other_models_called=true와Luna경로검색기록은이전연구의역사적메타데이터다. 이번세션은current_session_other_models_called=false이며다른모델호출없음."
+}

@@ -1,0 +1,9 @@
+{
+  "reviewed_questions": 40,
+  "scenes": 55,
+  "mechanical_errors": [],
+  "protected_input_changes": [],
+  "protection_checked": true,
+  "interpretation": "자동 검사는 연결·수량·ID·해시만 확인. 의미 타당성은 별도 직접 표본 감사.",
+  "pass_mechanical": true
+}

@@ -1,0 +1,20 @@
+{
+  "status": "기계 검사 통과",
+  "baseline_files": 9869,
+  "changed_input_files": [],
+  "missing_input_files": [],
+  "changed_noninput_live_sibling_files": [
+    "분석/패턴_종합연구/20261012_synthesis_01/build_assets.py",
+    "분석/패턴_종합연구/20261012_synthesis_01/decision_raw.jsonl"
+  ],
+  "processed_groups": 495,
+  "scenes": 616,
+  "evidence_records": 616,
+  "pending_groups": 0,
+  "next_group": null,
+  "original_raw_records": 7605,
+  "raw_pending": 0,
+  "source_anchors_present": 24,
+  "semantic_validation_completed": false,
+  "scope": "ID·중복·raw행/내용·출처 SHA·인용 위치·집계·입력 불변성만 검사. 모든 원문 선지의 의미나 후보의 일반 타당성은 검사하지 않음."
+}

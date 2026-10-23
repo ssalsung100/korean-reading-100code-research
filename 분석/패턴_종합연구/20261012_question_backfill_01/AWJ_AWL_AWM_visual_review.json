@@ -1,0 +1,151 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AWJ": [
+      {
+        "line": 4802,
+        "record_id": "AWJ-independent_code-20260928-01",
+        "case": "AWJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46,
+            37
+          ],
+          "auxiliary": [
+            17,
+            88,
+            5
+          ],
+          "surface": [
+            87,
+            79
+          ],
+          "decisive_operation": "불평등→시민자본약화→곡선밖이동을사례에적용하고그위에서개입방식변경을구분.",
+          "competitor_refutations": [
+            {
+              "code": 87,
+              "reason": "기울기변화와곡선위치이동은서로다른효과.①은위치방향오류."
+            },
+            {
+              "code": 88,
+              "reason": "새최적선택은비용비교지만그가능조건이악화한것을먼저보아야한다."
+            },
+            {
+              "code": 3,
+              "reason": "제도변경이후라는선후만으로사회비용전체가항상더낮다는결론은안된다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G334",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWL": [
+      {
+        "line": 4815,
+        "record_id": "AWL-independent_code-20260928-01",
+        "case": "AWL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            46,
+            45
+          ],
+          "auxiliary": [
+            91,
+            17
+          ],
+          "surface": [
+            84,
+            50
+          ],
+          "decisive_operation": "반사율→재활용광자→요동및거리→변화량의두경로를따라결과방향판정.",
+          "competitor_refutations": [
+            {
+              "code": 84,
+              "reason": "ㄴ은복사압잡음절대량이지신호대잡음비계산이아니다."
+            },
+            {
+              "code": 43,
+              "reason": "동일조건가정은있지만대조실험설계보다개입경로추적이다."
+            },
+            {
+              "code": 52,
+              "reason": "억제두번의구조로일괄처리할수없는서로다른물리경로다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G335",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWM": [
+      {
+        "line": 4816,
+        "record_id": "AWM-independent_code-20260928-01",
+        "case": "AWM",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            84,
+            46
+          ],
+          "auxiliary": [
+            19,
+            23,
+            17
+          ],
+          "surface": [
+            88,
+            49
+          ],
+          "decisive_operation": "역수축을해석하고진동수대별지배잡음을각기다른개입으로개선하는조합을고른다.",
+          "competitor_refutations": [
+            {
+              "code": 49,
+              "reason": "단일증감상관으로는출력의산탄개선/복사압악화를함께설명못한다."
+            },
+            {
+              "code": 88,
+              "reason": "절충은있지만비용함수최적점을계산하는것보다제시곡선개선조합을찾는다."
+            },
+            {
+              "code": 85,
+              "reason": "두잡음합이상수라는조건은없다."
+            },
+            {
+              "code": 19,
+              "reason": "질량증가가출력증가의복사압부작용을보완하는기여는있으나역수축과두잡음기제판독이선행한다."
+            }
+          ],
+          "confidence": 0.97,
+          "passage_group": "G335",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "visuals": {
+    "method": "주 에이전트 공식 페이지2장 직접 판독",
+    "paths": [
+      "data/기본기_연구/prepared_backlog/blind_sources/G335_visual01.png",
+      "data/기본기_연구/prepared_backlog/blind_sources/G335_visual02.png"
+    ],
+    "observations": [
+      "M5는 레이저와BS 사이에 있고 레이저 쪽으로 되돌아가는 빛을 간섭계로 재활용한다.",
+      "M1/M3 및M2/M4가 각4km 팔의 공진기를 구성한다.",
+      "27번 그래프 가로축은 진동수,세로축은 민감도=1/신호대잡음비이다. 점선은 저진동수·중간·고진동수에서 실선보다 낮다.",
+      "출력·질량의 증가율이나 정확한 민감도 수치는 제시되지 않았다."
+    ],
+    "exposure": "같은 페이지의 인접 벤야민 지문 노출 이력이 기존 raw에 이미 기록되어 있으며 신규 blind로 집계하지 않음."
+  }
+}

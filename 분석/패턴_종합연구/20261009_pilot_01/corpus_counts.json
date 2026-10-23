@@ -1,0 +1,37 @@
+{
+  "queue_rows": 7605,
+  "queue_unique_ids": 7605,
+  "processed_rows": 7605,
+  "pending": 0,
+  "stages": {
+    "answer_check": 1689,
+    "independent_code": 1672,
+    "sdss_compare": 1676,
+    "blind": 1674,
+    "boundary_revision": 21,
+    "induction": 388,
+    "hold": 180,
+    "meta_induction": 162,
+    "manual_parity_audit": 54,
+    "depth_backfill": 89
+  },
+  "manifest_rows": 1671,
+  "manifest_status": {
+    "consumed_sdss": 1663,
+    "prepared": 8
+  },
+  "manifest_groups": 499,
+  "index_cases": 1671,
+  "index_nonnull_question_ids": 1671,
+  "index_nonnull_passage_ids": 497,
+  "index_normalized_passage_families": 496,
+  "index_null_question_id_cases": 0,
+  "index_null_passage_id_cases": 0,
+  "meta_state_reported": {
+    "completed_passage_groups_total": 497,
+    "completed_questions_total": 1663,
+    "meta_due": false,
+    "manual_parity_audit_due": false,
+    "depth_backfill_pending": []
+  }
+}

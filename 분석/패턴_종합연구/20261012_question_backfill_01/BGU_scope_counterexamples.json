@@ -1,0 +1,29 @@
+{
+  "status": "기출관측값아닌논리점검용가상사례",
+  "option2_frequency": {
+    "medieval": {
+      "perfect": 80,
+      "imperfect": 10,
+      "dissonant": 10,
+      "total_consonant": 90
+    },
+    "renaissance": {
+      "perfect": 60,
+      "imperfect": 35,
+      "dissonant": 5,
+      "total_consonant": 95
+    },
+    "finding": "중세의완전음정중시와르네상스불완전음정증가는양립하지만협화음정전체빈도는후자가더많을수있다. 원문의질적경향에서수량비교는유일하게도출되지않음."
+  },
+  "option5_inverse": {
+    "given_chords": [
+      "도-미-솔",
+      "파-라-도"
+    ],
+    "shared_partial_note": "도",
+    "finding": "같은일부음으로개별화음의유일식별은보장되지않음. 이예만으로곡전체의으뜸음·주요3화음집합의비유일성까지모두입증한것으로확대하지않음.",
+    "needed_information": "어떤범위의선율이주어졌는지,으뜸음등화성맥락이확보되는지,주요3화음의존재·유일성을어느강도로묻는지"
+  },
+  "official_answer_preserved": 5,
+  "subsequent_question_conditions_not_imported": true
+}

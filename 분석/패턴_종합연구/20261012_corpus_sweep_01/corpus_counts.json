@@ -1,0 +1,67 @@
+{
+  "raw_records": 7605,
+  "raw_unique_ids": 7605,
+  "raw_stages": {
+    "answer_check": 1689,
+    "independent_code": 1672,
+    "sdss_compare": 1676,
+    "blind": 1674,
+    "boundary_revision": 21,
+    "induction": 388,
+    "hold": 180,
+    "meta_induction": 162,
+    "manual_parity_audit": 54,
+    "depth_backfill": 89
+  },
+  "processed_records": 7605,
+  "pending_raw": 0,
+  "prepared_cases": 1671,
+  "prepared_completed_cases": 1663,
+  "prepared_completed_operational_groups": 497,
+  "legacy_completed_analyses": 25,
+  "review_counts": {
+    "code_reviews_01.jsonl": 21,
+    "code_reviews_02.jsonl": 21
+  },
+  "all_completed_analyses": 1730,
+  "identity_resolved_groups": 497,
+  "eligible_groups": 495,
+  "identity_resolved_completed_questions": 1669,
+  "repeated_completed_analyses": 61,
+  "by_exam": {
+    "KICE": {
+      "groups": 182,
+      "questions": 738,
+      "eligible_questions": 736
+    },
+    "LEET": {
+      "groups": 201,
+      "questions": 599,
+      "eligible_questions": 599
+    },
+    "MEET": {
+      "groups": 112,
+      "questions": 332,
+      "eligible_questions": 332
+    }
+  },
+  "identity_limit": "본문 정규화 일치/저장ID와 본문 0.96 이상 일치의 연결 집합. 시험지 이미지 전수 대조에 의한 출제 이력 확정은 아님. 식별자 충돌과 unresolved source를 별도 보존.",
+  "holds": {
+    "G024": [
+      "DR",
+      "DS",
+      "DT",
+      "DU"
+    ],
+    "G370": [
+      "BAP",
+      "BAQ",
+      "BAR",
+      "BAS"
+    ]
+  },
+  "complete_view_files": 178,
+  "held_linked_completed_questions": 2,
+  "eligible_completed_unique_questions": 1667,
+  "completion_definition": "prepared는 consumed_sdss, 초기03/04는 단계 완성 문서·원장,01/02는 single_analyst_reviewed. 독립 절차와 추가 검수의 완료 범위는 구별."
+}

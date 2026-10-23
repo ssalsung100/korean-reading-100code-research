@@ -1,0 +1,134 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "ARO": [
+      {
+        "line": 4246,
+        "record_id": "ARO-independent_code-20260927-01",
+        "case": "ARO",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G293",
+          "primary": [
+            81
+          ],
+          "auxiliary": [
+            17,
+            75
+          ],
+          "surface": [
+            5
+          ],
+          "decisive_operation": "각 이론이 궁극적 실재로 인정하는 대상을 보존하여 장을 입자로 환원하는④의 혼합을 배제한다.",
+          "competing_codes": [
+            {
+              "code": 75,
+              "rebuttal": "이론별 견해 귀속의 과업과 중첩되나 결정 내용은 무엇이 물리적 실재인가라는81의 대상이다."
+            },
+            {
+              "code": 5,
+              "rebuttal": "이론 변화의 시간 흐름은 배경이며 단순 선후보다 후기 맥스웰의 실재 내용이 정답을 가른다."
+            },
+            {
+              "code": 40,
+              "rebuttal": "세계가 무엇으로 이루어진다는 표면은 있으나 장과 입자의 구성 비율을 묻기보다 실재의 환원 여부를 판정한다."
+            }
+          ],
+          "boundary_note": "맥스웰이 초기에 사용한 역학적 모형과 후기 궁극 장 개념을 구분한다.① 매질은 기계적 모형을 끝까지 고수한다는 뜻으로 확대하지 않는다.",
+          "confidence": 0.92,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ARQ": [
+      {
+        "line": 4248,
+        "record_id": "ARQ-independent_code-20260927-01",
+        "case": "ARQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G293",
+          "primary": [
+            25
+          ],
+          "auxiliary": [
+            69,
+            81,
+            46
+          ],
+          "surface": [
+            92
+          ],
+          "decisive_operation": "힘을 받은 연속 절연체의 변위를 용수철 신장과 대응시킨 설명을 연속 매질의 역학적 모형으로 분류한다.",
+          "competing_codes": [
+            {
+              "code": 69,
+              "rebuttal": "용수철과 절연체의 관계 대응이 분류 근거여서 실질 보조다. 최종 과업은 그 설명이 어느 이론적 방식인지 판정하는25다."
+            },
+            {
+              "code": 37,
+              "rebuttal": "주어진 이론과 사례의 대응이라는 관점으로25와 중첩한다. 번호만으로 배타 구분하지 않는다."
+            },
+            {
+              "code": 92,
+              "rebuttal": "용수철 상수와 변위를 말하지만 수치나 계산식은 주어지지 않고 요구되지 않는다."
+            }
+          ],
+          "boundary_note": "역학적이라는 것과 입자론적이라는 것은 동의어가 아니다. 패러데이 및 초기 맥스웰의 연속 매질 모형은 비입자론적이면서 역학적이다.",
+          "confidence": 0.95,
+          "sdss_seen": false
+        }
+      }
+    ],
+    "ARR": [
+      {
+        "line": 4259,
+        "record_id": "ARR-independent_code-20260927-01",
+        "case": "ARR",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27",
+        "payload": {
+          "passage_group": "G294",
+          "primary": [
+            63
+          ],
+          "auxiliary": [
+            62,
+            80
+          ],
+          "surface": [
+            49,
+            1
+          ],
+          "decisive_operation": "엘니뇨의 빈도·강도 관측이 장기 예측 곤란이라는 주장을 약화할 관련 근거가 되는지 판단한다. 관측된 규모와 예측 메커니즘의 이해는 별개다.",
+          "competing_codes": [
+            {
+              "code": 49,
+              "rebuttal": "더 자주/강하게는 증감 정보지만 그 증가가 예측 용이성 증가와 함께 움직인다는 관계는 제시되지 않는다."
+            },
+            {
+              "code": 80,
+              "rebuttal": "발생 사실을 앎과 미래 발생을 예측하는 지식의 차이가 보조 근거이나 전체는 약화 주장의 타당성 평가다."
+            },
+            {
+              "code": 62,
+              "rebuttal": "관련성 부정을 직접 설명하므로63과 공동 대표 가능. 독립된 이중 행동으로 계수하지 않는다."
+            }
+          ],
+          "boundary_note": "④의 관측 개선은 여러 장애 중 하나의 완화이며 완전 해결의 필요충분조건으로 올리지 않는다.",
+          "confidence": 0.95,
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "검토": "전체 지문·발문·보기·5선지·최초풀이·정답대조·독립판정 직접 확인. ARQ의G293_visual01.png직접확인.",
+  "ARQ_이력": "원hold는자료누락이라했지만후속blind가이미있던visual_supplements경로를놓친열람실수라고정정했다.둘다보존하며이번을새자료복원으로계수하지않음.",
+  "ARO_①": "매질이라는표현은초기역학모형의서술또는뉴턴과대비되는연속적장구도의문맥으로한정하여수용한다.후기맥스웰이기계적물질모형을계속실재로고수했다고읽지않는다.기존scope_limit을현행유보명시.공식④유지.",
+  "ARR": "표면온도/총열량·발생빈도/예측가능성·관측개선/전면해결을구별.⑤는제시된기법의의도판정이며효과의보편보장아님."
+}

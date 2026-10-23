@@ -1,0 +1,14 @@
+{
+  "scope": "이번 작성 또는 감사 배치만 인용·근거 연결 검사; 보호 원장 전수 검사 없음",
+  "case_ids": [
+    "ASW",
+    "ASX",
+    "ASZ",
+    "ATA"
+  ],
+  "questions": 4,
+  "scenes": 4,
+  "options": 20,
+  "errors": [],
+  "pass": true
+}

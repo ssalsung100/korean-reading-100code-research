@@ -1,0 +1,210 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BIN": [
+      {
+        "line": 6246,
+        "record_id": "BIN-independent_code-20261003-01",
+        "case": "BIN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T16:45:30.516987+00:00",
+        "payload": {
+          "passage_group": "G439",
+          "sdss_seen": false,
+          "general_task": "시기별법규의요건을새사례에적용",
+          "decisive_relation": "개정규정에없는나이·형편예외를추가하지않으며중매절차와재가조건을분리",
+          "primary": {
+            "code": 12,
+            "scope": "④및②③",
+            "reason": "규정의적용요건을그시기대로지키고원문에없는조건을추가하지않는다."
+          },
+          "auxiliary": [
+            {
+              "code": 3,
+              "reason": "구법적용반사실과개정후제재를구별."
+            },
+            {
+              "code": 17,
+              "scope": "①⑤",
+              "reason": "혼인절차위반과재가자체,여성본인과자손제재,재가상대남성을각각구분."
+            },
+            {
+              "code": 24,
+              "scope": "④",
+              "reason": "정상참작예외를개정법에그대로남아있다고간주하지않음."
+            },
+            {
+              "code": 37,
+              "reason": "목씨사례의두번째혼인·오빠중매를법요건에대응."
+            }
+          ],
+          "surface": [
+            {
+              "code": 78,
+              "reason": "목씨가어떤개인동기로재가했는지는사례의명시된요건적용과별개."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 10,
+              "verdict": "국소중첩",
+              "refutation": "요건의필요성을읽는관점은12와겹치며별개논리식으로강제분리하지않는다."
+            },
+            {
+              "code": 79,
+              "verdict": "직접규범보조",
+              "refutation": "법상허용·금지를다루지만정답을결정하는실제행동은시기별적용조건복원이다."
+            },
+            {
+              "code": 54,
+              "verdict": "주기각",
+              "refutation": "명시자손자격제재를여성본인의구체적형벌결과로충분결정해서는안된다."
+            }
+          ],
+          "counterfactual": "목씨가오빠중매없이혼인했다면①의조씨와같은죄목배제근거가사라진다.그러나중매가있다는것이개정후자손의과거응시금지를제거하지는않는다.",
+          "unresolved": "수정대전인용은자손의관직자격제재를명시한다.④의유죄라는선지표현에서여성본인처벌의종류·정도를추론하지않는다.",
+          "confidence": 0.97
+        }
+      }
+    ],
+    "BIP": [
+      {
+        "line": 6258,
+        "record_id": "BIP-independent_code-20261003-01",
+        "case": "BIP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T16:51:36.828691+00:00",
+        "payload": {
+          "passage_group": "G440",
+          "sdss_seen": false,
+          "general_task": "새로움비판을뒷받침하는사실의관련성평가",
+          "decisive_relation": "과거존재라는시간조건뿐아니라그현상이비판대상특징과일치해야함",
+          "primary": {
+            "code": 62,
+            "scope": "④",
+            "reason": "국가총력전의과거존재는새로운전쟁특징의과거존재라는결론과직접관련되지않는다."
+          },
+          "auxiliary": [
+            {
+              "code": 63,
+              "scope": "①②③⑤",
+              "reason": "관련된과거사례는새로움주장을약화하고비판자를지지."
+            },
+            {
+              "code": 36,
+              "reason": "새로등장했다는일반화에과거의동일현상을반례로제시."
+            },
+            {
+              "code": 64,
+              "scope": "④",
+              "reason": "비판하는범위에포함된특징인지제한."
+            },
+            {
+              "code": 3,
+              "reason": "현재주장된신규성에대해과거존재를대조."
+            }
+          ],
+          "surface": [
+            {
+              "code": 77,
+              "reason": "선택적표본에대한일반화비판도본문에있지만④배제의직접이유는근거의관련성이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 73,
+              "verdict": "국소강화후보",
+              "refutation": "새로움의전제를부정하는것으로도읽히지만④는그전제를직접부정하지못한다는관련성차이를확인해야한다."
+            },
+            {
+              "code": 75,
+              "verdict": "배경",
+              "refutation": "비판자의입장을귀속한후에도각사례와그주장사이연결을추가평가해야한다."
+            },
+            {
+              "code": 91,
+              "verdict": "기각",
+              "refutation": "과거빈도와현대빈도의정확한비율자료가없고이를계산할필요도없다."
+            }
+          ],
+          "counterfactual": "④가국가총력전이아니라전투원/민간인구분이없는과거사례를제시했다면비판표적특징과연결되어관련성이생긴다.옛날이라는시간표지만으로는충분하지않다.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BIQ": [
+      {
+        "line": 6259,
+        "record_id": "BIQ-independent_code-20261003-01",
+        "case": "BIQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T16:52:20.853564+00:00",
+        "payload": {
+          "passage_group": "G440",
+          "sdss_seen": false,
+          "general_task": "서로다른공동체입장의국소공통점·차이비교",
+          "decisive_relation": "정체성차별배제와기존국가관점전환이라는두축에서공통점확인",
+          "primary": {
+            "code": 75,
+            "scope": "전체",
+            "reason": "[A]·(가)·(나)·(다)의차별·문화·국가·헌정질서에대한견해를정확히귀속."
+          },
+          "auxiliary": [
+            {
+              "code": 23,
+              "scope": "④",
+              "reason": "두쌍에서각기다른공통요소를찾음.전체입장의동일성을주장하지않는다."
+            },
+            {
+              "code": 39,
+              "reason": "같은비교축에서공통과차이를판별."
+            },
+            {
+              "code": 4,
+              "scope": "①③⑤",
+              "reason": "특정윤리나지배문화와의결합거부를모든윤리차이불용으로,헌정원리존중을모든현상질서유지로확대하지않음."
+            }
+          ],
+          "surface": [
+            {
+              "code": 79,
+              "reason": "규범적주장이소재이나어느규범이도덕적으로옳은지평가하는것이아님."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 74,
+              "verdict": "통합군유지",
+              "refutation": "규범적입장이므로75만이라는배타기준은쓰지않는다.현재는가설결과예측보다명시견해귀속이다."
+            },
+            {
+              "code": 13,
+              "verdict": "국소보조",
+              "refutation": "②⑤의양립불가를찾을수있지만정답④는국소교집합을확인하는경로다."
+            },
+            {
+              "code": 63,
+              "verdict": "주기각",
+              "refutation": "어느입장이더설득력있는지새증거로평가하지않는다."
+            }
+          ],
+          "counterfactual": "(가)의적대에도지속되는환대라는더강한조건을[A]에추가귀속하면원문근거가없다.④는차별배제라는한정된공통점만진술하여가능하다.",
+          "source_restoration": {
+            "source": "자료/LEET_언어이해/HWP_홀수형_페이지_렌더링/2017/page_012.png",
+            "supplement": "data/기본기_연구/prepared_backlog/blind_sources/BIQ_range_restoration.md",
+            "verified_by_primary_visual_read": true,
+            "timing": "전체blind·공식답대조후SDSS전",
+            "finding": "[A]는하지만이는부터마지막확장되어야한다까지최종문단전체.최초추정과일치.",
+            "original_blind_preserved": true
+          },
+          "confidence": 0.98
+        }
+      }
+    ]
+  },
+  "보기": "G439_visual01 및G440_visual01 전체 확인",
+  "범위이력": "BIQ_range_restoration.md와 기존 독립판정의 공식2017 12쪽 판독 기록을 승계.[A]최종문단은 이전 단계에서 해소됐으며 이번 신규 해소 아님.이번에 공식 이미지를 다시 판독했다고 주장하지 않음."
+}

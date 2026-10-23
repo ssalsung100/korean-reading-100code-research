@@ -1,0 +1,40 @@
+{
+  "scope": "이번619~646의저장ID·계수·선지수와각author의인용구간검증결과를확인. 전체원장SHA검증아님.",
+  "questions": 28,
+  "scenes": 36,
+  "options": 140,
+  "duplicate_questions": [],
+  "duplicate_scene_ids": [],
+  "author_validations": [
+    "author_016g_validation.json",
+    "author_016h_validation.json",
+    "author_016i_validation.json",
+    "author_016j_validation.json",
+    "author_016k_validation.json",
+    "author_016l_validation.json",
+    "author_016m_validation.json",
+    "author_017a_validation.json",
+    "author_017b_validation.json"
+  ],
+  "all_author_validations_passed": true,
+  "sample_audit": {
+    "batch": 16,
+    "questions": 18,
+    "scenes": 27,
+    "options": 90,
+    "validation": "audit_016_validation.json"
+  },
+  "partial_save_recovery": {
+    "author": "author_016k.py",
+    "already_saved": [
+      "BEQ",
+      "BET"
+    ],
+    "recovered_only": [
+      "BEU"
+    ],
+    "script": "recover_016k.py",
+    "duplicates": 0
+  },
+  "pass": true
+}

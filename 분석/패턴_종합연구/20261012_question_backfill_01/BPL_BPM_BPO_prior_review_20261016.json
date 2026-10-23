@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BPL": [
+      {
+        "line": 7094,
+        "case": "BPL",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G500",
+          "minimal_logic_without_codes": "유권자와 집권자 모두 선택에 따른 여러 효용과 손실을 비교하는 상황에 놓일 수 있다는 공통점을 읽는다.",
+          "primary": [
+            {
+              "code": 88,
+              "reason": "각 행위자가 얻는 이익과 감수하는 손실의 비교가 전략적 선택의 내용이다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 39,
+              "reason": "다른 역할의 행위자를 득실 비교라는 같은 축에서 비교한다."
+            },
+            {
+              "code": 75,
+              "reason": "민주주의의 내재적 가치와 도구적 교체 능력이라는 모델별 가정을 구분한다."
+            },
+            {
+              "code": 17,
+              "reason": "높은 매력의 집권자와 도전자, 지지 속 퇴행과 반대 속 퇴행을 바꾸지 않는다."
+            },
+            {
+              "code": 2,
+              "reason": "선택 상황에 직면할 수 있다는 가능성이지 모든 상황의 동일 선택을 뜻하지 않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 91,
+              "reason": "첫 모델의 이념 거리 관계는 있지만②의 공통 요약에 정확 비례 계산이 필요하지 않다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 79,
+              "rejection": "민주적 가치가 소재여도 독자가 새로운 정치적 당위를 제안하는 것이 아니라 모델의 선택 구조를 읽는다."
+            },
+            {
+              "code": 4,
+              "rejection": "모든 모델에 내재적 가치를 공통 가정으로 확대하면 두번째 모델을 왜곡한다."
+            },
+            {
+              "code": 90,
+              "rejection": "선택 대안이 여럿이라는 것과 가능한 경우의 수를 계산하는 것은 다르다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_seen": false
+        },
+        "record_id": "BPL-independent_code-20261004-01",
+        "timestamp": "2026-10-03T15:11:42.045959+00:00",
+        "status": "done"
+      }
+    ],
+    "BPM": [
+      {
+        "line": 7095,
+        "case": "BPM",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G500",
+          "minimal_logic_without_codes": "첫 모델의 이념/민주주의 효용과 두번째 모델의 현재 정부 매력/미래 교체 능력을 각각 짝지어③을 수용한다.",
+          "primary": [
+            {
+              "code": 88,
+              "reason": "각 모델에서 교환되는 효용 두 항의 내용을 정확히 유지한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 39,
+              "reason": "두 모델을 유권자의 비교 기준이라는 공통 축에서 비교한다."
+            },
+            {
+              "code": 17,
+              "reason": "현재 집권자·미래 도전자와 이념·매력·프리미엄의 역할을 교환하지 않는다."
+            },
+            {
+              "code": 3,
+              "reason": "현재 정부의 질과 미래 교체 가능성이라는 시점을 나눈다."
+            },
+            {
+              "code": 75,
+              "reason": "모델별 가정을 한쪽의 계산 구조로 통일하지 않는다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "득표와 감표의 차이라는 표현은 있지만③의 비교는 수치 계산이 아니다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 85,
+              "rejection": "효용 사이의 트레이드오프가 있다고 합이나 곱이 일정한 수학식이 주어진 것은 아니다."
+            },
+            {
+              "code": 53,
+              "rejection": "두 모델의 차이가 관측 차이를 설명한다는 실험 검증을 하는 것이 아니라 가정된 선택 항을 대응한다."
+            },
+            {
+              "code": 70,
+              "rejection": "동시에 모두 최대로 얻기 어려운 선택 구조는 있지만 논리적으로 두 대안만이 가능하며 반드시 하나를 포기해야 한다는 형식 딜레마를 새로 부여하지 않는다."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_seen": false
+        },
+        "record_id": "BPM-independent_code-20261004-01",
+        "timestamp": "2026-10-03T15:12:06.418666+00:00",
+        "status": "done"
+      }
+    ],
+    "BPO": [
+      {
+        "line": 7112,
+        "case": "BPO",
+        "stage": "independent_code",
+        "payload": {
+          "passage_group": "G501",
+          "minimal_logic_without_codes": "선발 방식과 평가 범위를 바꾸려 해도 인재를 등용해 교화와 통치를 돕는 기존 목적은 공유한다.",
+          "primary": [
+            {
+              "code": 44,
+              "reason": "같은 인재 등용 목적과 서로 다른 선발 수단을 구분한다."
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 19,
+              "reason": "현량과는 기존 과거가 놓치는 덕행 등을 보완하려는 제도다."
+            },
+            {
+              "code": 17,
+              "reason": "생원·진사의 응시 자격과 문과 최종 합격의 관직 자격을 나눈다."
+            },
+            {
+              "code": 4,
+              "reason": "누구나 응시할 수 있다는 표현에 붙은 노비 제외 범위를 유지한다."
+            }
+          ],
+          "surface": [
+            {
+              "code": 46,
+              "reason": "현량과가 실제로 어떤 정치 효과를 냈는지는 있지만①은 표방 목적의 비교다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 20,
+              "rejection": "보완 제도가 생겼다고 기존 과거제가 완전히 불필요해졌다는 주장은 없다."
+            },
+            {
+              "code": 58,
+              "rejection": "목적을 공유하는 것을 논증의 동일 전제를 공유한다는 말로 자동 치환하지 않는다."
+            },
+            {
+              "code": 86,
+              "rejection": "합격 인원과 품계가 나오지만①의 판단은 수량 계산이 아니다."
+            }
+          ],
+          "confidence": 0.96,
+          "sdss_seen": false
+        },
+        "record_id": "BPO-independent_code-20261004-01",
+        "timestamp": "2026-10-03T15:24:53.447721+00:00",
+        "status": "done"
+      }
+    ]
+  },
+  "검토": "전체 원문·발문·5선지·기존 최초풀이·정답대조·독립판정 직접 확인. BPL은 기존 별도6행도 직접 확인.",
+  "BPL_별도기록": {
+    "path": "data/기본기_연구/code_reviews_01.jsonl",
+    "line": 6,
+    "record": {
+      "case_id": "BASIC-C04-LEET-2026-odd-Q07",
+      "code_number": 4,
+      "exam_family": "LEET",
+      "year": 2026,
+      "question_number": 7,
+      "local_question_id": "LEET-2026-odd-Q07",
+      "passage_id": "LEET-2026-odd-Q07-09",
+      "source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+      "official_answer": "②",
+      "official_answer_source": "자료/LEET_언어이해/원본/2026/2026_answer_2026_LEET_언어이해_정답표.pdf",
+      "site_code_label": "양화",
+      "site_url": "https://sdss.kr/code/search.asp?KeywordSearch=%EB%AF%BC%EC%A3%BC%EC%A3%BC%EC%9D%98+%ED%87%B4%ED%96%89+%EB%AA%A8%EB%8D%B8",
+      "site_code_search_url": "https://sdss.kr/code/search.asp?CodeName=%EC%96%91%ED%99%94",
+      "passage_structure_codes": [
+        39,
+        88,
+        2
+      ],
+      "primary_solution_codes": [
+        4,
+        39
+      ],
+      "support_codes": [
+        88,
+        2
+      ],
+      "evidence": [
+        {
+          "location": "본문 스볼릭 모델 도입",
+          "quote": "민주주의가치에대해서도내재적으로선호",
+          "source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+          "source_record_id": "LEET-2026-odd-Q07",
+          "quote_normalization": "whitespace_only"
+        },
+        {
+          "location": "본문 루오와쉐보르스키 모델 도입",
+          "quote": "민주주의자체에내재적인가치를부여하지않는경우라도",
+          "source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+          "source_record_id": "LEET-2026-odd-Q07",
+          "quote_normalization": "whitespace_only"
+        }
+      ],
+      "reasoning_steps": [
+        "스볼릭과 두 번째 모델에서 가치의 대상이 같은지 먼저 확인한다.",
+        "정책 이념/민주주의 자체와 현재 정부/미래 교체 역량이라는 서로 다른 비교를 수행한다.",
+        "유권자와 집권자 각각 전략적 선택에 놓일 수 있으므로 ②. 한 모델의 내재적 가치 가정을 두 모델 모두로 넓힌 ①은 탈락한다."
+      ],
+      "distractor_operations": [
+        "① 한 모델의 속성을 모델 전체에 전칭화.",
+        "② 참: 두 행위자 각각에 전략적 선택 가능성 확인.",
+        "③ 중도라는 정도를 이념 반영 부재로 바꿈.",
+        "④ 지지 속 퇴행의 높은 매력을 낮음으로 반전.",
+        "⑤ 누적되는 집권자 프리미엄을 0 수렴으로 반전."
+      ],
+      "nearest_code_boundary": "②의 모두는 두 주체에 대한 양화이고 할 수 있다는 각 주체의 가능성이다. 모든 주체가 매 순간 같은 선택을 한다는 뜻이 아니다.",
+      "site_tag_verdict": "주 코드 수용",
+      "review_status": "single_analyst_reviewed",
+      "site_original_codes": [
+        "양화"
+      ],
+      "site_candidate_id": "CAND-ed3ca6b474154db7",
+      "site_snapshot": {
+        "fetched_at": "2026-09-03T11:19:36+09:00",
+        "catalog_path": "data/sdss_100codes_catalog.json",
+        "raw_path": "data/sdss_code_search_raw/004_양화.html",
+        "current_site_rechecked": false
+      },
+      "site_tag_relation_scope": {
+        "location": "정답②와 오답①",
+        "interpretation": "두 주체 각각의 가능성 및 두 모델의 속성 범위를 구별",
+        "site_intended_scope_confirmed": false
+      },
+      "site_untagged_supplement": false,
+      "passage_source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md",
+      "question_source_path": "자료/LEET_언어이해/텍스트/2026/2026_question_odd.md"
+    }
+  },
+  "BPL_판정이력": "기존 별도판정 주4/39,준비사례 독립판정 주88은 덮어쓰지 않는다. 이번 장면은②의 주체별 득실 비교와①의 내재적/도구적 가치 구별을 각각 보완하며 태그 정답화나 원판정 통일을 하지 않는다. 동일 문항은1회 계수.",
+  "범위": "정치모형은 기출의 주어진 논리만 분석. 실제 선거 조작 전략이나 집단 대상 설득 방안을 제안하지 않음."
+}

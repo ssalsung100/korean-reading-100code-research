@@ -1,0 +1,114 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AOJ": [
+      {
+        "line": 3860,
+        "record_id": "AOJ-independent_code-20260927-01",
+        "case": "AOJ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:47:50.175696+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 25,
+              "reason": "출신집단과진출경로의종류를분류해다양화확인"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 5,
+              "reason": "제도변화과정에서경로추가"
+            },
+            {
+              "code": 17,
+              "reason": "이전/문과/무관/자제의각진출경로귀속"
+            }
+          ],
+          "surface": [
+            {
+              "code": 86,
+              "reason": "다양성의종류증가이지정확비율비교아님"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 91,
+              "refutation": "특정출신진출이시간에따라단조증가한다는관계없음"
+            },
+            {
+              "code": 26,
+              "refutation": "경외분화를완전한인사제도분리로만들면교류원칙과충돌"
+            },
+            {
+              "code": 53,
+              "refutation": "출신배경이다양해져자질이올랐다는순수효과를입증하는문항아님"
+            }
+          ],
+          "counterfactual_probe": "새경로가추가되어도기존경로의선발비중은줄수있다.①의종류다양화와②지속확대,⑤비율균형은독립주장.",
+          "confidence": 0.95,
+          "passage_group": "G264",
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "AOL": [
+      {
+        "line": 3870,
+        "record_id": "AOL-independent_code-20260927-01",
+        "case": "AOL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-27T02:51:14.561578+00:00",
+        "payload": {
+          "primary": [
+            {
+              "code": 43,
+              "reason": "외형변화와변화원인정보,첫부분/전체읽기조건을구별하여실험설계해석"
+            }
+          ],
+          "auxiliary": [
+            {
+              "code": 5,
+              "reason": "환경외형변화와기저본질유지구별"
+            },
+            {
+              "code": 74,
+              "reason": "판단일치여부에대한유사성/설명접근의예측대조"
+            },
+            {
+              "code": 63,
+              "reason": "관측불일치가립스가설을지지"
+            }
+          ],
+          "surface": [
+            {
+              "code": 92,
+              "reason": "평균값은판단차이를확인할뿐복잡계산불필요"
+            }
+          ],
+          "competitors": [
+            {
+              "code": 53,
+              "refutation": "통제/실험차이가단서지만본문은통계적유의성이나완전통제증명을주지않음.가능한영향해석을독점인과로강화금지"
+            },
+            {
+              "code": 13,
+              "refutation": "외형기반과본질기반영향이완전배타적이라고하면④와충돌"
+            },
+            {
+              "code": 36,
+              "refutation": "불일치는유사성만으로판단한다는강한모형을흔들지만모든유사성기여를반박하는것아님"
+            }
+          ],
+          "counterfactual_probe": "A변형을성숙의필연단계로바꾸면동일외형에도본질해석조건이달라진다.B유사성9.5→7.6은본질지식의영향가능성을보이므로유사성은외형만본다는단정불가.",
+          "boundary_status": "43/74/63 설계·대체예측·증거평가의연속단계.기저본질정보와외형의상대영향을배타원인으로읽지않음",
+          "confidence": 0.95,
+          "passage_group": "G265",
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  }
+}

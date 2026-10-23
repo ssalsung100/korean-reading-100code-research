@@ -1,0 +1,155 @@
+{
+  "date": "2026-10-16",
+  "prior_independent": {
+    "BAW": [
+      {
+        "line": 5331,
+        "record_id": "BAW-independent_code-20261001-01",
+        "case": "BAW",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            37
+          ],
+          "auxiliary": [
+            25,
+            17,
+            80
+          ],
+          "surface": [
+            9,
+            81
+          ],
+          "decisive_operation": "네 대상/상태 대응 기준에 구체 사물을 분류한다.현재 시야에 가렸다는 일상적 비가시성을 지성적 대상의 정의로 대체하지 않는다.",
+          "evidence": [
+            "달 반영=영상→상상",
+            "의자=실제 인공물→확신",
+            "씨앗은실물,그린직선은감각도형"
+          ],
+          "competing_codes": [
+            {
+              "code": 80,
+              "rebuttal": "인식 능력과 대상 도식은 내용 구조이자 보조지만 결정적 문항 행동은 개별 예시의 분류 조건 검사다."
+            },
+            {
+              "code": 9,
+              "rebuttal": "서열이 있어도ㄱㄴ 선택에 어느 것이 더 우월한지 비교할 필요는 없다."
+            },
+            {
+              "code": 81,
+              "rebuttal": "존재론이 소재이나 외부 플라톤 이론을 보충하지 않고 지문이 준 대응만 적용한다."
+            }
+          ],
+          "boundary_note": "37/25는 구체 사례 분류와 그 분류 체계라는 국소 중첩 관계.",
+          "confidence": 0.94,
+          "passage_group": "G372",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BAX": [
+      {
+        "line": 5332,
+        "record_id": "BAX-independent_code-20261001-01",
+        "case": "BAX",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            44
+          ],
+          "auxiliary": [
+            17,
+            75,
+            80
+          ],
+          "surface": [
+            9,
+            83
+          ],
+          "decisive_operation": "기하학의 탐구 목표인 도형 자체와 그 논의에 사용하는 감각 도형을 분리한다.수단을 쓴다고 대상이 수단으로 바뀌지 않고 대상이 비감각적이라고 감각 수단을 안 쓰는 것도 아니다.",
+          "evidence": [
+            "기하학자는 눈에 보이는 도형을 이용",
+            "직관은 그 어떤 감각적인 것도 이용 안 함",
+            "④직관의 무감각수단을 기하학에 전이"
+          ],
+          "competing_codes": [
+            {
+              "code": 17,
+              "rebuttal": "직관/추론에 속성을 귀속하는 것으로도 설명되지만 이 문항에서 혼동을 유발하는 구체 관계는 이용 수단과 탐구 목표의 차이이다."
+            },
+            {
+              "code": 75,
+              "rebuttal": "서로 다른 철학자 주장이 대립하는 것이 아니라 하나의 분류 체계 내부 방식 차이를 귀속한다.넓은 견해 귀속 용법은 가능하나 주로 강제하지 않는다."
+            },
+            {
+              "code": 9,
+              "rebuttal": "서열은②의 근거지만 정답④를 결정하는 것은 수단 사용 여부다."
+            },
+            {
+              "code": 80,
+              "rebuttal": "인식 도식 전체를 태그로 쓰는 것은 가능하지만 목표 대상과 수단의 구분을 별도로 보존해야 오류를 설명한다."
+            }
+          ],
+          "boundary_note": "44의 목적은 여기서 탐구가 겨냥하는 목표 대상이라는 국소 기술.모든 대상/수단 구분을 원표44의 확정 범위로 일반화하지 않음.",
+          "confidence": 0.89,
+          "passage_group": "G372",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ],
+    "BAZ": [
+      {
+        "line": 5344,
+        "record_id": "BAZ-independent_code-20261001-01",
+        "case": "BAZ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-01",
+        "payload": {
+          "primary": [
+            100
+          ],
+          "auxiliary": [
+            97,
+            17
+          ],
+          "surface": [
+            96,
+            88
+          ],
+          "decisive_operation": "속담이 놓인 실제 논쟁에 비유의 역할을 대응시킨다.일할 소를 당장 먹음은 공장 기반을 단기 편익과 바꾸는 판단이다.",
+          "evidence": [
+            "㉡직전 나혼자 임대업/800명과 공장 대조",
+            "㉣뒤 앞으로 또 분규라는 반복 우려"
+          ],
+          "competing_codes": [
+            {
+              "code": 96,
+              "rebuttal": "속담이라는 일상 표현이지만 이 문항의 구체 작업은 비유 요소를 해당 문맥의 사태에 대응하는 것이다."
+            },
+            {
+              "code": 97,
+              "rebuttal": "비판하려는 의도 확인은 보조이고 정답②에는 소/하루 먹기/일하기의 대응을 보존해야 한다."
+            },
+            {
+              "code": 88,
+              "rebuttal": "단기 편익과 손실 비교는 비유 내용이지만 비용·편익의 수치나 순효율을 계산하지 않는다."
+            }
+          ],
+          "boundary_note": "상투적 속담 뜻보다 해당 발화 뒤의 설명을 우선한다.낙숫물의 흔한 노력 의미를 여기로 자동 상속하지 않는다.",
+          "confidence": 0.96,
+          "passage_group": "G373",
+          "sdss_seen": false,
+          "code_free_logic_preserved": true
+        }
+      }
+    ]
+  },
+  "검토": "원문·5선지·기존풀이·독립판정직접확인.현재시야와대상범주,탐구대상과논의수단,속담의문맥적기능을구별.기존sealed대조출처를별도정답표독립검증으로격상하지않음."
+}

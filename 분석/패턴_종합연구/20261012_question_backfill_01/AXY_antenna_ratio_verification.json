@@ -1,0 +1,11 @@
+{
+  "status": "원문범위의 수학적 확인·기출 실제 장치 측정 아님",
+  "formula": "L=k*c/f; k in [1/4,1/2]",
+  "common_coefficient_ratio": 2.875,
+  "independent_coefficient_ratio_range": [
+    1.4375,
+    5.75
+  ],
+  "interpretation": "④의약3배는k800=k2300인동일설계비교에서성립. 범위만으로 서로다른k를배제할수없음. 공식③유지.",
+  "official_answer": 3
+}

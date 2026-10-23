@@ -1,0 +1,41 @@
+{
+  "status": "pass",
+  "checks": {
+    "input_files_unchanged": 140,
+    "changed_input_files": [],
+    "unique_passages": 18,
+    "unique_cases": 60,
+    "candidate_rows": 46,
+    "candidate_relations": {
+      "부분 중첩": 22,
+      "하위 유형": 10,
+      "동일 원리": 6,
+      "근거 부족": 3,
+      "별개의 원리": 5
+    },
+    "pairwise_relations": 50,
+    "provisional_new_or_extended_candidates": 11,
+    "casebook_comparisons": 20,
+    "exact_quotes_checked": 198,
+    "schema_examples": 7,
+    "schema_exact_quotes_checked": 30,
+    "schema_validation_scope": "현 스키마 키워드 전부를 처리하는 로컬 검사기. 범용 JSON Schema 엔진의 메타스키마 적합성 인증은 아님.",
+    "prototype_A_choice_support": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "prototype_B_support": "나/다: 모두 일부 결손, 성립수0<1이나 품질80>70. 가/나는 적용 영역 밖.",
+    "broken_local_links": [],
+    "raw_decisions": 14
+  },
+  "errors": [],
+  "limits": [
+    "인용의 문자 일치는 의미상 충분성 보증이 아님",
+    "기출 판단과 창작 시제품의 학생 효과 미검증",
+    "원 배포 지면·공식 답표 신규 전수 대조 없음",
+    "다른 모델·평가자의 의미 검증 없음"
+  ]
+}

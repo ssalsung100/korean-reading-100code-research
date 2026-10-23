@@ -1,0 +1,205 @@
+[
+  {
+    "pattern_id": "P01",
+    "event_id": "E042",
+    "case_id": "AVT",
+    "choice_ids": [
+      1
+    ],
+    "reason": "애정 성분의 근거 부족; 단순 귀속 교환만으로 설명하지 않는다."
+  },
+  {
+    "pattern_id": "P01",
+    "event_id": "E024",
+    "case_id": "OY",
+    "choice_ids": [
+      5
+    ],
+    "reason": "운동의 원인과 방해를 구별하는 추가 관계 판단이 필요하다."
+  },
+  {
+    "pattern_id": "P02",
+    "event_id": "E004",
+    "case_id": "AC",
+    "choice_ids": [
+      2
+    ],
+    "reason": "정의가 두 척도를 연결하므로 무조건 별개 축으로 분리하면 안 된다."
+  },
+  {
+    "pattern_id": "P02",
+    "event_id": "E036",
+    "case_id": "ANW",
+    "choice_ids": [
+      3
+    ],
+    "reason": "기관의 귀속 교환이 핵심이며 동일 주체 안의 판단 축 이동이 아니다."
+  },
+  {
+    "pattern_id": "P03",
+    "event_id": "E012",
+    "case_id": "BJ",
+    "choice_ids": [
+      5
+    ],
+    "reason": "충분한 문턱을 무제한 단조 증가로 바꾸는 것은 관계의 과잉 추정이다."
+  },
+  {
+    "pattern_id": "P03",
+    "event_id": "E017",
+    "case_id": "BZ",
+    "choice_ids": [
+      2
+    ],
+    "reason": "중간 단계에 남은 효과 확인이 핵심이다."
+  },
+  {
+    "pattern_id": "P04",
+    "event_id": "E012",
+    "case_id": "BJ",
+    "choice_ids": [
+      5
+    ],
+    "reason": "유리한 수준·충분한 문턱을 필요조건으로 역전하지 않는다."
+  },
+  {
+    "pattern_id": "P04",
+    "event_id": "E008",
+    "case_id": "AH",
+    "choice_ids": [
+      2
+    ],
+    "reason": "행위 규칙 자체가 주어지지 않아 필요조건 적용 문제로 처리하지 않는다."
+  },
+  {
+    "pattern_id": "P05",
+    "event_id": "E029",
+    "case_id": "ZF",
+    "choice_ids": [
+      3
+    ],
+    "reason": "후보 수로 유보의 원인을 구별한다."
+  },
+  {
+    "pattern_id": "P05",
+    "event_id": "E028",
+    "case_id": "ZE",
+    "choice_ids": [
+      5
+    ],
+    "reason": "절차 설명의 일치 판정이며 어휘 후보를 직접 좁힌 수행 증거가 아니다."
+  },
+  {
+    "pattern_id": "P06",
+    "event_id": "E035",
+    "case_id": "ANV",
+    "choice_ids": [
+      5
+    ],
+    "reason": "해결책이 아닌 과거 사실의 시점이다."
+  },
+  {
+    "pattern_id": "P06",
+    "event_id": "E012",
+    "case_id": "BJ",
+    "choice_ids": [
+      5
+    ],
+    "reason": "강도를 높이면 대책이 항상 좋아진다고 가정할 수 없다."
+  },
+  {
+    "pattern_id": "P07",
+    "event_id": "E032",
+    "case_id": "AJP",
+    "choice_ids": [
+      1
+    ],
+    "reason": "명분/실태를 시간 전환으로 바꾸지 않는다. pilot의 E031 연결을 교정."
+  },
+  {
+    "pattern_id": "P07",
+    "event_id": "E005",
+    "case_id": "AD",
+    "choice_ids": [
+      4,
+      5
+    ],
+    "reason": "동일 계절의 이심률 변화 전후 비교다."
+  },
+  {
+    "pattern_id": "P07",
+    "event_id": "E031",
+    "case_id": "AJP",
+    "choice_ids": [
+      2
+    ],
+    "reason": "규정/실행 구별의 별도 경계로만 보존한다."
+  },
+  {
+    "pattern_id": "S01",
+    "event_id": "E005",
+    "case_id": "AD",
+    "choice_ids": [
+      4,
+      5
+    ],
+    "reason": "주어진 방향 관계의 적용이며 사전값만으로 사후값 차이를 확정하는 문제가 아니다."
+  },
+  {
+    "pattern_id": "S01",
+    "event_id": "E014",
+    "case_id": "BK",
+    "choice_ids": [
+      2
+    ],
+    "reason": "상대적 약함과 전무함의 구별. pilot의 E013 연결을 교정."
+  },
+  {
+    "pattern_id": "S02",
+    "event_id": "E025",
+    "case_id": "OZ",
+    "choice_ids": [
+      2,
+      5
+    ],
+    "reason": "견해 공통점과 진릿값 판단이다. 관측의 설명 판별력은 쟁점이 아니다."
+  },
+  {
+    "pattern_id": "S03",
+    "event_id": "E041",
+    "case_id": "AVS",
+    "choice_ids": [
+      4,
+      5
+    ],
+    "reason": "문학의 지각 주체와 서술 방식 판정은 문단 전개 동사 대조와 다르다."
+  },
+  {
+    "pattern_id": "S04",
+    "event_id": "E009",
+    "case_id": "AI",
+    "choice_ids": [
+      5
+    ],
+    "reason": "사후값 동일 가능성이지 복수 의미 선택 유보가 아니다."
+  },
+  {
+    "pattern_id": "S05",
+    "event_id": "E003",
+    "case_id": "AB",
+    "choice_ids": [
+      4,
+      5
+    ],
+    "reason": "인정 정도와 책임자·반증 단계 구분; 규정 위반과 부재의 구분은 아니다."
+  },
+  {
+    "pattern_id": "S06",
+    "event_id": "E035",
+    "case_id": "ANV",
+    "choice_ids": [
+      5
+    ],
+    "reason": "동일 국가의 명시적 전후 정책 변화이며 집단 동일성의 근거 부재 문제가 아니다."
+  }
+]

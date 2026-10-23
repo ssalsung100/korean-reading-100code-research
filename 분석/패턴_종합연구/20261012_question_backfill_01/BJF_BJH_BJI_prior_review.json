@@ -1,0 +1,203 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BJF": [
+      {
+        "line": 6335,
+        "record_id": "BJF-independent_code-20261003-01",
+        "case": "BJF",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:34:51.590960+00:00",
+        "payload": {
+          "passage_group": "G446",
+          "sdss_seen": false,
+          "general_task": "법해석의공통본질과구분조건확인",
+          "decisive_relation": "의미범위안팎이라는차이에도의미구체화활동이라는본질은공유",
+          "primary": {
+            "code": 23,
+            "scope": "①",
+            "reason": "발견과형성모두법의의미구체화라는동일핵심을가짐."
+          },
+          "auxiliary": [
+            {
+              "code": 16,
+              "reason": "해석이라는개념의활동범위를모든적용으로파악."
+            },
+            {
+              "code": 2,
+              "scope": "③",
+              "reason": "정당화필요와정당화불가능을구분."
+            },
+            {
+              "code": 4,
+              "scope": "④",
+              "reason": "명료한개념의단순적용까지해석범위에포함."
+            }
+          ],
+          "surface": [
+            {
+              "code": 42,
+              "reason": "가능의미범위안팎의구분은있지만그경계자체의분명함을필자가의심한다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 39,
+              "verdict": "국소중첩",
+              "refutation": "같은축에서공통본질을대조한다는행동은23과겹친다.정당화등다른축차이는유지."
+            },
+            {
+              "code": 19,
+              "verdict": "②범위제한주의",
+              "refutation": "흠결보충은일부형성해석의동기이지해석전체의기원으로확대할수없다."
+            },
+            {
+              "code": 75,
+              "verdict": "배경",
+              "refutation": "여러학설이언급되지만문항은필자의해석개념정리를확인한다."
+            }
+          ],
+          "counterfactual": "①를두활동의모든정당화조건도같다고바꾸면본문에서범위밖별도정당화를요구하는구분과맞지않는다.본질공통성의범위를보존한다.",
+          "source_restoration": "해석명칭과발문은BJF_source_restoration.md로답공개전복원.최초sourcehold보존.",
+          "confidence": 0.98
+        }
+      }
+    ],
+    "BJH": [
+      {
+        "line": 6337,
+        "record_id": "BJH-independent_code-20261003-01",
+        "case": "BJH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:36:18.012685+00:00",
+        "payload": {
+          "passage_group": "G446",
+          "sdss_seen": false,
+          "general_task": "동일법해석변화의기준별축소·확장판정",
+          "decisive_relation": "가벌성·적용외연·요건수·자유의서로다른측정대상을고정하여방향비교",
+          "primary": {
+            "code": 15,
+            "scope": "전체",
+            "reason": "같은변화라도무엇을기준으로판정하는지에따라축소와확장의방향이달라진다."
+          },
+          "auxiliary": [
+            {
+              "code": 39,
+              "reason": "각선지에서해당기준의전후상태만비교."
+            },
+            {
+              "code": 4,
+              "scope": "③④",
+              "reason": "언론에서일반시민으로보호대상의외연확대."
+            },
+            {
+              "code": 27,
+              "scope": "⑤대③",
+              "reason": "언론이라는요건제거로내포조건이줄고적용대상은늘어나는관계."
+            },
+            {
+              "code": 49,
+              "scope": "②",
+              "reason": "비처벌대상확대→표현자유제약감소의방향."
+            }
+          ],
+          "surface": [
+            {
+              "code": 1,
+              "reason": "축소확장이양적말처럼보여도정확한인원수계산을요구하지않는다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 12,
+              "verdict": "보조",
+              "refutation": "공익·진실요건의적용은배경이나①~⑤를가르는것은서로다른판단기준의보존이다."
+            },
+            {
+              "code": 85,
+              "verdict": "국소표상만",
+              "refutation": "처벌/비처벌의보완적범위는있으나고정총량비율계산으로요건수·시민자유등모든축을설명할수없다."
+            },
+            {
+              "code": 98,
+              "verdict": "강한보조중첩",
+              "refutation": "무엇의확장인지를복원하는행동은15와겹치지만귀속오류만으로서술해비교기준의다양성을지우지않는다."
+            }
+          ],
+          "counterfactual": "보호규정을처벌규정으로바꾼다면적용대상확대가시민자유제약증가로나타날수있다.현재규정은비처벌이므로같은외연확대라도반대효과다.",
+          "confidence": 0.99
+        }
+      }
+    ],
+    "BJI": [
+      {
+        "line": 6351,
+        "record_id": "BJI-independent_code-20261003-01",
+        "case": "BJI",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T17:47:37.055459+00:00",
+        "payload": {
+          "passage_group": "G447",
+          "sdss_seen": false,
+          "general_task": "발생신호의순서와필수경로추적",
+          "decisive_relation": "상류Y성결정지령부재→후속고환호르몬부재→볼프관퇴화",
+          "primary": {
+            "code": 50,
+            "scope": "④",
+            "reason": "주어진정상발달경로의선행지령이없으면후속유지신호가전달되지않는다."
+          },
+          "auxiliary": [
+            {
+              "code": 46,
+              "reason": "유전자→고환→호르몬→기관발달의인과연쇄."
+            },
+            {
+              "code": 10,
+              "reason": "볼프관발달에적시호르몬신호가필요."
+            },
+            {
+              "code": 3,
+              "scope": "⑤",
+              "reason": "고환형성이항뮐러관신호와뮐러관퇴화보다선행."
+            },
+            {
+              "code": 98,
+              "scope": "②③",
+              "reason": "기관의공통기원과각호르몬분비주체를보존."
+            }
+          ],
+          "surface": [
+            {
+              "code": 26,
+              "reason": "발생모델의두유형이소재이지만정답은전후신호경로에관한것이다."
+            }
+          ],
+          "competing_codes": [
+            {
+              "code": 45,
+              "verdict": "강한보조중첩",
+              "refutation": "조건입력에따른기관출력으로도표상가능하지만④는상류경로부재의후속영향을직접추적한다."
+            },
+            {
+              "code": 47,
+              "verdict": "③국소",
+              "refutation": "두호르몬의공통분비기관을직접상호인과로바꾸지않아야하나정답④의전체경로를대체하지않는다."
+            },
+            {
+              "code": 54,
+              "verdict": "주기각",
+              "refutation": "본문외우회호르몬개입등까지배제한모든현실조건에서의충분결정으로확장하지않는다."
+            }
+          ],
+          "counterfactual": "외부에서적시호르몬을직접공급하는우회경로가추가되면Y지령부재만으로후속기관상태를현재처럼확정할수없다.본문에없는우회는현재판정에삽입하지않는다.",
+          "confidence": 0.98
+        }
+      }
+    ]
+  },
+  "원문": "BJF 인라인 해석과 완전 발문은 기존 답 공개 전 복원 MD 승계. BJH 보기 전체 확인.",
+  "기존설명보완": "BJI 최초 most_attractive_wrong의 앞 호르몬이 뒤 호르몬을 촉진이라는 표현은 실제③의 방향과 맞지 않음. 선지는 뒤에 설명된 테스토스테론→먼저 분비되는 항뮐러관인자를 주장. 정답④는 불변, 최초기록은 보존."
+}

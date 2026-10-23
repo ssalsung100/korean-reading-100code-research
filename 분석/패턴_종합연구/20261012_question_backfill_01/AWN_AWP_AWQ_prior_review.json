@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "AWN": [
+      {
+        "line": 4827,
+        "record_id": "AWN-independent_code-20260928-01",
+        "case": "AWN",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            99,
+            17
+          ],
+          "auxiliary": [
+            93
+          ],
+          "surface": [
+            3
+          ],
+          "decisive_operation": "대용표현의지시범위를범행사실/고백진행방식으로분리.",
+          "competitor_refutations": [
+            {
+              "code": 3,
+              "reason": "앞뒤가까운문장을가리킨다는위치만으로같은지시내용이라할수없다."
+            },
+            {
+              "code": 80,
+              "reason": "범인깨달음은내용이나문항은지시표현의대상차이."
+            },
+            {
+              "code": 78,
+              "reason": "고백의동기와방식의지시대상도구분해야한다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G336",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWP": [
+      {
+        "line": 4829,
+        "record_id": "AWP-independent_code-20260928-01",
+        "case": "AWP",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            37,
+            64
+          ],
+          "auxiliary": [
+            10,
+            17
+          ],
+          "surface": [
+            79,
+            60
+          ],
+          "decisive_operation": "보기의각해석에필요한근거요소가제시장면에존재하는지검사해사랑·양심의고통완화만남긴다.",
+          "competitor_refutations": [
+            {
+              "code": 79,
+              "reason": "보기에윤리·신이등장해도원문에있는지검증해야한다."
+            },
+            {
+              "code": 60,
+              "reason": "작품전체논증의요약보다발췌장면에서확인되는적용범위가핵심."
+            },
+            {
+              "code": 23,
+              "reason": "ⓒ고통요소하나가있다고동기의논리정당화까지연언전체를충족하지않는다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G336",
+          "sdss_seen": false
+        }
+      }
+    ],
+    "AWQ": [
+      {
+        "line": 4840,
+        "record_id": "AWQ-independent_code-20260928-01",
+        "case": "AWQ",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-09-28",
+        "payload": {
+          "primary": [
+            17,
+            46
+          ],
+          "auxiliary": [
+            39,
+            23
+          ],
+          "surface": [
+            49,
+            15
+          ],
+          "decisive_operation": "대기층·물질·생성/파괴경로를고정해프레온의복수효과를확인.",
+          "competitor_refutations": [
+            {
+              "code": 49,
+              "reason": "농도/기온의상관을최대고도동일성으로바꾸면⑤오류."
+            },
+            {
+              "code": 15,
+              "reason": "평가기준선택보다서술된물질별효과귀속이다."
+            },
+            {
+              "code": 13,
+              "reason": "온난화와오존파괴두효과는배타가아니다."
+            }
+          ],
+          "confidence": 0.98,
+          "passage_group": "G337",
+          "sdss_seen": false
+        }
+      }
+    ]
+  },
+  "AWP_view_read": {
+    "path": "data/기본기_연구/prepared_backlog/blind_sources/G336_visual01.md",
+    "method": "기존 보기 전사 전체 직접 열람. 새 원전 이미지 검증 아님.",
+    "option_contents": [
+      "ⓐ 사회적으로 유용한 재물 사용을 위해 무익한 자를 제거하는 태도",
+      "ⓑ 비범인이 대의를 위해 한 행위는 평범인의 판단에 구속되지 않는다는 생각",
+      "ⓒ 살인 동기를 논리적으로 설명하려는 태도의 모순과 정신적 고통 연결",
+      "ⓓ 자신의 행위를 사랑과 양심의 차원에서 대할 때 고통 해결의 길",
+      "ⓔ 신의 섭리에 의존해야만 궁극적 해결 가능"
+    ]
+  }
+}

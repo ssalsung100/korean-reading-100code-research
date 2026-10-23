@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-15",
+  "prior_independent": {
+    "BGH": [
+      {
+        "line": 5979,
+        "record_id": "BGH-independent_code-20261002-r3-01",
+        "case": "BGH",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:42:38.753497+09:00",
+        "payload": {
+          "passage_group": "G419",
+          "general_task": "분급·회수 제도의 의미 추론",
+          "decisive_relation": "직역·나이·생존 자격에 따른 권리 부여와 회수",
+          "primary": [
+            12
+          ],
+          "auxiliary": [
+            15,
+            46
+          ],
+          "surface": [
+            79,
+            3
+          ],
+          "code_rationale": {
+            "12": "직역·생애조건에 따른 분급과 회수",
+            "15": "수급 자격과 사적 계승을 구별",
+            "46": "미회수와 중복수급 폐단의 연결"
+          },
+          "competing_codes": [
+            {
+              "code": 10,
+              "rebuttal": "직역은 필요요건으로 표현되지만 전체는 분급·회수의 조건 적용.독립행동으로 중복계수하지 않음."
+            },
+            {
+              "code": 79,
+              "rebuttal": "규범 내용보다 대상·회수조건의 구조가 결정적."
+            },
+            {
+              "code": 3,
+              "rebuttal": "20세/60세 시간표는 부분 근거일 뿐ㄱ~ㄹ의 전체판정은 자격·관리 의미다."
+            }
+          ],
+          "confidence": 0.91,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BGK": [
+      {
+        "line": 5996,
+        "record_id": "BGK-independent_code-20261002-r3-01",
+        "case": "BGK",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:49:00.110881+09:00",
+        "payload": {
+          "passage_group": "G420",
+          "general_task": "주제와 장르의 속성 비교",
+          "decisive_relation": "주제/양식,개성/저자 직접등장이라는 다른 속성축 보존",
+          "primary": [
+            17
+          ],
+          "auxiliary": [
+            39,
+            14
+          ],
+          "surface": [
+            25,
+            26
+          ],
+          "code_rationale": {
+            "17": "개성이 드러나는 것과 저자가 등장하는 것을 다른 대상으로 처리",
+            "39": "세 장르의 직접등장 여부 비교",
+            "14": "하나의 주제와 다른 장르 양식의 결합이 가능"
+          },
+          "competing_codes": [
+            {
+              "code": 25,
+              "rebuttal": "세분류를 알고도 서로 다른 축을 혼동하면 틀린다.분류형식보다 속성 귀속이 결정적."
+            },
+            {
+              "code": 26,
+              "rebuttal": "세범주가 전체주제를 포섭해도 주제/양식 1대1 배타대응을 뜻하지 않는다."
+            },
+            {
+              "code": 23,
+              "rebuttal": "공통속성 검사로 표현할 수 있지만ㄴ은ⓐ의 직접등장 부정으로 판정 가능."
+            }
+          ],
+          "confidence": 0.95,
+          "sdss_disclosed": false
+        }
+      }
+    ],
+    "BGL": [
+      {
+        "line": 5997,
+        "record_id": "BGL-independent_code-20261002-r3-01",
+        "case": "BGL",
+        "stage": "independent_code",
+        "status": "done",
+        "timestamp": "2026-10-02T10:49:00.229288+09:00",
+        "payload": {
+          "passage_group": "G420",
+          "general_task": "회슬레의 관점에서 논문 형식 허용 판단",
+          "decisive_relation": "논증 정당화라는 목적에 기여하는 수단인지 평가",
+          "primary": [
+            44
+          ],
+          "auxiliary": [
+            15,
+            12
+          ],
+          "surface": [
+            75,
+            79
+          ],
+          "code_rationale": {
+            "44": "대화편의 허용 근거가 논증 정당화 기여",
+            "15": "논문자격 평가 기준을 오락적 생생함과 구별",
+            "12": "정당화에 기여한다면 용인이라는 조건 적용"
+          },
+          "competing_codes": [
+            {
+              "code": 75,
+              "rebuttal": "여러 심사위원 입장을 비교하지 않고 지정된 회슬레 관점만 적용."
+            },
+            {
+              "code": 97,
+              "rebuttal": "발화 의도 추정이 아니라 주어진 학문적 평가 기준 적용."
+            },
+            {
+              "code": 60,
+              "rebuttal": "논증 자체의 타당성을 심사할 실제 내용은 제시되지 않음.그 심사의 목적과 형식관계를 묻는다."
+            }
+          ],
+          "confidence": 0.98,
+          "sdss_disclosed": false
+        }
+      }
+    ]
+  },
+  "views": "G419_visual01.md와G420_visual01/02.md의전체보기직접확인."
+}

@@ -1,0 +1,205 @@
+[
+  {
+    "question_id": "KICE-2018-수능-Q27-32-S030~035-Q27",
+    "passage_id": "KICE-2018-수능-Q27-32-S030~035",
+    "exam_family": "KICE",
+    "academic_year": 2018,
+    "exam_label": "수능",
+    "exam_type": "수능",
+    "month": null,
+    "variant": null,
+    "question_number": 27,
+    "dataset_question_id": "030",
+    "stem": "윗글에 대한 이해로 적절하지 않은 것은?",
+    "choices": [
+      "국내 통화량이 증가하여 유지될 경우 장기에는 실질 통화량이 변하지 않으므로 장기의 환율도 변함이 없을 것이다.",
+      "물가가 신축적인 경우가 경직적인 경우에 비해 국내 통화량 증가에 따른 국내 시장 금리 하락 폭이 작을 것이다.",
+      "물가 경직성에 따른 환율의 오버슈팅은 물가의 조정 속도보다 환율의 조정 속도가 빠르기 때문에 발생하는 것이다.",
+      "환율의 오버슈팅이 발생한 상황에서 외국인 투자 자금이 국내 시장 금리에 민감하게 반응할수록 오버슈팅 정도는 커질 것이다.",
+      "환율의 오버슈팅이 발생한 상황에서 물가 경직성이 클수록 구매력 평가설에 기초한 환율로 수렴되는 데 걸리는 기간이 길어질 것이다."
+    ],
+    "choice_parse_status": "complete",
+    "contains_visual_placeholder": false,
+    "answer": "①",
+    "answer_candidates": {
+      "common": "①"
+    },
+    "official_answer_verified": true,
+    "answer_link_status": "linked",
+    "raw_section_sha256": "605da85a4c6bc39e619072376988218bb64a5179d3d24e5f972c0c19346faa43"
+  },
+  {
+    "question_id": "KICE-2020-수능-Q37-42-S009~014-Q39",
+    "passage_id": "KICE-2020-수능-Q37-42-S009~014",
+    "exam_family": "KICE",
+    "academic_year": 2020,
+    "exam_label": "수능",
+    "exam_type": "수능",
+    "month": null,
+    "variant": null,
+    "question_number": 39,
+    "dataset_question_id": "011",
+    "stem": "BIS 비율에 대한 이해로 가장 적절한 것은?",
+    "choices": [
+      "바젤 I 협약에 따르면, 보유하고 있는 회사채의 신용도가 낮아질 경우 BIS 비율은 낮아지는 경향이 있다.",
+      "바젤 II 협약에 따르면, 각국의 은행들이 준수해야 하는 위험가중자산 대비 자기자본의 최저 비율은 동일하다.",
+      "바젤 II 협약에 따르면, 보유하고 있는 OECD 국가의 국채를 매각한 뒤 이를 회사채에 투자한다면 BIS 비율은 항상 높아진다.",
+      "바젤 II 협약에 따르면, 시장 위험의 경우와 마찬가지로 감독 기관의 승인하에 은행이 선택하여 사용할 수 있는 신용 위험의 측정 방식이 있다.",
+      "바젤 III 협약에 따르면, 위험가중자산 대비 보완자본이 최소 2 %는 되어야 보완된 BIS 비율 규제를 은행이 준수할 수 있다."
+    ],
+    "choice_parse_status": "complete",
+    "contains_visual_placeholder": false,
+    "answer": "④",
+    "answer_candidates": {
+      "common": "④"
+    },
+    "official_answer_verified": true,
+    "answer_link_status": "linked",
+    "raw_section_sha256": "265f135c382d5d4276b35f81de7a8b1efa2efe5a9ff80f1b61726c3e7e15d5e0"
+  },
+  {
+    "question_id": "KICE-2020-수능-Q37-42-S009~014-Q40",
+    "passage_id": "KICE-2020-수능-Q37-42-S009~014",
+    "exam_family": "KICE",
+    "academic_year": 2020,
+    "exam_label": "수능",
+    "exam_type": "수능",
+    "month": null,
+    "variant": null,
+    "question_number": 40,
+    "dataset_question_id": "012",
+    "stem": "윗글을 참고할 때, &lt;보기&gt;에 대한 반응으로 적절하지 않은 것은? [3점]\n\n&lt; 보 기 &gt;\n\n갑 은행이 어느 해 말에 발표한 자기자본 및 위험가중자산은 아래 표와 같다. 갑 은행은 OECD 국가의 국채와 회사채만을 자산으로 보유했으며, 바젤 II 협약의 표준 모형에 따라 BIS 비율을 산출하여 공시하였다. 이때 회사채에 반영된 위험 가중치는 50 %이다. 그 이외의 자본 및 자산은 모두 무시한다.\n\n항목\n\n자기자본\n\n기본자본\n\n보완자본\n\n단기후순위채무\n\n금액\n\n50억 원\n\n20억 원\n\n40억 원\n\n항목\n\n위험 가중치를 반영하여 산출한 위험가중자산\n\n신용 위험에 따른 위험가중자산\n\n시장 위험에 따른 위험가중자산\n\n국채\n\n회사채\n\n금액\n\n300억 원\n\n300억 원\n\n400억 원",
+    "choices": [
+      "갑 은행이 공시한 BIS 비율은 바젤위원회가 제시한 규제 비율을 상회하겠군.",
+      "갑 은행이 보유 중인 회사채의 위험 가중치가 20 %였다면 BIS 비율은 공시된 비율보다 높았겠군.",
+      "갑 은행이 보유 중인 국채의 실제 규모가 회사채의 실제 규모보다 컸다면 위험 가중치는 국채가 회사채보다 낮았겠군.",
+      "갑 은행이 바젤 I 협약의 기준으로 신용 위험에 따른 위험가중자산을 산출한다면 회사채는 600억 원이 되겠군.",
+      "갑 은행이 위험가중자산의 변동 없이 보완자본을 10억 원 증액한다면 바젤 III 협약에서 보완된 기준을 충족할 수 있겠군."
+    ],
+    "choice_parse_status": "complete",
+    "contains_visual_placeholder": false,
+    "answer": "⑤",
+    "answer_candidates": {
+      "common": "⑤"
+    },
+    "official_answer_verified": true,
+    "answer_link_status": "linked",
+    "raw_section_sha256": "7e0c2d1a501c08f6724cc777d3d94f7d4edcb3f37928e917826fab711f14cc7b"
+  },
+  {
+    "question_id": "KICE-2022-9월_모평-Q14-17-S062~065-Q16",
+    "passage_id": "KICE-2022-9월_모평-Q14-17-S062~065",
+    "exam_family": "KICE",
+    "academic_year": 2022,
+    "exam_label": "9월 모평",
+    "exam_type": "수능 모의평가",
+    "month": "9월",
+    "variant": null,
+    "question_number": 16,
+    "dataset_question_id": "064",
+    "stem": "윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 않은 것은? [3점]\n\n&lt; 보 기 &gt;\n\n동작 추적 센서의 하나인 키넥트 센서는 적외선 카메라와 RGB 카메라 등으로 구성된다. 적외선 카메라는 광원에서 발산된 적외선이 피사체의 표면에서 반사되어 수신되기까지 걸리는 시간을 측정하여, 피사체의 입체 정보를 포함하는 저해상도 단색 이미지를 제공한다. 반면 RGB 카메라는 피사체의 고해상도 컬러 이미지를 제공한다. 키넥트 센서는 저해상도 입체 이미지를 고해상도 컬러 이미지에 투영하여 사용자가 검출되는 경우, &lt;그림&gt;과 같이 신체 부위에 대응되는 25 개의 연결점을 선으로 이은 3D 골격 이미지를 제공한다.\n\n&lt;그림&gt;",
+    "choices": [
+      "키넥트 센서는 가상 공간에 있는 물체들 간의 거리를 측정하여 입체감을 구현할 수 있다.",
+      "키넥트 센서가 확보한, 사용자의 춤추는 동작 정보를 바탕으로 아바타의 춤추는 동작이 구현될 수 있다.",
+      "키넥트 센서와 관성 측정 센서를 이용하여 사용자의 걷는 자세 및 이동 속도 변화율을 파악할 수 있다.",
+      "연결점의 수와 위치의 제약 때문에 사용자의 골격 이미지로는 사용자의 얼굴 표정 변화를 아바타에게 전달할 수 없다.",
+      "적외선 카메라의 입체 이미지와 RGB 카메라의 컬러 이미지 정보로부터 생성된 골격 이미지가 사용자의 동작 정보를 파악하는 데 사용된다."
+    ],
+    "choice_parse_status": "complete",
+    "contains_visual_placeholder": true,
+    "answer": "①",
+    "answer_candidates": {
+      "common": "①"
+    },
+    "official_answer_verified": true,
+    "answer_link_status": "linked",
+    "raw_section_sha256": "ca1a18a6cd1e8a5f157fe90d15541e92471dbe22e8a78f2861788982ecaa22fe"
+  },
+  {
+    "question_id": "KICE-2023-6월_모평-Q14-17-S001~004-Q14",
+    "passage_id": "KICE-2023-6월_모평-Q14-17-S001~004",
+    "exam_family": "KICE",
+    "academic_year": 2023,
+    "exam_label": "6월 모평",
+    "exam_type": "수능 모의평가",
+    "month": "6월",
+    "variant": null,
+    "question_number": 14,
+    "dataset_question_id": "001",
+    "stem": "윗글에 대한 이해로 적절하지 않은 것은?",
+    "choices": [
+      "실험적 방법에서는 시행집단에서 일어난 평균 임금의 사건 전후 변화를 어떤 사건이 임금에 미친 효과라고 평가한다.",
+      "사람을 표본으로 하거나 사회 문제를 다룰 때에도 실험적 방법을 적용하는 경우가 있다.",
+      "평행추세 가정에서는 특정 사건 이외에는 두 집단의 변화에 차이가 날 이유가 없다고 전제한다.",
+      "스노의 연구에서 시행집단과 비교집단의 콜레라 사망률은 사건 후뿐만 아니라 사건 전에도 차이가 있었을 수 있다.",
+      "스노는 수원이 바뀐 주민들과 바뀌지 않은 주민들 사이에 공기의 차이는 없다고 보았을 것이다."
+    ],
+    "choice_parse_status": "complete",
+    "contains_visual_placeholder": false,
+    "answer": "①",
+    "answer_candidates": {
+      "common": "①"
+    },
+    "official_answer_verified": true,
+    "answer_link_status": "linked",
+    "raw_section_sha256": "fd619e91b8273947c1c8636b12723c23d775a6291530055cfe852d32fbcfb578"
+  },
+  {
+    "question_id": "KICE-2023-6월_모평-Q14-17-S001~004-Q16",
+    "passage_id": "KICE-2023-6월_모평-Q14-17-S001~004",
+    "exam_family": "KICE",
+    "academic_year": 2023,
+    "exam_label": "6월 모평",
+    "exam_type": "수능 모의평가",
+    "month": "6월",
+    "variant": null,
+    "question_number": 16,
+    "dataset_question_id": "003",
+    "stem": "윗글을 바탕으로 &lt;보기&gt;를 이해한 내용으로 적절하지 않은 것은? [3점]\n\n&lt; 보 기 &gt;\n\n아래의 표는 S 국가의 P주와 그에 인접한 Q주에 위치한 식당들을 1992년 1월 초와 12월 말에 조사한 결과의 일부이다. P주는 1992년 4월에 최저임금을 시간당 4 달러에서 5 달러로 올렸고, Q주는 1992년에 최저임금을 올리지 않았다. P주 저임금 식당들은, 최저임금 인상 전에 시간당 4 달러의 임금을 지급했고 최저임금 인상 후에 임금이 상승했다. P주 고임금 식당들은, 최저임금 인상 전에 이미 시간당 5 달러보다 더 높은 임금을 지급했고 최저임금 인상 후에도 임금이 상승하지 않았다. 이때 최저임금 인상에 따른 임금 상승이 고용에 미친 효과를 평가한다고 하자.\n\n집단\n\n평균 피고용인 수(단위 : 명)\n\n사건 전\n\n(A)\n\n사건 후\n\n(B)\n\n변화(B-A)\n\nP주 저임금 식당\n\n19.6\n\n20.9\n\n1.3\n\nP주 고임금 식당\n\n22.3\n\n20.2\n\n-2.1\n\nQ주 식당\n\n23.3\n\n21.2\n\n-2.1",
+    "choices": [
+      "최저임금 인상 후에 시행집단에서 일어난 변화는 1.3 명이다.",
+      "시행집단과 비교집단의 식당들이 종류나 매출액 수준 등의 특성에서 통계적 유사성이 높을수록 평가에 대한 신뢰도가 높아진다.",
+      "비교집단을 Q주 식당들로 택해 이중차분법을 적용하면 시행 집단에서 최저임금 인상에 따른 임금 상승의 고용 효과는 3.4 명 증가로 평가된다.",
+      "비교집단의 변화를, P주 고임금 식당들의 1992년 1년간 변화로 파악할 경우보다 시행집단의 1991년 1년간 변화로 파악할 경우에 더 신뢰할 만한 평가를 얻는다.",
+      "비교집단을 Q주 식당들로 택하든 P주 고임금 식당들로 택하든 비교집단에서 일어난 변화가 동일하다는 사실은 평행추세 가정의 충족에 대한 신뢰도를 높인다."
+    ],
+    "choice_parse_status": "complete",
+    "contains_visual_placeholder": false,
+    "answer": "④",
+    "answer_candidates": {
+      "common": "④"
+    },
+    "official_answer_verified": true,
+    "answer_link_status": "linked",
+    "raw_section_sha256": "fd18f9f742e5ccd09c27aadd039d199b1e2d70186c90bbba6e54dc25c0cbea3c"
+  },
+  {
+    "question_id": "KICE-2023-6월_모평-Q14-17-S001~004-Q17",
+    "passage_id": "KICE-2023-6월_모평-Q14-17-S001~004",
+    "exam_family": "KICE",
+    "academic_year": 2023,
+    "exam_label": "6월 모평",
+    "exam_type": "수능 모의평가",
+    "month": "6월",
+    "variant": null,
+    "question_number": 17,
+    "dataset_question_id": "004",
+    "stem": "문맥상 ⓐ～ⓔ의 단어와 가장 가까운 의미로 쓰인 것은?",
+    "choices": [
+      "ⓐ : 그 사건의 전말이 모두 오늘 신문에 났다.",
+      "ⓑ : 산에 가려다가 생각을 바꿔 바다로 갔다.",
+      "ⓒ : 기상청에서 전국에 건조 주의보를 내렸다.",
+      "ⓓ : 회원들이 회칙 개정을 요구하는 목소리를 높였다.",
+      "ⓔ : 하고 싶은 말은 많지만 오늘은 이만 줄입니다."
+    ],
+    "choice_parse_status": "complete",
+    "contains_visual_placeholder": false,
+    "answer": "②",
+    "answer_candidates": {
+      "common": "②"
+    },
+    "official_answer_verified": true,
+    "answer_link_status": "linked",
+    "raw_section_sha256": "6ef17d75f87af7e41f42568371ec3f678bfd0d36e1428425187b41717de24ff9"
+  }
+]
